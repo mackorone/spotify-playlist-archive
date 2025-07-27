@@ -4,7 +4,7 @@
 
 > New music by Eslabon Armado, Eladio Carrion & Omar Courtz, De La Rose LATIN MAFIA & Omar Apollo and more! Updates every Friday.
 
-10,113 songs - 21 day 23 hr 25 min
+10,113 songs - 21 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10022,7 +10022,7 @@
 | [Young Flex](https://open.spotify.com/track/2C4f6LeM7Io332EuMbDGIT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Young Flex](https://open.spotify.com/album/5Y2GbPfqARt1tXJ5O7ZWUR) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2024-01-20 |
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-08-09 | 2024-08-17 |
-| [YOUNG WARRIOR](https://open.spotify.com/track/180CtbTt7udWkR6zILqAgr) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [TONATIUH](https://open.spotify.com/album/3XxbmX97e1dvGbNY4FpZ2C) | 3:16 | 2025-07-25 |  |
+| [YOUNG WARRIOR](https://open.spotify.com/track/180CtbTt7udWkR6zILqAgr) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [TONATIUH](https://open.spotify.com/album/3XxbmX97e1dvGbNY4FpZ2C) | 3:39 | 2025-07-25 |  |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-14 | 2025-02-22 |
 | [YUMMi ‹𝟹](https://open.spotify.com/track/6AAXDBDExlkCAdJAZiOCfL) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [YUMMi ‹𝟹](https://open.spotify.com/album/105S0cR3xG70Z9xb5c4kZ0) | 2:33 | 2025-07-18 | 2025-07-26 |
 | [Yun Yun](https://open.spotify.com/track/4NU77eYNM3OxUZ0iUmUjBI) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Del Cibao](https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG) | 2:50 | 2022-07-22 | 2022-07-30 |

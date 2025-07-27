@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lola Young,  Drake & Central Cee, sombr, Luke Combs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,419,118 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,419,327 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 90 | [Calm 3](https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Calm 3](https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr) | 1:50 |
 | 91 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 92 | [hit of the highlife](https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Luke Roberts](https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb) | [Classic Love \(ep\)](https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j) | 6:03 |
-| 93 | [BAD NIGHT \- KARMA](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
+| 93 | [BAD NIGHT \(KARMA\)](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
 | 94 | [What You Can’t Have](https://open.spotify.com/track/3jmDuSgKsIbfmaHhwBf42D) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:15 |
 | 95 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 96 | [My Heart \(Is Full Of Love\)](https://open.spotify.com/track/1eRJrKnLTiEypVEhN9fRPJ) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Union](https://open.spotify.com/album/0cTaflAQAHx4Z0ZmtchnvY) | 3:11 |

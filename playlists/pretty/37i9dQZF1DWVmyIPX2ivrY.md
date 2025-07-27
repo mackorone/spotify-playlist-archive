@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 
 > Relaxing classical music to soothe your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,316 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,358 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 | 20 | [Enfantillages pittoresques: II\. Berceuse](https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 2/2](https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex) | 1:17 |
 | 21 | [Aria de la Pastorale en ut mineur BWV 590](https://open.spotify.com/track/2Dt58ytXNrRFtMz3rODSkX) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud: Baroque](https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn) | 2:36 |
 | 22 | [Berceuse \(Arr\. For viola and piano\)](https://open.spotify.com/track/6tWg05l8fgCms52XX9qI2C) | [Frank Bridge](https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c), [Enikő Magyar](https://open.spotify.com/artist/5ofQKCICPwvadwzRKWYqwe), [Tadashi Imai](https://open.spotify.com/artist/32s7vjlyqSCLwqDvqkkTuw) | [The English Viola](https://open.spotify.com/album/5L28fof2nWQNBwMmDvxtDA) | 3:34 |
-| 23 | [Lyric Pieces, Book 9, Op\. 68: Badnlat \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Lyric Pieces, Books 8 \- 10, Opp\. 65, 68, and 71](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |
+| 23 | [Lyric Pieces, Book 9, Op\. 68: No\. 5, Bådnlåt \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Piano Music, Vol\. 10](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |
 | 24 | [Kinderszenen, Op\. 15: IV\. Bittendes Kind](https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Memory](https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP) | 0:52 |
 | 25 | [18 Pieces, Op\. 72: No\. 2, Berceuse\. Andante mosso in A\-Flat Major](https://open.spotify.com/track/5abcKGcgJyKniWDH3hMfhK) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Pascal Amoyel](https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv) | [Tchaikovsky: 18 Pieces, Op\. 72: No\. 2, Berceuse\. Andante mosso in A\-Flat Major](https://open.spotify.com/album/5oHuhHIb6bntzdGsFVgd8V) | 6:54 |
 | 26 | [Quintet in A Major for Clarinet and Strings, K\. 581: II\. Larghetto](https://open.spotify.com/track/2OdM7OEeVMcklHMiS47eba) | [Endres Quartet](https://open.spotify.com/artist/4eOCXZ4GoQfyp0z8rq5zJV), [Jost Michaels](https://open.spotify.com/artist/6QcwskkTsVwFWacE1f2ckd) | [Mozart, Schubert, Ravel and Janácek: Chamber Music Selections](https://open.spotify.com/album/7pKLjuPcdXbWPWYPhne2ad) | 7:01 |

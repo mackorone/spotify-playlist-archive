@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15150,
+  "num_followers": 15153,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAABZt6mQr8mqWaE5Hy3iNY5L",
+  "snapshot_id": "aILJAAAAAABCBoZxida2rXgnua4pjQyf",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
       "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+      "duration_ms": 236124,
+      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 236124,
-      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 321800,
+      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
+      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More than Flowers",
         "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 187052,
       "name": "More than Flowers",
       "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321800,
-      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
-      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 285133,
-      "name": "Born Not To Know",
-      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
+      "duration_ms": 346226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 346226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
+      "duration_ms": 285133,
+      "name": "Born Not To Know",
+      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     }
   ],
   "unique_name": "This Is Tony! Toni! Ton\u00e9!",

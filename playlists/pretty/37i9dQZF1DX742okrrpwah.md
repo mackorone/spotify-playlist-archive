@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Guy2Bezbar & Joé Dwèt Filé, Lola Young, Sebastian Ingrosso & Celine Dion au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,826 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,834 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 84 | [Lokita](https://open.spotify.com/track/3uqFrgxRfzTw2FkPLnZbMs) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Lokita](https://open.spotify.com/album/2QsKaRzue0v8DKYjyrNZbJ) | 2:04 |
 | 85 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
 | 86 | [Your Favorite Song](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0) | [APE](https://open.spotify.com/artist/0YL46Muu8yKzyKoDZ4pTSa), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Your Favorite Song](https://open.spotify.com/album/0oOc2kOfi0p8O4EVCNMoqh) | 2:41 |
-| 87 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
+| 87 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
 | 88 | [DEUXIEME BIGO](https://open.spotify.com/track/14vRh9So9udQH4ANAkirFv) | [BLK 140](https://open.spotify.com/artist/0RMBFsaYaOpUJBEv0BZzr0), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DE FORCE OU DE GRÉ](https://open.spotify.com/album/1dhkVjxurWE2qtExPE9veY) | 3:15 |
 | 89 | [Personne d'autre](https://open.spotify.com/track/3BmlEq3vpcEZG5jI7hOPFv) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Personne d'autre](https://open.spotify.com/album/2q9KkZFFuShphSTHgOVFWx) | 2:51 |
 | 90 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 |

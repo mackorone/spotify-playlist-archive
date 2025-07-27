@@ -4,7 +4,7 @@
 
 > 
 
-1,092 songs - 2 day 6 hr 43 min
+1,093 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Goin Back 2 Ella](https://open.spotify.com/track/3VQhU8rnOgfSmtBDW7K9Dg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:51 | 2023-01-25 | 2023-05-09 |
 | [Goin Dummi](https://open.spotify.com/track/6QFzUXTIZXOLesQcgmGOsR) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:41 | 2024-12-11 |  |
 | [Goin' To Hell](https://open.spotify.com/track/3opC4kS9RpbNJw7aORFmGF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Oxy & Codeine](https://open.spotify.com/album/35UOSWUudVMViGWMUXiNQC) | 1:08 | 2022-05-24 | 2023-05-09 |
+| [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 | 2025-07-26 |  |
 | [Gold Shine \(feat\. Three 6 Mafia\)](https://open.spotify.com/track/38rCYQyqFwL2JImdrTpEbe) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 3:55 | 2024-12-15 | 2025-05-21 |
 | [Golden Child!](https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-08-27 | 2023-08-20 |
 | [Golden Lady](https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:58 | 2025-04-14 |  |

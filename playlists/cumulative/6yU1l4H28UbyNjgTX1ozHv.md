@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-292 songs - 14 hr 58 min
+294 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Caribbean Queen \(No More Love On the Run\) \- Acoustic](https://open.spotify.com/track/7oV56aXB66nKU3AhLymIaK) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Caribbean Queen \(No More Love On the Run\) \[Acoustic\]](https://open.spotify.com/album/4B1Wsc2Fyt6li4X0dOR6RQ) | 2:36 | 2022-07-15 | 2022-10-15 |
 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 | 2019-10-13 |  |
 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 | 2019-10-13 |  |
+| [Chasing Cars \- Guitar Version](https://open.spotify.com/track/3MFhuWNDqMlchTcaETCuXE) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Chasing Cars \(Guitar Version\)](https://open.spotify.com/album/560AI7HQ6rO90NIVZqGeWR) | 4:00 | 2025-07-26 |  |
 | [Complicated \- Acoustic](https://open.spotify.com/track/0qUr4Vj5WkpqZtiZoFBZI2) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Complicated \(Acoustic\)](https://open.spotify.com/album/6OZu8Khy4sBZKaKcpEnlPY) | 3:34 | 2023-02-24 |  |
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
@@ -92,6 +93,7 @@
 | [Happy Together \- Acoustic Version](https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Every Season](https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL) | [Happy Together \(Acoustic Version\)](https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL) | 2:46 | 2024-02-16 |  |
 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2019-10-13 |  |
 | [Heal the World \- Acoustic](https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Heal the World \(Acoustic\)](https://open.spotify.com/album/6L1r7oNw89x4Sed9Ebxqnk) | 3:58 | 2020-08-10 | 2023-01-28 |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/5l6blTVNegsBffqbRp85zn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Heaven Is A Place On Earth](https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe) | 2:57 | 2025-07-26 |  |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heaven Is a Place on Earth](https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm) | 3:13 | 2019-10-13 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2019-10-13 |  |
 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA) | 2:24 | 2023-01-27 | 2023-12-14 |
@@ -299,6 +301,6 @@
 | [You're My Best Friend \- Acoustic](https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [You're My Best Friend \(Acoustic\)](https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2) | 2:27 | 2022-09-30 | 2023-01-21 |
 | [You're So Vain \- Acoustic](https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [You're So Vain \(Acoustic\)](https://open.spotify.com/album/431NQmwLYw1PA5fSmTcKD2) | 3:04 | 2022-07-15 | 2023-01-28 |
 | [You're the One That I Want \- Acoustic](https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [You're the One That I Want \(Acoustic\)](https://open.spotify.com/album/5imKUMucWByXmUaOhQt151) | 2:31 | 2023-03-03 | 2024-02-03 |
-| [Young Dumb & Broke](https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP) | [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30), [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Young Dumb & Broke](https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy) | 2:01 | 2023-09-02 |  |
+| [Young Dumb & Broke](https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP) | [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30), [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Young Dumb & Broke](https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy) | 2:01 | 2023-09-02 | 2025-07-27 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

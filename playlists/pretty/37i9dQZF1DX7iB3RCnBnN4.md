@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Watch the latest <a href="spotify:episode:07yBAoYFMezvtfjys48nIr">Billions Club Live Concert Film</a> with Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,012 likes - 1,004 songs - 2 day 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,268 likes - 1,004 songs - 2 day 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

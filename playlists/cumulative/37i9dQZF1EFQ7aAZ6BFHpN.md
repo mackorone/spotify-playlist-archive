@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 17 hr 13 min
+226 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [I Got Rhythm](https://open.spotify.com/track/6si96IiZ4tkzR6F7uNPdLP) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Down In My Soul](https://open.spotify.com/album/00NADdkMFDvEXbjsrYt6m3) | 3:06 | 2024-12-19 |  |
 | [I Like That You Can't Take That Away From Me](https://open.spotify.com/track/0ZsWdOc919i76q32pmlz1r) | [Jae Millz](https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Mashonda](https://open.spotify.com/artist/5SyhqYagv3kA1s7xbI8QGi), [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Take The Lead](https://open.spotify.com/album/5pjfujDJYCQoOZJ87KezQV) | 2:27 | 2024-07-24 |  |
 | [I Love to Rhyme \- 2006 Remaster](https://open.spotify.com/track/1EcYkplHOZ9aN6Pxx56rHZ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Is K\-RA\-ZY For Gershwin](https://open.spotify.com/album/6zIxFzwTRZeWwsI6rd5YOX) | 2:37 | 2024-07-24 |  |
+| [I Love You Porgy \(from Porgy and Bess\)](https://open.spotify.com/track/1OLsRSQOgEj6jMjDaz0cOc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Legendary Best : High Priestess of Soul](https://open.spotify.com/album/0MvMsFq3B3aJiLQVxuAuq0) | 4:17 | 2025-07-26 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/7lUJd9FTYbZgo4jU7qpAel) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [My Way](https://open.spotify.com/album/5i11koayllPJWjgwYtFZtp) | 4:11 | 2024-07-24 | 2025-02-09 |
-| [I Loves You, Porgy \- 2014 \- Remaster](https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone and Her Friends \(Remastered 2014\)](https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ) | 4:08 | 2025-02-08 |  |
+| [I Loves You, Porgy \- 2014 \- Remaster](https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone and Her Friends \(Remastered 2014\)](https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ) | 4:08 | 2025-02-08 | 2025-07-27 |
 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 | 2024-07-24 |  |
 | [I Won't Give up](https://open.spotify.com/track/0vHq82d5mXV1yD619IrbT9) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS), [Atila](https://open.spotify.com/artist/1B7L0r1bwhOGEOuoIg4gaF) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 3:13 | 2025-01-09 | 2025-04-12 |
 | [I'll Build a Stairway to Paradise](https://open.spotify.com/track/3Hezg6pbMg16P0ULWT27Ef) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Shifting Gears](https://open.spotify.com/album/11gcF1PJkyYAf0OoTshk7h) | 3:17 | 2025-06-27 |  |

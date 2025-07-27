@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10062,
+  "num_followers": 10065,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAADxA7XfC4kP4fUAYG4RnPrC",
+  "snapshot_id": "aILJAAAAAAChFw45+NYT1d+gyFO2mqMu",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 46367,
+      "name": "The Wizard And I - Commentary",
+      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Singing You Home - Children's Songs for Family Reunification",
         "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 157966,
       "name": "Si Pudiera Leer Tus Sue\u00f1os",
       "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: The Soundtrack (Commentary)",
-        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 46367,
-      "name": "The Wizard And I - Commentary",
-      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,

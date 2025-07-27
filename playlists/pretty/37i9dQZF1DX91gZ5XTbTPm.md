@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Sada Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,896 likes - 99 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,929 likes - 99 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

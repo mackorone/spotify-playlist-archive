@@ -553,28 +553,6 @@
     },
     {
       "album": {
-        "name": "Marry me",
-        "url": "https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL"
-      },
-      "artists": [
-        {
-          "name": "Gitae",
-          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
-        },
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "date_added": "2025-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267946,
-      "name": "Marry me",
-      "url": "https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe"
-    },
-    {
-      "album": {
         "name": "\ub9c8\ud06c\ud23d \ud504\ub85c\uc81d\ud2b8 Vol. 03",
         "url": "https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj"
       },
@@ -590,6 +568,28 @@
       "duration_ms": 261523,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe"
+    },
+    {
+      "album": {
+        "name": "Marry me",
+        "url": "https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL"
+      },
+      "artists": [
+        {
+          "name": "\uae30\ud0dc",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        },
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Marry me",
+      "url": "https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe"
     },
     {
       "album": {

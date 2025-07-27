@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Chasing Cars (Guitar Version)",
+        "url": "https://open.spotify.com/album/560AI7HQ6rO90NIVZqGeWR"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240168,
+      "name": "Chasing Cars - Guitar Version",
+      "url": "https://open.spotify.com/track/3MFhuWNDqMlchTcaETCuXE"
+    },
+    {
+      "album": {
         "name": "Complicated (Acoustic)",
         "url": "https://open.spotify.com/album/6OZu8Khy4sBZKaKcpEnlPY"
       },
@@ -1566,6 +1584,24 @@
       "duration_ms": 238934,
       "name": "Heal the World - Acoustic",
       "url": "https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb"
+    },
+    {
+      "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177131,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/5l6blTVNegsBffqbRp85zn"
     },
     {
       "album": {
@@ -5422,7 +5458,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 121184,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP"

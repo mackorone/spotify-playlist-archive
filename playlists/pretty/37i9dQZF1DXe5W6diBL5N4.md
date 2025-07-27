@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ZEROBASEONE \(제로베이스원\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,823 likes - 105 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,847 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 31 | [G](https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [G](https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX) | 2:56 |
 | 32 | [summer vacation](https://open.spotify.com/track/2ZWeUrqm5Qhc7rR8YRnxOZ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP) | [summer vacation](https://open.spotify.com/album/7dFvSsggIwQ8YZdOqBUEfJ) | 3:43 |
 | 33 | [Fighting](https://open.spotify.com/track/3GramJRJejUKwSxaah879N) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf), [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Fighting](https://open.spotify.com/album/1srljphnYcHZ7gfO5lTFel) | 3:16 |
-| 34 | [All I Need](https://open.spotify.com/track/4mLgj0pkZnudNYoKvqqojk) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [All I Need](https://open.spotify.com/album/21XIza7luOTdrMCHwZ2ZZk) | 3:01 |
+| 34 | [All I Need](https://open.spotify.com/track/4mLgj0pkZnudNYoKvqqojk) | [sion](https://open.spotify.com/artist/5yxj9pRLggnmnYR3Qqt9z3) | [All I Need](https://open.spotify.com/album/21XIza7luOTdrMCHwZ2ZZk) | 3:01 |
 | 35 | [The World's End](https://open.spotify.com/track/6KbRmwlnyzMfReQCOG9yY3) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [The World's End](https://open.spotify.com/album/56FWG6pCbNWmcGeziMxgqt) | 3:17 |
 | 36 | [Gatsby](https://open.spotify.com/track/38rDIfu9GO3UyaJA3Q1nME) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.4 \(Final\)](https://open.spotify.com/album/12hcmeswdihbmRuEbQ2wHE) | 2:07 |
 | 37 | [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 57 | [Destiny](https://open.spotify.com/track/51vMW1lY96BZpnCgYkA8Ox) | [XION](https://open.spotify.com/artist/3Zw58i23fxJHYfr4Uaqrki) | [풋풋한 로맨스 \(Original Television Soundtrack\) Pt.9](https://open.spotify.com/album/6VPR8h5c8dXPgtZitdACI3) | 4:33 |
 | 58 | [Can i love u?](https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Law and The City, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3kCelYZb943ElkmLIctqol) | 3:26 |
 | 59 | [Zombies in Philadelphia](https://open.spotify.com/track/4QVC3UFYBvWo6fPRUA3Rfp) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Zombies in Philadelphia](https://open.spotify.com/album/08EYVTz0oqSJN8y45Dg0xB) | 2:55 |
-| 60 | [If You See Me](https://open.spotify.com/track/4IAyc72wBwskzwM8QvC93Y) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [If You See Me](https://open.spotify.com/album/3J2VHTuMgoyd1pdtJl4djE) | 3:44 |
+| 60 | [If You See Me](https://open.spotify.com/track/4IAyc72wBwskzwM8QvC93Y) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [If You See Me](https://open.spotify.com/album/3J2VHTuMgoyd1pdtJl4djE) | 3:44 |
 | 61 | [Because of you](https://open.spotify.com/track/4uAtBkorKVfl1PLqzNB7B0) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Because of you](https://open.spotify.com/album/07JN97D5W2DtvYiJ4mgw5d) | 3:15 |
 | 62 | [At the sunlit end of this summer \(Eternal Summer\)](https://open.spotify.com/track/0ARz337eQHsiEqUmlkb6sR) | [Jeong Dong Won](https://open.spotify.com/artist/229KhSrjWsm62jVuSpQsBZ) | [At the sunlit end of this summer \(Eternal Summer\)](https://open.spotify.com/album/72xURZ4Ejm1ccvxsXv3cjx) | 3:38 |
 | 63 | [Pancake](https://open.spotify.com/track/6ihyleBsV36QE0VUW8oFmg) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Pancake](https://open.spotify.com/album/7mLv1HJiSAPj6nLfaWQ7Tn) | 3:00 |

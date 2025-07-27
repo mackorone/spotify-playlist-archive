@@ -423,6 +423,44 @@
     },
     {
       "album": {
+        "name": "El Fiest\u00f3n",
+        "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "El Fiest\u00f3n",
+      "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "album": {
         "name": "El Rey de la Kumbia",
         "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
       },
@@ -1318,7 +1356,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 232000,
       "name": "Soy Cholo",
       "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"

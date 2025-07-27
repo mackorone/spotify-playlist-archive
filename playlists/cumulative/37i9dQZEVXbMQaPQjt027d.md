@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-85 songs - 4 hr 33 min
+86 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq) | 1:49 | 2025-07-19 | 2025-07-23 |
 | [Klinkt Als Weekend](https://open.spotify.com/track/55X2MlGpyiTXboueWO8F1a) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS), [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk) | [Klinkt Als Weekend](https://open.spotify.com/album/6aLz7IYuTamYPSqxQIfTEQ) | 2:01 | 2025-07-22 |  |
 | [Lekker Ding, Dit Is Je Verjaardag](https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0) | [Cadeautje voor jou](https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ) | [Dit Is Je Verjaardag \(Troetelnamen\)](https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN) | 3:12 | 2025-07-21 | 2025-07-23 |
-| [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-07-19 |  |
+| [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-07-19 | 2025-07-27 |
 | [Lotje \- Outsiders' Oldschool Remix](https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje \(Outsiders' Oldschool Remix\)](https://open.spotify.com/album/2qirHPOcr53Tkq3qbZ29Dd) | 2:43 | 2025-07-19 | 2025-07-23 |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-07-19 |  |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-07-23 |  |
@@ -60,6 +60,7 @@
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-07-22 |  |
 | [Nijmegen](https://open.spotify.com/track/35YWP5NPDVTIEdad5086uL) | [Ronnie Ruysdael](https://open.spotify.com/artist/6Cdl2RuPvoTndLTFFAc9xq) | [Nijmegen](https://open.spotify.com/album/6Zo355Yc1ZUd0NeCY1yKpq) | 3:00 | 2025-07-19 | 2025-07-23 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-19 |  |
+| [No Me Dejes](https://open.spotify.com/track/6lXNac8TwtO8TLRetFQtz2) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [The Sound of Puerto Rico](https://open.spotify.com/album/02sCof836HBHO8rj2ZFbem) | 2:29 | 2025-07-26 |  |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2025-07-23 |  |
 | [Now We Are Free](https://open.spotify.com/track/0DhS6FGlJkZEWM2gmjB5dD) | [KOMET](https://open.spotify.com/artist/7ASFmpzSDMUmOw4Ru5PPzr) | [Now We Are Free](https://open.spotify.com/album/2hx91zv2MPmgtAQS8Hxtaa) | 3:20 | 2025-07-23 |  |
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2025-07-24 |  |

@@ -1,13 +1,29 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 941283,
+  "num_followers": 941459,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAABa65w/BrPSAK+TcM/D/bU7",
+  "snapshot_id": "aILJAAAAAADPjG9BvrG82hXNamjGQBC/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "All We Know Is Falling (Deluxe)",
+        "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 246025,
+      "name": "This Circle",
+      "url": "https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk"
+    },
     {
       "added_at": null,
       "album": {

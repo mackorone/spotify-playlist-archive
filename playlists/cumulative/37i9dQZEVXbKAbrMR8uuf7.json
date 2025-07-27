@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 146951,
       "name": "3.5",
       "url": "https://open.spotify.com/track/1a8xrk8ZCV9jOZI6RjRIE0"
@@ -9876,7 +9876,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -16120,7 +16120,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 169411,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
@@ -27060,7 +27060,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 200680,
       "name": "PERFuMITO NUEVO",
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
@@ -28452,6 +28452,28 @@
       "duration_ms": 125147,
       "name": "Prepotente",
       "url": "https://open.spotify.com/track/78NeiKNYjjWvw7VbW6yIvW"
+    },
+    {
+      "album": {
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "album": {
@@ -37868,7 +37890,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 131081,
       "name": "Una Chica Good",
       "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"

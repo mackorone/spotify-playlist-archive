@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-271 songs - 14 hr 9 min
+272 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Spirit Of Capsulanti](https://open.spotify.com/track/3UHo8Z0OeWh8U58JWDGDvl) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:40 | 2024-07-24 |  |
 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 | 2024-07-24 |  |
 | [Sunday in Cicero Falls](https://open.spotify.com/track/5Kjnja1AN7NzSNDrKMBgY0) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 3:20 | 2024-07-24 |  |
-| [T'Morra', T'Morra'](https://open.spotify.com/track/6Q4lBlr8JI3y5kceTTDh83) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [The Music of Harold Arlen: 1955 Walden Sessions](https://open.spotify.com/album/1gO5Wki7OMJns4bYNl1Ch3) | 3:11 | 2024-07-24 |  |
+| [T'Morra', T'Morra'](https://open.spotify.com/track/4IPj993aAIBeMf3t03zaTn) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [The Music of Harold Arlen: 1955 Walden Sessions](https://open.spotify.com/album/1yF63iyp5f94SixeNYXnT1) | 3:11 | 2025-07-26 |  |
+| [T'Morra', T'Morra'](https://open.spotify.com/track/6Q4lBlr8JI3y5kceTTDh83) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [The Music of Harold Arlen: 1955 Walden Sessions](https://open.spotify.com/album/1gO5Wki7OMJns4bYNl1Ch3) | 3:11 | 2024-07-24 | 2025-07-27 |
 | [Take My Hand Paree](https://open.spotify.com/track/780dLsCO313bNS7k9J2Jeg) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [City History](https://open.spotify.com/artist/6yNWNQ9HxFBAOFEHcRQN5Z) | [PARIS CITY HISTORY 1927 \- 1962](https://open.spotify.com/album/3HXPR1gcbyHOJ4zlQBFoQJ) | 2:56 | 2024-07-24 | 2025-04-12 |
 | [Tear It Up](https://open.spotify.com/track/6C3Mrq8np0jWhUSWx4Htrv) | [Austin Chatfield](https://open.spotify.com/artist/3E3abjCWIOaiD7tHPltN6w) | [Tear It Up](https://open.spotify.com/album/1ivGjxidcNEMfA8RdQX4vn) | 3:07 | 2024-07-24 | 2025-04-12 |
 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 | 2024-07-24 |  |

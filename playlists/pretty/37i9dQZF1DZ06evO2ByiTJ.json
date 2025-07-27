@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAAAgvN5RMF5EswouYgE3ViSg",
+  "snapshot_id": "aILJAAAAAADeKSfy0S4QIb/KwB0roEBs",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus te Viu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 230156,
-      "name": "Deus te Viu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samba Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus te Viu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 230156,
+      "name": "Deus te Viu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumpra o Seu Chamado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 266007,
       "name": "Cumpra o Seu Chamado (Ao Vivo)",
       "url": "https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 303020,
-      "name": "\u00daltimos Dias",
-      "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
     },
     {
       "added_at": null,
@@ -499,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
       "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 297679,
-      "name": "Vasos Quebrados",
-      "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+      "duration_ms": 303020,
+      "name": "\u00daltimos Dias",
+      "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
     },
     {
       "added_at": null,
@@ -535,6 +515,26 @@
       "duration_ms": 309150,
       "name": "Muda o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 297679,
+      "name": "Vasos Quebrados",
+      "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bastidores da Alma",
-        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Bastidores da Alma",
-      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Linda Flor",
         "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 215899,
       "name": "Linda Flor",
       "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bastidores da Alma",
+        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Bastidores da Alma",
+      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
     },
     {
       "added_at": null,

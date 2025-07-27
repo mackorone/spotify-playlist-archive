@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,658 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,644 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 32 | [How Could You Leave](https://open.spotify.com/track/4JkWWPrKOfUG5bwGlrm3qr) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [H.Y.B\. Project \#3 \- How Could You Leave](https://open.spotify.com/album/6gilkQOwgtBJJZPyCcQKbE) | 3:23 |
 | 33 | [Yellow Spring](https://open.spotify.com/track/0JyVtfJ6Z8T6VHXG1iD1pE) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Our Unwritten Seoul \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1Ik6DilWLiFqclv5tiJ4T8) | 4:00 |
 | 34 | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/track/5RdBOgpkT7aZcXJWTTQfYx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/album/5vYgBIGxDFNRPn3zMRqQWd) | 5:03 |
-| 35 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 |
+| 35 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 |
 | 36 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 |
 | 37 | [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 |
 | 38 | [Fleeting: Time That Won’t Return](https://open.spotify.com/track/4xQtEwsRpDt1Hw9Xf3Y6GP) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Fleeting: Time That Won’t Return \(Oh My Ghost Clients Original Soundtrack Part.1\)](https://open.spotify.com/album/2VW0gXd0Rp9m83I13T5pMK) | 4:27 |

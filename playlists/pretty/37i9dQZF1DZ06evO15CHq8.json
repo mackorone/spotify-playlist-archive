@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 653669,
+  "num_followers": 653779,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAAAzHcUaNmo3nlIwsvIsG5JI",
+  "snapshot_id": "aILJAAAAAAD1wKnTli5brpq8sFiZa+oj",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I No Longer Fear the Razor Guarding My Heel (II)",
-        "url": "https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 152136,
-      "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
-      "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now the Moon's Rising",
         "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 111020,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel (II)",
+        "url": "https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 152136,
+      "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
+      "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
     },
     {
       "added_at": null,

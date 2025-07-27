@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,282 likes - 134 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,285 likes - 134 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 60 | [End Credits](https://open.spotify.com/track/0XANx8GtPXzDjzQVqsudid) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:51 |
 | 61 | [Fawkes the Phoenix](https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:45 |
 | 62 | [Mom Returns and Finale \(From "Home Alone" Soundtrack\) \- Instrumental](https://open.spotify.com/track/0POVMJA5WaMB8s2oqr72aV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:19 |
-| 63 | [Green: MGM Jubilee Overture](https://open.spotify.com/track/4NQxP4dcbcL2S3EyodC7Xw) | [The John Wilson Orchestra](https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh) | [The Best of The John Wilson Orchestra](https://open.spotify.com/album/3nQRe8JEVCc6H2U9mjrx3T) | 7:45 |
+| 63 | [Green: MGM Jubilee Overture](https://open.spotify.com/track/4NQxP4dcbcL2S3EyodC7Xw) | [The John Wilson Orchestra](https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J), [John Wilson](https://open.spotify.com/artist/6PP3ZNmBQeCM0YV6XxDT5Q) | [The Best of The John Wilson Orchestra](https://open.spotify.com/album/3nQRe8JEVCc6H2U9mjrx3T) | 7:45 |
 | 64 | [Croissants In France](https://open.spotify.com/track/5Mkz30d4nPpwOXcHtbLktQ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 1:07 |
 | 65 | [Buddy And Santa's Flight](https://open.spotify.com/track/3SugvyBst4nBYn5vhJLvHO) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 1:15 |
 | 66 | [Christmas Morning](https://open.spotify.com/track/4lLRXK4jhzWSQZpQY6jpOt) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 4:00 |

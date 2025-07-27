@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,778 likes - 200 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,818 likes - 200 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 25 | [Heat from the Fire \(feat\. A.D.O.R.\)](https://open.spotify.com/track/2fPd5EN5D0hLFzCi9UXvV8) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM) | [Heat from the Fire \(feat\. A.D.O.R.\)](https://open.spotify.com/album/2vcXLI2FKb8GQJAYAcE6Ax) | 3:26 |
 | 26 | [Love Got High \- The Magician Remix](https://open.spotify.com/track/621EBjdaQom5sL13w30RPS) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb) | [Love Got High \(The Magician Remix\)](https://open.spotify.com/album/2KFqEWA3FPAYtqgcbFczfb) | 3:12 |
 | 27 | [Get 2 Know Ya](https://open.spotify.com/track/73gYSdbsGZDOIXpD72VTvZ) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar), [FRASER](https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr) | [Get 2 Know Ya](https://open.spotify.com/album/3xGQXdPTvIFeinoprJWzsu) | 3:04 |
-| 28 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
+| 28 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
 | 29 | [Asteroid \- Aeroplane Remix](https://open.spotify.com/track/252wsIFtFvlVF1AnMlD42j) | [Kate Stein](https://open.spotify.com/artist/743sX5BcG7YJ8f98WjAQBf), [Lord Fascinator](https://open.spotify.com/artist/3FxFcgJT0HTQTofNJINl0z), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu), [Fascinator](https://open.spotify.com/artist/5InXgRczJtxMdxGw4VzDke) | [Asteroid \(Aeroplane Remix\)](https://open.spotify.com/album/2WV0tJY1NB5mJLqmF9e7ms) | 3:30 |
 | 30 | [Motel Love](https://open.spotify.com/track/3kywV5yVk3Ya8zi1RLDLXa) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [FRASER](https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr) | [Motel Love](https://open.spotify.com/album/5b7rlfeRjLMbjyAUnav1KI) | 2:51 |
 | 31 | [U Know How Dis Go](https://open.spotify.com/track/5LXYjNNJFg67NpNXbwJcx2) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [U Know How Dis Go](https://open.spotify.com/album/6OSei4LFBtRTlmXd7pmfOw) | 2:10 |

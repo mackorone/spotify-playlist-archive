@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla, Ayra Starr, Mkeyz, Tyler The Creator and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,837 likes - 97 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,881 likes - 97 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 44 | [Stivovo](https://open.spotify.com/track/1Mf27HPfHbQsb1qGJsKlEI) | [WOODBLOCK DJS](https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ), [Abafana Be Skuta](https://open.spotify.com/artist/1TW5KWrCLiESS3hpojUFJS), [Mzukwase](https://open.spotify.com/artist/7hJT2C6CzrKt28EYjdr72K) | [Stivovo](https://open.spotify.com/album/5g4CJ0YtEOW4bquvEU81Z5) | 6:18 |
 | 45 | [Sweeter Success \(feat\. UPZ\)](https://open.spotify.com/track/0pgqqxOWT20H3MmpcMeKvQ) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp), [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE) | [Z](https://open.spotify.com/album/4yrDnYOP4sALsmC1xVd5sI) | 3:33 |
 | 46 | [show me](https://open.spotify.com/track/3DxVX9TtjMZK7IzCIVEg0b) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [show me](https://open.spotify.com/album/2hY825Aed1U8NoCEmUgQGD) | 3:22 |
-| 47 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:53 |
+| 47 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:51 |
 | 48 | [Normal \(feat\. Snow White, Xylokeyz, Djy Smati & Kaybee Sok\)](https://open.spotify.com/track/0yNYWfKNVdMw5qERGLkCeh) | [Dj Gizo](https://open.spotify.com/artist/0ChHXbMLXNcqNbnsk13mxJ), [Tebogo G Mashego](https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM), [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Snow White](https://open.spotify.com/artist/6W7EZ8AFIlkKJkbcYs3V0z), [Xylokeyz](https://open.spotify.com/artist/0Mw718f0k4SLMwsh39M7po), [Djy Smati](https://open.spotify.com/artist/0pKnsONyVyVT9ckr979oCI), [Kaybee Sok](https://open.spotify.com/artist/7IvAGxAHC74BUPyCqogflJ) | [Asambe Gizara](https://open.spotify.com/album/2YSB8IJIDn1TnSyw1CFr4r) | 6:00 |
 | 49 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 | 50 | [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 |

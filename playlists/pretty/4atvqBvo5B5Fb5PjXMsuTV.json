@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Jul 03:06 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jul 22:05 UTC.",
   "num_followers": 95,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAATh5Gw8UQhvE5lnwig6/PsT7O8mxf5",
+  "snapshot_id": "AAATi4Q5GHtksNIUJmcoJH3sTin8JUMm",
   "tracks": [
+    {
+      "added_at": "2025-07-26 22:05:31",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
     {
       "added_at": "2025-07-25 08:06:23",
       "album": {
@@ -217,6 +233,22 @@
       "url": "https://open.spotify.com/track/7lmgL1nk1sPH8WVjB8cNdo"
     },
     {
+      "added_at": "2025-07-26 13:05:37",
+      "album": {
+        "name": "Burn A Miracle",
+        "url": "https://open.spotify.com/album/68ByfVFthij4nra8xLkKm3"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "duration_ms": 242426,
+      "name": "Burn A Miracle",
+      "url": "https://open.spotify.com/track/2SRywDIltijlQzr7PZOTbj"
+    },
+    {
       "added_at": "2025-07-25 08:06:23",
       "album": {
         "name": "To Be Free",
@@ -297,6 +329,22 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
+      "added_at": "2025-07-26 13:05:37",
+      "album": {
+        "name": "Absent Thereafter",
+        "url": "https://open.spotify.com/album/2Qn8BR0bReIwKizAW2g8FC"
+      },
+      "artists": [
+        {
+          "name": "Between The Buried And Me",
+          "url": "https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9"
+        }
+      ],
+      "duration_ms": 628453,
+      "name": "Absent Thereafter",
+      "url": "https://open.spotify.com/track/3xjqIX68Su8qwAHRpwRMwD"
+    },
+    {
       "added_at": "2025-07-24 08:09:37",
       "album": {
         "name": "White cat",
@@ -361,6 +409,22 @@
       "url": "https://open.spotify.com/track/5CGGdHy8zrVdWJ8RuCkexl"
     },
     {
+      "added_at": "2025-07-26 13:05:37",
+      "album": {
+        "name": "SLAM DUNK",
+        "url": "https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "SLAM DUNK",
+      "url": "https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN"
+    },
+    {
       "added_at": "2025-07-23 13:07:13",
       "album": {
         "name": "LIKE U",
@@ -375,6 +439,26 @@
       "duration_ms": 145371,
       "name": "LIKE U",
       "url": "https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA"
+    },
+    {
+      "added_at": "2025-07-26 13:05:37",
+      "album": {
+        "name": "Rapture in Blue",
+        "url": "https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 253038,
+      "name": "Rapture in Blue",
+      "url": "https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX"
     },
     {
       "added_at": "2025-07-25 08:06:23",
@@ -731,90 +815,6 @@
       "duration_ms": 237592,
       "name": "Breathe onto me",
       "url": "https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh"
-    },
-    {
-      "added_at": "2025-07-18 08:05:34",
-      "album": {
-        "name": "RED GUITAR",
-        "url": "https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 147691,
-      "name": "RED GUITAR",
-      "url": "https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq"
-    },
-    {
-      "added_at": "2025-07-22 18:06:11",
-      "album": {
-        "name": "KURU KURU HARAJUKU",
-        "url": "https://open.spotify.com/album/6ecY6bUbr5ajCf62xRuVvY"
-      },
-      "artists": [
-        {
-          "name": "Kyary Pamyu Pamyu",
-          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
-        }
-      ],
-      "duration_ms": 257820,
-      "name": "KURU KURU HARAJUKU",
-      "url": "https://open.spotify.com/track/1xxDroHAay4TicZmGoo0sU"
-    },
-    {
-      "added_at": "2025-07-18 22:04:58",
-      "album": {
-        "name": "Witness The End",
-        "url": "https://open.spotify.com/album/2a5Btl1VIyyCunyQ9aGzXk"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        },
-        {
-          "name": "Chris Motionless",
-          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Witness The End",
-      "url": "https://open.spotify.com/track/6nUskXqES0NwMOzgdZf8u7"
-    },
-    {
-      "added_at": "2025-07-18 08:05:34",
-      "album": {
-        "name": "Asheville",
-        "url": "https://open.spotify.com/album/2H4P4WK9JJKAe7pRtW1sIa"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 158284,
-      "name": "Asheville",
-      "url": "https://open.spotify.com/track/3kx7vZyN10rNA4hPpfZBGS"
-    },
-    {
-      "added_at": "2025-07-19 03:04:23",
-      "album": {
-        "name": "Echo Sonata",
-        "url": "https://open.spotify.com/album/7y9cbRKISAjs0Rdgnh4EoU"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 268027,
-      "name": "Echo Sonata",
-      "url": "https://open.spotify.com/track/4yOc2McIhLZBZ1hHgASxHl"
     }
   ],
   "unique_name": "New Singles Now",

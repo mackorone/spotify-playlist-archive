@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Danitello & Mirella, Isac Elliot monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,373 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,374 likes - 108 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 101 | [All I've Got Left](https://open.spotify.com/track/0w29Zl1YSGnzDP12c58Cnk) | [AZËE](https://open.spotify.com/artist/2yECmCVXrG3VBfqawyeOaL), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [All I've Got Left](https://open.spotify.com/album/2lxnQs7LzKpiZGWSheYOLz) | 4:00 |
 | 102 | [The Spectrum of Love](https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The Spectrum of Love](https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t) | 3:13 |
 | 103 | [act right](https://open.spotify.com/track/0o0VRiJykYzJZujA06Q3DV) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [act right](https://open.spotify.com/album/3nxlR7JcwZmQjOl80BGAzH) | 2:14 |
-| 104 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
+| 104 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
 | 105 | [Stay](https://open.spotify.com/track/1eKIicT9z74jhWl8jCNBV2) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Stay](https://open.spotify.com/album/2wCCpFEXiLs1crZaFjAfvx) | 2:54 |
 | 106 | [Halinalle](https://open.spotify.com/track/29TAse4lDu0uHXxnjPwqgU) | [Kirkkovene](https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f) | [Halinalle](https://open.spotify.com/album/4GOcX1OGrbkznjCHkfqSZT) | 3:35 |
 | 107 | [FEEL MY POWER](https://open.spotify.com/track/5rd8r4HdpfoePXQ50r36z1) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [FEEL MY POWER](https://open.spotify.com/album/1kf5ynaNgzfJx8hobn9IlW) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,800 likes - 169 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,812 likes - 169 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

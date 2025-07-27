@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15610,
+  "num_followers": 15621,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAAAwgAijHDObkFEh7QiZj5K6",
+  "snapshot_id": "aILJAAAAAAC/FdfnowNH85pN0gqzGPeM",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
+        "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 236434,
+      "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
+      "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
       },
@@ -231,46 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+        "name": "Monterey or Bust, Vol. 2",
+        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
       "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
-        "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
         {
           "name": "Common Kings",
           "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
           "name": "Fiji",
           "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 236434,
-      "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
-      "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
+      "duration_ms": 193400,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
     },
     {
       "added_at": null,
@@ -323,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -347,30 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monterey or Bust, Vol. 2",
-        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 202479,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -467,22 +487,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+      "duration_ms": 268654,
+      "name": "Aye Ok",
+      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
     },
     {
       "added_at": null,
@@ -511,58 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 268654,
-      "name": "Aye Ok",
-      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indigenous Life",
-        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Night (with Collie Buddz)",
         "url": "https://open.spotify.com/album/2lXEEeHeRjDfzKgXwtFLcf"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 179222,
       "name": "All Night (with Collie Buddz)",
       "url": "https://open.spotify.com/track/5TAZ1X5HBcc54IGK2kVhle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Audio",
         "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 235684,
       "name": "My Audio",
       "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": null,

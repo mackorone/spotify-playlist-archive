@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Esto Es Amor",
+        "url": "https://open.spotify.com/album/5P0MCgReUHn1c9BCfP2In9"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273084,
+      "name": "Esto Es Amor",
+      "url": "https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea"
+    },
+    {
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 237029,
       "name": "Tiempos Violentos (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"

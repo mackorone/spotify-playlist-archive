@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from jigitz, Sebastian Ingrosso, Tame Impala, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,197 likes - 130 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,281 likes - 130 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 19 | [Lost](https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Lost](https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6) | 3:45 |
 | 20 | [Desire](https://open.spotify.com/track/49Rqh9WqG8DEYoEy7S9nCi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Desire](https://open.spotify.com/album/3zQnkJeSzLCa0vrWCN9QgQ) | 3:00 |
 | 21 | [Midnight Fever](https://open.spotify.com/track/6BVvpdUKKkeR8KawiI8pZQ) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Midnight Fever](https://open.spotify.com/album/3c6vrOdpsEk1hB9xr2tvby) | 3:46 |
-| 22 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
+| 22 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
 | 23 | [Stay](https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Stay](https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc) | 3:10 |
 | 24 | [Goes All Night](https://open.spotify.com/track/2jCn94bqM1sOpKhM9ykKIl) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Goes All Night](https://open.spotify.com/album/4pj2MWIaQ1cTzBNO0ttWr6) | 2:48 |
 | 25 | [Playa Paradiso](https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Playa Paradiso](https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP) | 3:05 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 126 | [Play Me](https://open.spotify.com/track/3L2kdsrjGJjuo0g8OukXZX) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq), [Stefan Andreas](https://open.spotify.com/artist/6laD0TQXzg1mJ1OoevleWq) | [Play Me](https://open.spotify.com/album/4AJuif5mnmGdBmgvdfYnUw) | 3:00 |
 | 127 | [Fading](https://open.spotify.com/track/6YuY1kF6RCRsl07MuDUyjy) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [Fading](https://open.spotify.com/album/7xPTuplVKoDZxFaewT2hAt) | 3:03 |
 | 128 | [Within Me](https://open.spotify.com/track/7iaTlA4TzsiPqELS62q37t) | [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm) | [Within Me](https://open.spotify.com/album/2LMRUSsbWSsqI5eSJFfxYW) | 3:24 |
-| 129 | [Blow My Mind](https://open.spotify.com/track/17IO6YxvP74VQLZiYmG62U) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Blow My Mind](https://open.spotify.com/album/33nNhA7E44enUFN4eYI3Qk) | 3:24 |
+| 129 | [Blow My Mind](https://open.spotify.com/track/17IO6YxvP74VQLZiYmG62U) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Blow My Mind](https://open.spotify.com/album/33nNhA7E44enUFN4eYI3Qk) | 3:24 |
 | 130 | [Sticky](https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H) | [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Sticky](https://open.spotify.com/album/0GWfAq8pUP627zvkEZQYyy) | 3:00 |
 
 Snapshot ID: `aIO2TQAAAAD2FZSSFIRcTGYUPnaCcuj7`

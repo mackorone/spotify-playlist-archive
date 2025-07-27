@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Hardbone boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,189 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,198 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 22 | [Flavours](https://open.spotify.com/track/039jV3Nnya4mDp6tGC0T2w) | [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn), [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Premium](https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3) | [Flavours](https://open.spotify.com/album/4WCzawEGc44H7aCTTxST3R) | 2:44 |
 | 23 | [TOUCHDOWN](https://open.spotify.com/track/2eEkCCy6tnKAOS5mIS6WDB) | [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [HUNT](https://open.spotify.com/album/6sGOg1pwsDqxbIQFuafSWC) | 2:38 |
 | 24 | [Hotbox](https://open.spotify.com/track/7aoOUqm4Cwfr1MbXGzhDNy) | [Palashhh](https://open.spotify.com/artist/2DTH5Nb75o5ngKMzyERYzk), [Abhra Music](https://open.spotify.com/artist/1ft64swF5mYqpLi04xTHC7), [VeDubs](https://open.spotify.com/artist/6A0rA2fropXu04DpCEthM7) | [Hotbox](https://open.spotify.com/album/71tIj4AiZxq3SQEfkYHi9o) | 3:00 |
-| 25 | [ADERNALINE](https://open.spotify.com/track/58WFfA3fxiBBhwmORs774n) | [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [TeraVamp](https://open.spotify.com/artist/4NJhRfCULUNpMCrCt52Zp7) | [TOD](https://open.spotify.com/album/54AtEkSrdzoxNUAWn5GZYb) | 3:19 |
+| 25 | [ADRENALINE](https://open.spotify.com/track/58WFfA3fxiBBhwmORs774n) | [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [TeraVamp](https://open.spotify.com/artist/4NJhRfCULUNpMCrCt52Zp7) | [TOD](https://open.spotify.com/album/54AtEkSrdzoxNUAWn5GZYb) | 3:19 |
 | 26 | [Chamakta Tara Hu Main](https://open.spotify.com/track/48OPmvwTvExG3nanwOzeOY) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Chamakta Tara Hu Main](https://open.spotify.com/album/7a95MCPVSJmf6VVq5yyTXU) | 2:18 |
 | 27 | [2:30 AM](https://open.spotify.com/track/7EiWEU4Re4RAUlarKhkNqL) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Time For Myself](https://open.spotify.com/album/12wsGFJITIbjmozKYAJ67C) | 2:46 |
 | 28 | [Udaasi](https://open.spotify.com/track/1JmsWhM2Ti2pvEYTWrTpjl) | [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx) | [Udaasi](https://open.spotify.com/album/7Dk2JEKiag7s2oy9Trlhcj) | 2:37 |

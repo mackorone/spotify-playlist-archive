@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,772 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,776 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 6 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 |
 | 7 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 8 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 9 | [Perfectly Mine](https://open.spotify.com/track/2RJ9GiYoV9kKOBdQoObmtw) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Perfectly Mine](https://open.spotify.com/album/7rj6EV3AXh2hc6J0oL7uAV) | 3:17 |
+| 9 | [Perfectly Mine](https://open.spotify.com/track/2RJ9GiYoV9kKOBdQoObmtw) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Perfectly Mine](https://open.spotify.com/album/7rj6EV3AXh2hc6J0oL7uAV) | 3:17 |
 | 10 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 |
 | 11 | [CHOCOLATE](https://open.spotify.com/track/4CycdN12CKoiYD85AbvUcW) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [MELO & BASS](https://open.spotify.com/album/09mVGTCkzqBa2DjAq4A1ot) | 2:46 |
 | 12 | [COULD U B](https://open.spotify.com/track/4USDhsvOX3snIrhhiwYDaQ) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [COULD U B](https://open.spotify.com/album/0RIsT7C798jNpSwpqOyz9p) | 2:13 |

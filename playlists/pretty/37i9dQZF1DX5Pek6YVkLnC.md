@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: De La Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,653 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,677 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 13 | [Lo di por sentado](https://open.spotify.com/track/357C7frj471G4xuBozKJeP) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [Sacro](https://open.spotify.com/artist/3gy7JBS79nEvQ2jDORrBCx) | [Lo di por sentado](https://open.spotify.com/album/4YfhjxHLxyFMbzqZ4U9RKe) | 2:12 |
 | 14 | [Bajale](https://open.spotify.com/track/56JUx2N07ZnPcNC8BkkPkl) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Bajale](https://open.spotify.com/album/69yRRok40ow82MnaPccf3r) | 2:12 |
 | 15 | [Sushi Roll](https://open.spotify.com/track/4ZoCM8s0rUhYcbKKaIZfhr) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Sushi Roll](https://open.spotify.com/album/3ECy6YTCsEfZPY8OLCbObh) | 3:34 |
-| 16 | [Mi Type](https://open.spotify.com/track/0VY1bCOCFCNzoTnwfJjklC) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [Mi Type](https://open.spotify.com/album/2sINfrnBorvsmgBEMJrHiT) | 3:13 |
+| 16 | [Mi Type](https://open.spotify.com/track/0VY1bCOCFCNzoTnwfJjklC) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Mi Type](https://open.spotify.com/album/2sINfrnBorvsmgBEMJrHiT) | 3:13 |
 | 17 | [ME QUEDO AKÍ](https://open.spotify.com/track/1Kgq3SDw0J2h7Njyb7R9I7) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ALL I DREAM](https://open.spotify.com/album/0GzGVVSRJdbkPQYQqjvH25) | 3:46 |
 | 18 | [4 PM](https://open.spotify.com/track/6kiNRLS8xEJDhvJ1P2bS7L) | [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3) | [4 PM](https://open.spotify.com/album/3Ws0IGktpiaLApJj1n5GqC) | 3:12 |
 | 19 | [RIP OZA](https://open.spotify.com/track/7zTjkBEt9tmECjnl5Wyd3E) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [RIP OZA](https://open.spotify.com/album/2AJWjq5gxtCss4KvH5cvjq) | 2:32 |

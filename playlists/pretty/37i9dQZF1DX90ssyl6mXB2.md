@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: RealestK
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,490 likes - 175 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,526 likes - 175 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 34 | [Talk To Me The Same](https://open.spotify.com/track/1izzvkVNFvyFZkmEP4IQAX) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [Talk To Me The Same](https://open.spotify.com/album/1ms0sdyuNVH6eyYoe85X6I) | 2:56 |
 | 35 | [One Call](https://open.spotify.com/track/32uc3iXCQV6QzFl1y3Fi4b) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh) | [One Call](https://open.spotify.com/album/2yLn4HfVWzARzFXxjt9sEd) | 2:20 |
 | 36 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 |
-| 37 | [Tell Me](https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Tell Me](https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR) | 2:49 |
+| 37 | [Tell Me](https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Tell Me](https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR) | 2:49 |
 | 38 | [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 |
 | 39 | [Don't Go](https://open.spotify.com/track/1Tfqitwpj45BDrx612ZXHJ) | [Férina](https://open.spotify.com/artist/6sIKgvWOLwG1jc4LJ3WGfi) | [Don't Go](https://open.spotify.com/album/686AAuvven59ue7PGVXtLt) | 2:56 |
 | 40 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |

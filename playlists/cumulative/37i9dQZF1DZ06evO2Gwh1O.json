@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 152280,
       "name": "Old Hymns",
       "url": "https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q"
@@ -1388,6 +1388,24 @@
       "duration_ms": 195946,
       "name": "Someday the Fire\u2026",
       "url": "https://open.spotify.com/track/4nMlkWhy05wzOZT6612Zsb"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/2jEM4kZCCvavtg3igVPd2c"
     },
     {
       "album": {

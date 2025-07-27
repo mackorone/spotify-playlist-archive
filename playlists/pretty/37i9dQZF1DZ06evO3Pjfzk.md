@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,637 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,707 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 47 | [Before You Leave \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7hxMp3wuYWiNzC8ZKn7ztX) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Almost Home](https://open.spotify.com/album/0oSRAV11bGT9ymZKpcwUK0) | 3:41 |
 | 48 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 
-Snapshot ID: `aIF3gAAAAABiPO6zHAstfn3HjiToY7Ti`
+Snapshot ID: `aILJAAAAAABq+tqcqYFSj7AtjBMDU+0d`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,197 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,203 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mó Boqueta](https://open.spotify.com/track/4GI7Y3pkXdTvwjqecVSZJg) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Mó Boqueta](https://open.spotify.com/album/3uGZxlrQ91t4dCXvgcCbsk) | 2:21 |
+| 1 | [Mó Boqueta](https://open.spotify.com/track/4GI7Y3pkXdTvwjqecVSZJg) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [Drummond](https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Mó Boqueta](https://open.spotify.com/album/3uGZxlrQ91t4dCXvgcCbsk) | 2:21 |
 | 2 | [Veterano](https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr) | [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Surfista](https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX), [Ryuchi](https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3), [JVMVO](https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9) | [Veterano](https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl) | 4:00 |
 | 3 | [Engana Dizendo Que Ama](https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:08 |
 | 4 | [Pente 270!](https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 3:41 |

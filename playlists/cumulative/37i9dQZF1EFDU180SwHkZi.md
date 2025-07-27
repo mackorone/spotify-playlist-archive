@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 5 hr 56 min
+126 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 | 2025-07-03 |  |
 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 | 2025-07-03 |  |
 | [Us](https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Us](https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw) | 2:17 | 2025-07-03 |  |
+| [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-26 |  |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 | 2025-07-03 |  |
 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 | 2025-07-03 |  |
 | [Who You Got](https://open.spotify.com/track/0X9o6jKMhQaQxZpYOB9hi0) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [Who You Got](https://open.spotify.com/album/0hKjHUGIX6b79yqFH8saJy) | 2:54 | 2025-07-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA Cover: <a href="https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p?si=QubocrZrRTyWcG344k4g\_A">Giift</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,287 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,288 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

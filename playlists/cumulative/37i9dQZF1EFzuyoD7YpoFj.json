@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Bing Crosby Gold: No. 1 Hits Plus",
+        "url": "https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186177,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/6qg3c1oettgiSNdlU2ghyq"
+    },
+    {
+      "album": {
         "name": "My Greatest Songs",
         "url": "https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 187000,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0"

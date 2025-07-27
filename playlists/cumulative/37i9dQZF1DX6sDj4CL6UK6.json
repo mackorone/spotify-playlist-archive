@@ -3657,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/3MI744VtElgFkmFbZFqokT"
+      },
+      "artists": [
+        {
+          "name": "Rehna Shaz",
+          "url": "https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/1Jy45gh8aaf0897QjJ6dgn"
+    },
+    {
+      "album": {
         "name": "The Hills Know Of You",
         "url": "https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn"
       },

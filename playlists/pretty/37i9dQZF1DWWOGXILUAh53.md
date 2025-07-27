@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,139 likes - 118 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,291 likes - 118 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Higher Power](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Higher Power](https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd) | 3:07 |
 | 2 | [Towers](https://open.spotify.com/track/0LesRMRS0cWDZ5eVRLPPF1) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:57 |
-| 3 | [Blow My Mind](https://open.spotify.com/track/17IO6YxvP74VQLZiYmG62U) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Blow My Mind](https://open.spotify.com/album/33nNhA7E44enUFN4eYI3Qk) | 3:24 |
+| 3 | [Blow My Mind](https://open.spotify.com/track/17IO6YxvP74VQLZiYmG62U) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Blow My Mind](https://open.spotify.com/album/33nNhA7E44enUFN4eYI3Qk) | 3:24 |
 | 4 | [Born to Fly](https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Born to Fly EP](https://open.spotify.com/album/79rPw6bPRYr0VsjY3YfX80) | 3:32 |
 | 5 | [Home \(feat\. Tom Walker\)](https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Home \(feat\. Tom Walker\)](https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE) | 3:16 |
 | 6 | [Oxygen](https://open.spotify.com/track/00sy6AoG8pNFxbdAWHhsrn) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Oxygen](https://open.spotify.com/album/6c9IwkWbbNrZ77MLsGbMM9) | 2:52 |

@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 127 | [simulation](https://open.spotify.com/track/1UTm9oNUaVqukwpfp5XUYA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 0:51 |
 | 128 | [Away Forever](https://open.spotify.com/track/2P3svitvKgeUuM0RRWI1em) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Away Forever](https://open.spotify.com/album/1Ktgpyg5MGLbf7Lno123iz) | 2:52 |
 | 129 | [Boys](https://open.spotify.com/track/2WZK5OjXUfzdbRnAve5rvE) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Boys](https://open.spotify.com/album/2GRaH94Q6MK3IfU9X8qoT1) | 1:24 |
-| 130 | [LIKE LIGHTNING](https://open.spotify.com/track/5EKjP9x1386n9aTFht111j) | [UPTOWN BOYBAND](https://open.spotify.com/artist/6MnJElZ2G5UGqjCvimyE2c) | [LIKE LIGHTNING](https://open.spotify.com/album/6SwJFwMaYnktyliNXpfVRK) | 3:17 |
-| 131 | [Margot Robbie](https://open.spotify.com/track/5fdDsT1R4Ms9caLBx1ehJS) | [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [yuck](https://open.spotify.com/artist/7jGv3jrVbW29V5M81xRWoa) | [Margot Robbie](https://open.spotify.com/album/1GtmbOzWjp2s2BtCoV6SPV) | 2:23 |
+| 130 | [Margot Robbie](https://open.spotify.com/track/5fdDsT1R4Ms9caLBx1ehJS) | [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [yuck](https://open.spotify.com/artist/7jGv3jrVbW29V5M81xRWoa) | [Margot Robbie](https://open.spotify.com/album/1GtmbOzWjp2s2BtCoV6SPV) | 2:23 |
+| 131 | [LIKE LIGHTNING](https://open.spotify.com/track/5EKjP9x1386n9aTFht111j) | [UPTOWN BOYBAND](https://open.spotify.com/artist/6MnJElZ2G5UGqjCvimyE2c) | [LIKE LIGHTNING](https://open.spotify.com/album/6SwJFwMaYnktyliNXpfVRK) | 3:17 |
 | 132 | [WIYLL](https://open.spotify.com/track/3KBUxNEimooag2s9fmzXng) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 1:36 |
 | 133 | [Think About It](https://open.spotify.com/track/4FS2aEDtD0mO2qMJ5EN2EF) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Think About It](https://open.spotify.com/album/62yxyWveuVL1dmiWwhglQx) | 3:55 |
 | 134 | [EXPLOSION!](https://open.spotify.com/track/6ef0T3U0xLCCuGBqv2VVBq) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/2QewB7aov4vSgKcrYHhdZC) | 1:29 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 144 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 145 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab3wMgAAAACS5VqblkWK+CfNxXK4EbNB`
+Snapshot ID: `Ab310gAAAACRwd+OLTPCJO6SKFlXt7qL`

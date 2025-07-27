@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Tyla, Fireboy DML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,023 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,319 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 25 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
 | 26 | [Wickedness](https://open.spotify.com/track/7kSVloY3RU0yzVWT72r6LM) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Wickedness](https://open.spotify.com/album/1s0GUaZJwCoEzHDIBefXew) | 2:19 |
 | 27 | [BLUEWATERS](https://open.spotify.com/track/3X1qWV6NtjjbOhoDMLFZd4) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Business & BlueWaters](https://open.spotify.com/album/2SBV1bGGmW0SAdBCOsJw2A) | 2:14 |
-| 28 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:53 |
+| 28 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:51 |
 | 29 | [Owo Eyo](https://open.spotify.com/track/6N4dJBFAcstuJTIKXNOHjr) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Owo Eyo](https://open.spotify.com/album/476C7MDwnirB6yT1c1j6bY) | 1:41 |
 | 30 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
 | 31 | [MVUA](https://open.spotify.com/track/3WtzLuNn57NdACSZchtit3) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MVUA](https://open.spotify.com/album/2IqvrWY8WnDmcy5kaj3zbl) | 3:18 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,101 songs - 2 day 11 hr 17 min
+1,102 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,7 @@
 | [Kuz Saal](https://open.spotify.com/track/1BYU8apJNRON3uV6eY2Ryo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 3:31 | 2024-05-31 |  |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |
 | [Kya Ne Baatan](https://open.spotify.com/track/2wMijO0F9GGHDx1Ka1nDvW) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Kya Ne Baatan](https://open.spotify.com/album/7CCtSr52USEN9jLCGFh5hA) | 2:48 | 2022-10-06 | 2022-12-16 |
-| [Kyun Raatan Nu](https://open.spotify.com/track/5zzE94Io9bd18dYfRYCVsA) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Letting Go](https://open.spotify.com/album/2cxliE80dsnWNg1lHAjXCz) | 3:16 | 2025-07-15 |  |
+| [Kyun Raatan Nu](https://open.spotify.com/track/5zzE94Io9bd18dYfRYCVsA) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Letting Go](https://open.spotify.com/album/2cxliE80dsnWNg1lHAjXCz) | 3:16 | 2025-07-15 | 2025-07-27 |
 | [LA](https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [LA](https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA) | 2:59 | 2022-04-20 | 2022-05-20 |
 | [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 | 2022-05-07 | 2022-07-06 |
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2022-11-22 | 2023-02-02 |
@@ -750,6 +750,7 @@
 | [Possessive](https://open.spotify.com/track/48VkZK0b7YDFP94dbj19L1) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:25 | 2024-12-06 | 2025-01-15 |
 | [Prada](https://open.spotify.com/track/4y7URCKVPmwtrf84n9Dqhu) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Prada](https://open.spotify.com/album/4B9FxTegqQXU9csWgENf1u) | 3:02 | 2025-03-05 |  |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 | 2022-12-16 |
+| [Precious](https://open.spotify.com/track/5NtYT0nDC3juYAODCkT6Hu) | [Geetkarz](https://open.spotify.com/artist/2sfCTNESjEmT9QdALWHXGs) | [Precious](https://open.spotify.com/album/0LnwOMcbYMhmRndLfBwjL9) | 2:41 | 2025-07-26 |  |
 | [Precious](https://open.spotify.com/track/2VHEiOqgiJpeXZkArZfSJx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [No Limit](https://open.spotify.com/album/1AKXje51TkC8qrPH3BG6Gt) | 2:38 | 2022-09-02 | 2022-12-16 |
 | [Privacy](https://open.spotify.com/track/3eCjCQ9ByfgJrkTwOBZdqc) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Jannat](https://open.spotify.com/album/4FBpYgUuTATkO3mPDFh5QW) | 4:33 | 2023-01-09 | 2023-02-02 |
 | [Promise](https://open.spotify.com/track/4430hRYol9QcrOb12rq6D2) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Promise](https://open.spotify.com/album/1VL8DknivNInwr03xcjHfg) | 2:45 | 2022-02-11 | 2022-04-06 |

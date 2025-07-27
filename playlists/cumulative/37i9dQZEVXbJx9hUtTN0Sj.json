@@ -4969,6 +4969,28 @@
     },
     {
       "album": {
+        "name": "Bounce To The Sound",
+        "url": "https://open.spotify.com/album/7EkVNx7oWTmhIlfNrbm9d2"
+      },
+      "artists": [
+        {
+          "name": "Nik Sitz",
+          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
+        },
+        {
+          "name": "Revive",
+          "url": "https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bounce To The Sound",
+      "url": "https://open.spotify.com/track/1EG7eKubHQPm9qWfZ83cT9"
+    },
+    {
+      "album": {
         "name": "Bouw\u00e9y",
         "url": "https://open.spotify.com/album/08JviwZgzk863KVTaK2szv"
       },
@@ -28592,7 +28614,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
@@ -28610,7 +28632,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 127100,
       "name": "ruin\u00e9 (comme un dj)",
       "url": "https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j"
@@ -33124,7 +33146,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 173056,
       "name": "The Glen - Levi Heron Edit",
       "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
@@ -34158,6 +34180,24 @@
       "duration_ms": 117901,
       "name": "TRALALERO TRALALA FUNK",
       "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+    },
+    {
+      "album": {
+        "name": "More Tralalero Songs",
+        "url": "https://open.spotify.com/album/17r4w7R7YNUflUPoHKTAP0"
+      },
+      "artists": [
+        {
+          "name": "Gazzarino",
+          "url": "https://open.spotify.com/artist/4BoTna9gEMXM6YLxrM78w7"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84977,
+      "name": "TRALALERO TRALALA x Sigma Boy",
+      "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"
     },
     {
       "album": {
@@ -37216,7 +37256,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 211733,
       "name": "Wonderful Days",
       "url": "https://open.spotify.com/track/4afouo9R8YqLBZ4k5NPR8h"

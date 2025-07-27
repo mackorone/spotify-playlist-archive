@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43129,
+  "num_followers": 43137,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBb30AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MBhOAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Miklu betri einn",
         "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -41,7 +41,43 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "International Superstars",
+        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "duration_ms": 183937,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -57,7 +93,23 @@
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Huganum af \u00fe\u00e9r",
         "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
@@ -77,55 +129,7 @@
       "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -157,27 +161,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "International Superstars",
-        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
-      },
-      "artists": [
-        {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
-        },
-        {
-          "name": "ISSI",
-          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
-        }
-      ],
-      "duration_ms": 183937,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -197,27 +181,59 @@
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
-        "name": "International Superstars",
-        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
       },
       "artists": [
         {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Luigi",
-          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Stara",
-      "url": "https://open.spotify.com/track/0tYaRDuezyg9NutATewnZx"
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "R\u00d3A",
+        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "R\u00d3A",
+      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Lj\u00f3sin Kvikna",
         "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
@@ -241,39 +257,7 @@
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "R\u00d3A",
-        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
-      },
-      "artists": [
-        {
-          "name": "V\u00c6B",
-          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "R\u00d3A",
-      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -289,39 +273,7 @@
       "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Lonely Without You",
         "url": "https://open.spotify.com/album/3eOyxVblFhEITefWFfLQCH"
@@ -337,7 +289,23 @@
       "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Hitti \u00deig \u00dear",
+        "url": "https://open.spotify.com/album/6RxtCO5ra7WgR0qv8I7vHn"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        }
+      ],
+      "duration_ms": 182851,
+      "name": "Hitti \u00deig \u00dear",
+      "url": "https://open.spotify.com/track/7L89XVDFYMNnaH7Xh5JFQw"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -348,12 +316,64 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "International Superstars",
+        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Stara",
+      "url": "https://open.spotify.com/track/0tYaRDuezyg9NutATewnZx"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "International Superstars",
+        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        }
+      ],
+      "duration_ms": 216655,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/3WRuAAtHYO9OpB2S9p9Qhc"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/25pSB1YYGloZjEkbz3q22A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Way Down We Go",
+      "url": "https://open.spotify.com/track/7ePk6EYEvFmKTJDhquomnj"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -364,68 +384,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Hvar ertu n\u00fa?",
-        "url": "https://open.spotify.com/album/3LZTeLY6rVURrPwHWoTzg2"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Theod\u00f3r",
-          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Hvar ertu n\u00fa?",
-      "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "UPPI",
-        "url": "https://open.spotify.com/album/7hYTBpfgGHbGdoKnpVt0PS"
-      },
-      "artists": [
-        {
-          "name": "Joey Christ",
-          "url": "https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 154808,
-      "name": "UPPI",
-      "url": "https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Aldrei til",
         "url": "https://open.spotify.com/album/1kkFjnUxmvYOmBe9xaqacq"
@@ -449,71 +413,7 @@
       "url": "https://open.spotify.com/track/2qwjMZuL3zGAsptnEv2iEY"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Sauna Collection",
-        "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
-      },
-      "artists": [
-        {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Bara Bada Bastu",
-      "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -553,26 +453,78 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
-        "name": "International Superstars",
-        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+        "name": "UPPI",
+        "url": "https://open.spotify.com/album/7hYTBpfgGHbGdoKnpVt0PS"
       },
       "artists": [
         {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+          "name": "Joey Christ",
+          "url": "https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
         }
       ],
-      "duration_ms": 156428,
-      "name": "H\u00e6 - EM 2025",
-      "url": "https://open.spotify.com/track/3HB0LmQ6dppYTVL355sUiX"
+      "duration_ms": 154808,
+      "name": "UPPI",
+      "url": "https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Kaleo",
+        "url": "https://open.spotify.com/album/574fufgTwCvRmlZNq5aRrP"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 279103,
+      "name": "Vor \u00ed Vaglask\u00f3gi",
+      "url": "https://open.spotify.com/track/4yIyxW0HwNq7msySypklj4"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
       },
       "artists": [
         {
@@ -582,10 +534,10 @@
       ],
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -625,23 +577,71 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+        "name": "Hver Er S\u00e1 Besti",
+        "url": "https://open.spotify.com/album/5I8rBgIiVKiIYwdiinuEvk"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "DJ Muscleboy",
+          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        },
+        {
+          "name": "Fjallabr\u00e6\u00f0ur",
+          "url": "https://open.spotify.com/artist/4fIFqYMcJ9vc5mlRrvdRYj"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+      "duration_ms": 163687,
+      "name": "Hver Er S\u00e1 Besti",
+      "url": "https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Hvar ertu n\u00fa?",
+        "url": "https://open.spotify.com/album/3LZTeLY6rVURrPwHWoTzg2"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Theod\u00f3r",
+          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Hvar ertu n\u00fa?",
+      "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -652,12 +652,52 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Dansa vi\u00f0 s\u00e6ta str\u00e1kinn",
+        "url": "https://open.spotify.com/album/0kwU5Xa615VFOotGo5DQGi"
+      },
+      "artists": [
+        {
+          "name": "Lil Curly",
+          "url": "https://open.spotify.com/artist/746fVqVoeiBPhTvtcEa93r"
+        },
+        {
+          "name": "S\u00e9ra Bj\u00f6ssi",
+          "url": "https://open.spotify.com/artist/2Gnn51iidR6UIRSFc8vkHF"
+        },
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Dansa vi\u00f0 s\u00e6ta str\u00e1kinn",
+      "url": "https://open.spotify.com/track/0FmVzoE6dnolUBE4FrNdXD"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "Sauna Collection",
+        "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Bara Bada Bastu",
+      "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -689,55 +729,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
@@ -753,111 +745,23 @@
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
-        "name": "Dansa vi\u00f0 s\u00e6ta str\u00e1kinn",
-        "url": "https://open.spotify.com/album/0kwU5Xa615VFOotGo5DQGi"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Lil Curly",
-          "url": "https://open.spotify.com/artist/746fVqVoeiBPhTvtcEa93r"
-        },
-        {
-          "name": "S\u00e9ra Bj\u00f6ssi",
-          "url": "https://open.spotify.com/artist/2Gnn51iidR6UIRSFc8vkHF"
-        },
-        {
-          "name": "H\u00e1ski",
-          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 157384,
-      "name": "Dansa vi\u00f0 s\u00e6ta str\u00e1kinn",
-      "url": "https://open.spotify.com/track/0FmVzoE6dnolUBE4FrNdXD"
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Svarti Skuggi",
-        "url": "https://open.spotify.com/album/5fXLhroRSR6x9iffliofNy"
-      },
-      "artists": [
-        {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
-        },
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        }
-      ],
-      "duration_ms": 218832,
-      "name": "Hv\u00edtur hattur, retta",
-      "url": "https://open.spotify.com/track/7qnZH3db4tSQEi48c1qvai"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "Hver Er S\u00e1 Besti",
-        "url": "https://open.spotify.com/album/5I8rBgIiVKiIYwdiinuEvk"
-      },
-      "artists": [
-        {
-          "name": "FM95BL\u00d6",
-          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
-        },
-        {
-          "name": "DJ Muscleboy",
-          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
-        },
-        {
-          "name": "Steindi Jr.",
-          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
-        },
-        {
-          "name": "Fjallabr\u00e6\u00f0ur",
-          "url": "https://open.spotify.com/artist/4fIFqYMcJ9vc5mlRrvdRYj"
-        }
-      ],
-      "duration_ms": 163687,
-      "name": "Hver Er S\u00e1 Besti",
-      "url": "https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Bleikur Range Rover",
         "url": "https://open.spotify.com/album/6gg4TxENqxuKwkVSEhrOiP"
@@ -877,7 +781,7 @@
       "url": "https://open.spotify.com/track/0i4AOhWJqkedl62X2uxq4k"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -888,44 +792,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
-        "name": "Sumari\u00f0",
-        "url": "https://open.spotify.com/album/4URlqV3L76lvnmrBpBKCCk"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 212655,
-      "name": "Sumari\u00f0",
-      "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
-      "album": {
-        "name": "International Superstars",
-        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
-      },
-      "artists": [
-        {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
-        }
-      ],
-      "duration_ms": 216655,
-      "name": "#1",
-      "url": "https://open.spotify.com/track/3WRuAAtHYO9OpB2S9p9Qhc"
-    },
-    {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -936,12 +824,92 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2025-07-25 14:11:06",
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/25pSB1YYGloZjEkbz3q22A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 271281,
+      "name": "All The Pretty Girls",
+      "url": "https://open.spotify.com/track/38tP86NaKUINJo7iwQPjFl"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -955,6 +923,38 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "International Superstars",
+        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "H\u00e6 - EM 2025",
+      "url": "https://open.spotify.com/track/3HB0LmQ6dppYTVL355sUiX"
+    },
+    {
+      "added_at": "2025-07-26 13:03:51",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     }
   ],
   "unique_name": "Top 50 - Iceland",

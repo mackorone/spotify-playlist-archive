@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKbJeFbii64.md) - [plain]
 
 > Soothing rolling thunder sounds, all through the night...
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,706 likes - 135 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,885 likes - 135 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

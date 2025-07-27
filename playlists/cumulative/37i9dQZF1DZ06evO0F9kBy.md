@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-100 songs - 7 hr 31 min
+101 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [The Way You Love Me](https://open.spotify.com/track/5tJ4nghSBgH06CCqQzE1hd) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Way You Love Me](https://open.spotify.com/album/3qaxWqwTnFxw6VxGilFJbJ) | 3:18 | 2022-10-09 | 2023-03-08 |
 | [Those Who Have Not Seen](https://open.spotify.com/track/6Ge2tZZ5GmsLKqKqAqczdS) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Those Who Have Not Seen](https://open.spotify.com/album/11dLtoHSJtWc3GCujubl5I) | 4:46 | 2023-05-24 | 2023-12-14 |
 | [Unconditional \- Live](https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 6:15 | 2023-02-21 | 2024-12-23 |
-| [Wait](https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:08 | 2025-03-16 |  |
+| [Wait](https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:08 | 2025-03-16 | 2025-07-27 |
+| [Wait \- Radio Version](https://open.spotify.com/track/5e6dXG9W7VFpTbeaErPMyr) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait](https://open.spotify.com/album/4vaz0lbQo1hsa7rfUliz3R) | 3:44 | 2025-07-27 |  |
 | [What a Friend](https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:17 | 2022-09-14 |  |
 | [Who Jesus Is](https://open.spotify.com/track/4a6svF18UULlGpBB2m0WVt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Alpha USA Music](https://open.spotify.com/artist/6WCk6Dy4YXvEAncWcalS9M) | [Who Jesus Is](https://open.spotify.com/album/4wt596v2krOTyXqy1s1hcJ) | 4:19 | 2025-07-21 |  |
 | [With A Little Help From My Friends \- Live](https://open.spotify.com/track/1DvuS4n9s9GE3BqCQw6Vo5) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [With A Little Help From My Friends \(Live\)](https://open.spotify.com/album/58Z5rBOC7zxqEMELvZK2e4) | 4:19 | 2024-06-23 | 2024-07-23 |

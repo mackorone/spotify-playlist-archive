@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 366572,
+  "num_followers": 366578,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAADHyWs7uDliKU/BPiy+R1sQ",
+  "snapshot_id": "aILJAAAAAAB8XpurwTqS7ms29jJsIw0g",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O' Lord (Radio Version)",
-        "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "O' Lord - Radio Version",
-      "url": "https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -311,6 +295,26 @@
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,
@@ -347,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -379,6 +363,26 @@
       "duration_ms": 208965,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond Us",
+        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
     },
     {
       "added_at": null,
@@ -408,29 +412,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 255520,
-      "name": "Once and for All",
-      "url": "https://open.spotify.com/track/4EaGCr9Q4ztV8yAkpK5zNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond Us",
-        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
-      },
-      "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
     },
     {
       "added_at": null,

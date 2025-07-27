@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,562 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,623 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 |
-| 2 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:53 |
+| 2 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:51 |
 | 3 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 |
 | 4 | [No Body](https://open.spotify.com/track/7jqv2VbW2qaNNmFDcP9mWT) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [No Body](https://open.spotify.com/album/5KwnG9WbLheqKlYwHDojvr) | 2:55 |
 | 5 | [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 |

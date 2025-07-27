@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380400,
+      "name": "Black Sabbath - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF"
+    },
+    {
+      "album": {
         "name": "Blackout - Open Show",
         "url": "https://open.spotify.com/album/4Zuu9mF6GAe6TJT5CkFli8"
       },
@@ -27100,7 +27118,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 183799,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2d1AiZExnhYoauaSWkB1Fm"
@@ -28110,6 +28128,24 @@
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+    },
+    {
+      "album": {
+        "name": "Master of Reality",
+        "url": "https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302933,
+      "name": "Sweet Leaf (2009 Remaster)",
+      "url": "https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6"
     },
     {
       "album": {
@@ -29488,7 +29524,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 180480,
       "name": "TIKI",
       "url": "https://open.spotify.com/track/2JQqRkmssIH5s68Q4jY3FU"
@@ -30414,7 +30450,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
@@ -30492,7 +30528,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 221224,
       "name": "TUCHAT",
       "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"

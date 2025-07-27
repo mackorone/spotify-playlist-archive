@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,801 songs - 4 day 2 hr 14 min
+1,802 songs - 4 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Ach Khbarek](https://open.spotify.com/track/6ggJpewsdCo3CaL3Nr85l7) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ach Khbarek](https://open.spotify.com/album/098t9Kq3ur8aLYeOB9776Z) | 3:48 | 2023-05-06 | 2023-05-28 |
 | [Adams](https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:54 | 2022-05-07 | 2022-06-13 |
 | [AFRAID OF LOVIN' U](https://open.spotify.com/track/0Y3tOqjb0k4vAXUZQpWkdv) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 3:35 | 2025-07-19 | 2025-07-21 |
-| [AFRAID OF LOVIN' U](https://open.spotify.com/track/2c5RGkOOsZjdB1PNQhfncD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [AFRAID OF LOVIN' U](https://open.spotify.com/album/61xDpzDzueg1ZkW3JyDesP) | 3:35 | 2025-07-20 |  |
+| [AFRAID OF LOVIN' U](https://open.spotify.com/track/2c5RGkOOsZjdB1PNQhfncD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [AFRAID OF LOVIN' U](https://open.spotify.com/album/61xDpzDzueg1ZkW3JyDesP) | 3:35 | 2025-07-20 | 2025-07-27 |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
 | [Again \- Prototype2020](https://open.spotify.com/track/3AC9GHZudMPxEFbhks2qqP) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Again \(Prototype2020\)](https://open.spotify.com/album/3kMyU0f3ZcOnO4SuwG9mUz) | 2:45 | 2025-04-13 | 2025-04-17 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
@@ -325,6 +325,7 @@
 | [Change pt.2](https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 1:54 | 2022-12-03 | 2022-12-05 |
 | [Charchabil](https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [AOKIGAHARA](https://open.spotify.com/album/62ez9OSwKvmA4DPSMobZVw) | 3:46 | 2024-11-22 | 2024-11-25 |
 | [CHARGE DEM HOES A FEE \(with Future & Travis Scott\)](https://open.spotify.com/track/21aDVa64pWR8SYQ7wBRMkd) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:45 | 2025-03-15 | 2025-03-17 |
+| [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-07-26 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-06-04 | 2023-08-22 |
 | [Chemin d'or](https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 3:32 | 2025-05-18 | 2025-05-27 |
 | [Chems Lmaarif](https://open.spotify.com/track/39LXWBFPE2wN5JR6m1RR59) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:06 | 2021-06-24 | 2021-06-25 |

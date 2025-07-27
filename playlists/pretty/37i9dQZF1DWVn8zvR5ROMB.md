@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Tyler Childers, Luke Combs, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,211 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,429 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 15 | [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 |
 | 16 | [Canaries in a Coal Mine](https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Canaries in a Coal Mine](https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX) | 3:37 |
 | 17 | [Dale Dickens \(RIP\)](https://open.spotify.com/track/6RFEp3DeSQcMGEr97WtTqM) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Dale Dickens \(RIP\)](https://open.spotify.com/album/1iutbAZnuqdVVghCzPDoJL) | 2:01 |
-| 18 | [BAD NIGHT \- KARMA](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
+| 18 | [BAD NIGHT \(KARMA\)](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
 | 19 | [WILD](https://open.spotify.com/track/3i8oDYGM4XsYc8Gyu0OVmq) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [WILD](https://open.spotify.com/album/2rpNgmFDuUPbY0EUqFFIO4) | 2:49 |
 | 20 | [Strangers](https://open.spotify.com/track/71VQ7S0q1Nyjv0DeY2xhqI) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Strangers](https://open.spotify.com/album/6iGjcG8s9EXTIDFK3oRVLM) | 2:54 |
 | 21 | [Life Behind Bars](https://open.spotify.com/track/2xa6tkIvKAtbjIirdxJXcd) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Life Behind Bars](https://open.spotify.com/album/35BIDAlQWIo5BV3VSTSB5j) | 2:45 |

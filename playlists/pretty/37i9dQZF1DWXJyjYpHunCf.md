@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,877 likes - 111 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,871 likes - 111 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 82 | [Sinner](https://open.spotify.com/track/2Lm7Qmm7UvlRojt0c8BFI1) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Sinner](https://open.spotify.com/album/0EKc0MQ8huSHiUm1ipjSD7) | 3:23 |
 | 83 | [out of breath](https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [pretty lies and time machines](https://open.spotify.com/album/3P7Hup9ohD8gLSN6J2qQPw) | 3:19 |
 | 84 | [The Only Thing Left](https://open.spotify.com/track/5rOkv636e3XHJmjLHvjLPT) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Versions of Uncertainty](https://open.spotify.com/album/3s0BEYs9blTh9wpgsSH3wm) | 3:27 |
-| 85 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 |
+| 85 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 |
 | 86 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:27 |
 | 87 | [Falling Faster](https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [Falling Faster](https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih) | 1:32 |
 | 88 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 |

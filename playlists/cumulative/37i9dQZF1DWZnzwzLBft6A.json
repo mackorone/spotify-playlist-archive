@@ -3193,28 +3193,6 @@
     },
     {
       "album": {
-        "name": "Bach, J.S.: Sonatas and Partitas (Arr. for Guitar)",
-        "url": "https://open.spotify.com/album/55sIRnzwzFi3xFZ1r3nK9N"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Paul Galbraith",
-          "url": "https://open.spotify.com/artist/1AORP7RPoxyE8dtP8V6Yr5"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159800,
-      "name": "Violin Partita No. 3 in E Major, BWV 1006 (arr. P. Galbraith): III. Gavotte en rondeau",
-      "url": "https://open.spotify.com/track/19vP4ZOsTZNkodbUPJpdb5"
-    },
-    {
-      "album": {
         "name": "Bach: Violin Partitas Nos. 2, 3 & Violin Sonata No. 3",
         "url": "https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt"
       },
@@ -3366,6 +3344,28 @@
       "duration_ms": 287360,
       "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
       "url": "https://open.spotify.com/track/7nNzhPYzhnnfz1GdV7c25c"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Sonatas and Partitas (Arr. for Guitar)",
+        "url": "https://open.spotify.com/album/55sIRnzwzFi3xFZ1r3nK9N"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Paul Galbraith",
+          "url": "https://open.spotify.com/artist/1AORP7RPoxyE8dtP8V6Yr5"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159800,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: III. Gavotte en rondeau (Arr. P. Galbraith)",
+      "url": "https://open.spotify.com/track/19vP4ZOsTZNkodbUPJpdb5"
     },
     {
       "album": {

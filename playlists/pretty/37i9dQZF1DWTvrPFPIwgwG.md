@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Léa Mendonça, Nathália Braga
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,079 likes - 84 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,195 likes - 84 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: KNEECAP at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,520 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,515 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 18 | [Of The Sorrows](https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Of The Sorrows](https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY) | 5:33 |
 | 19 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 |
 | 20 | [How To Pray \(Euphoria\)](https://open.spotify.com/track/37M6JcX8QK7OrGbLN57H5i) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [How To Pray \(Euphoria\)](https://open.spotify.com/album/0bnNMltAnL1ld0R0FP5m0r) | 5:02 |
-| 21 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 |
+| 21 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 |
 | 22 | [Can't Get Up](https://open.spotify.com/track/7wUqDJmsuX7BgELC957jCr) | [Isaac Jones](https://open.spotify.com/artist/07Otr2GoEFP3sRUUXpYMQN) | [Can't Get Up](https://open.spotify.com/album/2NS08z7O1TBHFYHPBTjCtT) | 3:00 |
 | 23 | [Schoolyard Days](https://open.spotify.com/track/5IEDBUuXMagCcYQZARFvrJ) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:09 |
 | 24 | [lock & key](https://open.spotify.com/track/5S6U4IY74N8Gekf8i5WdgO) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [hard drive songs](https://open.spotify.com/album/4rygwEIZ6qlH8IwW8SFJTU) | 4:15 |

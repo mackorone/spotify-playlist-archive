@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Prince Narula
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,884 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,895 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 42 | [Killa](https://open.spotify.com/track/5LPIcmzwAplKsXoS9webJk) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [New Beginnings](https://open.spotify.com/album/260NmiRF3k1XNWqV4qCjIY) | 3:37 |
 | 43 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 |
 | 44 | [Petrol](https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 1:59 |
-| 45 | [Naal Te Khilaaf](https://open.spotify.com/track/2ekzpv3xcC4LGoK7xMIyDB) | [Yeah Cheif](https://open.spotify.com/artist/53ck2MWfzBjUNv3lFa3WEW), [Dollar Sidhu](https://open.spotify.com/artist/18MteKpvzovkdzlw0AzbYY), [Ranveer Sidhu](https://open.spotify.com/artist/2jKNW5yNTOH9G9yhWYuv94) | [Naal Te Khilaaf](https://open.spotify.com/album/09ojkod7xnluA6S19IGHbP) | 2:34 |
+| 45 | [Naal Te Khilaaf](https://open.spotify.com/track/2ekzpv3xcC4LGoK7xMIyDB) | [Yeah Cheif](https://open.spotify.com/artist/53ck2MWfzBjUNv3lFa3WEW), [Dollar Sidhu](https://open.spotify.com/artist/47m5PyNllVV5mnuIHj0HbN), [Ranveer Sidhu](https://open.spotify.com/artist/15q3PtMBtWriJ43h8pBhfV) | [Naal Te Khilaaf](https://open.spotify.com/album/09ojkod7xnluA6S19IGHbP) | 2:34 |
 | 46 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 |
 | 47 | [My World 2](https://open.spotify.com/track/18mupiDOivCDs7lviTVaTO) | [Raman Lakhesar](https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh) | [My World 2](https://open.spotify.com/album/4EQ9zabvxMea4355kQpNgM) | 3:02 |
 | 48 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 |

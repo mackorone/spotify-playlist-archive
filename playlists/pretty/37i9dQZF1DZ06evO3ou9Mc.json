@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 420187,
+  "num_followers": 420275,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAAAKK74D3wulgQHwlKdyomBN",
+  "snapshot_id": "aILJAAAAAABJKFBPvfY+cOEbcV+LFOlW",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 248413,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
+      "duration_ms": 132133,
+      "name": "What Happened to You?",
+      "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 124053,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
     },
     {
       "added_at": null,
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 132133,
-      "name": "What Happened to You?",
-      "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"
+      "duration_ms": 146960,
+      "name": "Nitro (Youth Energy)",
+      "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 146960,
-      "name": "Nitro (Youth Energy)",
-      "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 168893,
       "name": "Dammit, I Changed Again",
       "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Mota",
-      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -576,25 +576,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 154626,
-      "name": "The Fall Guy",
-      "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Come Out Swinging",
-      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 189160,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Come Out Swinging",
+      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+      "duration_ms": 154626,
+      "name": "The Fall Guy",
+      "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Secrets From The Underground",
-      "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
+      "duration_ms": 167893,
+      "name": "Cool To Hate",
+      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 167893,
-      "name": "Cool To Hate",
-      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+      "duration_ms": 189813,
+      "name": "Secrets From The Underground",
+      "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 142413,
-      "name": "Dividing By Zero",
-      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+      "duration_ms": 142413,
+      "name": "Dividing By Zero",
+      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
     },
     {
       "added_at": null,

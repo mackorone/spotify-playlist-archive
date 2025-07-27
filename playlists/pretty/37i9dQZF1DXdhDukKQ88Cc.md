@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,877 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,885 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 |
 | 2 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
-| 3 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
+| 3 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
 | 4 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |
 | 5 | [Bipolar](https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Bipolar](https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM) | 2:51 |
 | 6 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 |

@@ -6995,6 +6995,32 @@
     },
     {
       "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Gold Feet (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
+    },
+    {
+      "album": {
         "name": "Ghetty Green",
         "url": "https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 559 likes - 234 songs - 15 hr 49 min
+[codym2011](https://open.spotify.com/user/codym2011) - 559 likes - 235 songs - 15 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 232 | [Shine](https://open.spotify.com/track/1h2s5LF8O9m3hNJIAmF1Uw) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Shine](https://open.spotify.com/album/513wvSixYZZKNwNbpfs1QT) | 3:00 |
 | 233 | [Restart My Heart](https://open.spotify.com/track/0a2Yh4mTBAcQDpBYjFIMLJ) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Restart My Heart](https://open.spotify.com/album/4RRW8Qf7RAgwZ2lZMzVZ1P) | 2:51 |
 | 234 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
+| 235 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
 
-Snapshot ID: `AAAA/rhyvslvLh+e1NWP7IhFITt0r58K`
+Snapshot ID: `AAAA/4U0KA3VMilaagxoFEo/cz5K4k25`

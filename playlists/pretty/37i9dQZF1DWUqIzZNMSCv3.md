@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > The world's most iconic and relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,616 likes - 116 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,677 likes - 116 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 109 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
 | 110 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 | 111 | [3 Fugues for Piano: No\. 3](https://open.spotify.com/track/4hDx7FRwdJv7yg2xMYfOcC) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Shostakovich: 3 Fugues for Piano: No\. 3](https://open.spotify.com/album/5Uk9ttxCi1wGkqGepdxxR1) | 3:39 |
-| 112 | [Nocturne No\. 2 in C Minor](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
+| 112 | [Nocturne No\. 2 in C Minor, H\. 25](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
 | 113 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 |
 | 114 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
 | 115 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |

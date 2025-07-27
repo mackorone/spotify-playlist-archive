@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 61 | [Red](https://open.spotify.com/track/5at4TNTghdjomJAGGRFBGV) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Super Deluxe Edition\)](https://open.spotify.com/album/4tXGGRLZGSU9RwbemiixAz) | 3:06 |
 | 62 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
 | 63 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 |
-| 64 | [Road to Ruin](https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:43 |
-| 65 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
+| 64 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
+| 65 | [Road to Ruin](https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:43 |
 | 66 | [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 |
 | 67 | [Solo Para Ti](https://open.spotify.com/track/0mJ7MnaW6UJ7DGeiw770WG) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/2osER63dyxzb5y37YqMUJd) | 3:44 |
 | 68 | [Torch](https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp) | [Isa Machine](https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rock The Kasbah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7) | 3:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Ab3wCgAAAABm0UNNtB/iOf9ybEzANrdN`
+Snapshot ID: `Ab310gAAAABwrgSrTi62hQ/gyc5awY6b`

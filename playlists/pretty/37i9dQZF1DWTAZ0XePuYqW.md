@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > DijahSB, Memblem and Melo Griffith got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,140 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,180 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 3 | [Get Loud](https://open.spotify.com/track/6gfmAqk0WzJUuKPFSJ7Rfm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI), [Melo Griffith](https://open.spotify.com/artist/6tEy95ozMYnWq0Kmurirzk) | [Get Loud](https://open.spotify.com/album/05r8XCitLF2Iz3EpyRMrAj) | 2:08 |
 | 4 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 |
 | 5 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
-| 6 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
+| 6 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
 | 7 | [MY TYPE](https://open.spotify.com/track/3G16TkmTpBp8FyDkgev4Dc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [MY TYPE / YEA YEA YEA](https://open.spotify.com/album/0uoCtl0pFXqwWD9QwTVVjU) | 3:08 |
 | 8 | [Shake It To The Max \(FLY\) \- Major Lazer Remix](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Shake It To The Max \(FLY\) \(Major Lazer Remix\)](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
 | 9 | [Alignment](https://open.spotify.com/track/1bJevbgUI8LfV0TnuGGWQk) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE \(Deluxe\)](https://open.spotify.com/album/7mpy8j9XiGZILJ4VCWSrPQ) | 2:36 |

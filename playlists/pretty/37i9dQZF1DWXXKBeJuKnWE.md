@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,998 likes - 312 songs - 18 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,971 likes - 312 songs - 18 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

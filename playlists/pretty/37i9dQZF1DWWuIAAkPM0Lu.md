@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Svea S, Berg & Klamfyr, Sam Smith og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,911 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,926 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/track/6xVtp04jMDg8mFtqGBLUT9) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/album/2G7eb2SCHvx0AqhiaET7lY) | 3:26 |
 | 2 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 3 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 |
-| 4 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
+| 4 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
 | 5 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 6 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 7 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |

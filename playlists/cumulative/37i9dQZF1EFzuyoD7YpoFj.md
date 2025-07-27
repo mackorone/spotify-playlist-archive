@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-587 songs - 1 day 7 hr 44 min
+588 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [De\-Lovely](https://open.spotify.com/track/4T4eeruTaJFYTmUxCYKZwC) | [The Jeff Steinberg Jazz Ensemble](https://open.spotify.com/artist/37SofF6rHmWJudegF3hBUH) | [Café Cubano: Instrumental Cuban Flavored Classics](https://open.spotify.com/album/4x6KY4N5j28wFy0AzPY5gZ) | 3:33 | 2025-06-27 |  |
 | [Der er Stille i Nat](https://open.spotify.com/track/3qJGdiAC1Rx05BpwWasOd9) | [Katrine Falkenberg](https://open.spotify.com/artist/12OytbQmTaREPGbzz1g1oh) | [I De Små Timer](https://open.spotify.com/album/7LwQRRNN6QPwFjhe7UIQD8) | 2:56 | 2024-07-24 |  |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/6oDctYXnBBbnHzqE2O39ee) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [The Motown Story](https://open.spotify.com/album/5onZQsi7rRtvnh00P8cFxe) | 2:21 | 2024-07-24 |  |
-| [Don't Fence Me In](https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:07 | 2025-06-27 |  |
+| [Don't Fence Me In](https://open.spotify.com/track/6qg3c1oettgiSNdlU2ghyq) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby Gold: No\. 1 Hits Plus](https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ) | 3:06 | 2025-07-26 |  |
+| [Don't Fence Me In](https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:07 | 2025-06-27 | 2025-07-27 |
 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 | 2024-07-24 |  |
 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 | 2024-07-24 |  |
 | [Don't Take Everybody To Be Your Friend](https://open.spotify.com/track/7ytWVZ6T7DoLypwFIa3VIh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:26 | 2025-06-27 |  |

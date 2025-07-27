@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,540 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,584 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The English Dance Master, Vol\. 1: Parson's farewell](https://open.spotify.com/track/5Idsz8GnYXpkMLQOnhlOrl) | [John Playford](https://open.spotify.com/artist/1JuNbnzQ7k4qTd6x1cyKpq), [Baltimore Consort](https://open.spotify.com/artist/695DZiuQWz8JR0iEOxmbQI) | [Playford, J.: Tunes and Their Ballads \(A Trip To Killburn\)](https://open.spotify.com/album/5prNj2q6WKKuCVdYM23RoU) | 1:51 |
+| 1 | [The English Dancing Master, Vol\. 1: Parson's farewell](https://open.spotify.com/track/5Idsz8GnYXpkMLQOnhlOrl) | [John Playford](https://open.spotify.com/artist/1JuNbnzQ7k4qTd6x1cyKpq), [Baltimore Consort](https://open.spotify.com/artist/695DZiuQWz8JR0iEOxmbQI) | [Playford, J.: Tunes and Their Ballads \(A Trip To Killburn\)](https://open.spotify.com/album/5prNj2q6WKKuCVdYM23RoU) | 1:51 |
 | 2 | [Saltarello \- Guillaume Dufay / Jordi Savall](https://open.spotify.com/track/5BHAKNY4j859CUXlCjsgaP) | [Guillaume Dufay](https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [La Capella Reial De Catalunya](https://open.spotify.com/artist/4dKYKf1IgHr64LifxxBVHM), [Hespèrion XXI](https://open.spotify.com/artist/6P09QK8EvzRliYA86yl6nt) | [The Borgia Dynasty](https://open.spotify.com/album/4dhdC05gC54Fmd52058w8I) | 2:12 |
 | 3 | [Lady Rich, Her Galliard](https://open.spotify.com/track/7n71q1cB3sFGdPXjfxSTGY) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Nigel North](https://open.spotify.com/artist/3bXYTyOxtKi2xyij1LDCnQ) | [Musical Banquet](https://open.spotify.com/album/7c1oKngRavUrXBQvWnSi2K) | 1:57 |
 | 4 | [Passymeasure Galliard](https://open.spotify.com/track/3V6Wud4SwiYyVKyD2ewTWS) | [John Danyel](https://open.spotify.com/artist/5DurtR3OW7vzPxgwZUVTar), [Evangelina Mascardi](https://open.spotify.com/artist/25xXI19ZzvenYn1EafS3Az), [Angélique Mauillon](https://open.spotify.com/artist/3yFhWmqwZXPNREuatEQfDb) | [Dreames & Imaginations \- Poeticall Musicke to be sung to the Lyra viol \(Music from around 1600\)](https://open.spotify.com/album/5oxSEkeEbkD6vNocnPD9gD) | 4:13 |

@@ -723,6 +723,48 @@
     },
     {
       "album": {
+        "name": "Africa Express Presents... Bahidor\u00e1",
+        "url": "https://open.spotify.com/album/3KMZGvFIB8djCFognOb1Op"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Otim Alpha",
+          "url": "https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV"
+        },
+        {
+          "name": "M\u00e9lissa Hi\u00e9",
+          "url": "https://open.spotify.com/artist/1vjbKbbpLTjIlCvlnVVmGt"
+        },
+        {
+          "name": "Oph\u00e9lia Hi\u00e9",
+          "url": "https://open.spotify.com/artist/0UiKPbwDJsliBBk4V5n2u4"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321265,
+      "name": "Frenemies - feat. Hak Baker, Bonobo, Damon Albarn, Otim Alpha, M\u00e9lissa Hi\u00e9 & Oph\u00e9lia Hi\u00e9",
+      "url": "https://open.spotify.com/track/3EC9PXfg2PMRcya0ng7rlc"
+    },
+    {
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1210,7 +1252,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 176425,
       "name": "Northport",
       "url": "https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk"

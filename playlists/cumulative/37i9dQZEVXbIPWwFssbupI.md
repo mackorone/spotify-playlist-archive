@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,381 songs - 5 day 5 hr 34 min
+2,382 songs - 5 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-04-03 | 2025-04-05 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 | 2024-09-10 |
 | [44](https://open.spotify.com/track/2kg6gav2Y7ceVoZ0s5l3Zz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:47 | 2021-11-07 | 2021-11-14 |
-| [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 | 2025-07-25 |  |
+| [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 | 2025-07-25 | 2025-07-27 |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-02 | 2024-04-11 |
 | [500](https://open.spotify.com/track/1dyyYwgfDLt7v0JzQ1JmJu) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 2:49 | 2023-12-23 | 2023-12-25 |
 | [50G](https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [SUR LE CHEMIN \- Phase finale](https://open.spotify.com/album/4iEr3dDioblHwjpXLXBpS0) | 3:58 | 2024-09-13 | 2024-09-21 |
@@ -614,6 +614,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2024-01-31 |
 | [Dayni daini](https://open.spotify.com/track/3LUPK7KF2PgIUb6B40xEb1) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Cappuccino](https://open.spotify.com/artist/0iOZ6jaUQL07vALKUPworY) | [À la bien \(Summer edition\)](https://open.spotify.com/album/4Jf2V4Qj421rVG0d6BSPpW) | 2:21 | 2022-07-18 | 2022-07-20 |
 | [Daytona](https://open.spotify.com/track/4Fkken2vbissEcoXRBxqrv) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [ULTIMATUM](https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR) | 2:43 | 2025-02-08 | 2025-02-10 |
+| [DD](https://open.spotify.com/track/6tnyd1pEIaWc3cDGZqA64R) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Benash](https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk) | [DD](https://open.spotify.com/album/1gAnfqSKoaIxcoZZ72ISSh) | 2:50 | 2025-07-26 |  |
 | [De bon matin](https://open.spotify.com/track/3EwsJXInOSrHZqSRW2UceI) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [De bon matin](https://open.spotify.com/album/372hc8zOtZ3o0oAX544SxU) | 3:03 | 2021-08-22 | 2021-09-12 |
 | [De bon matin](https://open.spotify.com/track/063gM4qTXOyb17vQCt6YAg) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:03 | 2021-11-07 | 2021-11-14 |
 | [De Niro](https://open.spotify.com/track/1ogcBjJXx64jw6pprBsRlv) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:07 | 2021-11-28 | 2021-11-30 |
@@ -776,8 +777,8 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-05 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-09 |
 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 | 2025-02-07 | 2025-07-16 |
-| [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 | 2025-01-29 |  |
-| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-01-21 | 2025-07-26 |
+| [Feel Good](https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:43 | 2025-01-29 | 2025-07-27 |
+| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-01-21 |  |
 | [Feel Good](https://open.spotify.com/track/6Q0bFWjAn2WFKML1FCdmZF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good \(Version Acoustique\)](https://open.spotify.com/album/5G6avJEvIXa8pOCRLHind5) | 2:43 | 2025-04-18 | 2025-05-19 |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-12-25 | 2024-12-28 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2024-12-27 |

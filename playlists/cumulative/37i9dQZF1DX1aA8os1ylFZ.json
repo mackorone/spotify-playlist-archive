@@ -9321,6 +9321,24 @@
     },
     {
       "album": {
+        "name": "SA NA SAN",
+        "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "date_added": "2025-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "SA NA SAN",
+      "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
+    },
+    {
+      "album": {
         "name": "Same Mistakes",
         "url": "https://open.spotify.com/album/1LdCuw6cLwuMzPOCLBsojB"
       },
@@ -9336,24 +9354,6 @@
       "duration_ms": 163742,
       "name": "Same Mistakes",
       "url": "https://open.spotify.com/track/6tlFgxxlLY6ZbDTxD0u7nP"
-    },
-    {
-      "album": {
-        "name": "SANASA",
-        "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "date_added": "2025-06-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155000,
-      "name": "SANASA",
-      "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
     },
     {
       "album": {

@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/5dQaBv1H0Kr6lPFaYK7eh9"
+      },
+      "artists": [
+        {
+          "name": "Aisles",
+          "url": "https://open.spotify.com/artist/1aHj1tpKsDAUDDOMZXcjQg"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304280,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/2bDdS6aexSEcorYRlUsPsR"
+    },
+    {
+      "album": {
         "name": "Break It All",
         "url": "https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU"
       },
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 269125,
       "name": "Departure",
       "url": "https://open.spotify.com/track/55V2kHwu3VXaJbuS3ph3TZ"
@@ -1983,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Few Dollars More",
+        "url": "https://open.spotify.com/album/1RReFnG2XdOQwXVunlmkZB"
+      },
+      "artists": [
+        {
+          "name": "Pryces",
+          "url": "https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx"
+        },
+        {
+          "name": "Tolan",
+          "url": "https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178735,
+      "name": "Few Dollars More",
+      "url": "https://open.spotify.com/track/0GR2rXSLuuQTiEMOxvBXnG"
+    },
+    {
+      "album": {
         "name": "Fly on a Windshield (Live in London 2024)",
         "url": "https://open.spotify.com/album/0uep9cjuo49UHXoDR9mCaK"
       },
@@ -2362,7 +2402,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 218880,
       "name": "Gypsy Eyes - Remaster 2025",
       "url": "https://open.spotify.com/track/42uBwqUDcdiPuhBy1UhsIg"
@@ -4426,10 +4466,32 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 316137,
       "name": "Phantom Island",
       "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
+    },
+    {
+      "album": {
+        "name": "Philosopher",
+        "url": "https://open.spotify.com/album/4V0MG8wrHXkywg8LNIOHz0"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Caravan",
+          "url": "https://open.spotify.com/artist/61MH29rMIyOfuK7KXQznzX"
+        },
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277109,
+      "name": "Philosopher (feat. Mikael \u00c5kerfeldt)",
+      "url": "https://open.spotify.com/track/2YVcCNQB3TI5YWI36AhXms"
     },
     {
       "album": {
@@ -5218,6 +5280,24 @@
       "duration_ms": 195877,
       "name": "Serum",
       "url": "https://open.spotify.com/track/164OJhNV0X9llMV1EKCvUT"
+    },
+    {
+      "album": {
+        "name": "Shadowland",
+        "url": "https://open.spotify.com/album/7mrxUSHSaC4aVHrdWBXq4c"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277826,
+      "name": "Shadowland",
+      "url": "https://open.spotify.com/track/29Zi2vmF5pLOjzmQwVmExY"
     },
     {
       "album": {
@@ -7058,7 +7138,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 277578,
       "name": "Upon the Rainbow (Befrost) - 2025 Remaster",
       "url": "https://open.spotify.com/track/0VdLi4XZj57BT6HxM3K2jG"

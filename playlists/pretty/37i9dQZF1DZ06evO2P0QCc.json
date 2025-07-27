@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 119186,
+  "num_followers": 119216,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAACA1IQI8CQDq/tnGZW+Y/t3",
+  "snapshot_id": "aILJAAAAAADSHFNOxKjqsFnjUqZBShBQ",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 154897,
-      "name": "Ara\u00f1a Ska",
-      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 172771,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Ara\u00f1a Ska",
+      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
     },
     {
       "added_at": null,

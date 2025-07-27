@@ -4,7 +4,7 @@
 
 > 
 
-231 songs - 9 hr 5 min
+236 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2024-12-31 |  |
 | [AMERICAN WASTELAND](https://open.spotify.com/track/6BB5mSsRYtOILdHMYZKmRz) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [AMERICAN WASTELAND](https://open.spotify.com/album/6AWs0Ua0ne6bblYs9EajUP) | 1:30 | 2025-02-18 | 2025-04-10 |
 | [AMV](https://open.spotify.com/track/0Yixa90fBW3KJO4Kq7pSOF) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/2s5KRwIiuhzG6GHsZ0GP1X) | 2:18 | 2025-05-06 | 2025-05-22 |
+| [anime foreign](https://open.spotify.com/track/4dPTsJMa0nWaOb3tD1IeQP) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi) | [anime foreign](https://open.spotify.com/album/75DL1OxjquTiFV8PTVUsLl) | 1:42 | 2025-07-26 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2025-03-25 |  |
 | [ash.](https://open.spotify.com/track/68WwyjUeTVHlQnEZslzfqV) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:55 | 2025-04-30 |  |
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |
@@ -44,6 +45,7 @@
 | [COME GET UR MANZ!](https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [COME GET UR MANZ!](https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD) | 2:25 | 2025-01-16 |  |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2025-05-20 |  |
 | [could you care less?](https://open.spotify.com/track/1G4YZUPeJ4qpPcUbggoPeE) | [threedimensionsapart](https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE) | [bliss](https://open.spotify.com/album/6I9fLhZ7IUK5uO63pSAWqH) | 1:55 | 2025-07-06 |  |
+| [crashed](https://open.spotify.com/track/10yGK9L3lAjcBh4HniEzfq) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [crashed](https://open.spotify.com/album/1VRG1LmrW2i6ODuZLcu2cf) | 2:28 | 2025-07-26 |  |
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2024-12-31 |  |
 | [CUNT!](https://open.spotify.com/track/7q93z8CgPNFePxuOaLlO8l) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [CUNT!](https://open.spotify.com/album/7noIIWXmY1tYiJITkL1ULL) | 1:50 | 2025-05-23 |  |
@@ -125,6 +127,7 @@
 | [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kroxxxxroad](https://open.spotify.com/track/2GFE1Ukk6NS03ZpPihDtvB) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kroxxxxroad](https://open.spotify.com/album/5ZensT6l0BKw6k2pQ9m9R5) | 1:13 | 2025-04-10 | 2025-04-12 |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
+| [lame](https://open.spotify.com/track/6evPX3O1zxDr0fqsWo4Hw4) | [eyesore](https://open.spotify.com/artist/6n0I3DaAWLcc0mZsfMBxth) | [lame](https://open.spotify.com/album/0QSwSSObG1o5G68Na2b0iN) | 1:22 | 2025-07-26 |  |
 | [last friday night pluggnb](https://open.spotify.com/track/0Qgxzih4OdQOm5yaTrNBcN) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [MANDUMÈ](https://open.spotify.com/artist/6U3p7T8XoU9X4IJuRxQPqg) | [last friday night pluggnb](https://open.spotify.com/album/6uD2Tgnlqos5q7za04Ekmj) | 1:27 | 2025-04-25 |  |
 | [Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:49 | 2025-03-25 |  |
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
@@ -202,6 +205,7 @@
 | [TAP DAT!](https://open.spotify.com/track/4gNALFfkBwikNddA0WvLeX) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Cacity](https://open.spotify.com/artist/3HOEqAUeNKys5WJEsjkCph) | [TAP DAT!](https://open.spotify.com/album/3TnlD72ac0W89zHgWJ09Yl) | 2:22 | 2024-11-23 |  |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2025-05-19 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2025-05-20 |  |
+| [Tell Me Everything](https://open.spotify.com/track/4EsOG03rteaFIZBMXalYd1) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Safe And Sound](https://open.spotify.com/album/0QPgqLJiQi4dHrvmS4qYbi) | 3:07 | 2025-07-26 |  |
 | [tempted](https://open.spotify.com/track/7eOSdLs390cTcnJHUJV6SJ) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [tempted](https://open.spotify.com/album/1QU2m0Qlqob74ISqNXiD9a) | 1:52 | 2025-05-29 |  |
 | [That Way](https://open.spotify.com/track/48oqcueW4GEWJgPcyLPmEQ) | [Miles Yuno](https://open.spotify.com/artist/2bev3VQQJjQ9qLB7Dr8GWo), [Yuno Miles](https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn) | [2 Songs](https://open.spotify.com/album/2l28lB0XYveO2lj2EsYHbP) | 2:32 | 2025-05-12 |  |
 | [The Real](https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:30 | 2025-04-05 |  |
@@ -235,6 +239,7 @@
 | [wym](https://open.spotify.com/track/7GmvuP8jfJROLz27G0sqiT) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Stardust](https://open.spotify.com/album/2B9wUcdcHVW9H9OGMpd6Bn) | 3:20 | 2025-05-28 |  |
 | [Xet's Revenge 2](https://open.spotify.com/track/1WQGJFhNGJWisasPOUPY8s) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk) | [Xet's Revenge 2](https://open.spotify.com/album/1Ubsw50wKJtaX0ah2F5qh3) | 1:36 | 2025-07-25 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2025-05-20 |  |
+| [you](https://open.spotify.com/track/0WPubN7ZXjtulq7wyU5y5c) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [you](https://open.spotify.com/album/1FDv2gaNy1nRMtkBSkoxQr) | 2:23 | 2025-07-26 |  |
 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 | 2025-04-12 |  |
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |

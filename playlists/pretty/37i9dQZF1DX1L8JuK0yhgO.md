@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,079 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,077 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [2 star](https://open.spotify.com/track/09lehlAqhFysZYxqLjvoro) | [AYA GLOOMY](https://open.spotify.com/artist/4BbC7CqmVa2JxUqVVduZ9K) | [2 star](https://open.spotify.com/album/249IxAW9zKgFi3MKPDw4Mq) | 2:47 |
 | 60 | [SCANDAL](https://open.spotify.com/track/6S0IVlL3KHyfdVd8AwZL6i) | [Яu\-a](https://open.spotify.com/artist/79dFfRIECY1rmHs24fHbnb) | [SCANDAL](https://open.spotify.com/album/6eHcTa9t3e4ylSWXuKmDOT) | 3:37 |
 | 61 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
-| 62 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊 & Yohji Igarashi](https://open.spotify.com/artist/6mE4KehwgZIPB8vu4Z2LUn), [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
+| 62 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
 | 63 | [Black Sheep \- evili king remix](https://open.spotify.com/track/3C1btE5D5axNL56Q8BuXvh) | [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [AHIRU remix pt.1](https://open.spotify.com/album/5ksD8KZu9vAuSDDXbADLHW) | 2:33 |
 | 64 | [In Your Fantasy \- Yaeji Ver.](https://open.spotify.com/track/3LbEYWyqHb8BhO7gt39bs0) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [In Your Fantasy \(Remix\)](https://open.spotify.com/album/5JRABjJJFYUMUR7jRdSyAd) | 3:22 |
 | 65 | [VIBEGLO](https://open.spotify.com/track/0NYUJlsDbscqWZdU3JyPXI) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [VIBEGLO](https://open.spotify.com/album/1MA6KsoqXfiSnCJp292ssR) | 3:02 |

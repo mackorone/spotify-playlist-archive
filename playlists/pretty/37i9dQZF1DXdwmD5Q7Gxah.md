@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,778 likes - 176 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,121 likes - 176 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

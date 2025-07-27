@@ -4,7 +4,7 @@
 
 > 
 
-235 songs - 15 hr 54 min
+236 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [No Way Out](https://open.spotify.com/track/3pe9GoJxujrV3Wpl2XvY2t) | [Gemini](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG) | [Fire Inside EP](https://open.spotify.com/album/5INYTDy5JYDnLtdIQxQ0sL) | 3:22 | 2016-01-14 |  |
 | [nobody](https://open.spotify.com/track/5nc3cBfA6A2yPTmN1J2vqt) | [6obby](https://open.spotify.com/artist/1MQM8vc3NvLx1lWofNMxED) | [Elegance.](https://open.spotify.com/album/75EafqYWgMFxRG8glD3kIb) | 3:00 | 2019-01-24 |  |
 | [Nuit Noir \(Dark Night\)](https://open.spotify.com/track/32CgpBzBs87B4FWxVgs2HG) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Nuit Noir \(Dark Night\)](https://open.spotify.com/album/42jfGxEWZ3Ll0CizCzqXl4) | 3:10 | 2024-08-01 |  |
+| [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 | 2025-07-26 |  |
 | [Objects in the Mirror](https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 4:19 | 2019-04-07 |  |
 | [ODIUM](https://open.spotify.com/track/336ASHsxDakSN80bubkfZV) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/5Mqoxc17guz7zb2UzmhZ37) | 2:46 | 2020-10-22 |  |
 | [One Touch](https://open.spotify.com/track/6JEWDRfYmn51nfA7SUiN7u) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ß](https://open.spotify.com/album/2Cq2kLoXNlQ7FpBeeh6IZB) | 3:35 | 2018-03-31 |  |

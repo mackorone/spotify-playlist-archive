@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Blame On You",
+        "url": "https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Blame On You",
+      "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
+    },
+    {
+      "album": {
         "name": "blame's on me",
         "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },

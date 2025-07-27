@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,221 likes - 115 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,108 likes - 115 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

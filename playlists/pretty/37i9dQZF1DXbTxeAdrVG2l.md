@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,576,082 likes - 150 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,576,667 likes - 150 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

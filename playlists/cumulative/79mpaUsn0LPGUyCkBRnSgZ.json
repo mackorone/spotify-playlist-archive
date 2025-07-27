@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Sky Record",
+        "url": "https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y"
+      },
+      "artists": [
+        {
+          "name": "Dan English",
+          "url": "https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213153,
+      "name": "Across My Jaw",
+      "url": "https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60"
+    },
+    {
+      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 35993,
       "name": "do u c",
       "url": "https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz"
@@ -7266,6 +7284,28 @@
       "duration_ms": 45960,
       "name": "Ivory",
       "url": "https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6"
+    },
+    {
+      "album": {
+        "name": "Johnson & Jonson",
+        "url": "https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Mainframe",
+          "url": "https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261198,
+      "name": "J & J",
+      "url": "https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2"
     },
     {
       "album": {

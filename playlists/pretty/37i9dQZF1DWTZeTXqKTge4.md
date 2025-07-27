@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: kinji00, lb66
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,903 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,902 likes - 74 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

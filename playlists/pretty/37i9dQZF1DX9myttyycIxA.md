@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Automatic
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,029 likes - 115 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,045 likes - 115 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

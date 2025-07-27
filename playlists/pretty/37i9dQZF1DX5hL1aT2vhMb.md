@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,549 likes - 101 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,560 likes - 101 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,170 likes - 60 songs - 3 hr 27 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,174 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 16 | [Solaris](https://open.spotify.com/track/4jdHLaiKIeK4Mz6WTcGGn9) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Solaris](https://open.spotify.com/album/3ebQKGw7PZDttiWa9Ssz5i) | 3:08 |
 | 17 | [Higher](https://open.spotify.com/track/6dfsOfSc7btDorllFyuKic) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE) | [Higher](https://open.spotify.com/album/4aJW5Ep8bb1MCZP85fKIEM) | 3:14 |
 | 18 | [Life Is A Highway](https://open.spotify.com/track/0v7eYJc6b08AEXzODkcftN) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Life Is A Highway](https://open.spotify.com/album/5WqKmmx141vicnW8X4qr5b) | 3:16 |
-| 19 | [flowers](https://open.spotify.com/track/3hlKYho18Yqw3SzNFYnE3f) | [TLKR](https://open.spotify.com/artist/0TGKJ0BiWoKfKnKgd5R6hC) | [Process](https://open.spotify.com/album/0tQndL7nzwitPcELT3Mdv0) | 4:18 |
+| 19 | [flowers](https://open.spotify.com/track/3hlKYho18Yqw3SzNFYnE3f) | [TLKR](https://open.spotify.com/artist/0TGKJ0BiWoKfKnKgd5R6hC) | [PROCESS](https://open.spotify.com/album/0tQndL7nzwitPcELT3Mdv0) | 4:18 |
 | 20 | [Just A Little Love](https://open.spotify.com/track/777LMzaQKEBnwPfCWJuZcy) | [Habbo Foxx](https://open.spotify.com/artist/6ClthkuzNdg6RTOlO9OBQH) | [Just A Little Love](https://open.spotify.com/album/06N9xcHJhxBAfSwg9heeSF) | 3:21 |
 | 21 | [Uno](https://open.spotify.com/track/081FC39AZGd2NmM7YNZHxr) | [Camisado](https://open.spotify.com/artist/0pvlpkTlSafv0eKyGQ2HtS), [Labeeb](https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0) | [Uno](https://open.spotify.com/album/0RSF6TG8NGWAli3ayhfHDg) | 3:21 |
 | 22 | [Gravitation](https://open.spotify.com/track/5QnOeskDPo8z2pWDaYWepo) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P), [Collide1](https://open.spotify.com/artist/1BQkaDW3ZEpSzF75p5CCXg) | [Gravitation](https://open.spotify.com/album/1Wb2PEdglR9BNi0s4v5ydR) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,313 likes - 71 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,323 likes - 71 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 59 | [Strange Light in Her Eyes](https://open.spotify.com/track/6ukWzLZrSZvgbmSDmojZrM) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [Strange Light in Her Eyes](https://open.spotify.com/album/3wj0o4bEOsAoZkyW2qdda3) | 4:15 |
 | 60 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 61 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
-| 62 | [Lyric Pieces, Book 9, Op\. 68: Badnlat \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Lyric Pieces, Books 8 \- 10, Opp\. 65, 68, and 71](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |
+| 62 | [Lyric Pieces, Book 9, Op\. 68: No\. 5, Bådnlåt \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Piano Music, Vol\. 10](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |
 | 63 | [Near \(Piano Rework\)](https://open.spotify.com/track/4DjYi5buWGphomdB4BjJDd) | [Liam Phan](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR) | [Near \(Piano Rework\)](https://open.spotify.com/album/4u37FT4IaZyWhzDNnnpzvn) | 2:50 |
 | 64 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
 | 65 | [Lullaby For Nick](https://open.spotify.com/track/3WA6G5I5pfVR2NG7xvngZu) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music By Elena Kats\-Chernin](https://open.spotify.com/album/5VDfSISCsDgMMOIBvoKLRp) | 3:23 |

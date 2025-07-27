@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 115366,
+  "num_followers": 115379,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAABGJhB4pZOUAGGTbcHQp4wC",
+  "snapshot_id": "aILJAAAAAADtFGm6n7XrxKW1ZCA/ak3T",
   "tracks": [
     {
       "added_at": null,
@@ -422,15 +422,11 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
         }
       ],
-      "duration_ms": 230773,
-      "name": "M\u00e1scaras",
-      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
+      "duration_ms": 226240,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
     },
     {
       "added_at": null,
@@ -494,11 +490,15 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+      "duration_ms": 230773,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 487384,
-      "name": "A Casa \u00e9 Sua + Labareda",
-      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 236470,
       "name": "Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 487384,
+      "name": "A Casa \u00e9 Sua + Labareda",
+      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dono dos Meus Dias",
-        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Dono dos Meus Dias",
-      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem Perto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 426318,
       "name": "Bem Perto - Ao Vivo",
       "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": null,

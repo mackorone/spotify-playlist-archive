@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,531 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,605 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 18 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 |
 | 19 | [Terrain](https://open.spotify.com/track/3yLPYSbBd4aFGFYcazyzJZ) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Terrain](https://open.spotify.com/album/1wtuEji0aUk9FjSPFytFEo) | 2:42 |
 | 20 | [Jolie Go](https://open.spotify.com/track/4v3lgjogLhfWa6T4zgNwmE) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Mafana 2](https://open.spotify.com/album/2jTzwhUKkbVwajt3Q8lT4Q) | 2:12 |
-| 21 | [BTRD ft\. R2](https://open.spotify.com/track/2VMDCUgQjwMTckhAm9SvTP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [BTRD \(feat\. R2\) – Remix](https://open.spotify.com/album/0Hz86YfqGq7SCMsfWTFNQR) | 2:41 |
+| 21 | [BTRD \(feat\. R2\) – Remix](https://open.spotify.com/track/2VMDCUgQjwMTckhAm9SvTP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [BTRD \(feat\. R2\) – Remix](https://open.spotify.com/album/0Hz86YfqGq7SCMsfWTFNQR) | 2:41 |
 | 22 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |
 | 23 | [C'est Quoi Ton Délire](https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Nés Pour Briller : Book II](https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh) | 2:54 |
 | 24 | [Bottega](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Bottega](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 |

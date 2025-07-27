@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 130544,
+  "num_followers": 130581,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAADiGgAk/1oPHNK55BHC1lnp",
+  "snapshot_id": "aILJAAAAAAAzSoHO2DD2EgwrTpPzSCnv",
   "tracks": [
     {
       "added_at": null,
@@ -166,11 +166,15 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Never Gonna Stop (The Red, Red Kroovy)",
-      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
+      "duration_ms": 251200,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
     },
     {
       "added_at": null,
@@ -230,15 +234,11 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
+      "duration_ms": 189133,
+      "name": "Never Gonna Stop (The Red, Red Kroovy)",
+      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Shake Your Ass-Smoke Your Grass",
-      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+      "duration_ms": 167813,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Shake Your Ass-Smoke Your Grass",
+      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 208946,
       "name": "Foxy, Foxy",
       "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "Boom-Boom-Boom",
-      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "Boom-Boom-Boom",
+      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -447,6 +463,22 @@
       "duration_ms": 234240,
       "name": "The Devil's Rejects",
       "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Sick Bubblegum",
+      "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
     },
     {
       "added_at": null,
@@ -507,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Standard Explicit)",
-        "url": "https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -516,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 167813,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/7LfCxBT8PCrWc62KweFhX5"
+      "duration_ms": 194933,
+      "name": "Shadow of the Cemetery Man",
+      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
     },
     {
       "added_at": null,
@@ -539,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Shadow of the Cemetery Man",
-      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -567,58 +583,6 @@
       "duration_ms": 273720,
       "name": "Teenage Nosferatu Pussy",
       "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellbilly Deluxe 2 (Standard Explicit)",
-        "url": "https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Sick Bubblegum",
-      "url": "https://open.spotify.com/track/3Y1TE5Robqc8DX353CYkHn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Howard Stern",
-          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "The Great American Nightmare",
-      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "The Ballad of Sleazy Rider",
-      "url": "https://open.spotify.com/track/2wY5AD0JnaANlabZbx2CFF"
     },
     {
       "added_at": null,
@@ -639,6 +603,42 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "The Ballad of Sleazy Rider",
+      "url": "https://open.spotify.com/track/2wY5AD0JnaANlabZbx2CFF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Howard Stern",
+          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "The Great American Nightmare",
+      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
     },
     {
       "added_at": null,

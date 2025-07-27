@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "BOYS BOYS BOYS",
+        "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130095,
+      "name": "BOYS BOYS BOYS",
+      "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
+    },
+    {
+      "album": {
         "name": "DROOL",
         "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
       },

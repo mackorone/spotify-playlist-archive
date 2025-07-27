@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: Polami Roko
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,934 likes - 130 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,955 likes - 130 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

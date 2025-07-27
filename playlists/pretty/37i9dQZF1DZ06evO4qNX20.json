@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 332394,
+  "num_followers": 332504,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAAB58APt/larTFJIosDnlo9o",
+  "snapshot_id": "aILJAAAAAACMlKrLcYYAgn9s7YR9XaA8",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Chalino",
-        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 174927,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 226603,
       "name": "Tino Quintero",
       "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A Chalino",
+        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 174927,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
     },
     {
       "added_at": null,

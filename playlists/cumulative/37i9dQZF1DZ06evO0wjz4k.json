@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 208426,
       "name": "Permanent Headphones",
       "url": "https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ"
@@ -952,10 +952,28 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 242013,
       "name": "Watch Me Bleed",
       "url": "https://open.spotify.com/track/1lGme292PTeG8YIZMY3pwj"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234045,
+      "name": "Watch Me Bleed - (Spotify OUTSIDE Version) - Live From Austin, TX",
+      "url": "https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe"
     },
     {
       "album": {

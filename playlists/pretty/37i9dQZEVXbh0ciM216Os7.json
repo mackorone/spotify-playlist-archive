@@ -6,23 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAE5HHkkHamQ9Nb/Mj1YRZt",
+  "snapshot_id": "AAAAAAAAAACCFSwRWmt+QxTmU7/za9hJ",
   "tracks": [
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+        "name": "Cornbread Creek",
+        "url": "https://open.spotify.com/album/33kdzraWtulLzychTXqB5M"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
         }
       ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+      "duration_ms": 155016,
+      "name": "Cornbread Creek",
+      "url": "https://open.spotify.com/track/7E7Qyqphz970FHpH3D6V1o"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -51,6 +51,42 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "IKEA",
+        "url": "https://open.spotify.com/album/1Aws9Qh7svWCgdN2kNBl0b"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moonstone",
+          "url": "https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "IKEA",
+      "url": "https://open.spotify.com/track/5vc406Rv1ShzMMpKw1yvAx"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "Stir Fry",
         "url": "https://open.spotify.com/album/4ucs2IpqJB3AfjT8sIR9RC"
       },
@@ -71,6 +107,26 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "Rock 'n' Roll Fantasy",
+        "url": "https://open.spotify.com/album/0RkumwOgVf3zr9AcYC4VdE"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Rock 'n' Roll Fantasy",
+      "url": "https://open.spotify.com/track/2tnRDvnf6pldFNeHvGcBlc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/0V5YauW5H7qqrlJuRqgLIN"
       },
@@ -83,26 +139,6 @@
       "duration_ms": 215959,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/4stlvMMftU1rkS5onjmB38"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "IKEA",
-        "url": "https://open.spotify.com/album/1Aws9Qh7svWCgdN2kNBl0b"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moonstone",
-          "url": "https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "IKEA",
-      "url": "https://open.spotify.com/track/5vc406Rv1ShzMMpKw1yvAx"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -135,38 +171,22 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
-        "name": "Take It Slow",
-        "url": "https://open.spotify.com/album/0P6NPdGv5WzBCDyAlaJ3v8"
+        "name": "Lotus Ave",
+        "url": "https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D"
       },
       "artists": [
         {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 248871,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/2Lx9TxsY1MMg7auWEtz1Jj"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Rock 'n' Roll Fantasy",
-        "url": "https://open.spotify.com/album/0RkumwOgVf3zr9AcYC4VdE"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
         },
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Rock 'n' Roll Fantasy",
-      "url": "https://open.spotify.com/track/2tnRDvnf6pldFNeHvGcBlc"
+      "duration_ms": 216413,
+      "name": "Touch - feat. GoldLink",
+      "url": "https://open.spotify.com/track/2fQFJOWin78fvUkSktiiz5"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -195,26 +215,6 @@
       "duration_ms": 156000,
       "name": "lagrange point",
       "url": "https://open.spotify.com/track/32nJNF3dzxTTRGoJ0doNzc"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Lotus Ave",
-        "url": "https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Touch - feat. GoldLink",
-      "url": "https://open.spotify.com/track/2fQFJOWin78fvUkSktiiz5"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 142772,
-      "name": "LAST BREATH",
-      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
@@ -347,6 +327,26 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 142772,
+      "name": "LAST BREATH",
+      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "Runaway (U & I)",
         "url": "https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e"
       },
@@ -363,46 +363,6 @@
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Good To Be Alone",
-        "url": "https://open.spotify.com/album/7ryE5HpEoFLHY5X4lRBOmU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Good To Be Alone",
-      "url": "https://open.spotify.com/track/18f0ngPrmG9Pt219tFCQwm"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Hotel Rock Bottom (Deluxe)",
-        "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
-      },
-      "artists": [
-        {
-          "name": "Frankie Grande",
-          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 195705,
-      "name": "Hotel Rock Bottom (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -447,6 +407,26 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "Good To Be Alone",
+        "url": "https://open.spotify.com/album/7ryE5HpEoFLHY5X4lRBOmU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Good To Be Alone",
+      "url": "https://open.spotify.com/track/18f0ngPrmG9Pt219tFCQwm"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "We Rule the Waves",
         "url": "https://open.spotify.com/album/4b0t4as9hyLqBEMGttRT4t"
       },
@@ -463,26 +443,22 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
-        "name": "Go Head Testify",
-        "url": "https://open.spotify.com/album/5aWJ2T8Eua2PjnIYC3lntl"
+        "name": "Hotel Rock Bottom (Deluxe)",
+        "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
       },
       "artists": [
         {
-          "name": "DJ Brisk",
-          "url": "https://open.spotify.com/artist/3fMe0GKQOM1OHKrvYqOqnO"
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
         },
         {
-          "name": "Duane's Primo",
-          "url": "https://open.spotify.com/artist/2kzIaMoPmHTD9tb1c9mETe"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 128576,
-      "name": "Go Head Testify",
-      "url": "https://open.spotify.com/track/13p6tEOo9jYWn3bbxNs6RS"
+      "duration_ms": 195705,
+      "name": "Hotel Rock Bottom (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -515,6 +491,30 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "Go Head Testify",
+        "url": "https://open.spotify.com/album/5aWJ2T8Eua2PjnIYC3lntl"
+      },
+      "artists": [
+        {
+          "name": "DJ Brisk",
+          "url": "https://open.spotify.com/artist/3fMe0GKQOM1OHKrvYqOqnO"
+        },
+        {
+          "name": "Duane's Primo",
+          "url": "https://open.spotify.com/artist/2kzIaMoPmHTD9tb1c9mETe"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 128576,
+      "name": "Go Head Testify",
+      "url": "https://open.spotify.com/track/13p6tEOo9jYWn3bbxNs6RS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "The Emperor's New Clothes",
         "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
       },
@@ -527,6 +527,26 @@
       "duration_ms": 144201,
       "name": "Bear Hill",
       "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
+        "name": "Friends Forever",
+        "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 170727,
+      "name": "Friends Forever",
+      "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -553,28 +573,8 @@
         }
       ],
       "duration_ms": 208384,
-      "name": "Life in a Wind - Blanka Remix - Instrumental",
-      "url": "https://open.spotify.com/track/35CtnSKqfD4dXk0DutZzzE"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Friends Forever",
-        "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        },
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Friends Forever",
-      "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
+      "name": "Life in a Wind - Blanka Remix",
+      "url": "https://open.spotify.com/track/000JwtANwYYLS0QGKCtR0E"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -659,6 +659,30 @@
     {
       "added_at": "2025-07-25 04:00:00",
       "album": {
+        "name": "Odyssey (feat. Kamasi Washington & MonoNeon)",
+        "url": "https://open.spotify.com/album/70HM2atLXAgkMzF8Hpi5jZ"
+      },
+      "artists": [
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 419557,
+      "name": "Odyssey (feat. Kamasi Washington & MonoNeon)",
+      "url": "https://open.spotify.com/track/33NlWTimeC5cVlVadVmHmd"
+    },
+    {
+      "added_at": "2025-07-25 04:00:00",
+      "album": {
         "name": "MODERN DAY",
         "url": "https://open.spotify.com/album/6492ivv1TvmfA2sAfpILAp"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 98102,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/1QIiUC7hBcj65AnPta3IDt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:00",
-      "album": {
-        "name": "Odyssey (feat. Kamasi Washington & MonoNeon)",
-        "url": "https://open.spotify.com/album/70HM2atLXAgkMzF8Hpi5jZ"
-      },
-      "artists": [
-        {
-          "name": "Maurice Mobetta Brown",
-          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 419557,
-      "name": "Odyssey (feat. Kamasi Washington & MonoNeon)",
-      "url": "https://open.spotify.com/track/33NlWTimeC5cVlVadVmHmd"
     },
     {
       "added_at": "2025-07-25 04:00:00",
@@ -789,7 +789,7 @@
         }
       ],
       "duration_ms": 220506,
-      "name": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
+      "name": "Beethoven: Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
       "url": "https://open.spotify.com/track/2EHFAdUylTDSxW15HVxtui"
     },
     {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3taT6ggBE3avGeAoHoOtpn"
         }
       ],
-      "duration_ms": 353985,
-      "name": "Glassworks: Rubric (arranged for Organ)",
-      "url": "https://open.spotify.com/track/3ZGwFfw05Sor6FZBIWu2XA"
+      "duration_ms": 333755,
+      "name": "Glassworks: Floe (arranged for Organ)",
+      "url": "https://open.spotify.com/track/5bOm7ZsuIDIQRiRi73pRST"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

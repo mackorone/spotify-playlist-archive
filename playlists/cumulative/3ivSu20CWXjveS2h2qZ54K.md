@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,826 songs - 11 day 2 hr 56 min
+4,828 songs - 11 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2740,7 +2740,7 @@
 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-06 | 2024-12-14 |
 | [MI ROSTRO](https://open.spotify.com/track/15SFqYHsArxZLJVdQHxYg6) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [REPÚBLICA](https://open.spotify.com/album/5Dnn8i5SsS07et9uMuYUcD) | 4:22 | 2024-10-24 | 2024-11-09 |
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-03 | 2024-10-12 |
-| [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-18 | 2025-07-26 |
+| [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-18 |  |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 | 2025-07-19 |
 | [Miami \(feat\. Lil Wayne & Rick Ross\)](https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Miami](https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj) | 3:37 | 2025-07-25 |  |
 | [MIAU](https://open.spotify.com/track/56yrg4v6jR84zWgfmp7Vnw) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [MIAU](https://open.spotify.com/album/4myIYFgyU6L1hXHVkpdTvP) | 3:08 | 2024-06-21 | 2024-06-29 |
@@ -2919,6 +2919,7 @@
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-10 |
 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 | 2025-06-27 | 2025-07-05 |
 | [New Thing](https://open.spotify.com/track/2RqcKdHEerMFtxukKy2v7o) | [Avery Friedman](https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG) | [New Thing](https://open.spotify.com/album/17gNDpVvalonWMAeTbAs8h) | 3:35 | 2025-03-28 | 2025-04-05 |
+| [New Utensils \- Radical Romantics Session](https://open.spotify.com/track/0D9btLkZrZV5WlgDziNtKU) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [The Year of The Radical Romantics](https://open.spotify.com/album/16KWulLktjvWJ4r9KPj4pF) | 4:53 | 2025-07-26 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2024-08-24 |
 | [New World \- Edit](https://open.spotify.com/track/3WlZC3R1sRWTvg2blrTxxr) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [New World \(Edit\) / Falling, the Light](https://open.spotify.com/album/1brnhn6GF1Jh45M6bQhR3a) | 3:47 | 2024-05-17 | 2024-05-25 |
 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-05-31 | 2024-06-12 |
@@ -3325,6 +3326,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2024-06-15 |
 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 | 2024-10-03 | 2024-10-12 |
 | [Pocket Knife](https://open.spotify.com/track/1kHXxernV9A1lY6338wyfp) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [In the Shadow of the Holy Mountain](https://open.spotify.com/album/7EVwpyLfICZXRJ835xn1zM) | 3:50 | 2024-08-16 | 2024-08-24 |
+| [Podemos vencer](https://open.spotify.com/track/5NyMvkA313Ym9VsuKkNA7R) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Podemos vencer](https://open.spotify.com/album/0RSNzKER03VlI66rBNHggr) | 3:39 | 2025-07-26 |  |
 | [Podría haber sido](https://open.spotify.com/track/759USLl8mOuL3MoDZmIQvk) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Podría haber sido](https://open.spotify.com/album/6dRRplO5lOBNFv2KHN8vW3) | 2:58 | 2025-01-17 | 2025-01-25 |
 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 | 2024-11-08 | 2024-11-16 |
 | [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-12 | 2024-07-19 |

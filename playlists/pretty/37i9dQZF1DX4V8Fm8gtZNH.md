@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,341 likes - 346 songs - 20 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,395 likes - 346 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 143 | [Give It 2 You](https://open.spotify.com/track/7ynkMgK15OkMn5sOKOIru2) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [True 2 the Streets: G\-Funk Hood Classics](https://open.spotify.com/album/3XIT4VhHLPR5YzLUKCkLHG) | 3:52 |
 | 144 | [Too Late](https://open.spotify.com/track/0bHMLzRZ4GaHO3PnOCtTth) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:48 |
 | 145 | [I Wish](https://open.spotify.com/track/3lqT89gv8p3PYwXtr3ODjv) | [Carl Thomas](https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U) | [Emotional](https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2) | 3:48 |
-| 146 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/32XFczkeHJUL22Kx0ll3nk) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
+| 146 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 147 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 148 | [PH \(Penthouse\)](https://open.spotify.com/track/0rtnpKkPuoqF1R826CUpKN) | [Robyn Hood](https://open.spotify.com/artist/44QkgHRqcI21Su6p5jUxAU) | [The Fourth Quarter](https://open.spotify.com/album/2BgfN05wEklRxHHshvG3Yd) | 2:35 |
 | 149 | [Weed & Drank](https://open.spotify.com/track/6m9TDcbZ938H4vx6WtnzQU) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Weed & Drank](https://open.spotify.com/album/2PFjoH51GQkBmqcD7cmb8q) | 3:09 |

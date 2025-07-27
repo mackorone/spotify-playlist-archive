@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Dis-moi que tu m'aimes",
+        "url": "https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193485,
+      "name": "Dis-moi que tu m'aimes",
+      "url": "https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk"
+    },
+    {
+      "album": {
         "name": "Horizon vertical",
         "url": "https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID"
       },

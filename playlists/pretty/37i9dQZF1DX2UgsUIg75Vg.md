@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,377,731 likes - 201 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,600 likes - 201 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

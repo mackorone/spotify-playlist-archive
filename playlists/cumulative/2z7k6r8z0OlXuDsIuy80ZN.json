@@ -2741,6 +2741,28 @@
     },
     {
       "album": {
+        "name": "Hiekka",
+        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Hiekka",
+      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
+    },
+    {
+      "album": {
         "name": "Hist\u00e9ricos",
         "url": "https://open.spotify.com/album/5G8wMHPdXsVfd25THze79N"
       },
@@ -4608,7 +4630,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 191551,
       "name": "PLAN DE HOY [QUIERO VERTE]",
       "url": "https://open.spotify.com/track/7bM39j41perIVseatvugg3"
@@ -5628,7 +5650,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 179679,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/65hdAblzcILvqLPER3jjoM"
@@ -6270,6 +6292,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/4r1Zyd80QdexPl8wan52t3"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tx7mEfR9lXzTi2Sbags7T"
     },
     {
       "album": {

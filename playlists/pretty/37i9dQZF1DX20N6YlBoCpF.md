@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Brendan Peyper, Bobby Van Jaarsveld, Robbie Wessels, Andriette en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,113 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,231 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 5 | [Nommer Hou](https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Nommer Hou](https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj) | 3:06 |
 | 6 | [Jy Was Altyd Hier](https://open.spotify.com/track/1D1RqSbwP4VRWoAaK6nQFp) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Jy Was Altyd Hier](https://open.spotify.com/album/3JWp69Uid24NjfE2hAfDaX) | 3:33 |
 | 7 | [Wat As](https://open.spotify.com/track/1IBpMxrdgnBIB7WYv4Zv1z) | [Annelie](https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw) | [Wat As](https://open.spotify.com/album/3xBbJAln18lMqZ5OMxSeA1) | 3:44 |
-| 8 | [Bars & Laat Aande](https://open.spotify.com/track/1qEGAspjXe34tSw4l78SJi) | [PC Vermaak](https://open.spotify.com/artist/2OhupivY8sKR2zr7UpVEtI) | [Bars & Laat Aande](https://open.spotify.com/album/1EWTkhY3z8eP2cgGbXSE56) | 3:13 |
+| 8 | [Bars En Laat Aande](https://open.spotify.com/track/1qEGAspjXe34tSw4l78SJi) | [PC Vermaak](https://open.spotify.com/artist/2OhupivY8sKR2zr7UpVEtI) | [Bars En Laat Aande](https://open.spotify.com/album/1EWTkhY3z8eP2cgGbXSE56) | 3:13 |
 | 9 | [Ek Glo \- SENSASIE Remix](https://open.spotify.com/track/5D83zEIDbaDUnWMdfZZDWS) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Ek Glo \(SENSASIE Remix\)](https://open.spotify.com/album/1zFAVTa92JgCdcAI1QuUUq) | 3:24 |
 | 10 | [Bedoel](https://open.spotify.com/track/2NSzRLTgMubVVfx2CjpPkQ) | [Vernon Barnard](https://open.spotify.com/artist/2TPxotA1MPCxSlIBSWrJX5) | [Bedoel](https://open.spotify.com/album/152ty8rhHnELQjzLFaRM2F) | 3:01 |
 | 11 | [Die Pad](https://open.spotify.com/track/3Xm2hmkPKrgVVGcTV5VRAg) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Die Pad](https://open.spotify.com/album/4OW7qQ048lMybu2jfnO1kn) | 4:57 |

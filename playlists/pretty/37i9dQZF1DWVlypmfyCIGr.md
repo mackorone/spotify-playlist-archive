@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: きゃりーぱみゅぱみゅ
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,079 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,084 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 27 | [メリーゴーランド](https://open.spotify.com/track/4IfFp17UgCk3cPUoI01ylT) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [メリーゴーランド](https://open.spotify.com/album/6joOtisAXUQcEIk7VBJnnO) | 3:25 |
 | 28 | [ピンチはダンス](https://open.spotify.com/track/5XtUHGFLQSSe9upEhVMk8W) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [ピンチはダンス](https://open.spotify.com/album/5tpNweK7HDHxzJvjU0LRbP) | 3:27 |
 | 29 | [iconoclasm](https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [iconoclasm](https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M) | 4:50 |
-| 30 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊 & Yohji Igarashi](https://open.spotify.com/artist/6mE4KehwgZIPB8vu4Z2LUn), [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
+| 30 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
 | 31 | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/track/74j57iyEvt0mw0QTRLlGTq) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/album/4tDJZnYW0H7UmQ98rCNdOu) | 0:33 |
 | 32 | [フル無視ベイベー](https://open.spotify.com/track/5xXwaSLa8fXw8KvXEwcN3z) | [Luov](https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww) | [フル無視ベイベー](https://open.spotify.com/album/2Id3nwLfXQ12L2ZpmBWx6f) | 3:09 |
 | 33 | [Hey!Calling](https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Hey!Calling](https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC) | 3:57 |

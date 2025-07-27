@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-860 songs - 2 day 9 hr 6 min
+862 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [A Tooth for an Eye](https://open.spotify.com/track/51dXFarmGXwJI75jxJaKyf) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Shaking The Habitual](https://open.spotify.com/album/6GWQ6fq8krujlglglMPyPu) | 6:04 | 2023-03-11 |  |
 | [Absolutely Cuckoo](https://open.spotify.com/track/6In0XQ2hzhfHbW5L6mkc4j) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:34 | 2023-04-24 | 2025-04-25 |
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 | 2024-08-02 |  |
+| [Across My Jaw](https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 3:33 | 2025-07-26 |  |
 | [Acroyear2](https://open.spotify.com/track/3pxBYL8ZRSAjQSUIxpsxkF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 8:39 | 2024-03-26 |  |
 | [Act Won \(Things Fall Apart\)](https://open.spotify.com/track/4x7uHC8or1AwVeRCh1mULV) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 0:53 | 2022-01-03 |  |
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
@@ -209,7 +210,7 @@
 | [Divine Fault Line](https://open.spotify.com/track/0quhypMAHswXpRBXAqxS4G) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:18 | 2024-03-31 |  |
 | [DO IT](https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:12 | 2024-01-08 |  |
 | [Do Not Fire! \(demo\)](https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 0:52 | 2025-02-01 |  |
-| [do u c](https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [abc](https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20) | 0:35 | 2024-05-22 |  |
+| [do u c](https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [abc](https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20) | 0:35 | 2024-05-22 | 2025-07-27 |
 | [Dodecahedron](https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore](https://open.spotify.com/album/1JfbPIbBc0wMHgl5zmwm9x) | 2:42 | 2022-11-24 |  |
 | [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 | 2024-01-31 | 2024-02-01 |
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
@@ -398,6 +399,7 @@
 | [It's Random](https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:24 | 2024-02-24 | 2024-03-05 |
 | [It's Working](https://open.spotify.com/track/2sCaihW0VlDKecbUgMSzRY) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 4:06 | 2022-07-25 |  |
 | [Ivory](https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 0:45 | 2023-06-21 |  |
+| [J & J](https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Mainframe](https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h) | [Johnson & Jonson](https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h) | 4:21 | 2025-07-26 |  |
 | [Jealousy](https://open.spotify.com/track/3sXZLfPN16Xnwr0hJt3Tvl) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Live Forever](https://open.spotify.com/album/0BTz0mHuiV8hEsU9azWSwo) | 2:41 | 2022-03-27 |  |
 | [Jenny Was A Friend Of Mine](https://open.spotify.com/track/60eVCXFCuw1WYswBuNZc4H) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 4:03 | 2023-12-13 |  |
 | [Jesus Alone](https://open.spotify.com/track/7xqVvINIZAzzNRh4MLzdf2) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S) | 5:52 | 2024-01-19 |  |

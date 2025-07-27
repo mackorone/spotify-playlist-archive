@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: mimi bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,575 likes - 131 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,587 likes - 131 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

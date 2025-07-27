@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4259,
+  "num_followers": 4260,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAACG3GgYaUS56+F5xWB3o0ES",
+  "snapshot_id": "aILJAAAAAAAWAPNBqPPncwgXeTPMg2Pe",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
+      "duration_ms": 123853,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 123853,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
+      "duration_ms": 215813,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
     },
     {
       "added_at": null,
@@ -556,41 +556,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 156173,
-      "name": "Can't Wait Forever",
-      "url": "https://open.spotify.com/track/70IPNiaQXZPNPJPkXLsZuX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belongs To The Dead",
-        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Okay Paddy",
-      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+      "duration_ms": 189578,
+      "name": "Lemon Mouth",
+      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
     },
     {
       "added_at": null,
@@ -611,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Okay Paddy",
+      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 189578,
-      "name": "Lemon Mouth",
-      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
+      "duration_ms": 156173,
+      "name": "Can't Wait Forever",
+      "url": "https://open.spotify.com/track/70IPNiaQXZPNPJPkXLsZuX"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
+      "duration_ms": 180070,
+      "name": "Danielson",
+      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belongs To The Dead",
-        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 180070,
-      "name": "Danielson",
-      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,

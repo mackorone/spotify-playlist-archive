@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Shadowbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,249 likes - 145 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,255 likes - 145 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

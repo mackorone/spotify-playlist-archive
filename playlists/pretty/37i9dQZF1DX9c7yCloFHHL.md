@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Passepartout Duo
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,595 likes - 102 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,697 likes - 102 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 113000,
       "name": "4h44",
       "url": "https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1"
@@ -12245,6 +12245,28 @@
     },
     {
       "album": {
+        "name": "DD",
+        "url": "https://open.spotify.com/album/1gAnfqSKoaIxcoZZ72ISSh"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        },
+        {
+          "name": "Benash",
+          "url": "https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170388,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/6tnyd1pEIaWc3cDGZqA64R"
+    },
+    {
+      "album": {
         "name": "De bon matin",
         "url": "https://open.spotify.com/album/372hc8zOtZ3o0oAX544SxU"
       },
@@ -15504,7 +15526,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -15522,7 +15544,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"

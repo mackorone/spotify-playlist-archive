@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Kpop Piano Collection, #11",
+        "url": "https://open.spotify.com/album/7uHs1hIbUIQRV7tPvcg2wX"
+      },
+      "artists": [
+        {
+          "name": "Funguypiano",
+          "url": "https://open.spotify.com/artist/6cZqUJFOubd93SOH0yDHRj"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Handlebars",
+      "url": "https://open.spotify.com/track/6ixErpg4UrmWcpTgOUEuRM"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },

@@ -10200,8 +10200,8 @@
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "sion",
+          "url": "https://open.spotify.com/artist/5yxj9pRLggnmnYR3Qqt9z3"
         }
       ],
       "date_added": "2025-07-23",
@@ -101229,24 +101229,6 @@
     },
     {
       "album": {
-        "name": "If You See Me",
-        "url": "https://open.spotify.com/album/3J2VHTuMgoyd1pdtJl4djE"
-      },
-      "artists": [
-        {
-          "name": "Gitae",
-          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
-        }
-      ],
-      "date_added": "2025-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224000,
-      "name": "If You See Me",
-      "url": "https://open.spotify.com/track/4IAyc72wBwskzwM8QvC93Y"
-    },
-    {
-      "album": {
         "name": "BY CHANCE PROJECT",
         "url": "https://open.spotify.com/album/0zSuVBhpSoJJZOJpT0f8Zb"
       },
@@ -101262,6 +101244,24 @@
       "duration_ms": 205880,
       "name": "If You See Me",
       "url": "https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i"
+    },
+    {
+      "album": {
+        "name": "If You See Me",
+        "url": "https://open.spotify.com/album/3J2VHTuMgoyd1pdtJl4djE"
+      },
+      "artists": [
+        {
+          "name": "\uae30\ud0dc",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "If You See Me",
+      "url": "https://open.spotify.com/track/4IAyc72wBwskzwM8QvC93Y"
     },
     {
       "album": {

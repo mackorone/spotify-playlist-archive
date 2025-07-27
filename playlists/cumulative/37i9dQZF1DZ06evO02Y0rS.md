@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-103 songs - 7 hr 45 min
+104 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Flutter](https://open.spotify.com/track/118jpM7D5hnAEYJ6EzEY3G) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flutter](https://open.spotify.com/album/2RJzEXouslaRTm2EecGPcm) | 4:44 | 2022-01-15 | 2022-01-31 |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-01-27 | 2024-06-24 |
 | [Fold \- Mixed](https://open.spotify.com/track/0dl55Rny3g7RzDOFfLbVsJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Global Underground \#46: ANNA \- Lisbon](https://open.spotify.com/album/3yLFAvONNAOKGodAW4QOOl) | 4:47 | 2024-06-24 | 2024-08-28 |
+| [Frenemies \- feat\. Hak Baker, Bonobo, Damon Albarn, Otim Alpha, Mélissa Hié & Ophélia Hié](https://open.spotify.com/track/3EC9PXfg2PMRcya0ng7rlc) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Otim Alpha](https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV), [Mélissa Hié](https://open.spotify.com/artist/1vjbKbbpLTjIlCvlnVVmGt), [Ophélia Hié](https://open.spotify.com/artist/0UiKPbwDJsliBBk4V5n2u4) | [Africa Express Presents..\. Bahidorá](https://open.spotify.com/album/3KMZGvFIB8djCFognOb1Op) | 5:21 | 2025-07-27 |  |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-15 | 2022-05-28 |
 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 | 2022-10-13 |  |
 | [Get Thy Bearings \(feat\. Szjerdene\)](https://open.spotify.com/track/6tqAkUVWAjqTzT363IzgCw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 3:05 | 2022-01-15 | 2022-10-26 |
@@ -69,7 +70,7 @@
 | [Nightlite](https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:09 | 2022-01-15 |  |
 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 | 2022-01-15 |  |
 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 | 2022-01-15 |  |
-| [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 | 2025-04-26 |  |
+| [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 | 2025-04-26 | 2025-07-27 |
 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 | 2022-01-15 |  |
 | [On Your Marks](https://open.spotify.com/track/4SjvkRy0nVHd3oe7BkZ1u4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:11 | 2022-01-15 | 2022-10-12 |
 | [Ontario](https://open.spotify.com/track/4GroumsjzAcgCwJzTGY7px) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:52 | 2023-01-25 | 2023-02-17 |

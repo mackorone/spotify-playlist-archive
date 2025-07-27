@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,188 songs - 12 day 2 hr 21 min
+5,190 songs - 12 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3087,6 +3087,7 @@
 | [neon](https://open.spotify.com/track/4zEm4YEzLLqWrizzLnai02) | [The Jungle](https://open.spotify.com/artist/5abM1eZljsV95pCXQ89JSs) | [neon](https://open.spotify.com/album/4vE1Y0bLEXRKDrX8OFytas) | 4:26 | 2020-03-09 | 2020-04-04 |
 | [Neon Faucet](https://open.spotify.com/track/7y6o9yxc6ZGUoYveQHV3ax) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Neon Faucet](https://open.spotify.com/album/53Bf6iOfAAjsakOUfPfxft) | 2:24 | 2019-10-27 | 2019-11-10 |
 | [Neon Skyline](https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:38 | 2020-08-20 | 2023-08-28 |
+| [Never Be Another](https://open.spotify.com/track/5oLWTngm5vZIfgoTdO7Hv7) | [Jr\. Thomas](https://open.spotify.com/artist/4rlASrO81ZjHrd70G6swdV), [Eraserhood Sound](https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ) | [Never Be Another](https://open.spotify.com/album/0ecDKWbsEVThZu0tKYYph2) | 3:50 | 2025-07-26 |  |
 | [never be mine](https://open.spotify.com/track/4zwGUUWoFbxQq3ymI1zhL7) | [Jake Benjamin](https://open.spotify.com/artist/3b4oPeInmBt33lJrCxSFzN) | [never be mine](https://open.spotify.com/album/52Q1J8GPhmJ5pe9ERGJkyV) | 4:22 | 2024-05-29 | 2024-06-10 |
 | [Never Forget](https://open.spotify.com/track/649UGlGggCOPwvAIT7FKf1) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Never Forget](https://open.spotify.com/album/7nI0GXKzOdxXvTNU2Srkrs) | 3:21 | 2020-10-10 | 2020-11-06 |
 | [Never Forgot Caroline](https://open.spotify.com/track/5tR2CAM3tfEgpauGg9a94V) | [James Martin](https://open.spotify.com/artist/2xPUoYfa4gYNQG0LcINScW) | [Never Forgot Caroline](https://open.spotify.com/album/6NgjGrLcQ0Yb0s39HsDBTx) | 2:50 | 2024-08-12 | 2024-08-24 |
@@ -3948,6 +3949,7 @@
 | [Shut Up!](https://open.spotify.com/track/4ABbOz6EfUUwkypIdHP0hW) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up!](https://open.spotify.com/album/53cOuoMR1vjlHJAE9TcdF0) | 2:40 | 2024-12-27 | 2025-01-08 |
 | [Shut Up! \- Remix](https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up! \(Remix\)](https://open.spotify.com/album/0VumUQYv6xhVFomRhUFIyu) | 2:52 | 2025-05-14 | 2025-05-26 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-01 | 2025-02-09 |
+| [Si Estás Tú](https://open.spotify.com/track/73boys8t6EZpAaTkqe7eUb) | [Mercee](https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm) | [Si Estás Tú](https://open.spotify.com/album/2Fjqvwu2gOdhyy5euBlukf) | 2:26 | 2025-07-26 |  |
 | [Si Mami Supiera](https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Mami Supiera](https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V) | 2:40 | 2024-09-11 | 2024-09-24 |
 | [Si Me Das Tu Vida](https://open.spotify.com/track/0bcy1ViuqTZzUODRz4f0hI) | [Carlo Meucci](https://open.spotify.com/artist/2m4YO3P3mXSrX52wPoH2xa) | [Si Me Das Tu Vida](https://open.spotify.com/album/2SF29zcTKB84GrSVAdQKGl) | 3:19 | 2023-07-28 | 2023-08-20 |
 | [Si Tú Supieras](https://open.spotify.com/track/1hw9AueHCN9FwA6sii9Nu1) | [Raquel Maradey](https://open.spotify.com/artist/5ZJsXAvMdY9V2xwQJCEOMI) | [Si Tú Supieras](https://open.spotify.com/album/1pAlLczYYyVTTXiE3LUFIY) | 3:45 | 2023-03-12 | 2023-04-03 |

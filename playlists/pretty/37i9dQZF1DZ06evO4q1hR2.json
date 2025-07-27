@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 69254,
+  "num_followers": 69324,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAABu8Ut3jNt0Eak3ra0eWWQ6",
+  "snapshot_id": "aILJAAAAAAC+1O0CC2uE1AwxuN7+vS6K",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alguien Dijo",
-        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 137887,
-      "name": "Alguien Dijo",
-      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prohibido (En Vivo)",
         "url": "https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl"
       },
@@ -687,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alguien Dijo",
+        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 137887,
+      "name": "Alguien Dijo",
+      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concedeme",
-        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Amargo Dolor",
-      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Basico",
         "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192946,
       "name": "Alla En El Rancho Grande",
       "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Amargo Dolor",
+      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
     },
     {
       "added_at": null,

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206160,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW"
+    },
+    {
+      "album": {
         "name": "To The Faithful Departed",
         "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
@@ -214,10 +232,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 187840,
       "name": "I Can't Be With You",
       "url": "https://open.spotify.com/track/4X0YxjnkSXCeVcYOkkAsyH"
+    },
+    {
+      "album": {
+        "name": "I Can't Be With You / Zombie",
+        "url": "https://open.spotify.com/album/7iCCgdnZEdN0fJE1pxQ7yv"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "I Can't Be With You - Live From Woodstock '94",
+      "url": "https://open.spotify.com/track/2Tj9Il1Tm14WAyqeXEh0NB"
     },
     {
       "album": {
@@ -286,7 +322,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 122026,
       "name": "Intermission",
       "url": "https://open.spotify.com/track/6moSWwDJWpp7fs8Cta3hNi"
@@ -898,7 +934,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 241560,
       "name": "Zombie - Acoustic Version",
       "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
@@ -920,7 +956,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 297720,
       "name": "Zombie - Iain Cook Remix",
       "url": "https://open.spotify.com/track/7KNRFIn16tlCcr3VQHFkxB"

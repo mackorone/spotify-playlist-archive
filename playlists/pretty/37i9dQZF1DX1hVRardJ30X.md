@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Eslabon Armado, Eladio Carrion & Omar Courtz, De La Rose LATIN MAFIA & Omar Apollo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,646 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,720 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 41 | [Sola](https://open.spotify.com/track/7Bhf0oxExqJkNPmqiS4YZf) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Sola](https://open.spotify.com/album/67vo1otCCHNiC5DOMVW7ed) | 3:42 |
 | 42 | [Aqui Se Vino a Perrear \(feat\. BK\)](https://open.spotify.com/track/1f8pWTaqUmW9Pwi1X0w4dE) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux) | [Aqui Se Vino A Perrear](https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot) | 2:05 |
 | 43 | [To' El Día](https://open.spotify.com/track/1sI5ihG5iEVOCb5SNyN2BW) | [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA) | [To' El Día](https://open.spotify.com/album/2BcpDrxoMptep0SvixJE5O) | 2:25 |
-| 44 | [YOUNG WARRIOR](https://open.spotify.com/track/180CtbTt7udWkR6zILqAgr) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [TONATIUH](https://open.spotify.com/album/3XxbmX97e1dvGbNY4FpZ2C) | 3:16 |
+| 44 | [YOUNG WARRIOR](https://open.spotify.com/track/180CtbTt7udWkR6zILqAgr) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [TONATIUH](https://open.spotify.com/album/3XxbmX97e1dvGbNY4FpZ2C) | 3:39 |
 | 45 | [No Te Hubiera Besado](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Te Hubiera Besado](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
 | 46 | [Copa Del Mundo](https://open.spotify.com/track/4yO8oqcHL2tnMisRJJdSuY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Copa Del Mundo](https://open.spotify.com/album/6LTF4lhubNAaUOBB41mz9W) | 3:11 |
 | 47 | [Fuego Lento](https://open.spotify.com/track/3U8DEnbRUGE1jHmr4PVlRY) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Fuego Lento](https://open.spotify.com/album/5pbyuxzzQXCdHAGlINxihm) | 3:26 |

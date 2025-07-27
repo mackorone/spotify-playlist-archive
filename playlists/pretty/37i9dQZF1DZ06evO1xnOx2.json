@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 610069,
+  "num_followers": 610185,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIF3gAAAAADnMFNhSLHnjKlKKnw8OZD3",
+  "snapshot_id": "aILJAAAAAACXJb+oxgVpLtvkrRtdUk8O",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl"
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 193226,
-      "name": "Better Love - From \"The Legend Of Tarzan\" Original Motion Picture Soundtrack / Single Version",
-      "url": "https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7"
+      "duration_ms": 227746,
+      "name": "Through Me (The Flood)",
+      "url": "https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat Your Young",
-        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 227746,
-      "name": "Through Me (The Flood)",
-      "url": "https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV"
+      "duration_ms": 193226,
+      "name": "Better Love - From \"The Legend Of Tarzan\" Original Motion Picture Soundtrack / Single Version",
+      "url": "https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
       "duration_ms": 188454,
       "name": "Fare Well",
       "url": "https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First Time Ever I Saw Your Face (with Hozier)",
-        "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 273748,
-      "name": "The First Time Ever I Saw Your Face (with Hozier)",
-      "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
     }
   ],
   "unique_name": "This Is Hozier",

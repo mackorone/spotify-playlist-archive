@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,218 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,210 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 27 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
 | 28 | [Someone New](https://open.spotify.com/track/7GuAjH2PsEuu9zC2anvU5O) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [Someone New](https://open.spotify.com/album/7cVxfG9n8MF7b9WY3qCulf) | 2:48 |
 | 29 | [DREAM](https://open.spotify.com/track/3boh5xLeRkA1L0QW8LH2Vh) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 4:11 |
-| 30 | [Uti var hage](https://open.spotify.com/track/2kO3mjXbIAjuO5VMkehvlL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Göteborgs Gosskör](https://open.spotify.com/artist/66WYQJ4ZIAXQ8ZDy6RjttW), [Fredrik Sixten](https://open.spotify.com/artist/3bMz59CbuzZrd6r5dhOkGl) | [Med Lust Och Fagring Stor \- Sommarens Sanger Och Psalmer](https://open.spotify.com/album/3UbKbR390fzqlOTVa96RQr) | 2:21 |
+| 30 | [Uti vår hage: Uti var hage](https://open.spotify.com/track/2kO3mjXbIAjuO5VMkehvlL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Göteborgs Gosskör](https://open.spotify.com/artist/66WYQJ4ZIAXQ8ZDy6RjttW), [Fredrik Sixten](https://open.spotify.com/artist/3bMz59CbuzZrd6r5dhOkGl) | [Med Lust Och Fagring Stor \- Sommarens Sanger Och Psalmer](https://open.spotify.com/album/3UbKbR390fzqlOTVa96RQr) | 2:21 |
 | 31 | [Show It Off](https://open.spotify.com/track/6N1izjTpgomPBgb3cv1fBJ) | [Dustin Earl Brown](https://open.spotify.com/artist/2DNinWCse2rlo3HvW9ryG0), [Earl Mac Brown Jr](https://open.spotify.com/artist/4KnwNYuH3RLvprq0TNYeoE), [Shanice Antonia](https://open.spotify.com/artist/3IoiQ6mbsRRadN98WcTWcg) | [Attitude](https://open.spotify.com/album/7r3yCuF14dw1kpjO8iJAMg) | 2:30 |
 | 32 | [Why](https://open.spotify.com/track/2d3qeg3uHWq8FZXUzbm0Oh) | [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Why](https://open.spotify.com/album/7kDbqDG5ICvKjrbEwUNdrl) | 3:06 |
 | 33 | [Rise Up Let's Go](https://open.spotify.com/track/6Njb2FHd6GAjUf7TxyFt7H) | [Amy McKnight](https://open.spotify.com/artist/3HisWNAib2JXo4ps9UVUqq) | [POSE](https://open.spotify.com/album/2ExQxRSYLhez9pTTzyGVg0) | 2:03 |

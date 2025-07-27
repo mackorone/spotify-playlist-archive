@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,106 likes - 84 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,062 likes - 84 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

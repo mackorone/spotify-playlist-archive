@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-363 songs - 21 hr 31 min
+364 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Moon in My Window](https://open.spotify.com/track/2qNW88mNLodRLtD910yxLE) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Do I Hear a Waltz?](https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0) | 3:37 | 2024-07-26 |  |
 | [Moon of My Delight \(Chee\-Chee\)](https://open.spotify.com/track/1zOQBrLaw0D3Z1Jf0U15Mg) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Rodgers & Hart: Songs from the Shows](https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY) | 3:46 | 2024-07-26 |  |
 | [Mountain Greenery](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:30 | 2024-07-26 |  |
-| [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2025-05-01 |  |
+| [My Baby Just Cares For Me](https://open.spotify.com/track/33Dnco2wBX3Mare8TSDOR9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Legendary Best : High Priestess of Soul](https://open.spotify.com/album/0MvMsFq3B3aJiLQVxuAuq0) | 3:43 | 2025-07-26 |  |
+| [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2025-05-01 | 2025-07-27 |
 | [My Favorite Things](https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:20 | 2024-07-26 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2024-07-26 |  |
 | [My Girl Back Home](https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR) | [Lt\. Cable](https://open.spotify.com/artist/4a65sNLFtwrbOHN3DNPnX5), [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:40 | 2024-07-26 |  |

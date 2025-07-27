@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist Of Tyler, The Creator, HubbaBubba, Lola Young og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,320 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,322 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 63 | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/track/6xVtp04jMDg8mFtqGBLUT9) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/album/2G7eb2SCHvx0AqhiaET7lY) | 3:26 |
 | 64 | [Crysalis](https://open.spotify.com/track/43drLzaqUUPyo8YlD6PBPM) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Crysalis](https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4) | 1:47 |
 | 65 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 |
-| 66 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
+| 66 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
 | 67 | [Call on Me](https://open.spotify.com/track/6hGx97vLa8rw2j73QGSBeL) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Open House](https://open.spotify.com/album/6hEMaqH7N1KfpRr1EBKsLA) | 2:05 |
 | 68 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 |
 | 69 | [WHAT IS WRONG](https://open.spotify.com/track/2uaRmQ4Htjm8XNABmYQHe5) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [WHAT IS WRONG // forward, backward and nothing is lost](https://open.spotify.com/album/4nh8Q2JbcN69z1TCDspiaW) | 2:46 |

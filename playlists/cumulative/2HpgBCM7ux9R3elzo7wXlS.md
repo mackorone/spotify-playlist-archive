@@ -4,7 +4,7 @@
 
 > All of it
 
-895 songs - 2 day 7 hr 51 min
+898 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2025-06-02 |  |
 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2025-06-02 |  |
 | [Crazy Rap \(Colt 45 & 2 Zig Zags\)](https://open.spotify.com/track/1ACZpHI5vZ5Ea4xGlkdGWM) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 5:28 | 2025-06-02 |  |
+| [Creep](https://open.spotify.com/track/30mC7W7Ngzf8BNTEnEVWh3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:11 | 2025-07-27 |  |
 | [Creep](https://open.spotify.com/track/58W2Mc7w77OwEYow1CGca8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep EP](https://open.spotify.com/album/1w1LIhUSQLKew0dYwiVX2q) | 3:58 | 2025-06-02 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2025-06-02 |  |
 | [Cruel World](https://open.spotify.com/track/5PaViyJwv0XJbCcrnBNuAt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Three](https://open.spotify.com/album/0NQ6Dn9si4mgFKoRoBGkn8) | 2:57 | 2025-06-02 |  |
@@ -306,6 +307,7 @@
 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 | 2025-06-02 |  |
 | [Great Adventures](https://open.spotify.com/track/47FkzJm1bUaIc0OaGZvslL) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 1:47 | 2025-06-02 |  |
 | [Great Grey Wolf Sif](https://open.spotify.com/track/2ZotpDx72d5d5Bqupyy5fu) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Dark Souls](https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j) | 3:22 | 2025-06-02 |  |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2025-07-27 |  |
 | [Gwyn, Lord of Cinder](https://open.spotify.com/track/6yPaEYRFqPotxWP2JBHwTZ) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Dark Souls](https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j) | 3:38 | 2025-06-02 |  |
 | [Had I Not Seen the Sun](https://open.spotify.com/track/59oOaUav2cqt9zkhpQgmru) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Had I Not Seen the Sun](https://open.spotify.com/album/2ffyKF0sGtbOTUsoEm7opF) | 2:25 | 2025-06-02 |  |
 | [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 | 2025-06-02 |  |
@@ -539,6 +541,7 @@
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-06-02 |  |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2025-06-02 |  |
 | [No Woman No Cry](https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:46 | 2025-06-02 |  |
+| [NO1](https://open.spotify.com/track/1r2UwOteaiw4uZrYp0nHFy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 2:33 | 2025-07-27 |  |
 | [Nobody](https://open.spotify.com/track/5iEpQrZsKWBk5eAbs0aPg7) | [Atronach's Aura](https://open.spotify.com/artist/2HmBmLwWUaXBUBL54tcp3L) | [Nobody](https://open.spotify.com/album/6YSCJzvv2rT9dKUHt0tyKD) | 2:58 | 2025-06-02 |  |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2025-07-10 |  |
 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 | 2025-06-02 |  |

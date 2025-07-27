@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
+      },
+      "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296542,
+      "name": "Popurr\u00ed Traileros - En Vivo",
+      "url": "https://open.spotify.com/track/71lETTSiTCMyijicJS66tw"
+    },
+    {
+      "album": {
         "name": "El Adi\u00f3s",
         "url": "https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ"
       },
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 166373,
       "name": "Una Noche No",
       "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"

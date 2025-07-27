@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
+    },
+    {
+      "album": {
         "name": "O' Lord (Radio Version)",
         "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 210386,
       "name": "O' Lord - Radio Version",
       "url": "https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-27",
       "duration_ms": 255520,
       "name": "Once and for All",
       "url": "https://open.spotify.com/track/4EaGCr9Q4ztV8yAkpK5zNc"

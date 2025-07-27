@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,352,889 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,352,761 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 93 | [Dream About You All Through The Night.](https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Dream About You All Through The Night.](https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP) | 3:49 |
 | 94 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |
 | 95 | [false self](https://open.spotify.com/track/067ktXQzCYLd2YD0FDw5ON) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 2:52 |
-| 96 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
+| 96 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
 | 97 | [Petra](https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Petra](https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM) | 3:32 |
 | 98 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 |
 | 99 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 |

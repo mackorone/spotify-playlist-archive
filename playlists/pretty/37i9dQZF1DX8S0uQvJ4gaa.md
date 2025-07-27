@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Hudson Westbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299,994 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,032 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 17 | [Life Behind Bars](https://open.spotify.com/track/2xa6tkIvKAtbjIirdxJXcd) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Life Behind Bars](https://open.spotify.com/album/35BIDAlQWIo5BV3VSTSB5j) | 2:45 |
 | 18 | [MIGHT BE DANGEROUS](https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:20 |
 | 19 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
-| 20 | [BAD NIGHT \- KARMA](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
+| 20 | [BAD NIGHT \(KARMA\)](https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAD NIGHT \(KARMA\)](https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa) | 2:41 |
 | 21 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
 | 22 | [Easy To Love](https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Easy To Love](https://open.spotify.com/album/1ttV5Nga8CAgetgj5MGaRN) | 2:44 |
 | 23 | [Water My Flowers](https://open.spotify.com/track/3YSDdyuCgLiYmT0SkOKOxa) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Water My Flowers](https://open.spotify.com/album/4pJjKdO71lcyiz7KMOKMFW) | 3:40 |

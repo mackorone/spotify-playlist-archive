@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Tyler, The Creator, Daniel Caesar, Aisha Retno, Fiq7, LBI利比, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,140 likes - 127 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,147 likes - 127 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

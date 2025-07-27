@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐈 Tech house technicians, featuring MistaJam
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,931 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,997 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 6 | [Night Time](https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Night Time](https://open.spotify.com/album/0PJGRfQTywmeibJjwL756e) | 3:18 |
 | 7 | [Backtrack Blow Up \- Max Styler Remix](https://open.spotify.com/track/2gyyB70dNaYPD5yKWCpOlV) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Backtrack Blow Up \(Max Styler Remix\)](https://open.spotify.com/album/6CQ9rcuravEBO6IOIjyIKy) | 3:37 |
 | 8 | [Rarity](https://open.spotify.com/track/6w4mieVXKb7INWtaH2FXsz) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Rarity](https://open.spotify.com/album/12Tw09Q3FfU6Dh3XZ6fSnI) | 3:28 |
-| 9 | [GET DOWN](https://open.spotify.com/track/7pxVKdVo4xaQwPwF0TWRWB) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Jackie \(IT\)](https://open.spotify.com/artist/5bKh6DOIC8AJZwHDtRAg1d), [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [GET DOWN](https://open.spotify.com/album/2cAXk7oEz41Ci0f5zBya1N) | 3:47 |
+| 9 | [GET DOWN](https://open.spotify.com/track/7pxVKdVo4xaQwPwF0TWRWB) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Jackie \(IT\)](https://open.spotify.com/artist/5bKh6DOIC8AJZwHDtRAg1d), [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI), [Mary N.](https://open.spotify.com/artist/6Te3wdOLUp60Zuvt7oknEV) | [GET DOWN](https://open.spotify.com/album/2cAXk7oEz41Ci0f5zBya1N) | 3:47 |
 | 10 | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw) | [DumitrEscu](https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ) | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh) | 2:55 |
 | 11 | [Double Dutch](https://open.spotify.com/track/10LCFChcEluNFZXVFVDanE) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Double Dutch](https://open.spotify.com/album/11jp3aD89IP5YOWU0axfpN) | 3:22 |
 | 12 | [Shake That](https://open.spotify.com/track/1N2sFj45WQQBRDTYGV0BdF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Shake That](https://open.spotify.com/album/56Up40fpqIi7IyCvZ7Y4if) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>PENOMECO\(페노메코\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,498 likes - 101 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,434 likes - 101 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 40 | [Ugh!](https://open.spotify.com/track/7qF0I6Chp4u0MwMXMFDQR3) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Breathe 4](https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU) | 2:23 |
 | 41 | [KrOWN\_Simon Dominic](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 | 42 | [Dream girl](https://open.spotify.com/track/4k032jvIta00Jak0i9z90R) | [Ahn Byeong Woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [D.O.T](https://open.spotify.com/album/1jYIZVqQhk2ObNzthKCNF9) | 2:22 |
-| 43 | [See Through](https://open.spotify.com/track/2EVEdzxtyiDD7vB8h4tXzx) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [senseS](https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0) | 2:20 |
+| 43 | [See Through](https://open.spotify.com/track/2EVEdzxtyiDD7vB8h4tXzx) | [Dabin.kr](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [senseS](https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0) | 2:20 |
 | 44 | [TAKE UR TIME](https://open.spotify.com/track/5FOnTVD1mLJNTDt5bSvUOL) | [YUL2](https://open.spotify.com/artist/3Sp5SaLGwrIkMWb1lmEX0X), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 3:30 |
 | 45 | [In My Blue \(Feat\. Deepflow\)](https://open.spotify.com/track/6Xwmuyo4a7dYLTFvfiGVSk) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [21 grams](https://open.spotify.com/album/6Jlh4VMAtTtMXvGrx5Izkd) | 2:25 |
 | 46 | [How To Make Love Song](https://open.spotify.com/track/7iv9RvYh50xio2tzoarrjn) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Love is a Song](https://open.spotify.com/album/6ikgJKwIzuE1YQ7aJRuJ03) | 2:53 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 63 | [Tasty \(Feat\. Hash Swan\)](https://open.spotify.com/track/7taO0KwT0XClF20ueI7KT6) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:52 |
 | 64 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 |
 | 65 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:47 |
-| 66 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
+| 66 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin.kr](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
 | 67 | [Shut Up \(Feat\. ZICO\)](https://open.spotify.com/track/3hOXFLGpLZpWrI8kJdcwmb) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [UPSET](https://open.spotify.com/album/1mUapSqiPxRoH3d2bF0Y0L) | 2:21 |
 | 68 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 |
 | 69 | [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 |

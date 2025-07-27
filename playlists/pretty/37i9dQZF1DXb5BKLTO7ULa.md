@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Lola Young, Sebastian Ingrosso & Celine Dion,  Emma Heesters en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,619 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,643 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 73 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
 | 74 | [Down Down Down](https://open.spotify.com/track/13Mp0X7O2VZ4PCeZJbY7PP) | [The Magic Mumble Jumble](https://open.spotify.com/artist/18lm5VtpoiMth7H3EOts54) | [Down Down Down](https://open.spotify.com/album/1g5dkyQSusJrEibnG5HKRV) | 2:35 |
 | 75 | [Your Favorite Song](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0) | [APE](https://open.spotify.com/artist/0YL46Muu8yKzyKoDZ4pTSa), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Your Favorite Song](https://open.spotify.com/album/0oOc2kOfi0p8O4EVCNMoqh) | 2:41 |
-| 76 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
+| 76 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |
 | 77 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 |
 | 78 | [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 |
 | 79 | [Call Me \(feat\. Dorely\)](https://open.spotify.com/track/687uQIzFYwPp3SjNUrBvAv) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me \(feat\. Dorely\)](https://open.spotify.com/album/5eJJnXgW0hKsknYZAzayVa) | 3:14 |
