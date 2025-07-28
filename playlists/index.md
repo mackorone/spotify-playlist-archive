@@ -1,4 +1,4 @@
-## Playlists \(8698\)
+## Playlists \(8699\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2484,6 +2484,7 @@
 - [G.O.O.D\. Music](/playlists/pretty/37i9dQZF1DX83ZswDLVXae.md)
 - [G2 Esports](/playlists/pretty/37i9dQZF1DXdp5YOcv5TSe.md)
 - [GENERAZIONE Z](/playlists/pretty/37i9dQZF1DWYCIYGXn56uz.md)
+- [GGP Mixtape 2025](/playlists/pretty/0GRCH5gAGAHUxQ41oMZH4E.md)
 - [GHOST IN THE SHELL Series](/playlists/pretty/37i9dQZF1DX9v9O7wB8rQi.md)
 - [GIANTS](/playlists/pretty/37i9dQZF1DWSrBZDtTtSeK.md)
 - [GIRLS und PANZER](/playlists/pretty/37i9dQZF1DWZevNd7Fcmnf.md)
