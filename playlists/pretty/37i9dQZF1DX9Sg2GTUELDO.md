@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,041 likes - 526 songs - 1 day 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,037 likes - 526 songs - 1 day 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

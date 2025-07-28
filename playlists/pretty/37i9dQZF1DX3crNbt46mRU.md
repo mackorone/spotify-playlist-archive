@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tyler, The Creator, OneRepublic, Nej, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,545 likes - 107 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,548 likes - 107 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

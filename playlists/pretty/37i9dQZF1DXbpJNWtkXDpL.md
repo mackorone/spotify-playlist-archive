@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,644 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,643 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 9 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
 | 10 | [Monica](https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [MONICA](https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3) | 2:11 |
 | 11 | [ATIZALE](https://open.spotify.com/track/3OLDaypybBlk46CtasInNL) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx) | [ATIZALE](https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv) | 2:24 |
-| 12 | [1PERREO](https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [1PERREO](https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv) | 2:09 |
+| 12 | [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 |
 | 13 | [DEJAVU](https://open.spotify.com/track/7CcN56ZTdzTIwIEE9gOowm) | [Taniari](https://open.spotify.com/artist/0a91NsOtjY4eschPsnOnnF) | [PA'ARRIBA](https://open.spotify.com/album/5mQ1dbylOzPciWvnQyAjSR) | 2:10 |
-| 14 | [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 |
+| 14 | [1PERREO](https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [1PERREO](https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv) | 2:09 |
 | 15 | [114](https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [114](https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ) | 3:12 |
 | 16 | [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 |
 | 17 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |

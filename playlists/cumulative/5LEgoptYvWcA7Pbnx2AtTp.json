@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "The Conducted Tom Lehrer",
+        "url": "https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169988,
+      "name": "The Masochism Tango (Stereo Mix)",
+      "url": "https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1"
+    },
+    {
+      "album": {
         "name": "The Slur Song",
         "url": "https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI"
       },

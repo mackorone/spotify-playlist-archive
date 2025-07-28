@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 319 songs - 18 hr 6 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 320 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,5 +327,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 317 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
 | 318 | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 |
 | 319 | [Aishite Aishite Aishite](https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:18 |
+| 320 | [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 |
 
-Snapshot ID: `AAAJKYEy5hwrb8FpZq30viM8DYmfivCc`
+Snapshot ID: `AAAJKjkHQrFoypm/P4GYsvmOawcKVEZU`

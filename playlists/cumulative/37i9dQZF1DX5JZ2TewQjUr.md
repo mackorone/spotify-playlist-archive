@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: DEREK DALI
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: donny daydream
 
 1,474 songs - 3 day 11 hr 5 min
 

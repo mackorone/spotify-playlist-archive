@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54166,
+  "num_followers": 54187,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILJAAAAAAB+fkXWLT17JoWj+DcBZ3rV",
+  "snapshot_id": "aIQagAAAAAD0/2/TeEGdSoGgI0hwJMmQ",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU"
+        "name": "No Llores Mas Mis Recuerdos",
+        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
       "artists": [
         {
-          "name": "Los Nenes MX",
-          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
-        },
-        {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 205664,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d"
+      "duration_ms": 282671,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
     },
     {
       "added_at": null,
@@ -655,26 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Llores Mas Mis Recuerdos",
-        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU"
       },
       "artists": [
         {
+          "name": "Los Nenes MX",
+          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
+        },
+        {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 282671,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+      "duration_ms": 205664,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d"
     },
     {
       "added_at": null,

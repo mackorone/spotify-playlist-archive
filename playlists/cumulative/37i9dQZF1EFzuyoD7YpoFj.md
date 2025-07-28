@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-588 songs - 1 day 7 hr 47 min
+589 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 | 2024-07-24 |  |
 | [Let's Be Buddies](https://open.spotify.com/track/6v93j4H41QfsXu7kpB0F89) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Complete Okeh & Columbia Recordings 1940\-1946](https://open.spotify.com/album/1rBmMsFU0sohwm8WKmvvuU) | 3:06 | 2025-06-27 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 | 2025-06-27 |  |
-| [Let's Face It: Everything I love](https://open.spotify.com/track/5HBbQ1cmvUFt79Fusz35FB) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 8:37 | 2025-07-10 |  |
+| [Let's Face It: Everything I love](https://open.spotify.com/track/2hGjo1PTdqQw5XtqG9JN6i) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/64yK6fyMAvHUcpTU6sFpVi) | 8:37 | 2025-07-27 |  |
+| [Let's Face It: Everything I love](https://open.spotify.com/track/5HBbQ1cmvUFt79Fusz35FB) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 8:37 | 2025-07-10 | 2025-07-28 |
 | [Let's Fly Away](https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:31 | 2024-07-24 |  |
 | [Let's Misbehave](https://open.spotify.com/track/1lrnowab5yQsCioudkro0s) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Phil Saxe](https://open.spotify.com/artist/1HRhoi8OFpGuFtr2GHoooM), [Irving Aaronson Commanders](https://open.spotify.com/artist/2Z6vucSVkKqS9O4L0rtYoa) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:54 | 2024-07-24 |  |
 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 | 2024-07-24 |  |

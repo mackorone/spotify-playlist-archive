@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,150 likes - 300 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,214 likes - 300 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 83 | [have u ever](https://open.spotify.com/track/2AAoaN6bnREdznndvohdSw) | [snarewallet](https://open.spotify.com/artist/0oqkXt30H4WWfXLYxYWn0G) | [have u ever](https://open.spotify.com/album/1iMSdxwawP1tkc9DifLXrf) | 1:54 |
 | 84 | [Woodpecker](https://open.spotify.com/track/0SpFgelmLt7W2JOMGDh0sW) | [Mokezi](https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg) | [Woodpecker](https://open.spotify.com/album/24XOU1tMWVtnrYCbTqhiCZ) | 2:23 |
 | 85 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
-| 86 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 |
-| 87 | [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 |
+| 86 | [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 |
+| 87 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 |
 | 88 | [Mothers](https://open.spotify.com/track/2i0fkV4Sly4EUwyc5W8KSJ) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Mothers](https://open.spotify.com/album/49IVbk9OUZCId3Vj3p6z87) | 2:06 |
 | 89 | [Getting Dawn](https://open.spotify.com/track/3sV1oufAUOgDqU6MyofWXe) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Getting Dawn](https://open.spotify.com/album/34AMQc0czXXvxvxuZJl82e) | 2:30 |
 | 90 | [No Pressure](https://open.spotify.com/track/5RCXulZHahDWbtUr7tAgtH) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [No Pressure](https://open.spotify.com/album/6aQt3aOKn3bbVg3vHcqqjz) | 2:01 |
@@ -203,11 +203,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 193 | [Her Hair](https://open.spotify.com/track/7At06F36OuKs3H6OjsTKnm) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [Her Hair](https://open.spotify.com/album/6hbg48AAKttRZxVK1EqooQ) | 2:05 |
 | 194 | [Disculpe](https://open.spotify.com/track/5bDbin5uvxdIiYVTNjcShl) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Disculpe](https://open.spotify.com/album/1FaY8MFaHoENsjtyNvoOwA) | 1:47 |
 | 195 | [Lights Down](https://open.spotify.com/track/0rjbtVM8enAg85s1zc4Bpt) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Lights Down](https://open.spotify.com/album/4xCrjBY0N8JF8Tdqt4vLLu) | 1:40 |
-| 196 | [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 |
-| 197 | [The Happiest Moment](https://open.spotify.com/track/2uwFWhi2oU2A7n65Xrn62x) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [The Happiest Moment](https://open.spotify.com/album/0quBUC8YzuD4EEGvnjrSC0) | 2:30 |
-| 198 | [orion](https://open.spotify.com/track/5MAOedbiuGHjjLhpIh8BWg) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [orion](https://open.spotify.com/album/3adCTmwdWqxYvBxeTDqn0i) | 2:06 |
-| 199 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 |
-| 200 | [Running down the street](https://open.spotify.com/track/3fQOoi6BIhaIgrrGnx2Rk2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Running down the street](https://open.spotify.com/album/2idME1Wf8oEucltaYqgWU7) | 2:28 |
+| 196 | [The Happiest Moment](https://open.spotify.com/track/2uwFWhi2oU2A7n65Xrn62x) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [The Happiest Moment](https://open.spotify.com/album/0quBUC8YzuD4EEGvnjrSC0) | 2:30 |
+| 197 | [orion](https://open.spotify.com/track/5MAOedbiuGHjjLhpIh8BWg) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [orion](https://open.spotify.com/album/3adCTmwdWqxYvBxeTDqn0i) | 2:06 |
+| 198 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 |
+| 199 | [Running down the street](https://open.spotify.com/track/3fQOoi6BIhaIgrrGnx2Rk2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Running down the street](https://open.spotify.com/album/2idME1Wf8oEucltaYqgWU7) | 2:28 |
+| 200 | [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 |
 | 201 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 |
 | 202 | [143](https://open.spotify.com/track/0ofSbJuaDQRThgOdsRAndd) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [143](https://open.spotify.com/album/6TI8St2osvFTUFyL22UK5T) | 1:57 |
 | 203 | [Flat Break Chill](https://open.spotify.com/track/1ongVSMsyKxwKx2yyEq7Wk) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Flat Break Chill](https://open.spotify.com/album/0salf5DpBpU4i3tvhqH2WS) | 2:14 |

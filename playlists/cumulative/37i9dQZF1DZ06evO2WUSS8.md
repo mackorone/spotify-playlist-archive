@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-146 songs - 9 hr 37 min
+147 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Senie](https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 1:53 | 2022-07-29 | 2024-10-03 |
 | [Shekere](https://open.spotify.com/track/1unD6HbKuU0NIPDzEkYDbM) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/4ZXoplCIksnmgPXcJBYtQ7) | 3:06 | 2023-08-13 | 2023-10-11 |
 | [Shekere](https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4) | 3:06 | 2021-12-28 | 2023-08-14 |
-| [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 | 2024-04-14 |  |
+| [Sparrow](https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR) | 6:34 | 2025-07-28 |  |
+| [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 | 2024-04-14 | 2025-07-28 |
 | [Summertime](https://open.spotify.com/track/6ZoY4JuMpnTkQTLE8tYP5k) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep On Moving \- The Best Of](https://open.spotify.com/album/5HOH5XeVjMwmcbb6PLrhJW) | 3:32 | 2021-12-28 | 2022-05-17 |
 | [Summertime \- Live](https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Spirit Rising \(Live\)](https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038) | 4:04 | 2022-05-16 |  |
 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-07-14 |  |

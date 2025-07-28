@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Jenn Johnson of Bethel Music & Noah Paul Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,780 likes - 95 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,824 likes - 95 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

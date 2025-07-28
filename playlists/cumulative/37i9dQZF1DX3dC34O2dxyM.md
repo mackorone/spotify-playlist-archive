@@ -4,7 +4,7 @@
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-345 songs - 10 hr 27 min
+348 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Cherry Blossoms](https://open.spotify.com/track/3yKK3vU859WkfpIWeqdnxD) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Cherry Blossoms](https://open.spotify.com/album/6xSKofkUd9EVg2n9t0EF4i) | 1:36 | 2021-10-29 | 2024-05-17 |
 | [Child's Play \#1](https://open.spotify.com/track/65MGptLUTl2uEdmPfqRuHT) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Child's Play \#1](https://open.spotify.com/album/0kNle1zTYlqxK4fhNyLkY7) | 1:46 | 2021-10-29 | 2024-05-17 |
 | [Colors](https://open.spotify.com/track/2pnqS4yNQbPm8BGkPOsGcV) | [Ryley Sommer](https://open.spotify.com/artist/5iAPatBtTdr2ehnAyHrBzD) | [Colors](https://open.spotify.com/album/2YIkg4OU91nZ6LbYcvG9rw) | 1:53 | 2021-10-29 | 2024-05-17 |
+| [Come Closer](https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Come Closer](https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv) | 3:20 | 2025-07-27 |  |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD) | 1:26 | 2024-05-16 |  |
 | [Cradle Canon](https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg) | [Nat Mee Ho](https://open.spotify.com/artist/2oqTteFbcLuEnhiXnkvJPk) | [Cradle Canon](https://open.spotify.com/album/6TFPdf6Qa2Y1nLxzWf8PTB) | 1:41 | 2021-10-29 | 2024-05-17 |
 | [Cuando Duermes](https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q) | [Ivanna Alvear](https://open.spotify.com/artist/7pvajAY2nsMXGyrJ07Vzp3) | [Cuando Duermes](https://open.spotify.com/album/2HoB1MOxFmSMiQZ5N7OQyN) | 1:23 | 2021-10-29 | 2025-06-12 |
@@ -168,7 +169,7 @@
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2021-10-29 | 2024-05-17 |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2021-10-29 | 2024-05-17 |
 | [Itsy Bitsy Spider](https://open.spotify.com/track/5RlDcmyhre4QGVyvsKSmLk) | [Elfwood](https://open.spotify.com/artist/2JlywoFy2Htxq7IPut7vlN) | [Elfwood](https://open.spotify.com/album/5VjQH5Vxb2pnLLgXXrzlGu) | 1:14 | 2021-10-29 | 2024-05-17 |
-| [Itsy Bitsy Spider](https://open.spotify.com/track/2kduXAqtBjAZJet0xcfjeO) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Itsy Bitsy Spider](https://open.spotify.com/album/0iMZnJcE5H3cvOMoWkufRE) | 2:11 | 2024-05-16 |  |
+| [Itsy Bitsy Spider](https://open.spotify.com/track/2kduXAqtBjAZJet0xcfjeO) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Itsy Bitsy Spider](https://open.spotify.com/album/0iMZnJcE5H3cvOMoWkufRE) | 2:11 | 2024-05-16 | 2025-07-28 |
 | [İyi geceler](https://open.spotify.com/track/2K3foJU3XYNmp2uAXS3VqH) | [Gunay Şahin](https://open.spotify.com/artist/00nxAJ82GFHQXiVZL0dEL3) | [İyi geceler](https://open.spotify.com/album/3GeZUtlhS0TiPyKRMsbs8R) | 1:32 | 2021-10-29 | 2024-05-17 |
 | [Joyful Dreams](https://open.spotify.com/track/1FF6kQGLkSexxQ0FxWPCCL) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Joyful Dreams](https://open.spotify.com/album/2jOyYbb3igxJOMidFYCePu) | 1:23 | 2021-10-29 | 2024-05-17 |
 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 | 2021-10-29 | 2024-05-17 |
@@ -226,7 +227,7 @@
 | [My Sweet Sweet Angel](https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 1:47 | 2021-10-29 | 2024-05-17 |
 | [My Wiggly Tooth](https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i) | [Mary\-Anne Ayers](https://open.spotify.com/artist/1eI4z1e4E9YDFhpzDPOvPV) | [My Wiggly Tooth](https://open.spotify.com/album/348wr92h8CnKzESqC3Uxeo) | 1:19 | 2021-10-29 | 2024-05-17 |
 | [My Wish](https://open.spotify.com/track/3SU5olekXE8H2eOUWxAWr6) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [My Wish](https://open.spotify.com/album/1P7URS8sbxgfw7CatgXUk8) | 1:26 | 2024-05-16 | 2025-06-18 |
-| [Night Bloom](https://open.spotify.com/track/0nD6TTIGnE9oIhxf05kkLx) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Night Bloom](https://open.spotify.com/album/3CeNMgkjbqdib08f7ZFDdg) | 2:21 | 2025-01-31 |  |
+| [Night Bloom](https://open.spotify.com/track/0nD6TTIGnE9oIhxf05kkLx) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Night Bloom](https://open.spotify.com/album/3CeNMgkjbqdib08f7ZFDdg) | 2:21 | 2025-01-31 | 2025-07-28 |
 | [Night Time](https://open.spotify.com/track/0DzaAmlZUFXL8gYso89vwq) | [Charlie Irving](https://open.spotify.com/artist/67eyk5UeOpPHzU4BGjZvZJ) | [Night Time](https://open.spotify.com/album/3HMIzF39HdMmtDk97dHmwi) | 1:30 | 2021-10-29 | 2024-05-17 |
 | [Nocturne](https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Nocturne](https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz) | 1:34 | 2024-05-16 |  |
 | [Nocturne For Luna](https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj) | [Jelmer Traaug](https://open.spotify.com/artist/2tt5ElREN9IPRHQBofxNhp) | [Nocturne For Luna](https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4) | 2:12 | 2021-10-29 | 2024-05-17 |
@@ -296,6 +297,7 @@
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2021-10-29 | 2024-05-17 |
 | [Teddy Bear](https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o) | [Rennie Stoltz](https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc) | [Teddy Bear](https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G) | 1:39 | 2024-05-16 | 2025-06-12 |
 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 | 2021-10-29 | 2024-05-17 |
+| [Tender](https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Tender](https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy) | 2:55 | 2025-07-27 |  |
 | [The Animals Went in Two by Two](https://open.spotify.com/track/20n3Y82aTOYbx9UDJ2R20q) | [Kate Tager](https://open.spotify.com/artist/4lGMnp42xFwiTvw6fk0umP) | [This Little Piggy](https://open.spotify.com/album/0iNSrbVgQpiS3kDKdaAnPH) | 1:57 | 2021-10-29 | 2024-05-17 |
 | [The Blue Coloring Book](https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [The Blue Coloring Book](https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX) | 2:56 | 2024-05-16 | 2025-06-12 |
 | [The Button Song](https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [The Button Song](https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir) | 1:04 | 2021-10-29 | 2024-05-17 |
@@ -326,7 +328,7 @@
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-10-29 | 2024-05-17 |
 | [Twilight Song](https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Twilight Song](https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2) | 1:28 | 2024-10-18 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-10-29 | 2024-05-17 |
-| [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 | 2024-05-16 |  |
+| [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 | 2024-05-16 | 2025-07-28 |
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-05-16 |  |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2024-05-16 |  |
 | [Up Among the Clouds](https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ) | [Kimmy Doyle](https://open.spotify.com/artist/7Bwg02Tn6RFiJnp83X1FSx) | [Up Among the Clouds](https://open.spotify.com/album/3m1rXsAzAyXiFAnpoLAvj1) | 1:53 | 2021-10-29 | 2024-05-17 |
@@ -340,6 +342,7 @@
 | [When The Saints Go Marching In](https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb) | [Lisa Jefferies](https://open.spotify.com/artist/4SWQEQ9XimBUaukFmdZNzi) | [Pretty Guitar Lullabies](https://open.spotify.com/album/6nACNDxZVOIiGGAsN0LFN5) | 1:56 | 2021-10-29 | 2024-05-17 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/6GyQot0rZameLKzOHMWM0Z) | [Aleeza May](https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0) | [When You Wish Upon A Star](https://open.spotify.com/album/3reSPIKtrzOegRrfHyNQXU) | 1:52 | 2024-05-16 |  |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2021-10-29 | 2024-05-17 |
+| [Willow Song](https://open.spotify.com/track/0XbwNINoaEDBn6ETlB0MWW) | [Little Wind](https://open.spotify.com/artist/21SwhXJcqhoF7ByoyrFfhK) | [Willow Song](https://open.spotify.com/album/0wg3QdLOLe5JAeIzrVUH3I) | 1:06 | 2025-07-27 |  |
 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 | 2024-09-11 | 2025-06-12 |
 | [With you](https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [With you](https://open.spotify.com/album/4XDs4L6NH4EXCMp9qjRlzu) | 1:27 | 2024-05-16 | 2025-06-12 |
 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 | 2021-10-29 | 2024-05-17 |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 42 min 35 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 39 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deep Fried Frenz](https://open.spotify.com/track/12Lemsk6c6ohm9afZxYUBz) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM...FOOD](https://open.spotify.com/album/7IvmRtuLsTlRZhRS6KUQRn) | 4:59 |
-| 2 | [Attitude](https://open.spotify.com/track/2YczEziyVfEjmDPIokOJGF) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [All Shook Down](https://open.spotify.com/album/1JXodg2ZixCkemVstxSQN9) | 2:43 |
-| 3 | [Long Way](https://open.spotify.com/track/0geJfOV9dNqpdWqUT6rvyk) | [Laney Jones](https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS) | [Stories up High](https://open.spotify.com/album/2Obbm5E6IR6nNBmvSKrcl9) | 4:04 |
-| 4 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
-| 5 | [Abide](https://open.spotify.com/track/7zVGo3OH1JaPx8Hxzw7yTz) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 3:30 |
-| 6 | [Mind Idea](https://open.spotify.com/track/675qT5ZF2jBPFyge8uAFdn) | [Jeremy Enigk](https://open.spotify.com/artist/6jUpCAtHPCEowkiAo4bpWK) | [OK Bear](https://open.spotify.com/album/5wM5bHPzXS7GZMljWy21rf) | 2:37 |
-| 7 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
-| 8 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
-| 9 | [Solar Pilgrim](https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 5:20 |
-| 10 | [Temazcal](https://open.spotify.com/track/0jyTX6cBjj6dVGJJx8zN6d) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 3:49 |
-| 11 | [Stop and Go](https://open.spotify.com/track/0goZTq1b5mxPoYbyXUhvR8) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/6mYlP1qsGTeCsE1dPKW6cK) | 3:52 |
+| 1 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
+| 2 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 |
+| 3 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
+| 4 | [Angels](https://open.spotify.com/track/5FE6yuD51s3qtJaIer0uP1) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 3:56 |
+| 5 | [Crybaby](https://open.spotify.com/track/43lQZ4X4XGy8dDgr61zvf9) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 3:56 |
+| 6 | [Are You Serious](https://open.spotify.com/track/2OYmCSVGmN5vXuG5dX5LKY) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Are You Serious](https://open.spotify.com/album/6TqAnRWjGY3ztfajmS0HSG) | 3:38 |
+| 7 | [Leave Me Out Of This](https://open.spotify.com/track/5skzJWVbi9RqijKtOSTTn1) | [Brontez Purnell](https://open.spotify.com/artist/5rTfSsNbSVZhGMw3xoq7Yf) | [White Boy Music](https://open.spotify.com/album/3cm3yILwnVfmQKFcQfuNwa) | 2:12 |
+| 8 | [The Irrationality of Rationality](https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:32 |
+| 9 | [Elements](https://open.spotify.com/track/6z9YatCVvwtXltGLIzpDAS) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:48 |
+| 10 | [I Will Miss the Jasmine](https://open.spotify.com/track/15PnQyKcrZVbwyr4a7qiNR) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Gone by the Dawn](https://open.spotify.com/album/1yaA6kb5SAcXamZ8pcm4CY) | 2:36 |
+| 11 | [Slow](https://open.spotify.com/track/3DkJe7WzfORrqrwJjLIwAw) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 
-Snapshot ID: `AAAG62UY9xcQBAvzujP9O+vacj/mnURP`
+Snapshot ID: `AAAHAbYyc2/RQsesAkRtPeklHy4eVqsC`

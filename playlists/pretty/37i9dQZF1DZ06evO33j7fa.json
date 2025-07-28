@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 58143,
+  "num_followers": 58169,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILJAAAAAABv8zBxgqqCMljHW3/JQoHH",
+  "snapshot_id": "aIQagAAAAAD7zYXDWmOM4cEHsFPh0p+7",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,25 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX"
+      "duration_ms": 197493,
+      "name": "They're Leaving Me Behind",
+      "url": "https://open.spotify.com/track/6OEmSqjP5aXJnbCkoaYuyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Blossom - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM"
     },
     {
       "added_at": null,

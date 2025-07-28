@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/5gxQZnb9RY3mMtr8dX0kdE"
+    },
+    {
+      "album": {
         "name": "Pop*porn",
         "url": "https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 218894,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4NkvNThbuHEwQ9elX0xtV9"
@@ -668,10 +686,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 216131,
       "name": "No ser\u00e1 lo mismo si ti",
       "url": "https://open.spotify.com/track/7LCa5BwjGUc7Dl0FyCPxaX"
+    },
+    {
+      "album": {
+        "name": "Pop*Porn",
+        "url": "https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "No Ser\u00e1 Lo Mismo Sin Ti",
+      "url": "https://open.spotify.com/track/0PaidqRYdsjGwHa8Cz4egg"
     },
     {
       "album": {

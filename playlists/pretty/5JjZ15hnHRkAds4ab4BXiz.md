@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 472 songs - 1 day 5 hr 56 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 475 songs - 1 day 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -480,5 +480,8 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 470 | [Orbitron](https://open.spotify.com/track/2O1fWJD4M38spxqK6ly8qZ) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Transmission, Flux](https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo) | 2:18 |
 | 471 | [Ain't Got Nobody](https://open.spotify.com/track/4JBE4ggkT3luTNIMWp5xB1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 3:21 |
 | 472 | [Paint a Vulgar Picture \- 2011 Remaster](https://open.spotify.com/track/54RgmPfPMd9NsPqCSJNMex) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:36 |
+| 473 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 |
+| 474 | [Drive, Don't Talk](https://open.spotify.com/track/2CiJH4kFVfEmFke2bmEqj5) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:07 |
+| 475 | [Are We Friends](https://open.spotify.com/track/15OiOClFXKwW4Rst9MDgJq) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:06 |
 
-Snapshot ID: `AAARiAEJmz/IW4/lOYfk7jdGlFp68Ace`
+Snapshot ID: `AAARi+hvVeeKDMcqEw9NrwUqi6TuQclA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,344 likes - 84 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,346 likes - 84 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

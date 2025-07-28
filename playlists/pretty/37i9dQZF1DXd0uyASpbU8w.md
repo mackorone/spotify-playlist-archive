@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla, Ayra Starr, Mkeyz, Tyler The Creator and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,881 likes - 97 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,904 likes - 97 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

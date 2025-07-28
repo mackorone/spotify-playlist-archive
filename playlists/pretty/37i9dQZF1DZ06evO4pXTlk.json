@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 659,
+  "num_followers": 660,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILJAAAAAABmu0+Pyuxih5sD8XwDiFzR",
+  "snapshot_id": "aIQagAAAAAD5V4EX3bdm729iCcl8++lS",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weather Warning",
-        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 250203,
-      "name": "Weather Warning",
-      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 211614,
-      "name": "Lost but Not Alone",
-      "url": "https://open.spotify.com/track/5GwRCe3UTH28eBBlD3Qjad"
+      "duration_ms": 171551,
+      "name": "Listen. Don't Panic",
+      "url": "https://open.spotify.com/track/5obgk2nN9DpMqkAD2aiLHM"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
       "duration_ms": 213426,
       "name": "Young (Belane)",
       "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weather Warning",
+        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 250203,
+      "name": "Weather Warning",
+      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
     },
     {
       "added_at": null,
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+        "name": "I Don't Care EP",
+        "url": "https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk"
       },
       "artists": [
         {
@@ -572,9 +588,25 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
+      "duration_ms": 245925,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     },
     {
       "added_at": null,
@@ -591,38 +623,6 @@
       "duration_ms": 171324,
       "name": "Inbetween Days",
       "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Don't Care EP",
-        "url": "https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Carnival Time",
-      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,

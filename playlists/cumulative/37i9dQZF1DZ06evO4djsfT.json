@@ -1243,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "My Hope is Hard to Kill (feat. KB)",
+        "url": "https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "My Hope is Hard to Kill (feat. KB)",
+      "url": "https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL"
+    },
+    {
+      "album": {
         "name": "No Chains",
         "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
       },
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 270325,
       "name": "Now They Know",
       "url": "https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79"

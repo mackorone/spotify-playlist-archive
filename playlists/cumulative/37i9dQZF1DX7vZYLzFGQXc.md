@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,584 songs - 3 day 17 hr 1 min
+1,585 songs - 3 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,6 +1410,7 @@
 | [War](https://open.spotify.com/track/4pbr6svVODh83MHULe3n57) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Orbital](https://open.spotify.com/album/1dvPM4PE5R1RLrXE0b3uCE) | 4:46 | 2021-12-02 | 2022-01-11 |
 | [Water](https://open.spotify.com/track/4DzoOO0LZhhvJjvznrMyzp) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Water](https://open.spotify.com/album/6dDu8VJPo88IBkCtTCKLsJ) | 3:36 | 2022-03-17 | 2022-04-21 |
 | [water blue indigo](https://open.spotify.com/track/37cs7Sl4CNeEbNCU8q1Bww) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [water blue indigo](https://open.spotify.com/album/6kHVLOkQzZyHhXkSQliLsp) | 5:19 | 2023-03-31 | 2023-06-02 |
+| [water drop](https://open.spotify.com/track/6cGSFAkpPuO4ray6C6IwNp) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [kyeon](https://open.spotify.com/album/7on3hpcrztRDoNM24qLGDO) | 4:50 | 2025-07-28 |  |
 | [Wave](https://open.spotify.com/track/3OfGlZizQgrdklszlxleoH) | [Hayun](https://open.spotify.com/artist/1j8zmgiFD9owjHCHTZnrqq) | [Wave](https://open.spotify.com/album/2ycvSqsQYFDzWJDzyFDV1P) | 3:06 | 2023-01-30 | 2023-02-09 |
 | [Wave At Me](https://open.spotify.com/track/7AgPvInB1x2eEIeOxUHfA5) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [Wave At Me](https://open.spotify.com/album/3o73ePn1ffgJsC2qXeuR5z) | 2:51 | 2024-08-02 | 2024-11-12 |
 | [Wave goodbye](https://open.spotify.com/track/5KkBzXOaMasJ6yEDDFODGa) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Wave goodbye](https://open.spotify.com/album/4LUsgEBCduxawKsy7bXeMJ) | 3:21 | 2022-11-07 | 2023-02-01 |
@@ -1472,7 +1473,7 @@
 | [WINTER FLOWER](https://open.spotify.com/track/24MIIiuBemcfY8Grr1Q61x) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [On My Way To You](https://open.spotify.com/album/1CpZGP4dij7YWzaCm5GjJS) | 1:32 | 2023-01-30 | 2023-04-01 |
 | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/track/1dUkH9OTBqCmXtXzZrWRNy) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Wetboy](https://open.spotify.com/artist/5WTC9ObtgUkLbac6FpKcIF) | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/album/3oC70ZNeqbMA6Vrmx8rMgC) | 3:05 | 2022-05-02 | 2022-06-10 |
 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 | 2025-04-21 | 2025-07-08 |
-| [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 | 2025-04-28 |  |
+| [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 | 2025-04-28 | 2025-07-28 |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-08-13 |
 | [Wish!](https://open.spotify.com/track/6rqf1XFZjBGesjZ850msAm) | [LEVENUE](https://open.spotify.com/artist/1C9OICkvpyG9oHKaZvRreX) | [Wish!](https://open.spotify.com/album/7pqKbTAFYlCtlcJILZ0g3F) | 2:24 | 2023-05-01 | 2023-07-27 |
 | [with the eyes of the moon](https://open.spotify.com/track/7qglpdOQtClVfNDper6YaH) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [with the eyes of the moon](https://open.spotify.com/album/6OiLARt2DB1ptef8I6kNWs) | 3:46 | 2022-07-04 | 2022-09-06 |

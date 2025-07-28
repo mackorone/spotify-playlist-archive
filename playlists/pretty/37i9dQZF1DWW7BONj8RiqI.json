@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Kes",
-  "num_followers": 233843,
+  "num_followers": 233921,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Fast Wine",
-        "url": "https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Fast Wine",
-      "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Bicycle Ride (Soca Remix)",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
@@ -163,46 +147,6 @@
       "duration_ms": 172755,
       "name": "Bicycle Ride - Soca Remix",
       "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Big Links Riddim",
-        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
-      },
-      "artists": [
-        {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Good Spirits",
-      "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Famalay",
-        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 199020,
-      "name": "Famalay",
-      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -231,6 +175,22 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Good Spirits",
+      "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "The A List",
         "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
       },
@@ -247,18 +207,58 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "1 On 1",
-        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
+        "name": "Fast Wine",
+        "url": "https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH"
       },
       "artists": [
         {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
+      "duration_ms": 204828,
+      "name": "Fast Wine",
+      "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Famalay",
+        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 199020,
+      "name": "Famalay",
+      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        }
+      ],
+      "duration_ms": 177925,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Overdue",
-        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
+        "name": "1 On 1",
+        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
       "artists": [
         {
-          "name": "Erphaan Alves",
-          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 177925,
-      "name": "Overdue",
-      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
+      "duration_ms": 214720,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "D N A",
         "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
       },
@@ -499,6 +515,26 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "The Greatest Bend Over",
+      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -519,8 +555,8 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
       },
       "artists": [
         {
@@ -528,29 +564,9 @@
           "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Big Links Riddim",
-        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "The Greatest Bend Over",
-      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -707,18 +723,18 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -759,22 +775,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 262556,
       "name": "No Behavior Shell Down",
       "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -863,22 +847,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 208615,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "DAP (Drink and Party)",
         "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 335652,
       "name": "Workey Workey",
       "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Rocket Fuel Riddim",
-        "url": "https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz"
-      },
-      "artists": [
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 177741,
-      "name": "Mechanic",
-      "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Whale Fu See",
         "url": "https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 176207,
       "name": "Like Yuh Self",
       "url": "https://open.spotify.com/track/0gsXztRd9iZ7swcqtDioq8"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Rocket Fuel Riddim",
+        "url": "https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz"
+      },
+      "artists": [
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 177741,
+      "name": "Mechanic",
+      "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
     },
     {
       "added_at": "2025-06-20 13:22:48",

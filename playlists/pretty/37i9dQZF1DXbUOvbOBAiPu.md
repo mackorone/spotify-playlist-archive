@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Guy2bezbar & Joé Dwèt Filé, Lola Young, Sebastian Ingrosso & Celine Dion and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 108 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,506 likes - 108 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

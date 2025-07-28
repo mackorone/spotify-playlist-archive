@@ -4,7 +4,7 @@
 
 > 
 
-546 songs - 1 day 10 hr 32 min
+549 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Angry Lizard Noise](https://open.spotify.com/track/2yCnLYbDzx2rP9pmNRJQaP) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:32 | 2024-07-17 |  |
 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 | 2024-04-16 |  |
 | [April 8th](https://open.spotify.com/track/6EmywUvSSF4PpIiF0ZZDlW) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:47 | 2024-04-19 |  |
+| [Are We Friends](https://open.spotify.com/track/15OiOClFXKwW4Rst9MDgJq) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:06 | 2025-07-27 |  |
 | [Arguments \(With Your Lover\)](https://open.spotify.com/track/1pyCdRTRsUlFOLLh96SAbt) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 2:50 | 2024-12-30 |  |
 | [Ask Me Anything](https://open.spotify.com/track/6THqWFqcUAAB7At66622Wr) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 | 2024-06-18 |  |
 | [At a Moment's Notice](https://open.spotify.com/track/79sWENj1DxZlTsdzn57PnU) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [I Don't Make Me](https://open.spotify.com/album/0BMtMOLzV90U3DUWN868WZ) | 3:51 | 2024-07-17 |  |
@@ -131,6 +132,7 @@
 | [Dress Up For You](https://open.spotify.com/track/6RQSNldulpDXbyvAANcaEy) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Cinema Sublimina](https://open.spotify.com/album/0ywqrwzSXOdWbICsAuICdt) | 3:43 | 2024-07-31 | 2025-06-01 |
 | [Drink With A Friend](https://open.spotify.com/track/7KARCE6ooKxr6660NWaoaW) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Drink With A Friend](https://open.spotify.com/album/6NoGQhTsy0GGRTEyTtaZqy) | 1:51 | 2024-12-31 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 | 2024-06-11 |
+| [Drive, Don't Talk](https://open.spotify.com/track/2CiJH4kFVfEmFke2bmEqj5) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:07 | 2025-07-27 |  |
 | [Drugs & Alcohol](https://open.spotify.com/track/0EFcQAlxVQzYbraMi4KFvh) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Fiddle Lake](https://open.spotify.com/album/6aeO2gNhNcKSZ0Tc2ID8ss) | 3:20 | 2024-12-31 |  |
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2024-08-27 |  |
 | [E.T.C.](https://open.spotify.com/track/6wo2ttC1hViFjjBc9VMuTY) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:07 | 2024-07-07 |  |
@@ -390,6 +392,7 @@
 | [Runway Houses City Clouds](https://open.spotify.com/track/3iohh4bLsUKefmjHw5jhbq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 7:15 | 2024-04-08 |  |
 | [Rush & Fever](https://open.spotify.com/track/2agNwbMZvRidqRylZLzowj) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 4:00 | 2024-07-07 | 2025-05-18 |
 | [Sacred Beast](https://open.spotify.com/track/6XYSGrWrA2si0cjO9BjbDw) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:22 | 2024-05-24 | 2024-12-17 |
+| [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2025-07-27 |  |
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2024-06-30 |  |
 | [SASFM](https://open.spotify.com/track/3mR7a59x0KsRK00GIXobfd) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [You Gave It Your Best](https://open.spotify.com/album/4y3ZVR9bObdAuD7cVDTet0) | 2:05 | 2024-07-17 |  |
 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2024-07-23 | 2025-05-13 |

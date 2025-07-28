@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 
 > Relax to the sound of birds singing in the rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,686 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,704 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 | 72 | [Dripping Rain And Singing Birds](https://open.spotify.com/track/2vjOQ01RrsfYbpgyPicObU) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:26 |
 | 73 | [Rich Raindrops](https://open.spotify.com/track/2CS1foD5CvZqEbrdeHjGeu) | [Rainspell](https://open.spotify.com/artist/0b4sTNmnPpWmMXt2164RXx) | [Rain Spell](https://open.spotify.com/album/3xvcpp8kX2YbQqxTAg2Lnn) | 2:40 |
 | 74 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 |
-| 75 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 |
-| 76 | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/track/1ZKyd4nwxTmfTjjrNguDQV) | [Bosque Tropical](https://open.spotify.com/artist/16UkmZvNY9VN80604Imhlx) | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/album/4QAM4YJ4TIWY27JyiZHfI9) | 2:44 |
-| 77 | [Jungle Wasteland](https://open.spotify.com/track/5uXeQrLdjkB1Uqb0Or1lem) | [Talia Jones](https://open.spotify.com/artist/3UVCy86aCGcOjbofqiVA2b) | [Raindrops Of Birds](https://open.spotify.com/album/1Kquvvc71ZmmOzEGIuyNsQ) | 2:24 |
-| 78 | [Morning Glory \- Rain & Birds](https://open.spotify.com/track/1HI5Uc6JRIhMgyngerFaNS) | [Nature Sound Designer](https://open.spotify.com/artist/7iXPrSY7jJniwLawoqPMNQ) | [Morning Glory \- Rain & Birds](https://open.spotify.com/album/6Afo2S4HGSNqogsYywwEyX) | 2:47 |
-| 79 | [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 |
-| 80 | [Garden Rain](https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:43 |
-| 81 | [Forest Rain Birds](https://open.spotify.com/track/3fSoGPWW8MqrnD0Wsv5CJO) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Rain Is A Beautiful Thing](https://open.spotify.com/album/1zrFylUbEzedemFnZH4oUT) | 2:54 |
-| 82 | [Scandinavian Birds In The Forest](https://open.spotify.com/track/76mlCK9rDlN2ThdRQfTzRx) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:00 |
+| 75 | [Garden Rain](https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:43 |
+| 76 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 |
+| 77 | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/track/1ZKyd4nwxTmfTjjrNguDQV) | [Bosque Tropical](https://open.spotify.com/artist/16UkmZvNY9VN80604Imhlx) | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/album/4QAM4YJ4TIWY27JyiZHfI9) | 2:44 |
+| 78 | [Jungle Wasteland](https://open.spotify.com/track/5uXeQrLdjkB1Uqb0Or1lem) | [Talia Jones](https://open.spotify.com/artist/3UVCy86aCGcOjbofqiVA2b) | [Raindrops Of Birds](https://open.spotify.com/album/1Kquvvc71ZmmOzEGIuyNsQ) | 2:24 |
+| 79 | [Scandinavian Birds In The Forest](https://open.spotify.com/track/76mlCK9rDlN2ThdRQfTzRx) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:00 |
+| 80 | [Morning Glory \- Rain & Birds](https://open.spotify.com/track/1HI5Uc6JRIhMgyngerFaNS) | [Nature Sound Designer](https://open.spotify.com/artist/7iXPrSY7jJniwLawoqPMNQ) | [Morning Glory \- Rain & Birds](https://open.spotify.com/album/6Afo2S4HGSNqogsYywwEyX) | 2:47 |
+| 81 | [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 |
+| 82 | [Forest Rain Birds](https://open.spotify.com/track/3fSoGPWW8MqrnD0Wsv5CJO) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Rain Is A Beautiful Thing](https://open.spotify.com/album/1zrFylUbEzedemFnZH4oUT) | 2:54 |
 | 83 | [Rain With Birds](https://open.spotify.com/track/2urNl1EzCaUVSKtk0KeImD) | [Avez](https://open.spotify.com/artist/4eusMXjdkR99XWNEcRu5jf) | [Rain With Birds](https://open.spotify.com/album/6Nz2lEJRjKka6hOqVQduIR) | 2:50 |
 | 84 | [After The Storm \(Birds And Rain\)](https://open.spotify.com/track/6rchW2k3MaAFvDXDgX6mbm) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:13 |
 | 85 | [American Crow In Rain](https://open.spotify.com/track/4JoECPt0bCLkrwSuvo9mkH) | [TAIOWA](https://open.spotify.com/artist/1Ch86YPeCu9LppuzxgpMF6) | [Morning Rain](https://open.spotify.com/album/1Bx8g7l4OILWFLnkYb4fvF) | 3:08 |

@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-664 songs - 1 day 14 hr 44 min
+668 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [All Day Long](https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg) | [Shop Assistants](https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm) | [Will Anything Happen](https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9) | 1:50 | 2025-04-13 | 2025-05-09 |
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 | 2024-03-10 |
 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 | 2024-11-25 | 2025-01-12 |
+| [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 | 2025-07-27 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 | 2024-03-10 |
 | [Alonzo](https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [This Time](https://open.spotify.com/album/4UsDilRDkv7adgos4EJlF6) | 5:26 | 2024-12-06 | 2025-01-12 |
 | [Amanogawa](https://open.spotify.com/track/2BnVjXTKGlDgBw6QMWuXOw) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Image 1983 \- 1998](https://open.spotify.com/album/1VOLtARcWRJTQHf0NJJG4v) | 3:12 | 2025-01-21 | 2025-03-02 |
@@ -156,6 +157,7 @@
 | [Dust To Dust](https://open.spotify.com/track/3XSlfc6P1mXb1L8E8LnP1r) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:37 | 2024-09-23 | 2024-11-14 |
 | [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 | 2024-09-08 |
 | [Easy](https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 3:15 | 2025-05-23 | 2025-07-04 |
+| [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 | 2025-07-27 |  |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Elastic Dance](https://open.spotify.com/track/0WteRY4jMvEd1zEAdmlfhe) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 3:58 | 2025-03-01 | 2025-05-09 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
@@ -325,6 +327,7 @@
 | [Klonkmelodin](https://open.spotify.com/track/1MdoqTzAV9BPbw1ZbZw9iU) | [Sagor & Swing](https://open.spotify.com/artist/3KIUFqenyBNPkZIQjVnfdX) | [Melodier och fåglar](https://open.spotify.com/album/0f9hohz1u0EeHY8j8RBAQH) | 2:03 | 2024-10-15 | 2024-11-14 |
 | [Knocking \(At Your Door\)](https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY) | [Grand Man](https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN) | 3:29 | 2025-02-26 | 2025-02-28 |
 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 | 2024-04-12 | 2024-05-16 |
+| [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 | 2025-07-27 |  |
 | [Komodo](https://open.spotify.com/track/2gDGX6ANP3GF9uMwuA4GMy) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:06 | 2024-09-07 | 2024-11-14 |
 | [L'Etang](https://open.spotify.com/track/5lWEFSgLu51Og9y7pmghzZ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 2:24 | 2025-05-27 | 2025-07-04 |
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-29 | 2024-09-08 |
@@ -671,6 +674,7 @@
 | [É Natural](https://open.spotify.com/track/6CoARmWYgVOTZnoTdfOmmo) | [Negritude Junior](https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F) | [Bis \- Negritude Junior](https://open.spotify.com/album/1ul1Zz4eU1q33YI9uev8jM) | 3:28 | 2025-03-01 | 2025-05-09 |
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 | 2024-11-14 |
 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 | 2024-11-14 |
+| [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 | 2025-07-27 |  |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

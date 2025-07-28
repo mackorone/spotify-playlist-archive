@@ -26789,6 +26789,24 @@
     },
     {
       "album": {
+        "name": "kyeon",
+        "url": "https://open.spotify.com/album/7on3hpcrztRDoNM24qLGDO"
+      },
+      "artists": [
+        {
+          "name": "zfuul",
+          "url": "https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290279,
+      "name": "water drop",
+      "url": "https://open.spotify.com/track/6cGSFAkpPuO4ray6C6IwNp"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/2ycvSqsQYFDzWJDzyFDV1P"
       },
@@ -27960,7 +27978,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 237053,
       "name": "Wish",
       "url": "https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9"

@@ -39132,7 +39132,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 221250,
       "name": "Marra de Bandido",
       "url": "https://open.spotify.com/track/5Mc57U1IixQhYhjumdeiKP"
@@ -41452,7 +41452,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 144160,
       "name": "Melzinho",
       "url": "https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB"
@@ -63901,6 +63901,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -76116,6 +76134,28 @@
       "duration_ms": 276986,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
+    },
+    {
+      "album": {
+        "name": "Todas as Cores",
+        "url": "https://open.spotify.com/album/0DQYpPMAJ9xXlYU5bdOBqI"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162047,
+      "name": "V\u00e1 Se Benzer (feat. Gal Costa)",
+      "url": "https://open.spotify.com/track/2mKz8D8kziLSRFEpvFpBUz"
     },
     {
       "album": {

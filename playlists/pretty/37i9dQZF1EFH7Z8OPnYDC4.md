@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 327 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 327 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 100 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 |
 | 101 | [Soliloquy](https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:47 |
 | 102 | [What's the Use of Wondrin](https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:49 |
-| 103 | [Chi\-Town Christmas](https://open.spotify.com/track/77Ebl1kH2QncjJMNsOWnws) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu) | 1:57 |
-| 104 | [To Keep My Love Alive](https://open.spotify.com/track/4rk5vwfY0N9mVCrhHhYUKU) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:36 |
+| 103 | [To Keep My Love Alive](https://open.spotify.com/track/4rk5vwfY0N9mVCrhHhYUKU) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:36 |
+| 104 | [Chi\-Town Christmas](https://open.spotify.com/track/77Ebl1kH2QncjJMNsOWnws) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu) | 1:57 |
 | 105 | [The March Of The Siamese Children \- Remastered 2001](https://open.spotify.com/track/7urCfcy0bKsKOIAwW1rugR) | [The 20th Century\-Fox Orchestra](https://open.spotify.com/artist/6nKFSacPCDLOdS3P2lbqjB), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ), [Jen Wyler](https://open.spotify.com/artist/5ktpNQLvpix0NP8gyHGl9X) | [The King And I: Music From The Motion Picture \(Remastered 2001\)](https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b) | 3:25 |
 | 106 | [If I Were You](https://open.spotify.com/track/3SOCYTnAeCGGBGRwQHIOMR) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Throwing Up Butterflies](https://open.spotify.com/album/5agogztNPNQMEXZMxMGxXT) | 2:42 |
 | 107 | [Pore Jud Is Daid](https://open.spotify.com/track/4dbYEYqNVV1LIzdjqdhFqj) | [Damon Daunno](https://open.spotify.com/artist/114IXWRk0TuKYwHxAOOT3F), [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 4:28 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 326 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 327 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Ab310gAAAADwpqbGxYO6UTpMfk7x6lxQ`
+Snapshot ID: `Ab37cgAAAACIZDNjPcamenJ+7MYcQG8M`

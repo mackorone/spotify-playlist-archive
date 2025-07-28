@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,190 songs - 12 day 2 hr 28 min
+5,191 songs - 12 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [Drum and Pulse](https://open.spotify.com/track/1hyxIUIVD2Zfq1WKFDruUw) | [Songiè](https://open.spotify.com/artist/4DAZbfrX0zfZpeSgmkk7ry) | [Drum and Pulse](https://open.spotify.com/album/47PwjqHTgxD7jW7HQw3wgw) | 3:23 | 2024-06-21 | 2024-07-03 |
 | [Drums](https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Red Eye](https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo) | 3:01 | 2023-07-20 |  |
 | [Drunk Texting](https://open.spotify.com/track/4mMSgkG5Fm34lfiFnRwOKk) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB), [DJ Noble](https://open.spotify.com/artist/34l58mggyZ8faiSMhqcgaF) | [Bad Decisions](https://open.spotify.com/album/4uzQLuSzfVHKnNzkANOUMb) | 3:19 | 2020-11-06 | 2020-11-27 |
+| [drunk w/the homies](https://open.spotify.com/track/6AT89C4AWfMJyb7zlqimfg) | [Gen Z](https://open.spotify.com/artist/0MQxUqJX1r7mfQVIs13jdU) | [drunk w/the homies EP](https://open.spotify.com/album/7bNiBcZvBXVZgJ2mhb00xd) | 2:44 | 2025-07-27 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-03-10 | 2025-05-22 |
 | [Dulce](https://open.spotify.com/track/5C7BPSolWKfJSWKkZvwJun) | [Blenfre](https://open.spotify.com/artist/7lUd9FGvKChodVoY72qf1v) | [DULCE](https://open.spotify.com/album/6HQZv6DGhsCZcxoBnfcnE1) | 2:41 | 2023-01-06 | 2023-01-28 |
 | [Dulce De Leche](https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ) | [EbNFLoW](https://open.spotify.com/artist/52tZK4vEgVwQ8gN3BYYGLb), [Dolores](https://open.spotify.com/artist/083XAVPRmjHxahdFzMvOY6) | [Dulce De Leche](https://open.spotify.com/album/0z7PP07CHaTpnxfkM2gutj) | 3:40 | 2023-12-22 | 2024-01-10 |

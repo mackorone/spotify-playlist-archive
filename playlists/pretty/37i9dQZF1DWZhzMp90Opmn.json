@@ -1,6 +1,6 @@
 {
   "description": "The perfect frequency for sleep or study \u2013 science tested, listener approved.",
-  "num_followers": 468207,
+  "num_followers": 468449,
   "original_name": "Pink Noise 10 Hours",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Pink Hypnosis",
+        "url": "https://open.spotify.com/album/68TqIxapChlUdpYXycVZXP"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hypnotic Pink Calmness",
+      "url": "https://open.spotify.com/track/7f46DzJbwrJiANH9hOZF1s"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Pink Noise Slow Down",
         "url": "https://open.spotify.com/album/2QJbHLWT1VaEa1C8cudpw8"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 192000,
       "name": "Pink Velvet Revival",
       "url": "https://open.spotify.com/track/34BuGk7BmtgE53HXLy5D0c"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Pink Hypnosis",
-        "url": "https://open.spotify.com/album/68TqIxapChlUdpYXycVZXP"
-      },
-      "artists": [
-        {
-          "name": "Hypnotronica",
-          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hypnotic Pink Calmness",
-      "url": "https://open.spotify.com/track/7f46DzJbwrJiANH9hOZF1s"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Pink Frequencies",
-        "url": "https://open.spotify.com/album/1X26ZZAVYKCQWaVvd8MToi"
-      },
-      "artists": [
-        {
-          "name": "Lila Om",
-          "url": "https://open.spotify.com/artist/00KH6gMTJuNeeU5DCsrjcF"
-        }
-      ],
-      "duration_ms": 162296,
-      "name": "Radiance Pink Noise",
-      "url": "https://open.spotify.com/track/6Vl0d64kN481KV8VkZ6xWN"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Zarata Arrosa",
-        "url": "https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K"
-      },
-      "artists": [
-        {
-          "name": "San Sebastiano",
-          "url": "https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Pink Noise Binary",
-      "url": "https://open.spotify.com/track/71ePEcuRKQODDtsHtg2nFv"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
         "name": "Robots Love Pink Noise",
         "url": "https://open.spotify.com/album/6AhHJbWTpuhHbLFsySVTQb"
       },
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Zarata Arrosa",
+        "url": "https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K"
+      },
+      "artists": [
+        {
+          "name": "San Sebastiano",
+          "url": "https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Pink Noise Binary",
+      "url": "https://open.spotify.com/track/71ePEcuRKQODDtsHtg2nFv"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Pink Noise Horizons",
         "url": "https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 168097,
       "name": "Softer Pink Noise",
       "url": "https://open.spotify.com/track/0LIct0I3RXKUxbMr9gF0AX"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Pink Frequencies",
+        "url": "https://open.spotify.com/album/1X26ZZAVYKCQWaVvd8MToi"
+      },
+      "artists": [
+        {
+          "name": "Lila Om",
+          "url": "https://open.spotify.com/artist/00KH6gMTJuNeeU5DCsrjcF"
+        }
+      ],
+      "duration_ms": 162296,
+      "name": "Radiance Pink Noise",
+      "url": "https://open.spotify.com/track/6Vl0d64kN481KV8VkZ6xWN"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Bathing in Pink Noise",
+        "url": "https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Pink Noise Air",
+      "url": "https://open.spotify.com/track/4iu3Bn25JWPygLy26cnfx9"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Delicate Pink Noise",
         "url": "https://open.spotify.com/album/2FPyYWcoCwRcRjrvdXM9SV"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 175865,
       "name": "Calming Pink Waves",
       "url": "https://open.spotify.com/track/6PKt491V2U0DgfW8QrVygA"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Bathing in Pink Noise",
-        "url": "https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su"
-      },
-      "artists": [
-        {
-          "name": "Astrofuss",
-          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Pink Noise Air",
-      "url": "https://open.spotify.com/track/4iu3Bn25JWPygLy26cnfx9"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Bathing in Pink Noise",
+        "url": "https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "The Flow of Pink Noise",
+      "url": "https://open.spotify.com/track/1SoXzhG9dJUsEgmsxurbRL"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Pink Noise Radiance",
         "url": "https://open.spotify.com/album/6VMDNEV2BVqYIdlex5MwS9"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Pink Noise Atmosphere",
-        "url": "https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj"
-      },
-      "artists": [
-        {
-          "name": "Granular",
-          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Dreamy Pink Noise",
-      "url": "https://open.spotify.com/track/6fRlAcrUSERsf5Xx7oCB23"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
         "name": "Discrete Pink Noise",
         "url": "https://open.spotify.com/album/5S55bRvqqur38ufd9SQo4l"
       },
@@ -1575,6 +1575,54 @@
       "duration_ms": 201537,
       "name": "Geocentric Noise",
       "url": "https://open.spotify.com/track/4rsUhrp7ONH8Ekt0sxmkoT"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Pink Horizons",
+        "url": "https://open.spotify.com/album/7hj2WJjJEg4d7cqYSyp0bK"
+      },
+      "artists": [
+        {
+          "name": "1ST SND",
+          "url": "https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pink Serenity",
+      "url": "https://open.spotify.com/track/6qq58ochoYTNXQkJAM1jdW"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Pink Clouds",
+        "url": "https://open.spotify.com/album/3Mf4tf2knBYBsRshYRrbMY"
+      },
+      "artists": [
+        {
+          "name": "molecule",
+          "url": "https://open.spotify.com/artist/48UoOY4CBBD4Bh6fU8yGDQ"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Pink Clouds",
+      "url": "https://open.spotify.com/track/3jqF7nmGf0OSCfSrgsVzhH"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Pink Noise Atmosphere",
+        "url": "https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj"
+      },
+      "artists": [
+        {
+          "name": "Granular",
+          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Dreamy Pink Noise",
+      "url": "https://open.spotify.com/track/6fRlAcrUSERsf5Xx7oCB23"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -1607,54 +1655,6 @@
       "duration_ms": 205689,
       "name": "Mellow Sounding Pink Noise",
       "url": "https://open.spotify.com/track/4K4w8ieGVM7co79S8rEiK9"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Bathing in Pink Noise",
-        "url": "https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su"
-      },
-      "artists": [
-        {
-          "name": "Astrofuss",
-          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
-        }
-      ],
-      "duration_ms": 211750,
-      "name": "The Flow of Pink Noise",
-      "url": "https://open.spotify.com/track/1SoXzhG9dJUsEgmsxurbRL"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Pink Clouds",
-        "url": "https://open.spotify.com/album/3Mf4tf2knBYBsRshYRrbMY"
-      },
-      "artists": [
-        {
-          "name": "molecule",
-          "url": "https://open.spotify.com/artist/48UoOY4CBBD4Bh6fU8yGDQ"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Pink Clouds",
-      "url": "https://open.spotify.com/track/3jqF7nmGf0OSCfSrgsVzhH"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Pink Horizons",
-        "url": "https://open.spotify.com/album/7hj2WJjJEg4d7cqYSyp0bK"
-      },
-      "artists": [
-        {
-          "name": "1ST SND",
-          "url": "https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pink Serenity",
-      "url": "https://open.spotify.com/track/6qq58ochoYTNXQkJAM1jdW"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Pink Noise for Restful Sleep",
+        "url": "https://open.spotify.com/album/2JQpTr1MbtBZOJAUfBA243"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Floating Freely Pink Noise",
+      "url": "https://open.spotify.com/track/7up5NFq8Q0PIaFomVaoBMG"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Rosewater Pink Resonance",
         "url": "https://open.spotify.com/album/4e89dG3epTTnSwVmeuCt8O"
       },
@@ -2340,9 +2356,9 @@
           "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Floating Freely Pink Noise",
-      "url": "https://open.spotify.com/track/7up5NFq8Q0PIaFomVaoBMG"
+      "duration_ms": 164000,
+      "name": "Natural Serenity Pink Noise",
+      "url": "https://open.spotify.com/track/3Fmkjj0HWBC8TlHKIckyye"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2491,22 +2507,6 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Pink Noise for Restful Sleep",
-        "url": "https://open.spotify.com/album/2JQpTr1MbtBZOJAUfBA243"
-      },
-      "artists": [
-        {
-          "name": "NREM",
-          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Natural Serenity Pink Noise",
-      "url": "https://open.spotify.com/track/3Fmkjj0HWBC8TlHKIckyye"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
         "name": "Magenta Noise Dream",
         "url": "https://open.spotify.com/album/2AAP5GlhKOt4t7faIcwGll"
       },
@@ -2519,6 +2519,22 @@
       "duration_ms": 200620,
       "name": "Raspberry Rapture",
       "url": "https://open.spotify.com/track/7zjyQAZOeD9Dsg8kiFIXP2"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Retrograde Pink Noise",
+        "url": "https://open.spotify.com/album/0Hdpx60YY26FqcfAqKHe4O"
+      },
+      "artists": [
+        {
+          "name": "Fortuna",
+          "url": "https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV"
+        }
+      ],
+      "duration_ms": 164955,
+      "name": "Retrograde Pink Noise",
+      "url": "https://open.spotify.com/track/4KDNVbgOQBTW58VaayYMMR"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2551,22 +2567,6 @@
       "duration_ms": 188000,
       "name": "Cool and Calm Pink Noise",
       "url": "https://open.spotify.com/track/5KPwCk4yBDum0phAaqlRno"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
-        "name": "Retrograde Pink Noise",
-        "url": "https://open.spotify.com/album/0Hdpx60YY26FqcfAqKHe4O"
-      },
-      "artists": [
-        {
-          "name": "Fortuna",
-          "url": "https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV"
-        }
-      ],
-      "duration_ms": 164955,
-      "name": "Retrograde Pink Noise",
-      "url": "https://open.spotify.com/track/4KDNVbgOQBTW58VaayYMMR"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Pink Champagne Cascade",
-        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
-      },
-      "artists": [
-        {
-          "name": "AREA",
-          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Rosy Pink Noise Haze",
-      "url": "https://open.spotify.com/track/2zKJ2TRxSnZVO98j8IzeZs"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
         "name": "Sakura Pink Petals",
         "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
       },
@@ -2859,6 +2843,22 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
+        "name": "Pink Champagne Cascade",
+        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+      },
+      "artists": [
+        {
+          "name": "AREA",
+          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Rosy Pink Noise Haze",
+      "url": "https://open.spotify.com/track/2zKJ2TRxSnZVO98j8IzeZs"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
         "name": "Rosewater Pink Resonance",
         "url": "https://open.spotify.com/album/4e89dG3epTTnSwVmeuCt8O"
       },
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Sakura Pink Petals",
-        "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
-      },
-      "artists": [
-        {
-          "name": "AstroDrift",
-          "url": "https://open.spotify.com/artist/0FWfREjNwRYUdsRMDMWaef"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Carnation Canyons",
-      "url": "https://open.spotify.com/track/5e7mAhehvQxmHxsKooJvoM"
-    },
-    {
-      "added_at": "2025-02-26 13:31:09",
-      "album": {
         "name": "Magenta Noise Dream",
         "url": "https://open.spotify.com/album/2AAP5GlhKOt4t7faIcwGll"
       },
@@ -2923,18 +2907,18 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Magenta Mindscapes",
-        "url": "https://open.spotify.com/album/016lwLmKtHNA2nMzASryHt"
+        "name": "Sakura Pink Petals",
+        "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
       },
       "artists": [
         {
-          "name": "Skylift",
-          "url": "https://open.spotify.com/artist/2yDB2KsbOShZGW0kQwYdx7"
+          "name": "AstroDrift",
+          "url": "https://open.spotify.com/artist/0FWfREjNwRYUdsRMDMWaef"
         }
       ],
-      "duration_ms": 186502,
-      "name": "Magenta Mindscapes",
-      "url": "https://open.spotify.com/track/7dYvsR1bMjZFXCuQYTCXsj"
+      "duration_ms": 188731,
+      "name": "Carnation Canyons",
+      "url": "https://open.spotify.com/track/5e7mAhehvQxmHxsKooJvoM"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2955,18 +2939,18 @@
     {
       "added_at": "2025-02-26 13:31:09",
       "album": {
-        "name": "Pink Champagne Cascade",
-        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+        "name": "Magenta Mindscapes",
+        "url": "https://open.spotify.com/album/016lwLmKtHNA2nMzASryHt"
       },
       "artists": [
         {
-          "name": "AREA",
-          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+          "name": "Skylift",
+          "url": "https://open.spotify.com/artist/2yDB2KsbOShZGW0kQwYdx7"
         }
       ],
-      "duration_ms": 191703,
-      "name": "Pink Champagne Cascade",
-      "url": "https://open.spotify.com/track/7sfMJLpTqkU3L2i8otEKVZ"
+      "duration_ms": 186502,
+      "name": "Magenta Mindscapes",
+      "url": "https://open.spotify.com/track/7dYvsR1bMjZFXCuQYTCXsj"
     },
     {
       "added_at": "2025-02-26 13:31:09",
@@ -2999,6 +2983,22 @@
       "duration_ms": 162150,
       "name": "Pink Noise Rainforest",
       "url": "https://open.spotify.com/track/3SfZXzxI9EeLyc2SzHFmVt"
+    },
+    {
+      "added_at": "2025-02-26 13:31:09",
+      "album": {
+        "name": "Pink Champagne Cascade",
+        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+      },
+      "artists": [
+        {
+          "name": "AREA",
+          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+        }
+      ],
+      "duration_ms": 191703,
+      "name": "Pink Champagne Cascade",
+      "url": "https://open.spotify.com/track/7sfMJLpTqkU3L2i8otEKVZ"
     },
     {
       "added_at": "2025-02-26 13:31:09",

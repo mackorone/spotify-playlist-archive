@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,121 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,313 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 8 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 9 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 |
 | 10 | [Hang on to Your Kool](https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Hang on to Your Kool](https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb) | 3:43 |
-| 11 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
-| 12 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
-| 13 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 |
+| 11 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
+| 12 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 |
+| 13 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 | 14 | [Move On](https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS) | [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Isaac Chambers & Dub Princess](https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW) | 5:36 |
 | 15 | [My Brother](https://open.spotify.com/track/6h0yIcxUPldNEAJWU5jaA1) | [The Survivals](https://open.spotify.com/artist/56fdoei37XjePeY36vLp4a) | [Gumba Fire: Bubblegum Soul & Synth Boogie in 1980s South Africa](https://open.spotify.com/album/4zss7Www7vwRQCZIlnSgzu) | 4:46 |
 | 16 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 113 | [How It Goes](https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Music Save Me \(One More Time\)](https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU) | 4:16 |
 | 114 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
 | 115 | [Flames to Feed \- Dr Rubberfunk Remix](https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep) | [Mount Pleasant Remixed, Vol\. 1](https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK) | 3:46 |
-| 116 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 |
-| 117 | [Higher](https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Higher](https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD) | 2:29 |
+| 116 | [Higher](https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Higher](https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD) | 2:29 |
+| 117 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 |
 | 118 | [Guzelim Benim](https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl) | [Romano](https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl) | [G​ü​le G​ü​le](https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW) | 3:43 |
 | 119 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
 | 120 | [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 |

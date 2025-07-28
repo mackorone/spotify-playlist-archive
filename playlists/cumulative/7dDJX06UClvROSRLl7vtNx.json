@@ -6081,6 +6081,24 @@
     },
     {
       "album": {
+        "name": "Get It On Tonite",
+        "url": "https://open.spotify.com/album/5POUU0L8fKfAxMyUplbnav"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154396,
+      "name": "Get It On Tonite",
+      "url": "https://open.spotify.com/track/7FvNDS4H2wSCpgyAgd71iW"
+    },
+    {
+      "album": {
         "name": "Get So Lonely",
         "url": "https://open.spotify.com/album/66lvySL2Ch4mCEhyiBs5VB"
       },
@@ -8182,7 +8200,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 153688,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT"
@@ -8200,7 +8218,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 189128,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/6UQODV3gYPW4j00QMppViz"
@@ -12494,7 +12512,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 164210,
       "name": "Move On",
       "url": "https://open.spotify.com/track/0uVdY1kG6mar4uyn63iJqK"
@@ -12582,7 +12600,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 133549,
       "name": "My Heart Beats Like",
       "url": "https://open.spotify.com/track/0JNA6xGmsrNa8mSHX0fjVf"
@@ -12954,7 +12972,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 150000,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/7ddyZw5F6xZ1HAxrdhnJab"
@@ -14942,7 +14960,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 138387,
       "name": "Remind Me Tomorrow",
       "url": "https://open.spotify.com/track/0HPNSm3OSeTuGYEyQUXOto"
@@ -16534,7 +16552,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 179520,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0XsSId7qHbdSAziqLF9Znp"
@@ -18576,7 +18594,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 120614,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/73CAqIUMfHPj2dxvO3Gg6r"
@@ -20418,7 +20436,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 147000,
       "name": "What's The Harm",
       "url": "https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu"
@@ -20488,6 +20506,24 @@
       "duration_ms": 148800,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0QHaoHqQjO5mOnQS0J4Siq"
+    },
+    {
+      "album": {
+        "name": "Where Did The Time Go",
+        "url": "https://open.spotify.com/album/7z6kWYCL516BpwQ30PxfHP"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133157,
+      "name": "Where Did The Time Go",
+      "url": "https://open.spotify.com/track/7qVNpUuHogmiiTMQyN9ykB"
     },
     {
       "album": {
@@ -21225,6 +21261,28 @@
     },
     {
       "album": {
+        "name": "Young and Wild",
+        "url": "https://open.spotify.com/album/6TpGltMAxZitsWOmmHhVJv"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Young and Wild",
+      "url": "https://open.spotify.com/track/1fL8rKxCgzHByziRxX02NK"
+    },
+    {
+      "album": {
         "name": "Young Forever",
         "url": "https://open.spotify.com/album/0g7c3INzC6GCMuiysTSFi9"
       },
@@ -21240,7 +21298,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 162500,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/7oXaR4fw8j8kgFail1GmvJ"

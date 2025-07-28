@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,499 songs - 7 day 22 hr 17 min
+3,501 songs - 7 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,6 +926,7 @@
 | [Everynight](https://open.spotify.com/track/406ggJqFbnowCfEiH9I0wH) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Everynight](https://open.spotify.com/album/2U9U7nNtUDLaO8ioTFKEa7) | 3:25 | 2025-02-28 | 2025-03-08 |
 | [Everything](https://open.spotify.com/track/5rMdkUncqN8Ge7FfsuQdY6) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kristianex](https://open.spotify.com/artist/4NInysVDJHz7PCE9PfRs31) | [Everything](https://open.spotify.com/album/4DcU5B0uENei4Ae6sOGkvw) | 2:22 | 2025-01-10 | 2025-01-18 |
 | [Everything \(Don't You Wish\)](https://open.spotify.com/track/2MhPt4dKfz1RuhKzqynKBM) | [Riscape](https://open.spotify.com/artist/4w298KfSN50Q6umQIflLqu) | [Everything \(Don't You Wish\)](https://open.spotify.com/album/5rI2QR6HrQiFmSItZFL1PM) | 5:01 | 2024-12-13 | 2024-12-20 |
+| [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-07-27 |  |
 | [Everything to Lose](https://open.spotify.com/track/0hZaXSEw6z17FdUD6LcZke) | [Samuel Vasell](https://open.spotify.com/artist/2CRab4ntrkT6P2CdbnBxtf) | [Everything to Lose](https://open.spotify.com/album/5usIJyf28QAJX58papD8Q3) | 2:23 | 2024-08-30 | 2024-09-13 |
 | [Everywhere To Me](https://open.spotify.com/track/2tlhmNfXy3dNV4T46RFkBG) | [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g), [Theia](https://open.spotify.com/artist/6e37WZLCCQ1rQbpcpaZrkk) | [Everywhere To Me](https://open.spotify.com/album/69shF46x5NOTv0BHxzKeUa) | 4:36 | 2024-05-24 | 2024-06-01 |
 | [Evil Acid](https://open.spotify.com/track/3rNQvYJ8wkX3Zx87Qzi1gB) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd) | [Evil Acid](https://open.spotify.com/album/1RQi61KbJjAKYEHHCs0VYB) | 3:07 | 2025-02-13 | 2025-02-22 |
@@ -933,6 +934,7 @@
 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL) | 4:23 | 2024-08-30 | 2024-09-06 |
 | [Exist](https://open.spotify.com/track/7JbQt4Rn0BZ5R9bKfDmL3L) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Exist](https://open.spotify.com/album/6J3GvME029tmBrWdvkzWUv) | 3:45 | 2025-03-07 | 2025-03-15 |
 | [Explorer](https://open.spotify.com/track/5yIH0jItIzbjKLFg5RfH4n) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Explorer](https://open.spotify.com/album/3Z61UlrZhASq7RPyDVu4Sh) | 4:12 | 2025-03-21 | 2025-03-29 |
+| [EXPRESS](https://open.spotify.com/track/2mp8imxwhFoHkSo5W7PqRf) | [ALAN BAZE](https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO) | [EXPRESS](https://open.spotify.com/album/3OhbJPeVQsBJlf2lCN8ilR) | 3:36 | 2025-07-27 |  |
 | [Extreme Ways](https://open.spotify.com/track/2qigRZvq9yAwT2VDwnUkIT) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Extreme Ways](https://open.spotify.com/album/4A7kuAkbAMPlz96TbXfrxu) | 3:17 | 2024-11-22 | 2024-11-30 |
 | [EYAH \(You'll Be Alright\)](https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [EYAH \(You'll Be Alright\)](https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv) | 2:55 | 2024-05-24 | 2024-06-01 |
 | [Eyes](https://open.spotify.com/track/13ChbBQBVfiijzCPLNvCyH) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [FATE](https://open.spotify.com/artist/1ayTwznBsh8Yj2H5gMUyzF) | [Embody](https://open.spotify.com/album/2PcKotcvt7n1MDoBkjySRJ) | 4:30 | 2025-01-10 | 2025-01-18 |

@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 237876,
       "name": "Amagama (feat. LA-AK) - Radio Edit",
       "url": "https://open.spotify.com/track/6RHzeRVjBhNFGSVyj7hFz9"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 583008,
       "name": "I Belong To You (feat. Shane907)",
       "url": "https://open.spotify.com/track/5O3s7hWj3k0uTfq1pjebQv"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 379454,
       "name": "Iqhude",
       "url": "https://open.spotify.com/track/0c5q4Fw5UOfN2WG6LLFD8O"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 185811,
       "name": "Lets Dance",
       "url": "https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 560769,
       "name": "Muntu Wam (feat. Dot Mega)",
       "url": "https://open.spotify.com/track/3jJWBAWmVRCfisHPyVf2OC"
@@ -1153,6 +1153,32 @@
     },
     {
       "album": {
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Ntwana yami (feat. X-wise) - Acoustic Version",
+      "url": "https://open.spotify.com/track/4sf0P3XBy2YD4omSpKsg2i"
+    },
+    {
+      "album": {
         "name": "Okokgcina",
         "url": "https://open.spotify.com/album/5zXX0XHQxVzXweGm5OvPIb"
       },
@@ -1318,7 +1344,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 343404,
       "name": "Sabela - Club Mix",
       "url": "https://open.spotify.com/track/4NyrfFyJnQWmjjc7Xc4q1n"
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 369837,
       "name": "Sik'khuzile [Mixed]",
       "url": "https://open.spotify.com/track/7yKYoG9Jzs2vIjwUthzchJ"

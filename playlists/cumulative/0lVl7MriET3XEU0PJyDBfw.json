@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "AAAAaaaa",
+        "url": "https://open.spotify.com/album/4DDe7US1xhE5ZhWTK2nQhe"
+      },
+      "artists": [
+        {
+          "name": "nocapz.",
+          "url": "https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208752,
+      "name": "AAAAaaaa",
+      "url": "https://open.spotify.com/track/2L334OjbOswSQbX3qXqfgc"
+    },
+    {
+      "album": {
         "name": "About To Lose It",
         "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 232558,
       "name": "Act of God",
       "url": "https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 164776,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3y0QbLXvci18wQg4WGfIZh"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 153346,
       "name": "Bad B",
       "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
@@ -2437,6 +2455,28 @@
     },
     {
       "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/13HipGrp0IGY9gBMGwdLqb"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4"
+    },
+    {
+      "album": {
         "name": "Chip Tune",
         "url": "https://open.spotify.com/album/3feSyCPkqIHNhq3Cfo7dFh"
       },
@@ -2819,6 +2859,28 @@
     },
     {
       "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
       },
@@ -3132,6 +3194,28 @@
       "duration_ms": 201377,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
+    },
+    {
+      "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/2CczonWRwimiwGR7KHytjw"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221682,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1oXdtTyLWTmt1T6evUMr4S"
     },
     {
       "album": {
@@ -3484,7 +3568,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 279375,
       "name": "Do You Want It - Mike Balance Devil's Dandruff Mix",
       "url": "https://open.spotify.com/track/5L0AOA9Xrt8Y5FIGb4vubk"
@@ -3656,6 +3740,28 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2qnXtwurDlbIU19veR9Cei"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166968,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6M6lR8RBlwilhEjV0y5SeX"
     },
     {
       "album": {
@@ -6415,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "album": {
         "name": "I Got Nothing",
         "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
       },
@@ -7986,7 +8110,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 195230,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/7GLUtvoXay90Qgz1eg4TmM"
@@ -8188,6 +8312,28 @@
       "duration_ms": 158095,
       "name": "Luv u bb",
       "url": "https://open.spotify.com/track/01Y0qvsnbl5PhH737H8eKZ"
+    },
+    {
+      "album": {
+        "name": "Mad Motion",
+        "url": "https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160942,
+      "name": "Mad Motion",
+      "url": "https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR"
     },
     {
       "album": {
@@ -8478,7 +8624,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 213750,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc"
@@ -8794,7 +8940,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 195000,
       "name": "Move To The Rhythm",
       "url": "https://open.spotify.com/track/14CtfHMl8bGrrrmiexsyc7"
@@ -9566,6 +9712,24 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
+    },
+    {
+      "album": {
+        "name": "Spring Sampler '25",
+        "url": "https://open.spotify.com/album/5DSPV1pz9g3QDlHIB8FBr0"
+      },
+      "artists": [
+        {
+          "name": "Alcoda",
+          "url": "https://open.spotify.com/artist/2EtsOCK9gdOvffJOtJs7So"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Old Skool",
+      "url": "https://open.spotify.com/track/4apcNU76csN1F8BsrszTWU"
     },
     {
       "album": {
@@ -11927,6 +12091,32 @@
     },
     {
       "album": {
+        "name": "Simulator Remixes",
+        "url": "https://open.spotify.com/album/3yYs4kAhpSnBsHC1Usadyd"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Simulator - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/0GiT71RKKiZbmBH4u3VoU1"
+    },
+    {
+      "album": {
         "name": "Sit Down: Right Now",
         "url": "https://open.spotify.com/album/1keiWSV43forzyG9BDr7ih"
       },
@@ -12232,7 +12422,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 187500,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/65D67ZH7q8tYKiUoy6VlC7"
@@ -14784,7 +14974,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 182781,
       "name": "What The Fuzz",
       "url": "https://open.spotify.com/track/3DoCfzpIUtiWLDq6UuDzJo"
@@ -15272,6 +15462,28 @@
       "duration_ms": 182769,
       "name": "WTFU - Chocolate Puma House Mix",
       "url": "https://open.spotify.com/track/7v6sDb9ts9cp9BLh3BLplD"
+    },
+    {
+      "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
     },
     {
       "album": {

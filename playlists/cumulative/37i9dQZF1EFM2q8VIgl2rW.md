@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-216 songs - 9 hr 53 min
+217 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [For Now](https://open.spotify.com/track/3vOYnPzKM6SdejpJU7mThN) | [Stephanie D'Abruzzo](https://open.spotify.com/artist/2bvaL0chaHzVdKXjULRLeK), [Jordan Gelber](https://open.spotify.com/artist/31IEoybe2khDGCEPboqR1N), [Natalie Venetia Belcon](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f), [Ann Harada](https://open.spotify.com/artist/743OB85I8BftMRfuNAO1RS), [Rick Lyon](https://open.spotify.com/artist/4mblmGvdUx8IcysSPERlJn), [John Tartaglia](https://open.spotify.com/artist/4L7TL4CnvDR3iZQuVy6ESm), [Jennifer Barnhart](https://open.spotify.com/artist/67h70037kaX78GAWOmLfIA) | [Avenue Q \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0qikoI7Lgl9pp9KrxepBB3) | 3:12 | 2024-07-26 |  |
 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2k4iD2qFZ0HuyJBEeTrTgl) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Disney Love Songs](https://open.spotify.com/album/1ClNru8BFtdeF3L10UmfhK) | 3:45 | 2025-03-14 |  |
 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 | 2024-07-26 | 2025-03-15 |
+| [Frozen](https://open.spotify.com/track/7y1IC8pSewIIZ19fEG99YU) | [Jedha](https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC), [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [Music from Disney Starlight](https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ) | 1:54 | 2025-07-27 |  |
 | [Frozen](https://open.spotify.com/track/3xBl8toinMAP0jPb22oxCs) | [LA All Star](https://open.spotify.com/artist/1B5tly6FLyo6qmVqZYgxCy) | [Cartoonland \(O Mundo dos Desenhos\)](https://open.spotify.com/album/1ah5OLyFhy84VfvtlKGnvG) | 2:53 | 2025-06-29 | 2025-07-26 |
 | [Frozen Heart \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3xDVJcvcKedshWlT3qGSHk) | [Cast \- Frozen](https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:45 | 2024-07-26 |  |
 | [Frozen Medley](https://open.spotify.com/track/0XRI10VtMMpblqNwQFB1t9) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Colleen Ballinger](https://open.spotify.com/artist/7hmNVkIdlfKXiUx2IgTgzs) | [Magically Legendary Covers, Vol\. 1](https://open.spotify.com/album/07RCpYlV0rreFaa3eOhUFb) | 3:47 | 2024-07-26 |  |

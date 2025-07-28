@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-524 songs - 16 hr 3 min
+527 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Pimsy Pudding Day](https://open.spotify.com/track/3NCQehJCPnt3O0MrrQNu3t) | [Willoughby Bird](https://open.spotify.com/artist/2SD5Hli44gBRnfLGp85hQF) | [A Pimsy Pudding Day](https://open.spotify.com/album/0pgWWkVxoFOAXrSv45NwuC) | 1:07 | 2022-10-28 | 2025-06-11 |
 | [A Ram Sam Sam](https://open.spotify.com/track/624ysCV4lbaZ1xze4tSAXE) | [Tones From Samwell](https://open.spotify.com/artist/6Iz6MEdFyo1ggJmBoPXaKD) | [A Ram Sam Sam](https://open.spotify.com/album/1PZFZOpxv3QiF0jZdthMMH) | 2:38 | 2023-10-06 | 2025-06-11 |
 | [A Sailor Went To Sea](https://open.spotify.com/track/6QaXlu332fGX6nL1GDv8G7) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [A Sailor Went To Sea](https://open.spotify.com/album/4qObDua5L9IGenpPNdGMCc) | 2:01 | 2023-02-17 | 2023-09-01 |
-| [A Secret Lullaby](https://open.spotify.com/track/4ER7FO93TxntXA1YBKiNW4) | [Montgomery Northrop](https://open.spotify.com/artist/5em1ywgEdmszli6m8XtEAu) | [A Secret Lullaby](https://open.spotify.com/album/7AMAfipQ02uwCbdZ22Z6Al) | 1:38 | 2022-08-11 |  |
+| [A Secret Lullaby](https://open.spotify.com/track/4ER7FO93TxntXA1YBKiNW4) | [Montgomery Northrop](https://open.spotify.com/artist/5em1ywgEdmszli6m8XtEAu) | [A Secret Lullaby](https://open.spotify.com/album/7AMAfipQ02uwCbdZ22Z6Al) | 1:38 | 2022-08-11 | 2025-07-28 |
 | [A Sunny Day](https://open.spotify.com/track/36wnjwoxWcB9uVMeTASNcP) | [Hailey Tilford](https://open.spotify.com/artist/4bGfrh4LzyTm13a0FGfgKe) | [A Sunny Day](https://open.spotify.com/album/0hyfKKbEDdSrqY6hTfGoxv) | 1:53 | 2022-08-11 | 2025-06-11 |
 | [A Tall Tale](https://open.spotify.com/track/6P14smwG7qUke1fmruPLY2) | [Boyce Darcy](https://open.spotify.com/artist/78r6RLiTXrS0ukYu9pwBur) | [A Tall Tale](https://open.spotify.com/album/3V5he285jyZ7r812xgnqja) | 1:09 | 2022-08-11 | 2025-06-11 |
 | [A Windmill in Old Amsterdam](https://open.spotify.com/track/5C0NAFoZc2SHT58zvJS86m) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2022-08-11 | 2023-06-09 |
@@ -101,6 +101,7 @@
 | [Child's Play \#1](https://open.spotify.com/track/65MGptLUTl2uEdmPfqRuHT) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Child's Play \#1](https://open.spotify.com/album/0kNle1zTYlqxK4fhNyLkY7) | 1:46 | 2022-08-11 | 2023-01-20 |
 | [Clementine](https://open.spotify.com/track/1DE5TG9kbk1EhFI8jbnynS) | [Edwin Memic](https://open.spotify.com/artist/6UMtxbBaTzGQlZkfq3Xz09) | [Clementine](https://open.spotify.com/album/6I0v2cWcESLdNBSxmZsWLi) | 1:58 | 2023-02-17 | 2024-03-01 |
 | [Colors](https://open.spotify.com/track/2pnqS4yNQbPm8BGkPOsGcV) | [Ryley Sommer](https://open.spotify.com/artist/5iAPatBtTdr2ehnAyHrBzD) | [Colors](https://open.spotify.com/album/2YIkg4OU91nZ6LbYcvG9rw) | 1:53 | 2022-08-11 | 2025-06-11 |
+| [Come Closer](https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Come Closer](https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv) | 3:20 | 2025-07-27 |  |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD) | 1:26 | 2024-04-19 |  |
 | [Cosy Bed](https://open.spotify.com/track/4FP4wQ0hkp0XQVaNrkoTHQ) | [Lacy Neal](https://open.spotify.com/artist/7vxqmPfX4BDp5aksxuwLUc) | [Cosy Bed](https://open.spotify.com/album/4eFRT0qtybLANJ9DrjZo0U) | 1:16 | 2022-08-11 | 2025-06-11 |
 | [Cradle Canon](https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg) | [Nat Mee Ho](https://open.spotify.com/artist/2oqTteFbcLuEnhiXnkvJPk) | [Cradle Canon](https://open.spotify.com/album/6TFPdf6Qa2Y1nLxzWf8PTB) | 1:41 | 2022-08-11 | 2023-01-20 |
@@ -431,6 +432,7 @@
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2022-08-11 | 2022-10-29 |
 | [Teddy Bear](https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o) | [Rennie Stoltz](https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc) | [Teddy Bear](https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G) | 1:39 | 2023-08-10 | 2025-06-11 |
 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 | 2022-08-11 | 2023-02-24 |
+| [Tender](https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Tender](https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy) | 2:55 | 2025-07-27 |  |
 | [Tenderness](https://open.spotify.com/track/33L2dpLJ77q2QoSAlFYEfy) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:59 | 2022-08-11 | 2025-06-11 |
 | [The Animals Went in Two by Two](https://open.spotify.com/track/20n3Y82aTOYbx9UDJ2R20q) | [Kate Tager](https://open.spotify.com/artist/4lGMnp42xFwiTvw6fk0umP) | [This Little Piggy](https://open.spotify.com/album/0iNSrbVgQpiS3kDKdaAnPH) | 1:57 | 2022-08-11 | 2023-02-18 |
 | [The Blue Coloring Book](https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [The Blue Coloring Book](https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX) | 2:56 | 2023-03-17 | 2025-06-11 |
@@ -512,6 +514,7 @@
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-08-11 | 2023-09-16 |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2022-08-11 | 2024-04-13 |
 | [White Winter Hymnal](https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB) | [Espen Ahl](https://open.spotify.com/artist/6s99Zvn7tubqMmfawFW3vW) | [White Winter Hymnal](https://open.spotify.com/album/3hR33q1nVK9ENI5WXxtcWf) | 2:20 | 2022-09-22 | 2024-04-13 |
+| [Willow Song](https://open.spotify.com/track/0XbwNINoaEDBn6ETlB0MWW) | [Little Wind](https://open.spotify.com/artist/21SwhXJcqhoF7ByoyrFfhK) | [Willow Song](https://open.spotify.com/album/0wg3QdLOLe5JAeIzrVUH3I) | 1:06 | 2025-07-27 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe) | [Lola Hides](https://open.spotify.com/artist/3gquuIaOSVVh8knCaQXV1w) | [Winnie the Pooh](https://open.spotify.com/album/7I09xkoJdR1blurIQDUXIi) | 1:43 | 2023-06-02 | 2024-01-19 |
 | [Wished For, Longed For](https://open.spotify.com/track/2BNXwUiXFLrdiTlyANDjya) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Wished For, Longed For](https://open.spotify.com/album/2xmYOx5eA0iWLY7OQSMPBS) | 2:41 | 2023-01-20 | 2023-06-16 |
 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 | 2024-08-30 | 2025-06-11 |

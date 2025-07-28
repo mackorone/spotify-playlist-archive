@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u4e0d\u53ea\u4e00\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: J.Sheon",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u4e0d\u53ea\u4e00\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u9ad8\u723e\u5ba3 (OSN) x \u6d3e\u5049\u4fca (Patrick Brasca)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180121,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
+    },
+    {
+      "album": {
         "name": "I Hate Myself Sometimes",
         "url": "https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7"
       },
@@ -318,6 +340,28 @@
       "duration_ms": 175058,
       "name": "r u happy now?",
       "url": "https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT"
+    },
+    {
+      "album": {
+        "name": "SEX TAPE (feat. \u843d\u65e5\u98db\u8ecaSunset Rollercoaster)",
+        "url": "https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255287,
+      "name": "SEX TAPE (feat. \u843d\u65e5\u98db\u8ecaSunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
     },
     {
       "album": {
@@ -604,6 +648,24 @@
       "duration_ms": 118784,
       "name": "\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/6RnWxFXtmTkM7SCMJffaVC"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u503c\u5f97\u4e0d\u9002\u5408",
+        "url": "https://open.spotify.com/album/58m6xAmmonP1g4iPoVaivQ"
+      },
+      "artists": [
+        {
+          "name": "\u627f\u6853",
+          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "\u4e0d\u503c\u5f97\u4e0d\u9002\u5408",
+      "url": "https://open.spotify.com/track/3nyk0gtoKNss2626JxCUm1"
     },
     {
       "album": {
@@ -1088,7 +1150,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 263344,
       "name": "\u4f60\u7684\u4e16\u754c",
       "url": "https://open.spotify.com/track/0bC5zT5eItHOF8Oz6RdD12"
@@ -1612,7 +1674,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 217833,
       "name": "\u53ef\u4e0d\u53ef\u4ee5\u5225\u505a\u4ed6\u7684\u60c5\u4eba",
       "url": "https://open.spotify.com/track/3GMOQcoq6jz3hVyqmORmvM"
@@ -1691,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "\u544a\u767d\u756b\u9762 (\u5f71\u8996\u5287\u300a\u5225\u5c0d\u6211\u52d5\u5fc3\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/1BP530Dm7hq1bNMxOi5iJf"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u9704\u96f2",
+          "url": "https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179884,
+      "name": "\u544a\u767d\u756b\u9762 (\u5f71\u8996\u5287\u300a\u5225\u5c0d\u6211\u52d5\u5fc3\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/6bNsq0QmQywAHplp4bw7AX"
+    },
+    {
+      "album": {
         "name": "\u54c8\u56c9(\u4e09\u7acb\u83ef\u5287\u300a\u4e09\u96bb\u5c0f\u8c6c\u7684\u9006\u8972\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/1Kj8wnkfhXoqZvOH8xw65H"
       },
@@ -1756,7 +1836,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 235764,
       "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
@@ -1846,7 +1926,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 248527,
       "name": "\u56db\u5b63\u4e88\u4f60",
       "url": "https://open.spotify.com/track/4BGkSCrjiLao1bpibNptTD"
@@ -2924,7 +3004,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 288896,
       "name": "\u6210\u898b (feat. \u827e\u6021\u826f)",
       "url": "https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx"
@@ -3412,6 +3492,24 @@
       "duration_ms": 255838,
       "name": "\u6642\u9593\u8d70\u4e86\u4f46\u4f60\u6c92\u8d70",
       "url": "https://open.spotify.com/track/76dwCdjz1zzooRtfFEbN86"
+    },
+    {
+      "album": {
+        "name": "\u66f4\u503c\u5f97\u7684\u4eba",
+        "url": "https://open.spotify.com/album/3yg1UZX6rhx0B6AUnN8BZW"
+      },
+      "artists": [
+        {
+          "name": "Princess Ai",
+          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230059,
+      "name": "\u66f4\u503c\u5f97\u7684\u4eba",
+      "url": "https://open.spotify.com/track/09cBtEcuRDwYEgT1OvtUJ4"
     },
     {
       "album": {
@@ -4072,7 +4170,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 254500,
       "name": "\u771f\u7684\u50bb",
       "url": "https://open.spotify.com/track/75SFJY5NVEG20HciRFqIp4"
@@ -4350,7 +4448,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 349541,
       "name": "\u82ac\u862d\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
@@ -4604,6 +4702,24 @@
       "duration_ms": 214067,
       "name": "\u8a60\u611b",
       "url": "https://open.spotify.com/track/3sf2rfLYBuIz0gHOa7Z33h"
+    },
+    {
+      "album": {
+        "name": "GX 1st MINI ALBUM",
+        "url": "https://open.spotify.com/album/31ShII00nJmvfMcnx5ujR7"
+      },
+      "artists": [
+        {
+          "name": "GX (\u9f13\u9f13 \u5442\u601d\u7def\u3001\u856d\u79c9\u6cbb)",
+          "url": "https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227348,
+      "name": "\u8a8d\u611b",
+      "url": "https://open.spotify.com/track/0yFpIVGYYzkwGuE9Xyxdr8"
     },
     {
       "album": {
@@ -4958,7 +5074,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 261213,
       "name": "\u9084\u662f\u731c\u4e0d\u900f\u7684\u4eba (feat.\u9e8b\u5148\u751f \u8056\u7693)",
       "url": "https://open.spotify.com/track/4YxDyhzQJ5UbQoyZxuMi6q"

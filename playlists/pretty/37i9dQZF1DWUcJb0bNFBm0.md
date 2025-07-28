@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Slowwves \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,619 likes - 99 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 99 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

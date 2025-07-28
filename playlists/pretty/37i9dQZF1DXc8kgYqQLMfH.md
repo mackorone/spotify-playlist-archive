@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,538 likes - 150 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,238 likes - 150 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 22 | [Lazy](https://open.spotify.com/track/7mY66g3G0lsz60sqo4SOyR) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Lazy](https://open.spotify.com/album/3Ya2oy9QmFNLIOyxZyphbQ) | 2:27 |
 | 23 | [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 |
 | 24 | [Wish](https://open.spotify.com/track/0l9txLzjdTkW98bmvpkJjo) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Wish](https://open.spotify.com/album/6Z5zr7I0OJeGSoyL3PTDKJ) | 2:36 |
-| 25 | [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 |
-| 26 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 |
-| 27 | [Cruising](https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG) | [Lghtr](https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM) | [Cruising](https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu) | 2:09 |
+| 25 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 |
+| 26 | [Cruising](https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG) | [Lghtr](https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM) | [Cruising](https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu) | 2:09 |
+| 27 | [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 |
 | 28 | [Lost in Dreams](https://open.spotify.com/track/5x1met9DVNVPW2RxxGPfcM) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Lost in Dreams](https://open.spotify.com/album/5xdvch0V2aMyyi975Ptm03) | 2:26 |
 | 29 | [cycle of life](https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [cycle of life](https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r) | 2:04 |
 | 30 | [4:40 Am](https://open.spotify.com/track/2v0GqtA4G9tGqx13rtDs4h) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [4:40 Am](https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D) | 1:52 |

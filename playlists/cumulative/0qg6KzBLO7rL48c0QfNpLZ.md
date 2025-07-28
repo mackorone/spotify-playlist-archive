@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,179 songs - 2 day 4 hr 4 min
+1,180 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 | 2023-12-02 | 2024-09-15 |
 | [Chemicals](https://open.spotify.com/track/6uflD5CJQvJ5agADZxw50K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Chemicals](https://open.spotify.com/album/5GV6Kt8uRRdL6ZhLSb0fEL) | 3:06 | 2024-08-23 | 2024-11-18 |
 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 | 2024-04-05 | 2024-06-15 |
+| [Cherry Gold Sunset](https://open.spotify.com/track/54R0urLnxf4XZhPlAkWV7r) | [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Cherry Gold Sunset](https://open.spotify.com/album/6kBiELU4A0x34pZ5UGfmC6) | 2:34 | 2025-07-27 |  |
 | [Children](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Children](https://open.spotify.com/album/2itCxG4t12JklZoswP6RMt) | 3:01 | 2024-10-08 | 2024-11-18 |
 | [City Lights](https://open.spotify.com/track/7CIB9ZY10a67n0X3Hpx1rZ) | [TROYMER](https://open.spotify.com/artist/5WIDj0rMTefn1pATqwm9TC) | [City Lights](https://open.spotify.com/album/7cFx8J0GeFGLiaN5AwuGFb) | 2:16 | 2025-07-25 |  |
 | [City of Lights](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf) | [City of Lights](https://open.spotify.com/album/4aj6DE1j6wfTr0vqRVa9x0) | 2:29 | 2024-03-15 | 2024-04-15 |

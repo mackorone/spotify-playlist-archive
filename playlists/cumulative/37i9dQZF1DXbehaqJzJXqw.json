@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "I Could Be Happy",
+        "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "\u00c9lodie Fr\u00e9g\u00e9",
+          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "La Pluie Et Le Beau Temps",
+      "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
+    },
+    {
+      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -1472,7 +1494,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 144053,
       "name": "Le jazz et la java",
       "url": "https://open.spotify.com/track/4lkkbvIP0U7TlkdDzoy6OU"

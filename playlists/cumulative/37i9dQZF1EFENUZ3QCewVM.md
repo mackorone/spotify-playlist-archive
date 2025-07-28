@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 7 hr 31 min
+143 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 | 2024-05-19 |  |
 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 | 2024-02-27 |  |
 | [Guts!](https://open.spotify.com/track/2LzEmHpz8aaJukwPtYr1Pb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:31 | 2024-05-31 |  |
-| [Handlebars](https://open.spotify.com/track/6ixErpg4UrmWcpTgOUEuRM) | [Funguypiano](https://open.spotify.com/artist/6cZqUJFOubd93SOH0yDHRj) | [Kpop Piano Collection, \#11](https://open.spotify.com/album/7uHs1hIbUIQRV7tPvcg2wX) | 2:53 | 2025-07-26 |  |
+| [Handlebars](https://open.spotify.com/track/6ixErpg4UrmWcpTgOUEuRM) | [Funguypiano](https://open.spotify.com/artist/6cZqUJFOubd93SOH0yDHRj) | [Kpop Piano Collection, \#11](https://open.spotify.com/album/7uHs1hIbUIQRV7tPvcg2wX) | 2:53 | 2025-07-26 | 2025-07-28 |
+| [Handlebars](https://open.spotify.com/track/0QVdnzBvSOaC6DuniTTOBT) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [Handlebars](https://open.spotify.com/album/2FHy1x2PsQj5hQs0UWRJv2) | 2:26 | 2025-07-27 |  |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-29 |  |
 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 | 2024-02-27 |  |
 | [Heaven](https://open.spotify.com/track/0wLdOe8U2zdnTGcTQ10BZd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Heaven](https://open.spotify.com/album/6KAouQ5s01PZpMwf9rbedZ) | 2:36 | 2025-04-19 | 2025-07-21 |

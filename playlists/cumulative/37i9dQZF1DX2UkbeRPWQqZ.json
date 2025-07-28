@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 151423,
       "name": "A Beautiful Night",
       "url": "https://open.spotify.com/track/7xuW6jPJwCiGs2VJIqOBHm"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 158155,
       "name": "A Ram Sam Sam",
       "url": "https://open.spotify.com/track/624ysCV4lbaZ1xze4tSAXE"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 112158,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/3XIbyKZYaKgmE4Y3gdo7d3"
@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv"
+      },
+      "artists": [
+        {
+          "name": "Simon Bogren",
+          "url": "https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200062,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI"
+    },
+    {
+      "album": {
         "name": "Cozy and Warm",
         "url": "https://open.spotify.com/album/5bWiJ36lmMpWL6HKmF2TpK"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 95100,
       "name": "Dance a Baby Diddy",
       "url": "https://open.spotify.com/track/1rt2kja54OlDITKmvwFBfi"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 159940,
       "name": "Five Little Ducks",
       "url": "https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 107934,
       "name": "Furry Friends",
       "url": "https://open.spotify.com/track/6NLXrHE37TBshJMIihdAXd"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 155257,
       "name": "Soothing Dream",
       "url": "https://open.spotify.com/track/6Cr6Kekek5G07cl2aOO774"
@@ -4324,6 +4342,24 @@
       "duration_ms": 204008,
       "name": "Tell Me That Fairytale",
       "url": "https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175003,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh"
     },
     {
       "album": {
@@ -4896,7 +4932,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 135874,
       "name": "Twinkle, Drifting Star",
       "url": "https://open.spotify.com/track/311dVdo5qeV3oS7WfsVE7w"
@@ -5170,6 +5206,24 @@
       "duration_ms": 87500,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV"
+    },
+    {
+      "album": {
+        "name": "Willow Song",
+        "url": "https://open.spotify.com/album/0wg3QdLOLe5JAeIzrVUH3I"
+      },
+      "artists": [
+        {
+          "name": "Little Wind",
+          "url": "https://open.spotify.com/artist/21SwhXJcqhoF7ByoyrFfhK"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66136,
+      "name": "Willow Song",
+      "url": "https://open.spotify.com/track/0XbwNINoaEDBn6ETlB0MWW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,302 likes - 147 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,626 likes - 147 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 72 | [Island of Gods](https://open.spotify.com/track/5y8I7klZFSvtjWA71ZawZG) | [Infinite Sphere](https://open.spotify.com/artist/2FVBeKa5tcAuDKo60SwyHV) | [Island of Gods](https://open.spotify.com/album/2bW1GAF3JZwIVJlG5rrmDR) | 3:03 |
 | 73 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 |
 | 74 | [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 |
-| 75 | [Woodland](https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Woodland](https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW) | 2:52 |
-| 76 | [Fjälldrömmar](https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Fjälldrömmar](https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA) | 2:35 |
-| 77 | [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 |
+| 75 | [Fjälldrömmar](https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Fjälldrömmar](https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA) | 2:35 |
+| 76 | [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 |
+| 77 | [Woodland](https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Woodland](https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW) | 2:52 |
 | 78 | [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 |
 | 79 | [Serene Spa](https://open.spotify.com/track/7n8oXsxqPGZKUrhFK3zYHz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serene Spa](https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz) | 2:10 |
 | 80 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 |
@@ -140,9 +140,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 130 | [Brännö](https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Brännö](https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R) | 2:12 |
 | 131 | [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 |
 | 132 | [Seeker](https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Seeker](https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp) | 2:32 |
-| 133 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 |
-| 134 | [Corales \(Forest\)](https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Corales \(Forest\)](https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4) | 2:39 |
-| 135 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 |
+| 133 | [Corales \(Forest\)](https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Corales \(Forest\)](https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4) | 2:39 |
+| 134 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 |
+| 135 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 |
 | 136 | [Aurorá](https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Aurorá](https://open.spotify.com/album/70iDnNvqXx8XN4cYbjclqx) | 3:01 |
 | 137 | [Where The Brooks Meet](https://open.spotify.com/track/5cHqSqKnEgI0cisKbURs9E) | [Elemental Zenith](https://open.spotify.com/artist/0FrO30oOOv1iUUHtQa1Ipo) | [Where The Brooks Meet](https://open.spotify.com/album/0bofFssElhFqHYGa6djOAZ) | 2:48 |
 | 138 | [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Falling in love never sounded more beautiful than 'Bas Ek Dhadak'! Listen now\. Cover: Dhadak 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,036 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,158 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

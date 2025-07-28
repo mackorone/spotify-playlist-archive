@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Queralt Lahoz con Lia Kali, Guitarricadelafuente y Troye Sivan,  Alejandro Sanz con Carín León y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,235 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,249 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

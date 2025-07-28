@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "You Only Live 2wice",
+        "url": "https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179326,
+      "name": "Alexys",
+      "url": "https://open.spotify.com/track/4ueXXZIlDTJpPgV4H9oQaL"
+    },
+    {
+      "album": {
         "name": "FOTO",
         "url": "https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A"
       },
@@ -8734,6 +8752,36 @@
       "duration_ms": 148946,
       "name": "Ice Melt",
       "url": "https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9"
+    },
+    {
+      "album": {
+        "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+        "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
+      "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
     },
     {
       "album": {

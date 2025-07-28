@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Jul 22:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Jul 13:05 UTC.
 
-5,218 songs - 12 day 2 hr 26 min
+5,220 songs - 12 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,7 +680,7 @@
 | [Breath, Eyes, Memory](https://open.spotify.com/track/24vI2utYaLpJm0kKoku99s) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag) | [Breath, Eyes, Memory](https://open.spotify.com/album/2TMwjsy07LdO8KCxm3NTwJ) | 2:44 | 2024-09-06 | 2024-09-11 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-03-03 | 2025-03-07 |
 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-02-01 | 2025-02-12 |
-| [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 | 2025-07-20 |  |
+| [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 | 2025-07-20 | 2025-07-28 |
 | [breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [breathe u in](https://open.spotify.com/album/2pYbGIlP2xK4xYLp21Rhud) | 2:43 | 2024-12-13 | 2024-12-15 |
 | [Brick After Brick \(Ground Level\)](https://open.spotify.com/track/4Y1R3BpKWBZ8RgiW2S897y) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Brick After Brick \(Ground Level\)](https://open.spotify.com/album/2ALEmtbXfUWUaUq8lK2boh) | 3:07 | 2024-08-13 | 2024-08-16 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-15 |
@@ -885,6 +885,7 @@
 | [Chuchuka](https://open.spotify.com/track/6R0CVsepzUgMrcnzf7cP40) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Chuchuka](https://open.spotify.com/album/6YYfYZOMncRBBhj5dc8Ylt) | 2:19 | 2024-12-13 | 2024-12-20 |
 | [chucking it](https://open.spotify.com/track/6wv0uzDg6tXI24ReURQmCG) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [chucking it](https://open.spotify.com/album/4LidewaLEvp0KtCX5EfS2g) | 1:40 | 2024-07-10 | 2024-07-12 |
 | [ciao](https://open.spotify.com/track/6SVGPskvmcYsU5DyaXO7Ri) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [ciao](https://open.spotify.com/album/0fXodHNdiz7Q4gxeifQFcw) | 2:37 | 2025-02-28 | 2025-03-09 |
+| [Cigarettes & Alcohol \(Live from Manchester, 11 July '25\)](https://open.spotify.com/track/1n8290MZ0Copi4yGocDRuP) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Cigarettes & Alcohol \(Live from Manchester, 11 July '25\)](https://open.spotify.com/album/0oGnQ22ZSkI8FoXNYXaYSl) | 4:25 | 2025-07-27 |  |
 | [Cigarettes 2](https://open.spotify.com/track/3PuR5DgEJP8QVrLnC6rBQS) | [Kill Bill: The Rapper](https://open.spotify.com/artist/1t9KewtUvFMq6q7FRX1nHC) | [Cigarettes 2](https://open.spotify.com/album/16WAgU1NG76DTQ27QrnsGv) | 3:06 | 2025-06-04 | 2025-06-12 |
 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-25 | 2025-03-04 |
 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 | 2024-06-19 | 2024-06-21 |
@@ -1432,6 +1433,7 @@
 | [Euphorbia Milli](https://open.spotify.com/track/5kLhb56IgFVGATJ9T7g7WY) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Euphorbia Milli](https://open.spotify.com/album/1q9zzOoEYV6oehCc8nsSip) | 3:36 | 2024-09-24 | 2024-09-27 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-04-30 | 2024-05-03 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 | 2024-08-17 |
+| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-27 |  |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-04 | 2024-10-09 |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-13 | 2024-09-18 |
 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 | 2024-12-06 | 2024-12-12 |
@@ -3333,7 +3335,7 @@
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-16 | 2025-07-26 |
 | [Order Up](https://open.spotify.com/track/2LHXiCbjINmIwvE3HRlfTi) | [LongestSoloEver](https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca), [Glitch Whisper](https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe), [McGwire](https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7) | [Order Up](https://open.spotify.com/album/4kAFTrDqSJLr0dkg4NVgLQ) | 3:28 | 2024-12-14 | 2024-12-21 |
 | [ORIGAMI](https://open.spotify.com/track/1AjrBHMsEAF5vw5xcosZ4T) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [ORIGAMI](https://open.spotify.com/album/6uJhLRRLYDFeT5hLpenPrt) | 4:25 | 2024-07-07 | 2024-07-10 |
-| [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 | 2025-07-18 |  |
+| [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 | 2025-07-18 | 2025-07-28 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-07 | 2025-01-18 |
 | [Orphans](https://open.spotify.com/track/5JkBPvybcxRB9F6Y1OWYxY) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Orphans](https://open.spotify.com/album/4UgekyYsBXavssBjlcaRA6) | 2:46 | 2025-05-09 | 2025-05-20 |
 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 | 2024-11-07 | 2024-11-09 |

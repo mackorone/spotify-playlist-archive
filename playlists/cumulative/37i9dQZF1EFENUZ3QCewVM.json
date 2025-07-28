@@ -1020,10 +1020,28 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 173250,
       "name": "Handlebars",
       "url": "https://open.spotify.com/track/6ixErpg4UrmWcpTgOUEuRM"
+    },
+    {
+      "album": {
+        "name": "Handlebars",
+        "url": "https://open.spotify.com/album/2FHy1x2PsQj5hQs0UWRJv2"
+      },
+      "artists": [
+        {
+          "name": "Welcome2hills",
+          "url": "https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146287,
+      "name": "Handlebars",
+      "url": "https://open.spotify.com/track/0QVdnzBvSOaC6DuniTTOBT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 896 songs - 2 day 9 hr 25 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 897 songs - 2 day 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -904,5 +904,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 894 | [ginger snaps](https://open.spotify.com/track/3GPykjpQnlfdy2JLSFBYo0) | [sana](https://open.spotify.com/artist/7ui2RoF4OYUgPGX937n5xQ) | [Hush a by little girl](https://open.spotify.com/album/0A7PVTTcEVLVJ9VaQbJ2cR) | 2:53 |
 | 895 | [飛翔](https://open.spotify.com/track/1gMy9ccSflz0l4R2HJtw0N) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [覚醒](https://open.spotify.com/album/10gtDo5NX1O0clKC2A6UJq) | 3:48 |
 | 896 | [Needle of Words](https://open.spotify.com/track/0KRpwQle4Ob0QwY9mP80rd) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [Needle of Words](https://open.spotify.com/album/676VYNo0uR1lMHCowR3ZFT) | 2:52 |
+| 897 | [ハルライト](https://open.spotify.com/track/2dMUsmlbd1tI5pMKTf6Auy) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:40 |
 
-Snapshot ID: `AAAFTKiHKg1tiBUJVRVX8knLXm7y4THK`
+Snapshot ID: `AAAFTc6UfOhBI2mZrHhVTdOzHdzK8TlU`

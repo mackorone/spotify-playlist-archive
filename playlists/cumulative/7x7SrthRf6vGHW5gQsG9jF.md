@@ -4,7 +4,7 @@
 
 > mostly rock
 
-922 songs - 2 day 10 hr 59 min
+923 songs - 2 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [ハイライト](https://open.spotify.com/track/3MZgRR5kAyMcgnn3LuhgQK) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/album/4t1VSEDZyQRekY29oGLcjl) | 3:48 | 2023-08-13 |  |
 | [ハミング](https://open.spotify.com/track/4k6sICLAuznHhEnM38NdnY) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [ハミング](https://open.spotify.com/album/274g5cFDCYl8b0zpHHZg6g) | 2:38 | 2024-04-25 |  |
 | [ハル、ヨル、メグル。](https://open.spotify.com/track/2F4jPvPzQiBaL2zPb87Gsp) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 2:42 | 2024-05-18 |  |
+| [ハルライト](https://open.spotify.com/track/2dMUsmlbd1tI5pMKTf6Auy) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:40 | 2025-07-28 |  |
 | [ハロー・マイ・ロンリー](https://open.spotify.com/track/0Q3YhJEYMjKG0mfBlQynrs) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 2:59 | 2023-12-08 |  |
 | [ハンドメイドホーム](https://open.spotify.com/track/2ntcH7C2VduTzKbSMHZ0AY) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [大森靖子](https://open.spotify.com/album/2vLmARu8598Bhmdg9jvobY) | 2:33 | 2024-05-31 |  |
 | [バニラ](https://open.spotify.com/track/7EbRJkr8eGRRy8AlVjCUIE) | [蒼山幸子](https://open.spotify.com/artist/0kaulfDSrETQ7VpIv2mnkb) | [Highlight](https://open.spotify.com/album/6pAPgaMnYadpzuJqMYeadw) | 3:23 | 2024-05-03 |  |

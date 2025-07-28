@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 251305,
       "name": "Enta Be Damy",
       "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
@@ -18668,7 +18668,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -19074,7 +19074,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -27514,7 +27514,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
@@ -29899,6 +29899,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u0635\u064a\u0628\u0647",
+        "url": "https://open.spotify.com/album/7xt0CAYhJvX1SHKTE1TI2Q"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355306,
+      "name": "\u062a\u062d\u062f\u0648\u0646\u0627",
+      "url": "https://open.spotify.com/track/5IX0ebfjv9o7weodgnjhYx"
+    },
+    {
+      "album": {
         "name": "\u0639\u0627\u064a\u0636 \u0662\u0660\u0662\u0665",
         "url": "https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe"
       },
@@ -31550,7 +31568,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 216944,
       "name": "\u0642\u0644\u0648 \u0646\u0648\u0632 - Gole naz",
       "url": "https://open.spotify.com/track/64bLrZFkl9wQ4sbvuXdzTg"

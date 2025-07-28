@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Caskets
 
-9,681 songs - 26 day 23 hr 15 min
+9,682 songs - 26 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3599,6 +3599,7 @@
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2022-09-17 |
 | [Great Flood](https://open.spotify.com/track/3ksE7ar7n8fpCP82RVoeLE) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Chronicles](https://open.spotify.com/album/7AjygoSSjWOi5RJjYsOLEY) | 3:34 | 2022-04-29 | 2022-05-06 |
 | [Greed](https://open.spotify.com/track/7lTWGL6CdhUmAT6srCVnOm) | [A Killer's Confession](https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM) | [Greed](https://open.spotify.com/album/3shVuP3xv9Lh3C2sRTqp35) | 3:42 | 2024-03-15 | 2024-03-23 |
+| [Greed](https://open.spotify.com/track/2EBG5Epe6OtbEXf0wbrFP7) | [DOOMTRIGGER](https://open.spotify.com/artist/1ltaAaqVlEceD803xT7F4i) | [Greed](https://open.spotify.com/album/6P1GJZxQnj9T690tVcdfhq) | 5:08 | 2025-07-27 |  |
 | [GREED](https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [GREED](https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u) | 2:50 | 2025-04-18 | 2025-04-26 |
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-01-27 | 2023-02-04 |
 | [Green & Glass](https://open.spotify.com/track/3PFhTnE0mWxkDOOhHDw3ua) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Green & Glass](https://open.spotify.com/album/3I07C2xUz2j08uh99DoPrf) | 5:30 | 2024-02-16 | 2024-02-24 |

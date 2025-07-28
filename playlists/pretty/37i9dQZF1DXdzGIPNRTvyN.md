@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,849 likes - 195 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,178 likes - 195 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 75 | [Nature Pause](https://open.spotify.com/track/6606b0Jnwb9BaYJUgcmqq2) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:31 |
 | 76 | [Purity](https://open.spotify.com/track/3No9Niai3Y3hpIgq1uzHXX) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Purity](https://open.spotify.com/album/2t3Rxxc5ggVC4N1OnMBfi5) | 3:12 |
 | 77 | [Echoes of the Cosmos 432Hz](https://open.spotify.com/track/5aiYzJRBGhVLK7p8LOdj7v) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Echoes of the Cosmos 432Hz](https://open.spotify.com/album/2ini0RSh7ifKoruvboT8E2) | 2:24 |
-| 78 | [The Calmest of Streams](https://open.spotify.com/track/2fBWeHsI4HXW3ceJ8guKUK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [The Calmest of Streams](https://open.spotify.com/album/025Agj8i4Gc0C2WBxhHCQp) | 2:37 |
-| 79 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 |
-| 80 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 |
-| 81 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 |
+| 78 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 |
+| 79 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 |
+| 80 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 |
+| 81 | [The Calmest of Streams](https://open.spotify.com/track/2fBWeHsI4HXW3ceJ8guKUK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [The Calmest of Streams](https://open.spotify.com/album/025Agj8i4Gc0C2WBxhHCQp) | 2:37 |
 | 82 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 |
 | 83 | [Rain Therapy](https://open.spotify.com/track/05i3bG4mz8nD21c2roVStX) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Rain Therapy](https://open.spotify.com/album/6Q2V4aSZrco28N0df5OMe7) | 2:23 |
 | 84 | [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 143 | [Bubbling Waters](https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bubbling Waters](https://open.spotify.com/album/44zvhAbyyWLmQPlVaZAEFE) | 3:10 |
 | 144 | [River on Strings](https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [River on Strings](https://open.spotify.com/album/2ms4F8UTNdM6JaXhCH83SK) | 3:08 |
 | 145 | [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 |
-| 146 | [Nature's Collection](https://open.spotify.com/track/1OyWJlEHNl6VTK9QTYTDhG) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Nature's Collection](https://open.spotify.com/album/5Abb45GZUl46sVY20DfZ9F) | 2:57 |
-| 147 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 |
+| 146 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 |
+| 147 | [Nature's Collection](https://open.spotify.com/track/1OyWJlEHNl6VTK9QTYTDhG) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Nature's Collection](https://open.spotify.com/album/5Abb45GZUl46sVY20DfZ9F) | 2:57 |
 | 148 | [Sunrise](https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Sunrise](https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q) | 3:11 |
 | 149 | [Mindful Movement](https://open.spotify.com/track/09ueGKqwkpHXhAQjMbCrOL) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Mindful Movement](https://open.spotify.com/album/1lXseNRj9i3E24O1DfEQQQ) | 3:15 |
 | 150 | [Citrus](https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Sage & Citrus](https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1) | 2:50 |

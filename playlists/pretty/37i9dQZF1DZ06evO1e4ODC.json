@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 207123,
+  "num_followers": 207147,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILJAAAAAADe2woteKGZj8pnFRoFdf+6",
+  "snapshot_id": "aIQagAAAAAAvAM85whVwc+2UrRFDbJEL",
   "tracks": [
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
       "artists": [
+        {
+          "name": "Sat\u00e9lite",
+          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 202973,
-      "name": "Eras T\u00fa",
-      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
+      "duration_ms": 255960,
+      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
+      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontrarme Contigo",
-        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
       "artists": [
-        {
-          "name": "Sat\u00e9lite",
-          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 255960,
-      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
-      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
+      "duration_ms": 202973,
+      "name": "Eras T\u00fa",
+      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,102 songs - 2 day 11 hr 19 min
+1,103 songs - 2 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Chan Nalon Sohna](https://open.spotify.com/track/2cl60OUzIMNChSkO0Twj92) | [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sidhika Sharma](https://open.spotify.com/artist/7KnsZZEfgH7iwLdWDiQp0J) | [Chan Nalon Sohna \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/4CiwIxkpUHZqoipyZ8gCrk) | 3:51 | 2022-09-05 | 2022-09-23 |
 | [Chan Reha Na Chan](https://open.spotify.com/track/48Wv5mqdMb8QMQUIg9ybSC) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Chan Reha Na Chan](https://open.spotify.com/album/38K8KGc2Fp0FAjQxkzXxMV) | 6:14 | 2023-09-08 | 2023-10-26 |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 | 2022-12-16 |
+| [Chances](https://open.spotify.com/track/3MWA9V7tC6qztDhdolaFZ1) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Chances](https://open.spotify.com/album/7fpT7I7hONFYeaoTERtuPH) | 3:09 | 2025-07-27 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 | 2022-04-06 |
 | [Chandigarh Di](https://open.spotify.com/track/3zc0J4UVg0yvnyCnKGlgT1) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Chandigarh Di](https://open.spotify.com/album/70QRTrmes1yqKSz0nYHTJs) | 2:32 | 2022-09-15 | 2022-09-23 |
 | [Chandigarh Shehar](https://open.spotify.com/track/5ucWVRFoIeMQWaZAIQrizf) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Chandigarh Shehar](https://open.spotify.com/album/1rXQeaAZ16j5qwPQJwJzzq) | 2:47 | 2022-11-07 | 2023-02-04 |
@@ -1056,7 +1057,7 @@
 | [Veham](https://open.spotify.com/track/2eZv9lBnm3x8mtCG8h1jJC) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Veham](https://open.spotify.com/album/0aR1TwlOoL2EDURRu06JrW) | 2:54 | 2022-07-22 | 2022-08-18 |
 | [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 | 2025-01-24 | 2025-02-08 |
 | [Velly Touch](https://open.spotify.com/track/69w7HEi8HNfceDTx1rpWYl) | [Harjot](https://open.spotify.com/artist/7xk9bcMbRjtMCraHg4kSAd), [Meharwani](https://open.spotify.com/artist/6yYJCb4Qd0Uek7s1uDQLeW) | [Velly Touch](https://open.spotify.com/album/4gNRYP2tI4Sv5Tl57uTWrS) | 3:24 | 2022-03-21 | 2022-04-06 |
-| [Velvet Sky](https://open.spotify.com/track/6pyrmsV3kkzhldpwN0Uu9U) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Yoki](https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG) | [Velvet Sky](https://open.spotify.com/album/1F3XnF1MdamotiKWlcFVvF) | 2:45 | 2025-06-27 |  |
+| [Velvet Sky](https://open.spotify.com/track/6pyrmsV3kkzhldpwN0Uu9U) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Yoki](https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG) | [Velvet Sky](https://open.spotify.com/album/1F3XnF1MdamotiKWlcFVvF) | 2:45 | 2025-06-27 | 2025-07-28 |
 | [Viah Da Card](https://open.spotify.com/track/231DYXxOB9cdA2OOhhlEIw) | [Dilpreet Matharu](https://open.spotify.com/artist/1gUNTGQ3bSoZfHXjPOncbL) | [Viah Da Card](https://open.spotify.com/album/0cybM6rUwqUug1y24DTESZ) | 2:54 | 2022-01-10 | 2022-02-01 |
 | [Vibe](https://open.spotify.com/track/3VzH1l9nxlrCZTjEDTCEqc) | [Preetinder](https://open.spotify.com/artist/1r8t9QJtZZL9OsSCG2qij9) | [Vibe](https://open.spotify.com/album/7cU75aJMGcx8gkBgU5EjDG) | 2:46 | 2022-07-21 | 2022-08-18 |
 | [VIP](https://open.spotify.com/track/0QFNQvIkLYghHHRXfHEPbk) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [VIP](https://open.spotify.com/album/5XPqTCH8VrxIGfvajsjadT) | 2:47 | 2022-03-15 | 2022-04-06 |

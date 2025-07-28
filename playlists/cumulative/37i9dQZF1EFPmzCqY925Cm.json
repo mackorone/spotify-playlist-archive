@@ -763,6 +763,32 @@
     },
     {
       "album": {
+        "name": "Future Renaissance",
+        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177094,
+      "name": "More Than Anybody",
+      "url": "https://open.spotify.com/track/4Ts7ndNLTgNXdRRPzmgSDZ"
+    },
+    {
+      "album": {
         "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
         "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
       },
@@ -782,7 +808,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 177094,
       "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
       "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"

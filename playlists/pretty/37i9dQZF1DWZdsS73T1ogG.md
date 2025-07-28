@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: W Sound, Dei V & Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,142 likes - 180 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,104 likes - 180 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

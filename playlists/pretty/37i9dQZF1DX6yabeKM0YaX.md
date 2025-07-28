@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 
 > Music From "Pretty Cure" series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,274 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,293 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

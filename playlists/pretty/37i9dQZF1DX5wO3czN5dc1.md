@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/4yDOGNUg6p2tf83iLGTjjT?si=610Rc\-pnS\-eyMefa\-hc0dg">Ayah True Soul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,120 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,237 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

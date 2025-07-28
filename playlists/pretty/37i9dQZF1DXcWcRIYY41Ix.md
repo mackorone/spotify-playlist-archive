@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,727 likes - 114 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,743 likes - 114 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

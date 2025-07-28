@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,566,621 likes - 325 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,566,753 likes - 325 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,8 +279,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 269 | [Oneiric Rain](https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:54 |
 | 270 | [I Drought It](https://open.spotify.com/track/0raPf1kMjMpkOhOTRdngXV) | [Ella Umbrella](https://open.spotify.com/artist/6NRQi72X6MHKbfaNJC8AIT) | [I Drought It](https://open.spotify.com/album/4jmmlR4bwckp9SpcN1oiyp) | 2:56 |
 | 271 | [Roofers Holiday](https://open.spotify.com/track/1ELNo2aa79L5lcBGB6GIDq) | [Weather Bureau](https://open.spotify.com/artist/1aHHKWIy2Twf2ssw0SirYO) | [Roofers Holiday](https://open.spotify.com/album/0hE9xP8wHCU89LyoI2oP95) | 2:56 |
-| 272 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 |
-| 273 | [Storm Ahead](https://open.spotify.com/track/4kHA1o1prccwstvGjPAUkP) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:12 |
+| 272 | [Storm Ahead](https://open.spotify.com/track/4kHA1o1prccwstvGjPAUkP) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:12 |
+| 273 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 |
 | 274 | [Rain Morning](https://open.spotify.com/track/400VRhKLp9MZhyJgeAN6OA) | [Natural Dream Makers](https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz) | [Rain Morning](https://open.spotify.com/album/0a7mH4O1NsujRNY35geOTs) | 2:41 |
 | 275 | [Stormy Weather](https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:14 |
 | 276 | [Flooded from the sky](https://open.spotify.com/track/3frFclleWKB23o18SHPujJ) | [Artonym](https://open.spotify.com/artist/1cyPW4frKbhmtMQ8XVLsMN) | [Rainy morning](https://open.spotify.com/album/0gkY3SfGSCoMWVV7TpT1z4) | 2:22 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 295 | [Pluie tropicale](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Vædret](https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 2:44 |
 | 296 | [Focus Rain On Shore](https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calming Rain Sounds](https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g) | 2:29 |
 | 297 | [Corrientes](https://open.spotify.com/track/6CsDarsSyGWH4OKJTLJKDU) | [Ciclo del Agua](https://open.spotify.com/artist/7jvfAbf9xdkVSlJx8XBbpJ) | [Condensación](https://open.spotify.com/album/0zxSoYdvx6wKoJGPfbDlFe) | 2:35 |
-| 298 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
-| 299 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 |
+| 298 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 |
+| 299 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
 | 300 | [Frühlingsregen](https://open.spotify.com/track/33bk0r7RYQehNRq89NHmfQ) | [Schlafregengeräusche](https://open.spotify.com/artist/4odKaNPSbifXARPmQ2fu28) | [Frühlingsregen](https://open.spotify.com/album/1DLMqxmEADF4yccqDGGVXR) | 3:22 |
 | 301 | [Staycation Rain](https://open.spotify.com/track/5LGvDftuWcuR43b1nKFXIR) | [Rain Mozart](https://open.spotify.com/artist/6yc5UNveUs9xHzvSLf8NdT) | [Drip Symphony](https://open.spotify.com/album/3mMfGtP92FkXwCBFcnkp1e) | 2:01 |
 | 302 | [Gentle Thunderstorm](https://open.spotify.com/track/4J7XG8zX9GfONRpObawdX0) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Western Rain](https://open.spotify.com/album/6kA4urxt8Ikb7pk7R8Nx60) | 2:12 |

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-323 songs - 18 hr 23 min
+324 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [東京テディベア \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/3afQJAVGHLqm9cDdttOPLO) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 | 2022-12-24 |  |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2023-10-02 |  |
 | [毒の王子さま](https://open.spotify.com/track/6btke96zwYQHwsoMGNeQM9) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [毒の王子さま](https://open.spotify.com/album/2HQmMyOZF4D3MWWfFfUeVM) | 3:35 | 2022-07-24 |  |
+| [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-27 |  |
 | [泡沫の夜](https://open.spotify.com/track/2fGQH6lxM7dQbgY2rbtEIG) | [nqrse](https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3) | [泡沫の夜](https://open.spotify.com/album/1QkpaHdfrYfCUIw4OCYXAa) | 3:37 | 2023-12-04 |  |
 | [浴槽とネオンテトラ](https://open.spotify.com/track/07LC3H76ceeFbrA6XDjPxL) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [浴槽とネオンテトラ](https://open.spotify.com/album/4VqnMClvFtkT4GnQqQUHs8) | 4:25 | 2024-09-02 |  |
 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2025-02-17 |  |

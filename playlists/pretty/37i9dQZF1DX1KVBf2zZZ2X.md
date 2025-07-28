@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,460 likes - 125 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,565 likes - 125 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 57 | [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 |
 | 58 | [Tamana's Stream](https://open.spotify.com/track/2qXwh3IN2mTW1Ce9HySq2O) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Tamana's Stream](https://open.spotify.com/album/0I53et96cA2GQSIFF94WZl) | 2:32 |
 | 59 | [Treetop Dreamers](https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Treetop Dreamers](https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw) | 2:59 |
-| 60 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 |
-| 61 | [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 |
-| 62 | [Aqua Cascade \(by a Forest Stream\)](https://open.spotify.com/track/4p5RccvmOmzkFtO90Y0MAF) | [Forlorn Light](https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao) | [Aqua Cascade \(by a Forest Stream\)](https://open.spotify.com/album/65Knzjxqwe1ffUA6XEDDVK) | 3:39 |
-| 63 | [Des Roches Ritual](https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Des Roches Ritual](https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7) | 3:33 |
-| 64 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 |
+| 60 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 |
+| 61 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 |
+| 62 | [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 |
+| 63 | [Aqua Cascade \(by a Forest Stream\)](https://open.spotify.com/track/4p5RccvmOmzkFtO90Y0MAF) | [Forlorn Light](https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao) | [Aqua Cascade \(by a Forest Stream\)](https://open.spotify.com/album/65Knzjxqwe1ffUA6XEDDVK) | 3:39 |
+| 64 | [Des Roches Ritual](https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Des Roches Ritual](https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7) | 3:33 |
 | 65 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 |
 | 66 | [Wandering With You](https://open.spotify.com/track/1bDD3OfhHYTdcvxox0xS6y) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Wandering With You](https://open.spotify.com/album/6GxxS66QbX86sbYd5BP2sh) | 2:48 |
 | 67 | [Mama Nature](https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Mama Nature](https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v) | 2:57 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 73 | [Shimmering River](https://open.spotify.com/track/575c0sGbgOEF2YwuUebnDn) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [Shimmering River](https://open.spotify.com/album/4gEfVDicL27VwdJLilph6S) | 2:42 |
 | 74 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
 | 75 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 |
-| 76 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 |
-| 77 | [Morning light](https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Morning light](https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz) | 2:20 |
+| 76 | [Morning light](https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Morning light](https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz) | 2:20 |
+| 77 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 |
 | 78 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
 | 79 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 |
 | 80 | [Magnolia](https://open.spotify.com/track/3M8TwWYqWotGprtnLg95QS) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Magnolia](https://open.spotify.com/album/1Yp3wrZ3zyX9uqIRrbPd9K) | 2:44 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 120 | [Transformative Voices](https://open.spotify.com/track/0TY3OhlG7hbQkgg8TqbYTf) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transformative Voices](https://open.spotify.com/album/1y7JZphayNW6phGUg9OHJe) | 2:56 |
 | 121 | [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 |
 | 122 | [Forest Flow](https://open.spotify.com/track/1K7ZRpYQ6z4k3EVagWKQAg) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Forest Flow](https://open.spotify.com/album/1Q2BB7Sp2Fmlx7Vb0uWOfu) | 2:49 |
-| 123 | [Deva](https://open.spotify.com/track/6pLKZpj6VVx5oNRFwBLYG7) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Deva](https://open.spotify.com/album/60CVjQ2RulBtx6Ga5lXhBU) | 2:14 |
-| 124 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
-| 125 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
+| 123 | [Evening](https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Evening](https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3) | 2:10 |
+| 124 | [Deva](https://open.spotify.com/track/6pLKZpj6VVx5oNRFwBLYG7) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Deva](https://open.spotify.com/album/60CVjQ2RulBtx6Ga5lXhBU) | 2:14 |
+| 125 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
 
 Snapshot ID: `aG5QLwAAAADp85Owa/Q2psM9A++p1XhW`

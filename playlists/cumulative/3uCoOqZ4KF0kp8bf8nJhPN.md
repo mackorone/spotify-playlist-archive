@@ -4,7 +4,7 @@
 
 > 
 
-236 songs - 9 hr 16 min
+237 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Breathing!](https://open.spotify.com/track/74Dqn3jSYcihyBmGzumyUN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Breathing!](https://open.spotify.com/album/7007az12IqoNjw9Ouid8aW) | 1:34 | 2025-05-28 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2025-03-01 |  |
 | [C WUT I B!](https://open.spotify.com/track/1mRuLm9uwirKqG58G5Sx6b) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [C WUT I B!](https://open.spotify.com/album/6a3YLl2Py8i6DsOmSrdJfT) | 2:34 | 2024-12-08 |  |
+| [C'est La Vie \(feat\. Rich Brian\)](https://open.spotify.com/track/0KDdTDu59Q3hAC5axZiHZM) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:40 | 2025-07-28 |  |
 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 | 2025-03-14 |  |
 | [COME GET UR MANZ!](https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [COME GET UR MANZ!](https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD) | 2:25 | 2025-01-16 |  |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2025-05-20 |  |
@@ -127,7 +128,7 @@
 | [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kroxxxxroad](https://open.spotify.com/track/2GFE1Ukk6NS03ZpPihDtvB) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kroxxxxroad](https://open.spotify.com/album/5ZensT6l0BKw6k2pQ9m9R5) | 1:13 | 2025-04-10 | 2025-04-12 |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
-| [lame](https://open.spotify.com/track/6evPX3O1zxDr0fqsWo4Hw4) | [eyesore](https://open.spotify.com/artist/6n0I3DaAWLcc0mZsfMBxth) | [lame](https://open.spotify.com/album/0QSwSSObG1o5G68Na2b0iN) | 1:22 | 2025-07-26 |  |
+| [lame](https://open.spotify.com/track/6evPX3O1zxDr0fqsWo4Hw4) | [eyesore](https://open.spotify.com/artist/6n0I3DaAWLcc0mZsfMBxth) | [lame](https://open.spotify.com/album/0QSwSSObG1o5G68Na2b0iN) | 1:22 | 2025-07-26 | 2025-07-28 |
 | [last friday night pluggnb](https://open.spotify.com/track/0Qgxzih4OdQOm5yaTrNBcN) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [MANDUMÈ](https://open.spotify.com/artist/6U3p7T8XoU9X4IJuRxQPqg) | [last friday night pluggnb](https://open.spotify.com/album/6uD2Tgnlqos5q7za04Ekmj) | 1:27 | 2025-04-25 |  |
 | [Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:49 | 2025-03-25 |  |
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
@@ -142,7 +143,7 @@
 | [MARTYR \(MARTYR\)](https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 3:22 | 2025-05-01 |  |
 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 | 2025-04-09 |  |
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
-| [miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [miss the rage](https://open.spotify.com/album/3jIHndbu0N6zOFcWDI55pv) | 2:55 | 2025-07-11 |  |
+| [miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [miss the rage](https://open.spotify.com/album/3jIHndbu0N6zOFcWDI55pv) | 2:55 | 2025-07-11 | 2025-07-28 |
 | [Moon](https://open.spotify.com/track/7HLyjVZ6trd0mlIyC7XDn9) | [Siggerr](https://open.spotify.com/artist/0lwQIZf6i33MfwXgymtF3n) | [Moon](https://open.spotify.com/album/4daQulyzTcex9qrMWPE6Xh) | 3:44 | 2025-05-19 |  |
 | [Moonlight on the River](https://open.spotify.com/track/2fhOljbX79loRcdl47SFye) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 7:02 | 2025-04-12 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2025-03-06 |  |

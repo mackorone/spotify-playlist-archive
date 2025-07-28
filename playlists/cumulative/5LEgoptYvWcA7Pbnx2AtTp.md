@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-175 songs - 9 hr 55 min
+176 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [The Home Depot Beat](https://open.spotify.com/track/4euxYgIl5XEqUj5WB9lHNq) | [The Home Depot](https://open.spotify.com/artist/7tzPysmGf12PwEIQ8toFU6) | [The Home Depot Beat](https://open.spotify.com/album/3cflHXbTyEWMDg1ylyO7SS) | 0:35 | 2022-05-06 |  |
 | [The Lady and the Tiger](https://open.spotify.com/track/1jVGFo4Bw14GDGc1ht4G4n) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:55 | 2022-05-06 |  |
 | [The March Of The Black Queen \- Remastered 2011](https://open.spotify.com/track/3meWD39fJLCiIFKV6TFzSL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 6:32 | 2023-03-21 |  |
+| [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 | 2025-07-27 |  |
 | [The Slur Song](https://open.spotify.com/track/1GotsDLkupVeKLe1WgvOm2) | [Bigfoot's Biggest Fan](https://open.spotify.com/artist/55GtCELECsxXn2qGp4GvLg) | [The Slur Song](https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI) | 3:35 | 2025-01-23 |  |
 | [The Ultimate Showdown of Ultimate Destiny](https://open.spotify.com/track/0hgLHFyN9u3WqkK2ofpuUX) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/4ZE05qOXBcWmItdv95gyiy) | 3:33 | 2022-08-01 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |

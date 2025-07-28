@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 244 songs - 13 hr 25 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 246 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,5 +252,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 242 | [Breakfast](https://open.spotify.com/track/4om3OBmhbN30hOwCDXaJwi) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:49 |
 | 243 | [Skybourne \(feat\. Big K.R.I.T\. & Smoke DZA\)](https://open.spotify.com/track/4b49vxe0QEaXuSO98nGrSM) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 4:16 |
 | 244 | [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 |
+| 245 | [Alexys](https://open.spotify.com/track/4ueXXZIlDTJpPgV4H9oQaL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 2:59 |
+| 246 | [ICED TEA \(feat\. 21 Savage, Project Pat & Coupe\)](https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [ICED TEA \(feat\. 21 Savage, Project Pat & Coupe\)](https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl) | 3:26 |
 
-Snapshot ID: `AAAevUayc+MTAwrjLZ9H3OducjngX+IM`
+Snapshot ID: `AAAevwJ1DcI7VjMvz15/CEVHlTvsEDmd`

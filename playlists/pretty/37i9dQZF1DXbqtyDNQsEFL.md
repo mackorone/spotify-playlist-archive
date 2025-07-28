@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,009 likes - 79 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,055 likes - 79 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

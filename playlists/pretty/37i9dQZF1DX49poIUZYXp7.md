@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,562 likes - 137 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,520 likes - 137 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

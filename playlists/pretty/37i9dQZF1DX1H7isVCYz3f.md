@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 
 > muy fuego, curated by Bob the Drag Queen\. Traitors S3 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,840 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,864 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

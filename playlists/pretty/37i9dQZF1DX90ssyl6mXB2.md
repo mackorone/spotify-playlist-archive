@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: RealestK
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,526 likes - 175 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,637 likes - 175 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

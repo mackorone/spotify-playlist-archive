@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Music from Disney Starlight",
+        "url": "https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jedha",
+          "url": "https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC"
+        },
+        {
+          "name": "Tim Heintz",
+          "url": "https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114125,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/7y1IC8pSewIIZ19fEG99YU"
+    },
+    {
+      "album": {
         "name": "Cartoonland (O Mundo dos Desenhos)",
         "url": "https://open.spotify.com/album/1ah5OLyFhy84VfvtlKGnvG"
       },

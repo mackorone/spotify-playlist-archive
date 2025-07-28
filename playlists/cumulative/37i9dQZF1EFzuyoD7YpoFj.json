@@ -5312,6 +5312,28 @@
     {
       "album": {
         "name": "Lochiel's Warning",
+        "url": "https://open.spotify.com/album/64yK6fyMAvHUcpTU6sFpVi"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517280,
+      "name": "Let's Face It: Everything I love",
+      "url": "https://open.spotify.com/track/2hGjo1PTdqQw5XtqG9JN6i"
+    },
+    {
+      "album": {
+        "name": "Lochiel's Warning",
         "url": "https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO"
       },
       "artists": [
@@ -5326,7 +5348,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 517280,
       "name": "Let's Face It: Everything I love",
       "url": "https://open.spotify.com/track/5HBbQ1cmvUFt79Fusz35FB"

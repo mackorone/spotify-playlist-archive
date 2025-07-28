@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jul 22:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jul 13:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -12892,7 +12892,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 237592,
       "name": "Breathe onto me",
       "url": "https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh"
@@ -16832,6 +16832,24 @@
       "duration_ms": 157865,
       "name": "ciao",
       "url": "https://open.spotify.com/track/6SVGPskvmcYsU5DyaXO7Ri"
+    },
+    {
+      "album": {
+        "name": "Cigarettes & Alcohol (Live from Manchester, 11 July '25)",
+        "url": "https://open.spotify.com/album/0oGnQ22ZSkI8FoXNYXaYSl"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265594,
+      "name": "Cigarettes & Alcohol (Live from Manchester, 11 July '25)",
+      "url": "https://open.spotify.com/track/1n8290MZ0Copi4yGocDRuP"
     },
     {
       "album": {
@@ -27258,6 +27276,24 @@
       "duration_ms": 236133,
       "name": "Euphoria Rush",
       "url": "https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296680,
+      "name": "EURO-COUNTRY",
+      "url": "https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0"
     },
     {
       "album": {
@@ -63686,7 +63722,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 195146,
       "name": "Original",
       "url": "https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,775 likes - 112 songs - 4 hr 51 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,760 likes - 113 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 110 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 |
 | 111 | [Auburn Skies](https://open.spotify.com/track/79wHFrFhtpQGQJxzLVVPMY) | [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Auburn Skies](https://open.spotify.com/album/2XtWYr3ddlOXP85ecIKd2Y) | 2:38 |
 | 112 | [Calm Down](https://open.spotify.com/track/37Z35kDMblyrQ8vl5wpFDN) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [Phillip Reichmann](https://open.spotify.com/artist/6HB3XuNe4k3wWcTHai4HsA) | [Calm Down](https://open.spotify.com/album/5eOobZmfL6lGQLb0HJEYNv) | 2:40 |
+| 113 | [Cherry Gold Sunset](https://open.spotify.com/track/54R0urLnxf4XZhPlAkWV7r) | [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Cherry Gold Sunset](https://open.spotify.com/album/6kBiELU4A0x34pZ5UGfmC6) | 2:34 |
 
-Snapshot ID: `AAAgitaAhaI+4YjxDK6bR3LlGgYJvIy2`
+Snapshot ID: `AAAgi0JpQSbNQ1VPpHH81OsZhWg1ihU0`

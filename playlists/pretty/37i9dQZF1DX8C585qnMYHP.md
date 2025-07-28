@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:2fyKy2t7OhlAGDzFSBTxC9">Ahmet Ali Arslan</a> on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,261 likes - 110 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,280 likes - 110 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste nieuwe Nederlandse muziek vind je hier! Met o.a\. Zoë Tauran &amp; Frenna \(cover\), Noano, Kensington en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,848 likes - 65 songs - 3 hr 6 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,846 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 227829,
+  "num_followers": 227870,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILJAAAAAACKr3NjjMlcaHcsX9khbF+l",
+  "snapshot_id": "aIQagAAAAAA7Tm9qOQXj68yc3tWQ165r",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Katch",
         "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 117560,
       "name": "Nom\u00e1s Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor Que Me Pas\u00f3",
-        "url": "https://open.spotify.com/album/2v6QpKZAJH6jKLyb36zhLa"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 143829,
-      "name": "Lo Mejor Que Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/79Bd8kGg0yT3I5xsSTNpPa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Golden Boy",
         "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor Que Me Pas\u00f3",
+        "url": "https://open.spotify.com/album/2v6QpKZAJH6jKLyb36zhLa"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 143829,
+      "name": "Lo Mejor Que Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/79Bd8kGg0yT3I5xsSTNpPa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ganadero",
         "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 222516,
       "name": "El Ganadero",
       "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     },
     {
       "added_at": null,

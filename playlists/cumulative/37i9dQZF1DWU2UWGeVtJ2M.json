@@ -1593,6 +1593,32 @@
     },
     {
       "album": {
+        "name": "Diamond Miner",
+        "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231224,
+      "name": "Diamond Miner",
+      "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
+    },
+    {
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1742,6 +1768,24 @@
       "duration_ms": 182343,
       "name": "Don\u2019t Matter",
       "url": "https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh"
+    },
+    {
+      "album": {
+        "name": "Downtown Vibes",
+        "url": "https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108501,
+      "name": "Downtown Vibes",
+      "url": "https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk"
     },
     {
       "album": {
@@ -2492,7 +2536,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 194755,
       "name": "God Must Be Doing Cocaine",
       "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
@@ -2626,7 +2670,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
@@ -6099,6 +6143,28 @@
     },
     {
       "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
+      },
+      "artists": [
+        {
+          "name": "Dal",
+          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
+        },
+        {
+          "name": "Leah Yeger",
+          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
+        }
+      ],
+      "date_added": "2025-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229750,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
+    },
+    {
+      "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
       },
@@ -6434,7 +6500,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-28",
       "duration_ms": 250666,
       "name": "untitled (what's it gonna be)",
       "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"

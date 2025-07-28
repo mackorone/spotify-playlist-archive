@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tyler, The Creator, Sadturs e KIID, Lola Young, Sam Smith, Tame Impala, Sayf e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,721 likes - 86 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,716 likes - 86 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
