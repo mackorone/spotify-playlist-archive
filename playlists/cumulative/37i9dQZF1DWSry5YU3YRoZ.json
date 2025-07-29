@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "A Diary for You",
+        "url": "https://open.spotify.com/album/1pI0MkLA3rat7OZ7GuPCkT"
+      },
+      "artists": [
+        {
+          "name": "Kim Miseong",
+          "url": "https://open.spotify.com/artist/2vdA7JWy8AmCxynYd1nOR8"
+        },
+        {
+          "name": "Kang Gyeoul",
+          "url": "https://open.spotify.com/artist/7L7nI794xTqcTiHBL5SCFN"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213285,
+      "name": "A Diary for You (feat. Kang Gyeoul)",
+      "url": "https://open.spotify.com/track/6OlpAnPRcfgQ0lcMgw9ieD"
+    },
+    {
+      "album": {
         "name": "Zombie daughter (Original Soundtrack) : A long dream",
         "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
       },
@@ -132,7 +154,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 192142,
       "name": "Always Here",
       "url": "https://open.spotify.com/track/1bpA1qiYGJC4APWStEK15Z"
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 208013,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/6QMiVGXipdQwi63pzotvsH"
@@ -1605,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28"
+      },
+      "artists": [
+        {
+          "name": "Kwon Soonkwan",
+          "url": "https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/64y6OvECapX4cnYDcGHN38"
+    },
+    {
+      "album": {
         "name": "Offset",
         "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 191000,
       "name": "Snow spectacle",
       "url": "https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS"
@@ -1836,7 +1876,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 250453,
       "name": "Stay",
       "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
@@ -2178,7 +2218,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
@@ -2236,6 +2276,24 @@
       "duration_ms": 153460,
       "name": "\uafc8(Dream)",
       "url": "https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL"
+    },
+    {
+      "album": {
+        "name": "\ub0b4 \ubd04",
+        "url": "https://open.spotify.com/album/4ifK2Je7F4jSqOzlNaLdln"
+      },
+      "artists": [
+        {
+          "name": "\uc774\ucd08\uc5f0",
+          "url": "https://open.spotify.com/artist/2f5mws01llDCNyprTimrpq"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\ub0b4 \ubd04",
+      "url": "https://open.spotify.com/track/6rOGxxJXoN2DZoIuV2ezhw"
     },
     {
       "album": {

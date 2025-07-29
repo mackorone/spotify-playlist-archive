@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > DON WEST and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,495 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,639 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

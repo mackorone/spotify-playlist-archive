@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Tyler, The Creator, Daniel Caesar, Aisha Retno, Fiq7, LBI利比, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,145 likes - 127 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,141 likes - 127 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 104 | [TAKE IT EASY](https://open.spotify.com/track/0Uk5bTpj6PxC4yyDWdF5dW) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [TAKE IT EASY](https://open.spotify.com/album/2dQnmAH4pz6dQkoWtsFKVF) | 2:41 |
 | 105 | [Shadowless Dance](https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [Shadowless Dance](https://open.spotify.com/album/73xj05nSCflpkAWZoHba2y) | 2:52 |
 | 106 | [Just Like Sunny](https://open.spotify.com/track/4mHqYUBsqpv479cEsJelzp) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Just Like Sunny](https://open.spotify.com/album/3cFGleWdQHuzReXLuzAxdm) | 2:56 |
-| 107 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 107 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 108 | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/track/4GojOaaXHYF8sX4u4jLjYJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/album/5o2lFirzSh3KUCTJYB372W) | 2:46 |
 | 109 | [Guess Not](https://open.spotify.com/track/51yN4NMzuMhUCaVMc3eQ8R) | [Winky Wiryawan](https://open.spotify.com/artist/3VvW61Jcn20IIBeydMtHCW), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Guess Not](https://open.spotify.com/album/2ayp3BkKt5cPFyYX3c8lLU) | 3:54 |
 | 110 | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/track/2KeVyyc99Tppp8Ad1Cm2ph) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/album/7F8ATHmFJnPTKyXXiuUXEA) | 3:04 |

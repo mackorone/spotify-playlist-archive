@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125145,
+  "num_followers": 125144,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUZT1mjaBS9TBfmxPrEzZE8QWwXwVI",
+  "snapshot_id": "AAAUZysvUMT4KdzOWfZFzKSwhwhkJgc5",
   "tracks": [
+    {
+      "added_at": "2025-07-28 16:34:41",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5YO6ljMF8OGBFZ8IWMIebX"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/4081TAnw43uCRlG6cK6nCH"
+    },
     {
       "added_at": "2025-07-25 16:31:58",
       "album": {

@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Tomahawk Technique",
+        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227786,
+      "name": "She Doesn't Mind",
+      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
+    },
+    {
+      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"

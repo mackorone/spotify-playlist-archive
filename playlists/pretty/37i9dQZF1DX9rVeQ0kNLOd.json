@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 27427,
+  "num_followers": 27469,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-07-22 15:00:21",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
-    },
-    {
-      "added_at": "2025-07-22 15:00:21",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2025-07-22 15:00:21",
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2025-07-22 15:00:21",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-22 15:00:21",
       "album": {
-        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
-    },
-    {
-      "added_at": "2025-07-22 15:00:21",
-      "album": {
         "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
         "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224633,
       "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
       "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
+    },
+    {
+      "added_at": "2025-07-22 15:00:21",
+      "album": {
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
     },
     {
       "added_at": "2025-07-22 15:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tyler, The Creator, OneRepublic, Nej, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,548 likes - 107 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,547 likes - 107 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 43 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
 | 44 | [UNA CAN](https://open.spotify.com/track/7iGJ3ajScp5UusRzy4bNLg) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [UNA CAN](https://open.spotify.com/album/6hkpooX6NXqRigNHzQuKVD) | 2:41 |
 | 45 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 |
-| 46 | [Zusammen](https://open.spotify.com/track/0ksYR0NiRkbtIUOKPqsVVC) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Zusammen](https://open.spotify.com/album/7mg860aE8jX2C8q7mTx2e5) | 3:10 |
+| 46 | [Zusammen](https://open.spotify.com/track/0ksYR0NiRkbtIUOKPqsVVC) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [Zusammen](https://open.spotify.com/album/7mg860aE8jX2C8q7mTx2e5) | 3:10 |
 | 47 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 48 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 49 | [Sun Is Gone](https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun Is Gone](https://open.spotify.com/album/0vWqpUqVXx9mSCwbNq2TlB) | 1:36 |

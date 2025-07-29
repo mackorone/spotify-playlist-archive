@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 36591,
+  "num_followers": 36600,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Skkrtt",
+      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "#UOAI",
         "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 260625,
       "name": "Chicago (feat. Lefty & Nikes)",
       "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "Skkrtt",
-      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Players, Ballers, Rollers",
-        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
-      },
-      "artists": [
-        {
-          "name": "Starski and Clutch",
-          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Grove",
         "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 150430,
       "name": "Still Geekin'",
       "url": "https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Players, Ballers, Rollers",
+        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
+      },
+      "artists": [
+        {
+          "name": "Starski and Clutch",
+          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Worldwidejuke Vol.2",
-        "url": "https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs"
-      },
-      "artists": [
-        {
-          "name": "Turk Turkelton",
-          "url": "https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d"
-        }
-      ],
-      "duration_ms": 279004,
-      "name": "Tear It Up",
-      "url": "https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kush, Rhodes & 808's",
         "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 210000,
       "name": "Keep the Drug$",
       "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Worldwidejuke Vol.2",
+        "url": "https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs"
+      },
+      "artists": [
+        {
+          "name": "Turk Turkelton",
+          "url": "https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d"
+        }
+      ],
+      "duration_ms": 279004,
+      "name": "Tear It Up",
+      "url": "https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bangs & Works Vol. 2 (The Best Of Chicago Footwork)",
-        "url": "https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt"
+        "name": "Bounce That Booty (Jackmaster Werks Remix)",
+        "url": "https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS"
       },
       "artists": [
         {
-          "name": "RP Boo",
-          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+        },
+        {
+          "name": "Jackmaster Werks",
+          "url": "https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Heavy Heat",
-      "url": "https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M"
+      "duration_ms": 164383,
+      "name": "Bounce That Booty - Jackmaster Werks Remix",
+      "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bounce That Booty (Jackmaster Werks Remix)",
-        "url": "https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS"
+        "name": "Bangs & Works Vol. 2 (The Best Of Chicago Footwork)",
+        "url": "https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt"
       },
       "artists": [
         {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
-        },
-        {
-          "name": "Jackmaster Werks",
-          "url": "https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN"
+          "name": "RP Boo",
+          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
         }
       ],
-      "duration_ms": 164383,
-      "name": "Bounce That Booty - Jackmaster Werks Remix",
-      "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
+      "duration_ms": 223666,
+      "name": "Heavy Heat",
+      "url": "https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M"
     },
     {
       "added_at": "2023-06-30 04:00:00",

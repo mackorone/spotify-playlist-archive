@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown talent feat\. Kai Bosch
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,804 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,811 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,36 +14,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 4 | [WHITE TIGER](https://open.spotify.com/track/1XeigXO4X2lJUTBbe3dHIn) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [ROCKR ROOM](https://open.spotify.com/album/0rH1ZkVSYhO1zEiok2qYJ5) | 2:56 |
 | 5 | [i just want to dance](https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [i just want to dance](https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn) | 2:39 |
 | 6 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 7 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
-| 8 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 |
-| 9 | [Dysfunctional](https://open.spotify.com/track/4BmLsdiWLFPG8OvXVqoDXX) | [archie](https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE) | [Dysfunctional](https://open.spotify.com/album/2V7Qm3zstK1fHEhJ079Tw9) | 3:10 |
-| 10 | [Big Star](https://open.spotify.com/track/3DNGZZFDLOOvUc6v5aX24g) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Big Star](https://open.spotify.com/album/1Geweu0ryMaaDo1X92n1aR) | 3:34 |
-| 11 | [Out Out](https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Out Out](https://open.spotify.com/album/30GZcYVobsvomiqsckwrmP) | 2:41 |
-| 12 | [Saturday Night's Main Event](https://open.spotify.com/track/4FLbsFRfq5iqfK1iF1Ziit) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [Saturday Night's Main Event](https://open.spotify.com/album/3azwgFgx4cR1kYaLdHX06x) | 3:24 |
-| 13 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 |
-| 14 | [Passenger Seat](https://open.spotify.com/track/76y2Qmpwzak6JhnE8g6gkI) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Passenger Seat](https://open.spotify.com/album/53zMYi35j06qijPOjXMZ4d) | 2:45 |
+| 7 | [Passenger Seat](https://open.spotify.com/track/76y2Qmpwzak6JhnE8g6gkI) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Passenger Seat](https://open.spotify.com/album/53zMYi35j06qijPOjXMZ4d) | 2:45 |
+| 8 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
+| 9 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 |
+| 10 | [Dysfunctional](https://open.spotify.com/track/4BmLsdiWLFPG8OvXVqoDXX) | [archie](https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE) | [Dysfunctional](https://open.spotify.com/album/2V7Qm3zstK1fHEhJ079Tw9) | 3:10 |
+| 11 | [Big Star](https://open.spotify.com/track/3DNGZZFDLOOvUc6v5aX24g) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Big Star](https://open.spotify.com/album/1Geweu0ryMaaDo1X92n1aR) | 3:34 |
+| 12 | [Out Out](https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Out Out](https://open.spotify.com/album/30GZcYVobsvomiqsckwrmP) | 2:41 |
+| 13 | [Saturday Night's Main Event](https://open.spotify.com/track/4FLbsFRfq5iqfK1iF1Ziit) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [Saturday Night's Main Event](https://open.spotify.com/album/3azwgFgx4cR1kYaLdHX06x) | 3:24 |
+| 14 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 |
 | 15 | [hit me then](https://open.spotify.com/track/28oKNdVSDu4VIgu6cdIbjv) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1) | [hit me then](https://open.spotify.com/album/1zQYl7rpVOpTyhCoYbdSEP) | 2:23 |
-| 16 | [Closer](https://open.spotify.com/track/45i9oZVhfcR8uM34sbOnml) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY) | [Closer](https://open.spotify.com/album/58VP6rmlhHURxxgamHwkyG) | 2:59 |
-| 17 | [I Love This!](https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Love This!](https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6) | 2:50 |
-| 18 | [Fuck You](https://open.spotify.com/track/4XcJLTSiFcSxymMBAfG2Qe) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Fuck You](https://open.spotify.com/album/6s4fgB4zdqPJN7eheY7j52) | 2:35 |
-| 19 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 |
-| 20 | [Kiss U](https://open.spotify.com/track/4NQhiSup7VLViZe7r3kzUX) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Running Late...](https://open.spotify.com/album/5Yk5ADXoZC60aQSJqOCIe9) | 2:54 |
-| 21 | [fone sex](https://open.spotify.com/track/08TKXI6IiQ7t5YvzUHCdSh) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [fone sex](https://open.spotify.com/album/6iL6voNT0CPzmIoTazn30v) | 2:53 |
-| 22 | [Out Of The Blue](https://open.spotify.com/track/4wuApHMDZr5yuZzLE9ECdK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Out Of The Blue](https://open.spotify.com/album/3YVZKZUV6lAkfnP9GeJYkV) | 2:34 |
-| 23 | [The Weight Of You \(I’m Glad You Died\)](https://open.spotify.com/track/1ljwXbzXjEB5Sfq6B5x4F7) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [The Weight Of You \(I’m Glad You Died\)](https://open.spotify.com/album/3l4WqTUR6utuHk7jAP9dH0) | 3:12 |
-| 24 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 |
-| 25 | [The Worse It Gets](https://open.spotify.com/track/1DHilBPp0EAF9gXYaYtHnw) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [The Worse It Gets](https://open.spotify.com/album/4DOW64OCAgCHtEzsdMLIAe) | 2:18 |
-| 26 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 |
-| 27 | [JUST FRIENDS?](https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns) | [dolphoe](https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr) | [JUST FRIENDS?](https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha) | 1:50 |
-| 28 | [looking for you](https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [looking for you](https://open.spotify.com/album/66Gsdt1XXTPPsTWE0LSuMz) | 3:22 |
-| 29 | [Delusional](https://open.spotify.com/track/6LgjqqJxjDGApJSltq2CXK) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Delusional](https://open.spotify.com/album/3AcxaNwvMt8XsW6joCJrpS) | 3:07 |
-| 30 | [ur luv is see through!](https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [ur luv is see through!](https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8) | 2:43 |
-| 31 | [And I Spiral](https://open.spotify.com/track/4HBnZoRKpcHS0E7lBhh3C7) | [Bunny Alex](https://open.spotify.com/artist/4nlWIFbOLFZqLHPi4m8JH2) | [And I Spiral](https://open.spotify.com/album/6uFX3cD3ja5L5J5V49qZ9s) | 3:25 |
-| 32 | [Wanna Play](https://open.spotify.com/track/4gdWFUGosyJpTIpnnwU901) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Wanna Play](https://open.spotify.com/album/1c2bb7hltrw7luhWlyM0Tk) | 2:52 |
-| 33 | [Brand New Start](https://open.spotify.com/track/4apAIhYd3Ut0vYmmXiC14W) | [Prides](https://open.spotify.com/artist/4VRTmBIGhJghLThw3Gzjo1) | [Brand New Start](https://open.spotify.com/album/1XT8L3A6c6JuIeYnhFCyLm) | 3:39 |
-| 34 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
-| 35 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
-| 36 | [Song That I Sing](https://open.spotify.com/track/5FYz0KlyvUxKx5cbfkJiwJ) | [Billy Reekie](https://open.spotify.com/artist/4HtYFOtukrRd7RPkTqUAVr) | [Song That I Sing](https://open.spotify.com/album/4ve29uplr8eRg4MOHR4I9H) | 2:57 |
+| 16 | [I Love This!](https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Love This!](https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6) | 2:50 |
+| 17 | [Closer](https://open.spotify.com/track/45i9oZVhfcR8uM34sbOnml) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY) | [Closer](https://open.spotify.com/album/58VP6rmlhHURxxgamHwkyG) | 2:59 |
+| 18 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
+| 19 | [Fuck You](https://open.spotify.com/track/4XcJLTSiFcSxymMBAfG2Qe) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Fuck You](https://open.spotify.com/album/6s4fgB4zdqPJN7eheY7j52) | 2:35 |
+| 20 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 |
+| 21 | [looking for you](https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [looking for you](https://open.spotify.com/album/66Gsdt1XXTPPsTWE0LSuMz) | 3:22 |
+| 22 | [fone sex](https://open.spotify.com/track/08TKXI6IiQ7t5YvzUHCdSh) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [fone sex](https://open.spotify.com/album/6iL6voNT0CPzmIoTazn30v) | 2:53 |
+| 23 | [Out Of The Blue](https://open.spotify.com/track/4wuApHMDZr5yuZzLE9ECdK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Out Of The Blue](https://open.spotify.com/album/3YVZKZUV6lAkfnP9GeJYkV) | 2:34 |
+| 24 | [Kiss U](https://open.spotify.com/track/4NQhiSup7VLViZe7r3kzUX) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Running Late...](https://open.spotify.com/album/5Yk5ADXoZC60aQSJqOCIe9) | 2:54 |
+| 25 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 |
+| 26 | [The Worse It Gets](https://open.spotify.com/track/1DHilBPp0EAF9gXYaYtHnw) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [The Worse It Gets](https://open.spotify.com/album/4DOW64OCAgCHtEzsdMLIAe) | 2:18 |
+| 27 | [Song That I Sing](https://open.spotify.com/track/5FYz0KlyvUxKx5cbfkJiwJ) | [Billy Reekie](https://open.spotify.com/artist/4HtYFOtukrRd7RPkTqUAVr) | [Song That I Sing](https://open.spotify.com/album/4ve29uplr8eRg4MOHR4I9H) | 2:57 |
+| 28 | [The Weight Of You \(I’m Glad You Died\)](https://open.spotify.com/track/1ljwXbzXjEB5Sfq6B5x4F7) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [The Weight Of You \(I’m Glad You Died\)](https://open.spotify.com/album/3l4WqTUR6utuHk7jAP9dH0) | 3:12 |
+| 29 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 |
+| 30 | [JUST FRIENDS?](https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns) | [dolphoe](https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr) | [JUST FRIENDS?](https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha) | 1:50 |
+| 31 | [Delusional](https://open.spotify.com/track/6LgjqqJxjDGApJSltq2CXK) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Delusional](https://open.spotify.com/album/3AcxaNwvMt8XsW6joCJrpS) | 3:07 |
+| 32 | [ur luv is see through!](https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [ur luv is see through!](https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8) | 2:43 |
+| 33 | [And I Spiral](https://open.spotify.com/track/4HBnZoRKpcHS0E7lBhh3C7) | [Bunny Alex](https://open.spotify.com/artist/4nlWIFbOLFZqLHPi4m8JH2) | [And I Spiral](https://open.spotify.com/album/6uFX3cD3ja5L5J5V49qZ9s) | 3:25 |
+| 34 | [Wanna Play](https://open.spotify.com/track/4gdWFUGosyJpTIpnnwU901) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Wanna Play](https://open.spotify.com/album/1c2bb7hltrw7luhWlyM0Tk) | 2:52 |
+| 35 | [Brand New Start](https://open.spotify.com/track/4apAIhYd3Ut0vYmmXiC14W) | [Prides](https://open.spotify.com/artist/4VRTmBIGhJghLThw3Gzjo1) | [Brand New Start](https://open.spotify.com/album/1XT8L3A6c6JuIeYnhFCyLm) | 3:39 |
+| 36 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
 | 37 | [Man In The Middle](https://open.spotify.com/track/0JEsYciJ7ESWOckO7cSf4P) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Man In The Middle](https://open.spotify.com/album/2BheTCgK4PPKbqxxZSyc7M) | 3:30 |
 | 38 | [When The Rain Stops](https://open.spotify.com/track/3XQZu5wN0fVWW5SglLjHHV) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [it's like I never left](https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56) | 3:05 |
 | 39 | [MOVIE STAR](https://open.spotify.com/track/3iDIXnTTy0xOiyAalKFPtJ) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [MOVIE STAR](https://open.spotify.com/album/1R3K5mJt6wBOA7y1npEplA) | 2:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [Chess](https://open.spotify.com/track/0vUjLQC4AjkjcwJnUhsHYv) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Love Me Too Well, I'll Retire Early](https://open.spotify.com/album/1fISW2febvh6iEt2cTPB8N) | 2:06 |
 | 70 | [Slow](https://open.spotify.com/track/5cgavvXYEt36Rjzk2ROhbB) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Slow](https://open.spotify.com/album/6U2JHrmwAGRIpVze766Mba) | 3:52 |
 
-Snapshot ID: `aIOWMwAAAABaeGN69PmQO46KwXCz4sVm`
+Snapshot ID: `aIeFsQAAAADq8D6c0SkrknREb+sJKxoJ`

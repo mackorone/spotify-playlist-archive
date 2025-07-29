@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Daizak, Uzielito Mix, El Bogueto, Ak-Boyz",
-  "num_followers": 471749,
+  "num_followers": 471763,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -351,34 +351,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "Ultra Complicado (feat. Sebas) [Remix]",
-        "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Die",
-          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Sebas",
-          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Ultra Complicado (feat. Sebas) - Remix",
-      "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -407,6 +379,34 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "Ultra Complicado (feat. Sebas) [Remix]",
+        "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Sebas",
+          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Ultra Complicado (feat. Sebas) - Remix",
+      "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -483,6 +483,30 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "Gata Only (Remix)",
+        "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 230513,
+      "name": "Gata Only (Remix)",
+      "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -519,30 +543,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "Gata Only (Remix)",
-        "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 230513,
-      "name": "Gata Only (Remix)",
-      "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
@@ -559,38 +559,6 @@
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "ETA (RMX)",
-        "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 462561,
-      "name": "ETA - RMX",
-      "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -631,6 +599,38 @@
       "duration_ms": 360960,
       "name": "Pa M\u00ed (Remix)",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "ETA (RMX)",
+        "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 462561,
+      "name": "ETA - RMX",
+      "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
+        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "La Mejor Versi\u00f3n de Mi - Remix",
+      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
-        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "La Mejor Versi\u00f3n de Mi - Remix",
-      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -955,30 +955,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "BBY BOO (REMIX)",
-        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "BBY BOO - REMIX",
-      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "BBY BOO (REMIX)",
+        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "BBY BOO - REMIX",
+      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "Flow 2000 (Remix)",
-        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Flow 2000 - Remix",
-      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1583,34 +1563,22 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
-        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
+        "name": "Flow 2000 (Remix)",
+        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 346000,
-      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
-      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+      "duration_ms": 168520,
+      "name": "Flow 2000 - Remix",
+      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1651,6 +1619,38 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
+        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
+      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "No Podemos (Remix)",
         "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
       },
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "El Clavo (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/6pNMBUiyQfqtRMceyAy7i5"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 171337,
+      "name": "El Clavo (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6bI00brFpeprqCDqKouEJS"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "El Clavo (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/6pNMBUiyQfqtRMceyAy7i5"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 171337,
-      "name": "El Clavo (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6bI00brFpeprqCDqKouEJS"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "Wolfine",
+        "url": "https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 167418,
+      "name": "Esc\u00e1pate Conmigo - Remix",
+      "url": "https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "Wolfine",
-        "url": "https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 167418,
-      "name": "Esc\u00e1pate Conmigo - Remix",
-      "url": "https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d"
     },
     {
       "added_at": "2025-06-20 06:00:36",

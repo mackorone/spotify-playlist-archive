@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,426 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,427 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 33 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
 | 34 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 |
 | 35 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
-| 36 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
-| 37 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
+| 36 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
+| 37 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
 | 38 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
 | 39 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
 | 40 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
-| 41 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
-| 42 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 41 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 42 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
 | 43 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
-| 44 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
+| 44 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
 | 45 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
-| 46 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
+| 46 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
 | 47 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 48 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
 | 49 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |

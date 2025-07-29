@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4994,
+  "num_followers": 4995,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABtlOf0n/PLgoj+vOi+tcpu",
+  "snapshot_id": "aIVsAAAAAACy7qeXf3J/yS5Q5SXnmiQs",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Things of Heaven",
+        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 338448,
+      "name": "Now Here (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My City - Single",
         "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things of Heaven",
-        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 338448,
-      "name": "Now Here (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Judge Me (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Judge Me (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Judge Me (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Judge Me (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": null,
@@ -1127,22 +1127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+        "name": "GRACELAND (Deluxe)",
+        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
       },
       "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
+      "duration_ms": 334640,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

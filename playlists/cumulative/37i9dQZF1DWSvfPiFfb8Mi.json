@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 188640,
       "name": "Fighting Love",
       "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
@@ -2586,6 +2586,24 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y"
+      },
+      "artists": [
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn"
     },
     {
       "album": {
@@ -7816,6 +7834,32 @@
       "duration_ms": 196586,
       "name": "When We're Together",
       "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Max Chapman",
+          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
+        },
+        {
+          "name": "Mischief",
+          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
     },
     {
       "album": {

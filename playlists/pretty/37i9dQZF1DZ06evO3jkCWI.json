@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 187422,
+  "num_followers": 187487,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADoa9pw9VVMdZcTkd0CNGYn",
+  "snapshot_id": "aIVsAAAAAAAQVGEvkf7LZmnmnVoaGnMG",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "La Tumba Ser\u00e1 El Final",
+      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -699,6 +715,22 @@
       "duration_ms": 184240,
       "name": "El Preso De Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Volumen 2",
+        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
     },
     {
       "added_at": null,
@@ -719,38 +751,6 @@
       "duration_ms": 211706,
       "name": "En El \u00daltimo Rinc\u00f3n",
       "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "La Tumba Ser\u00e1 El Final",
-      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Volumen 2",
-        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Para Ti Mi Amor",
-      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
     },
     {
       "added_at": null,

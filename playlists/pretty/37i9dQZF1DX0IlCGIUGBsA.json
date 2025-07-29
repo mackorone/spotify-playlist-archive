@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 906673,
+  "num_followers": 906714,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 293826,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
-      },
-      "artists": [
-        {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 365466,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -731,18 +711,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Sing When You're Winning",
-        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Rock DJ",
-      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -759,6 +743,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Sing When You're Winning",
+        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Rock DJ",
+      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "At Worst...The Best Of Boy George And Culture Club",
         "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 241600,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2024-07-12 09:33:21",

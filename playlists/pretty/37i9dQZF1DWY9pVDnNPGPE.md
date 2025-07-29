@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,437 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,449 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 47 | [dance all night](https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:34 |
 | 48 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
 | 49 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
-| 50 | [화창해 \(Feat\. JUNE\)](https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [JUNE](https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 2:51 |
+| 50 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
 
 Snapshot ID: `aGywwgAAAAD+3VEAhFlVnu1//MLX5Sv0`

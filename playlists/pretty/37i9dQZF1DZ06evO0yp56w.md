@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,668 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,739 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 8 | [Plug in Baby](https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:38 |
 | 9 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 |
 | 10 | [Knights of Cydonia](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 6:06 |
-| 11 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
-| 12 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
+| 11 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
+| 12 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 13 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
 | 14 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 |
 | 15 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 50 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 
-Snapshot ID: `aIQagAAAAABVfy/zmtAyvlJiL391FqYZ`
+Snapshot ID: `aIVsAAAAAABObLg1XhhhhYTbQsYUug4O`

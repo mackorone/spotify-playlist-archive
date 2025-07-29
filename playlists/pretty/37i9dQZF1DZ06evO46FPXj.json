@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7804,
+  "num_followers": 7808,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACwbb5hvDdThyfpgEdgU3kU",
+  "snapshot_id": "aIVsAAAAAAAAl7/fGyw25dFYqTYKw4nf",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Bronchus 2",
-      "url": "https://open.spotify.com/track/6vEQb99X3hWD1nENGR6IoR"
+      "duration_ms": 436000,
+      "name": "Lowride",
+      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 436000,
-      "name": "Lowride",
-      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
+      "duration_ms": 213373,
+      "name": "Bronchus 2",
+      "url": "https://open.spotify.com/track/6vEQb99X3hWD1nENGR6IoR"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 300013,
-      "name": "Simmm",
-      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
+      "duration_ms": 256706,
+      "name": "The Plc",
+      "url": "https://open.spotify.com/track/4EkGZJTIMvvQC85nyhHnDw"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 360456,
       "name": "Metaz form8",
       "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+        "name": "EPs 1991 - 2002 (Part 2)",
+        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
       },
       "artists": [
         {
@@ -664,25 +664,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 409488,
-      "name": "Arch Carrier",
-      "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+      "duration_ms": 191186,
+      "name": "Krib",
+      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPs 1991 - 2002 (Part 2)",
-        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Krib",
-      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 321580,
-      "name": "Vose In",
-      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
+      "duration_ms": 409488,
+      "name": "Arch Carrier",
+      "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 416909,
-      "name": "Tewe",
-      "url": "https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI"
+      "duration_ms": 321580,
+      "name": "Vose In",
+      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 739494,
       "name": "bladelores",
       "url": "https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 416909,
+      "name": "Tewe",
+      "url": "https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI"
     }
   ],
   "unique_name": "This Is Autechre",

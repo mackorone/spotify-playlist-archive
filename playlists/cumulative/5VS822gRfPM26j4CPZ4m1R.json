@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Achot",
+        "url": "https://open.spotify.com/album/17sc30yw7VBeTvnT1RYcK3"
+      },
+      "artists": [
+        {
+          "name": "Yosef Madar",
+          "url": "https://open.spotify.com/artist/0Om9WwRZyNzAI0NisSEXHg"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223900,
+      "name": "Achot",
+      "url": "https://open.spotify.com/track/4CYBH8qUPtirrXkfqfyqZt"
+    },
+    {
+      "album": {
         "name": "Reprise Vol. 1",
         "url": "https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt"
       },
@@ -6162,6 +6180,24 @@
       "duration_ms": 218877,
       "name": "Midnight Dive",
       "url": "https://open.spotify.com/track/4PtDUgO054ZAtTQ31iYrwV"
+    },
+    {
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/5Y5Lw8HNzX81Np0l6gdhw3"
+      },
+      "artists": [
+        {
+          "name": "Honeywhip",
+          "url": "https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164428,
+      "name": "Mirrorland",
+      "url": "https://open.spotify.com/track/41oobhHtYEgpuZfuHjOPAC"
     },
     {
       "album": {

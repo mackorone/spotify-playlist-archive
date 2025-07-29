@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,496 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,740 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 35 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 36 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
 | 37 | [People Hold On \(feat\. Lisa Stansfield\) \- Radio Edit](https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:59 |
-| 38 | [Rhythm Is a Mystery \- Non\-Stop Edit](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
-| 39 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
+| 38 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
+| 39 | [Rhythm Is a Mystery \- Non\-Stop Edit](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
 | 40 | [Not Forgotten \- Hard Hands Remix](https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L), [Paul Daley](https://open.spotify.com/artist/0jcwuMu6k2SHsTGVdkqYdG) | [A Final Hit \- The Best Of Leftfield](https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6) | 7:37 |
 | 41 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 42 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 52 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 |
 | 53 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 | 54 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
-| 55 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
-| 56 | [Make It On My Own \- 12" Club Mix](https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Steve Anderson](https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 7:04 |
+| 55 | [Make It On My Own \- 12" Club Mix](https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Steve Anderson](https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 7:04 |
+| 56 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
 | 57 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
 | 58 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
 | 59 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 |

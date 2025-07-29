@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-688 songs - 1 day 6 hr 50 min
+690 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [I Believe In You](https://open.spotify.com/track/2AoDB8SsxTyCYOmGcUBDwQ) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes](https://open.spotify.com/album/2c9ewhIfXYZCEPKmGeMvdu) | 3:07 | 2024-07-12 | 2024-12-10 |
 | [I Believe In You](https://open.spotify.com/track/3Af5F6bqnFBLptWHbuJbJV) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes XENIA](https://open.spotify.com/album/6MY0wuDDbzzqzAtpXafE5u) | 3:07 | 2024-04-22 | 2024-04-24 |
 | [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-08 | 2024-11-13 |
+| [I Got You](https://open.spotify.com/track/4yWNKN9igNvsTlh9JiK1yY) | [Getmoney Dro](https://open.spotify.com/artist/6qB4k5MC79m9A5i3HPBsZW) | [I Got You](https://open.spotify.com/album/1xbAq7yRBcysOXXv0p7N1s) | 2:42 | 2025-07-28 |  |
 | [i hate fashion shows](https://open.spotify.com/track/6YdCQYbCyFNdN40XfUW35V) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [ANGEL MAY CRY 2](https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo) | 2:06 | 2025-04-19 | 2025-04-21 |
 | [I Like It](https://open.spotify.com/track/04A4WyCRyHQ8Nb3u3IsfzH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-20 | 2024-07-22 |
 | [I Like It](https://open.spotify.com/track/3YBjR4X2CXbUcbpFTPSfSk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-21 | 2024-07-23 |
@@ -289,7 +290,7 @@
 | [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 | 2024-08-01 | 2024-08-24 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
 | [Slim Shady](https://open.spotify.com/track/0S7Ay4p0i77taw0tYZILsc) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [Slim Shady](https://open.spotify.com/album/5xbb7ccSPda5YWU5IEOD2B) | 2:31 | 2025-03-22 | 2025-03-24 |
-| [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 |  |
+| [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 | 2025-07-29 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2025-04-09 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 | 2024-05-24 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:02 | 2025-01-10 | 2025-06-30 |
@@ -397,6 +398,7 @@
 | [ВИП](https://open.spotify.com/track/5pv5mDgi38pKNKEbb4yipm) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [ВИП](https://open.spotify.com/album/5t4fNmjFaZ4OZaZANIA1Yf) | 3:06 | 2025-07-12 | 2025-07-20 |
 | [виски с молоком](https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO) | [снялцепи](https://open.spotify.com/artist/2U8WjSfWrXusGaZXinLUtl) | [виски с молоком](https://open.spotify.com/album/4qb91eb53PXwNF00uMFaVO) | 1:01 | 2025-07-03 |  |
 | [Вишнёвый](https://open.spotify.com/track/35wTSN7Mw6knm4xsN41hKm) | [Ваня Дмитриенко](https://open.spotify.com/artist/1kxqshyCqWuOQJNCTgHKzM) | [Вишнёвый](https://open.spotify.com/album/6ApbzsLco748qRs8wEnvWN) | 2:22 | 2024-11-16 | 2024-11-24 |
+| [вклубе](https://open.spotify.com/track/3jy14G6E0lcNdK9i6h4Uup) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:39 | 2025-07-28 |  |
 | [во дворе](https://open.spotify.com/track/56ldDefscInFWMhz8ujU0u) | [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD) | [во дворе](https://open.spotify.com/album/46kxbK98tpteU0BS9AB5af) | 2:15 | 2025-04-12 | 2025-04-14 |
 | [Ворую алкоголь](https://open.spotify.com/track/0pcApW2mSPlkjBEbX3OMOs) | [ЭВСЭ](https://open.spotify.com/artist/51SL7oheJDglSid1IlFRVM), [FLOKI](https://open.spotify.com/artist/11F0zmakkhI0gw4l3PEiyM) | [Ворую алкоголь](https://open.spotify.com/album/0qdMwFrbaCqUvhq8L6dGvy) | 2:36 | 2024-03-30 | 2024-04-03 |
 | [Время](https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Двадцать](https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6) | 2:23 | 2025-01-23 | 2025-04-20 |
@@ -565,7 +567,7 @@
 | [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 | 2024-03-09 |  |
 | [Привет](https://open.spotify.com/track/74N7iPcquSM7xqpv8hNhQt) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Привет](https://open.spotify.com/album/5hqvnihLTRsDWPLAsxpA4y) | 2:53 | 2025-02-08 | 2025-02-10 |
 | [Прокля Табыла](https://open.spotify.com/track/5Y2IOGdZcAIbEaetP8TeNy) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [RATT\#WHORE](https://open.spotify.com/album/7olRBxE5mxa6h0XHF3057r) | 2:21 | 2024-10-12 | 2024-10-31 |
-| [Прониклась мной](https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [Ivan Dorn](https://open.spotify.com/artist/1VZ1TofaV3kj90QJSdg6NG), [DJ INSAMA](https://open.spotify.com/artist/4nt6XoUCCPciUHB58Sm9ms) | [Прониклась мной](https://open.spotify.com/album/6BvDEWNBJ1jbnRV8cv4PjG) | 2:53 | 2025-07-05 |  |
+| [Прониклась мной](https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [Ivan Dorn](https://open.spotify.com/artist/1VZ1TofaV3kj90QJSdg6NG), [DJ INSAMA](https://open.spotify.com/artist/4nt6XoUCCPciUHB58Sm9ms) | [Прониклась мной](https://open.spotify.com/album/6BvDEWNBJ1jbnRV8cv4PjG) | 2:53 | 2025-07-05 | 2025-07-29 |
 | [Просто проваливай](https://open.spotify.com/track/4d4fUYcu5Ej2HjrnCw6Oai) | [The Hatters](https://open.spotify.com/artist/7JuLr3YC53QjWBcw2el44G) | [По ходу люблю](https://open.spotify.com/album/4oSIcrd3sYi5wgGtqlkgsx) | 3:15 | 2024-04-26 | 2024-05-11 |
 | [Простужен](https://open.spotify.com/track/3VnFEw7QY1kDjU5I0VSFPf) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [Простужен](https://open.spotify.com/album/6vogXAr8gw3aW4AXgxLLR1) | 1:34 | 2025-04-07 | 2025-06-19 |
 | [Против царя](https://open.spotify.com/track/0DvM6OhAMflNe8RqtPpnie) | [LASKX3I](https://open.spotify.com/artist/6OcbL3Ih5MOHVwUX2B6k9t) | [Против царя](https://open.spotify.com/album/0b1UnLwLlcwoM3kgwAfDaZ) | 2:56 | 2025-03-07 | 2025-03-31 |

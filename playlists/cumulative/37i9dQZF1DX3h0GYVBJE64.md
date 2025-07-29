@@ -4,7 +4,7 @@
 
 > wat waren dat heerlijke zomers
 
-100 songs - 6 hr 0 min
+101 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 | 2024-03-29 |  |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-03-29 |  |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2024-03-29 |  |
-| [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2024-03-29 |  |
+| [She Doesn't Mind](https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Tomahawk Technique](https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd) | 3:47 | 2024-03-29 |  |
+| [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2024-03-29 | 2025-07-29 |
 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2024-03-29 |  |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2024-03-29 |  |
 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 | 2024-03-29 |  |

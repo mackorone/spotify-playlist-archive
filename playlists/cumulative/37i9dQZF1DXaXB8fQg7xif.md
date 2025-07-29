@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,248 songs - 2 day 18 hr 48 min
+1,249 songs - 2 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-29 | 2023-05-27 |
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-10-12 | 2022-04-15 |
 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 | 2024-12-06 | 2025-02-08 |
-| [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 | 2025-03-07 |  |
+| [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 | 2025-03-07 | 2025-07-29 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-10-25 |  |
 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 | 2024-09-27 |  |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-04-01 | 2023-04-07 |
@@ -1167,6 +1167,7 @@
 | [Use Me Again \(And Again\)](https://open.spotify.com/track/6GCA4mop7cqrqFkyqMjmMF) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 8:15 | 2022-07-14 | 2022-07-30 |
 | [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2023-04-14 | 2023-07-30 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-05-03 |  |
+| [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 | 2025-07-25 |  |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-20 |  |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-07-16 | 2022-08-23 |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4ZAQiu61otvHVveuTsPAUr) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:24 | 2020-12-27 | 2021-05-25 |

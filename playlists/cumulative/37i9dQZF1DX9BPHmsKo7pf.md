@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Eva Timush, Oscar
+> Cele mai de succes 50 de hituri în România\. Cover: YNY Sebi
 
-202 songs - 9 hr 43 min
+203 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [AZALEEA](https://open.spotify.com/track/7mBpvzJY2ETgnYo1yXc923) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [MONEYMAKER](https://open.spotify.com/album/5WbSzzbXczfTysj8flUt3s) | 3:05 | 2025-06-16 |  |
 | [Baba](https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d) | [Gheboasă](https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ), [Alberto Guta](https://open.spotify.com/artist/5GvO1pU9enFaGlqtEbqV2P) | [Baba](https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p) | 2:18 | 2024-07-01 | 2024-10-22 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-12 |  |
-| [Baklava](https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Baklava](https://open.spotify.com/album/7FCxU7klbvof984RWinLZh) | 2:24 | 2024-07-01 |  |
+| [Baklava](https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Baklava](https://open.spotify.com/album/7FCxU7klbvof984RWinLZh) | 2:24 | 2024-07-01 | 2025-07-29 |
 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 | 2024-12-02 | 2025-05-06 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-01 | 2024-08-20 |
 | [BANI DIN MARFĂ](https://open.spotify.com/track/3kpOIK1WElOt142PogQr8b) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Verty](https://open.spotify.com/artist/5YuaZB0y4pVVgoes38XyY8) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 3:30 | 2024-08-26 | 2024-09-10 |
@@ -44,6 +44,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-04-04 |
 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 | 2024-10-14 | 2024-11-26 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-10 | 2025-02-25 |
+| [Brasileiro](https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Brasileiro](https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7) | 2:38 | 2025-07-28 |  |
 | [BROTHERZ](https://open.spotify.com/track/0Uy0EB6nRRcXVh7aR23tEc) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [BROTHERZ](https://open.spotify.com/album/1CIwgqZtLdUjNcaINuizy5) | 3:56 | 2025-03-24 | 2025-06-10 |
 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 | 2025-04-14 |  |
 | [Cateodata](https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-10 | 2025-06-17 |

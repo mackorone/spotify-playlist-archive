@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH27QAAAAACl3yQd6YbRD6ssiLTXaAGR",
+  "snapshot_id": "aIb1wAAAAACfcE6jaKFZdd3mOskZJk26",
   "tracks": [
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
         "name": "Violator (Deluxe)",
         "url": "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/0TBn49AjkNufCRJ2O5VJ6s"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Jesus Doesn't Want Me For A Sunbeam - Live",
+      "url": "https://open.spotify.com/track/7oBazz4xCO7Ul3MJHhKy0Q"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
       "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
@@ -41,71 +57,7 @@
       "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Altogether",
-      "url": "https://open.spotify.com/track/1I3f8tsoYbIPEgQ1TPvJPb"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "On A Plain",
-      "url": "https://open.spotify.com/track/2xIlEsioAFODKpsVgVNrrQ"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
         "name": "I Saw Nothing Good so I Left",
         "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
@@ -121,187 +73,39 @@
       "url": "https://open.spotify.com/track/0PTtvb2693IfmfXCOjT1rp"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "Watch You Bleed",
-        "url": "https://open.spotify.com/album/14N4tnevIzrgscDGT9xoTZ"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Haunt Me",
-          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 301592,
-      "name": "Watch You Bleed",
-      "url": "https://open.spotify.com/track/4JSLc69A3ZTrDOcd4E1pdI"
+      "duration_ms": 257786,
+      "name": "Jealous Guy - Remastered 2010",
+      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+        "name": "Shades of Violet",
+        "url": "https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
+      "duration_ms": 198000,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "The Rip",
-      "url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Beautiful Tragedy",
-        "url": "https://open.spotify.com/album/18muA4YucIqZ8qEG1cu2dz"
-      },
-      "artists": [
-        {
-          "name": "No Point in Living",
-          "url": "https://open.spotify.com/artist/4NvxjAX6GAFxG1rarh1eY2"
-        }
-      ],
-      "duration_ms": 151985,
-      "name": "Scenario of Life",
-      "url": "https://open.spotify.com/track/0gRnG9TjG1pQH8JzYnvbgU"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Set The World On Fire",
-        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "Sounds Good to Me",
-      "url": "https://open.spotify.com/track/0UOYytvwBiPogdJgrTOHbK"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/15uzP4I5pMX4dfQ9Lx72h1"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Humbug",
-        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Crying Lightning",
-      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Magnified",
-        "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
-      },
-      "artists": [
-        {
-          "name": "Failure",
-          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "Rx Queen",
-      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Set Me on Fire",
-      "url": "https://open.spotify.com/track/4iwRcNfL0VqwUNtbSQ0hZL"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
@@ -325,74 +129,10 @@
       "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Jealous Guy - Remastered 2010",
-      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Colourmeinkindness",
-        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 190641,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/29EPImPtRiMHXONTJGMhip"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/2JDCMUQW60W32tWFxDFSgF"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "Vixen",
-      "url": "https://open.spotify.com/track/2axsKqvWo8h7Etzok95RQV"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "If You Leave - Remastered 2019",
-      "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
-    },
-    {
-      "added_at": "2025-07-21 04:00:00",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
@@ -400,44 +140,156 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 221466,
-      "name": "Sugar Hiccup",
-      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
+      "duration_ms": 338053,
+      "name": "Frou-frou Foxes in Midsummer Fires",
+      "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/6lYtFcxdbPrdFAg6UUoc5W"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+      "duration_ms": 379653,
+      "name": "Simple Man - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KzCWCnArf3Wf7qn8Q4Gcs"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+      "duration_ms": 197080,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "Me and Michael",
+      "url": "https://open.spotify.com/track/0t4z0WaQomQqPONghWn8c2"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Point Blank",
+        "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
+      },
+      "artists": [
+        {
+          "name": "Nailbomb",
+          "url": "https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "World of Shit",
+      "url": "https://open.spotify.com/track/3DvTQI6kg1Wor3ZEKCssfO"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 413171,
+      "name": "Slomo",
+      "url": "https://open.spotify.com/track/0KYOthr76o5GlmYLEfp9OX"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "This Fire",
+      "url": "https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "The Least Worst Of",
+        "url": "https://open.spotify.com/album/1vvBwbiS6MIDWvinWsKV6i"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "Black No. 1 - Edit",
+      "url": "https://open.spotify.com/track/4YXZa5AcYlFeV9zDCfNbSJ"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Watch You Bleed",
+        "url": "https://open.spotify.com/album/14N4tnevIzrgscDGT9xoTZ"
+      },
+      "artists": [
+        {
+          "name": "Haunt Me",
+          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
+        }
+      ],
+      "duration_ms": 301592,
+      "name": "Watch You Bleed",
+      "url": "https://open.spotify.com/track/4JSLc69A3ZTrDOcd4E1pdI"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
       "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
@@ -453,52 +305,200 @@
       "url": "https://open.spotify.com/track/0lML2jl6n8f1612DJN4xak"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "Light & Magic",
-        "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
+        "name": "Three Days Grace",
+        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
       },
       "artists": [
         {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 277866,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
+      "duration_ms": 186893,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/0CA3RxBx2xSQXPfpmUBK1v"
     },
     {
-      "added_at": "2025-07-21 04:00:00",
+      "added_at": "2025-07-28 04:00:00",
       "album": {
-        "name": "Chainsaw Dismemberment",
-        "url": "https://open.spotify.com/album/2BG0B4ZOL2m4JWkMhsp3Nq"
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
       "artists": [
         {
-          "name": "Mortician",
-          "url": "https://open.spotify.com/artist/34PPy9Ut9m8qB8BnmCiVmO"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 104426,
-      "name": "Drowned in Your Blood",
-      "url": "https://open.spotify.com/track/4l4G8Th3nJpU9GMYgCs4BK"
+      "duration_ms": 272906,
+      "name": "Driven Under",
+      "url": "https://open.spotify.com/track/3pavDZo8o2ctgkVhERSzy6"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Quebec",
+        "url": "https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Tried And True",
+      "url": "https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 479066,
+      "name": "Only In Dreams",
+      "url": "https://open.spotify.com/track/3DkHNCA4QRBQgTzF2T18hm"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Nowhere (Expanded)",
+        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Vapour Trail - 2001 Remaster",
+      "url": "https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Go - Remastered",
+      "url": "https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/15uzP4I5pMX4dfQ9Lx72h1"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
+      },
+      "artists": [
+        {
+          "name": "T.S.O.L.",
+          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Code Blue",
+      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Old World Underground, Where Are You Now?",
+        "url": "https://open.spotify.com/album/4LileDrFwEUFB5UPA3AEia"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Combat Baby",
+      "url": "https://open.spotify.com/track/2QJ9dLiolwZNPl5etYP2MI"
+    },
+    {
+      "added_at": "2025-07-28 04:00:00",
+      "album": {
+        "name": "Magnified",
+        "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
+      },
+      "artists": [
+        {
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

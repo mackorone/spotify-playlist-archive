@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-1,450 songs - 3 day 4 hr 23 min
+1,451 songs - 3 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-04-01 | 2022-04-13 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-14 | 2024-06-29 |
 | [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-03-24 | 2023-06-02 |
+| [ASK](https://open.spotify.com/track/3JPfO8cXqKX3Y1wfDv8LhE) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [RAMBO](https://open.spotify.com/album/7KDppNmYC0lkU4GIiZbrqT) | 3:57 | 2025-07-25 |  |
 | [ASTRAL PLANES](https://open.spotify.com/track/4HOIaVXmOJ26SNvVcFkqwq) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 2](https://open.spotify.com/album/7dH7JDyXluq0ISTgku8XBy) | 2:41 | 2023-05-26 | 2023-07-29 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2021-07-23 | 2022-07-23 |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-04-30 | 2023-04-01 |
@@ -376,7 +377,7 @@
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-04-01 | 2022-04-15 |
 | [Down](https://open.spotify.com/track/54L1OJ4RopFVYymnXbNvYw) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 2:39 | 2024-06-14 | 2024-12-07 |
 | [Down](https://open.spotify.com/track/7n4TRiA2ppPKG76gIWzkBU) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Down](https://open.spotify.com/album/6YHnY9KcwLKtXabds5NUFQ) | 3:13 | 2023-02-10 | 2023-06-08 |
-| [down](https://open.spotify.com/track/2aOGWRexXObCHluDRPFF51) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 1:11 | 2024-05-03 | 2025-07-21 |
+| [down](https://open.spotify.com/track/2aOGWRexXObCHluDRPFF51) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 1:11 | 2024-05-03 |  |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2022-04-01 | 2022-04-15 |
 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 | 2022-04-01 | 2022-04-11 |
 | [Drama \- Isabella Lovestory and Chicken Remix](https://open.spotify.com/track/6OOgOELe0u3gDCxuYv36D9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Chicken](https://open.spotify.com/artist/7zpsE1zqt8cFqOPUNifkSv) | [Drama \(Isabella Lovestory and Chicken Remix\)](https://open.spotify.com/album/6bqT38ZCI151SgKJAfaQEr) | 2:54 | 2022-04-01 | 2022-04-16 |
@@ -448,7 +449,7 @@
 | [FLIGHTS](https://open.spotify.com/track/1W12kMWCu5O4zZQMZ8vqjQ) | [JEMS!](https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m) | [FLIGHTS](https://open.spotify.com/album/0u1o8ISszon1vkIkYQRRlA) | 3:52 | 2024-07-26 | 2024-10-11 |
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 | 2023-05-27 |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-15 | 2024-09-01 |
-| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
+| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 | 2025-07-29 |
 | [Fly](https://open.spotify.com/track/5i7ZEk2uiG4t4Czf8MKImF) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Fly](https://open.spotify.com/album/4PdghOXArMQYltT3xYpCQI) | 3:05 | 2023-07-28 | 2023-10-07 |
 | [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/track/6lZC0P2I2CB1zL1bSbijpz) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/album/229219MaA5bdnCL9XFHfw5) | 3:42 | 2024-07-19 | 2024-09-14 |
 | [Fly on Your Wall](https://open.spotify.com/track/5a3wssFEZkJ14B7UeUg0GS) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Ezra Martin](https://open.spotify.com/artist/1DDWw9aZYz7pXgs9jmf6Go) | [Fly on Your Wall](https://open.spotify.com/album/5VuZOE3FqvMJ5lwfVVweSk) | 3:17 | 2022-09-16 | 2022-09-24 |
@@ -538,7 +539,7 @@
 | [GREATEST FAULT](https://open.spotify.com/track/6GSiyx46GZ4McAT2JLz0Jr) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [GREATEST FAULT](https://open.spotify.com/album/2zYsk6bM80UQgmmVxEmPWj) | 3:59 | 2021-10-15 | 2022-04-13 |
 | [Greed](https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Greed](https://open.spotify.com/album/4IljiFpC1WkmcFkQUbuL8L) | 3:45 | 2021-06-18 | 2022-07-28 |
 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 | 2023-06-16 | 2024-06-29 |
-| [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 | 2024-06-14 |  |
+| [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 | 2024-06-14 | 2025-07-29 |
 | [Grown](https://open.spotify.com/track/1ThVOUDQwQsgeSdoxrkPGc) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Grown](https://open.spotify.com/album/6R6dEkUpLr7wUuYBKpUpxy) | 3:16 | 2022-04-01 | 2022-04-14 |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2021-03-19 | 2022-04-14 |
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:31 | 2024-09-13 | 2025-06-07 |

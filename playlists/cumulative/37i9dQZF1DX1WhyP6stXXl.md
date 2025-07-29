@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Zoe Wees, Dean Lewis
 
-1,282 songs - 2 day 16 hr 44 min
+1,283 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [fridge](https://open.spotify.com/track/0RRvEc7KMzVnZpdC0LNpvI) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [fridge](https://open.spotify.com/album/51hdFeMT8hLrxoXuLY8lz4) | 2:36 | 2025-05-22 | 2025-06-13 |
 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 | 2025-06-13 |
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-08-16 | 2024-09-13 |
+| [Fuck You](https://open.spotify.com/track/4XcJLTSiFcSxymMBAfG2Qe) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Fuck You](https://open.spotify.com/album/6s4fgB4zdqPJN7eheY7j52) | 2:35 | 2025-07-28 |  |
 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 | 2025-03-13 | 2025-04-11 |
 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 | 2025-05-08 | 2025-06-06 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-11 | 2024-08-09 |

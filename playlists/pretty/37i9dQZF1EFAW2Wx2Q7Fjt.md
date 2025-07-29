@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,255 likes - 202 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,260 likes - 202 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 40 | [Vicious](https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:29 |
 | 41 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
 | 42 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
-| 43 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
-| 44 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 |
+| 43 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 |
+| 44 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 45 | [Sweet Dreams](https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:53 |
 | 46 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
 | 47 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
 | 48 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 |
 | 49 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
-| 50 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
-| 51 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
+| 50 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
+| 51 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
 | 52 | [Do Right](https://open.spotify.com/track/0c37uJwj7mpovCAuFY5ofQ) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:17 |
 | 53 | [Purple lace bra](https://open.spotify.com/track/1TmqxQwvEDGYOTm1fPJJbT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:11 |
 | 54 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 153 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 |
 | 154 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
 | 155 | [If We Were A Party](https://open.spotify.com/track/10jL8CyereIW7EhM0pzsSD) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:35 |
-| 156 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 |
-| 157 | [Hail Mary](https://open.spotify.com/track/6VvvFnxvcPjoKelou9NJxZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:44 |
+| 156 | [Hail Mary](https://open.spotify.com/track/6VvvFnxvcPjoKelou9NJxZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:44 |
+| 157 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 |
 | 158 | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/track/1PZ7VJ7abOVWjzWl19KKnd) | [Peyton List](https://open.spotify.com/artist/3nL1vFhHR6iRgKxadxCQjh) | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/album/0ewiIwbteCs1p0EjwX2Q7U) | 3:26 |
 | 159 | [Amanda](https://open.spotify.com/track/2jRbNChiY4mcKExiBiAR9j) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 2:56 |
 | 160 | [Dotted Lines](https://open.spotify.com/track/5D18wfmj3SLc8S0BCiurOB) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:42 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 201 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 | 202 | [Are You Serious?](https://open.spotify.com/track/0cX8jpeqgYcoBsFREgmgGY) | [Teddy Sutton](https://open.spotify.com/artist/58MGMvhrKqPVwa9nqrOdj3) | [Dynasty](https://open.spotify.com/album/2XbCpM1MlrsMG6QODWt08N) | 2:23 |
 
-Snapshot ID: `Ab37VAAAAAApWaeBeZPJuBIGQc2hJxct`
+Snapshot ID: `Ab4BCAAAAABQrTzNMG6hFumrZEYeLG06`

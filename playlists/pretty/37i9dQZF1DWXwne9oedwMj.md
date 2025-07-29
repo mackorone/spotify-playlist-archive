@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,419 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,425 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 25 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 |
 | 26 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 27 | [CAIRO](https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:18 |
-| 28 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 28 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
 | 29 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 |
-| 30 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
+| 30 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
 | 31 | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 |
 | 32 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
 | 33 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |

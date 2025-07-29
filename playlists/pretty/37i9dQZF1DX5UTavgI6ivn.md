@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,047 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,142 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

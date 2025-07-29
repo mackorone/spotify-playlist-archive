@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Tyler, The Creator, HubbaBubba, Lola Young og mörgum fleiri!
 
-7,000 songs - 15 day 16 hr 14 min
+7,001 songs - 15 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3670,7 +3670,7 @@
 | [Lonely Tonight \(feat\. Justin Jesso & Parson James\)](https://open.spotify.com/track/5hUYug21Qux15aU46nWY79) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Lonely Tonight \(feat\. Justin Jesso & Parson James\)](https://open.spotify.com/album/1CsvNok1rmImkAnPAu1B0a) | 2:35 | 2025-05-16 | 2025-05-23 |
 | [lonely waters](https://open.spotify.com/track/2OIBSGDfLnbcxHclcopdUj) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [lonely waters](https://open.spotify.com/album/03oMP9OnGJZACgrPE4QgPC) | 2:55 | 2024-11-29 | 2024-12-06 |
 | [Lonely without you](https://open.spotify.com/track/4ikoX1eE4y8tjwsWlpqCl3) | [Bjarni Ómar](https://open.spotify.com/artist/30NBEBMzDmnnw5lvs5yE90) | [Lonely without you](https://open.spotify.com/album/2oHmAPVxKj4INSqaa9tUwo) | 3:49 | 2025-02-14 | 2025-02-21 |
-| [Loner Anthem 2](https://open.spotify.com/track/6DxQ6RCdfyzblmkSTLQ9fy) | [LEX1](https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb) | [Me, Myself & 1](https://open.spotify.com/album/1utKoqRyIHWcWhdOa97rWN) | 2:03 | 2025-07-25 |  |
+| [Loner Anthem 2](https://open.spotify.com/track/6DxQ6RCdfyzblmkSTLQ9fy) | [LEX1](https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb) | [Me, Myself & 1](https://open.spotify.com/album/1utKoqRyIHWcWhdOa97rWN) | 2:03 | 2025-07-25 | 2025-07-29 |
 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 | 2025-07-25 |  |
 | [Long Time](https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Long Time](https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB) | 1:54 | 2025-06-06 | 2025-06-13 |
 | [Long Walk To Get Back](https://open.spotify.com/track/4R1BX648FslJYO3JUFkOev) | [Jack Moy](https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU) | [Paper, Scissors & Rock n Roll](https://open.spotify.com/album/7cBULiuGU6Bx9bsUTVp9PX) | 3:24 | 2024-11-29 | 2024-12-06 |
@@ -5711,6 +5711,7 @@
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-11 | 2025-07-18 |
 | [Such A Loser](https://open.spotify.com/track/2QZpp55SwbJjymRLCLlhXb) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Such a Loser](https://open.spotify.com/album/4ZEar4rcgTuWe73Fd8bcH9) | 3:26 | 2025-01-03 | 2025-01-10 |
 | [Sugar Free Venom feat\. Kesha](https://open.spotify.com/track/5f89Fv9EdAoSeH0BH6oC7q) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [SEQUENCE 01](https://open.spotify.com/album/2dsk3MlHRNOqWqrUZoqI0K) | 2:48 | 2025-05-09 | 2025-05-16 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-25 |  |
 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-06 | 2024-12-14 |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-03-28 | 2025-04-04 |
 | [Sumar Aldarinnar](https://open.spotify.com/track/1CZ0zgeCpJg4lvfopBYSe9) | [Kla Kar](https://open.spotify.com/artist/3ibwnMPGYEa5uwMTs9BmuG) | [Sumar Aldarinnar](https://open.spotify.com/album/2b6iIgk14l6ATDNagj3Z2G) | 2:47 | 2025-06-27 | 2025-06-29 |

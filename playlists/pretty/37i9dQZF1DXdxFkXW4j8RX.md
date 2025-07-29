@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Como Asesinar a Felipes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,540 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,534 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

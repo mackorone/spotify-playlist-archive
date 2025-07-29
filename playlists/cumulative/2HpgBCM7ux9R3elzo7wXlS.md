@@ -4,7 +4,7 @@
 
 > All of it
 
-898 songs - 2 day 8 hr 1 min
+899 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2025-06-02 |  |
 | [Dream Sweet in Sea Major](https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 7:00 | 2025-06-02 |  |
 | [Dream Team](https://open.spotify.com/track/5Wcnoht44bKMUXjwyDT3nx) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Small Reveal](https://open.spotify.com/album/1vIW86LIYKvRwcfguVJvVn) | 7:07 | 2025-06-02 |  |
+| [Dreiton](https://open.spotify.com/track/0lEikZP9JffOW4sufCKtQO) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 8:17 | 2025-07-28 |  |
 | [Dress Down](https://open.spotify.com/track/4M9Op6UQ36mhtjMBuevRYN) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 4:32 | 2025-06-02 |  |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2025-06-02 |  |
 | [DUCKWORTH.](https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:08 | 2025-06-02 |  |

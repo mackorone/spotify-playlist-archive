@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2189791,
+  "num_followers": 2189841,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
-      "added_at": "2025-03-11 02:50:01",
-      "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
-    },
-    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "Bad Dreams",
@@ -467,6 +451,22 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2025-03-11 02:50:01",
+      "album": {
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
@@ -571,42 +571,6 @@
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Dial Drunk (with Post Malone)",
-        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk (with Post Malone)",
-      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -631,18 +595,38 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+        "name": "Dial Drunk (with Post Malone)",
+        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+      "duration_ms": 213817,
+      "name": "Dial Drunk (with Post Malone)",
+      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -659,6 +643,22 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -769,6 +769,26 @@
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
     },
     {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+    },
+    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "10:35",
@@ -789,24 +809,20 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2025-06-27 04:00:32",
+      "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Home (feat. Shaboozey)",
-        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Home (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -841,38 +857,6 @@
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
-    },
-    {
       "added_at": "2025-07-04 04:00:37",
       "album": {
         "name": "Noventa (with J Balvin)",
@@ -891,6 +875,22 @@
       "duration_ms": 146700,
       "name": "Noventa (with J Balvin)",
       "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
+      "added_at": "2025-07-18 04:00:25",
+      "album": {
+        "name": "Go Back To The Future",
+        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BTTF",
+      "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
+    },
+    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "Carry You Home",
@@ -939,6 +955,22 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:25",
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 211101,
+      "name": "TENGO CELOS",
+      "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -977,26 +1009,6 @@
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2025-01-07 17:42:41",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
-    },
-    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "Numb",
@@ -1017,20 +1029,24 @@
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
-      "added_at": "2025-07-18 04:00:25",
+      "added_at": "2025-01-07 17:42:41",
       "album": {
-        "name": "Go Back To The Future",
-        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
         }
       ],
-      "duration_ms": 180000,
-      "name": "BTTF",
-      "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2025-03-28 04:00:51",
@@ -1101,22 +1117,6 @@
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
-    },
-    {
       "added_at": "2025-03-11 02:50:01",
       "album": {
         "name": "Chasing Paradise",
@@ -1137,20 +1137,20 @@
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
-      "added_at": "2025-07-18 04:00:25",
+      "added_at": "2025-06-27 04:00:32",
       "album": {
-        "name": "ISLAND BOYZ",
-        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 211101,
-      "name": "TENGO CELOS",
-      "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1185,24 +1185,20 @@
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
-      "added_at": "2025-06-27 04:00:32",
+      "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 183815,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1225,20 +1221,24 @@
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
+      "added_at": "2025-06-27 04:00:32",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1525,6 +1525,26 @@
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
+      "added_at": "2025-07-18 04:00:25",
+      "album": {
+        "name": "Follow Excitement!",
+        "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
+      },
+      "artists": [
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 148746,
+      "name": "Follow Excitement!",
+      "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
+    },
+    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "GIRLS",
@@ -1557,44 +1577,20 @@
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
-      "added_at": "2025-05-30 04:00:17",
+      "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/1SRyHwbELEzf0SJTtF739b"
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D"
-    },
-    {
-      "added_at": "2025-07-18 04:00:25",
-      "album": {
-        "name": "Follow Excitement!",
-        "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 148746,
-      "name": "Follow Excitement!",
-      "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1613,20 +1609,24 @@
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
+      "added_at": "2025-05-30 04:00:17",
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/1SRyHwbELEzf0SJTtF739b"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D"
     },
     {
       "added_at": "2025-03-11 02:50:01",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
       "added_at": "2025-04-04 04:00:30",

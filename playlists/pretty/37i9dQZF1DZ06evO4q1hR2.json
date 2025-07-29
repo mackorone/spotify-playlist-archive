@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 69381,
+  "num_followers": 69433,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAB0dW5rV2DC9NsmYniQLFCj",
+  "snapshot_id": "aIVsAAAAAABYEd2Qoe2qtJoqtX6PlKG0",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Qu\u00e9 Casualidad",
-      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
+      "duration_ms": 193933,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 193933,
-      "name": "Sufro",
-      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
+      "duration_ms": 142026,
+      "name": "Qu\u00e9 Casualidad",
+      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
     },
     {
       "added_at": null,
@@ -531,18 +531,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+        "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 164666,
-      "name": "Mi Coraz\u00f3n Te Quiere",
-      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
+      "duration_ms": 187062,
+      "name": "El Hijo Del Pueblo",
+      "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
     },
     {
       "added_at": null,
@@ -579,30 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        },
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 187062,
-      "name": "El Hijo Del Pueblo",
-      "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+      "duration_ms": 164666,
+      "name": "Mi Coraz\u00f3n Te Quiere",
+      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
         "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 200545,
       "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
       "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Les hits du moment\. Cover: Chella
 
-448 songs - 23 hr 58 min
+449 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Ana wiyek \(feat\. ElGrandeToto\)](https://open.spotify.com/track/1RyS0gEH3qWvpnxQykmkh5) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Ana wiyek \(feat\. ElGrandeToto\)](https://open.spotify.com/album/5C7AcWhYlE9sBvtxDwdEqn) | 3:23 | 2025-06-09 | 2025-06-20 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 | 2022-11-28 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-27 |  |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-11 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-11 | 2025-07-29 |
 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 | 2023-01-01 | 2024-04-16 |
 | [Arahmini](https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:48 | 2022-10-27 | 2023-01-06 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-07-04 | 2022-07-07 |
@@ -415,6 +415,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-17 | 2022-12-02 |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-05-12 | 2022-08-17 |
 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 | 2025-05-30 | 2025-06-13 |
+| [Violet](https://open.spotify.com/track/6r5YuKAP7zXnzkg6GAzUuu) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Violet](https://open.spotify.com/album/1rAgDk1QcVCNbqeAL9Z20o) | 2:16 | 2025-07-28 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-11-06 | 2023-12-01 |
 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 | 2023-01-17 | 2023-04-01 |
 | [Wala \(5, 7, 10\)](https://open.spotify.com/track/6ZKk09hIZN9qo879cT1fTD) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Wala \(5, 7, 10\)](https://open.spotify.com/album/52ukqQBqbkKO3Qc5CXsgmW) | 2:48 | 2024-03-08 | 2024-07-19 |

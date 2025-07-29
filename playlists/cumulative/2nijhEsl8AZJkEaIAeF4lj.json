@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295626,
+      "name": "Gold Dust Woman - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2ssyECwAX5JxtcAUTFw7wI"
+    },
+    {
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 295626,
       "name": "Gold Dust Woman - 2004 Remaster",
       "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
@@ -5362,6 +5380,24 @@
       "duration_ms": 168480,
       "name": "The Frost",
       "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    {
+      "album": {
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317173,
+      "name": "The Great Below",
+      "url": "https://open.spotify.com/track/7LBWAib31Cthfz2KoI611Z"
     },
     {
       "album": {

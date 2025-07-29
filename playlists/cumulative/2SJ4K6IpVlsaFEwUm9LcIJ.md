@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-668 songs - 1 day 15 hr 3 min
+671 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Lorelei](https://open.spotify.com/track/5f1pCciS3t1hdQnSn6jVF5) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX) | 1:55 | 2025-03-31 | 2025-05-09 |
 | [Lost Paraiso](https://open.spotify.com/track/1i3kyHie9qNn1NR81cDNUH) | [Kolumbo](https://open.spotify.com/artist/4tLuFVweKpKhn9Ar89NT0x) | [Gung Ho](https://open.spotify.com/album/4HNUTsTtOdbLJJlQ81RRAf) | 8:06 | 2025-07-03 |  |
 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 | 2025-07-18 |  |
+| [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 | 2025-07-28 |  |
 | [LOVE ME, HATE ME](https://open.spotify.com/track/0qtODBXCDFVwrMFNes78TU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 3:45 | 2025-06-15 | 2025-07-04 |
 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 | 2025-01-14 | 2025-03-02 |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
@@ -380,6 +381,7 @@
 | [Midnight on the Bay \- 2016 Remaster](https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H) | [The Stills\-Young Band](https://open.spotify.com/artist/58xrQ9IjbkyzdulTlm9cqM) | [Long May You Run](https://open.spotify.com/album/0Qt4WzqeT687yz0pwsxgcu) | 4:00 | 2025-06-12 | 2025-07-04 |
 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 | 2025-04-28 | 2025-07-04 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
+| [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 | 2025-07-28 |  |
 | [Monochrome photography](https://open.spotify.com/track/36WOdy91Cs6wCUTlic2mdN) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Day Is Far Too Long](https://open.spotify.com/album/5OMI8HfEGEebdfeYHHDba0) | 3:53 | 2025-06-25 | 2025-07-04 |
 | [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 | 2025-06-28 | 2025-07-04 |
 | [Moon Hymn](https://open.spotify.com/track/63Nr0q3IH032UPK2NMuGOh) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 4:17 | 2025-07-09 |  |
@@ -532,6 +534,7 @@
 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 | 2025-05-19 | 2025-07-04 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 | 2025-07-04 |
+| [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 | 2025-07-28 |  |
 | [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 | 2025-07-12 |  |
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 | 2025-07-04 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |

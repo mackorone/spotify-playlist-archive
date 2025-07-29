@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-971 songs - 3 day 10 hr 8 min
+972 songs - 3 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [KL427](https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Oxygen Levels Low EP](https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il) | 6:43 | 2022-05-13 | 2022-11-13 |
 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-02-02 | 2025-07-23 |
 | [Korowai](https://open.spotify.com/track/5nGwt2oUROQtaW1EYxY9hj) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Korowai](https://open.spotify.com/album/3ByTN078vPgKLFKEbmUSr4) | 8:24 | 2021-04-21 | 2022-04-21 |
-| [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 |  |
+| [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 | 2025-07-29 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 | 2024-09-28 |
 | [La Casa](https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw) | [Souave](https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw) | [La Casa](https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV) | 4:38 | 2024-09-13 | 2025-02-01 |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2021-05-07 | 2023-03-11 |
@@ -546,6 +546,7 @@
 | [Mental \(feat\. Cabadzi\)](https://open.spotify.com/track/0p5LyGZBJCiC9I7yUQDyWM) | [VAPA](https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7), [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [Mental \- EP](https://open.spotify.com/album/0J1nw3aoVtiH5z6gF5iqf0) | 4:23 | 2021-06-11 | 2022-04-21 |
 | [Mentuliza](https://open.spotify.com/track/1XZ0xri3sJIyuK7pjEvO6E) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mentuliza](https://open.spotify.com/album/6MPYYv7vEZFjsP1zaK1Dhl) | 2:38 | 2025-04-25 |  |
 | [Meru](https://open.spotify.com/track/5UrfK59oICoOgbJRn1uTyL) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Meru](https://open.spotify.com/album/6WiYzBqw0cmhVKVVqZDF7y) | 7:12 | 2021-04-21 | 2022-07-23 |
+| [Mess Around \(Baby Baby\)](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Jaquet](https://open.spotify.com/artist/36lN5NolUGQxNHcICDgOTu) | [Mess Around \(Baby Baby\)](https://open.spotify.com/album/62tdT74i7bORfGcsCrGlBY) | 3:41 | 2025-07-25 |  |
 | [Messi \- Sunset Mix](https://open.spotify.com/track/7CUWutx9wMNEeCsv5Uypjk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Messi \(Sunset Mix\)](https://open.spotify.com/album/3CSvqp4YtKKf70ypELxFX7) | 4:32 | 2024-10-11 | 2025-06-01 |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 | 2023-04-29 |
 | [Metropolis](https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Metropolis](https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj) | 4:33 | 2023-09-08 | 2023-10-29 |

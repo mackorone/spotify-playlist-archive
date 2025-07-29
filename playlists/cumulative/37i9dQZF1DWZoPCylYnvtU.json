@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Canopy Rain",
+        "url": "https://open.spotify.com/album/6TvD50Pze90eqfleZFNq6h"
+      },
+      "artists": [
+        {
+          "name": "Verdelume",
+          "url": "https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Canopy Rain",
+      "url": "https://open.spotify.com/track/2h9g4A7QBMoW4MblHgwaDv"
+    },
+    {
+      "album": {
         "name": "Chasing Rain",
         "url": "https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 154549,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/49N6wGjb4tR7YbFldq3jYu"
@@ -2975,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Rains",
+        "url": "https://open.spotify.com/album/4lBS9l6qbdAZG4NHzc9f0z"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Peaceful Rains",
+      "url": "https://open.spotify.com/track/1a6j8HYCABWOtlq0EQwsjQ"
+    },
+    {
+      "album": {
         "name": "Gocce",
         "url": "https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ"
       },
@@ -3318,6 +3354,24 @@
       "duration_ms": 185756,
       "name": "Rain Ambience",
       "url": "https://open.spotify.com/track/4OMRz3OAE9JaoiC8UnEvoD"
+    },
+    {
+      "album": {
+        "name": "Rain Calm",
+        "url": "https://open.spotify.com/album/1xbUv6JJb3Wrq43W42Xtbn"
+      },
+      "artists": [
+        {
+          "name": "Celestial Elements",
+          "url": "https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163928,
+      "name": "Rain Calm",
+      "url": "https://open.spotify.com/track/0Hg0yv07sax49cPaxZyz2M"
     },
     {
       "album": {
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 154624,
       "name": "Raindrops on Water",
       "url": "https://open.spotify.com/track/2MfTWQow2mtK8TgpSCSLCG"
@@ -5814,7 +5868,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 170000,
       "name": "Yard Rain",
       "url": "https://open.spotify.com/track/10KjBoTmOqTGZ3cfNZODWA"

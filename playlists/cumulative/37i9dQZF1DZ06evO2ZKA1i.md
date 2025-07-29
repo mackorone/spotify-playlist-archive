@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-110 songs - 8 hr 55 min
+111 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 | 2022-09-17 |  |
 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 | 2022-12-09 | 2023-03-04 |
 | [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 | 2022-09-17 |  |
-| [Clearly Quite Absurd \- 20th Anniversary Remix](https://open.spotify.com/track/3xfE6JRSXXb0MGcvEVVznx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Clearly Quite Absurd \(20th Anniversary Remix\)](https://open.spotify.com/album/2QpCKAXux70Uw5nOcvlb34) | 5:24 | 2025-07-02 |  |
+| [Clearly Quite Absurd \- 20th Anniversary Remix](https://open.spotify.com/track/3xfE6JRSXXb0MGcvEVVznx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Clearly Quite Absurd \(20th Anniversary Remix\)](https://open.spotify.com/album/2QpCKAXux70Uw5nOcvlb34) | 5:24 | 2025-07-02 | 2025-07-29 |
+| [Clearly Quite Absurd \- 20th Anniversary Remix](https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Clearly Quite Absurd \(20th Anniversary Remix\)](https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ) | 5:24 | 2025-07-29 |  |
 | [Dead Or Alive](https://open.spotify.com/track/4pv6tqh22aGX4G7sSusUkY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:42 | 2022-09-17 | 2022-10-07 |
 | [Demon's Eye \- 1996 Remaster](https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 5:21 | 2022-10-12 |  |
 | [Dopamine \- Studio](https://open.spotify.com/track/2p9VEV4D1bPiz8uSBEMgc5) | [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf), [Trapeze](https://open.spotify.com/artist/7b2jbuy6iMUbuvWrvoxnJW), [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [This Time Around](https://open.spotify.com/album/5x0mRaXuS5gjbpUNcvUeaH) | 4:10 | 2022-09-18 | 2023-03-04 |

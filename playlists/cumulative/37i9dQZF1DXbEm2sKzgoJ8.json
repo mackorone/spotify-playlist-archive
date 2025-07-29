@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212565,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu"
+    },
+    {
+      "album": {
         "name": "Feeling Lucky",
         "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
       },
@@ -9004,7 +9022,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"

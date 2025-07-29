@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41773,
+  "num_followers": 41820,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADt3F+CAhGuKYiX+ZFECh3c",
+  "snapshot_id": "aIVsAAAAAADg7yeKE6t5xeHj1HsvJ7kn",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 135884,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sway With Me (with GALXARA)",
         "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 168018,
       "name": "Sway With Me (with GALXARA)",
       "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 135884,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHOT O' CLOCK",
+        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 150457,
+      "name": "SHOT O' CLOCK",
+      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Pop",
         "url": "https://open.spotify.com/album/2TzLHxrnjTNkOA53atXq8t"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 171235,
       "name": "Tip Toes (feat. Quavo)",
       "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHOT O' CLOCK",
-        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 150457,
-      "name": "SHOT O' CLOCK",
-      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
     },
     {
       "added_at": null,

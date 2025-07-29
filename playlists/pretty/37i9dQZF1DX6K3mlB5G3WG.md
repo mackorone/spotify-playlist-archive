@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > sombr e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,704 likes - 131 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,711 likes - 131 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 28 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 |
 | 29 | [Luna](https://open.spotify.com/track/6Ot2LalnJadXG7unqahOjg) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Luna](https://open.spotify.com/album/4DmeZQ8QThQjsPflT1ghmu) | 2:48 |
 | 30 | [Home \(feat\. Tom Walker\)](https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Home \(feat\. Tom Walker\)](https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE) | 3:16 |
-| 31 | [Grateful](https://open.spotify.com/track/08gulZWoXwKM1vCQnzVFcH) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI) | [Grateful](https://open.spotify.com/album/7kFQIRPd80GPAB7Zgq0zNO) | 3:14 |
+| 31 | [Grateful \(feat\. Marco Lollis\)](https://open.spotify.com/track/08gulZWoXwKM1vCQnzVFcH) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI) | [Grateful \(feat\. Marco Lollis\)](https://open.spotify.com/album/7kFQIRPd80GPAB7Zgq0zNO) | 3:14 |
 | 32 | [Nel blu dipinto di blu \- Jack Sani Remix](https://open.spotify.com/track/5eRYJdNAaB7icOBwQ51UgT) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Nel blu dipinto di blu \(Jack Sani Remix\)](https://open.spotify.com/album/7uaHkZZ6yBcbo8y4L7UMfk) | 3:04 |
 | 33 | [Última Noche](https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Última Noche](https://open.spotify.com/album/1pavsMs5Dq5wLxUsf7HlIp) | 3:55 |
 | 34 | [Brutus](https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Brutus](https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS) | 2:28 |

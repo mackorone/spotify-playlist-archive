@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,427 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,469 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 33 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 34 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 35 | [好きなこと \- Remix](https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [098RADIO vol.2 Hosted by Awich](https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i) | 3:49 |
-| 36 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
-| 37 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 36 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 37 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 38 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
 | 39 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
 | 40 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 44 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 45 | [サンクチュアリ](https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [サンクチュアリ](https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb) | 4:52 |
 | 46 | [ネオンを消して](https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [the youth night](https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c) | 3:23 |
-| 47 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
-| 48 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
+| 47 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
+| 48 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 49 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
 | 50 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 

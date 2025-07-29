@@ -11713,6 +11713,24 @@
     },
     {
       "album": {
+        "name": "big bite mixtape",
+        "url": "https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T"
+      },
+      "artists": [
+        {
+          "name": "mimi bay",
+          "url": "https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "go cowboy",
+      "url": "https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA"
+    },
+    {
+      "album": {
         "name": "GoGetter",
         "url": "https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J"
       },
@@ -33662,7 +33680,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 220560,
       "name": "Vera",
       "url": "https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175"

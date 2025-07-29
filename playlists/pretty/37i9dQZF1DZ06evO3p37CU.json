@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22307,
+  "num_followers": 22310,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAAmwAtNiG7dDUa6QTCq2J9",
+  "snapshot_id": "aIVsAAAAAADpbLkPripDcy9/61KRyAGs",
   "tracks": [
     {
       "added_at": null,
@@ -1007,30 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spilligion",
-        "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
-      },
-      "artists": [
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 290035,
-      "name": "Mecca (with JID & EARTHGANG)",
-      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bears Like This Too Much",
         "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 195800,
       "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spilligion",
+        "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
+      },
+      "artists": [
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 290035,
+      "name": "Mecca (with JID & EARTHGANG)",
+      "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
     },
     {
       "added_at": null,

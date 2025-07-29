@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,421 likes - 49 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,434 likes - 49 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 45 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
 | 46 | [Sigo na Fé do Pai](https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Bielzin](https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O) | [Sigo na Fé do Pai](https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ) | 4:24 |
 | 47 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
-| 48 | [Morena](https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Morena](https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp) | 2:41 |
-| 49 | [Fica à Vontade](https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Fica à Vontade](https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX) | 4:36 |
+| 48 | [Fica à Vontade](https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Fica à Vontade](https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX) | 4:36 |
+| 49 | [Morena](https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Morena](https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp) | 2:41 |
 
-Snapshot ID: `aIQagAAAAACF4ASOEp/ORh4NWPybbGEV`
+Snapshot ID: `aIVsAAAAAACGAz/zL6U2wr6tm+a4fJgq`

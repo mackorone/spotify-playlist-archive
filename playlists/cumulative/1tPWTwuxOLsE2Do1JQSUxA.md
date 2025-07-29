@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-398 songs - 1 day 0 hr 33 min
+399 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6 Inch \(feat\. The Weeknd\)](https://open.spotify.com/track/0pxNyJJiL2zZZ5GgJ4JhsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:20 | 2024-02-08 |  |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2025-01-31 |  |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2023-09-12 | 2023-11-10 |
+| [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2025-07-28 |  |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2023-09-12 |  |
 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 | 2024-08-08 |  |
 | [Ain't My Fault](https://open.spotify.com/track/2K9OuOMhtNGtbbqQhALv8i) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/3ciEcHv8axaPC5YHTJ72Bg) | 3:44 | 2021-03-06 | 2021-05-05 |

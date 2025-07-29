@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188288,
+      "name": "in_the_dark.ech",
+      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
+    },
+    {
+      "album": {
         "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
         "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
       },
@@ -918,7 +940,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 194987,
       "name": "parasite.ev3",
       "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,509 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,511 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 23 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 24 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 25 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
-| 26 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
-| 27 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
+| 26 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
+| 27 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 28 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 29 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 30 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 56 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 57 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 58 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
-| 59 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 |
-| 60 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
+| 59 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
+| 60 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 |
 | 61 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
 | 62 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 63 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 71 | [Nightmares on Repeat](https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 4:39 |
 | 72 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
 | 73 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
-| 74 | [Show Me Your Mind](https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Show Me Your Mind](https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM) | 3:33 |
-| 75 | [How Are You Feeling?](https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [How Are You Feeling?](https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc) | 4:29 |
-| 76 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
-| 77 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 74 | [How Are You Feeling?](https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [How Are You Feeling?](https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc) | 4:29 |
+| 75 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
+| 76 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 77 | [Show Me Your Mind](https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Show Me Your Mind](https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM) | 3:33 |
 | 78 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
 | 79 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 80 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 84 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 85 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 86 | [Heavens The Other Way](https://open.spotify.com/track/5kXFXFlahYrwQAWSQSxogc) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Heavens The Other Way](https://open.spotify.com/album/7A6smI1b6a8vZopTJJHon4) | 3:02 |
-| 87 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
-| 88 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 87 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 88 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 89 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
 | 90 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |
 | 91 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 |
 | 92 | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34) | 2:07 |
 | 93 | [Strange Comfort](https://open.spotify.com/track/5keFdzNhXXOzZ6pshLGJVY) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/1sOKriGM1stwLtJ7xSJOQb) | 4:08 |
-| 94 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 |
-| 95 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
+| 94 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
+| 95 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 |
 | 96 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
 | 97 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
-| 98 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
+| 98 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 |
 | 99 | [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 |
-| 100 | [ahhh](https://open.spotify.com/track/4viqaCQX1jMEDmTPKT1Bry) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [ahhh](https://open.spotify.com/album/29RF0bLY5JiHMZsOcMvfF2) | 3:04 |
+| 100 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
 
 Snapshot ID: `Z4BjFQAAAADdM4rLWVAoR/kY3VuoA4kb`

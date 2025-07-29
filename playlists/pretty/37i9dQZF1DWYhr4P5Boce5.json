@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 208485,
+  "num_followers": 208482,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "Scared to Love",
         "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 243146,
       "name": "Love In the Time of Madness",
       "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "If It Wasn't You",
         "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 186473,
       "name": "If It Wasn't You",
       "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
+      },
+      "artists": [
+        {
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Te Quiero Cerca",
-        "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
-      },
-      "artists": [
-        {
-          "name": "Harold y Elena",
-          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "Te Quiero Cerca",
-      "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Te Quiero Cerca",
+        "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Te Quiero Cerca",
+      "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Loving Me Like Jesus",
         "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1511,6 +1511,38 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "A Red, Red Rose",
+        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 203699,
+      "name": "A Red, Red Rose",
+      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1543,34 +1575,54 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "A Red, Red Rose",
-        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 203699,
-      "name": "A Red, Red Rose",
-      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 214142,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1595,38 +1647,18 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
+        "name": "Capuchino de Amor",
+        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+      "duration_ms": 298092,
+      "name": "Capuchino de Amor",
+      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1651,38 +1683,6 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "Capuchino de Amor",
-        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 298092,
-      "name": "Capuchino de Amor",
-      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 214142,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
     },
     {
       "added_at": "2025-02-14 09:50:05",

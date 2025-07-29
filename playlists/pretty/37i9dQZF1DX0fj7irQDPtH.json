@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 60682,
+  "num_followers": 60716,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Un alumno m\u00e1s",
-        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "La promesa",
-      "url": "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "Love and Sex",
         "url": "https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 220866,
       "name": "Choca",
       "url": "https://open.spotify.com/track/5E0gsHgrsCwG4FxTit0ltJ"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Un alumno m\u00e1s",
+        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "La promesa",
+      "url": "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Ojos Color Sol (feat. Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Ojos Color Sol (feat. Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Coraz\u00f3n En La Maleta",
-      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Coraz\u00f3n En La Maleta",
+      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
         "name": "Creo en Mi",
         "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "Un alumno m\u00e1s",
         "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 211586,
       "name": "Tocado y hundido",
       "url": "https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "MultiViral",
         "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 288746,
       "name": "El Aguante",
       "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
+        "name": "Huyendo conmigo de m\u00ed",
+        "url": "https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 292240,
+      "name": "Entre la espada y la pared",
+      "url": "https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
         "name": "Radio Universo",
         "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 269840,
       "name": "T\u00fa Me Quemas",
       "url": "https://open.spotify.com/track/1dnJrxNtaS0fCPRDooTqBM"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
-        "name": "Huyendo conmigo de m\u00ed",
-        "url": "https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 292240,
-      "name": "Entre la espada y la pared",
-      "url": "https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx"
     },
     {
       "added_at": "2024-07-13 01:11:49",

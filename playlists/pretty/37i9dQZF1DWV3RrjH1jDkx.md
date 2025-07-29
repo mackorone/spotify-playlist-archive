@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Sam Smith!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,084 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,082 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

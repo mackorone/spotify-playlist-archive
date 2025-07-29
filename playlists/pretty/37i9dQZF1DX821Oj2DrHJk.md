@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,118 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,126 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 29 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
 | 30 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 31 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
-| 32 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
-| 33 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 34 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
-| 35 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
+| 32 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
+| 33 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
+| 34 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
+| 35 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
 | 36 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 37 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
 | 38 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 88 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
 | 89 | [Time \- 2011 Remastered Version](https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH) | 7:02 |
 | 90 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 |
-| 91 | [Over the Hills and Far Away \- 1990 Remaster](https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:49 |
+| 91 | [D'yer Mak'er \- 1990 Remaster](https://open.spotify.com/track/6UCb3me83cyCV19sjvucte) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:21 |
 | 92 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
 | 93 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 |
-| 94 | [Lola \- Remastered](https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround / Percy](https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK) | 4:02 |
-| 95 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
-| 96 | [D'yer Mak'er \- 1990 Remaster](https://open.spotify.com/track/6UCb3me83cyCV19sjvucte) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:21 |
+| 94 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
+| 95 | [Lola \- Remastered](https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround / Percy](https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK) | 4:02 |
+| 96 | [Over the Hills and Far Away \- 1990 Remaster](https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:49 |
 | 97 | [Substitute](https://open.spotify.com/track/5po2HCMZvJ0aPSxRRGKm3p) | [Clout](https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P) | [Since We've Been Gone](https://open.spotify.com/album/7zRC8iLx8ixniN0rfJwdzc) | 3:29 |
 | 98 | [Davy's on the Road Again](https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [Watch](https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS) | 5:54 |
-| 99 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
-| 100 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
+| 99 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
+| 100 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
 
 Snapshot ID: `ZpFDWwAAAAAzllIo6XzgX2Tgc/Qb4GPd`

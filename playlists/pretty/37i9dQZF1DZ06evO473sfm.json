@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 504076,
+  "num_followers": 504402,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACtoSRMp2hjEvjBDQk1BAXJ",
+  "snapshot_id": "aIVsAAAAAABsIODUrKdec/TdAjqtmu2d",
   "tracks": [
     {
       "added_at": null,
@@ -874,15 +874,11 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": null,
@@ -946,11 +942,15 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": null,

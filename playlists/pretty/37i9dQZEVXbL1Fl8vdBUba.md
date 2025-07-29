@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,046 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,062 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 50 | [UWAIE](https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:52 |
 
-Snapshot ID: `MBmdKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

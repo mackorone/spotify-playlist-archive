@@ -8869,6 +8869,24 @@
     },
     {
       "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "I WANT IT",
+      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
+    },
+    {
+      "album": {
         "name": "Black & White",
         "url": "https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw"
       },
@@ -13422,7 +13440,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 154003,
       "name": "Phase Me",
       "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
@@ -15543,6 +15561,24 @@
     },
     {
       "album": {
+        "name": "SLAM DUNK",
+        "url": "https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "SLAM DUNK",
+      "url": "https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -15684,7 +15720,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 212264,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"

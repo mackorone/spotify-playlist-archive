@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-404 songs - 1 day 0 hr 48 min
+407 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Always Some MF](https://open.spotify.com/track/1DPycGNFfBveTyk51nG9VG) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Always Some MF](https://open.spotify.com/album/7kySkdJL5cB48aMcxNdEIc) | 4:38 | 2025-02-27 | 2025-03-21 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-21 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-02 | 2023-03-16 |
-| [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 | 2025-05-08 |  |
+| [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 | 2025-05-08 | 2025-07-29 |
 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2023-03-27 |  |
 | [Annie](https://open.spotify.com/track/4tP7vMg09BCDN8P2oYVIc1) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Annie](https://open.spotify.com/album/6IyR77CjaJxhJt5vrOvM0W) | 2:40 | 2024-05-13 | 2025-01-24 |
 | [Another Woman](https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Another Woman](https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0) | 4:24 | 2025-05-02 | 2025-07-20 |
@@ -121,6 +121,7 @@
 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 | 2022-11-25 | 2023-07-28 |
 | [Farrah Fawcett Hair \(Predux\)](https://open.spotify.com/track/7bwHcXxoHlYEeKsRDNwIWK) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [A Hurricane of Frowns](https://open.spotify.com/album/4pmemiBDvulNrlzF7YEq6W) | 3:12 | 2025-02-14 | 2025-02-28 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-11-25 |  |
+| [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-25 |  |
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-08 | 2024-03-28 |
 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-02-15 | 2024-07-27 |
 | [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 | 2024-04-15 | 2025-01-24 |
@@ -160,6 +161,7 @@
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-21 | 2023-03-26 |
 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 | 2023-02-21 | 2023-08-01 |
 | [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 |  |
+| [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 |  |
 | [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-11-25 | 2023-03-18 |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 |  |
 | [Horizons Into Battlegrounds](https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Horizons Into Battlegrounds](https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w) | 3:41 | 2024-05-23 | 2025-01-24 |
@@ -289,6 +291,7 @@
 | [Poison & Wine](https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:39 | 2024-04-15 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2022-11-25 | 2023-01-28 |
 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2022-11-25 | 2023-11-25 |
+| [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 | 2025-07-25 |  |
 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 | 2022-11-25 | 2024-04-19 |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-27 | 2023-11-21 |
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-27 | 2023-05-13 |
@@ -380,7 +383,7 @@
 | [Tomorrow](https://open.spotify.com/track/2y70NzSl4qa67ZQjf1zlyQ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Tomorrow](https://open.spotify.com/album/72Kj0KxXZBEobZAA3EIIZi) | 4:43 | 2023-11-27 | 2023-12-30 |
 | [Too Much](https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Take A Rest](https://open.spotify.com/album/3Zvzi22zGjr2oql67k8TgK) | 2:34 | 2022-11-25 | 2023-02-22 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-14 | 2025-04-04 |
-| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 |  |
+| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 | 2025-07-29 |
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 |  |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-11-25 | 2023-01-10 |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2024-04-15 | 2025-01-24 |
@@ -411,6 +414,6 @@
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 |  |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-11-25 | 2024-04-19 |
 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
-| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 |  |
+| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 | 2025-07-29 |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

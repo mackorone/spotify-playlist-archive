@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 03'
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,952 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,959 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 23 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 24 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
 | 25 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
-| 26 | [I Luv Your Girl](https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:27 |
-| 27 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine, Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 26 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine, Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 27 | [I Luv Your Girl](https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:27 |
 | 28 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 29 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
 | 30 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 45 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 46 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 47 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
-| 48 | [Freakum Dress](https://open.spotify.com/track/3IAyQMTYOsspp9p1htFSak) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:20 |
-| 49 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
+| 48 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
+| 49 | [Freakum Dress](https://open.spotify.com/track/3IAyQMTYOsspp9p1htFSak) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:20 |
 | 50 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 |
 
 Snapshot ID: `ZI+0zAAAAACu03NEjTTU2cPEqzHWrSE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: CèJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,362 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,418 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 49 | [Live \- Remix](https://open.spotify.com/track/3bq3mcuxftf3obf40477kK) | [Pierre Medor](https://open.spotify.com/artist/5Ryi9Ymj30IE4LRUuyXY7c), [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn), [RL](https://open.spotify.com/artist/478cXiaFIWP2p3WLk3Zlge), [Crystal Nicole](https://open.spotify.com/artist/364Dr4NZu27f3AzS79o1SN), [The Story Collective](https://open.spotify.com/artist/5uFhpFQzMphjdlFpujh8rS) | [Live \(Remix\)](https://open.spotify.com/album/5rLLy8D52uENYaiSAGdfHN) | 4:08 |
 | 50 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 |
 | 51 | [My Life](https://open.spotify.com/track/0wlFF6WiMHkJtkYRpvMD2z) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [My Life](https://open.spotify.com/album/5A9SC4bt3KbzOIa0qjC9AI) | 2:37 |
-| 52 | [DEAR GOD](https://open.spotify.com/track/0mphugFt8NbXiNrBapXQaO) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Raymah](https://open.spotify.com/artist/6s251uzHtUOVdp9MrX9clz), [Sapphire](https://open.spotify.com/artist/5rPU4fnKinOLvEMrr2NeMs), ['Alisi](https://open.spotify.com/artist/6i21nZIWakQVBdP4CjepBh), [Aufuatō](https://open.spotify.com/artist/7k7SmDhEbcyBD4na5iDQ6T) | [DEAR GOD \(Intro\)](https://open.spotify.com/album/0ji7yVQJdFG7rJ7v0tjnxR) | 2:51 |
+| 52 | [DEAR GOD](https://open.spotify.com/track/0mphugFt8NbXiNrBapXQaO) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Raymah](https://open.spotify.com/artist/6s251uzHtUOVdp9MrX9clz), [Sapphire](https://open.spotify.com/artist/5rPU4fnKinOLvEMrr2NeMs), [&\#39;Alisi](https://open.spotify.com/artist/74J3aF8tffTPUgxmdqvvin), [Aufuatō](https://open.spotify.com/artist/7k7SmDhEbcyBD4na5iDQ6T) | [DEAR GOD \(Intro\)](https://open.spotify.com/album/0ji7yVQJdFG7rJ7v0tjnxR) | 2:51 |
 | 53 | [Profit](https://open.spotify.com/track/3xpylfm4KyYvhx4Pozmsrs) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [Profit](https://open.spotify.com/album/05JjgimOduvOHc4icOBh0v) | 3:22 |
 | 54 | [Angels](https://open.spotify.com/track/3gzJ2Ed3ocae1d7zcRIv5o) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Angels](https://open.spotify.com/album/3q3QMpk5tutCVaFNgBnpGr) | 2:42 |
 | 55 | [Say Something](https://open.spotify.com/track/5WYLlY6IunNiY0Us66HKc6) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Say Something](https://open.spotify.com/album/6EpkfJ5OXJunpbPwFHQHTv) | 2:09 |

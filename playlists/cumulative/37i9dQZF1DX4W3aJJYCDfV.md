@@ -2,7 +2,7 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Tyler The Creator, Tame Impala, CMAT and more!
+> Brand new music from Tyler, The Creator, Tame Impala, CMAT and more!
 
 17,447 songs - 39 day 6 hr 50 min
 

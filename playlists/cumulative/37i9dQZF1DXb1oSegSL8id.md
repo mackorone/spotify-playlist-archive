@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-135 songs - 7 hr 13 min
+136 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 | 2023-01-03 |  |
 | [Beijo Doce / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Beijo Doce / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk) | 3:11 | 2023-11-17 | 2025-02-18 |
 | [Buzina \- Ao Vivo](https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:42 | 2023-11-17 |  |
+| [Bye Bye \- Ao Vivo](https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:46 | 2024-07-09 |  |
 | [Cachorrinho \(feat\. Tierry\) \- Ao Vivo](https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Ferrugem em Casa 2 \(Bloco 2\) \[Ao Vivo\]](https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7) | 3:55 | 2024-07-09 | 2025-07-08 |
 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 | 2023-01-03 |  |
 | [Carona do Amor / Shortinho Saint\-Tropez / Novos Tempos](https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 6:21 | 2023-01-03 |  |
@@ -115,7 +116,7 @@
 | [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 | 2023-11-17 | 2024-12-23 |
 | [Saideira \- Ao Vivo](https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 2:58 | 2023-11-17 |  |
 | [Saudade do Caramba \- Ao Vivo](https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:53 | 2024-07-09 |  |
-| [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-11-17 |  |
+| [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-11-17 | 2025-07-29 |
 | [SEU DOUTOR \- Ao Vivo](https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:53 | 2023-11-17 |  |
 | [Show Fechou](https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Show Fechou](https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4) | 2:45 | 2023-01-03 | 2025-07-10 |
 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/4u3mOBkii7dpaOJSqINOkK) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [DRIVE\-IN \(Ao Vivo\)](https://open.spotify.com/album/26nlhdnX6l3YlJoNqgoUGv) | 2:54 | 2023-01-03 |  |

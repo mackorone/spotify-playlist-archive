@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,983 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,259 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 25 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
 | 26 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 27 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
-| 28 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 |
-| 29 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
+| 28 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
+| 29 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 |
 | 30 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 31 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 32 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 47 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 48 | [Girls Need Love](https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 2:20 |
 | 49 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
-| 50 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
+| 50 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
 
 Snapshot ID: `aIMBZgAAAADiQfCKseh6JvFtD1g5//9K`

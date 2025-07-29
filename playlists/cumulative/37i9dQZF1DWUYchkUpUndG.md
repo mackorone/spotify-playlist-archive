@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Sunmisola Agbebi and Ada Ehi
 
-5,812 songs - 17 day 15 hr 36 min
+5,813 songs - 17 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4281,6 +4281,7 @@
 | [Refine Me](https://open.spotify.com/track/4WUliKC5cjJCFBxryBovip) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn) | [Refine Me](https://open.spotify.com/album/1mxg4nnwHYyZ5x2GxVvTAa) | 1:59 | 2024-01-12 | 2024-01-26 |
 | [Reflections](https://open.spotify.com/track/3mEN18c24V0dmuZ9Rf2TAM) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Reflections](https://open.spotify.com/album/1yR6dI1NBHLZX3Tp9CyLOD) | 3:16 | 2024-09-27 | 2024-10-11 |
 | [Reflections \(Solo Version\)](https://open.spotify.com/track/1bwP8t93GjXdtZIP3P4nku) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Reflections \(Solo Version\)](https://open.spotify.com/album/3LXDaAXdjlvybyhN8KLR9D) | 3:33 | 2024-10-11 | 2024-10-25 |
+| [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 |  |
 | [Refuge](https://open.spotify.com/track/4DoCZpVOW4VHfS1N92kXdg) | [Dabo Williams](https://open.spotify.com/artist/2b1gzVa6dmkHEXKPCLOCHY), [Nahi](https://open.spotify.com/artist/06ZTTQBN8ckvKzhMS3GWNe) | [Refuge](https://open.spotify.com/album/3qk1ghSOvH9OxEo5fPapQC) | 2:55 | 2024-09-13 | 2024-09-27 |
 | [Refuge](https://open.spotify.com/track/0XgwyHubW1bkFlIc9xItR0) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Refuge](https://open.spotify.com/album/2NZ39Qei2PPavJYHuRedJf) | 2:37 | 2024-08-30 | 2024-09-14 |
 | [Refuge](https://open.spotify.com/track/1utWZy9fROmJeavrwBDF9Y) | [Pere Evans](https://open.spotify.com/artist/2gVGWWPocKytYZGKc3MEtt) | [Refuge](https://open.spotify.com/album/3A8kwmDhWMoPrjXYfuO6Pj) | 3:01 | 2023-06-23 | 2023-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,033 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,118 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 13 | [Alegría](https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:45 |
 | 14 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 |
 | 15 | [Exclusive.mp3](https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:00 |
-| 16 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
-| 17 | [Uno los Dos](https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:35 |
+| 16 | [Uno los Dos](https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:35 |
+| 17 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 18 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 19 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
 | 20 | [como si no importara](https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:53 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 45 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
 | 46 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
 
-Snapshot ID: `aIQagAAAAACE2w9Z0bL8aDT5UeQiQejC`
+Snapshot ID: `aIVsAAAAAABuWQJUFGdcK1EQnqC8txsL`

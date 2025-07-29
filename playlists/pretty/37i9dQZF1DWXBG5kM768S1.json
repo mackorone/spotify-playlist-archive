@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79520,
+  "num_followers": 79530,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+      },
+      "artists": [
+        {
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
-      },
-      "artists": [
-        {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
+        "name": "Til deg (Single Version)",
+        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+      },
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Til deg - Single Version",
+      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
-        "name": "Til deg (Single Version)",
-        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
-      },
-      "artists": [
-        {
-          "name": "Marthe Wang",
-          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Til deg - Single Version",
-      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 187600,
       "name": "Varherres Klinkekuler",
       "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
+        "name": "De aller beste fra Tre sm\u00e5 kinesere",
+        "url": "https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx"
+      },
+      "artists": [
+        {
+          "name": "Tre Sm\u00e5 Kinesere",
+          "url": "https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "D\u00f8rstokkmila",
+      "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
-        "name": "De aller beste fra Tre sm\u00e5 kinesere",
-        "url": "https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx"
-      },
-      "artists": [
-        {
-          "name": "Tre Sm\u00e5 Kinesere",
-          "url": "https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "D\u00f8rstokkmila",
-      "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"
     },
     {
       "added_at": "2025-07-24 22:00:32",

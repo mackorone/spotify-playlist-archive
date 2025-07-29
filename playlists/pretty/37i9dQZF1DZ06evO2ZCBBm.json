@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 48020,
+  "num_followers": 48025,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADLbXyVtZG6RQUBrn3w79ej",
+  "snapshot_id": "aIVsAAAAAAC2UD75EE6JWRaJuwPTrjsd",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Kissing You Goodbye",
-      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shallow Believer",
         "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 120640,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork (Deluxe)",
         "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184286,
       "name": "River Stay",
       "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
     },
     {
       "added_at": null,

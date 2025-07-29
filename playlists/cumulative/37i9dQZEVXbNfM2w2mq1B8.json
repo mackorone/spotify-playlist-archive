@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 161086,
       "name": "088",
       "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 219545,
       "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -24020,7 +24020,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 156019,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/36UkdnNAjc21ZoBJMp2EA6"
@@ -24238,7 +24238,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -26282,7 +26282,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -35868,7 +35868,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
@@ -37546,7 +37546,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 198139,
       "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
       "url": "https://open.spotify.com/track/2TKc0nGOVXS2ECxQGAMsZd"
@@ -39969,6 +39969,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
+        "url": "https://open.spotify.com/album/6o8NqpmemMBy0tqLnyZZQ3"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
+      "url": "https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW"
+    },
+    {
+      "album": {
         "name": "\u041c\u0430\u043d\u0438\u044f",
         "url": "https://open.spotify.com/album/6mUcW1LGZSlvK9Fcbxh73B"
       },
@@ -40482,7 +40500,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 163448,
       "name": "\u041d\u0430\u043b\u0435\u0439",
       "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
@@ -40538,7 +40556,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
@@ -42026,7 +42044,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
       "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
@@ -43326,7 +43344,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 217245,
       "name": "\u0429\u043e\u0442\u043e \u0435 \u043c\u0430\u0439\u043c\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/1o0qlusiY9LdkWtPxgybVs"

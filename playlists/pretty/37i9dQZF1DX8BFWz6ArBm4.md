@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Panos Kiamos
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,056 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,061 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 16 | [Olethria Sxesi](https://open.spotify.com/track/2AH486DE2L37HT7kU4VGbe) | [Giannis Ploutarhos](https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD) | [Olethria Sxesi](https://open.spotify.com/album/3KzhjjBhH4XL5KYUrbuUDI) | 3:31 |
 | 17 | [Pame Stous Dikous Sou](https://open.spotify.com/track/3k42h1qfDwySyhyre1uUec) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk) | [Pame Stous Dikous Sou](https://open.spotify.com/album/1AbTp2jC18RKm7rugdJ6xz) | 3:00 |
 | 18 | [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 |
-| 19 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
+| 19 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |
 | 20 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
-| 21 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |
+| 21 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
 | 22 | [Isitirio Ena](https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Isitirio Ena](https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11) | 3:43 |
 | 23 | [Me 'Geia Sou](https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Me 'Geia Sou](https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l) | 3:42 |
 | 24 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 43 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 44 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
 | 45 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 |
-| 46 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
-| 47 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
+| 46 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
+| 47 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
 | 48 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |
 | 49 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 |
 | 50 | [Tha Grapsoume Istoria](https://open.spotify.com/track/01Yi1adIapW3den379xnF4) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/25BZDyu2Ui8GqEzWCB6EMa) | 3:06 |

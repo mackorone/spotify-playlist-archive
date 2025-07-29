@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71413,
+  "num_followers": 71420,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Living Memories",
-        "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
-      },
-      "artists": [
-        {
-          "name": "Leon White",
-          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
-        }
-      ],
-      "duration_ms": 185188,
-      "name": "White Light",
-      "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "Young and Foolish",
         "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 138823,
       "name": "Never Blame The Young Ones",
       "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Living Memories",
+        "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
+      },
+      "artists": [
+        {
+          "name": "Leon White",
+          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
+        }
+      ],
+      "duration_ms": 185188,
+      "name": "White Light",
+      "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "As The Years Go By",
-        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "Before last month",
         "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "As The Years Go By",
+        "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+        "name": "Bluesette",
+        "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
       },
       "artists": [
         {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
         }
       ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+      "duration_ms": 167140,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -379,34 +379,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Beautiful Love",
-        "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
       "artists": [
         {
-          "name": "Jacques Liti",
-          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
         }
       ],
-      "duration_ms": 178016,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
-        "name": "Bluesette",
-        "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
-      },
-      "artists": [
-        {
-          "name": "Jeannie Purdue",
-          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
-        }
-      ],
-      "duration_ms": 167140,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -443,22 +427,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Tr\u00e4umerei",
-        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rg Sorensen",
-          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "In Love In Vain",
         "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 174239,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rg Sorensen",
+          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -539,22 +523,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
-      },
-      "artists": [
-        {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Afterhours",
-      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
       },
@@ -619,24 +587,24 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Piano Hits Chill",
-        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
+        "name": "Beautiful Love",
+        "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
       },
       "artists": [
         {
-          "name": "Ronald Emery",
-          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
+          "name": "Jacques Liti",
+          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Say You Wont Let Go",
-      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+      "duration_ms": 178016,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu"
     },
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Almost Like Being In Love",
-        "url": "https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB"
+        "name": "All The Things You Are",
+        "url": "https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
         }
       ],
-      "duration_ms": 216476,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo"
+      "duration_ms": 174938,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -683,6 +651,22 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
+        "name": "Piano Hits Chill",
+        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
+      },
+      "artists": [
+        {
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Say You Wont Let Go",
+      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 221093,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -731,34 +699,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
       "artists": [
         {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
         }
       ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
-        "name": "All The Things You Are",
-        "url": "https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU"
-      },
-      "artists": [
-        {
-          "name": "William Adams",
-          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
-        }
-      ],
-      "duration_ms": 174938,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU"
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -779,34 +731,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "The Music Of The Night",
-        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
       "artists": [
         {
-          "name": "Niila Alto",
-          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
         }
       ],
-      "duration_ms": 269000,
-      "name": "The Music Of The Night",
-      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
+      "duration_ms": 178000,
+      "name": "Afterhours",
+      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -827,18 +763,50 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
       },
       "artists": [
         {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
         }
       ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "The Music Of The Night",
+        "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
+      },
+      "artists": [
+        {
+          "name": "Niila Alto",
+          "url": "https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "The Music Of The Night",
+      "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -855,6 +823,22 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+        }
+      ],
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -887,6 +871,22 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Almost Like Being In Love",
+        "url": "https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB"
+      },
+      "artists": [
+        {
+          "name": "William Adams",
+          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
       "artists": [
         {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1015,6 +999,22 @@
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Variante Alta",
-        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
-      },
-      "artists": [
-        {
-          "name": "Flavio Apicella",
-          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "Variante Alta",
-      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "Nostalgia.",
         "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 104199,
       "name": "Nostalgia.",
       "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Variante Alta",
+        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
+      },
+      "artists": [
+        {
+          "name": "Flavio Apicella",
+          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
+        }
+      ],
+      "duration_ms": 232934,
+      "name": "Variante Alta",
+      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Maybe under some other sky",
-        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
-      },
-      "artists": [
-        {
-          "name": "Shaunta Coburn",
-          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Maybe under some other sky",
-      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
+        "name": "Maybe under some other sky",
+        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
+      },
+      "artists": [
+        {
+          "name": "Shaunta Coburn",
+          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Maybe under some other sky",
+      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "\u00c8 ora di dormire",
-        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
       "artists": [
         {
-          "name": "Scintillante",
-          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
         }
       ],
-      "duration_ms": 179000,
-      "name": "\u00c8 ora di dormire",
-      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+        "name": "\u00c8 ora di dormire",
+        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
       "artists": [
         {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+          "name": "Scintillante",
+          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
         }
       ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
-    },
-    {
-      "added_at": "2025-07-27 23:06:11",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
+      "duration_ms": 179000,
+      "name": "\u00c8 ora di dormire",
+      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
     },
     {
       "added_at": "2025-07-27 23:06:11",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
+    },
+    {
+      "added_at": "2025-07-27 23:06:11",
+      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-07-27 23:06:11",
       "album": {
-        "name": "When Sunny Gets Blue",
-        "url": "https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC"
+        "name": "I See the Light - From \"Tangled\"",
+        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
       "artists": [
         {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+          "name": "Gregory Bevill",
+          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
         }
       ],
-      "duration_ms": 243472,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a"
+      "duration_ms": 200812,
+      "name": "I See the Light - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

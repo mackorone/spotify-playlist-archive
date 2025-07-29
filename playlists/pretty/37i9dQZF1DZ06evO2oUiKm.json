@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10074,
+  "num_followers": 10075,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAATAZqGQP0nXEb8abShiSmw",
+  "snapshot_id": "aIVsAAAAAACQLjKAMfxw/qIsEQMEPbvO",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 284751,
-      "name": "Anything Worth Holding On To",
-      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
+      "duration_ms": 46367,
+      "name": "The Wizard And I - Commentary",
+      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: The Soundtrack (Commentary)",
-        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 46367,
-      "name": "The Wizard And I - Commentary",
-      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
+      "duration_ms": 284751,
+      "name": "Anything Worth Holding On To",
+      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together (Soundtrack from Year in Search)",
         "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     },
     {
       "added_at": null,

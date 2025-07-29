@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,016 songs - 2 day 3 hr 41 min
+1,018 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2024-09-13 |
 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 | 2025-04-24 | 2025-05-23 |
 | [Nora Helmer](https://open.spotify.com/track/73xF8SpOzfvJG1Spf9rNiY) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [YOUNG GIRL DISAPPEARED VOL\. 1](https://open.spotify.com/album/57BkENCzmNoJHWuD3iPxRF) | 3:35 | 2025-02-13 | 2025-03-21 |
+| [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/track/3sScQoU8Ak03HNpwU5EQpx) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/album/5LxzOjxSKOHTXsIPltxaRZ) | 4:39 | 2025-07-28 |  |
 | [Norrsken](https://open.spotify.com/track/1J3X7i5AvFWvUUCtWfQawm) | [William Stridh](https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR) | [Norrsken](https://open.spotify.com/album/3bkbewifuQqK2ZeptIns1U) | 2:56 | 2024-12-12 | 2025-01-31 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-04-04 |
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 |  |
@@ -824,6 +825,7 @@
 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-10-31 | 2025-01-10 |
 | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Storstadsångest \(jag behöver dig Sabrina\)](https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3) | 2:52 | 2025-05-22 | 2025-06-27 |
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-03-13 | 2025-04-18 |
+| [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 | 2025-07-28 |  |
 | [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-10 | 2024-11-23 |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 |  |
 | [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 | 2025-05-22 | 2025-07-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 74331,
+  "num_followers": 74336,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADUr+yf/ysgsKfIYrvFCAaN",
+  "snapshot_id": "aIVsAAAAAAAVbvnOhN+UaFj4N7GzoVYr",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 198062,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 198062,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 192064,
-      "name": "Todo Lo Fue",
-      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
     },
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Que Nos Toco",
-        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180676,
-      "name": "La Vida Que Nos Toco",
-      "url": "https://open.spotify.com/track/67VxfuanwY80y1BV4rmOqq"
+      "duration_ms": 167439,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 167439,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
+      "duration_ms": 180676,
+      "name": "La Vida Que Nos Toco",
+      "url": "https://open.spotify.com/track/67VxfuanwY80y1BV4rmOqq"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24/7 Dolido",
+        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voy A Levantarme",
         "url": "https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 170987,
       "name": "Hoy Toca Llorar",
       "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24/7 Dolido",
-        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": null,

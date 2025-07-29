@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1330751,
+  "num_followers": 1331214,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
-      },
-      "artists": [
-        {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
-        }
-      ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Greatest Hits / Tequila",
         "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 135240,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Up-Tight",
-        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sugar, Sugar",
         "url": "https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 169626,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Up-Tight",
+        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -2131,18 +2115,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Everlasting: The Best Of Carl Carlton",
-        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
       "artists": [
         {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2159,6 +2143,22 @@
       "duration_ms": 151706,
       "name": "Perhaps, Perhaps, Perhaps",
       "url": "https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Everlasting: The Best Of Carl Carlton",
+        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 167413,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Best Of The Surfaris",
+        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Wipe Out - Hit Version / Extended Ending",
+      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Best Of The Surfaris",
-        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
-      },
-      "artists": [
-        {
-          "name": "The Surfaris",
-          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Wipe Out - Hit Version / Extended Ending",
-      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
     },
     {
       "added_at": "2024-07-12 06:11:58",

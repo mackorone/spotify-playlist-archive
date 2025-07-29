@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36930,
+  "num_followers": 36956,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABRYN/mjywDEa725TL0pZug",
+  "snapshot_id": "aIVsAAAAAAD9yJcFJx8TTkCHElwXWd5h",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C3",
-        "url": "https://open.spotify.com/album/43dGPsOTtISEn742j6BEqH"
-      },
-      "artists": [
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 187354,
-      "name": "Don't Wanna Leave (feat. Mulatto)",
-      "url": "https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C3",
+        "url": "https://open.spotify.com/album/43dGPsOTtISEn742j6BEqH"
+      },
+      "artists": [
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 187354,
+      "name": "Don't Wanna Leave (feat. Mulatto)",
+      "url": "https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY"
     },
     {
       "added_at": null,

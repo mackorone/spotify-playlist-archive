@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 214008,
+  "num_followers": 214013,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 156035,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
-        "name": "Bender",
-        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 139975,
-      "name": "Bender",
-      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+      "duration_ms": 183813,
+      "name": "Memoarer",
+      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Gode Tider (feat. Streetboys)",
-        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
-      },
-      "artists": [
-        {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
-        },
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Gode Tider (feat. Streetboys)",
-      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "Da Vi M\u00f8tte Fanden",
         "url": "https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 147125,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "Gode Tider (feat. Streetboys)",
+        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        },
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Gode Tider (feat. Streetboys)",
+      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
     },
     {
       "added_at": "2025-07-24 22:00:33",

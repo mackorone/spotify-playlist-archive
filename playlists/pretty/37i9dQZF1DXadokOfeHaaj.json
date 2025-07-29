@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fcukers",
-  "num_followers": 37132,
+  "num_followers": 37139,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Back Of My Mind",
-        "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
+        "name": "Turn Up The Love",
+        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
         }
       ],
-      "duration_ms": 266505,
-      "name": "Back Of My Mind",
-      "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
+      "duration_ms": 186728,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -291,22 +295,18 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Turn Up The Love",
-        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+        "name": "Back Of My Mind",
+        "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
       },
       "artists": [
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 186728,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+      "duration_ms": 266505,
+      "name": "Back Of My Mind",
+      "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -539,6 +539,26 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 207587,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -687,32 +703,40 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+        "name": "Show the Way",
+        "url": "https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
         }
       ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+      "duration_ms": 261120,
+      "name": "Show the Way",
+      "url": "https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy"
     },
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
       },
       "artists": [
         {
@@ -720,29 +744,25 @@
           "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 207587,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
     },
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Seint Monet",
-          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 222814,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -767,118 +787,26 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Show the Way",
-        "url": "https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Show the Way",
-      "url": "https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Hey Hi Hello",
-        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Hey Hi Hello",
-      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         },
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -903,6 +831,42 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "Hey Hi Hello",
+        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Hey Hi Hello",
+      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Seint Monet",
+          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
+        }
+      ],
+      "duration_ms": 222814,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "Time In The Sun",
         "url": "https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ"
       },
@@ -919,6 +883,58 @@
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -947,18 +963,18 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+      "duration_ms": 175748,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1031,22 +1047,6 @@
       "duration_ms": 198349,
       "name": "pacifico",
       "url": "https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "From The Stars EP",
-        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "From The Stars",
-      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "It Feels Much Better",
+      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
       },
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+        "name": "Canela Pura",
+        "url": "https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 181921,
-      "name": "It Feels Much Better",
-      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+      "duration_ms": 180845,
+      "name": "Canela Pura",
+      "url": "https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1255,22 +1271,6 @@
       "duration_ms": 144760,
       "name": "JUST FRIENDS",
       "url": "https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "Canela Pura",
-        "url": "https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Canela Pura",
-      "url": "https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi"
     },
     {
       "added_at": "2025-07-24 23:00:30",

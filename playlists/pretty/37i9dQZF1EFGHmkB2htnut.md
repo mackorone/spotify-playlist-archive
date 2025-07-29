@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 65 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
 | 66 | [Dream About Me](https://open.spotify.com/track/00BZXsteCnYMruwTd6SA7k) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Helium](https://open.spotify.com/album/6cxtD6ptyhmRvy2ILNeSdz) | 2:32 |
 | 67 | [Fear & Intuition](https://open.spotify.com/track/6JBe0jbElDuI62Cbb0JOJm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 2:54 |
-| 68 | [Lost On Me \- Reimagined](https://open.spotify.com/track/783P4OcjGqWZ19UzbwM9pc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again \(Reimagined\)](https://open.spotify.com/album/1mxmhMl4c0XkNuLABh3KPR) | 3:28 |
-| 69 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
-| 70 | [Cinnamon Gum](https://open.spotify.com/track/5Dqhb9TOkEBdRADNetgv2T) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Cinnamon Gum](https://open.spotify.com/album/3x5qcLgLcSZlJK4V5AjFWu) | 4:05 |
-| 71 | [Postcards to Heaven](https://open.spotify.com/track/6zv9yLZ7GFhBgsHR2Wn1k6) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/2nx7dD2ms6PUL6KAIwqVdW) | 2:55 |
+| 68 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
+| 69 | [Lost On Me \- Reimagined](https://open.spotify.com/track/783P4OcjGqWZ19UzbwM9pc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again \(Reimagined\)](https://open.spotify.com/album/1mxmhMl4c0XkNuLABh3KPR) | 3:28 |
+| 70 | [Postcards to Heaven](https://open.spotify.com/track/6zv9yLZ7GFhBgsHR2Wn1k6) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/2nx7dD2ms6PUL6KAIwqVdW) | 2:55 |
+| 71 | [Cinnamon Gum](https://open.spotify.com/track/5Dqhb9TOkEBdRADNetgv2T) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Cinnamon Gum](https://open.spotify.com/album/3x5qcLgLcSZlJK4V5AjFWu) | 4:05 |
 | 72 | [Nobody Knows](https://open.spotify.com/track/2sRdufRNFYl0OgJZalWQBA) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:25 |
 | 73 | [Lose Myself](https://open.spotify.com/track/0yHLfDvA1XMGsQ8eguh6g7) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:27 |
 | 74 | [Pleasure & Pain](https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:01 |
-| 75 | [Scandal](https://open.spotify.com/track/7LsPuD72lqQeydaIRQ1TJb) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Scandal \(Piano Version\)](https://open.spotify.com/album/0BBBS0F20Nn2KvqHALL7Z6) | 3:42 |
-| 76 | [Secondhand Smoke](https://open.spotify.com/track/2XQ57RwHA0gWn4MzFvxUHe) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ) | 3:08 |
+| 75 | [Secondhand Smoke](https://open.spotify.com/track/2XQ57RwHA0gWn4MzFvxUHe) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ) | 3:08 |
+| 76 | [Scandal](https://open.spotify.com/track/7LsPuD72lqQeydaIRQ1TJb) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Scandal \(Piano Version\)](https://open.spotify.com/album/0BBBS0F20Nn2KvqHALL7Z6) | 3:42 |
 | 77 | [Revenge](https://open.spotify.com/track/3RxfooaHT4gwpZrbI71BrS) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:21 |
 | 78 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 |
 | 79 | [Space](https://open.spotify.com/track/4on6Xseo0OdXhSsgIW7q6W) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/4iHXcNSnljATcFMO1UiEDy) | 3:08 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 106 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 107 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab37hgAAAADNAhOYqP3W5AOPQhhSrRd4`
+Snapshot ID: `Ab4BHAAAAAAQQuNW52kr5TAhU9OW4w+g`

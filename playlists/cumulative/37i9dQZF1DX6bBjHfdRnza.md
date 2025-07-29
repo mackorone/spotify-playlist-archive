@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring David Jackson\.  Artwork by Rewina Beshue.
 
-3,026 songs - 8 day 7 hr 32 min
+3,027 songs - 8 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [\_on\_call\_](https://open.spotify.com/track/2wBTvKILsBVlMwlMlFsZUX) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [Mig & Dig](https://open.spotify.com/album/4nuQeOVeW0U40iANuGp8hJ) | 3:19 | 2024-11-13 | 2024-12-05 |
 | [A Bit Too Much](https://open.spotify.com/track/1ECYQUZqeB5Dn8kiJPTLcZ) | [Dila Vladuçak](https://open.spotify.com/artist/7D8ssM44NhVUyRpJyXDbzl), [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO) | [A Bit Too Much](https://open.spotify.com/album/6SiQrzKArzZCSMqcmrLWlS) | 3:17 | 2023-05-17 | 2023-06-08 |
 | [A Bun Dance](https://open.spotify.com/track/4MYwGX9KS0EfzCvqCFpiaR) | [Stump Valley](https://open.spotify.com/artist/3r4s2LNC0447RF4m953o95), [lRenee](https://open.spotify.com/artist/3TSNwu6eMQQTMShWRvgJR4) | [A Bun Dance](https://open.spotify.com/album/28CrxGTKfGvQ7mZClO12de) | 3:51 | 2024-01-31 | 2024-03-21 |
+| [A Culpa É Da Cachaça](https://open.spotify.com/track/2MgxCjL1sEUKMQwVlVAuur) | [Gustav](https://open.spotify.com/artist/2sIP89AL66SX8ApMyoHjJy), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [A Culpa É Da Cachaça](https://open.spotify.com/album/54GR9Vqw95ApOMB4DV5pe3) | 3:56 | 2025-07-28 |  |
 | [A Little Piece Of Home](https://open.spotify.com/track/4Me9Q1E4T1JzwOobE8sF6W) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [A Little Piece Of Home](https://open.spotify.com/album/0WNTxXuWRjsP4Z06cMqn4s) | 2:16 | 2022-05-11 | 2022-06-16 |
 | [A Little Shy](https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [A Little Shy](https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p) | 3:04 | 2023-04-26 | 2023-06-15 |
 | [A Pearl](https://open.spotify.com/track/7FqDoMtKPZczORaoLXUQ5S) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [A Pearl](https://open.spotify.com/album/0VYasiiPwc2RtIzj1Sqyfy) | 3:01 | 2021-09-01 | 2022-01-13 |
@@ -526,7 +527,7 @@
 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 | 2023-05-03 | 2023-06-01 |
 | [Cobalt](https://open.spotify.com/track/7GiAGL0ZkU8ZuGp7hWDWx6) | [hayamie](https://open.spotify.com/artist/7wCuzbp1izDP7eVX3CZFE9), [SKYTOPIA](https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM) | [Cobalt](https://open.spotify.com/album/5wOAaxXdKJ7xzpo6RFXt4L) | 3:33 | 2024-10-18 | 2024-12-05 |
 | [Coco Drum](https://open.spotify.com/track/0MTWz4d0YPCaYkLvfHh0Pn) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Coco Drum](https://open.spotify.com/album/1tT7taiEKrOrwSVdpXYe9l) | 4:28 | 2021-12-01 | 2022-01-13 |
-| [CODE!](https://open.spotify.com/track/0n6TqhzFOKGYDEyzAXS19k) | [Grindalf](https://open.spotify.com/artist/02nODUCTZk4gzZDriOItkH) | [CODE!](https://open.spotify.com/album/7yVgQM7fnPbBfzQlNF1ZKZ) | 3:08 | 2025-07-04 |  |
+| [CODE!](https://open.spotify.com/track/0n6TqhzFOKGYDEyzAXS19k) | [Grindalf](https://open.spotify.com/artist/02nODUCTZk4gzZDriOItkH) | [CODE!](https://open.spotify.com/album/7yVgQM7fnPbBfzQlNF1ZKZ) | 3:08 | 2025-07-04 | 2025-07-29 |
 | [Cohete](https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Cohete](https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1) | 3:31 | 2024-08-30 | 2024-10-12 |
 | [Cold](https://open.spotify.com/track/0hEu8UPEbuRgsyQGmPuBHQ) | [Druu](https://open.spotify.com/artist/4lusIEYtKWWxjZAOUuYDhz), [MiNDTRiX](https://open.spotify.com/artist/1e8QoqLWgTYpOEGAXdYtEr), [VIGIL](https://open.spotify.com/artist/5woKrwqEi876LodaTkTCi1) | [Cold](https://open.spotify.com/album/5b0TQ4LbxtAnnugsPlkDbE) | 2:51 | 2022-11-09 | 2022-12-01 |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-02-16 | 2022-04-08 |

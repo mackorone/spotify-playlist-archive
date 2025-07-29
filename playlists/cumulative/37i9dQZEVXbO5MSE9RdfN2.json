@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 380400,
       "name": "Black Sabbath - 2009 Remaster",
       "url": "https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 378226,
       "name": "Black Sabbath - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc"
@@ -5934,7 +5934,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Changes - 2009 Remaster",
       "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
@@ -5952,7 +5952,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -6321,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "Master of Reality",
+        "url": "https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315893,
+      "name": "Children of the Grave (2009 Remaster)",
+      "url": "https://open.spotify.com/track/0ElAcOj8tudMA6X6KZ7SMO"
+    },
+    {
+      "album": {
         "name": "Master of Reality (2014 Remaster)",
         "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
       },
@@ -6332,7 +6350,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 317206,
       "name": "Children of the Grave - 2014 Remaster",
       "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
@@ -9806,7 +9824,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 373866,
       "name": "Fairies Wear Boots - 2009 Remaster",
       "url": "https://open.spotify.com/track/0p9dEwFFw14hWTvS9v5NLU"
@@ -11148,7 +11166,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 227184,
       "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
       "url": "https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb"
@@ -16138,7 +16156,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 354213,
       "name": "Iron Man - 2009 Remaster",
       "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
@@ -16156,7 +16174,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -16762,7 +16780,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 372145,
       "name": "Jack the Stripper / Fairies Wear Boots - 2012 - Remaster",
       "url": "https://open.spotify.com/track/6EKrBVHDk20hwjYWGPQQlF"
@@ -24188,7 +24206,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -24206,7 +24224,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -24838,7 +24856,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 269240,
       "name": "Planet Caravan - 2009 Remaster",
       "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
@@ -24856,7 +24874,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -26933,6 +26951,24 @@
     },
     {
       "album": {
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "Sabbath Bloody Sabbath (2009 Remaster)",
+      "url": "https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5"
+    },
+    {
+      "album": {
         "name": "Sabbath Bloody Sabbath (2014 Remaster)",
         "url": "https://open.spotify.com/album/1qQ2ig3pvig30zVyXLzij8"
       },
@@ -26944,7 +26980,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 346637,
       "name": "Sabbath Bloody Sabbath - 2014 Remaster",
       "url": "https://open.spotify.com/track/2bku1YWarHpKlxVC2FB9dH"
@@ -30744,7 +30780,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 302933,
       "name": "Sweet Leaf (2009 Remaster)",
       "url": "https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6"
@@ -30762,7 +30798,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 304787,
       "name": "Sweet Leaf - 2014 Remaster",
       "url": "https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4"
@@ -31000,7 +31036,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
@@ -31036,7 +31072,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -32128,7 +32164,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 173056,
       "name": "The Glen - Levi Heron Edit",
       "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
@@ -32626,7 +32662,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 262493,
       "name": "The Wizard - 2009 Remaster",
       "url": "https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH"
@@ -32644,7 +32680,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 262746,
       "name": "The Wizard - 2014 Remaster",
       "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
@@ -34642,7 +34678,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 475000,
       "name": "War Pigs - 2009 Remaster",
       "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
@@ -34660,7 +34696,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"

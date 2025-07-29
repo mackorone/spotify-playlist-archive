@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 339270,
+  "num_followers": 339768,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-07-25 09:55:44",
       "album": {
+        "name": "Ryan Paris",
+        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
+      },
+      "artists": [
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+    },
+    {
+      "added_at": "2025-07-25 09:55:44",
+      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2025-07-25 09:55:44",
-      "album": {
-        "name": "Ryan Paris",
-        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
-      },
-      "artists": [
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
     },
     {
       "added_at": "2025-07-25 09:55:44",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-25 09:55:44",
       "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2025-07-25 09:55:44",
-      "album": {
         "name": "The Sound of Tony Esposito",
         "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2025-07-25 09:55:44",
+      "album": {
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2025-07-25 09:55:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-25 09:55:44",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2025-07-25 09:55:44",
-      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 257250,
       "name": "What Do You Live For? (feat. David Blank & Saturnino)",
       "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
+    },
+    {
+      "added_at": "2025-07-25 09:55:44",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2025-07-25 09:55:44",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2025-07-25 09:55:44",
       "album": {
-        "name": "Bruno Boogie",
-        "url": "https://open.spotify.com/album/5wPQy8UtYfuwLtcrMS3HQd"
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
       },
       "artists": [
-        {
-          "name": "Euro Nettuno",
-          "url": "https://open.spotify.com/artist/1xZACnmGyStG9YMTefqEq3"
-        },
         {
           "name": "Bruno Belissimo",
           "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
         }
       ],
-      "duration_ms": 192770,
-      "name": "Bruno Boogie",
-      "url": "https://open.spotify.com/track/4vZA5HlveUZ7efaAwNobf9"
+      "duration_ms": 265663,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
     },
     {
       "added_at": "2025-07-25 09:55:44",

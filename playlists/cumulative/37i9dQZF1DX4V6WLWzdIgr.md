@@ -4,7 +4,7 @@
 
 > Koe ra ngerti larane, pas aku kelangan koe 😢
 
-120 songs - 10 hr 5 min
+122 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ambyar Mak Pyar](https://open.spotify.com/track/6UC5ZI2p6oI6ukaZGxjQ89) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar](https://open.spotify.com/album/76ehbPj5BFTqcCr2opmHky) | 4:43 | 2025-04-22 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-09-08 |  |
 | [Apa Kabar Mantan](https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Apa Kabar Mantan](https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1) | 4:06 | 2024-08-01 | 2024-08-03 |
+| [Asing](https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Asing](https://open.spotify.com/album/702qQExxF5zP2pufi1BA71) | 4:19 | 2025-07-28 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-09-08 | 2023-02-04 |
 | [Banyu Langit](https://open.spotify.com/track/5hqpDFoA8j4T3MkXEd4UNk) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Banyu Langit](https://open.spotify.com/album/200eVqfp0zNFdQMbmPaRZQ) | 4:53 | 2021-09-08 |  |
 | [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 | 2024-08-15 |  |
@@ -32,7 +33,7 @@
 | [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-09-08 | 2024-10-24 |
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 |  |
 | [Demi Kowe](https://open.spotify.com/track/4kuM5ZVxSejOpDXJvnDz3B) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Demi Kowe](https://open.spotify.com/album/2DjJKCcUtMiO8fITKrYip6) | 4:23 | 2021-09-08 | 2024-01-12 |
-| [DI PETIK WONG LIYO](https://open.spotify.com/track/4qxuj1jol03WynAQdCuCwG) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [DI PETIK WONG LIYO](https://open.spotify.com/album/4gVxBEGkG7LBPCgT0ncrLG) | 4:08 | 2024-05-17 |  |
+| [DI PETIK WONG LIYO](https://open.spotify.com/track/4qxuj1jol03WynAQdCuCwG) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [DI PETIK WONG LIYO](https://open.spotify.com/album/4gVxBEGkG7LBPCgT0ncrLG) | 4:08 | 2024-05-17 | 2025-07-29 |
 | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/track/1TTRTw1LBNmhhbOivTVaf9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/album/0m2eRIh8FVBM9ul8usVljr) | 4:50 | 2021-09-08 |  |
 | [Dumes](https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Dumes](https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd) | 4:26 | 2023-08-09 |  |
 | [Durung Ikhlas](https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Durung Ikhlas](https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr) | 4:02 | 2023-02-03 |  |
@@ -87,6 +88,7 @@
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2023-02-03 |  |
 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 | 2021-09-08 |  |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2023-08-09 | 2025-07-18 |
+| [Ora Iso \- Accoustic](https://open.spotify.com/track/1kUuaKVSslLNkBTwAKimqT) | [Miqbal GA](https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu), [Siska Amanda](https://open.spotify.com/artist/6auqSYHZVUwYATym8jyqeq) | [Ora Iso \(Accoustic\)](https://open.spotify.com/album/29MSLsUSwSiOQ2MCqMFXVs) | 4:27 | 2025-07-28 |  |
 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 | 2025-01-13 |  |
 | [Ora Ngemis Bali](https://open.spotify.com/track/36foDN2kcoxBVPqW0NrKl2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [fafa vadesta](https://open.spotify.com/artist/0jLIu4WG4Vw5eUTnTE716F) | [Ora Ngemis Bali](https://open.spotify.com/album/2QZRcFHFmmZW0CZDdezMCB) | 5:51 | 2025-04-21 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2021-09-08 |  |
@@ -123,7 +125,7 @@
 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 | 2024-01-11 |  |
 | [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 | 2024-08-03 |
 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 | 2025-01-13 |  |
-| [Tresnomu Ora Tenanan](https://open.spotify.com/track/5jrAalCzbIZ5q6BsYdXcNo) | [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf) | [Tresnomu Ora Tenanan](https://open.spotify.com/album/2Ce6hsEKnpg4yhaGeW8wmh) | 4:17 | 2024-04-04 |  |
+| [Tresnomu Ora Tenanan](https://open.spotify.com/track/5jrAalCzbIZ5q6BsYdXcNo) | [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf) | [Tresnomu Ora Tenanan](https://open.spotify.com/album/2Ce6hsEKnpg4yhaGeW8wmh) | 4:17 | 2024-04-04 | 2025-07-29 |
 | [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2024-04-04 |  |
 | [Wirang](https://open.spotify.com/track/5MxlCCea2uHpVk8t8n8sj3) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/1Jx1rCdsljF4gOMxPuhDsR) | 5:18 | 2024-11-06 |  |
 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 | 2024-02-01 |  |

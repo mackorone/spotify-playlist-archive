@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Krisirie & Limoblaze
 
-447 songs - 1 day 12 hr 55 min
+448 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-12-29 | 2024-07-27 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-09 | 2024-09-07 |
 | [Reckless Love](https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg) | 5:33 | 2025-07-18 |  |
+| [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 |  |
 | [Remember](https://open.spotify.com/track/04wVpeALDGkERQJUxcUVDh) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Remember](https://open.spotify.com/album/0WYQeKtos7ECUjiA8k1Yao) | 3:48 | 2024-03-29 | 2024-04-05 |
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-07-21 | 2023-08-04 |
 | [River](https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Sceptre](https://open.spotify.com/album/3KCdZeILNBf1ahZJU76cQX) | 5:16 | 2025-06-20 |  |

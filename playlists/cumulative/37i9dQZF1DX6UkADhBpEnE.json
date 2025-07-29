@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 222714,
       "name": "familie",
       "url": "https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l"
@@ -8277,6 +8295,32 @@
     },
     {
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+    },
+    {
+      "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
       },
@@ -10178,7 +10222,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 214755,
       "name": "RED FLAG.",
       "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"

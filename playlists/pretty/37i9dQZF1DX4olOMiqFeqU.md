@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,468,275 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468,596 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 18 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
 | 19 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 20 | [Dito Sa'kin](https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dito Sa'kin](https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ) | 5:30 |
-| 21 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
-| 22 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 21 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 22 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
 | 23 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 |
 | 24 | [Fallen](https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Fallen](https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7) | 3:21 |
-| 25 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
+| 25 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
 | 26 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 |
 | 27 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
 | 28 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 38 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 |
 | 39 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 |
 | 40 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
-| 41 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
-| 42 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |
+| 41 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |
+| 42 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 43 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 |
 | 44 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
 | 45 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 |

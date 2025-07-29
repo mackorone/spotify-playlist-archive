@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-380 songs - 19 hr 37 min
+381 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Antidote](https://open.spotify.com/track/386EuKw40zFJix1D0pGsBD) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Antidote](https://open.spotify.com/album/65kIBpcdf6PSftAIyyjl1q) | 3:19 | 2025-03-14 | 2025-04-18 |
 | [as long as i'm lost with you](https://open.spotify.com/track/0eApAXWTVJInufUGjdnQRf) | [the great stoyan duo](https://open.spotify.com/artist/2AADXTogH3ieTwhgU2XwfF) | [as long as i'm lost with you](https://open.spotify.com/album/5ndKxXcnDgzqqYz1uzWbC3) | 3:13 | 2025-04-17 | 2025-04-25 |
 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 | 2024-11-22 | 2025-01-31 |
-| [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 |  |
+| [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 | 2025-07-29 |
 | [Atrevida](https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Atrevida](https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [Au Wenn Du Meinsch](https://open.spotify.com/track/3VJIskMud77RiOU7Q869Uh) | [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [Träffpunkt](https://open.spotify.com/album/3rD5gxbSwNRO3aheFMcPuv) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [babyboy](https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [Milan](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE) | [babyboy](https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8) | 2:50 | 2024-06-27 | 2024-10-28 |
@@ -248,6 +248,7 @@
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-07-04 | 2024-08-01 |
 | [New Her](https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [New Her](https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ) | 3:00 | 2025-02-21 |  |
 | [Next to you](https://open.spotify.com/track/1VWbNIK7yH8NWTPIyyxFR2) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Fish In Your Glass](https://open.spotify.com/album/3aC4bV3CUEaSQIDccwta70) | 2:59 | 2025-05-01 | 2025-05-09 |
+| [Next to You](https://open.spotify.com/track/2K6jXjgVn1ZSnXYR0DZF5k) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Next to You](https://open.spotify.com/album/3gbzQAnrhR3rfKdbs9lm7j) | 3:32 | 2025-07-24 |  |
 | [Nice](https://open.spotify.com/track/79KWvVmdE1BuPnTKofpIcJ) | [Kleenex](https://open.spotify.com/artist/0LjKl7QoB5xsk3Mk0mYVH1) | [Liliput](https://open.spotify.com/album/3oR1mh4CLqwl4Pp77aYm9o) | 2:27 | 2025-05-15 | 2025-05-23 |
 | [Nightmare](https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Nightmare](https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu) | 2:57 | 2024-06-27 | 2024-10-04 |
 | [Nightmare](https://open.spotify.com/track/5F5DRfuRA8tzaSB5YTN1Pz) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Fish In Your Glass](https://open.spotify.com/album/3aC4bV3CUEaSQIDccwta70) | 2:57 | 2025-05-01 | 2025-05-09 |

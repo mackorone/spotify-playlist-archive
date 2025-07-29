@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,857 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,863 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 25 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 |
 | 26 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
 | 27 | [You're the One](https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:42 |
-| 28 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 |
-| 29 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
+| 28 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
+| 29 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 |
 | 30 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
 | 31 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |

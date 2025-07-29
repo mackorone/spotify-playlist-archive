@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,203,393 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,203,568 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 39 | [Kick You When You're Down](https://open.spotify.com/track/0Kq6RzOqkHxnfiA9OGqReU) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:10 |
 | 40 | [Live Wire](https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:48 |
 | 41 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
-| 42 | [Black Ice](https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:25 |
+| 42 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
 | 43 | [Wild Reputation](https://open.spotify.com/track/1ZyQEn0iceHj0Lbt6I6Op3) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 2:54 |
-| 44 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
+| 44 | [Black Ice](https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:25 |
 | 45 | [The Jack](https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:52 |
 | 46 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 |
 | 47 | [Witch's Spell](https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Let's Get It Up](https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 3:54 |
 | 50 | [Riff Raff](https://open.spotify.com/track/0DZwrC4QQOYqpcxCeZzwDg) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:11 |
 
-Snapshot ID: `aIQagAAAAACBbtZRnTk+xhINl75TvZyQ`
+Snapshot ID: `aIVsAAAAAAD/m81yhzCpeqABnSnlwF4g`

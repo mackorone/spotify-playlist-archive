@@ -2,9 +2,9 @@
 
 ### [Chai & Acoustic](https://open.spotify.com/playlist/37i9dQZF1DWUI804Xnly9d)
 
-> Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
+> Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-573 songs - 1 day 8 hr 3 min
+574 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Dooriyan](https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB) | [Lega\-C](https://open.spotify.com/artist/6PFF32ltwmEyLcwX6FD2mG), [Saubhagya](https://open.spotify.com/artist/21efmh0LXU7EX5pTi6Xr1f), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Dooriyan](https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI) | 3:20 | 2024-09-05 | 2024-10-01 |
 | [Dooriyan \- Acoustic](https://open.spotify.com/track/50RH0RyxLEj8NEhaHlqWNX) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/2sid24LIFGikqtrQ0089TP) | 3:30 | 2024-05-31 | 2024-10-05 |
 | [Dost Banke \(Reprise Version\)](https://open.spotify.com/track/6zd5z2VCfuj1N8ymbNoISZ) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Dost Banke \(Reprise Version\)](https://open.spotify.com/album/44v1rcaB4o1pgbfIAh1YTo) | 4:35 | 2024-08-02 | 2024-09-04 |
+| [Duniya Alag \- From "Dhadak 2"](https://open.spotify.com/track/6UvCvklyNbHlcSNA4Bw8hf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Duniya Alag \(From "Dhadak 2"\)](https://open.spotify.com/album/7ruLNahcg74KiFMlXInRMy) | 3:58 | 2025-07-28 |  |
 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/6SCpJdNbMI3NHc8fMAOOg8), [Akash Khanna](https://open.spotify.com/artist/4QoZjypJesrFq6e8LQI56O) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 | 2023-09-01 | 2023-10-27 |
 | [Ek Baar Mein](https://open.spotify.com/track/72MRwlO5aD6i3tCJAFh02X) | [Yash Bhojwani](https://open.spotify.com/artist/2J5QVsZXFVQtQcKLI51A67), [Yash \- Yuvraj](https://open.spotify.com/artist/0aN3Fkj0EwaoWpp54lh9Io) | [Ek Baar Mein](https://open.spotify.com/album/4Z8lmWmeGmDPIUlMwq953t) | 4:10 | 2024-01-12 | 2024-03-05 |
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
@@ -254,7 +255,7 @@
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 | 2023-09-10 |
 | [Khamosh Hum](https://open.spotify.com/track/6DbqJtVimKA96EPcTNpHKC) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR) | [Khamosh Hum](https://open.spotify.com/album/6cuCRw4GK3FA6PetXShiWK) | 2:45 | 2025-02-18 | 2025-03-08 |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 | 2023-10-27 |
-| [Khatam](https://open.spotify.com/track/6KLocCf9WxUWcXFO6m1Zir) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Khatam](https://open.spotify.com/album/5RavsbAGaZC0UZvR4k8JoV) | 2:57 | 2025-05-29 |  |
+| [Khatam](https://open.spotify.com/track/6KLocCf9WxUWcXFO6m1Zir) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Khatam](https://open.spotify.com/album/5RavsbAGaZC0UZvR4k8JoV) | 2:57 | 2025-05-29 | 2025-07-29 |
 | [Khidki \- Acoustic](https://open.spotify.com/track/5PPlJZOvGzyMCNvE7bew43) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:14 | 2023-05-17 | 2023-07-13 |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-05-17 | 2023-07-15 |
 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:33 | 2024-09-30 |  |

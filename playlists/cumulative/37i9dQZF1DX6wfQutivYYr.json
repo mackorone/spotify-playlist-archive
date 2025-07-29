@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "BIG 5",
+        "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127499,
+      "name": "7ELEVEN",
+      "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
+    },
+    {
+      "album": {
         "name": "Mafia Slime 2",
         "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 166366,
       "name": "CONTA SU DI ME",
       "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
@@ -2231,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 167900,
       "name": "Oppio (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq"

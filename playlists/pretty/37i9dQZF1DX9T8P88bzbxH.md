@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Thirsty? Jay Park’s bringing the smoothest setlist\. Cover: Jay Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,659 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,643 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

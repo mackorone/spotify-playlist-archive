@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > LATIN MAFIA en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,375 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,404 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 301 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,790 likes - 301 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 208 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
 | 209 | [Overseas](https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Overseas](https://open.spotify.com/album/5BFSJY7MZsHhMfJuJ5kg8e) | 3:05 |
 | 210 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
-| 211 | [Ahhhh Shit Gah Damn](https://open.spotify.com/track/4v5H9VnpVrH7YSkRzWo2Po) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Up All Night](https://open.spotify.com/album/7wkijuYzRl2NLikrxIKeIg) | 3:19 |
-| 212 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
+| 211 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
+| 212 | [Ahhhh Shit Gah Damn](https://open.spotify.com/track/4v5H9VnpVrH7YSkRzWo2Po) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Up All Night](https://open.spotify.com/album/7wkijuYzRl2NLikrxIKeIg) | 3:19 |
 | 213 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
 | 214 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
 | 215 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 300 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 301 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab37hgAAAACGpZfM3pWztbuvOSuc86Zj`
+Snapshot ID: `Ab4A9AAAAABvR2PG6jdMOTJVKyYDC6ei`

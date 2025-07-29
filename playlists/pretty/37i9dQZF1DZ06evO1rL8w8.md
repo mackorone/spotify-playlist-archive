@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,870 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,897 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 26 | [Mafia Nueva](https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:26 |
 | 27 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 |
 | 28 | [Ranchero Poderoso](https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:43 |
-| 29 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 |
+| 29 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
 | 30 | [El Corrido del Viejon](https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 |
-| 31 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
+| 31 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 |
 | 32 | [Toquezones de Cannabis](https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:47 |
 | 33 | [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 |
 | 34 | [Nomás Por Ser Sinaloense](https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 1:57 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 43 | [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 |
 | 44 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 |
 | 45 | [El Regreso Del Chapo \- En Vivo](https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:15 |
-| 46 | [Lo Mejor Que Me Pasó](https://open.spotify.com/track/79Bd8kGg0yT3I5xsSTNpPa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Lo Mejor Que Me Pasó](https://open.spotify.com/album/2v6QpKZAJH6jKLyb36zhLa) | 2:23 |
-| 47 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
+| 46 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
+| 47 | [Lo Mejor Que Me Pasó](https://open.spotify.com/track/79Bd8kGg0yT3I5xsSTNpPa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Lo Mejor Que Me Pasó](https://open.spotify.com/album/2v6QpKZAJH6jKLyb36zhLa) | 2:23 |
 | 48 | [El Ganadero](https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ganadero](https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm) | 3:42 |
 | 49 | [El Ejecutor \(Bonus Track\)](https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:28 |
 | 50 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 
-Snapshot ID: `aIQagAAAAAA7Tm9qOQXj68yc3tWQ165r`
+Snapshot ID: `aIVsAAAAAABOsa9oMtwOQDX08bBcraIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Toton Caribo, Wizz Baker, Fresly Nikijuluw
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,711 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,799 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

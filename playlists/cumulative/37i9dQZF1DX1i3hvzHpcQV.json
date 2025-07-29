@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Retro",
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Coolie",
   "name": "Hot Hits Tamil",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 203053,
       "name": "Ak - The Tiger",
       "url": "https://open.spotify.com/track/6XyeIcCT97drM5lzi9Pq88"
@@ -2044,10 +2044,36 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 241223,
       "name": "Muththa Mazhai",
       "url": "https://open.spotify.com/track/5BEz37uGx2cfFe5YAPWlHW"
+    },
+    {
+      "album": {
+        "name": "Thug Life (Tamil)",
+        "url": "https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Siva Ananth",
+          "url": "https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240264,
+      "name": "Muththa Mazhai (Reprise)",
+      "url": "https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje"
     },
     {
       "album": {
@@ -2664,6 +2690,32 @@
       "duration_ms": 149433,
       "name": "Porkanda Singam (EDM Version) [From \"Vikram\"]",
       "url": "https://open.spotify.com/track/12LE4Omy9ze8xTOMofMVB3"
+    },
+    {
+      "album": {
+        "name": "Pottala Muttaye (From \"Thalaivan Thalaivii\")",
+        "url": "https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226255,
+      "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
+      "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
     },
     {
       "album": {

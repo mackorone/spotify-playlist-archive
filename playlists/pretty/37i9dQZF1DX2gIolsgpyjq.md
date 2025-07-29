@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Giift
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,346 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,352 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

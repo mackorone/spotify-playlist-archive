@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Gigi Perez
 
-161 songs - 9 hr 16 min
+162 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-07 | 2024-07-16 |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-04-10 | 2024-06-08 |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-01-08 | 2024-04-05 |
-| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-04-11 |  |
+| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-04-11 | 2025-07-29 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-11-29 | 2025-03-29 |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-03-20 | 2024-04-11 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-03-11 | 2025-05-07 |
@@ -120,6 +120,7 @@
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-03-24 | 2025-06-06 |
 | [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-07-15 | 2024-07-27 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-18 |  |
+| [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2025-07-28 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-11-30 | 2024-10-30 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2024-11-25 | 2025-05-19 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-05-20 | 2024-10-18 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,299 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,756 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 2 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
-| 3 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
-| 4 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
+| 3 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
+| 4 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
 | 5 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
 | 6 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
 | 7 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 34 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 35 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 36 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
-| 37 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
-| 38 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
+| 37 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
+| 38 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
 | 39 | [And Then Goodbye](https://open.spotify.com/track/15SBcYcZA9FJK0EVAcHyhl) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Lipservice](https://open.spotify.com/album/5PQ27lWCgHSKTVY7GeNxg1) | 3:32 |
 | 40 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 41 | [The Search Is Over](https://open.spotify.com/track/3y7j9iz5XfbDOySTspM4Ss) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/0PNvxevEEOiyQEEJdkmn0N) | 4:12 |

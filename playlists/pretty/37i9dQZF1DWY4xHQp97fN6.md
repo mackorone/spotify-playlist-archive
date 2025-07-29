@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,648,077 likes - 98 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,647,744 likes - 98 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

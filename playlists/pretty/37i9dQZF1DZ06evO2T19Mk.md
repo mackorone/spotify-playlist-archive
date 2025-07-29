@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,384 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,438 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 2 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
+| 1 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
+| 2 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 3 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
 | 4 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
-| 5 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
-| 6 | [Immortals](https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:09 |
+| 5 | [Immortals](https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:09 |
+| 6 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 | 7 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 |
 | 8 | [The Phoenix](https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 9 | [The Last Of The Real Ones](https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu) | 3:50 |
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 14 | [A Little Less Sixteen Candles, A Little More "Touch Me"](https://open.spotify.com/track/4pmU8AtVu9qU40Xd9zjEfA) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 2:49 |
 | 15 | [Electric Touch \(feat\. Fall Out Boy\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:26 |
 | 16 | [Irresistible](https://open.spotify.com/track/3znPiywA0q1VK2jgAZFDoI) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:26 |
-| 17 | [Just One Yesterday](https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
-| 18 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
+| 17 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
+| 18 | [Just One Yesterday](https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 19 | [I'm Like A Lawyer With The Way I'm Always Trying To Get You Off \(Me & You\)](https://open.spotify.com/track/6A9nyMBdNUzVcFHZUEZ71F) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 | 20 | [Fourth Of July](https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:44 |
-| 21 | [Alone Together](https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:23 |
-| 22 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:36 |
+| 21 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:36 |
+| 22 | [Alone Together](https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:23 |
 | 23 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 24 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 | 25 | [Novocaine](https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 49 | [America's Suitehearts](https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 | 50 | [The Pros and Cons of Breathing](https://open.spotify.com/track/3koOoLN69AAiw5JCQNaZMe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:21 |
 
-Snapshot ID: `aIQagAAAAACsVqHLycK2j44tRL533TSZ`
+Snapshot ID: `aIVsAAAAAACnDUurHP66aWpK6c2c56Zm`

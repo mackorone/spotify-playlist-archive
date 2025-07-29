@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 61338,
+  "num_followers": 61366,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -395,18 +395,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+      "duration_ms": 177190,
+      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -435,26 +443,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 177190,
-      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -803,6 +803,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Life of Betrayal",
+        "url": "https://open.spotify.com/album/2X3LXTlexW5rShj3ygFBLf"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "duration_ms": 155950,
+      "name": "Fuck That",
+      "url": "https://open.spotify.com/track/0GQmI1UcEaU9TLoAices80"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 231771,
+      "name": "Get Ready (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -835,42 +871,6 @@
       "duration_ms": 203786,
       "name": "Mob Ties Remix (feat. Unfoonk, 24Heavy, Future & YTB Trench)",
       "url": "https://open.spotify.com/track/2PfqoDotCBeNygVVdTU3rN"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 231771,
-      "name": "Get Ready (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Life of Betrayal",
-        "url": "https://open.spotify.com/album/2X3LXTlexW5rShj3ygFBLf"
-      },
-      "artists": [
-        {
-          "name": "Yungeen Ace",
-          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
-        }
-      ],
-      "duration_ms": 155950,
-      "name": "Fuck That",
-      "url": "https://open.spotify.com/track/0GQmI1UcEaU9TLoAices80"
     },
     {
       "added_at": "2022-10-01 16:00:00",

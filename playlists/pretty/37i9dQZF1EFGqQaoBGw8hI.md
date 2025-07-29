@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,667 likes - 600 songs - 1 day 18 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,666 likes - 600 songs - 1 day 18 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,13 +264,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 254 | [Pinky \- Remastered 1995](https://open.spotify.com/track/6IPDeuzjnlKUfxDwJUHrzD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:54 |
 | 255 | [71\-75 New Oxford Street \- Band Demo](https://open.spotify.com/track/65Rgg3DCtCB970DmIdxlrB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:09 |
 | 256 | [Midnight Creeper](https://open.spotify.com/track/5lnkNO3Si97dpuKQY8z5OT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:52 |
-| 257 | [The Girl On Angel Pavement \- Arranged Band Version](https://open.spotify.com/track/7jNvHnbMM6OfLXjHcDa9wp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:26 |
-| 258 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 257 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 258 | [The Girl On Angel Pavement \- Arranged Band Version](https://open.spotify.com/track/7jNvHnbMM6OfLXjHcDa9wp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:26 |
 | 259 | [Africa](https://open.spotify.com/track/4FjXVninfbhkXgvUAw4vYa) | [Ndlovu Youth Choir](https://open.spotify.com/artist/5Wj12iPc23dZqX3K67PwE6) | [Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular \(Original Soundtrack\)](https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs) | 2:15 |
 | 260 | [The Rose Of Laura Nyro](https://open.spotify.com/track/3VdQunj2AtDDjCQL3w7SLq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 6:39 |
 | 261 | [One Time, Sometime Or Never \- Band Demo](https://open.spotify.com/track/5xihdLdDAS2EVflqx0YfHc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:49 |
-| 262 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
-| 263 | [Easier To Walk Away](https://open.spotify.com/track/1QEDuRCXGqUwkhg2Wp1wKU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 |
+| 262 | [Easier To Walk Away](https://open.spotify.com/track/1QEDuRCXGqUwkhg2Wp1wKU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 |
+| 263 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
 | 264 | [I Never Knew Her Name](https://open.spotify.com/track/5t9gKY2Y0y3M0bs8J9V2e3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:28 |
 | 265 | [Eight Hundred Dollar Shoes](https://open.spotify.com/track/0JzLcxaETEOha4njGktAJl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 3:22 |
 | 266 | [He Could Be A Star](https://open.spotify.com/track/7yYjHW8a9AnvfErKwyvvNn) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:50 |
@@ -355,8 +355,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 345 | [Solar Prestige A Gammon \- Remastered 1995](https://open.spotify.com/track/3UJk8PdILcCkBPFvN0Ox15) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 2:52 |
 | 346 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 |
 | 347 | [One Horse Town](https://open.spotify.com/track/4LYF3uIlrEYF2aIYIa2iBO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:56 |
-| 348 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
-| 349 | [Postcards From Richard Nixon](https://open.spotify.com/track/7L8zxqQAWBUea5CGpRo8OM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:15 |
+| 348 | [Postcards From Richard Nixon](https://open.spotify.com/track/7L8zxqQAWBUea5CGpRo8OM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:15 |
+| 349 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
 | 350 | [Elton's Song \- Remastered 2003](https://open.spotify.com/track/1DPHu7wpXxF6XUHz2jKkN2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 3:01 |
 | 351 | [When A Woman Doesn't Want You](https://open.spotify.com/track/2hfWkzKibVUGoaM24mit5J) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:55 |
 | 352 | [Lies](https://open.spotify.com/track/2lIkaxlhbqzNwQCE8PHKYp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:26 |
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 599 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 600 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `Ab37XgAAAAAzPjuze4gXPJtAYZ71HYzA`
+Snapshot ID: `Ab4A/gAAAACzzzWDXl62vC0uLyQLufe5`

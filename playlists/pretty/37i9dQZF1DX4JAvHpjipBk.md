@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lola Young,  Drake & Central Cee, sombr, Luke Combs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,419,008 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,418,578 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

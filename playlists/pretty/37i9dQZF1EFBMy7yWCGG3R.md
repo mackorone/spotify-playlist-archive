@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,169 likes - 259 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,166 likes - 259 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 50 | [Anxiety \(with Selena Gomez\)](https://open.spotify.com/track/1XJ93XskwJf7PCyIVLbNBt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 3:30 |
 | 51 | [Me & The Rhythm](https://open.spotify.com/track/4a32Q7bRtWDGSEMbyWKIlj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:33 |
 | 52 | [Chainsaw](https://open.spotify.com/track/5UsW4W8VgHrRLDzXQ9XSpt) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:19 |
-| 53 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
-| 54 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 53 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 54 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
 | 55 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:06 |
 | 56 | [Fast Times](https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:54 |
 | 57 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 233 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
 | 234 | [Just For You](https://open.spotify.com/track/275DvW2FJITkWUdTHeuAup) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:06 |
 | 235 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
-| 236 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
-| 237 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 |
+| 236 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 |
+| 237 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
 | 238 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
 | 239 | [Hands](https://open.spotify.com/track/2vDV1IiMZeFHMnVpxarTYy) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:54 |
 | 240 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 258 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 259 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab37aAAAAADDFwAiVBqw09frhSbVU3yc`
+Snapshot ID: `Ab4A/gAAAADYZIZ0H5YcyN6FcjJkp6MP`

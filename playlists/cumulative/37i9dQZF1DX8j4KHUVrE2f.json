@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
+    },
+    {
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/4txPGNHsUtjgBickDa5mOe"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 255906,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU"

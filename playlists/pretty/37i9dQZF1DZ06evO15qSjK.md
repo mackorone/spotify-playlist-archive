@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,720 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,723 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 48 | [Messy](https://open.spotify.com/track/5QVnZ3YuUSIPaOd4NXeQAb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Messy](https://open.spotify.com/album/5SSL3rCkTFgJjrRIDogO2J) | 4:04 |
 | 49 | [Please Please Please](https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Please Please Please](https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC) | 3:03 |
 
-Snapshot ID: `aIQagAAAAAC1s/XhzoSAPlvLcJXaZmp1`
+Snapshot ID: `aIVsAAAAAADCCqqCLxfu/xYT6EjN+Onq`

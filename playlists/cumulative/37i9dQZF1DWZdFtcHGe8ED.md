@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-447 songs - 1 day 7 hr 34 min
+448 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cadaver Decomposition Island](https://open.spotify.com/track/4AEOeqhIKJwYHrZLG8kZS6) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Operation Misdirection](https://open.spotify.com/album/2ILFNiol36zJ17ZuiTYPMe) | 6:11 | 2021-12-17 | 2022-07-26 |
 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 | 2022-03-10 | 2025-04-24 |
 | [Cancer in the Brain](https://open.spotify.com/track/0qM2FouJdLcjr5vNB1jfPw) | [Demolizer](https://open.spotify.com/artist/7Mq4g7MEMxWozA1LIttP2P) | [Thrashmageddon](https://open.spotify.com/album/1qoTxkfuZb85t60fpbFaR2) | 3:45 | 2021-12-17 | 2022-07-20 |
+| [Carry The Flag](https://open.spotify.com/track/1D8voUdYVZLHbaIkAEnqZ0) | [Halvar](https://open.spotify.com/artist/1AMIMdQVhhY3JF3iZOTgKO) | [Carry The Flag](https://open.spotify.com/album/5Nqjt1G7BLDL9LTJstPPsJ) | 2:33 | 2025-07-25 |  |
 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 | 2024-03-08 |  |
 | [Caught In A Mosh](https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living \(Deluxe Edition\)](https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm) | 5:00 | 2022-07-13 | 2024-04-19 |
 | [Caught In A Mosh](https://open.spotify.com/track/6AlUhxZG6lcSBJlFEG2Mgp) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living](https://open.spotify.com/album/0UEuf5G8IVev5K5v6a1sbO) | 5:00 | 2022-07-13 | 2022-07-29 |
@@ -243,7 +244,7 @@
 | [Mad Dictator](https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Knee\-Deep in the Dead](https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F) | 4:27 | 2021-12-17 |  |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-07-13 | 2024-04-19 |
 | [Madhouse](https://open.spotify.com/track/6DRvu6LgU0wRF6Yr7WHRji) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/6cxOXhhgRg5CiCCdqmHKZp) | 4:19 | 2022-07-13 | 2025-06-28 |
-| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 |  |
+| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 | 2025-07-29 |
 | [Mania](https://open.spotify.com/track/1Hi1WFQ9Ro26gi1H5yT9Ci) | [Hell Fire](https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb) | [Mania](https://open.spotify.com/album/3iVtq5GNrvHDQzingo56kP) | 5:51 | 2021-12-17 | 2022-07-20 |
 | [Marionette](https://open.spotify.com/track/098gOGegzGnjMi3bZVLUeN) | [Born Of Ire](https://open.spotify.com/artist/6PewtGR1UteSAtMhineAxx) | [Born of Ire](https://open.spotify.com/album/3HBNbDf4SxIED8tBzBcxRN) | 5:00 | 2021-12-17 | 2022-07-16 |
 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 | 2022-07-13 |  |

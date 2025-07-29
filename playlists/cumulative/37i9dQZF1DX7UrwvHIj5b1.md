@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-113 songs - 8 hr 4 min
+114 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Asbesto](https://open.spotify.com/track/3xwKqqLDlLdyDS1GO5ofgL) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Asbesto](https://open.spotify.com/album/0abRMS7VjgDDOuhdVxOs9A) | 2:57 | 2023-09-15 |  |
 | [Ashes](https://open.spotify.com/track/1yav5A5ABFQ9ywEyvnLyB8) | [L\-Wiz](https://open.spotify.com/artist/0nGg1te3vliCXlKbYHLF9B) | [The Orange Tree](https://open.spotify.com/album/774FnnGNgn7cC9eweO8oLw) | 3:41 | 2022-12-08 |  |
 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-27 |  |
-| [Background Check](https://open.spotify.com/track/3darGlrXU4wwSsbHYZODsB) | [0079](https://open.spotify.com/artist/00K5zIIE3FS8YDdZoOntsY) | [Background Check](https://open.spotify.com/album/6ljKLZKOb81aAd241ikUEe) | 4:22 | 2023-09-28 |  |
+| [Background Check](https://open.spotify.com/track/3darGlrXU4wwSsbHYZODsB) | [0079](https://open.spotify.com/artist/00K5zIIE3FS8YDdZoOntsY) | [Background Check](https://open.spotify.com/album/6ljKLZKOb81aAd241ikUEe) | 4:22 | 2023-09-28 | 2025-07-29 |
 | [Bad Boi](https://open.spotify.com/track/5NtihQEpwnrUvSBaA2tJEa) | [Ganyaman](https://open.spotify.com/artist/67ay2OgHoJ9fy8wo5eD20c) | [Bad Boi](https://open.spotify.com/album/3rocuCUfEp8otpdwkfwF4S) | 2:17 | 2024-05-07 |  |
 | [Beauty Beyond A Web Of Confusion](https://open.spotify.com/track/6vBFjWQiTOY1TAdVq6xSzA) | [Thought Process](https://open.spotify.com/artist/3proICVogPsl2OeB7S2ZUC) | [all:Lo compilation vol:1](https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l) | 3:00 | 2022-11-30 |  |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-11-30 | 2025-01-25 |
@@ -70,6 +70,7 @@
 | [Meek Dub](https://open.spotify.com/track/6jHOxTUmWeTupc4lKz76Vy) | [Somah](https://open.spotify.com/artist/0Dk9atH2YtBzyWlxu5VpyC) | [Mercy](https://open.spotify.com/album/5JOg5b9KEBsHju0GUen7lj) | 4:23 | 2022-11-30 |  |
 | [Micro Dose](https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/7cz8J3Bnwgr5L9wwZUnXOz) | 6:33 | 2023-03-01 | 2023-08-24 |
 | [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 | 2023-03-01 | 2023-09-29 |
+| [Mission Control](https://open.spotify.com/track/3qtl9Cfr45tQodgbs3b9rw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Extrasensory](https://open.spotify.com/album/7cNZjoT9k3cfCOG6AkhIhE) | 4:45 | 2025-07-29 |  |
 | [Nalaar](https://open.spotify.com/track/1IZ1nLUYBkUwqjN3Rz8zzv) | [Waloox](https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi) | [Nalaar](https://open.spotify.com/album/2JWjOo6A2TiPr3KBn9tYoQ) | 2:24 | 2024-01-10 |  |
 | [Nancara](https://open.spotify.com/track/6PLuKhTi6SUGglCsEWV7s9) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [\#000000365](https://open.spotify.com/album/71hvygiGgBQBftAMGbFMfq) | 6:21 | 2022-11-30 |  |
 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 | 2022-11-30 |  |

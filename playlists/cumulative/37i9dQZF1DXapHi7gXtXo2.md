@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-174 songs - 9 hr 34 min
+175 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2023-12-01 |  |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2024-09-20 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2023-12-01 |  |
+| [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 | 2024-09-20 |  |
 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 | 2024-04-12 |  |
 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 | 2023-12-01 |  |
 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 | 2023-12-01 |  |
@@ -116,7 +117,7 @@
 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-04-12 | 2024-08-03 |
 | [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2024-04-25 | 2024-06-08 |
 | [No Te Vayas](https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [No Te Vayas](https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT) | 2:24 | 2024-09-20 |  |
-| [Nos queda bien](https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [La Expedición](https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud) | 3:32 | 2024-07-25 |  |
+| [Nos queda bien](https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [La Expedición](https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud) | 3:32 | 2024-07-25 | 2025-07-29 |
 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 | 2023-12-01 |  |
 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 | 2023-12-01 |  |
 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 | 2024-04-12 | 2024-08-15 |

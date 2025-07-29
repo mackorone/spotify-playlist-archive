@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Those quintessential sad songs that everyone knows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,573 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,634 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 19 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 20 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 21 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 22 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 23 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 22 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 23 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 24 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
 | 25 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 | 26 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 27 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 28 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
-| 29 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
-| 30 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 29 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 30 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 31 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 32 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 33 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 59 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 60 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 61 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
-| 62 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
-| 63 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
+| 62 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
+| 63 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 64 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 65 | [Sonnet](https://open.spotify.com/track/6OgWHP8rRXiq7VMaryVaVo) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:21 |
 | 66 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |

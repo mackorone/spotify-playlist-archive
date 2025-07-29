@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,895 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,895 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 45 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
 | 46 | [snowfall \(Sped Up\)](https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Sped Up\)](https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g) | 1:50 |
 | 47 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
-| 48 | [Heart To Heart](https://open.spotify.com/track/6FVC9rfW90QNKrneugHLxy) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/4i608RpN07GeF7DBW0N1nA) | 3:31 |
-| 49 | [I Got You, Honey](https://open.spotify.com/track/6GgWI2t7G0bgUzVoZDlM6R) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:41 |
+| 48 | [I Got You, Honey](https://open.spotify.com/track/6GgWI2t7G0bgUzVoZDlM6R) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:41 |
+| 49 | [Heart To Heart](https://open.spotify.com/track/6FVC9rfW90QNKrneugHLxy) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/4i608RpN07GeF7DBW0N1nA) | 3:31 |
 | 50 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
 | 51 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 52 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 73 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 74 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
 | 75 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
-| 76 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
-| 77 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
+| 76 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
+| 77 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 78 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 79 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
 | 80 | [Grey County Blues](https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Quiet Talkers](https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs) | 3:50 |
 | 81 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
-| 82 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
-| 83 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
+| 82 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
+| 83 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
 | 84 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
 | 85 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
 | 86 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 97 | [Blue Beard](https://open.spotify.com/track/2zjJ36a6rB7MI7jiHnaAJx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:22 |
 | 98 | [Without Warning](https://open.spotify.com/track/0PTYNosRcem1jpR2AAFwrs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:20 |
 | 99 | [the view from my bathroom window \(feat\. guccihighwaters\)](https://open.spotify.com/track/4tFoX0vJIeVN082xbA6wCN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:37 |
-| 100 | [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 |
+| 100 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 |
 
 Snapshot ID: `Z5xY/QAAAABR23efhTkV8K7OBkkVV5UA`

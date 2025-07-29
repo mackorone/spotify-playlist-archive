@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,920 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,148 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 9 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 10 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 11 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
-| 12 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
-| 13 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 |
+| 12 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 |
+| 13 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
 | 14 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 15 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
 | 16 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |

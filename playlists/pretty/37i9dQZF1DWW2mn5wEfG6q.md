@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,849 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,869 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 37 | [Modern Jesus](https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:14 |
 | 38 | [Hey Now](https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 3:25 |
 | 39 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
-| 40 | [Inhaler](https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:52 |
-| 41 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
+| 40 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
+| 41 | [Inhaler](https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:52 |
 | 42 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
 | 43 | [Nightcall](https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:30 |
 | 44 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 |
-| 45 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
-| 46 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
+| 45 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
+| 46 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
 | 47 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 48 | [Telescope](https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:48 |
 | 49 | [Doses & Mimosas](https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 5:23 |
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 56 | [Baby Blue](https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath the Moon](https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY) | 3:35 |
 | 57 | [Reflektor](https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 7:30 |
 | 58 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
-| 59 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
-| 60 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
+| 59 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
+| 60 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
 | 61 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
 | 62 | [This is the Last Time](https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:43 |
 | 63 | [If I Could Change Your Mind](https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:50 |
 | 64 | [Smother](https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 4:01 |
 | 65 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
-| 66 | [The Walker](https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:53 |
+| 66 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
 | 67 | [I Should Live in Salt](https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:08 |
-| 68 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
+| 68 | [The Walker](https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:53 |
 | 69 | [Falling](https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:17 |
 | 70 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 71 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 96 | [An Ocean In Between The Waves](https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 7:11 |
 | 97 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
 | 98 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
-| 99 | [Berlin](https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 2:54 |
+| 99 | [Howling](https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 5:09 |
 | 100 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 |
 
 Snapshot ID: `Z9QscwAAAAAmqqWBueEt9VsHHRkzq+yi`

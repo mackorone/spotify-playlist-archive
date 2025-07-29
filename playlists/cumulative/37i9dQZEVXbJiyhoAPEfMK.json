@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -8634,7 +8634,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -13758,7 +13758,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -14768,7 +14768,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -17086,6 +17086,24 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
+    },
+    {
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "album": {
@@ -39137,6 +39155,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/0GG0JWh2CgK8iOoQg9jfmQ"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186310,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/43UFSAigHQbzlN3Kdjj0rT"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -41942,7 +41978,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -44664,7 +44700,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -53128,7 +53164,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -54774,7 +54810,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

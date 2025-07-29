@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,693 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,751 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 34 | [turned your back](https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 4:03 |
 | 35 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
 | 36 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
-| 37 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
-| 38 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
+| 37 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
+| 38 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
 | 39 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 |
 | 40 | [NASTY GIRL / ON CAMERA](https://open.spotify.com/track/2f8y4CuG57UJEmkG3ujd0D) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:50 |
 | 41 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 49 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 50 | [go crazy](https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:53 |
 
-Snapshot ID: `aIQagAAAAAD+ecVYtPvHBZjnvHuOxEE2`
+Snapshot ID: `aIVsAAAAAAB5EPOC8nZb4IkshttVUMRT`

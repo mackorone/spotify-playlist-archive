@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-144 songs - 11 hr 38 min
+145 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2024-04-01 |  |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-09-12 | 2024-04-19 |
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2024-04-08 |  |
-| [Moment](https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 4:59 | 2025-06-30 |  |
+| [Moment](https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 4:59 | 2025-06-30 | 2025-07-29 |
 | [Moody Café](https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Slow Love](https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE) | 3:51 | 2022-09-12 | 2023-11-28 |
 | [Moonlight In Vermont](https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Essential Stan Getz: The Getz Songbook](https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s) | 2:27 | 2022-09-12 | 2024-04-19 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 | 2023-12-04 |  |
@@ -117,6 +117,7 @@
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-11-07 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-11-07 | 2022-11-13 |
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2022-09-12 |  |
+| [Sketchbook of Dreams \(Radio Edit\)](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2025-07-21 |  |
 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 | 2022-11-07 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-09-12 |  |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2022-09-12 | 2022-11-13 |

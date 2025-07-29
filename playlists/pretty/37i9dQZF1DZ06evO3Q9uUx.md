@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,585 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,584 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 36 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 37 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 38 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 |
-| 39 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
+| 39 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
 | 40 | [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 |
-| 41 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
+| 41 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 42 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/4F2WTcTsJGOnHKEl3iXm95) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 2:54 |
 | 43 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
 | 44 | [back it up](https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
 | 50 | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 |
 
-Snapshot ID: `aIQagAAAAAD41WmjtAWF3Ib72W3pdEad`
+Snapshot ID: `aIVsAAAAAAApXmBzgbQVk1RmQhVV9hSj`

@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182458,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
+    },
+    {
+      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 185033,
       "name": "Washashore Cowgirl",
       "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"

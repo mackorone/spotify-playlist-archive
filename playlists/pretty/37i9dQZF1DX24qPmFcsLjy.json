@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 134852,
+  "num_followers": 134882,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -91,18 +107,26 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -135,30 +159,6 @@
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
-      },
-      "artists": [
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 293826,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 348226,
       "name": "Radio Ga Ga - Remastered 2011",
       "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 318680,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Seven and the Ragged Tiger (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 267426,
       "name": "The Reflex - Single Version; 2010 Remaster",
       "url": "https://open.spotify.com/track/4sz1Ng2Cgidfqqiy0pNL6R"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Millennium Edition",
-        "url": "https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Live Is Life - Live",
-      "url": "https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Drukwerk",
         "url": "https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213773,
       "name": "Why Tell Me Why",
       "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Millennium Edition",
+        "url": "https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Live Is Life - Live",
+      "url": "https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC"
-      },
-      "artists": [
-        {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Comment \u00c7a Va",
         "url": "https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits: 40 Trips Around The Sun",
-        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
         }
       ],
-      "duration_ms": 330986,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
+      "duration_ms": 273933,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1255,6 +1239,22 @@
       "duration_ms": 212600,
       "name": "Annabel",
       "url": "https://open.spotify.com/track/41Wklq87430ovCkiHchbN2"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Hits: 40 Trips Around The Sun",
+        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 330986,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Holiday Rap: Best of Collector Mc Miker & DJ Sven (Original Version)",
-        "url": "https://open.spotify.com/album/3V5IbtfYHbFSr2dHQ0944q"
-      },
-      "artists": [
-        {
-          "name": "MC Miker & DJ Sven",
-          "url": "https://open.spotify.com/artist/4LxtkdZFFbBjqvRkehIbAq"
-        }
-      ],
-      "duration_ms": 266274,
-      "name": "Holiday Rap - Version 1986",
-      "url": "https://open.spotify.com/track/2wCgOxYof67qXam24a3pHz"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Aretha (Expanded Edition)",
         "url": "https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Holiday Rap: Best of Collector Mc Miker & DJ Sven (Original Version)",
+        "url": "https://open.spotify.com/album/3V5IbtfYHbFSr2dHQ0944q"
+      },
+      "artists": [
+        {
+          "name": "MC Miker & DJ Sven",
+          "url": "https://open.spotify.com/artist/4LxtkdZFFbBjqvRkehIbAq"
+        }
+      ],
+      "duration_ms": 266274,
+      "name": "Holiday Rap - Version 1986",
+      "url": "https://open.spotify.com/track/2wCgOxYof67qXam24a3pHz"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Het Allerbeste Van Toontje Lager (Top 20)",
         "url": "https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
-        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 228540,
-      "name": "Doris Day",
-      "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Ik Weet Niet Hoe",
         "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 206093,
       "name": "Ik Weet Niet Hoe",
       "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
+        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 228540,
+      "name": "Doris Day",
+      "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
     },
     {
       "added_at": "2024-07-09 16:44:07",

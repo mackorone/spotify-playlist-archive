@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
 
-661 songs - 1 day 12 hr 37 min
+663 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 | 2025-04-21 |
 | [aigre\-doux](https://open.spotify.com/track/7MQRzWGNbrsbbJxlxFJ6MR) | [長妻怜央 & 安井謙太郎 from 7ORDER](https://open.spotify.com/artist/24p9nQZKkZpT2kI4eRwmjN) | [aigre\-doux](https://open.spotify.com/album/1Wom06jbs8fva9g4mZfB6N) | 3:17 | 2024-02-06 | 2024-02-14 |
 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 | 2025-07-09 |
-| [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 | 2025-07-24 |  |
+| [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 | 2025-07-24 | 2025-07-29 |
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-19 |  |
 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 | 2024-08-13 | 2024-12-23 |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-01 |  |
@@ -483,6 +483,7 @@
 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 | 2023-12-21 | 2024-01-20 |
 | [Stage of the Universe](https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Stage of the Universe](https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z) | 3:33 | 2024-01-02 | 2024-01-10 |
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
+| [Stardust Forever](https://open.spotify.com/track/1XlzDHh9u8HW29ApDIsE6O) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:49 | 2025-07-28 |  |
 | [Stardust Forever](https://open.spotify.com/track/5lyhVD94kdyF2GaR844zPa) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/2DuzA2TVZxOXkIt4xuuSwE) | 2:49 | 2025-06-12 | 2025-07-25 |
 | [Stargaze](https://open.spotify.com/track/2c0DXz1BW0FdiDXi2h4prp) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Stargaze](https://open.spotify.com/album/2fOvvVnrRNqmMvPWjWxDDx) | 3:57 | 2025-07-07 |  |
 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 | 2024-01-16 | 2024-04-24 |
@@ -493,6 +494,7 @@
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-02 | 2025-07-02 |
 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 | 2024-07-09 | 2024-10-16 |
 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 | 2025-03-24 | 2025-06-13 |
+| [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 |  |
 | [Sugar Blood Kiss](https://open.spotify.com/track/14vIy9ZQnigIz5bU1k7G59) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Sugar Blood Kiss](https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB) | 3:32 | 2024-04-23 | 2024-05-15 |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [Summer Vacation](https://open.spotify.com/track/36qCIpJxXBTi6JZqWufoqb) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Summer Vacation](https://open.spotify.com/album/7kW5feki3ZoaWMgzDnU0HT) | 3:24 | 2025-07-07 | 2025-07-09 |

@@ -2,9 +2,9 @@
 
 ### [Every Number One](https://open.spotify.com/playlist/37i9dQZF1DWU7oFJkRIANi)
 
-> \#1 hits from the top of the Australian charts, featuring current \#1 Alex Warren
+> \#1 hits from the top of the Australian charts, featuring current \#1 Justin Bieber
 
-94 songs - 5 hr 15 min
+95 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [cardigan](https://open.spotify.com/track/4LEK9rD7TWIG4FCL1s27XC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:59 | 2023-06-05 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2023-06-05 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-02-26 |  |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-28 |  |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2023-06-05 | 2024-04-19 |
 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 | 2024-03-18 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2023-06-05 | 2024-04-19 |
@@ -80,7 +81,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-06-05 | 2024-04-19 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2024-03-18 |  |
 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 | 2023-06-05 |  |
-| [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2023-06-05 |  |
+| [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2023-06-05 | 2025-07-29 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2023-06-05 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-02-22 |  |

@@ -4,7 +4,7 @@
 
 > Watch the latest <a href="spotify:episode:07yBAoYFMezvtfjys48nIr">Billions Club Live Concert Film</a> with Miley Cyrus
 
-1,061 songs - 2 day 16 hr 13 min
+1,063 songs - 2 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-12-04 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2021-10-20 |  |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2023-06-14 |  |
+| [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2025-07-28 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2023-02-07 |  |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-01-10 |  |
 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 | 2024-10-24 |  |
@@ -934,6 +935,7 @@
 | [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2022-06-13 |  |
 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 | 2025-03-10 |  |
 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 | 2023-03-17 |  |
+| [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-07-28 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2021-09-01 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2023-01-25 |  |
 | [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 | 2022-11-14 |  |

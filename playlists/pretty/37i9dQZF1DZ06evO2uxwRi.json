@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42330,
+  "num_followers": 42342,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAcIcXAOQTzgKlYvVH8xjBI",
+  "snapshot_id": "aIVsAAAAAAD2L4N5LfNu6L3rnPbJKizD",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 134933,
       "name": "Truck Stop Blues",
       "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
     },
     {
       "added_at": null,

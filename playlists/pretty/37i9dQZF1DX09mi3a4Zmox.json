@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3983696,
+  "num_followers": 3983288,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -303,18 +287,34 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -339,34 +339,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -383,6 +367,22 @@
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -475,34 +459,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -527,18 +495,34 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 258532,
-      "name": "Al\u00e9jate de M\u00ed",
-      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -559,6 +543,22 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Al\u00e9jate de M\u00ed",
+      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Vamos a Darnos Tiempo",
-      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Coraz\u00f3n Latino",
         "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "El Amor",
-      "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211733,
       "name": "Te Amar\u00e9",
       "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
     },
     {
       "added_at": "2025-07-18 04:00:09",

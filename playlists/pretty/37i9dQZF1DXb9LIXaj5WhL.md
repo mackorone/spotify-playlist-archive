@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,722 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,432,712 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 9 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 10 | [Slide](https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 3:32 |
 | 11 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
-| 12 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
-| 13 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
+| 12 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
+| 13 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
 | 14 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 15 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 16 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |

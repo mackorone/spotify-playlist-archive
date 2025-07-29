@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-163 songs - 7 hr 43 min
+164 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Calming Drizzle](https://open.spotify.com/track/02WdLBG087ZR478yCXy6o8) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:42 | 2023-10-11 |  |
 | [Calming Rain Forest](https://open.spotify.com/track/6w5nfQXceDxyzCSC90Vate) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Calming Rain Forest](https://open.spotify.com/album/3FONPWCDZuVg3n5izU4dXg) | 2:52 | 2023-10-11 |  |
 | [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
-| [Chill Raindrops](https://open.spotify.com/track/3Z2WB90ojQshe0KTgykNWQ) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Spring Rain](https://open.spotify.com/album/2SLRx4y1nNLZ3eIn535nTA) | 3:01 | 2023-10-11 |  |
+| [Chill Raindrops](https://open.spotify.com/track/3Z2WB90ojQshe0KTgykNWQ) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Spring Rain](https://open.spotify.com/album/2SLRx4y1nNLZ3eIn535nTA) | 3:01 | 2023-10-11 | 2025-07-29 |
 | [Chipi Chipi \(Rain\)](https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ) | [Scattered Sprinkle](https://open.spotify.com/artist/4ed0GFW4G1Q71nNdtTl7S7) | [Chipi Chipi \(Rain\)](https://open.spotify.com/album/7BOg6bK8x2Y8h5oG6e460z) | 2:50 | 2024-03-11 |  |
 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-21 |  |
 | [Cloud Nine \(Rain\)](https://open.spotify.com/track/4wEghUsf0cQHbm66QsPboI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2022-12-17 |
@@ -92,6 +92,7 @@
 | [Mindful in Rain Forest](https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 2:20 | 2022-11-21 |  |
 | [Mirage](https://open.spotify.com/track/70e9mOoJhyBmXfGAoYvb2c) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Aquapeace](https://open.spotify.com/album/0J4YkWLy85IjtD9rMOdU6M) | 2:20 | 2023-10-11 | 2025-07-25 |
 | [Morning Rain \(Green Noise\)](https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:29 | 2023-06-16 |  |
+| [Mosslight Rain](https://open.spotify.com/track/0fssBwzuKUh44oWOt3DTVU) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:12 | 2025-07-24 |  |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-11-21 |  |
 | [Night Rain In The Garden](https://open.spotify.com/track/0GdM8G5zBlK3DI18vaFHeT) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [My Secret Garden](https://open.spotify.com/album/0KtKDMceROcLz6Ft4b7aEY) | 2:26 | 2023-02-13 |  |
 | [Nordic Drops](https://open.spotify.com/track/1Pj1RuUGYtwIRAx5KK4f5e) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:22 | 2022-11-21 |  |

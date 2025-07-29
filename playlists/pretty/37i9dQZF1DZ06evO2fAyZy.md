@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,618 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,633 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 18 | [Love Me Like You Mean It](https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
 | 19 | [Mountain With A View](https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:57 |
 | 20 | [HEARTFIRST](https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:07 |
-| 21 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 |
-| 22 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
+| 21 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
+| 22 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 |
 | 23 | [Dibs](https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:03 |
 | 24 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
-| 25 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
-| 26 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 |
+| 25 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 |
+| 26 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
 | 27 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
 | 28 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
-| 29 | [Cut Me Up](https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:35 |
-| 30 | [the other girl \(with Halsey\)](https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:21 |
+| 29 | [the other girl \(with Halsey\)](https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:21 |
+| 30 | [Cut Me Up](https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:35 |
 | 31 | [I Hate Love Songs](https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:11 |
 | 32 | [I Would, Would You](https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:52 |
 | 33 | [THE LITTLE THINGS](https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 49 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 50 | [Sorry Mom](https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:35 |
 
-Snapshot ID: `aIQagAAAAAAQ3yLQ0voUSVWwgsjEC9mJ`
+Snapshot ID: `aIVsAAAAAAAqpDsbx/NXxxpjGqqT6vnY`

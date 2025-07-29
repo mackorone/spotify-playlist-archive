@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 377 songs - 1 day 1 hr 37 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 384 songs - 1 day 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -385,5 +385,12 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 375 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 376 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
 | 377 | [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 |
+| 378 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
+| 379 | [Changes](https://open.spotify.com/track/5QdBAG8cpZhM3kIAQLDRN2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 4:42 |
+| 380 | [Flying High Again](https://open.spotify.com/track/3VPcxdwwo9TcjAOYZa5ZrP) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Diary Of A Madman](https://open.spotify.com/album/4xiRrFE0Gq4Si9mAfPB3hZ) | 4:44 |
+| 381 | [Hand of Doom \- 2012 \- Remaster](https://open.spotify.com/track/72YRB6ar59nBsNdnn0cVdD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:08 |
+| 382 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 |
+| 383 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
+| 384 | [Let Me Hear You Scream](https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Scream \(Expanded Edition\)](https://open.spotify.com/album/72OTYgFKqc6ALaGfXZQUWM) | 3:25 |
 
-Snapshot ID: `AAABiTDNmLcF9T4aXu+5hl00i6B7yJ77`
+Snapshot ID: `AAABkDipMrIVSawI3nwTf3BAF1ocINvx`

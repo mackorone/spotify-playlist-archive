@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 242 songs - 14 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 242 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 157 | [My Oh My \(feat\. DaBaby & Gunna\) \- Remix](https://open.spotify.com/track/2ONOyrMhqho3oajY2tpC2n) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [My Oh My \(feat\. DaBaby & Gunna\) \[Remix\]](https://open.spotify.com/album/4UlrIJz4nXZBmqvkfXwfwR) | 2:59 |
 | 158 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
 | 159 | [Ali](https://open.spotify.com/track/6woUGfLfyRfzhtn5w3MRDR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 3:12 |
-| 160 | [Bentley Truck](https://open.spotify.com/track/4SbiF0fFPbhG3it1foH7MG) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 4:35 |
-| 161 | [Self Aware Bitch](https://open.spotify.com/track/2Ps9PNE2gwk27WW97VGswu) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 2:49 |
+| 160 | [Self Aware Bitch](https://open.spotify.com/track/2Ps9PNE2gwk27WW97VGswu) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 2:49 |
+| 161 | [Bentley Truck](https://open.spotify.com/track/4SbiF0fFPbhG3it1foH7MG) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 4:35 |
 | 162 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 |
 | 163 | [Antares](https://open.spotify.com/track/3NTQws0JI0usmAUXHD8Gia) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:06 |
 | 164 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 242 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Ab37hgAAAAADLEyLfRu+3VLUgi59GCRE`
+Snapshot ID: `Ab4BHAAAAABcZT5fkcX40bJZF+x8r4Xz`

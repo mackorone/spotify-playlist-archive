@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,997 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,148 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 59 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
 | 60 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
 | 61 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
-| 62 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
-| 63 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 62 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 63 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 64 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
 | 65 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
 | 66 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |

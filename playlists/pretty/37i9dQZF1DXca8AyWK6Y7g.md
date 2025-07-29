@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life! cover: alessi rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,231 likes - 108 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,153 likes - 108 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87596,
+  "num_followers": 87602,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADdkjNYT+4DLK7iXubzEznF",
+  "snapshot_id": "aIVsAAAAAADVRLn9I+Gp2/HOWHg1HYcq",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
       "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 196214,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": null,
@@ -491,22 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
       "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Car (Remixes)",
-        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 330967,
-      "name": "Fast Car - Club Mix",
-      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 206666,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Car (Remixes)",
+        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 330967,
+      "name": "Fast Car - Club Mix",
+      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
     },
     {
       "added_at": null,

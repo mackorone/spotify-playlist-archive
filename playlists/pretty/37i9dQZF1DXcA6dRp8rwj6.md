@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Tyler, The Creator\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,381 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,491 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

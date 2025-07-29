@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 101 | [Conversations in the Dark \- Violin Remix](https://open.spotify.com/track/6ujkVvJAlQ39Ra0E2tKx8M) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [John Legend x Lindsey Stirling: The Violin Remixes](https://open.spotify.com/album/1K2wTjP6DYiAljLN10283k) | 3:42 |
 | 102 | [Sick of Me Too](https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3YiObZSEulFloi6gA9V0rf) | 2:31 |
 | 103 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
-| 104 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
-| 105 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 104 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 105 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
 | 106 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
 | 107 | [Company](https://open.spotify.com/track/55kYJ7B56iDV7jDgA6vKCJ) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Company](https://open.spotify.com/album/75YVWxYcBLnetgaM4GdU2g) | 3:43 |
 | 108 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 166 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 | 167 | [indica](https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME) | [jesse](https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT) | [kat](https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400) | 1:49 |
 
-Snapshot ID: `Ab37aAAAAACsmHw+hLL2bsNZ/MtJU+Y2`
+Snapshot ID: `Ab4A/gAAAADdCwgqgCpv4GsRtHT16nu3`

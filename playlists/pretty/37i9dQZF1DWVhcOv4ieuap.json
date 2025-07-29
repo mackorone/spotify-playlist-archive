@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1038413,
+  "num_followers": 1038454,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "capaz (merengueton)",
-        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
+        "name": "Tiroteo (Remix)",
+        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         },
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
+      "duration_ms": 321555,
+      "name": "Tiroteo - Remix",
+      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -295,26 +299,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Tiroteo (Remix)",
-        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 321555,
-      "name": "Tiroteo - Remix",
-      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "WE PRAY (TINI Version)",
         "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 172503,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1363,6 +1343,26 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172503,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Te Imaginaba",
-        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Te Imaginaba",
-      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -1535,6 +1519,42 @@
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1607,22 +1627,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 130220,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
@@ -1635,6 +1639,22 @@
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 130220,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1783,6 +1803,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "voltaje",
+        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "voltaje",
+      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -1795,22 +1835,6 @@
       "duration_ms": 157007,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1847,38 +1871,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ve y Diles",
-        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Ve y Diles",
-      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

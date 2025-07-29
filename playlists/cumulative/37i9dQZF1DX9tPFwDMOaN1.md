@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: TOMORROW X TOGETHER\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: BLACKPINK\)
 
-695 songs - 1 day 12 hr 10 min
+696 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-22 | 2025-05-03 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-21 | 2022-06-25 |
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-06 | 2023-10-21 |
-| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 | 2025-07-29 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-27 | 2022-12-22 |
 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-13 | 2022-01-11 |
@@ -481,6 +481,7 @@
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-20 | 2025-06-03 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-15 | 2024-04-08 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-12-13 | 2022-05-12 |
+| [r u ok?](https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:44 | 2025-07-28 |  |
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-20 | 2023-03-11 |
 | [Rebel](https://open.spotify.com/track/4Vawz7UCdavhRW1OxovN4a) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [20&2 \- The 9th Album](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) | 2:44 | 2023-12-27 | 2024-01-26 |
 | [REBEL HEART](https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/7wDskR5Q6K1qqLPEG8W8kB) | 3:08 | 2025-01-13 | 2025-06-14 |

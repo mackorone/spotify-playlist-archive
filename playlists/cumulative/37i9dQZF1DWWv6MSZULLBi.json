@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 184648,
       "name": "After a While",
       "url": "https://open.spotify.com/track/6iAEOBu38x5Qbg2CcoCgk8"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 196639,
       "name": "Begin",
       "url": "https://open.spotify.com/track/2Xl7Aw8qNgxodJbxJV49Rc"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 210773,
       "name": "Blue Embers",
       "url": "https://open.spotify.com/track/1I3qnpna2lLZeTk2B06bih"
@@ -4626,7 +4626,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 277299,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/4joCdZ76bt2OQTqYMbizJI"
@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 222365,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf"
@@ -5886,7 +5886,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
@@ -6489,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/2JSiPJeCV42psHYQEPUji1"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200570,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/3uxEnpxnkSVmLCNR3i71Il"
+    },
+    {
+      "album": {
         "name": "Feel This Way Too",
         "url": "https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe"
       },
@@ -6536,7 +6554,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 200626,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
@@ -8331,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Heavy Foot",
+        "url": "https://open.spotify.com/album/67pI7imaiLZ70j22ROlLmf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145058,
+      "name": "Heavy Foot",
+      "url": "https://open.spotify.com/track/6tJQwOhJTw9a6l7C1EEBbP"
+    },
+    {
+      "album": {
         "name": "That Was You and Me",
         "url": "https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH"
       },
@@ -8620,6 +8656,24 @@
       "duration_ms": 252085,
       "name": "Hills",
       "url": "https://open.spotify.com/track/3Jym2SAhAsYjzcAfMSp1sV"
+    },
+    {
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "album": {
@@ -8940,6 +8994,24 @@
       "duration_ms": 253808,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw"
+    },
+    {
+      "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     },
     {
       "album": {
@@ -11392,7 +11464,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 173888,
       "name": "Life I Wanted",
       "url": "https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy"
@@ -12184,7 +12256,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 226972,
       "name": "Magic",
       "url": "https://open.spotify.com/track/10e8q50norTRKjCFM3xePC"
@@ -12526,7 +12598,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 200214,
       "name": "Melody",
       "url": "https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE"
@@ -14300,7 +14372,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 218426,
       "name": "ok",
       "url": "https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM"
@@ -15530,6 +15602,24 @@
       "duration_ms": 145666,
       "name": "Praying For Something Good",
       "url": "https://open.spotify.com/track/5qpDDtkdATvsChnQPpi3iP"
+    },
+    {
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "album": {
@@ -18450,7 +18540,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 312602,
       "name": "Superlover (Feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
@@ -18920,7 +19010,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 279051,
       "name": "Tell me I never knew that",
       "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
@@ -19176,7 +19266,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 237541,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/6bk9Tqq2fQrZBVgNISxgjl"
@@ -20626,7 +20716,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 206815,
       "name": "trouble",
       "url": "https://open.spotify.com/track/1RriFYclWq7TtWGBbXHfLJ"
@@ -21883,6 +21973,24 @@
     },
     {
       "album": {
+        "name": "When the Lavender Blooms",
+        "url": "https://open.spotify.com/album/3N5fQyXfKJPpQvHm3mG4pw"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216107,
+      "name": "When the Lavender Blooms",
+      "url": "https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu"
+    },
+    {
+      "album": {
         "name": "When The Storm Has Passed b/w Moonlight, Stay Above",
         "url": "https://open.spotify.com/album/3nkAY6doVQ6cI4uLvB9pro"
       },
@@ -22578,6 +22686,24 @@
       "duration_ms": 243908,
       "name": "You",
       "url": "https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC"
+    },
+    {
+      "album": {
+        "name": "You Again",
+        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
     },
     {
       "album": {

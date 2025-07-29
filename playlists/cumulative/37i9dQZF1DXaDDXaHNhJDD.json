@@ -3641,6 +3641,32 @@
     },
     {
       "album": {
+        "name": "Panjara Punch (From \"Alappuzha Gymkhana\")",
+        "url": "https://open.spotify.com/album/6ywvIVJG0pksUvqqTDUf33"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165149,
+      "name": "Panjara Punch - From \"Alappuzha Gymkhana\"",
+      "url": "https://open.spotify.com/track/2ogcJnC4TJ6DBkBsR2KU1y"
+    },
+    {
+      "album": {
         "name": "Parayathe Vannen (From \"Bro Daddy\")",
         "url": "https://open.spotify.com/album/6ScYYuCyiCCcaFyednakOe"
       },
@@ -4712,7 +4738,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 194989,
       "name": "Thumbi - From \"Anchakkallakokkan\"",
       "url": "https://open.spotify.com/track/1QYwlKWAeFLzzo1Yxpfo0F"

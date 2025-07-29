@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,181 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,347 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 19 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
 | 20 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 21 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
-| 22 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
-| 23 | [The real thing](https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2) | [Movin' On](https://open.spotify.com/album/015atHfkTckCacqwdccLZn) | 3:58 |
+| 22 | [The real thing](https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2) | [Movin' On](https://open.spotify.com/album/015atHfkTckCacqwdccLZn) | 3:58 |
+| 23 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
 | 24 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 | 25 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
 | 26 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 32 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 33 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
 | 34 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
-| 35 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
-| 36 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
+| 35 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
+| 36 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
 | 37 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 38 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 | 39 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |

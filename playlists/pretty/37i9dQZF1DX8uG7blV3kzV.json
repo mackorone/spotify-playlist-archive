@@ -1,6 +1,6 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats. Cover: Burna Boy",
-  "num_followers": 9991,
+  "num_followers": 9993,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/0XrZkuSgrDEI14kRHqdz77"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/1OnIwQ9ENeFghbHZhZ4xkl"
+        }
+      ],
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Rodeo (Remix)",
-        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
-      },
-      "artists": [
-        {
-          "name": "Lah Pat",
-          "url": "https://open.spotify.com/artist/0XrZkuSgrDEI14kRHqdz77"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/1OnIwQ9ENeFghbHZhZ4xkl"
-        }
-      ],
-      "duration_ms": 245959,
-      "name": "Rodeo (Remix)",
-      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "INTOXYCATED",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 236739,
       "name": "Valentina (feat. Rick Ross) - Bonus",
       "url": "https://open.spotify.com/track/7DthGkMhQH9REePi7nBUm4"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "INTOXYCATED",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INTOXYCATED",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     }
   ],
   "unique_name": "Now Playing...",

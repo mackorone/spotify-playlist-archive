@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, iced coffee, & all the lovely spring things",
-  "num_followers": 247606,
+  "num_followers": 247678,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-04-15 19:23:37",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2025-04-15 19:23:37",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2025-04-15 19:23:37",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2025-04-15 19:23:37",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-04-15 19:23:37",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 251510,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
-    },
-    {
-      "added_at": "2025-04-15 19:23:37",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 173888,
       "name": "Freaking Out the Neighborhood",
       "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
+    },
+    {
+      "added_at": "2025-04-15 19:23:37",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 251510,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
     },
     {
       "added_at": "2025-04-15 19:23:37",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-04-15 19:23:37",
       "album": {
-        "name": "The Definitive Collection (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
-    },
-    {
-      "added_at": "2025-04-15 19:23:37",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2025-04-15 19:23:37",
       "album": {
-        "name": "Cyclones and Hey Lover",
-        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
+        "name": "The Definitive Collection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
       },
       "artists": [
         {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Hey Lover!",
-      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+      "duration_ms": 199386,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
     },
     {
       "added_at": "2025-04-15 19:23:37",
@@ -695,18 +679,18 @@
     {
       "added_at": "2025-04-15 19:23:37",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything",
-      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2025-04-15 19:23:37",
@@ -723,6 +707,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2025-04-15 19:23:37",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything",
+      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
     },
     {
       "added_at": "2025-04-15 19:23:37",

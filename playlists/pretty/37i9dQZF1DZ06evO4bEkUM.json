@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 941588,
+  "num_followers": 941791,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADbS4g/dS2kxAdWmTQWWy+p",
+  "snapshot_id": "aIVsAAAAAAB/JC/IXivqrQWaCYeb8sd2",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 210620,
-      "name": "Sanity (demo)",
-      "url": "https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling (Deluxe)",
         "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 225034,
       "name": "O Star",
       "url": "https://open.spotify.com/track/3lwOABYgvKcKcgbxSWRMv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 210620,
+      "name": "Sanity (demo)",
+      "url": "https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv"
     },
     {
       "added_at": null,

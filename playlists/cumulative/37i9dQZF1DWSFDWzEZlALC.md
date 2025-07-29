@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: RAUM27, SOFFIE
 
-1,319 songs - 2 day 14 hr 11 min
+1,320 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Du bist genauso..](https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d) | [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T) | [Du bist genauso..](https://open.spotify.com/album/7Cd6XXoZz7FRsWhNYHACRS) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [du bist mutig](https://open.spotify.com/track/2lmLJ9WYYDQJzg8xtzHxU8) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [versprochen, alles wird gut!](https://open.spotify.com/album/7s84FKFZ9CRVN1xJLGraQD) | 2:32 | 2023-02-02 | 2023-03-03 |
 | [du bist so gut zu mir\_demo](https://open.spotify.com/track/60mCqWeO8RYbRnbkQzHKdN) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [du bist so gut zu mir\_demo](https://open.spotify.com/album/4gBrGZN1CNQdLcCFikE55p) | 2:54 | 2024-11-07 | 2024-11-30 |
+| [Du bist wie](https://open.spotify.com/track/4RjV7KgAaGvujkv1rpifRU) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Du bist wie](https://open.spotify.com/album/68wZ1sJlRYXPCZKXW3lhdH) | 2:24 | 2025-07-28 |  |
 | [du fehlst mir nicht](https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [du fehlst mir nicht](https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk) | 2:25 | 2024-10-24 | 2024-12-06 |
 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 | 2023-05-11 | 2023-06-09 |
 | [Du rufst mich nur an](https://open.spotify.com/track/7oag4rrTiRTT7nWU5c8QOI) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Wir verglühen](https://open.spotify.com/album/2OLzxK9RDotm23S5vkupSP) | 3:05 | 2025-03-06 | 2025-04-11 |
@@ -305,7 +306,7 @@
 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 | 2025-06-05 |  |
 | [Dünya](https://open.spotify.com/track/7jI2dBQDgD00pYz6eTP7iD) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Dünya](https://open.spotify.com/album/7ljoJZvyV5EFoLgprpkf2e) | 2:56 | 2025-02-13 | 2025-02-15 |
 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 | 2024-03-07 | 2024-03-29 |
-| [Echo](https://open.spotify.com/track/38kyUaEzbBm3dv86WYORjS) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Echo](https://open.spotify.com/album/2Wp9NXUnTguV7JwX7NR8gO) | 2:40 | 2025-06-26 |  |
+| [Echo](https://open.spotify.com/track/38kyUaEzbBm3dv86WYORjS) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Echo](https://open.spotify.com/album/2Wp9NXUnTguV7JwX7NR8gO) | 2:40 | 2025-06-26 | 2025-07-29 |
 | [Echt](https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Don't grow up \(it's a trap\)](https://open.spotify.com/album/7wfLhaSIVv5dXwnnKvEGTf) | 2:30 | 2024-07-18 | 2024-11-08 |
 | [echt von unten / zoé freestyle](https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [echt von unten / zoé freestyle](https://open.spotify.com/album/4GtfNpDYB3K8gqeQLLFDzA) | 3:11 | 2023-09-07 | 2023-10-06 |
 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 | 2024-07-11 | 2024-11-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82046,
+  "num_followers": 82044,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADl895j+G8CEhLS1ObNi1nA",
+  "snapshot_id": "aIVsAAAAAABB3Y7JenT5cfykL0Bovo8+",
   "tracks": [
     {
       "added_at": null,
@@ -1075,6 +1075,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,

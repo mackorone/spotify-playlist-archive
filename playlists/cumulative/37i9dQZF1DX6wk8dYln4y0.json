@@ -4646,7 +4646,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
@@ -4873,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186435,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
+    },
+    {
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 187133,
       "name": "kill me for always (feat. porter robinson)",
       "url": "https://open.spotify.com/track/5xCTgxiJcVrrjKAh3O4OwM"
@@ -5768,6 +5786,24 @@
       "duration_ms": 182616,
       "name": "million times",
       "url": "https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00"
+    },
+    {
+      "album": {
+        "name": "miss sunshine",
+        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203187,
+      "name": "miss sunshine",
+      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
     },
     {
       "album": {

@@ -5303,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "\u5b58\u5728A",
+        "url": "https://open.spotify.com/album/0SUtRT1ULnZyvMjvBGvUZB"
+      },
+      "artists": [
+        {
+          "name": "DeNeel",
+          "url": "https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "\u5b58\u5728A",
+      "url": "https://open.spotify.com/track/1QbIt51B9yck9AJLRyFlt2"
+    },
+    {
+      "album": {
         "name": "\u5fc5\u6b7b",
         "url": "https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO"
       },

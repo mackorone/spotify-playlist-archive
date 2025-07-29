@@ -4,10 +4,11 @@
 
 > Canciones que tenes que escuchar  📸 DobleP y La Joaqui
 
-847 songs - 1 day 19 hr 14 min
+847 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tu Me Dice](https://open.spotify.com/album/26B0HS1Tk6auY7NwLEB8dL) | 0:00 | 2025-07-25 |  |
 | [\#TETAS](https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [\#TETAS](https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq) | 2:29 | 2025-02-28 | 2025-05-31 |
 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 | 2025-06-20 |  |
 | [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 | 2024-11-08 | 2025-01-30 |
@@ -769,7 +770,6 @@
 | [Tu Favorito](https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Tu Favorito](https://open.spotify.com/album/6Ts25jGXnk9bPswAuUbv0M) | 2:56 | 2025-02-21 | 2025-05-24 |
 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 | 2024-05-24 | 2024-11-30 |
 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 | 2025-05-23 |  |
-| [Tu Me Dice](https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls) | [salastkbr0n](https://open.spotify.com/artist/0TtAyLGnZIryy3kKBydSoK) | [Tu Me Dice](https://open.spotify.com/album/26B0HS1Tk6auY7NwLEB8dL) | 1:47 | 2025-07-25 |  |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2025-07-18 |  |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-05-12 | 2023-09-19 |
 | [Tu Ropa](https://open.spotify.com/track/4JQgopha31U9YQn2Hblgah) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Tu Ropa](https://open.spotify.com/album/7e27F3CJGBjGQmO6u8LYnB) | 2:51 | 2024-06-07 | 2024-08-10 |

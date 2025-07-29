@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-771 songs - 1 day 8 hr 26 min
+772 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [The Good Advice You Just Don't Take](https://open.spotify.com/track/0uZBFZ2ER97c9EtxjvDEgj) | [Tom Eaton](https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5) | [Snapshots](https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI) | 1:14 | 2023-10-29 | 2024-05-12 |
 | [The gravity of the moment](https://open.spotify.com/track/6xqqbekGqdfAJ7JqC9doNK) | [Daniel Catalá](https://open.spotify.com/artist/1STKeXY0WQed99fnFrGQT3) | [The gravity of the moment](https://open.spotify.com/album/6J5u24dYFPTHv0Km7NhQPd) | 1:50 | 2023-10-29 | 2024-05-12 |
 | [The Greenland Sea](https://open.spotify.com/track/0ppBRXs8tnzwVKbcUG3L1T) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [The Greenland Sea](https://open.spotify.com/album/6c31KlYowPk9QdoTk2NhaG) | 1:38 | 2024-04-13 | 2025-03-01 |
+| [the kindness in her eyes](https://open.spotify.com/track/3ZWdKYfxs7ErxwqNSp8G3u) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [the kindness in her eyes](https://open.spotify.com/album/05aQNI911eXKdKkfpNkXsf) | 2:16 | 2025-07-28 |  |
 | [The Last Impressionist](https://open.spotify.com/track/7hxmsFWyyuI52tbJCNxruU) | [Mariposa](https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g) | [The Last Impressionist](https://open.spotify.com/album/4qyThJug35v8OcYjHLO74U) | 2:06 | 2024-02-09 | 2025-03-02 |
 | [The Last Voyage](https://open.spotify.com/track/0JjGqRnvbhSdSOjZZg1gPQ) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [The Last Voyage](https://open.spotify.com/album/3HR0bc7qxiofoC6UYUNCTq) | 2:17 | 2024-01-25 | 2024-12-28 |
 | [The Lighthouse](https://open.spotify.com/track/2ZbRULAOxZGSxj76v6wTGj) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 2:38 | 2024-07-12 | 2025-03-02 |
@@ -729,7 +730,7 @@
 | [Warm and Safe](https://open.spotify.com/track/72cb632ziebzmujaqTdXlx) | [Hunter Rossi](https://open.spotify.com/artist/4tJfcsfXlyZ2L8nKF3BhJu) | [Sweet World](https://open.spotify.com/album/2HlpqMglGikBo744RL61h5) | 1:39 | 2024-12-13 |  |
 | [Warmest Lullaby](https://open.spotify.com/track/4e7ZOSQuzuxZVVxiXJ8jlt) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh), [Jordy Chandra Orchestra](https://open.spotify.com/artist/6GIie3fBA4zReOkm3gMwiQ) | [Warmest Lullaby](https://open.spotify.com/album/1jfYmplq67ypvxaUkWKuSI) | 1:25 | 2024-04-13 | 2025-03-02 |
 | [Warmth](https://open.spotify.com/track/6CYRRfBiWyHVTJGL1rM65q) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Warmth](https://open.spotify.com/album/3nSu4UnCngz855S6Au2nNJ) | 1:44 | 2023-10-29 | 2024-05-03 |
-| [Waterfall](https://open.spotify.com/track/5M0hcvGQyO2LC5JIbshtUA) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waterfall](https://open.spotify.com/album/2rFtUFE8nk3PwBG07Vuyti) | 3:20 | 2024-09-06 |  |
+| [Waterfall](https://open.spotify.com/track/5M0hcvGQyO2LC5JIbshtUA) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waterfall](https://open.spotify.com/album/2rFtUFE8nk3PwBG07Vuyti) | 3:20 | 2024-09-06 | 2025-07-29 |
 | [Waterfalls of Life](https://open.spotify.com/track/6aeRz2hfrtz5oWtiu5do0a) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Waterfalls of Life](https://open.spotify.com/album/5WhWDpYMihfjPk0QxRFBiY) | 1:45 | 2023-10-29 | 2024-06-20 |
 | [watermelon sugar \- piano instrumental](https://open.spotify.com/track/4gEBcjMwIh1r8KfiMMhGbo) | [Chilled Kitten](https://open.spotify.com/artist/4bAR3McB7SPBGgDmWTRmvP) | [watermelon sugar \(piano instrumental\)](https://open.spotify.com/album/2pPeVMycSTC5MqlW8mdYJq) | 3:08 | 2023-10-29 | 2024-10-24 |
 | [Waves](https://open.spotify.com/track/1k1EAe1t6B9hCP2OGB4uwz) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waves](https://open.spotify.com/album/4dSe9CnMvMzncI58YkBv35) | 3:10 | 2024-10-11 |  |

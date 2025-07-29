@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,008 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,013 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 11 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 12 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 |
 | 13 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
-| 14 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 |
-| 15 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
+| 14 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
+| 15 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 |
 | 16 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 17 | [Birra](https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Birra](https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT) | 1:53 |
 | 18 | [Overfladisk](https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Overfladisk](https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34) | 2:58 |
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 35 | [Paris](https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Paris](https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb) | 2:10 |
 | 36 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 37 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
-| 38 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
+| 38 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
 | 39 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
-| 40 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 40 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
 | 41 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
 | 42 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
 | 43 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 44 | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
-| 45 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 |
-| 46 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 |
+| 44 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 |
+| 45 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 |
+| 46 | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
 | 47 | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v) | 2:38 |
 | 48 | [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 |
 | 49 | [Leve](https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Leve](https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG) | 2:09 |

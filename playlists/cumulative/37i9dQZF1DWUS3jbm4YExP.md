@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-833 songs - 2 day 11 hr 9 min
+834 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Crystal Sand](https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:31 | 2024-03-08 | 2024-11-22 |
 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 | 2023-02-27 |
 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 | 2021-10-06 | 2022-02-05 |
-| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 |  |
+| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 | 2025-07-29 |
 | [Cumbietiope](https://open.spotify.com/track/4LIdFQO5kSKc8eD8MCLsH6) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:04 | 2021-10-06 | 2022-04-18 |
 | [Dance](https://open.spotify.com/track/2WqMiwXwjpj3kFcO4ht37Z) | [Cabrita](https://open.spotify.com/artist/4FVt6BMbyh2PeX0asQ8nMF), [LARIE](https://open.spotify.com/artist/3ghao2yjayK7uaht9Z0bFy) | [Umbra](https://open.spotify.com/album/4DjALZHUdagEjSO0E53Fzq) | 3:30 | 2023-11-23 | 2024-02-16 |
 | [Dantokpa](https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ) | [Meister Lampe](https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i) | [Orb II](https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f) | 3:21 | 2021-10-06 | 2025-06-16 |
@@ -253,7 +253,7 @@
 | [Faut Pas Fâcher](https://open.spotify.com/track/7IIdpOnUp1e5s56pvXPxZF) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Faut Pas Fâcher](https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr) | 3:36 | 2025-07-11 |  |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
-| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 |  |
+| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 | 2025-07-29 |
 | [Festa na Praia](https://open.spotify.com/track/0Is39OnMsWNLRoWomgVbne) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Festa na Praia](https://open.spotify.com/album/2CThhhWYRRGGG4MOIYlEGs) | 4:11 | 2021-10-06 | 2022-04-19 |
 | [Fighting Slowly](https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Ayuune Sule](https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL) | [Fighting Slowly](https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk) | 5:22 | 2021-10-06 | 2022-07-29 |
 | [Filibusteros](https://open.spotify.com/track/4Q5fXlW4pCg2MlmPRjXANp) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [Filibusteros](https://open.spotify.com/album/6Co7dfsIvfkwughSqAg8vC) | 7:30 | 2021-10-06 | 2022-06-09 |
@@ -276,6 +276,7 @@
 | [Fulan](https://open.spotify.com/track/6hKQ0iwjNplwAYSBtVPaag) | [Electric Jalaba](https://open.spotify.com/artist/2SVMaZH6NEo8Xr4LCDbPoA) | [Fulan](https://open.spotify.com/album/2KqKhjzHzrYRcrMwNAL1mS) | 4:50 | 2021-10-06 | 2022-07-07 |
 | [Full Blast](https://open.spotify.com/track/0kPcYCeqytTNtTyxJFim2E) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Sweet Sweet Music](https://open.spotify.com/album/1y2Cqqq6fe2hrBvQxQTbD5) | 3:55 | 2025-01-31 | 2025-02-21 |
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-07-29 |
+| [Gaip](https://open.spotify.com/track/7noGUq3NBamyCekfjGz5R2) | [Sababa 5](https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu), [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Gaip](https://open.spotify.com/album/3GTUWAY5n7WNQdc5L2WN9s) | 3:53 | 2025-07-25 |  |
 | [Garden](https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS) | 3:34 | 2025-03-07 |  |
 | [Gedima](https://open.spotify.com/track/1wQZ5zmN3gy1tvqeSR2Zr8) | [Jantra](https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN) | [Gedima](https://open.spotify.com/album/4piHLEKpHAJLBFqIXJI3Nm) | 3:56 | 2023-06-16 | 2023-07-19 |
 | [Gennarino 'O Sioux](https://open.spotify.com/track/7yIQkdNIHAPwshIZdR4Jlk) | [Tonica & Dominante](https://open.spotify.com/artist/4U5PlulITu7q03ItEaIOmz) | [Tonica & Dominante](https://open.spotify.com/album/2l3BZH3NPEIlFaEckdh348) | 3:18 | 2023-10-05 |  |
@@ -489,7 +490,7 @@
 | [Metaphors](https://open.spotify.com/track/3VKv346IPntZiz24FT9aK4) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Metaphors](https://open.spotify.com/album/2SK7bkRYmMLyI5qHQ3DvME) | 3:11 | 2024-10-04 | 2025-06-10 |
 | [Meu Balanço](https://open.spotify.com/track/5XT5YRzZKfZJiiGa93P7rG) | [Waltel Branco](https://open.spotify.com/artist/7xTnElN1hw1D3tPHy1axOw) | [Meu Balanço](https://open.spotify.com/album/438qLiFxIdKhMT1BRLPDqN) | 3:18 | 2025-01-31 | 2025-03-04 |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2021-10-06 | 2022-07-02 |
-| [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 | 2024-05-22 | 2025-02-25 |
+| [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 | 2024-05-22 |  |
 | [Mientras Unos Mueren](https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Mientras Unos Mueren](https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ) | 3:44 | 2021-10-06 | 2022-07-21 |
 | [Migratória](https://open.spotify.com/track/7EMTn98ICuKFU3mOEFvAGP) | [Club Makumba](https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ) | [Migratória](https://open.spotify.com/album/5FxxNLPupv3yklUOItLt2e) | 3:46 | 2022-01-18 | 2022-07-15 |
 | [Mil Navajas](https://open.spotify.com/track/25kqGABvosRP3lNla8dnT6) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Miércoles Picante](https://open.spotify.com/album/0jZaVY51WJvyIAx7tA3X3r) | 5:00 | 2023-05-12 | 2023-06-08 |

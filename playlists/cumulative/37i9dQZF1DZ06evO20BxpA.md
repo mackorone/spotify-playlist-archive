@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-144 songs - 6 hr 33 min
+145 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,11 @@
 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 | 2023-08-04 |  |
 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 | 2023-08-04 |  |
 | [Everything is Bathed in Sunlight](https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:51 | 2025-05-13 |  |
+| [False Alliances](https://open.spotify.com/track/3HGLYQ2Qb3qCIDTyDehcg1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Heads of State \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s) | 2:13 | 2025-07-29 |  |
 | [Family Invasion](https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:46 | 2023-09-21 | 2025-01-14 |
 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 | 2023-08-04 | 2024-09-22 |
 | [First Of Many](https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:24 | 2024-11-23 | 2025-04-11 |
-| [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 | 2024-09-03 |  |
+| [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 | 2024-09-03 | 2025-07-29 |
 | [For Millions of Years](https://open.spotify.com/track/4xpvd0eIYKM3SqPDK7pc7r) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:46 | 2025-05-15 | 2025-06-14 |
 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 | 2025-05-13 |  |
 | [Frailty in Love](https://open.spotify.com/track/4nI39GnQb5otTxYYn1Np5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:47 | 2024-10-23 | 2025-04-14 |

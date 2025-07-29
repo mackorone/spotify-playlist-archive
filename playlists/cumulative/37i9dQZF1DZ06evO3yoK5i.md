@@ -4,14 +4,14 @@
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 11 min
+74 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Medio Camino \- Remastered 2021](https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 5:47 | 2024-07-21 |  |
 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 | 2023-09-25 |  |
 | [Ahora Tu \- Remastered 2021](https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:00 | 2024-03-13 |  |
-| [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 | 2023-09-25 |  |
+| [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 | 2023-09-25 | 2025-07-29 |
 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:24 | 2023-09-25 |  |
 | [Cancion para Ella \- Remastered 2021](https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Remastered 192 khz\)](https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0) | 3:40 | 2024-12-26 |  |
 | [Casi Amor \(Quasi amore\) \- Remastered 2021](https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 5:05 | 2023-12-29 |  |
@@ -20,6 +20,7 @@
 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 | 2023-09-25 |  |
 | [Cuanto Amor Me Das](https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros \(Spanish Version\)](https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA) | 4:17 | 2023-09-25 |  |
 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 | 2023-11-10 |  |
+| [Dove c'è musica](https://open.spotify.com/track/3SFBv34cLvMPNXHyihGRkj) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove C'è Musica](https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok) | 4:43 | 2025-07-29 |  |
 | [En Mi Corazón Vivirás](https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:54 | 2023-09-25 |  |
 | [Estrella Gemela](https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:39 | 2023-09-25 | 2024-11-02 |
 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 | 2024-10-31 |  |

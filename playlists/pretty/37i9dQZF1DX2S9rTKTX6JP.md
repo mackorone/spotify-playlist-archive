@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,193 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,298 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 49 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
 | 50 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
 | 51 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
-| 52 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
-| 53 | [Simple Man](https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Simple Man](https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r) | 4:28 |
+| 52 | [Simple Man](https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Simple Man](https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r) | 4:28 |
+| 53 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 54 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
 | 55 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 56 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 64 | [How To Save A Life](https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [How To Save A Life](https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW) | 3:38 |
 | 65 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
 | 66 | [Someone You Loved](https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Ashland](https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw) | [Someone You Loved](https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7) | 3:01 |
-| 67 | [Imagine](https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:48 |
-| 68 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
+| 67 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
+| 68 | [Imagine](https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:48 |
 | 69 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
-| 70 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
-| 71 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
+| 70 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
+| 71 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 72 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 |
 | 73 | [Flagpole Sitta](https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Flagpole Sitta](https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm) | 3:43 |
 | 74 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 94 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
 | 95 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 96 | [I Had Some Help](https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [I Had Some Help](https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0) | 2:39 |
-| 97 | [Like A Stone \- Reimagined](https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Like A Stone \(Reimagined\)](https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2) | 4:47 |
-| 98 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
+| 97 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
+| 98 | [Like A Stone \- Reimagined](https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Like A Stone \(Reimagined\)](https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2) | 4:47 |
 | 99 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
-| 100 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
+| 100 | [Ballroom Blitz](https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Ballroom Blitz](https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb) | 4:09 |
 
 Snapshot ID: `aIJ46QAAAAByKES34wWVejimnjYiYTUk`

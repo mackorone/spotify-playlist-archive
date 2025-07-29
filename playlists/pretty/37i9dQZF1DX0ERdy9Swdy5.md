@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,116 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,231 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 32 | [Si Te Preguntan](https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:47 |
 | 33 | [Esa Mujer](https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Uno Mismo](https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD) | 5:16 |
 | 34 | [Por Eso Está Conmigo](https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:40 |
-| 35 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
-| 36 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
+| 35 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
+| 36 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 37 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Mas](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
 | 38 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
 | 39 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 51 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 52 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
 | 53 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
-| 54 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 55 | [No Le Temas A El](https://open.spotify.com/track/6uI5fS4AMfwzogYg5bt5jK) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Algo Nuevo](https://open.spotify.com/album/3YTADbz8JeI6slSeV5guJU) | 5:24 |
+| 54 | [No Le Temas A El](https://open.spotify.com/track/6uI5fS4AMfwzogYg5bt5jK) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Algo Nuevo](https://open.spotify.com/album/3YTADbz8JeI6slSeV5guJU) | 5:24 |
+| 55 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
 | 56 | [Juguete De Nadie](https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 5:05 |
 | 57 | [La Salsa Vive](https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Muy Agradecido](https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i) | 4:33 |
 | 58 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
-| 59 | [Pensamiento y Palabra](https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Clásicos](https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM) | 4:47 |
-| 60 | [Un Verano En Nueva York](https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Grandes Exitos \- Live](https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE) | 7:21 |
+| 59 | [Un Verano En Nueva York](https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Grandes Exitos \- Live](https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE) | 7:21 |
+| 60 | [Pensamiento y Palabra](https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Clásicos](https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM) | 4:47 |
 | 61 | [Tù No Le Amas Le Temes](https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:27 |
 | 62 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 63 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |

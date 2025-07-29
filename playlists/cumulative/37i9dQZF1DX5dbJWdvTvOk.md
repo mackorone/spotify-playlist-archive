@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-812 songs - 1 day 10 hr 36 min
+813 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 | 2022-07-15 | 2023-04-22 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
-| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 |  |
+| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 | 2025-07-29 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
@@ -123,6 +123,7 @@
 | [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 | 2022-07-22 | 2023-03-11 |
 | [Cappadocia](https://open.spotify.com/track/26CxjkvrjCPMDX9wVMt7U0) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Cappadocia](https://open.spotify.com/album/7GA7yXEMzZOC7Th3RFYaAD) | 2:08 | 2023-04-21 | 2024-11-07 |
 | [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-04-21 |  |
+| [Care](https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V) | [Jeremiah River](https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D) | [Care](https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs) | 2:23 | 2025-07-25 |  |
 | [Carmen](https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Carmen](https://open.spotify.com/album/5lTAEn3yYDwQogpKLv1Zhr) | 2:53 | 2024-05-24 | 2025-03-06 |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-10 |  |
 | [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2023-04-21 | 2024-05-26 |

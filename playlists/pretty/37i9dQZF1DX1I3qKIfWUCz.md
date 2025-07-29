@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,017 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,029 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 37 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 |
 | 38 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 39 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 |
-| 40 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
+| 40 | [What do you want from me?](https://open.spotify.com/track/65kCMKxBUtxl0eRhMcyCsW) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 2:57 |
 | 41 | [How’s That Working Out](https://open.spotify.com/track/7xxDOfhfEA3TwYwqSBg0hL) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:00 |
-| 42 | [What do you want from me?](https://open.spotify.com/track/65kCMKxBUtxl0eRhMcyCsW) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 2:57 |
+| 42 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 43 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 |
 | 44 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
 | 45 | [DIAMONDS](https://open.spotify.com/track/4Jbl0CIs4UBsy98Vb8vmg2) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [DIAMONDS](https://open.spotify.com/album/00VhgbXxw3hSVb5BJdfqkJ) | 2:34 |

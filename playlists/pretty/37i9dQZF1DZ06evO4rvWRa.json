@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641771,
+  "num_followers": 1641757,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADyo46T1VpV0pci/TaTMqqj",
+  "snapshot_id": "aIVsAAAAAAAmdtlu9u+q/Zbq+ey2pIOG",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
       "artists": [
         {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
       "added_at": null,
@@ -311,26 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind Of A Warrior",
-        "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
       "artists": [
         {
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 172922,
-      "name": "Mind Of A Warrior",
-      "url": "https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ"
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+        "name": "Mind Of A Warrior",
+        "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
       },
       "artists": [
         {
@@ -500,33 +500,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+      "duration_ms": 172922,
+      "name": "Mind Of A Warrior",
+      "url": "https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
       "duration_ms": 167173,
       "name": "Legends Never Die - (Remix)",
       "url": "https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
     },
     {
       "added_at": null,

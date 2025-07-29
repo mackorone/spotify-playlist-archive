@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Aditya Bhardwaj,  and other exciting artists.
 
-1,117 songs - 2 day 13 hr 3 min
+1,118 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,7 @@
 | [Tu Kahaan 2.0](https://open.spotify.com/track/5lSNtOGrrLVUoeP7W67k8B) | [theajsound](https://open.spotify.com/artist/1q1ZpVz6cDExJVwYt2h3up), [Devil The Rhymer](https://open.spotify.com/artist/6jY7AmndF3ERV9UZNjjuoW), [Amit Kori](https://open.spotify.com/artist/3bHYsujLszCnB11e5c4Xe0) | [Tu Kahaan 2.0](https://open.spotify.com/album/1xtSQQY0XAxymHPmrvaJC5) | 2:52 | 2024-08-09 | 2024-09-07 |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-14 | 2023-08-25 |
 | [tu kahaan?](https://open.spotify.com/track/63cZO5eIHTW8Ds0AgvKYbm) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [tu kahaan?](https://open.spotify.com/album/20vQqt6JK7mMRsg5G5whDl) | 2:44 | 2023-09-29 | 2023-10-21 |
-| [Tu Kahan](https://open.spotify.com/track/38bSMMJFb4y9kNDhYNvBgy) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Kahan](https://open.spotify.com/album/3gi4YVLjOIkmDzQoUAVoWs) | 3:11 | 2025-07-25 |  |
+| [Tu Kahan](https://open.spotify.com/track/38bSMMJFb4y9kNDhYNvBgy) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Kahan](https://open.spotify.com/album/3gi4YVLjOIkmDzQoUAVoWs) | 3:11 | 2025-07-25 | 2025-07-29 |
 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 | 2023-10-27 | 2023-12-23 |
 | [Tu Mera Ho](https://open.spotify.com/track/2IDTkOf6AodC0R4xIFdrL4) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Tu Mera Ho](https://open.spotify.com/album/1SDth8x6bEPXZcr9c4bzdS) | 2:33 | 2023-07-07 | 2023-08-11 |
 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 | 2024-12-20 | 2025-02-16 |
@@ -1115,6 +1115,7 @@
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-05-10 | 2024-07-06 |
 | [Zamaana](https://open.spotify.com/track/39QaSlqpo6F9Jv8cIokylx) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Zamaana](https://open.spotify.com/album/6Af60nKxVgmnOm6D7lIOcW) | 2:30 | 2025-05-04 |  |
 | [Zaroorat](https://open.spotify.com/track/0JhfRcaTCtksBXAtiFfyHH) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Zaroorat](https://open.spotify.com/album/30O4j3yuur3CfVy7ZyIbu3) | 2:52 | 2023-11-24 | 2023-12-09 |
+| [Zaroori](https://open.spotify.com/track/639mTbZQtyB943hXWueUm7) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Zaroori](https://open.spotify.com/album/3dRAFi5yf1iC25WTz9LTBm) | 1:41 | 2025-07-25 |  |
 | [Zaroori Saman](https://open.spotify.com/track/71WrJaBUsdwsf7NFxMMNcl) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Zaroori Saman](https://open.spotify.com/album/21hL4jXoRXtmSQAwFDVChf) | 2:51 | 2023-10-27 | 2023-12-02 |
 | [Zeest](https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Chaltey Purzay](https://open.spotify.com/album/6xpfp8um2z8KrDKZbAl5GU) | 3:06 | 2024-10-04 | 2024-11-23 |
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 | 2024-11-30 |

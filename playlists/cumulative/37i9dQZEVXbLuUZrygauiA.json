@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Changes - 2009 Remaster",
       "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
@@ -10314,7 +10314,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -10568,7 +10568,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 315893,
       "name": "Children of the Grave (2009 Remaster)",
       "url": "https://open.spotify.com/track/0ElAcOj8tudMA6X6KZ7SMO"
@@ -10586,7 +10586,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 317206,
       "name": "Children of the Grave - 2014 Remaster",
       "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
@@ -26736,7 +26736,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 354213,
       "name": "Iron Man - 2009 Remaster",
       "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
@@ -26754,7 +26754,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -42118,7 +42118,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -42136,7 +42136,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -43622,6 +43622,24 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269240,
+      "name": "Planet Caravan - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
     },
     {
       "album": {
@@ -45174,7 +45192,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -45196,7 +45214,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -59108,7 +59126,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 160394,
       "name": "Vamo a Bailotear",
       "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
@@ -60642,7 +60660,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 475000,
       "name": "War Pigs - 2009 Remaster",
       "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
@@ -60660,7 +60678,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"

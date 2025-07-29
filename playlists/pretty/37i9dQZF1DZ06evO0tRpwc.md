@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,863 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,858 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 29 | [Outubro](https://open.spotify.com/track/4pepw9xWpAQeRPOJQUigkF) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:15 |
 | 30 | [Liberdade](https://open.spotify.com/track/1MksipefYCj3jjdupynfZi) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:30 |
 | 31 | [Tempo](https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:08 |
-| 32 | [Lento](https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
-| 33 | [Faça Morada \- Ao Vivo](https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo \(Ao Vivo\)](https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv) | 4:22 |
+| 32 | [Faça Morada \- Ao Vivo](https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo \(Ao Vivo\)](https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv) | 4:22 |
+| 33 | [Lento](https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
 | 34 | [Jesus](https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:46 |
 | 35 | [Conexão](https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:49 |
 | 36 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 49 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
 | 50 | [Salmo 100](https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7) | [Turma do Barulho, Vol\. 4](https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr) | 2:38 |
 
-Snapshot ID: `aIQagAAAAACyb0bRX5tPoB4AP2XwZOlk`
+Snapshot ID: `aIVsAAAAAAD4bFwLpPm98D72j94k8cFn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,847 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,862 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 22 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
 | 23 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 |
 | 24 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
-| 25 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
-| 26 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
+| 25 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
+| 26 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
 | 27 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 |
 | 28 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 29 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 45 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 46 | [ÁNGEL DE LA GUARDA \(PÓSTUMO\)](https://open.spotify.com/track/06gX47saY244mz1VZCoCoB) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 3:48 |
 | 47 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
-| 48 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
-| 49 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
+| 48 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
+| 49 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 50 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
-| 51 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 52 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
-| 53 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
-| 54 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
+| 51 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
+| 52 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
+| 53 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
+| 54 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
 | 55 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 56 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 57 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |

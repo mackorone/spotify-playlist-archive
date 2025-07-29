@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-324 songs - 18 hr 27 min
+325 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2022-11-25 |  |
 | [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 | 2025-04-01 |  |
 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 | 2022-12-24 |  |
+| [存在A](https://open.spotify.com/track/1QbIt51B9yck9AJLRyFlt2) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [存在A](https://open.spotify.com/album/0SUtRT1ULnZyvMjvBGvUZB) | 3:15 | 2025-07-28 |  |
 | [孤独の宗教](https://open.spotify.com/track/1ZIr94qQM1N05mSqrZkz9v) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO) | 3:10 | 2024-09-09 |  |
 | [宵々古今](https://open.spotify.com/track/3KLHSYHSmny4sJo2finqy9) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Σ](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) | 4:17 | 2023-11-12 |  |
 | [幽霊東京](https://open.spotify.com/track/6gmwKGGuoY7NAqKI3pzMPC) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 3:30 | 2023-07-18 |  |

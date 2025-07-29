@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,942 songs - 4 day 4 hr 38 min
+1,943 songs - 4 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 | 2025-03-14 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-07-07 |
 | [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-14 | 2025-03-25 |
+| [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 | 2025-07-28 |  |
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-07 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-08-17 |
@@ -1807,7 +1808,7 @@
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
-| [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 |  |
+| [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 | 2025-07-29 |
 | [Verkligheten har jag här för mig själv](https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [APONIA](https://open.spotify.com/album/1jco0VGKqWijdEj3rD0SIs) | 4:16 | 2025-03-07 | 2025-05-09 |
 | [Verktygslådan](https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Verktygslådan](https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs) | 2:47 | 2024-06-13 | 2024-08-16 |
 | [VERTIGO](https://open.spotify.com/track/4V82PgRDvzQwppU72Aapel) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [VERTIGO](https://open.spotify.com/album/7CIVfrjREC95ffpAFKCbCl) | 3:03 | 2022-05-12 | 2022-06-06 |

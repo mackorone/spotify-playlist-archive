@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1823713,
+  "num_followers": 1823645,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
         "name": "One of These Nights (2013 Remaster)",
@@ -675,6 +659,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -937,30 +937,6 @@
       "url": "https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC"
     },
     {
-      "added_at": "2025-06-06 04:00:28",
-      "album": {
-        "name": "The Little Mess You Made",
-        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "The Little Mess You Made",
-      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
         "name": "Hozier (Expanded Edition)",
@@ -991,6 +967,30 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2025-06-06 04:00:28",
+      "album": {
+        "name": "The Little Mess You Made",
+        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
-    },
-    {
       "added_at": "2025-07-18 04:00:24",
       "album": {
         "name": "Dodged A Bullet",
@@ -1531,6 +1515,22 @@
       "duration_ms": 158658,
       "name": "Dodged A Bullet",
       "url": "https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/0SnCZasgqjqS07tI6O2Z5P"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/3Cd66VhIMNHdjXnG4wh6nH"
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
     }
   ],
   "unique_name": "Dinner with Friends",

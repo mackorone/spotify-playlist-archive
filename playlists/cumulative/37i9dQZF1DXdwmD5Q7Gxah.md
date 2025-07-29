@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Audrey Hobert
 
-3,459 songs - 7 day 20 hr 48 min
+3,461 songs - 7 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-04-01 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-02-16 | 2023-04-15 |
 | [AAA](https://open.spotify.com/track/2NgFLyDp7bgJiU8Gh176r0) | [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [AAA](https://open.spotify.com/album/3KdAHbR1hakjhFJ4vLpVgX) | 4:38 | 2023-04-07 | 2023-06-02 |
+| [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 | 2025-07-28 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-14 | 2023-01-06 |
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-01-21 | 2022-02-26 |
 | [Abusey Junction](https://open.spotify.com/track/2A6INS0orQsnuoo1ROw3Cx) | [KOKOROKO](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/26SuSJ98UkLzEmEsHhiz2S) | 7:04 | 2021-01-15 | 2021-01-23 |
@@ -453,6 +454,7 @@
 | [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 | 2019-10-25 | 2021-01-12 |
 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 | 2024-10-18 | 2025-02-22 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-06-13 | 2020-12-04 |
+| [bug](https://open.spotify.com/track/7jPhUp1P0AcX3pQA3N5jI7) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [bug](https://open.spotify.com/album/10vU2bLQSLXs0HJfMHQIkg) | 2:24 | 2025-07-28 |  |
 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-28 | 2022-11-02 |
 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2022-09-28 | 2022-11-05 |
 | [Built This Way \- \(Slow Remix\)](https://open.spotify.com/track/4BtaPciwVOkH7eFC59i27G) | [Samantha Ronson](https://open.spotify.com/artist/439RqyQhzmvM2TG7hn4KVs) | [Mean Girls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VMeOsRr2wyELrgfz2rkHp) | 4:16 | 2022-05-02 | 2022-06-10 |

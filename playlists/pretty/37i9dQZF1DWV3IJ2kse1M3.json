@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002",
-  "num_followers": 186128,
+  "num_followers": 186126,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 322266,
-      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 322266,
+      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 288773,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 278914,
-      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
         "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 237840,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u7d42\u6975X\u5bbf\u820d (\u96fb\u8996\u539f\u8072\u5e36)",
         "url": "https://open.spotify.com/album/2a5CoKCwgX3PStnMOnyJle"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 259040,
       "name": "\u611b\u5b58\u5728",
       "url": "https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
-        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 349541,
-      "name": "\u82ac\u862d\u8ddd\u96e2",
-      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u611b&\u82f1\u96c4 LOVE HERO",
         "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 281182,
       "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
     },
     {
       "added_at": "2025-06-25 03:23:28",

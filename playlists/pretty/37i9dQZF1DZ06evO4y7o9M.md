@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,315 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,523 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 47 | [Yo Voy A Amarte](https://open.spotify.com/track/2DQWbH7mMQYRuftnYPlfqQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:46 |
 | 48 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
 | 49 | [No Me Pesa](https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:41 |
-| 50 | [Top Model](https://open.spotify.com/track/0D9YtzLKz8eluirvisHhZj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:03 |
+| 50 | [Paso En Culiacan](https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Paso En Culiacan](https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO) | 4:35 |
 
-Snapshot ID: `aIQagAAAAADQrS3x01FBMn9FLvyNBMe0`
+Snapshot ID: `aIVsAAAAAACcaA7v0JjcXW1I6wNnZ7lK`

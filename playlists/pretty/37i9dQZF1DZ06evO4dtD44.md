@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,293 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,303 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 7 | [Sorriu Para Mim](https://open.spotify.com/track/4fTmfK5efjGjADhAUAjgKl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:05 |
 | 8 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 9 | [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 |
-| 10 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
-| 11 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
+| 10 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
+| 11 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
 | 12 | [Pra Que Discutir Com Madame?](https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 6:01 |
 | 13 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
 | 14 | ['S Wonderful](https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Aguas de Março](https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 5:45 |
 | 50 | [Águas de Março](https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:23 |
 
-Snapshot ID: `aIQagAAAAACL8aauBJx8PtsYlk0zAoz8`
+Snapshot ID: `aIVsAAAAAABjPUz3ZxGhDr9k/Wgk9C7+`

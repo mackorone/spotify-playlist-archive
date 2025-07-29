@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 383 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 383 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,10 +264,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 254 | [Waltz Down the Aisle](https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Xavier Cugat Orchestra](https://open.spotify.com/artist/0GywhPccRQuGztB35ZnE0Z) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:06 |
 | 255 | [Wouldn't It Be Fun](https://open.spotify.com/track/6yPs0weK7zk6lJuWBjbI55) | [Basil Rathbone](https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:12 |
 | 256 | [Noite e Dia \(Night And Day\)](https://open.spotify.com/track/5m6TW4ENRkqaPSVcNOEWmb) | [Nelson Gonçalves](https://open.spotify.com/artist/2wi99swSP87YaFjVOI3zGJ) | [Joias Musicais](https://open.spotify.com/album/2RY0Pvr4HX2Ap0dY24Khf0) | 3:07 |
-| 257 | [It's a Chemical Reaction That's all](https://open.spotify.com/track/5uTTEcp3EVspt8m4na7Xwe) | [Carole Richards \(performer\)](https://open.spotify.com/artist/5roKaaGvLbBIXWAW05oDGu) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 0:46 |
-| 258 | [I Feel Better Now](https://open.spotify.com/track/1SweO32QbPNADsokVOUOPS) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:09 |
-| 259 | [When Me, Mowgli Love](https://open.spotify.com/track/3saqnxVZGcTInOifB5y6FL) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:48 |
-| 260 | [Farewell Amanda](https://open.spotify.com/track/6sSgKmRe1vA2xdJdkQEyGm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Don Rodney](https://open.spotify.com/artist/470wCczhLel3wDQVMo1kd5), [Guy Lombardo Royal Canadians](https://open.spotify.com/artist/1ahgnTfteZr6J7PAVMTQYh), [Guy Lombardo](https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW) | [Lombardo, Guy: Get Out Those Old Records \(1941\-1950\)](https://open.spotify.com/album/0gWeWlJQPVAARQPCByzKce) | 2:44 |
+| 257 | [I Feel Better Now](https://open.spotify.com/track/1SweO32QbPNADsokVOUOPS) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:09 |
+| 258 | [It's a Chemical Reaction That's all](https://open.spotify.com/track/5uTTEcp3EVspt8m4na7Xwe) | [Carole Richards \(performer\)](https://open.spotify.com/artist/5roKaaGvLbBIXWAW05oDGu) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 0:46 |
+| 259 | [Farewell Amanda](https://open.spotify.com/track/6sSgKmRe1vA2xdJdkQEyGm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Don Rodney](https://open.spotify.com/artist/470wCczhLel3wDQVMo1kd5), [Guy Lombardo Royal Canadians](https://open.spotify.com/artist/1ahgnTfteZr6J7PAVMTQYh), [Guy Lombardo](https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW) | [Lombardo, Guy: Get Out Those Old Records \(1941\-1950\)](https://open.spotify.com/album/0gWeWlJQPVAARQPCByzKce) | 2:44 |
+| 260 | [When Me, Mowgli Love](https://open.spotify.com/track/3saqnxVZGcTInOifB5y6FL) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:48 |
 | 261 | [Trust Your Destiny To Your Star](https://open.spotify.com/track/33Z39OcUkuuRP37WfJw4uW) | [Dennis King](https://open.spotify.com/artist/5VbWEIYKi6Xx4rWXDWMWZV) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:01 |
 | 262 | [Make Way](https://open.spotify.com/track/1xrXbwbejM3xTdUDUeCUIe) | [George Hal](https://open.spotify.com/artist/5wK3mhMYT20X2P7bCYXvRN) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 2:30 |
 | 263 | [Aladdin](https://open.spotify.com/track/6P5kixpOjYqh0uvD0MybmO) | [Anna Maria Alberghetti](https://open.spotify.com/artist/5c42vPe9mYnMbqxKDVsVrL), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Aladdin](https://open.spotify.com/album/6dnx8GTQeF1jHRdLwq2H3Z) | 3:18 |
@@ -392,4 +392,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 382 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 383 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab37cgAAAAB0RUQrdTaRIAaE8II4wlDK`
+Snapshot ID: `Ab4A/gAAAADKgPE706bWdSPpYdSOj/QJ`

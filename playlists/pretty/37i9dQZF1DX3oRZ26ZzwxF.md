@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Himra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,931 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,987 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

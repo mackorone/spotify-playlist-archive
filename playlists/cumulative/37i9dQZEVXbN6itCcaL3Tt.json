@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -7466,7 +7466,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -19320,7 +19320,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "ILE LAT?",
       "url": "https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg"
@@ -31716,7 +31716,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
@@ -33328,7 +33328,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
@@ -42229,6 +42229,48 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
         "name": "Organic Human",
         "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
       },
@@ -49432,6 +49474,40 @@
       "duration_ms": 161600,
       "name": "WESO\u0141E PIOSENKI",
       "url": "https://open.spotify.com/track/61BuI5N0MWUdjjD28Ly4SL"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
       "album": {

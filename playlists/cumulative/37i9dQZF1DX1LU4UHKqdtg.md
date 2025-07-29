@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: STAYC
 
-1,527 songs - 3 day 9 hr 12 min
+1,529 songs - 3 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Masquerade](https://open.spotify.com/track/2L5MB3aFL8AFiAZvmwcEy2) | [Double Ace](https://open.spotify.com/artist/4LisUHEVX4YvEeWiV3v7vh) | [Crescendo](https://open.spotify.com/album/2v9hIXCJY96R3LuOpIt3m3) | 5:20 | 2021-12-23 | 2022-01-07 |
 | [MAVERICK](https://open.spotify.com/track/5uVgfUQLv2ZCgdx0t9vawz) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3RD SINGLE ALBUM \[MAVERICK\]](https://open.spotify.com/album/40Vv3OErf3nP8Cg1UmAKV8) | 3:28 | 2021-12-23 | 2022-01-04 |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-09 | 2024-08-16 |
+| [ME ME ME](https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [ME ME ME](https://open.spotify.com/album/2XVaPap7EEUI6Oh51PfS4S) | 2:47 | 2025-07-28 |  |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-16 | 2022-12-30 |
 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-07 | 2024-01-03 |
 | [memeM](https://open.spotify.com/track/2fjBCcElSYOt5LN9GeuB5P) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/0cu9atEEYjquZCh3qTMgza) | 2:52 | 2022-03-30 | 2022-06-29 |
@@ -1293,6 +1294,7 @@
 | [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-15 | 2025-01-08 |
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-07-26 |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-11 |  |
+| [THIS IS ME:I](https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [THIS IS ME:I](https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL) | 2:59 | 2025-07-28 |  |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-25 | 2023-02-09 |
 | [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 | 2025-04-22 | 2025-05-20 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-12-23 | 2022-01-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,359 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,395 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

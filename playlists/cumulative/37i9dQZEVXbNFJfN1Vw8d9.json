@@ -17877,6 +17877,24 @@
     },
     {
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -18738,7 +18756,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 144230,
       "name": "MOJA1TA",
       "url": "https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5"

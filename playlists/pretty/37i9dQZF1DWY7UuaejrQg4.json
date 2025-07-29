@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 89538,
+  "num_followers": 89573,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 263880,
       "name": "When You Die",
       "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 142500,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 338000,
-      "name": "tkm",
-      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+      "duration_ms": 338000,
+      "name": "tkm",
+      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Lenses",
         "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Love Is Dead",
         "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 188251,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1G79vIY7FPXPjBj9cpweZD"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life (Extended Version)",
-        "url": "https://open.spotify.com/album/4e4SeM1BjQUEbMOoppxNXL"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 214432,
-      "name": "Bee-Sting",
-      "url": "https://open.spotify.com/track/0Irnw775vIj4UjNl8vaeOX"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Love Is Dead",
         "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 231359,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life (Extended Version)",
+        "url": "https://open.spotify.com/album/4e4SeM1BjQUEbMOoppxNXL"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "Bee-Sting",
+      "url": "https://open.spotify.com/track/0Irnw775vIj4UjNl8vaeOX"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "we just need some time together",
         "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1403,22 +1419,6 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 239010,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1443,6 +1443,38 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 239010,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "nightmares",
         "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
@@ -1455,38 +1487,6 @@
       "duration_ms": 207003,
       "name": "nightmares",
       "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Vowels",
-      "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Vowels",
+      "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Let's Go Sunshine",
         "url": "https://open.spotify.com/album/6W5NMoXsloO4Kz16ANeSAb"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 216617,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/3Dgm3Eaw7mBjYrGxdZxfjl"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
     },
     {
       "added_at": "2024-03-18 13:22:22",

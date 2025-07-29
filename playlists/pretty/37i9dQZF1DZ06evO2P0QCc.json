@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 119233,
+  "num_followers": 119254,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAD2Vxr1/Mn70pvPLPvoF8cW",
+  "snapshot_id": "aIVsAAAAAAA+qCa9aes8kY3EEIdpo+Kr",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busco Amor",
-        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 222138,
-      "name": "Busco Amor",
-      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busco Amor",
+        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 222138,
+      "name": "Busco Amor",
+      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
     },
     {
       "added_at": null,

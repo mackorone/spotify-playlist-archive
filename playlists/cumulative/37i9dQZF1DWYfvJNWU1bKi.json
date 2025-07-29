@@ -2833,6 +2833,32 @@
     },
     {
       "album": {
+        "name": "Pottala Muttaye (From \"Thalaivan Thalaivii\")",
+        "url": "https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226255,
+      "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
+      "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
+    },
+    {
+      "album": {
         "name": "Pularaadha (From \"Dear Comrade\")",
         "url": "https://open.spotify.com/album/6W50OP2zXkzY7mYQZjbo9Y"
       },
@@ -3478,7 +3504,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 225380,
       "name": "Vaa Vaathi",
       "url": "https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG"

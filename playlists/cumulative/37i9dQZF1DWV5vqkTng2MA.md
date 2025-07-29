@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
 
-305 songs - 18 hr 18 min
+306 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Car You Drive](https://open.spotify.com/track/2JKOUxv67D8kJ13XU8jAuE) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Car You Drive](https://open.spotify.com/album/6z0GegQkQN1D65F9AXuJmQ) | 3:16 | 2022-02-11 | 2022-07-29 |
 | [Champagne Corolla](https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:38 | 2021-10-01 | 2024-06-29 |
 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 | 2023-03-03 |  |
+| [Circles](https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Circles](https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD) | 3:02 | 2025-07-25 |  |
 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 | 2021-10-01 |  |
 | [Comin' For Ya North Georgia Blues](https://open.spotify.com/track/0vqeMxEGBrbH1VHE88qV3L) | [Eliot Bronson](https://open.spotify.com/artist/404FGezj0LKlz93eSqqKuI) | [Eliot Bronson](https://open.spotify.com/album/6jfNS8a4el9axJwjqq91oQ) | 3:33 | 2021-10-01 | 2022-06-25 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2022-06-01 | 2024-04-19 |
@@ -294,7 +295,7 @@
 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 | 2024-04-05 | 2025-02-07 |
 | [Unforgivable](https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:43 | 2025-05-19 |  |
 | [Upside](https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Radius \(Deluxe Edition\)](https://open.spotify.com/album/2sVa8Vc8jNp6vClhgljcrj) | 4:01 | 2022-06-01 | 2022-12-03 |
-| [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 | 2024-03-01 |  |
+| [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 | 2024-03-01 | 2025-07-29 |
 | [Wastin' My Mind](https://open.spotify.com/track/0SeboT7teon4VsNRa2vewB) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 2:59 | 2021-10-01 | 2022-07-28 |
 | [Wastin' My Mind](https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 2:59 | 2022-06-01 | 2024-04-19 |
 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 | 2024-07-05 |  |

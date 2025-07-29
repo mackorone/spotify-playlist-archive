@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27116,
+  "num_followers": 27122,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADXJCbCwTQkOHdGAf3ZMRgQ",
+  "snapshot_id": "aIVsAAAAAAD8Rt7O7TNgJj032x2s32+J",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Climate Vigil Songs",
         "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 291057,
       "name": "Hosanna! (Will You Rise?)",
       "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,
@@ -803,34 +803,6 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
-      },
-      "artists": [
-        {
-          "name": "Rich Mullins",
-          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 157615,
-      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
     },
     {
       "added_at": null,
@@ -867,6 +839,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
+      },
+      "artists": [
+        {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abide With Me (Radio Version)",
         "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 233160,
       "name": "The Stories I Tell Myself",
       "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,

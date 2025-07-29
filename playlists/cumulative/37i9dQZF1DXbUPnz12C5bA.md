@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-212 songs - 16 hr 6 min
+213 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [La Ceiba de Villanueva](https://open.spotify.com/track/3X8UWloKpJaLOnyo1vIK8d) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Miguel Lopez](https://open.spotify.com/artist/2VftvhcToui6V1ltwZg6Cg), [Armando Mendoza](https://open.spotify.com/artist/1ES4KDTcf1rrjLzT2xpKV3) | [100 Años de Vallenato \(Vol.2\)](https://open.spotify.com/album/1IwtGEx8assNKobIXEK44m) | 4:37 | 2022-01-24 | 2023-02-14 |
 | [La Celosa](https://open.spotify.com/track/2mX8tas4kfZBs2pO1cE9T1) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Sergio Moya Molina](https://open.spotify.com/artist/54C68mvAKh9AMwGxXbE0F0) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 4:37 | 2022-01-24 | 2023-02-14 |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2022-01-24 | 2024-04-19 |
-| [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 | 2023-12-21 |  |
+| [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 | 2023-12-21 | 2025-07-29 |
 | [La Despedida](https://open.spotify.com/track/0xqq0iXUfoDeHBjr1tBvcP) | [El Toby Tovar](https://open.spotify.com/artist/3XEKPcCdtSVHIcOfw9694F), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8) | [Rafael Escalona\. Vida y Cantos del Maestro Vallenato](https://open.spotify.com/album/4NrKBMKANQ8n9Q3vJ1pc9p) | 3:37 | 2022-01-24 | 2023-02-14 |
 | [La Diosa Coronada](https://open.spotify.com/track/7x2YLR9ARjE2LqEcxXCKnF) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Leandro Diaz](https://open.spotify.com/artist/3pixeYtMhncGd6nrjdtsPD) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 5:05 | 2022-01-24 | 2023-02-14 |
 | [La Gemela](https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [30 Grandes Exitos](https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9) | 4:12 | 2023-12-21 |  |
@@ -214,6 +214,7 @@
 | [Tú Vas a Volar](https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:13 | 2024-05-28 |  |
 | [Un Amor Verdadero](https://open.spotify.com/track/0Q0egBtCgVcWe9xB2krgvo) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 4:35 | 2023-12-21 | 2024-11-08 |
 | [Un Osito Dormilon](https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 4:49 | 2023-02-13 | 2023-12-30 |
+| [Un Solo Cuerpo](https://open.spotify.com/track/6nF6pFyr9m8x6Fc3Dz57Hk) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/2Da7oQa7i1njcO3VXjL6bl) | 4:40 | 2024-05-28 |  |
 | [Una Como Tu](https://open.spotify.com/track/3oHPbgbs9FvvqmLCvLzukR) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:47 | 2024-05-28 | 2025-01-29 |
 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 | 2023-12-21 |  |
 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 | 2023-02-13 | 2024-04-19 |

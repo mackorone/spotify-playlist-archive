@@ -2,7 +2,7 @@
 
 ### [The Pop List](https://open.spotify.com/playlist/37i9dQZF1DWSVtp02hITpN)
 
-> Bieber's so back 🌼
+> The best pop music right now 🌼 Cover: Justin Bieber
 
 488 songs - 1 day 1 hr 31 min
 

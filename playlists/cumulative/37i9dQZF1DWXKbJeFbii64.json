@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Echoes in the Darkened Sky",
+        "url": "https://open.spotify.com/album/0OBEWkFV12cYT1WjpcDqw1"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Echoes in the Darkened Sky",
+      "url": "https://open.spotify.com/track/1F7VGnCSFeMS19TxzEDjxQ"
+    },
+    {
+      "album": {
         "name": "El Trueno Desde Arriba",
         "url": "https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 219495,
       "name": "The Beauty in the Sky",
       "url": "https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6"

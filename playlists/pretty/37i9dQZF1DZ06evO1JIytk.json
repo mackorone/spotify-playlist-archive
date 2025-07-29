@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACwLSUy9y5N4yjYk9PAByeU",
+  "snapshot_id": "aIVsAAAAAABANnbGQFrvAZM8J/NENDUJ",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 219773,
       "name": "Die for the Government",
       "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mobilize",
         "url": "https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 214600,
       "name": "911 for Peace",
       "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Christian Nationalist",
-      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complete Control Sessions",
         "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 137440,
       "name": "Turncoat",
       "url": "https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Christian Nationalist",
+      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 216093,
-      "name": "The Economy is Suffering...Let It Die",
-      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+      "duration_ms": 187253,
+      "name": "We Are the One",
+      "url": "https://open.spotify.com/track/3IfkMS2Yma0lYZq7B9bieU"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 187253,
-      "name": "We Are the One",
-      "url": "https://open.spotify.com/track/3IfkMS2Yma0lYZq7B9bieU"
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 148514,
-      "name": "The Ranks of the Masses Rising",
-      "url": "https://open.spotify.com/track/12wXddtGA99uF2pF70znch"
+      "duration_ms": 177980,
+      "name": "The Ghosts of Alexandria",
+      "url": "https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 177980,
-      "name": "The Ghosts of Alexandria",
-      "url": "https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR"
+      "duration_ms": 148514,
+      "name": "The Ranks of the Masses Rising",
+      "url": "https://open.spotify.com/track/12wXddtGA99uF2pF70znch"
     },
     {
       "added_at": null,

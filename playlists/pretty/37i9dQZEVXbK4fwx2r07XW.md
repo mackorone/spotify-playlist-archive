@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,747 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,767 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 47 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 48 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 | 49 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 50 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
+| 50 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
 
-Snapshot ID: `MBmdKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

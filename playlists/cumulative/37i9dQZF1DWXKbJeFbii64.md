@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-171 songs - 8 hr 8 min
+172 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Distant Thunder At Night](https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Distant Thunder At Night](https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V) | 2:22 | 2022-10-28 |  |
 | [Dreaming of Thunderstorms](https://open.spotify.com/track/32TQpydapcCkHdy1umyw0r) | [Sleepy Cow](https://open.spotify.com/artist/0M5U34sPfMWrF5MWtKwzc5) | [Dreaming of Thunderstorms](https://open.spotify.com/album/3ED6nTG9aUnFoYd7sHVwK6) | 3:27 | 2025-07-23 |  |
 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-09-20 |  |
+| [Echoes in the Darkened Sky](https://open.spotify.com/track/1F7VGnCSFeMS19TxzEDjxQ) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Echoes in the Darkened Sky](https://open.spotify.com/album/0OBEWkFV12cYT1WjpcDqw1) | 3:24 | 2025-07-23 |  |
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 2:29 | 2023-09-20 |  |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
@@ -124,7 +125,7 @@
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
 | [Summer Thunderstorm](https://open.spotify.com/track/6c2vveoFDpdo2VqxcclXkk) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Summer Thunderstorm](https://open.spotify.com/album/3cqdn3oQaHziJGZunQv8VL) | 3:27 | 2023-09-20 |  |
-| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 |  |
+| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 | 2025-07-29 |
 | [The Light Beyond](https://open.spotify.com/track/0ZqPKp59r2vRU28YB28k1X) | [Paracloud](https://open.spotify.com/artist/7IVFkv5KIYGpqzewofOqP2) | [The Light Beyond](https://open.spotify.com/album/6gmJaxaU3qjSo7NyhE6aO9) | 2:46 | 2023-09-20 | 2023-12-21 |
 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 | 2023-09-20 |  |
 | [The Storm is Here](https://open.spotify.com/track/3xforc0NmrEkc9VQduBcSR) | [Steve Shock](https://open.spotify.com/artist/0FgkiggVnGr0M7L693o0tY) | [Let There be Light](https://open.spotify.com/album/4NUuZHIeOaReJOPinJiptd) | 2:45 | 2023-09-20 | 2023-12-21 |

@@ -1,6 +1,6 @@
 {
   "description": "15 Years of timeless music by Flavour",
-  "num_followers": 232164,
+  "num_followers": 232236,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "Sability",
-        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 166558,
-      "name": "Sability",
-      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
         "name": "Rave & Roses (Ultra)",
         "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
       },
@@ -847,26 +863,6 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -907,6 +903,62 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
+        "name": "Least Expected",
+        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Yori Yori",
+      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
         "name": "Dance For Me (Eugy X Mr Eazi)",
         "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
       },
@@ -939,58 +991,6 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "Caro",
-      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Least Expected",
-        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Yori Yori",
-      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 178983,
       "name": "Don't Call Me (feat. Zinoleesky)",
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        },
+        {
+          "name": "Tiffany Owusu",
+          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
+        }
+      ],
+      "duration_ms": 232255,
+      "name": "Azonto",
+      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        },
-        {
-          "name": "Tiffany Owusu",
-          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
-        }
-      ],
-      "duration_ms": 232255,
-      "name": "Azonto",
-      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1255,34 +1255,6 @@
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1359,22 +1331,6 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
         "name": "Ozumba Mbadiwe",
         "url": "https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs"
       },
@@ -1387,6 +1343,22 @@
       "duration_ms": 212636,
       "name": "Ozumba Mbadiwe",
       "url": "https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1431,6 +1403,34 @@
       "duration_ms": 224003,
       "name": "Billions",
       "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2025-07-17 00:01:24",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
-    },
-    {
-      "added_at": "2025-07-17 00:01:24",
-      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -1527,18 +1507,66 @@
     {
       "added_at": "2025-07-17 00:01:24",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+        "name": "High",
+        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "added_at": "2025-07-17 00:01:24",
+      "album": {
+        "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
+        "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        },
+        {
+          "name": "Dr SID",
+          "url": "https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD"
+        },
+        {
+          "name": "Dr Sid Tiwa Savage",
+          "url": "https://open.spotify.com/artist/5mUNACNQZaugrWFIjtRWdA"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        },
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "D'Prince",
+          "url": "https://open.spotify.com/artist/6rqqLENUG5H57UnYuLOUbU"
+        }
+      ],
+      "duration_ms": 266903,
+      "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
+      "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
     }
   ],
   "unique_name": "Timeless Afro ",

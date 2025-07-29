@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,912 likes - 40 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,918 likes - 40 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 10 | [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 |
 | 11 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
 | 12 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 |
-| 13 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
-| 14 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
+| 13 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
+| 14 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
 | 15 | [Ou Gou](https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu) | [k\-dilak mesaje a](https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO) | [Ou Gou](https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF) | 4:39 |
 | 16 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
 | 17 | [Spicy](https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Spicy](https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh) | 2:58 |
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 23 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
 | 24 | [Magic Gouyad \#3](https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#3](https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA) | 5:04 |
 | 25 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 |
-| 26 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
-| 27 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
+| 26 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
+| 27 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 28 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 29 | [Bif](https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Mickael Guirand](https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 4:45 |
 | 30 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
-| 31 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
-| 32 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
+| 31 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
+| 32 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
 | 33 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
 | 34 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
 | 35 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |

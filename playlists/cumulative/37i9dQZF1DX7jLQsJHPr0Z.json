@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 222586,
       "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
       "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
@@ -3469,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5GNPZT1Bxq0EP7PQDQmK3U"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219986,
+      "name": "More - RedOne Jimmy Joker Remix",
+      "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -3516,7 +3534,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 126036,
       "name": "Ms. Whitman",
       "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"

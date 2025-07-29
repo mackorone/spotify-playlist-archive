@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Isabella Lovestory
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,486 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,482 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
-  "num_followers": 297966,
+  "num_followers": 297958,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "El ataque de las chicas cocodrilo",
         "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 157833,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -331,22 +331,18 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 224469,
-      "name": "33",
-      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -367,18 +363,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+        "name": "33",
+        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+      "duration_ms": 224469,
+      "name": "33",
+      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -399,22 +399,6 @@
       "duration_ms": 154376,
       "name": "un tiro",
       "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -443,6 +427,22 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "S\u00faper Terror",
-        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 205719,
-      "name": "Moderato",
-      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
         "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 184771,
       "name": "Qu\u00e9 M\u00e1s Quieres",
       "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 171945,
-      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
-      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "ECLIPSE",
         "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 171945,
+      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
+      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Joderse La Vida",
+        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "duration_ms": 165838,
+      "name": "Joderse La Vida",
+      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Joderse La Vida",
-        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
-        }
-      ],
-      "duration_ms": 165838,
-      "name": "Joderse La Vida",
-      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -815,6 +815,26 @@
       "duration_ms": 258765,
       "name": "San Saltar\u00edn",
       "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Misterio, Cigarros y Menta",
+      "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -887,26 +907,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Misterio, Cigarros y Menta",
-      "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Salida",
         "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 256986,
       "name": "Ya No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -939,22 +955,6 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Imit\u00e1ndote",
-        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 174123,
-      "name": "Imit\u00e1ndote",
-      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1275,22 +1291,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Diamante Roto",
-        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 181766,
-      "name": "Diamante Roto",
-      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
     },
     {
       "added_at": "2025-05-30 04:00:28",

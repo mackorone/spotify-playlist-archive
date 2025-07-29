@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11494,
+  "num_followers": 11501,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAC4Bs3qoDZBSQny8RL+Zzq7",
+  "snapshot_id": "aIVsAAAAAADhRy784pKTXqh+2CyRH2R8",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Backbone (The Desert Child)",
-      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 205346,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
       },
       "artists": [
         {
@@ -356,61 +340,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 257021,
-      "name": "Ain't No Little Girl",
-      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 494360,
-      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
-        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 142688,
-      "name": "When We\u2019re Both Old & Mad",
-      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+      "duration_ms": 224386,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
     },
     {
       "added_at": null,
@@ -435,6 +367,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 494360,
+      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
+        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 142688,
+      "name": "When We\u2019re Both Old & Mad",
+      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 178200,
       "name": "The Divorce Song",
       "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245156,
-      "name": "You Got The Car",
-      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 245156,
+      "name": "You Got The Car",
+      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
@@ -511,42 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -563,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
     },
     {
       "added_at": null,
@@ -623,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -635,22 +615,6 @@
       "duration_ms": 236666,
       "name": "Like A River",
       "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Last Hard Bible",
-      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
     },
     {
       "added_at": null,
@@ -668,9 +632,25 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 175053,
-      "name": "Sleeping Cold",
-      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Last Hard Bible",
+      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Sleeping Cold",
+      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 166026,
       "name": "Freight Train",
       "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 240693,
       "name": "Saturated",
       "url": "https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
     },
     {
       "added_at": null,

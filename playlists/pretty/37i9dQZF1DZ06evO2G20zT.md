@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,376 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,453 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 35 | [Santorini](https://open.spotify.com/track/6vnToAh7RIRYU4XMM2Wir4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
 | 36 | [Different Conversation Live 4](https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Rafat](https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X) | 2:00 |
 | 37 | [Bullion Van](https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:35 |
-| 38 | [On God](https://open.spotify.com/track/5MK0laOw0gGrdzejgs2viA) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [On God](https://open.spotify.com/album/56Xxuu8DJEqE4Pl0UpevSn) | 2:55 |
-| 39 | [Shazam](https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:43 |
+| 38 | [Shazam](https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:43 |
+| 39 | [On God](https://open.spotify.com/track/5MK0laOw0gGrdzejgs2viA) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [On God](https://open.spotify.com/album/56Xxuu8DJEqE4Pl0UpevSn) | 2:55 |
 | 40 | [Goated](https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Goated](https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4) | 2:18 |
 | 41 | [Billion Dollar](https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:24 |
 | 42 | [NSNV](https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 49 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |
 | 50 | [Darling \(feat\. Simi\)](https://open.spotify.com/track/4poZqVkmRcBoR04BZGnHEw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:55 |
 
-Snapshot ID: `aIQagAAAAADAlLZ7COq/3GwL4vgS7CCe`
+Snapshot ID: `aIVsAAAAAADKS2R12HQqMRhYLFV3A/oA`

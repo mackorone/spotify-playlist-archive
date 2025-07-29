@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-599 songs - 1 day 9 hr 35 min
+600 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 | 2024-08-25 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-08-13 | 2024-09-17 |
 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 | 2023-07-24 |  |
+| [Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Collect 200](https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe) | 2:50 | 2025-07-14 |  |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-08-13 | 2023-05-20 |
 | [Come Around \(Sunny Day\)](https://open.spotify.com/track/2lRqxdx0l9emxWfFHwYTmJ) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Come Around \(Sunny Day\)](https://open.spotify.com/album/3hArdcJ7gO3sb2Wp546QfH) | 2:52 | 2022-06-10 | 2022-07-29 |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2023-05-19 | 2023-05-26 |
@@ -399,7 +400,7 @@
 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 | 2023-07-24 |  |
 | [Plumes](https://open.spotify.com/track/6VowD9ukL0ia22ivY2MvTH) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Plumes](https://open.spotify.com/album/6tSCtGGfSThaE7xz82XDvC) | 3:11 | 2021-08-13 | 2022-04-18 |
 | [Pop Culture Radio](https://open.spotify.com/track/5mAlQORMN7wwblaO6erw9H) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Pop Culture Radio](https://open.spotify.com/album/4GdieFGu6B28UCXob05ELp) | 3:20 | 2021-08-13 | 2022-07-26 |
-| [Potion](https://open.spotify.com/track/60jK1IQ31TzqtL1e0sHHda) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:47 | 2025-05-01 |  |
+| [Potion](https://open.spotify.com/track/60jK1IQ31TzqtL1e0sHHda) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:47 | 2025-05-01 | 2025-07-29 |
 | [Prim & Propa](https://open.spotify.com/track/73782aOQUGbQfZrg6P1wIq) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Prim & Propa](https://open.spotify.com/album/6SkM7R8HS1aGgTqm2QLViD) | 3:30 | 2021-08-13 | 2022-07-29 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2023-07-24 | 2023-08-01 |
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-03-14 |  |

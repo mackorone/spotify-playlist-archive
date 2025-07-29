@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,136 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,242 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 49 | [Change Your Mind](https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:00 |
 | 50 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
 
-Snapshot ID: `aIQagAAAAAA6MPm/6wnzNzbO6SoRLyRI`
+Snapshot ID: `aIVsAAAAAAB0WRRhNaqHMz87GUogpHHT`

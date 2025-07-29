@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Compa Chuy Montana, aquí su legado sigue vigente 🕊️✨🙏
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,446 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,499 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 41 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 |
 | 42 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 43 | [Cuando el Sol Salga Al Revés](https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:07 |
-| 44 | [Ramos Buchones](https://open.spotify.com/track/7f4eYX1fQAAJzPLmHJ44Lj) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 2:22 |
-| 45 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 |
+| 44 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 |
+| 45 | [Ramos Buchones](https://open.spotify.com/track/7f4eYX1fQAAJzPLmHJ44Lj) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 2:22 |
 | 46 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
 | 47 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 | 48 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 66 | [Prenda Del Alma](https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:20 |
 | 67 | [Caja de Muerte](https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Éxitos Querido Amigo](https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq) | 3:22 |
 | 68 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 |
-| 69 | [Hasta Que Te Conocí](https://open.spotify.com/track/0LeeZNbW4ysuCgd1xWo5eh) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/1wsHlyDVMoYvfIQI4oZg22) | 7:13 |
+| 69 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
 | 70 | [Necesito Un Amor](https://open.spotify.com/track/4R9jVnCwzi7ZAZKDAg1ihF) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Siempre y Para Siempre](https://open.spotify.com/album/1NEwzxQd2bLEFGD8LSiqrP) | 3:31 |
 | 71 | [Florita Del Alma](https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
 | 72 | [Esa Fue Mi Novia](https://open.spotify.com/track/1AQbqlR0kZTpN8kuk0T6PE) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [Éxitos de Ley](https://open.spotify.com/album/0Eszrxoxfu75PAXPwG7uRt) | 2:32 |
 | 73 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
-| 74 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
-| 75 | [Cosas Del Diablo](https://open.spotify.com/track/6wVe2PjZyYn42TaRizV7Y9) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/6zFlPbgZKZFN5t40RMg065) | 3:15 |
+| 74 | [Hasta Que Te Conocí](https://open.spotify.com/track/0LeeZNbW4ysuCgd1xWo5eh) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/1wsHlyDVMoYvfIQI4oZg22) | 7:13 |
+| 75 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [José Manuel Zamacona](https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:13 |
 
 Snapshot ID: `aGLbdQAAAABZMFkszH1PY/5xQB6/nZ/5`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,918 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,926 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 2 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
-| 3 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
-| 4 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
+| 3 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
+| 4 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
 | 5 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
 | 6 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
 | 7 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 31 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 |
 | 32 | [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 |
 | 33 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 |
-| 34 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 |
-| 35 | [Thriller \- 2003 Edit](https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 5:11 |
+| 34 | [Thriller \- 2003 Edit](https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 5:11 |
+| 35 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 |
 | 36 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
 | 37 | [Throwback \(feat\. Jadakiss\)](https://open.spotify.com/track/1bPbiotvwSAYHG3ycVC2CV) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:46 |
 | 38 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |

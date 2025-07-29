@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,978 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,985 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 50 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 
-Snapshot ID: `aIQagAAAAAAUtalEctZ6S+PyRpH9Tp+F`
+Snapshot ID: `aIVsAAAAAADtiaxbT0/bMPv7wvsLxvAA`

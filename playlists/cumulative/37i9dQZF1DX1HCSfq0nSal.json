@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Yan Block",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Kidd Voodoo y JC Reyes",
   "name": "PEGAO",
   "tracks": [
     {
@@ -4718,7 +4718,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
@@ -12810,6 +12810,28 @@
       "duration_ms": 143030,
       "name": "Prettygyal",
       "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
+    },
+    {
+      "album": {
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "album": {

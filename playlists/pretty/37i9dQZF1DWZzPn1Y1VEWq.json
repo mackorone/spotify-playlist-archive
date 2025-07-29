@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 384788,
+  "num_followers": 384840,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "De Bichos Y Flores",
         "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -475,6 +459,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Vicio",
-        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
       "artists": [
         {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Turfshow",
-        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Loco Un Poco",
-      "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 207280,
+      "name": "Loco Un Poco",
+      "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 259533,
       "name": "Lo Fr\u00e1gil De La Locura",
       "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "La Marca de la Gorra",
+      "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 192240,
       "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "La Marca de la Gorra",
-      "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Calavera",
-      "url": "https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 234753,
       "name": "Complicado y Aturdido / Mulher de Fases",
       "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Calavera",
+      "url": "https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 224293,
       "name": "Cuatro Personalidades",
       "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Entero O A Pedazos",
-      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 249219,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Entero O A Pedazos",
+      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "\u00a1Esta!",
-        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
-      },
-      "artists": [
-        {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Desearia",
-      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Hormigas",
         "url": "https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 236920,
       "name": "Revoloteando",
       "url": "https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "\u00a1Esta!",
+        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Desearia",
+      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
     },
     {
       "added_at": "2024-06-12 23:26:13",

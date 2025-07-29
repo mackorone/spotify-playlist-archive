@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33426,
+  "num_followers": 33427,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-07-17 22:00:25",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
-    {
-      "added_at": "2025-07-17 22:00:25",
-      "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 200113,
       "name": "Like It Always Was",
       "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+    },
+    {
+      "added_at": "2025-07-17 22:00:25",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2025-07-17 22:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-07-17 22:00:25",
       "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0"
-      },
-      "artists": [
-        {
-          "name": "Krezip",
-          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
-        }
-      ],
-      "duration_ms": 156054,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO"
-    },
-    {
-      "added_at": "2025-07-17 22:00:25",
-      "album": {
         "name": "Sugar in the Tank",
         "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2025-07-17 22:00:25",
       "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        }
+      ],
+      "duration_ms": 156054,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO"
+    },
+    {
+      "added_at": "2025-07-17 22:00:25",
+      "album": {
         "name": "One Deep River",
         "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-07-17 22:00:25",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+      "duration_ms": 213726,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
     },
     {
       "added_at": "2025-07-17 22:00:25",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-07-17 22:00:25",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 213726,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2025-07-17 22:00:25",

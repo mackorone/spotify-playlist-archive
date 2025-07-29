@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,077 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,560 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 11 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 12 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
 | 13 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
-| 14 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
-| 15 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
+| 14 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
+| 15 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 16 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 |
 | 17 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
 | 18 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 38 | [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 |
 | 39 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
 | 40 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
-| 41 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 42 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 41 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 42 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
 | 43 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 44 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 |
 | 45 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 50 | [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 |
 | 51 | [100% Pure Love](https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Storyteller](https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5) | 4:40 |
 | 52 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
-| 53 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
-| 54 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
+| 53 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
+| 54 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
 | 55 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 56 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
 | 57 | [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 |

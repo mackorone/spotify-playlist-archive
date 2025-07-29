@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,839 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,845 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 20 | [Perfect People \- 2005 Remaster](https://open.spotify.com/track/09CibftU63IIhXuGa1Xzzo) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 3:05 |
 | 21 | [Homesick \- 2005 Remaster](https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
 | 22 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
-| 23 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
-| 24 | [Victim of Reality](https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:28 |
+| 23 | [Victim of Reality](https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:28 |
+| 24 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
 | 25 | [Unknown Road \- 2005 Remaster](https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:44 |
 | 26 | [Date With Destiny \- 2005 Remaster](https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:55 |
 | 27 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Time to Burn \- 2005 Remaster](https://open.spotify.com/track/7DAK5vw0n5xIXEbQqNjB49) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
 | 50 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
 
-Snapshot ID: `aIQagAAAAACDvBaGZNjsdpuQT0EJyVbg`
+Snapshot ID: `aIVsAAAAAAATSPNWZGxAv17/V+0pavVN`

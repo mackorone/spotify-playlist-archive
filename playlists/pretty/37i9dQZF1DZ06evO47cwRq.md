@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,936,060 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,936,565 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 21 | [A Place for My Head](https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
 | 22 | [Cut the Bridge](https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:48 |
 | 23 | [LOST IN THE ECHO](https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:25 |
-| 24 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
-| 25 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
+| 24 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
+| 25 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
 | 26 | [Over Each Other](https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:50 |
 | 27 | [From the Inside](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:55 |
 | 28 | [Runaway](https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:03 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 44 | [Iridescent](https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:56 |
 | 45 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 |
 
-Snapshot ID: `aIQagAAAAAAG/X/YlcYPvUArMJzGWbga`
+Snapshot ID: `aIVsAAAAAAAj1+QWjo0sVtyv0gbgyHAk`

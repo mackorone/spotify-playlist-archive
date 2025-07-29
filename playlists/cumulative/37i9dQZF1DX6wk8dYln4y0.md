@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Jem Cassar\-Daley
 
-550 songs - 1 day 5 hr 46 min
+552 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2023-03-16 | 2023-04-20 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-16 | 2024-09-27 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 |  |
-| [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 | 2025-04-27 |  |
+| [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 | 2025-04-27 | 2025-07-29 |
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-02-06 | 2025-03-02 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2023-03-16 | 2024-06-04 |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-22 | 2023-09-20 |
@@ -270,6 +270,7 @@
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-02-20 |  |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-04-04 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-02-13 | 2025-04-05 |
+| [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-24 |  |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-25 | 2023-09-10 |
 | [Julie's House](https://open.spotify.com/track/6wIy2XMSP4q7FPq22g8oIZ) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Julie's House](https://open.spotify.com/album/7gnzw64SgJ73FGO4jAMoTZ) | 4:41 | 2025-05-08 | 2025-05-23 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2023-04-28 | 2023-12-20 |
@@ -278,7 +279,7 @@
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-04 | 2024-04-12 |
 | [Keep My Cool](https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Cry About It](https://open.spotify.com/album/7a3IwZ4Qiflsi0rrEYIEp9) | 2:41 | 2025-07-10 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-03-16 | 2024-06-12 |
-| [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/track/5xCTgxiJcVrrjKAh3O4OwM) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/album/6fDX4Ww5BoKMasbdViYijh) | 3:07 | 2025-07-03 |  |
+| [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/track/5xCTgxiJcVrrjKAh3O4OwM) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/album/6fDX4Ww5BoKMasbdViYijh) | 3:07 | 2025-07-03 | 2025-07-29 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2024-06-18 | 2025-01-31 |
 | [Kiss Me](https://open.spotify.com/track/3EjTnZRaykPSYBGsSWS1AP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kiss Me](https://open.spotify.com/album/4NOkk0d26Bx9ewNxtIo1Px) | 2:53 | 2024-07-18 | 2024-08-03 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-03-01 |
@@ -319,6 +320,7 @@
 | [Me And You](https://open.spotify.com/track/7wtMm8fvr484PuKheXoCwa) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Me And You](https://open.spotify.com/album/3kxzzOzZn99FTyBgTq2bFz) | 3:20 | 2025-07-10 |  |
 | [Michelle Obama](https://open.spotify.com/track/4H6QjtFXqdMCp1GvkGpzxC) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Michelle Obama](https://open.spotify.com/album/531LqMUQR26C1LLfnrsV9E) | 3:31 | 2024-11-14 | 2024-12-06 |
 | [million times](https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [million times](https://open.spotify.com/album/6qbhyEtynN54ogfCjJBEtf) | 3:02 | 2025-03-27 | 2025-04-11 |
+| [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-24 |  |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2023-03-16 | 2023-04-28 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-08 | 2023-09-08 |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-04-21 | 2023-08-23 |

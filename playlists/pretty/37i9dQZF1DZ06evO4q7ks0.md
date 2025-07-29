@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,609 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,652 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 24 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 |
 | 25 | [Wanted](https://open.spotify.com/track/7rvF9L6OiGeKI6SgZYQIg7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 2:08 |
 | 26 | [In the End](https://open.spotify.com/track/4hckTii6dURNqlfS9JNjjK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 2:56 |
-| 27 | [Liar](https://open.spotify.com/track/1ASMqs9x07lQPj4iMz46O3) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/3ySNx9AXPp4xdyU4WZ37NT) | 2:21 |
-| 28 | [Loud And Clear](https://open.spotify.com/track/5r8skcDoiyjfagGCwQLKsQ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 2:45 |
-| 29 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 |
+| 27 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 |
+| 28 | [Liar](https://open.spotify.com/track/1ASMqs9x07lQPj4iMz46O3) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/3ySNx9AXPp4xdyU4WZ37NT) | 2:21 |
+| 29 | [Loud And Clear](https://open.spotify.com/track/5r8skcDoiyjfagGCwQLKsQ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 2:45 |
 | 30 | [Íosa](https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Íosa](https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48) | 4:08 |
 | 31 | [Wake Me When It's Over](https://open.spotify.com/track/1dJv9b2YEVMsWmtqcTskYr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:11 |
-| 32 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 |
-| 33 | [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 |
+| 32 | [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 |
+| 33 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 |
 | 34 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 |
 | 35 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 |
 | 36 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [The Pressure](https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:21 |
 | 50 | [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 |
 
-Snapshot ID: `aIQagAAAAACkWmB7mi5mP6/wG7EWcCpl`
+Snapshot ID: `aIVsAAAAAADPOSgXEjPctRAX40Xe1r4T`

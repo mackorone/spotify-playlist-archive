@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 90714,
+  "num_followers": 90733,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Tell Me Why U Do That",
+      "url": "https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Happiness Bastards",
         "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
-      },
-      "artists": [
-        {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Tell Me Why U Do That",
-      "url": "https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Deep in the Trouble",
         "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 325254,
       "name": "Pile of Bones",
       "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2025-04-21 21:56:35",

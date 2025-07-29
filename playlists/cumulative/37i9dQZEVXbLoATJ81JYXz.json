@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Alla vill till himmelen men ingen vill d\u00f6",
       "url": "https://open.spotify.com/track/1s8zHKdZ6Nb90uZNTw1CYd"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 246386,
       "name": "Alla vill till himmelen men ingen vill d\u00f6",
       "url": "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW"
@@ -16452,7 +16452,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -19634,7 +19634,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 114124,
       "name": "Humlehum",
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
@@ -26982,7 +26982,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 120834,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
@@ -30364,7 +30364,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -30718,7 +30718,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -41423,6 +41423,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "Takedown",
+      "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+    },
+    {
+      "album": {
         "name": "Talk V\u00e5r Shit",
         "url": "https://open.spotify.com/album/4l9K8pqbdgU4puMMQ4KTvD"
       },
@@ -43892,7 +43926,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 189680,
       "name": "Tr\u00e4dg\u00e5rden en fredag",
       "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
@@ -45960,7 +45994,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
@@ -47227,6 +47261,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -47554,7 +47622,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"

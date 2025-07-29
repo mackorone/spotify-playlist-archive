@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 
 > Hity, které tě povzbudí a naladí na vlnu dobré nálady.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,752 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,749 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 | 43 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 44 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 45 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
-| 46 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
-| 47 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
+| 46 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
+| 47 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 48 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 49 | [Murder on the Dancefloor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 50 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |

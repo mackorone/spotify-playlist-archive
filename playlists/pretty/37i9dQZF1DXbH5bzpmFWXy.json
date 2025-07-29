@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. El Malilla en portada.",
-  "num_followers": 288512,
+  "num_followers": 288515,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
         "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 146896,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Un Pacto",
-        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 146896,
-      "name": "Un Pacto",
-      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "ALV (Remix)",
+        "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
+      },
+      "artists": [
+        {
+          "name": "Manuelvezz",
+          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "ALV - Remix",
+      "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "ALV (Remix)",
-        "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
-      },
-      "artists": [
-        {
-          "name": "Manuelvezz",
-          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "ALV - Remix",
-      "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 127343,
       "name": "F*CK",
       "url": "https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "3 Baikas",
-        "url": "https://open.spotify.com/album/1yb29W0IFRQuf5k7EPf6Wv"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 211948,
-      "name": "3 Baikas",
-      "url": "https://open.spotify.com/track/3iXGu3Rr3cQkep5xeUMVAz"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "3 Baikas",
+        "url": "https://open.spotify.com/album/1yb29W0IFRQuf5k7EPf6Wv"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "3 Baikas",
+      "url": "https://open.spotify.com/track/3iXGu3Rr3cQkep5xeUMVAz"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "De Vuelta a las Andadas",
-        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 173022,
-      "name": "ROS\u00c9",
-      "url": "https://open.spotify.com/track/5oXo0e51380SVSKtx0fhqF"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "ROS\u00c9",
+      "url": "https://open.spotify.com/track/5oXo0e51380SVSKtx0fhqF"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "La \u00daltima Carta",
         "url": "https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 201325,
       "name": "La \u00daltima Carta",
       "url": "https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-07-18 06:00:08",

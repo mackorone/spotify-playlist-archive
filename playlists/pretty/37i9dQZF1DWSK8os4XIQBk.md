@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Ella Langley and the biggest hits in country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,372 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,390 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

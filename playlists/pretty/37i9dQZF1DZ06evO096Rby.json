@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 45099,
+  "num_followers": 45127,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADZWBrXrCjRbvkv3S0FPBX2",
+  "snapshot_id": "aIVsAAAAAACSX3DCHLbpFPY2IVVzTNvt",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde Houston (En Vivo)",
         "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 186500,
       "name": "El Caballero - En Vivo",
       "url": "https://open.spotify.com/track/2LBlj7rQADMqVfss93FgRE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224378,
-      "name": "Hermosura de Mujer",
-      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
       "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/07FJaS98fuH5mX2AwPbscW"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 204437,
       "name": "Le Compre Casa A Mi Ama",
       "url": "https://open.spotify.com/track/2Lp3OUsQwNg5mzaeTANTjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,

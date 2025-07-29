@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 51316,
+  "num_followers": 51336,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABzZqAyIOYLNRoa3Zjwg5Am",
+  "snapshot_id": "aIVsAAAAAAB3k5b/B1IBsaGWw2Ro/epe",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 346160,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212320,
       "name": "Samba Dees Days",
       "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Serenade In Blue",
-      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Serenade In Blue",
+      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
     },
     {
       "added_at": null,

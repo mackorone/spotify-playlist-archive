@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,291 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,293 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 17 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/3HVJo6MDJzo7EO8DlV9ZKl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:06 |
 | 18 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
 | 19 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 |
-| 20 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
-| 21 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 |
+| 20 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 21 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
 | 22 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
-| 23 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 23 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 |
 | 24 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
 | 25 | [We Rise \- Jai Wolf Remix](https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Rise \(Jai Wolf Remix\)](https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW) | 3:08 |
 | 26 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 36 | [Flight Log 822](https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 2:03 |
 | 37 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
 
-Snapshot ID: `aIQagAAAAACRrNaDUlFQMR1f6twrJc76`
+Snapshot ID: `aIVsAAAAAADAq95gWRe/3dGD4TQnKgoy`

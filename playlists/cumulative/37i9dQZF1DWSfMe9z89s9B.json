@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "RAMBO",
+        "url": "https://open.spotify.com/album/7KDppNmYC0lkU4GIiZbrqT"
+      },
+      "artists": [
+        {
+          "name": "Garrett Sparrow",
+          "url": "https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "ASK",
+      "url": "https://open.spotify.com/track/3JPfO8cXqKX3Y1wfDv8LhE"
+    },
+    {
+      "album": {
         "name": "WE SURVIVED THE STORM, VOL. 2",
         "url": "https://open.spotify.com/album/7dH7JDyXluq0ISTgku8XBy"
       },
@@ -7104,7 +7122,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 71866,
       "name": "down",
       "url": "https://open.spotify.com/track/2aOGWRexXObCHluDRPFF51"
@@ -8500,7 +8518,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
@@ -10244,7 +10262,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 179066,
       "name": "Grey Scale",
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"

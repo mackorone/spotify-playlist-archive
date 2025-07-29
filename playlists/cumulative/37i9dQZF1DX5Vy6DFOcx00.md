@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,671 songs - 3 day 17 hr 45 min
+1,672 songs - 3 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Blame It on the Rain](https://open.spotify.com/track/2dPpQv8sCPeEaA4oz7ZjQC) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Greatest Hits](https://open.spotify.com/album/3sOy91gU770rkA494FbWWV) | 4:08 | 2024-10-11 | 2024-11-27 |
 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 | 2022-11-30 | 2022-12-16 |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-06-15 | 2022-06-26 |
-| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-06-17 |  |
+| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-06-17 | 2025-07-29 |
 | [Blicky](https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe) | [Fresh X Reckless](https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC) | [Blicky](https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH) | 2:11 | 2023-03-13 | 2023-06-02 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-23 | 2024-04-04 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-28 | 2023-02-28 |
@@ -622,6 +622,7 @@
 | [Hit Me](https://open.spotify.com/track/3HctvQd3AMON30EP0bbEK0) | [Megan Hilty](https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk), [Christopher Sieber](https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797), [Jennifer Simard](https://open.spotify.com/artist/4t5i1y4ok9zB6kSyw9iBzI) | [Death Becomes Her \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5nUimQrGD2Ay1FgVUGJDnm) | 2:58 | 2025-05-21 | 2025-06-14 |
 | [hit you with the blick](https://open.spotify.com/track/5kglopvMfz78Ma9lBrQADJ) | [K.comedy](https://open.spotify.com/artist/2XDvmSixRojJseC5VoDRk5) | [hit you with the blick](https://open.spotify.com/album/6Wsdob9uwDQLQj9QGTVmqL) | 2:10 | 2022-09-21 | 2022-11-02 |
 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 | 2024-11-04 | 2025-03-09 |
+| [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 | 2025-07-28 |  |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-25 | 2024-02-08 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-25 | 2024-06-01 |
 | [Home](https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2) | 4:23 | 2022-04-08 | 2022-07-12 |

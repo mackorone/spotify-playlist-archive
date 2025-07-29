@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexis Ffrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,962 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,984 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 65 | [A Sutured World: I\. Take This Broken Wing..\. \- Live](https://open.spotify.com/track/79fO1fWoUiOWT1Qbjgo5fr) | [Liza Lim](https://open.spotify.com/artist/7qFt7TG8vAZsHj2X6VyDi0), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Nicolas Altstaedt](https://open.spotify.com/artist/5W3AiBPc48fhMSqd2T7ypV), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [Musica viva, Vol\. 47 \(Live\)](https://open.spotify.com/album/6iZm6TjGrpJqHjE9yNJVrX) | 2:55 |
 | 66 | [Dumka, Op\. 59 \- Piano arrangement by Samuil Feinberg](https://open.spotify.com/track/3jJDLz7BIOCj8Chmh6nxWL) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Liudmila Georgievskaya](https://open.spotify.com/artist/6Au51A6ICK0GNlaSfvfgge) | [Inner Impressions](https://open.spotify.com/album/5HtBXDFtOXFSMr28WJkAsd) | 9:36 |
 | 67 | [Die schöne Müllerin, D\. 795: No\. 19, Der Müller und der Bach \(Transc\. for Piano by Franz Liszt\)](https://open.spotify.com/track/54QNwWb80254z0yLIPDCYf) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Rob Hao](https://open.spotify.com/artist/1DZnNimPgJT44KolXf2y1T) | [Der Müller und der Bach](https://open.spotify.com/album/5xvZXvdPr7b8GX3oqFLwnv) | 6:26 |
-| 68 | [Sonata in B Minor, BWV 1030: I\. Andante](https://open.spotify.com/track/3A8pBbcEsyfeQzEaPXAMmW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Béla Drahos](https://open.spotify.com/artist/0q1p8rHDG2v5RJwQkkXqAC) | [J.S\. Bach: Sonatas for Flute and Piano](https://open.spotify.com/album/1JRZEwx25MWy08tftnWi6j) | 8:36 |
+| 68 | [Sonata in B Minor, BWV 1030: I\. Andante](https://open.spotify.com/track/3A8pBbcEsyfeQzEaPXAMmW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Béla Drahos](https://open.spotify.com/artist/0q1p8rHDG2v5RJwQkkXqAC), [Tamás Vasvári](https://open.spotify.com/artist/5K6RCnvD10l9BL8Iq1jbHa) | [J.S\. Bach: Sonatas for Flute and Piano](https://open.spotify.com/album/1JRZEwx25MWy08tftnWi6j) | 8:36 |
 | 69 | [La Fée Carabosse](https://open.spotify.com/track/1fKYQb3imtTRUpwQZ8Oz2j) | [Yvette Guilbert](https://open.spotify.com/artist/45Aw5kVP14TC03ynbCnDfc), [Marielou Jacquard](https://open.spotify.com/artist/5Lbv6CKvFUCIPS1l8ymVNn), [Célia Oneto Bensaid](https://open.spotify.com/artist/30ax2qx1DxFoNH85xYQCmz) | [Yvette Guilbert: La Fée Carabosse](https://open.spotify.com/album/2Fsw17DJMUpKe8026jKdcC) | 6:34 |
 | 70 | [Les Pièces de Clavessin, Livre 1: Allemande "La Rare"](https://open.spotify.com/track/6CpZhwEIArLvbMYFg2s9lQ) | [Jacques Champion de Chambonnières](https://open.spotify.com/artist/6MPp614GBTIQSM4Zig9j8f), [Louise Acabo](https://open.spotify.com/artist/04gFgVfBvgHOgxV9GW7mNW) | [Chambonnières: Les Pièces de Clavessin, Livre 1: Allemande "La Rare"](https://open.spotify.com/album/50bF1iCbTP3FAz7z87M9EN) | 4:06 |
 

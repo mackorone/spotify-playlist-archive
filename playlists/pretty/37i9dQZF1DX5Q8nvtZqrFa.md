@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,917 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,915 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,31 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 22 | [欲望に満ちた青年団](https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [ゼイタクビョウ](https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP) | 3:22 |
 | 23 | [硝子の線](https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [硝子の線](https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq) | 4:16 |
 | 24 | [オッドアイ](https://open.spotify.com/track/4dW5jPBXRv5Hjm2qkjix5O) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [オッドアイ](https://open.spotify.com/album/14OG7nNP5lSoE5Ct7fmwg5) | 3:03 |
-| 25 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
+| 25 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 | 26 | [トラップ](https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [トラップ](https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x) | 2:51 |
-| 27 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
-| 28 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
+| 27 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
+| 28 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 29 | [遊霊婚](https://open.spotify.com/track/0cDMDQnj35KT8WrkSnbzeL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [遊霊婚](https://open.spotify.com/album/1WqN51nbtp6858wqmDPLYR) | 2:15 |
-| 30 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 |
+| 30 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
 | 31 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |
 | 32 | [騙シ愛 \- Damashiai](https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [騙シ愛 \- Damashiai](https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ) | 3:56 |
 | 33 | [瞳に吸い込まれて](https://open.spotify.com/track/0Bmr9iqfrDHkSPxjBFcSC8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [音の雨、言葉は傘、今から君と会う。](https://open.spotify.com/album/2DUCu6cZa6rtLvigSD6ouy) | 3:43 |
-| 34 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
+| 34 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
 | 35 | [DUNE](https://open.spotify.com/track/3pSE7pqSFVvOTvsvZsVpEm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 4:22 |
-| 36 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
-| 37 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
-| 38 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
-| 39 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
-| 40 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
+| 36 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 |
+| 37 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
+| 38 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
+| 39 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
+| 40 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
 | 41 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 | 42 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
 | 43 | [僕らまた](https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [僕らまた](https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE) | 3:17 |
-| 44 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
+| 44 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白 \- Confession](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 45 | [I can't stand the heat](https://open.spotify.com/track/1XBtjxNVcMxWNsLKb87Dsa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [I can't stand the heat](https://open.spotify.com/album/3IvPbgcwGDsaNgEY1j2Kaq) | 3:00 |
-| 46 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白 \- Confession](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
+| 46 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
 | 47 | [Caramel Pain](https://open.spotify.com/track/2XhNjx6wj3jRHbFWK2XrTl) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:59 |
 | 48 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
-| 49 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
-| 50 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
+| 49 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
+| 50 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 
 Snapshot ID: `aH+nhAAAAADSw0j3Y1X31dvQ28f6z4H8`

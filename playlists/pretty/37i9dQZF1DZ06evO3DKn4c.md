@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,782 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,789 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 16 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
 | 17 | [Na Segunda Vinda](https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:28 |
 | 18 | [Carta Pra Amy](https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 4:22 |
-| 19 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 |
-| 20 | [Motivos](https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 3:37 |
+| 19 | [Motivos](https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 3:37 |
+| 20 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 |
 | 21 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
 | 22 | [Au Revoir](https://open.spotify.com/track/3L3uxLbJUDqr2bM7CGlZVJ) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:27 |
 | 23 | [Falando do Meu Bem](https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:04 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 43 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 | 44 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 |
 
-Snapshot ID: `aIQagAAAAACMU8OLVAjUzG9fnVaEaR6O`
+Snapshot ID: `aIVsAAAAAAAk5HHkzDrbpgsd3jnVj2Vk`

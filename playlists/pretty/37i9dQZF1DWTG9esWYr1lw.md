@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,918 likes - 39 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,919 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 8 | [Rmdan Gana](https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel) | [Mohamed Abdel Mottaleb](https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM) | [Rmdan Gana](https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL) | 9:46 |
 | 9 | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE) | 2:27 |
 | 10 | [Baraka Allahu Lakuma](https://open.spotify.com/track/5mJEyyMjCIJUMPqrS9VkZb) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah](https://open.spotify.com/album/7xFPI5T8J8bAAj63JVEOB1) | 4:29 |
-| 11 | [Marhab Ya Hilal](https://open.spotify.com/track/5ME7NiysXCzVFuX4mcYHI8) | [Alma](https://open.spotify.com/artist/4jfbsn6PnS2LkLK4e9qj1d) | [Marhab Ya Hilal](https://open.spotify.com/album/0LcVPX9tVGJWEH3Z9AN329) | 3:15 |
-| 12 | [Ahlan Ramadan](https://open.spotify.com/track/5UEvq6ETaJR5wj37ilX1XI) | [Retal Ahmed](https://open.spotify.com/artist/4ekd61wSfTTuqb6qW9SI4A), [Ahmed Hasan Eluxory](https://open.spotify.com/artist/5ho0oRcst7QbETqcmz0meF), [Ahmed Hassan Eluxory](https://open.spotify.com/artist/6GUQY8rQYyjtx96urPgkRu) | [Ahlan Ramadan](https://open.spotify.com/album/5kbUXHN5AuYp5Yww0QgiNE) | 3:05 |
+| 11 | [Ahlan Ramadan](https://open.spotify.com/track/5UEvq6ETaJR5wj37ilX1XI) | [Retal Ahmed](https://open.spotify.com/artist/4ekd61wSfTTuqb6qW9SI4A), [Ahmed Hasan Eluxory](https://open.spotify.com/artist/5ho0oRcst7QbETqcmz0meF), [Ahmed Hassan Eluxory](https://open.spotify.com/artist/6GUQY8rQYyjtx96urPgkRu) | [Ahlan Ramadan](https://open.spotify.com/album/5kbUXHN5AuYp5Yww0QgiNE) | 3:05 |
+| 12 | [Marhab Ya Hilal](https://open.spotify.com/track/5ME7NiysXCzVFuX4mcYHI8) | [Alma](https://open.spotify.com/artist/4jfbsn6PnS2LkLK4e9qj1d) | [Marhab Ya Hilal](https://open.spotify.com/album/0LcVPX9tVGJWEH3Z9AN329) | 3:15 |
 | 13 | [مرحب شهر الصوم](https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG) | [Abd El Aziz Mahmoud](https://open.spotify.com/artist/0Ck6zEWZW4tN5exqSWrrGq) | [مرحب شهر الصوم](https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE) | 8:26 |
 | 14 | [Bab Rizk](https://open.spotify.com/track/3ZrRdDPgevGRUgERi0OucI) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bab Rizk](https://open.spotify.com/album/2pV6SNCzHgvQzQGHMxscm9) | 2:42 |
 | 15 | [Ramadan Gana](https://open.spotify.com/track/5WaEjgx4Kjf2TrkiKkPuIR) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Ramadan Gana](https://open.spotify.com/album/79kPEPMQnMCE6Cz2op1EOl) | 2:33 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 29 | [Ramadan](https://open.spotify.com/track/5wxOXYEcn0AZVvsHNH1OhM) | [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Ramadan](https://open.spotify.com/album/1bb3zUun6pqrtGwM738su4) | 3:27 |
 | 30 | [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 |
 | 31 | [Ahlan Rmdan](https://open.spotify.com/track/7H3Ji1vmOo5htleCTu7i3I) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Ahlan Rmdan](https://open.spotify.com/album/0zVcG2aXfYMK1ByQp5XvjK) | 5:48 |
-| 32 | [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 |
-| 33 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
-| 34 | [Aho Geh Ya Welad](https://open.spotify.com/track/5mXC7ZInp9tPJrPue3GbUx) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:38 |
-| 35 | [اهلا رمضان](https://open.spotify.com/track/43Zt5DfrGBYtBBknYPh6WW) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اهلا رمضان](https://open.spotify.com/album/6umXFIQM8J0bTOqTlgPFUI) | 2:34 |
-| 36 | [رمضان يا رمضان](https://open.spotify.com/track/6JIQ7vzqjp13Jg4nMAAq56) | [ملاك فتحي](https://open.spotify.com/artist/6FPOKrx4O5blxUA1N0DFAX) | [رمضان يا رمضان](https://open.spotify.com/album/15pmMYAWBRP85J4oWMUpEq) | 2:40 |
+| 32 | [اهلا رمضان](https://open.spotify.com/track/43Zt5DfrGBYtBBknYPh6WW) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اهلا رمضان](https://open.spotify.com/album/6umXFIQM8J0bTOqTlgPFUI) | 2:34 |
+| 33 | [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 |
+| 34 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
+| 35 | [رمضان يا رمضان](https://open.spotify.com/track/6JIQ7vzqjp13Jg4nMAAq56) | [ملاك فتحي](https://open.spotify.com/artist/6FPOKrx4O5blxUA1N0DFAX) | [رمضان يا رمضان](https://open.spotify.com/album/15pmMYAWBRP85J4oWMUpEq) | 2:40 |
+| 36 | [Aho Geh Ya Welad](https://open.spotify.com/track/5mXC7ZInp9tPJrPue3GbUx) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:38 |
 | 37 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
 | 38 | [Ahlan Ya Ramadhan](https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v) | [Rayhaan Carrim](https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6) | [Ahlan Ya Ramadhan](https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9) | 3:29 |
-| 39 | [Sebhet Ramadan](https://open.spotify.com/track/6jDdzsOWs4wreunHUnzGQe) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:40 |
+| 39 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 |
 
 Snapshot ID: `Z8anWgAAAAA1jY03Gp75qw0fv3uVWobr`

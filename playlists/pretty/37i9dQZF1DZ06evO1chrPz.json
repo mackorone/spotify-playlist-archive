@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 205049,
+  "num_followers": 205058,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACE9ARb2G+kKoPKFJRgQHiK",
+  "snapshot_id": "aIVsAAAAAABXG1GPDabHFwpNH/0ycYUn",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 369923,
-      "name": "I Want Jesus - Live",
-      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Center (Live)",
         "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 465379,
       "name": "Center - Live",
       "url": "https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 369923,
+      "name": "I Want Jesus - Live",
+      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,
@@ -768,13 +768,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 415059,
-      "name": "We Praise You (Live)",
-      "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
+      "duration_ms": 526890,
+      "name": "Champion (Live)",
+      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
     },
     {
       "added_at": null,
@@ -848,19 +848,19 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 526890,
-      "name": "Champion (Live)",
-      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
+      "duration_ms": 415059,
+      "name": "We Praise You (Live)",
+      "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Touch of Heaven / Alabaster Heart (Live)",
-        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+        "name": "Even Though I Walk (Live)",
+        "url": "https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ"
       },
       "artists": [
         {
@@ -868,13 +868,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 630228,
-      "name": "Touch of Heaven / Alabaster Heart (Live)",
-      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+      "duration_ms": 437655,
+      "name": "Even Though I Walk - Live",
+      "url": "https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even Though I Walk (Live)",
-        "url": "https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ"
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
       },
       "artists": [
         {
@@ -928,13 +928,37 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 437655,
-      "name": "Even Though I Walk - Live",
-      "url": "https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR"
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart (Live)",
+      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     },
     {
       "added_at": null,
@@ -979,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
@@ -1023,8 +1023,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
       "artists": [
         {
@@ -1032,13 +1032,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 485396,
-      "name": "Be Enthroned (Live)",
-      "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     }
   ],
   "unique_name": "This Is Bethel Music",

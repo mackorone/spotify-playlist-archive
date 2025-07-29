@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
 
-311 songs - 22 hr 31 min
+312 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Adiós Amor](https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Adiós Amor](https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R) | 4:27 | 2022-05-20 | 2024-04-19 |
 | [Adiós Amor](https://open.spotify.com/track/5xG2huiQ52CzM0DfrKSbTj) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/79ZeZVs4BaVB3NPJkhycqN) | 4:28 | 2022-01-01 | 2022-07-29 |
 | [Agua Que Va Caer](https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Tromboranga](https://open.spotify.com/album/73edLPjbItIG3qulH8etvP) | 4:43 | 2022-01-01 |  |
+| [Ahora](https://open.spotify.com/track/5FNAoc8z1ltd823QbS0V5I) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Mauro El Código Secreto](https://open.spotify.com/artist/5WlqTMUK1osjZ3G7cqyC9x) | [Ahora](https://open.spotify.com/album/3GaqBHtHkuMVecx1VRCMiI) | 2:50 | 2025-07-25 |  |
 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 | 2024-04-26 | 2024-07-27 |
 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 | 2023-11-10 |  |
 | [Amarte Hasta la Muerte](https://open.spotify.com/track/2thJdhgnelJ8yEQsHRbqmS) | [Jair Mendoza](https://open.spotify.com/artist/0xB8euVKujrw0bbj9MBgyr), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Amarte Hasta la Muerte](https://open.spotify.com/album/5giToj99boJgcQQKCY8JVI) | 3:57 | 2022-02-18 | 2022-05-29 |
@@ -293,7 +294,7 @@
 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 | 2022-01-01 |  |
 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 4:49 | 2022-01-01 |  |
 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 | 2022-04-29 | 2022-07-29 |
-| [Vamo' Echando](https://open.spotify.com/track/3jR02GFa7bbuhEvYc3pDwL) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Vamo' Echando](https://open.spotify.com/album/2X5V5p3CvFpPyzLtHrONFl) | 2:48 | 2024-11-08 |  |
+| [Vamo' Echando](https://open.spotify.com/track/3jR02GFa7bbuhEvYc3pDwL) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Vamo' Echando](https://open.spotify.com/album/2X5V5p3CvFpPyzLtHrONFl) | 2:48 | 2024-11-08 | 2025-07-29 |
 | [Vamos a Romper la Noche \(feat\. Gilberto Santa Rosa\)](https://open.spotify.com/track/63gMNTJiJpf0MNceQaoZWL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Retromántico](https://open.spotify.com/album/6TkAh6TSdd1N2cHOmN8NMh) | 4:27 | 2024-05-17 | 2024-08-12 |
 | [Vamos a ver](https://open.spotify.com/track/0XGZOLIc5bcgjyVKNK8kTf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Vamos a ver](https://open.spotify.com/album/283mFHdAnJUo2DmLmF7wz4) | 4:46 | 2024-10-25 | 2025-04-19 |
 | [Veinte Años](https://open.spotify.com/track/2v8yZk1pRloz1Kuj4YRFeP) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Veinte Años](https://open.spotify.com/album/7MsuZloTIyAxsrMNEMIdLq) | 5:27 | 2022-02-18 | 2022-03-12 |

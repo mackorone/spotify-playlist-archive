@@ -4,7 +4,7 @@
 
 > 🎮 Dein Soundtrack zum Zocken 🎮
 
-70 songs - 3 hr 51 min
+71 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-07-02 |  |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-07-02 |  |
 | [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2025-07-02 |  |
+| [Pompeii](https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 3:34 | 2025-07-24 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2025-07-02 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2025-07-02 |  |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2025-07-02 |  |
@@ -76,7 +77,7 @@
 | [Waiting For Love](https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:50 | 2025-07-02 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2025-07-02 |  |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2025-07-02 |  |
-| [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2025-07-02 |  |
+| [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2025-07-02 | 2025-07-29 |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2025-07-02 |  |
 
 \*This playlist was first scraped on 2025-07-09. Prior content cannot be recovered.

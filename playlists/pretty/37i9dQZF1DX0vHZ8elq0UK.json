@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1060312,
+  "num_followers": 1060632,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "Mad Love The Prequel",
         "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -243,22 +259,6 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "Loud (Japan Version)",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -639,22 +639,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -675,34 +671,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -719,6 +703,22 @@
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "#willpower",
         "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "7/27 (Deluxe)",
-        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Work from Home (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 238886,
-      "name": "How Bad Do U Want Me",
-      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
       "artists": [
         {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+      "duration_ms": 238226,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Ain't Your Mama",
         "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 218234,
       "name": "Ain't Your Mama",
       "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "The Wanted (Special Edition)",
-        "url": "https://open.spotify.com/album/6FftnKauTntTYF5PBI0yOm"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Chasing The Sun",
-      "url": "https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 245400,
       "name": "I'm Outta Love - Radio Edit",
       "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "The Wanted (Special Edition)",
+        "url": "https://open.spotify.com/album/6FftnKauTntTYF5PBI0yOm"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Chasing The Sun",
+      "url": "https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs"
     },
     {
       "added_at": "2025-05-27 13:50:42",

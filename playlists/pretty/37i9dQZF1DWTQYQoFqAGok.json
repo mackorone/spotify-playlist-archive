@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63593,
+  "num_followers": 63604,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...Un Poco M\u00e1s",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -291,26 +291,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
-        }
-      ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
         "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
@@ -323,6 +303,22 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al Son de la Marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -343,18 +339,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al Son de la Marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -387,22 +387,6 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bernalejo",
-        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
-      },
-      "artists": [
-        {
-          "name": "Mexkla",
-          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -443,6 +427,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bernalejo",
+        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
+      },
+      "artists": [
+        {
+          "name": "Mexkla",
+          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -601,42 +601,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2023-04-13 19:45:15",
-      "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
-      },
-      "artists": [
-        {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
-        },
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
@@ -659,6 +623,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cruz Tr\u00edo",
+          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "A la Ventana Carolina",
+      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Sacbe: Sacbe (Complete)",
         "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 404666,
       "name": "Las Pulgas Freeway",
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cruz Tr\u00edo",
-          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
-        }
-      ],
-      "duration_ms": 378493,
-      "name": "A la Ventana Carolina",
-      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
     },
     {
       "added_at": "2021-07-28 16:44:28",

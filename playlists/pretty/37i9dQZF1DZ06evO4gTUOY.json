@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4047283,
+  "num_followers": 4047549,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAC5uYZ8dKBbYR1we9fhpAs",
+  "snapshot_id": "aIVsAAAAAADLfobrnDc6ApszP3cpGmAh",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 297840,
-      "name": "Cleanin' Out My Closet",
-      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 221013,
       "name": "River (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Cleanin' Out My Closet",
+      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
     },
     {
       "added_at": null,
@@ -694,19 +694,11 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 297520,
-      "name": "Crack A Bottle",
-      "url": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     },
     {
       "added_at": null,
@@ -778,11 +770,19 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+      "duration_ms": 297520,
+      "name": "Crack A Bottle",
+      "url": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
     },
     {
       "added_at": null,

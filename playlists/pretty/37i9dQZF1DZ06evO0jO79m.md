@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 
 > This is Shakira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719,401 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719,563 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 10 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
 | 11 | [Las de la Intuición](https://open.spotify.com/track/7DnMd3BxVOedyOyR7K3F8L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 3:40 |
 | 12 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 |
-| 13 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
-| 14 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 13 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 14 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 | 15 | [Dia de Enero](https://open.spotify.com/track/2u24GtkbktY3HB3souJdNY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 2:53 |
 | 16 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:26 |
 | 17 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 49 | [Beautiful Liar](https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:19 |
 | 50 | [No \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/7CZkVQ8LsfDsu8STKAQfWY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 4:44 |
 
-Snapshot ID: `aIQagAAAAADi7qCOi/r71re+GJNwpBf8`
+Snapshot ID: `aIVsAAAAAABzMHaVtjbTon6IZJt/8WBN`

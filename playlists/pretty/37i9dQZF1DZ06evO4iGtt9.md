@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,338 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,340 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 18 | [Sanko](https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 |
 | 19 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
 | 20 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 |
-| 21 | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM) | [Kolaboy](https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa) | 3:14 |
-| 22 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 |
+| 21 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 |
+| 22 | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM) | [Kolaboy](https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa) | 3:14 |
 | 23 | [To U](https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [To U](https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9) | 3:44 |
 | 24 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
 | 25 | [SWEET US](https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:37 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 31 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 | 32 | [Gra Gra](https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:23 |
 | 33 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 |
-| 34 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
-| 35 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 |
-| 36 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
+| 34 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
+| 35 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 36 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 |
 | 37 | [M.O.N.E.Y](https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [M.O.N.E.Y](https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt) | 3:51 |
 | 38 | [Shake Yuh Bum \- Machel Montano Remix](https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 3:30 |
 | 39 | [Ukwu \(Bonus\)](https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [BLESSINGS \(feat\. Eugy Official\)](https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:54 |
 | 50 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
 
-Snapshot ID: `aIQagAAAAAC6636CLggDwTb3dfbf1EiJ`
+Snapshot ID: `aIVsAAAAAADJfVNCjbUKD4JYb5y84caB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,614 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,618 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
 | 50 | [Make Out With Me](https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 2:16 |
 
-Snapshot ID: `aIQagAAAAABtfIqOD7yo1cU8aWZzYLyW`
+Snapshot ID: `aIVsAAAAAAB4GOKb13StNxHO4sI+nWyn`

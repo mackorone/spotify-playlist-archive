@@ -1,6 +1,6 @@
 {
   "description": "Game day is our favorite day of the week.",
-  "num_followers": 884029,
+  "num_followers": 883975,
   "original_name": "Tailgate Party",
   "owner": {
     "name": "Spotify",
@@ -527,8 +527,8 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+      "duration_ms": 204160,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -603,42 +603,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -655,22 +619,38 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "The Thrill (feat. Empire of the Sun)",
-        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -719,6 +699,26 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "The Thrill (feat. Empire of the Sun)",
+        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -919,18 +919,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1123,6 +1123,38 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/7tl8VkZBE0bSMaMcqscnCk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/3sAIY2jtHpUHKfwDSSVgMM"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -1147,34 +1179,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/7tl8VkZBE0bSMaMcqscnCk"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/3sAIY2jtHpUHKfwDSSVgMM"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1191,22 +1207,6 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -1407,6 +1423,22 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -1419,22 +1451,6 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1515,22 +1531,6 @@
       "duration_ms": 225560,
       "name": "Country Girl (Shake It For Me)",
       "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1679,34 +1663,50 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     }
   ],
   "unique_name": "Tailgate Party",

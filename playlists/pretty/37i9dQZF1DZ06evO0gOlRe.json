@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 34908,
+  "num_followers": 34913,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADMAa+Eq/FapSA5mR6ZnBbY",
+  "snapshot_id": "aIVsAAAAAADXCzuObCarN2SAb+bP3QzE",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 160400,
-      "name": "reflection",
-      "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
+      "duration_ms": 186800,
+      "name": "said so",
+      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 186800,
-      "name": "said so",
-      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
+      "duration_ms": 160400,
+      "name": "reflection",
+      "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "STOP & GO",
-        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
       "artists": [
-        {
-          "name": "MIME",
-          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171130,
-      "name": "STOP & GO",
-      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
+      "duration_ms": 148965,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+        "name": "STOP & GO",
+        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
       },
       "artists": [
+        {
+          "name": "MIME",
+          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
+      "duration_ms": 171130,
+      "name": "STOP & GO",
+      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
     },
     {
       "added_at": null,

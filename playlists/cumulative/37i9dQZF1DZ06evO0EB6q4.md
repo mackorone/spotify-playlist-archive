@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 18 min
+112 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Contacto](https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Contacto](https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm) | 2:42 | 2025-01-13 | 2025-03-12 |
 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 | 2023-12-30 | 2024-11-21 |
 | [Contrato](https://open.spotify.com/track/7DXzrGiWlriwwd5gQ9N76O) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 2:52 | 2025-02-07 | 2025-02-15 |
-| [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-07 |  |
+| [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-07 | 2025-07-29 |
 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 | 2024-05-27 | 2024-08-02 |
 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 | 2024-12-22 |  |
 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 | 2023-12-30 | 2024-12-22 |
@@ -82,6 +82,7 @@
 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-12-30 | 2024-12-20 |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 | 2024-12-20 |  |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-12-30 | 2024-12-20 |
+| [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 | 2025-07-29 |  |
 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 | 2024-11-13 |  |
 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 | 2024-01-15 |  |
 | [Para los Dolidos](https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Para los Dolidos](https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm) | 2:36 | 2023-12-30 | 2024-12-13 |

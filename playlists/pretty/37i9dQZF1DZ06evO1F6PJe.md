@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,790 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,798 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 22 | [You Upset Me Baby](https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:35 |
 | 23 | [Breakthrough](https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:10 |
 | 24 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 |
-| 25 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
-| 26 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
+| 25 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
+| 26 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
 | 27 | [Still Walking With Me](https://open.spotify.com/track/0ZDJZmDMjqbq1yyv865iLn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 3:40 |
 | 28 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
 | 29 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 42 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
 | 43 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 |
 | 44 | [I Know What I've Done](https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Heartbreak City](https://open.spotify.com/album/6069Q408vtPl0pcne5egPX) | 4:40 |
-| 45 | [I'll Take Care of You](https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Beacon Theatre \- Live from New York](https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN) | 5:41 |
-| 46 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
+| 45 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
+| 46 | [I'll Take Care of You](https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Beacon Theatre \- Live from New York](https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN) | 5:41 |
 | 47 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 |
 | 48 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 |
 | 49 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 |
-| 50 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
+| 50 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
 
-Snapshot ID: `aIQagAAAAAAAzVnw1ZaGVsp+zE2K5SB1`
+Snapshot ID: `aIVsAAAAAAAXdYuDQ7Cy3/eRHEFYhBtz`

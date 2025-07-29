@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,498 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,539 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 15 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
 | 16 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 17 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
-| 18 | [Mi Tesoro](https://open.spotify.com/track/1w1uxMoBEwQGBIq5eKSYWb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:04 |
-| 19 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
+| 18 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
+| 19 | [Mi Tesoro](https://open.spotify.com/track/1w1uxMoBEwQGBIq5eKSYWb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:04 |
 | 20 | [Central Camionera](https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 3:22 |
 | 21 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
 | 22 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 26 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
 | 27 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
 | 28 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
-| 29 | [Chaparra De Mi Amor](https://open.spotify.com/track/6O520IZgFxvuPnBms0But5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:09 |
-| 30 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
+| 29 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
+| 30 | [Chaparra De Mi Amor](https://open.spotify.com/track/6O520IZgFxvuPnBms0But5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:09 |
 | 31 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
 | 32 | [Ni por Mil Puñados de Oro](https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 2:25 |
 | 33 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [La Latosa](https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 2:36 |
 | 50 | [Ésos Dos Amigos Brindaron Por Ella](https://open.spotify.com/track/3XalTDHy6XRXM1DjFIESot) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9), [Jody Farias](https://open.spotify.com/artist/0AvLxgq8bvY2bXqzeQSgIA) | [Esos Dos Amigos \(Remasterizado\)](https://open.spotify.com/album/3Yg0OfHOXsczieJwV5gq76) | 3:36 |
 
-Snapshot ID: `aIQagAAAAAAwwH+Rm+R6mc8nTHhEhXWx`
+Snapshot ID: `aIVsAAAAAADI7/actXmNLTQ78W1Ht8sw`

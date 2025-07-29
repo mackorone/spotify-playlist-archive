@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -2024,6 +2024,24 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "album": {
+        "name": "Long Way Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
     },
     {
       "album": {
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 230389,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4q5n1e9OgkSv2qIWXVp9sC"
@@ -5922,7 +5940,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv"
@@ -21876,7 +21894,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -25446,7 +25464,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -30045,6 +30063,48 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -34604,7 +34664,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 224629,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/1u5DziuY77j1BdbaF5hMMt"
@@ -38818,7 +38878,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
@@ -39270,7 +39330,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

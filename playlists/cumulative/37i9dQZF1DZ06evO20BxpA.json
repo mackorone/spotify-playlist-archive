@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Heads of State (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133760,
+      "name": "False Alliances",
+      "url": "https://open.spotify.com/track/3HGLYQ2Qb3qCIDTyDehcg1"
+    },
+    {
+      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 212453,
       "name": "Flook",
       "url": "https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB"

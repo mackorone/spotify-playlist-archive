@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: Lorena \u00c1lvarez.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Juana Aguirre.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -8333,6 +8333,24 @@
     },
     {
       "album": {
+        "name": "an\u00f3nimo",
+        "url": "https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181027,
+      "name": "las ramas",
+      "url": "https://open.spotify.com/track/1VADn46hFBYDxs7eegvOAd"
+    },
+    {
+      "album": {
         "name": "Notas de Voz",
         "url": "https://open.spotify.com/album/40HqgwCT6Ug89tuv8bJyrw"
       },
@@ -8650,6 +8668,24 @@
       "duration_ms": 186250,
       "name": "Lo Tengo Todo",
       "url": "https://open.spotify.com/track/2c9X8dFOQLxwMJ2etYaF6b"
+    },
+    {
+      "album": {
+        "name": "an\u00f3nimo",
+        "url": "https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201919,
+      "name": "lo_divino",
+      "url": "https://open.spotify.com/track/20SlD6QDxPlOd1Ip0NvsdG"
     },
     {
       "album": {
@@ -9222,7 +9258,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
@@ -10800,7 +10836,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0"
@@ -15771,6 +15807,24 @@
     },
     {
       "album": {
+        "name": "an\u00f3nimo",
+        "url": "https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "TORMENTA",
+      "url": "https://open.spotify.com/track/3tWNKBef2ko1QKViQsQMEv"
+    },
+    {
+      "album": {
         "name": "Traigo un canto guardado",
         "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
       },
@@ -16874,7 +16928,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"

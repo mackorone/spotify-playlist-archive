@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 56776,
+  "num_followers": 56806,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAD4DyhoTrr3RbugNvJj6hDV",
+  "snapshot_id": "aIVsAAAAAABydr7gEY3FNqL/zIeciJf7",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Good Morning From Mexico",
-      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 188426,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Good Morning From Mexico",
+      "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "She Used to Be Mine (with Riley Green)",
-      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 181626,
       "name": "Huntin' Land (feat. Riley Green)",
       "url": "https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "She Used to Be Mine (with Riley Green)",
+      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
     },
     {
       "added_at": null,

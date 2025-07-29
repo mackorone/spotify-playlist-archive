@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,932 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,018 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 47 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 48 | [Taxi Brousse](https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 1:28 |
 | 49 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
-| 50 | [Banani \- feat\. Lobi Traoré](https://open.spotify.com/track/0pKqawIX3uh1iycrPw5LMQ) | [Bassekou Kouyate](https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ), [Ngoni ba](https://open.spotify.com/artist/2wgNtcVFxnFkxrjpPZxXiw), [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Segu Blue](https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP) | 3:39 |
+| 50 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 
 Snapshot ID: `aFBpTwAAAACnCCJAQidhx8D5u2oIWmGU`

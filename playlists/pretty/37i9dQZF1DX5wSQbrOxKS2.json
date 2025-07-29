@@ -1,6 +1,6 @@
 {
   "description": "La discoth\u00e8que id\u00e9ale.",
-  "num_followers": 403341,
+  "num_followers": 403410,
   "original_name": "Quand la musique est bonne !",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 294226,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -383,18 +399,26 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 294226,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -431,30 +455,6 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
-      },
-      "artists": [
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
         "name": "The Dock of the Bay (Mono)",
         "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
@@ -823,34 +807,18 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -871,22 +839,18 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -907,6 +871,42 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "added_at": "2025-06-27 12:33:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-27 12:33:36",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
-    },
-    {
-      "added_at": "2025-06-27 12:33:36",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2025-06-27 12:33:36",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2025-06-27 12:33:36",

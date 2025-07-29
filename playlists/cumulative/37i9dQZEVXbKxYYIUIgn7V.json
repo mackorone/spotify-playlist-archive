@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/707DzUEuWroACBGQfOvBOo"
+      },
+      "artists": [
+        {
+          "name": "Jack Cullen",
+          "url": "https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192565,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5vSpEQozVvQmBN14A6m8zY"
+    },
+    {
+      "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
       },
@@ -38484,7 +38502,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 172613,
       "name": "vitamin",
       "url": "https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55"

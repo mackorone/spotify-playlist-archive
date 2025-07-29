@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > ang lalim
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,081 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,129 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 16 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 |
 | 17 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 18 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 19 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
+| 19 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
 | 20 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 |
-| 21 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
+| 21 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
 | 22 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
 | 23 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 24 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 34 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 |
 | 35 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
 | 36 | [Backburner](https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF) | 3:56 |
-| 37 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
-| 38 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
+| 37 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
+| 38 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 39 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 40 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
-| 41 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 |
-| 42 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 41 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 42 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 |
 | 43 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 |
-| 44 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
-| 45 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
-| 46 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
-| 47 | [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 |
-| 48 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
-| 49 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 |
+| 44 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
+| 45 | [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 |
+| 46 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
+| 47 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
+| 48 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 |
+| 49 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
 | 50 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
 
 Snapshot ID: `aH3PWgAAAADl39O1ilbquvUAKL053sjV`

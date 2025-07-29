@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Tyla & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,094 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,097 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 30 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 31 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 |
 | 32 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 33 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
-| 34 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
+| 33 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
+| 34 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
 | 35 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 |
 | 36 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 37 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 48 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 49 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 50 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
-| 51 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
-| 52 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
+| 51 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
+| 52 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
 | 53 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 54 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 55 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
-| 56 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
-| 57 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
-| 58 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
-| 59 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 |
-| 60 | [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 |
+| 56 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 57 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 58 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
+| 59 | [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 |
+| 60 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
 Snapshot ID: `aIJKfQAAAADYAWvqIyNNRXxPuF9u3O/w`

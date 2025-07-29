@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 209045,
+  "num_followers": 209199,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:37",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
-    },
-    {
-      "added_at": "2025-07-25 04:00:37",
-      "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2025-07-25 04:00:37",
@@ -635,22 +635,18 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 245951,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+      "duration_ms": 288653,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
     },
     {
       "added_at": "2025-07-25 04:00:37",
@@ -671,18 +667,22 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+      "duration_ms": 245951,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
     },
     {
       "added_at": "2025-07-25 04:00:37",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-07-25 04:00:37",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -979,6 +995,26 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
+        "name": "9PM IN PARIS",
+        "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 159322,
+      "name": "Touch me (feat. Ya Levis)",
+      "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "added_at": "2025-07-25 04:00:37",
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -1027,22 +1063,18 @@
     {
       "added_at": "2025-07-25 04:00:37",
       "album": {
-        "name": "9PM IN PARIS",
-        "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
       },
       "artists": [
         {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        },
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 159322,
-      "name": "Touch me (feat. Ya Levis)",
-      "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
     },
     {
       "added_at": "2025-07-25 04:00:37",
@@ -1079,22 +1111,6 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2025-07-25 04:00:37",
-      "album": {
-        "name": "Tuff Times Never Last",
-        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 228385,
-      "name": "Da Du Dah",
-      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
     },
     {
       "added_at": "2025-07-25 04:00:37",
@@ -1375,30 +1391,6 @@
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
-    },
-    {
-      "added_at": "2025-07-25 04:00:37",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 246836,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     }
   ],
   "unique_name": "floating",

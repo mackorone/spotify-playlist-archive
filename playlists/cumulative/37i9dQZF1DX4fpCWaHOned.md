@@ -4,7 +4,7 @@
 
 > Your pop\-powered pep talk\. Own it.
 
-562 songs - 1 day 6 hr 52 min
+563 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-01 | 2024-12-11 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 | 2024-10-05 |
 | [Great One](https://open.spotify.com/track/1rm9z2o1PgcJHIYL6nx0VG) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 2:49 | 2019-08-10 | 2021-07-31 |
-| [Greedy](https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:34 | 2022-03-25 |  |
+| [Greedy](https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:34 | 2022-03-25 | 2025-07-29 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-22 | 2024-02-10 |
 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 | 2025-07-19 |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2019-10-25 | 2021-05-26 |
@@ -490,6 +490,7 @@
 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 | 2025-06-27 | 2025-07-19 |
 | [The Real Thing](https://open.spotify.com/track/6dQouK9atua68vEQrnIwf8) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [The Real Thing](https://open.spotify.com/album/4TFpy2A4CuGv18cQfH9PYY) | 2:53 | 2021-10-17 | 2021-12-11 |
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-08 | 2022-04-21 |
+| [Therapy & Yoga](https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk) | 1:55 | 2025-07-28 |  |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/5yYFrOnqG8cEciKnsxHz2r) | 3:19 | 2019-07-29\* | 2021-10-12 |
 | [Therefore I Am](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:53 | 2022-02-03 | 2023-02-04 |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2020-12-19 | 2022-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,255 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,267 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 22 | [To Whom It May Concern](https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:21 |
 | 23 | [Sugar Man](https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Jazz Lounge : pour travailler à la maison](https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC) | 3:32 |
 
-Snapshot ID: `aIQagAAAAAB6/2RsXUaLpDOZeY/IVRxI`
+Snapshot ID: `aIVsAAAAAAAjMScaDrgPOroAo9E1R9Qf`

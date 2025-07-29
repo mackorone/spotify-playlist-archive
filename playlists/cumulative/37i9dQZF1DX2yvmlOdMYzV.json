@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 219913,
       "name": "& Then Some",
       "url": "https://open.spotify.com/track/2875XTVzJUuYQEEhy8NJGw"
@@ -3245,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0aej31w3GDhghFkjzN0Jig"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/1wMPkTxyS1AZnWQ3N9xui1"
+    },
+    {
+      "album": {
         "name": "Nintindo Soul",
         "url": "https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR"
       },
@@ -4298,6 +4316,10 @@
         {
           "name": "Taylor Williams",
           "url": "https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F"
+        },
+        {
+          "name": "Leroi Conroy",
+          "url": "https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw"
         }
       ],
       "date_added": "2025-05-16",
@@ -8812,7 +8834,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 219494,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7oh1voagwFJCffArqCjhFc"
@@ -17446,7 +17468,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 160475,
       "name": "Time Apart",
       "url": "https://open.spotify.com/track/7Bi4OrBlggm1PaobdxW9Up"

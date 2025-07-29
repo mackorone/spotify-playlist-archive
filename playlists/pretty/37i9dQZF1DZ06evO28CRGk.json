@@ -1,12 +1,12 @@
 {
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
-  "num_followers": 461,
+  "num_followers": 462,
   "original_name": "This Is Marco Polo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAgoTgCQPZkI1NZRpXRydPL",
+  "snapshot_id": "aIVsAAAAAACCyW3J24YP53p3QygyxRhi",
   "tracks": [
     {
       "added_at": null,
@@ -300,13 +300,17 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Pav Bundy",
-          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
+          "name": "Stricklin",
+          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
+        },
+        {
+          "name": "Speech",
+          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
         }
       ],
-      "duration_ms": 195055,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
+      "duration_ms": 184178,
+      "name": "Life Music",
+      "url": "https://open.spotify.com/track/3NMkJp7TjOXSj04Mx1Qi4V"
     },
     {
       "added_at": null,
@@ -400,13 +404,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Pav Bundy",
+          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
         }
       ],
-      "duration_ms": 168364,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/6yTv6yhbPdR013Ag4WyJ3u"
+      "duration_ms": 195055,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
     },
     {
       "added_at": null,
@@ -492,17 +496,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Stricklin",
-          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
-        },
-        {
-          "name": "Speech",
-          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 184178,
-      "name": "Life Music",
-      "url": "https://open.spotify.com/track/3NMkJp7TjOXSj04Mx1Qi4V"
+      "duration_ms": 168364,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6yTv6yhbPdR013Ag4WyJ3u"
     },
     {
       "added_at": null,
@@ -727,26 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O POLO",
-        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
       "artists": [
-        {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
         }
       ],
-      "duration_ms": 177126,
-      "name": "Swarm",
-      "url": "https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0"
+      "duration_ms": 198418,
+      "name": "BK 2 NJ",
+      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     },
     {
       "added_at": null,
@@ -799,22 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+        "name": "A-F-R-O POLO",
+        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
       },
       "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         }
       ],
-      "duration_ms": 198418,
-      "name": "BK 2 NJ",
-      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
+      "duration_ms": 177126,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0"
     },
     {
       "added_at": null,
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 94463,
-      "name": "Reloaded (Intro)",
-      "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
+      "duration_ms": 215315,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4"
     },
     {
       "added_at": null,
@@ -998,23 +998,11 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Green",
-          "url": "https://open.spotify.com/artist/425dAH6elWgBjvcJmSxMbf"
-        },
-        {
-          "name": "Kas",
-          "url": "https://open.spotify.com/artist/1lFQ4azorYPPjFr4RyTFrn"
-        },
-        {
-          "name": "Zorak",
-          "url": "https://open.spotify.com/artist/3pJVkXr1jLitXhE0u7vutE"
         }
       ],
-      "duration_ms": 345813,
-      "name": "Garri Kasparow",
-      "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
     },
     {
       "added_at": null,
@@ -1075,6 +1063,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 94463,
+      "name": "Reloaded (Intro)",
+      "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Green",
+          "url": "https://open.spotify.com/artist/425dAH6elWgBjvcJmSxMbf"
+        },
+        {
+          "name": "Kas",
+          "url": "https://open.spotify.com/artist/1lFQ4azorYPPjFr4RyTFrn"
+        },
+        {
+          "name": "Zorak",
+          "url": "https://open.spotify.com/artist/3pJVkXr1jLitXhE0u7vutE"
+        }
+      ],
+      "duration_ms": 345813,
+      "name": "Garri Kasparow",
+      "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Newport Authority 2",
         "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
@@ -1091,46 +1131,6 @@
       "duration_ms": 214601,
       "name": "Nite & Day",
       "url": "https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "What Is The Question",
-      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
-      },
-      "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "The Return",
-      "url": "https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4"
     },
     {
       "added_at": null,

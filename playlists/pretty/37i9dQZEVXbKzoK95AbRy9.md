@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,612 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,649 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
 | 50 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
 
-Snapshot ID: `MBmdKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

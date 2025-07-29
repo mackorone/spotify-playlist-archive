@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI?si=HUkkftvyRfOlI0i3TNRJNw">Chella</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,219 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,221 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

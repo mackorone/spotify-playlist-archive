@@ -1,12 +1,12 @@
 {
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Retro",
-  "num_followers": 995082,
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Coolie",
+  "num_followers": 995374,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIJDcAAAAAAT0Yx5IhJkTMrQbCyTzUCX",
+  "snapshot_id": "aIcRSgAAAADKoSm4C4FClknXqAkMrH3/",
   "tracks": [
     {
       "added_at": "2025-07-22 08:55:39",
@@ -37,6 +37,30 @@
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
     },
     {
+      "added_at": "2025-07-28 05:57:30",
+      "album": {
+        "name": "Pottala Muttaye (From \"Thalaivan Thalaivii\")",
+        "url": "https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 226255,
+      "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
+      "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
+    },
+    {
       "added_at": "2025-03-27 11:29:27",
       "album": {
         "name": "Kannadi Poove (From \"Retro\")",
@@ -57,10 +81,10 @@
       "url": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz"
     },
     {
-      "added_at": "2025-06-11 13:02:58",
+      "added_at": "2025-07-28 05:57:30",
       "album": {
         "name": "Thug Life (Tamil)",
-        "url": "https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb"
+        "url": "https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak"
       },
       "artists": [
         {
@@ -68,17 +92,17 @@
           "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         },
         {
           "name": "Siva Ananth",
           "url": "https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC"
         }
       ],
-      "duration_ms": 241223,
-      "name": "Muththa Mazhai",
-      "url": "https://open.spotify.com/track/5BEz37uGx2cfFe5YAPWlHW"
+      "duration_ms": 240264,
+      "name": "Muththa Mazhai (Reprise)",
+      "url": "https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje"
     },
     {
       "added_at": "2025-07-24 14:30:08",
@@ -343,26 +367,6 @@
       "duration_ms": 274531,
       "name": "Vinveli Nayaga",
       "url": "https://open.spotify.com/track/6ioxBnY5yi9Ah8sdsxz1nc"
-    },
-    {
-      "added_at": "2025-05-07 12:49:33",
-      "album": {
-        "name": "Good Bad Ugly [TAMIL]",
-        "url": "https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC"
-      },
-      "artists": [
-        {
-          "name": "Darkkey",
-          "url": "https://open.spotify.com/artist/04RZUhq6dIFyX9eJYij92Q"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "Ak - The Tiger",
-      "url": "https://open.spotify.com/track/6XyeIcCT97drM5lzi9Pq88"
     },
     {
       "added_at": "2025-06-11 13:07:10",

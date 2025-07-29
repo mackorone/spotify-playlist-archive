@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21333,
+  "num_followers": 21373,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
-    {
-      "added_at": "2025-07-14 17:59:45",
-      "album": {
         "name": "M\u00e1s Que T\u00fa",
         "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
+    },
+    {
+      "added_at": "2025-07-14 17:59:45",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2025-07-14 17:59:45",
@@ -611,30 +611,26 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
-        "name": "Ele Disse",
-        "url": "https://open.spotify.com/album/0r1PYxqazNEdKfQKM9JJ9L"
+        "name": "Bandidas Tamb\u00e9m Falam de Amor",
+        "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
       "artists": [
         {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         },
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Ele Disse",
-      "url": "https://open.spotify.com/track/57fStA0bfvW3G9i08Ik1Q9"
+      "duration_ms": 143551,
+      "name": "Bonita & Gostosa",
+      "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
     },
     {
       "added_at": "2025-07-14 17:59:45",
@@ -659,26 +655,30 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
-        "name": "Bandidas Tamb\u00e9m Falam de Amor",
-        "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
+        "name": "Ele Disse",
+        "url": "https://open.spotify.com/album/0r1PYxqazNEdKfQKM9JJ9L"
       },
       "artists": [
         {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
         },
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         }
       ],
-      "duration_ms": 143551,
-      "name": "Bonita & Gostosa",
-      "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
+      "duration_ms": 172800,
+      "name": "Ele Disse",
+      "url": "https://open.spotify.com/track/57fStA0bfvW3G9i08Ik1Q9"
     },
     {
       "added_at": "2025-07-14 17:59:45",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
+    },
+    {
+      "added_at": "2025-07-14 17:59:45",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
-    },
-    {
-      "added_at": "2025-07-14 17:59:45",
-      "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
     },
     {
       "added_at": "2025-07-14 17:59:45",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
-        "name": "Tobog\u00e3",
-        "url": "https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD"
-      },
-      "artists": [
-        {
-          "name": "Renegado",
-          "url": "https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f"
-        },
-        {
-          "name": "PMM",
-          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Tobog\u00e3",
-      "url": "https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl"
-    },
-    {
-      "added_at": "2025-07-14 17:59:45",
-      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
+        "name": "Tobog\u00e3",
+        "url": "https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD"
+      },
+      "artists": [
+        {
+          "name": "Renegado",
+          "url": "https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f"
+        },
+        {
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Tobog\u00e3",
+      "url": "https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl"
+    },
+    {
+      "added_at": "2025-07-14 17:59:45",
+      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
-        "name": "MELHOR FASE",
-        "url": "https://open.spotify.com/album/63suSL6QHh6iSDjg3VUFnJ"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        }
-      ],
-      "duration_ms": 210821,
-      "name": "MELHOR FASE",
-      "url": "https://open.spotify.com/track/6CdWZLtCtAw45jkTd9P3Gl"
-    },
-    {
-      "added_at": "2025-07-14 17:59:45",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2025-07-14 17:59:45",
       "album": {
+        "name": "MELHOR FASE",
+        "url": "https://open.spotify.com/album/63suSL6QHh6iSDjg3VUFnJ"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        }
+      ],
+      "duration_ms": 210821,
+      "name": "MELHOR FASE",
+      "url": "https://open.spotify.com/track/6CdWZLtCtAw45jkTd9P3Gl"
+    },
+    {
+      "added_at": "2025-07-14 17:59:45",
+      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2025-07-14 17:59:45",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-07-14 17:59:45",
@@ -1095,6 +1075,26 @@
       "duration_ms": 197103,
       "name": "1 a 1.",
       "url": "https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU"
+    },
+    {
+      "added_at": "2025-07-14 17:59:45",
+      "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-07-14 17:59:45",

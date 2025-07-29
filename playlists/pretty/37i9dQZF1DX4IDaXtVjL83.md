@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Bradley Simpson & HONGJOONG of ATEEZ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,459 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,447 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 1 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 2 | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 |
 | 3 | [butterflies \(feat\. TAEHYUN & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Kim Chaewon of LE SSERAFIM](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 |
 | 4 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,853 likes - 125 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 125 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 8 | [妥协](https://open.spotify.com/track/4Hyikffe4OuecsMB6FtoNS) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [妥协](https://open.spotify.com/album/64E2Ch2AbXRG7UbJqjRTGo) | 4:19 |
 | 9 | [我們仍未知曉的雨晴](https://open.spotify.com/track/5eLu8SvuQuNfFUmr1wweCf) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [我們仍未知曉的雨晴](https://open.spotify.com/album/1K7qBP8c7TveeU6ze6vMNN) | 3:30 |
 | 10 | [為靠近而遠離](https://open.spotify.com/track/3alC6rjIGZAr1xL94VBJkE) | [Jeff Chang](https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu) | [為靠近而遠離](https://open.spotify.com/album/5zhy7kTZBGjRHCH245TOkE) | 5:03 |
-| 11 | [離開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
+| 11 | [離不開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離不開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
 | 12 | [關於愛情](https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [ALIVE](https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A) | 4:55 |
 | 13 | [別讓我心碎](https://open.spotify.com/track/3Yb8k8jmFOEyQguS4ay5D9) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [別讓我心碎](https://open.spotify.com/album/6MmRVolBoBOoaeyoLtr3qt) | 3:26 |
 | 14 | [末日擁抱](https://open.spotify.com/track/3t8zDLQg4orQ7FvYSHHbs8) | [Xinz](https://open.spotify.com/artist/7ECCgxHrOUNqurrG8q3CJA) | [bye.](https://open.spotify.com/album/0FLBlLDe1w3BuzZIpVCUXZ) | 2:55 |

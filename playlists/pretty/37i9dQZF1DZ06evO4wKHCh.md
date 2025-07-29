@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,061 likes - 30 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,072 likes - 30 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 29 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
 | 30 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `aIQagAAAAAAFSGNx/1zPWcICZ2D7Jk2+`
+Snapshot ID: `aIVsAAAAAADKC5GeFHo0DDI7VeBXBgta`

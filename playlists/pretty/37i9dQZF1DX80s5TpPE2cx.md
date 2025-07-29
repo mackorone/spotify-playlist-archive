@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,421 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,436 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 33 | [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 |
 | 34 | [MONICA](https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:51 |
 | 35 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
-| 36 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
-| 37 | [Fluid](https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 2:25 |
+| 36 | [Fluid](https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 2:25 |
+| 37 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
 | 38 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
 | 39 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 |
 | 40 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 71544,
+  "num_followers": 71551,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "I believe in...",
+        "url": "https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        },
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "I believe in...",
+      "url": "https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "HELLO CALLiNG",
         "url": "https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 253986,
       "name": "Re-raise",
       "url": "https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "I believe in...",
-        "url": "https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        },
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "I believe in...",
-      "url": "https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -471,6 +471,26 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
+      },
+      "artists": [
+        {
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+        },
+        {
+          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "\u30ab\u30e9\u30d5\u30eb",
         "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 275346,
       "name": "Period Color",
       "url": "https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "Heart to Heart",
-        "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
-      },
-      "artists": [
-        {
-          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
-          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
-        },
-        {
-          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
-          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -559,6 +559,30 @@
       "duration_ms": 246746,
       "name": "No Sacrifice",
       "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Unfoggy Sight",
+        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "Unfoggy Sight",
+      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -615,30 +639,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Unfoggy Sight",
-        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        },
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Unfoggy Sight",
-      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
         "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
       },
@@ -651,6 +651,34 @@
       "duration_ms": 267800,
       "name": "STRONGER & STRONGER",
       "url": "https://open.spotify.com/track/6SuxSZciPXssT1MQKXBgU8"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
+        "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
+        },
+        {
+          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+        },
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
+      "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -707,34 +735,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
-        "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        },
-        {
-          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
-          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
-        },
-        {
-          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
-        },
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
-      "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 251520,
       "name": "Risky\u306a\u5f7c\u5973",
       "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -783,18 +767,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
       "artists": [
         {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 300493,
-      "name": "\u5e78\u305b\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -819,6 +803,50 @@
       "duration_ms": 269853,
       "name": "Polished",
       "url": "https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        },
+        {
+          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
+        },
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 300493,
+      "name": "\u5e78\u305b\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -859,50 +887,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        },
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        },
-        {
-          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
-          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
-        },
-        {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
-      },
-      "artists": [
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 267013,
-      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
         "url": "https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
-      },
-      "artists": [
-        {
-          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
-          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
-        }
-      ],
-      "duration_ms": 261040,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "Up to the nines",
         "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 231440,
       "name": "Up to the nines",
       "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 267013,
+      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
+      },
+      "artists": [
+        {
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album vol.2",
         "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 267146,
       "name": "Four Leaf Ring",
       "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2025-06-09 15:00:27",

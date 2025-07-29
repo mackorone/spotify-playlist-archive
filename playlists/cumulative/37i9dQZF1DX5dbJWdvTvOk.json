@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -2076,6 +2076,24 @@
       "duration_ms": 124253,
       "name": "Capulet",
       "url": "https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2"
+    },
+    {
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah River",
+          "url": "https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V"
     },
     {
       "album": {

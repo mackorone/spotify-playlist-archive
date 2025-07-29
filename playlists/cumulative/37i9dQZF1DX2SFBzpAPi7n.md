@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-998 songs - 2 day 12 hr 56 min
+999 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Childlike](https://open.spotify.com/track/3XajzTgxQw9rmsnFiBjmtE) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [MY SUN](https://open.spotify.com/album/1xiwGp6DOg9DkaQG1xHzpI) | 3:20 | 2022-08-18 | 2022-09-06 |
 | [Circle](https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Captain Planet](https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ) | [Circle](https://open.spotify.com/album/77jgit97Awso1HWgnklOpm) | 4:24 | 2022-07-04 | 2022-07-23 |
 | [Circle](https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Color](https://open.spotify.com/album/3OVO95pAzdpfBeowvaB6Qu) | 3:33 | 2024-12-13 | 2025-02-11 |
+| [Circle](https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Circle](https://open.spotify.com/album/4LiuM6QOgsmRfCVL07SlFu) | 4:30 | 2025-07-28 |  |
 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 | 2024-11-06 | 2024-12-14 |
 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 | 2022-08-01 | 2022-08-13 |
 | [CLOVER](https://open.spotify.com/track/59RE05wSPwo1OJex4BBJF5) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 2.0](https://open.spotify.com/album/5cFhcdTabOikqUttuqhWhX) | 3:05 | 2024-11-06 | 2024-12-14 |
@@ -566,7 +567,7 @@
 | [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-04-28 | 2025-05-17 |
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 | 2024-12-14 |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
-| [Night Runner \(Shooting Star\)](https://open.spotify.com/track/1b3r8lsK8BJSsOUoIpRTLG) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [One Last Day](https://open.spotify.com/album/2YApgTwrbo0nig3GyQvPbF) | 3:33 | 2025-07-03 |  |
+| [Night Runner \(Shooting Star\)](https://open.spotify.com/track/1b3r8lsK8BJSsOUoIpRTLG) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [One Last Day](https://open.spotify.com/album/2YApgTwrbo0nig3GyQvPbF) | 3:33 | 2025-07-03 | 2025-07-29 |
 | [Night Sea](https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2) | [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [In Summer](https://open.spotify.com/album/3YPZ2UqculUNYPl07DZYh9) | 4:38 | 2022-06-09 | 2022-06-16 |
 | [Night, night](https://open.spotify.com/track/2mWKLDnwAgvBooII1wUS7k) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Night, night](https://open.spotify.com/album/28DONTbETtEh7MMTIXFoP3) | 5:20 | 2024-12-05 | 2025-03-25 |
 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 | 2022-09-30 | 2022-10-19 |
@@ -864,7 +865,7 @@
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
-| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 | 2025-07-26 |
+| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
 | [Transfigure \(Feat\. Kim Doyeong\)](https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Kim Doyeong](https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:31 | 2023-07-12 | 2023-07-29 |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
@@ -909,7 +910,7 @@
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-26 | 2023-02-15 |
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |
 | [We're destined to meet someday](https://open.spotify.com/track/6YgVmvaDpMIIeBCYog2wkx) | [BLVN](https://open.spotify.com/artist/5YpY8ifnZKsV99rZqwYMGF) | [B\-SIDE](https://open.spotify.com/album/2xfhZvZmpCsTmS3vyT8Pdu) | 4:40 | 2022-05-11 | 2022-06-04 |
-| [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-18 |  |
+| [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-18 | 2025-07-29 |
 | [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 | 2023-08-28 |
 | [What I Want To Say](https://open.spotify.com/track/7uJTJ5dlGhPeQ9IS8VReF6) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [What I Want To Say \(Police University OST Part.6\)](https://open.spotify.com/album/0i1PtAZNjiF9IIxm4i0N2m) | 3:18 | 2022-06-13 | 2022-06-15 |
 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 | 2022-04-21 | 2022-06-23 |

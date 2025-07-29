@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9838,
+  "num_followers": 9843,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAOr+SEQhYPKdVrsvhXf02h",
+  "snapshot_id": "aIVsAAAAAABwTfNd3SZ7XF/QidFs7u+Q",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 179240,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
+      "duration_ms": 134320,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 134320,
-      "name": "Con Que Me Pagas",
-      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
+      "duration_ms": 179240,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Enemigo P\u00fablico",
+        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "El Enemigo P\u00fablico",
+      "url": "https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hombre de 14 A\u00f1os",
         "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 239381,
       "name": "Las Tempestades",
       "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Enemigo P\u00fablico",
-        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "El Enemigo P\u00fablico",
-      "url": "https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
-        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
+      "duration_ms": 138453,
+      "name": "Yo Fui el Se\u00f1or de los Llanos",
+      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
+        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 138453,
-      "name": "Yo Fui el Se\u00f1or de los Llanos",
-      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
     },
     {
       "added_at": null,

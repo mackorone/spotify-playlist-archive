@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 49 min
+112 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kikito](https://open.spotify.com/track/2YE9W9ohFWiYxTfcjuaBJf) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [kikito](https://open.spotify.com/album/5nbJjWvzVCCHDkukuPiOrr) | 2:50 | 2025-06-26 |  |
 | [KIKITO](https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC) | 2:50 | 2024-06-19 | 2024-10-11 |
 | [Kikito](https://open.spotify.com/track/5N7WygWmT8oIz5PqtLYFYz) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/7psagzimnYXlFd2EhlQU4b), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/6gAm2BmwhCp23kD5tikCyL) | 2:50 | 2024-10-11 | 2025-06-26 |
+| [Kikito & Ruta \- Live](https://open.spotify.com/track/52ePYVTq0HMddJkQABmZyQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Kikito & Ruta \(Live\)](https://open.spotify.com/album/1pNcgSOUIuTHfqVbOhrla9) | 4:14 | 2025-07-29 |  |
 | [Leyenda](https://open.spotify.com/track/1xM9xOhQlicmrc0tRvcNCK) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Flamen Beretta](https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Leyenda](https://open.spotify.com/album/2HbIpXTFRKHgZZknnQa12o) | 3:08 | 2025-05-20 |  |
 | [Leyenda](https://open.spotify.com/track/3CiLKA28ADlogEKaUOmPRX) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Flamen Beretta](https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Leyenda](https://open.spotify.com/album/6cEDQDne0kL7kW8KP2LiYc) | 3:08 | 2025-03-30 | 2025-06-20 |
 | [Loco](https://open.spotify.com/track/6vatfs7t1je6O2rrp5NNBZ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:22 | 2024-07-12 | 2025-04-29 |

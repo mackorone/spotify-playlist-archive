@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 431784,
+  "num_followers": 431848,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
       "artists": [
         {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -707,6 +691,22 @@
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -877,26 +877,6 @@
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "What Dreams Are Made Of",
-        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
-      },
-      "artists": [
-        {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Locked Away (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -915,6 +895,26 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Locked Away (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
+      "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -1214,11 +1214,15 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1289,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
+      "added_at": "2021-09-20 19:34:04",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -1298,15 +1302,11 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Better When I'm Dancin'",
-        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Beautiful People (feat. Khalid)",
@@ -1531,6 +1515,22 @@
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+      "duration_ms": 231693,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
+      "duration_ms": 206393,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1897,6 +1897,26 @@
       "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "STELLA & STEVE",
+        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
@@ -1923,26 +1943,6 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "STELLA & STEVE",
-        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Supalonely",
-      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/3fGW43fnu3OHEw6ohTC2Bw"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2667,6 +2667,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Nobody Love",
+      "url": "https://open.spotify.com/track/7fpU0bRJt0SDC8jIgVpbT6"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Hurt Somebody",
         "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
       },
@@ -2683,22 +2699,6 @@
       "duration_ms": 168640,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Nobody Love",
-      "url": "https://open.spotify.com/track/7fpU0bRJt0SDC8jIgVpbT6"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2957,6 +2957,22 @@
       "url": "https://open.spotify.com/track/0qbFX2rA1E8Lu5Hrdio8jE"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
+    },
+    {
       "added_at": "2021-10-29 13:50:13",
       "album": {
         "name": "Chameleon (feat. Salt Cathedral)",
@@ -2975,22 +2991,6 @@
       "duration_ms": 188253,
       "name": "Chameleon (feat. Salt Cathedral)",
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Sheesh!",
         "url": "https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 148846,
       "name": "Sheesh!",
       "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -3269,6 +3269,26 @@
       "url": "https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Never A Good Time",
+        "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 167232,
+      "name": "Never A Good Time",
+      "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Move",
@@ -3291,26 +3311,6 @@
       "duration_ms": 165133,
       "name": "Move",
       "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Never A Good Time",
-        "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 167232,
-      "name": "Never A Good Time",
-      "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
     },
     {
       "added_at": "2021-08-25 20:28:57",

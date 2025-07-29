@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,626 likes - 42 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 42 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 2 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 |
 | 3 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 | 4 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 |
-| 5 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 |
-| 6 | [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 |
+| 5 | [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 |
+| 6 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 |
 | 7 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
 | 8 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr) | 8:40 |
 | 9 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 41 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
 | 42 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `aIQagAAAAAB+3uq56XMjWpV1Ul2g78PV`
+Snapshot ID: `aIVsAAAAAAAx6YUaiq6NzHi9OtDPeca9`

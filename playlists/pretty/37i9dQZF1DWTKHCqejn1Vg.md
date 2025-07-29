@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,853 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,855 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 22 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 | 23 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 24 | [Woo](https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:12 |
-| 25 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 |
-| 26 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
+| 25 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
+| 26 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 |
 | 27 | [Kiss of fire](https://open.spotify.com/track/3tZhtCYISL5esUNEvcWclc) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:15 |
 | 28 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 29 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 54 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
 | 55 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
 | 56 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
-| 57 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/5tEiCsOFqEqDVTYMA05YC8) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/3lQAIDcYUT1E5cLAuZ2BGA) | 2:50 |
-| 58 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 |
+| 57 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 |
+| 58 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/5tEiCsOFqEqDVTYMA05YC8) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/3lQAIDcYUT1E5cLAuZ2BGA) | 2:50 |
 | 59 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 60 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
 

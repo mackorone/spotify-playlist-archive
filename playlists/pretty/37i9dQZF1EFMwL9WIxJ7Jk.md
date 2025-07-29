@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 86 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,406 likes - 87 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 82 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 |
 | 83 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
 | 84 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
-| 85 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
-| 86 | [Nice To Meet Ya](https://open.spotify.com/track/4BOljrLghhs18tNkvN5OW8) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Best Of 2019 Vol\. 1 \(130 BPM\)](https://open.spotify.com/album/78bcfgNlM7IAEsXMnPb8RF) | 3:56 |
+| 85 | [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 |
+| 86 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
+| 87 | [Nice To Meet Ya](https://open.spotify.com/track/4BOljrLghhs18tNkvN5OW8) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Best Of 2019 Vol\. 1 \(130 BPM\)](https://open.spotify.com/album/78bcfgNlM7IAEsXMnPb8RF) | 3:56 |
 
-Snapshot ID: `Ab37XgAAAABS8YhTxui4u60wxeNPUkhr`
+Snapshot ID: `Ab4A/gAAAABC9UlPctRN41gnoD6OAEFx`

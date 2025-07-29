@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,283 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,348 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 15 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
 | 16 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 |
 | 17 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
-| 18 | [Black Friday Rule](https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 7:01 |
+| 18 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 19 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
-| 20 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
+| 20 | [Black Friday Rule](https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 7:01 |
 | 21 | [The Warrior's Code](https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:31 |
 | 22 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
 | 23 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 35 | [Danny Boy](https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [No Offence](https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD) | 3:46 |
 | 36 | [Whiskey Makes Me Crazy](https://open.spotify.com/track/7gLbLGteklzcPSd53ojUDg) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 1:21 |
 | 37 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
-| 38 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
-| 39 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
+| 38 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
+| 39 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 40 | [Waxies Dargle](https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Real World](https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7) | 1:58 |
-| 41 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
-| 42 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
+| 41 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
+| 42 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
 | 43 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 |
 | 44 | [White Knuckle Ride](https://open.spotify.com/track/1rUiICtcJ7UpGn55gRxpdo) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off The Leash](https://open.spotify.com/album/4gOFYHgQfBZhqilL96qMtE) | 3:26 |
 | 45 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
 | 46 | [My Pint](https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE) | [The Bastard Suns](https://open.spotify.com/artist/5Pl6l5ZS7eSQhcfH93grw4) | [The Hail Mary EP](https://open.spotify.com/album/2XXNqcmTUvhsn95c9KIqX8) | 3:09 |
 | 47 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
-| 48 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
+| 48 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 |
 | 49 | [Due West](https://open.spotify.com/track/44rcYmW4XZy8PNJnjGL2Ld) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Two Devils Will Talk](https://open.spotify.com/album/7Bu6iKJ9HzyGEtBndg3zak) | 2:38 |
-| 50 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 |
+| 50 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
 
 Snapshot ID: `ZmmIMwAAAADIp0wXUhM13YZk/wapjUWa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,058 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,169 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 23 | [Kisah Penuh Kecewa](https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Penuh Kecewa](https://open.spotify.com/album/2QQvBiCR66jEhRYrt3R6yc) | 3:53 |
 | 24 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
 | 25 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
-| 26 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
-| 27 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
+| 26 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
+| 27 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
 | 28 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 29 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
 | 30 | [Kau Masih Kekasihku](https://open.spotify.com/track/4bf1MapeofdB3XKUqDMUOm) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Isyarat Hati](https://open.spotify.com/album/1muxhaxJ0RScTQiWp7cpBJ) | 4:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 43 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 44 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 |
 | 45 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 |
-| 46 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
-| 47 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
+| 46 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
+| 47 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 48 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
-| 49 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
-| 50 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |
+| 49 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |
+| 50 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 
 Snapshot ID: `aIbf6gAAAABI/ns+dhiO1Xb3XroSPFj4`

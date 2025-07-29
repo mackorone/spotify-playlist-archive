@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 
 > Sounds of the city to help you drift off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,033 likes - 137 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,055 likes - 137 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 | 102 | [City Sleep](https://open.spotify.com/track/0n8UIpyQFj3Gy3JzIHCslg) | [Avenue](https://open.spotify.com/artist/7LnO6j07JcAqyWyEA2nQvJ) | [The City](https://open.spotify.com/album/2jdhDExTr1u73U6EfPfDnx) | 2:35 |
 | 103 | [Old Woodward](https://open.spotify.com/track/41Dbnfa8POLNYOAtXZuhZn) | [Michigan Traveler](https://open.spotify.com/artist/2kDDDpvtebjg8oZb72yyeL) | [Sounds of Detroit](https://open.spotify.com/album/6d1XZttAW3u2qnQ14hTIqk) | 3:07 |
 | 104 | [City Full Of Rain](https://open.spotify.com/track/5qstY7MVPPUA8NtgWHygal) | [Noise Geek](https://open.spotify.com/artist/2OqvMCVtdXzDnIUY65XXgY) | [Tokyo\-Rain](https://open.spotify.com/album/531cPIsF3exdnv9VdYfIY2) | 2:28 |
-| 105 | [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 3:50 |
+| 105 | [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [CeeGee Rec](https://open.spotify.com/artist/0azcvzZpPaHReycE5W2NQo) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 3:50 |
 | 106 | [City Buzz Musical Flow](https://open.spotify.com/track/4dc48tj6nATWuntA5nfrJ4) | [City Sounds](https://open.spotify.com/artist/2Ysr1LCfBEkar72Dj2nvi8), [City Sounds Ambience](https://open.spotify.com/artist/4FYL7IrHIkcngTUw3h3vG4), [City Sounds for Sleeping](https://open.spotify.com/artist/77CCIcHndGI4XjqVuS6JSg) | [Soundscape in the Cityscape](https://open.spotify.com/album/0FTk0ze5ZOYe6mJzhfCJhC) | 2:30 |
 | 107 | [City Flow](https://open.spotify.com/track/4HMrHqTEG2RT5OWJHFLYQF) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Street Life](https://open.spotify.com/album/1AwghlhNSvSBxDTISLIwbo) | 2:16 |
 | 108 | [Urban Trickles](https://open.spotify.com/track/1pWL1vFXkSSGBUvvnlbQw9) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Urban Atmos](https://open.spotify.com/album/1jpXonUYtmfRIxJxPZbjR7) | 3:12 |

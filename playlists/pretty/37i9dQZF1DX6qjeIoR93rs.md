@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,457 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,475 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 28 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 29 | [Can I Live](https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Can I Live](https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O) | 1:52 |
 | 30 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 31 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
-| 32 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
+| 31 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
+| 32 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 33 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
 | 34 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 35 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 43 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
 | 44 | [A3MEL ESH](https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm) | [Ram Nafar](https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [A3MEL ESH](https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP) | 1:36 |
 | 45 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
-| 46 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
-| 47 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 |
-| 48 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
-| 49 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
+| 46 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 |
+| 47 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
+| 48 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
+| 49 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
 | 50 | [The Night Has Fallen Down](https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Seasons of Violet \- Lovesongs from Palestine](https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y) | 5:06 |
 | 51 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
 | 52 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 59 | [Ibn Gaza](https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [Ibn Gaza](https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh) | 1:21 |
 | 60 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 | 61 | [Galbi Dari](https://open.spotify.com/track/3EleTttGO2qnHqWboexTzE) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X) | [Galbi Dari](https://open.spotify.com/album/2g1mdqMEqCxm31F5iuFsGS) | 2:34 |
-| 62 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
-| 63 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 |
+| 62 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 |
+| 63 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
 | 64 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 65 | [Che Guevara](https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 3:46 |
 | 66 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 |

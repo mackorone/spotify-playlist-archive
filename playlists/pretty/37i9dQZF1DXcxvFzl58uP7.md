@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,229 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,338 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 16 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
 | 17 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
 | 18 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
-| 19 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
+| 19 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 20 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 |
 | 21 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
-| 22 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
+| 22 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 23 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 |
 | 24 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 |
 | 25 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 30 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
 | 31 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 32 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
-| 33 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
-| 34 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
+| 33 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
+| 34 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
 | 35 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
 | 36 | [Heaven](https://open.spotify.com/track/4XYo3W8U6IY42EbB01rnR4) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Heaven](https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f) | 3:53 |
 | 37 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 |
 | 38 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
-| 39 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
-| 40 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
+| 39 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
+| 40 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
 | 41 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 42 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
 | 43 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 46 | [blue salvia](https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:17 |
 | 47 | [Years Roll By](https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Years Roll By](https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i) | 3:09 |
 | 48 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
-| 49 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
-| 50 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
+| 49 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
+| 50 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
 | 51 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 52 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 53 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 85 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 86 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 87 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
-| 88 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
-| 89 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
+| 88 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
+| 89 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
 | 90 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
 | 91 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 92 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 95 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
 | 96 | [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 |
 | 97 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
-| 98 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
-| 99 | [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 |
-| 100 | [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 |
+| 98 | [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 |
+| 99 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
+| 100 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 |
 
 Snapshot ID: `Z8XhXgAAAAD+ivMgKh3KX5je6z+LGn8A`

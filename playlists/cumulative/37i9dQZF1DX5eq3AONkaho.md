@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,078 songs - 2 day 11 hr 30 min
+1,080 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-23 | 2024-06-20 |
 | [I Really Want You](https://open.spotify.com/track/2LUQEcfWrlpMjODQ7NsVWt) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:17 | 2021-11-17 | 2022-07-16 |
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2024-03-27 | 2024-05-10 |
+| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-25 |  |
 | [I will get lost, you go your way \(feat\. Jun Hyung Yong\)](https://open.spotify.com/track/7tLzYnj0QjiUbYvl0G4xYn) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:33 | 2021-11-17 | 2022-05-19 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-11-17 |  |
 | [I'll Make You Cry](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:34 | 2022-01-03 | 2023-07-21 |
@@ -721,7 +722,7 @@
 | [Peek\-A\-Boo](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:09 | 2022-03-24 |  |
 | [Perfect day \(Feat\. Ashley Alisha, nobody likes you pat\)](https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Totoro](https://open.spotify.com/album/0W5MlKa1GpzGVpoTtHifP3) | 2:57 | 2021-11-17 | 2022-07-29 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-11-04 |  |
-| [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-09 |  |
+| [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-09 | 2025-07-29 |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2021-11-17 | 2022-07-27 |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2022-02-03 | 2025-05-28 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
@@ -837,6 +838,7 @@
 | [Siren](https://open.spotify.com/track/2EK48RuuE8HHMDzD2rEDqL) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7KU9xZLinCIIHBDmeQbeDp) | 3:19 | 2021-11-17 | 2022-07-18 |
 | [Sixth Sense](https://open.spotify.com/track/48e4DLoXvpSRwDNpzS92wj) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [SIXTH SENSE](https://open.spotify.com/album/2PIeftoK2jS0xqNFmFfzeL) | 3:49 | 2022-03-24 | 2022-04-18 |
 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 | 2022-03-24 | 2022-04-18 |
+| [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 | 2025-07-25 |  |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-03-27 | 2025-04-19 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-02-03 |  |
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-27 | 2024-10-26 |
@@ -844,7 +846,7 @@
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2021-11-17 | 2022-07-27 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-12 |  |
 | [Snowy Summer](https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Snowy Summer](https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN) | 2:57 | 2025-07-18 |  |
-| [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2021-11-17 |  |
+| [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2021-11-17 | 2025-07-29 |
 | [So Hot](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:01 | 2022-03-24 | 2022-06-20 |
 | [SO HOT \- THEBLACKLABEL REMIX BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"](https://open.spotify.com/track/1fMXWEkJpIH483OrKn1zFV) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"](https://open.spotify.com/album/1dH4B2bWb5Ys7aszi9KWHA) | 2:24 | 2021-11-17 | 2022-07-27 |
 | [So I Lie](https://open.spotify.com/track/6W3dOxHtG9BGSkCsIHZRVI) | [YerY](https://open.spotify.com/artist/4RnDWh3zemdMGubIQLeT6H) | [So I Lie](https://open.spotify.com/album/2KGPPS4bKfNA8ObCMx8jk1) | 3:00 | 2022-01-03 | 2022-06-14 |

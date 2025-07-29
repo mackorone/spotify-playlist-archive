@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: mimi bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,605 likes - 131 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,629 likes - 131 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 |
-| 2 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
-| 3 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
-| 4 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
-| 5 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
+| 1 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 2 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
+| 3 | [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 |
+| 4 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
+| 5 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
 | 6 | [Give Me A Reason](https://open.spotify.com/track/43IjXQrUGt6vrftWLbseaH) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Give Me A Reason](https://open.spotify.com/album/3mnpICMVWR6zlyTfO3ILRm) | 2:53 |
-| 7 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
-| 8 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 |
-| 9 | [Machine](https://open.spotify.com/track/3UTG8JgUGRaXiroa2bBxTO) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/42OKHc9E91nhsELUfypuPr) | 3:10 |
-| 10 | [Idioter](https://open.spotify.com/track/4s02cDo33HsKDgdsTF2wyI) | [Jacob Douglas](https://open.spotify.com/artist/2kUZsGlC2wBonxMqut4xD0) | [Idioter](https://open.spotify.com/album/58OuBU5B7QxRTuSPXJbzSN) | 3:40 |
-| 11 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 |
-| 12 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
+| 7 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
+| 8 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
+| 9 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 |
+| 10 | [Machine](https://open.spotify.com/track/3UTG8JgUGRaXiroa2bBxTO) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/42OKHc9E91nhsELUfypuPr) | 3:10 |
+| 11 | [Idioter](https://open.spotify.com/track/4s02cDo33HsKDgdsTF2wyI) | [Jacob Douglas](https://open.spotify.com/artist/2kUZsGlC2wBonxMqut4xD0) | [Idioter](https://open.spotify.com/album/58OuBU5B7QxRTuSPXJbzSN) | 3:40 |
+| 12 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 |
 | 13 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 14 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 15 | [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 130 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
 | 131 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 |
 
-Snapshot ID: `aIKtDgAAAAAA7vLQuUQWJRcSvLSTxPPR`
+Snapshot ID: `aIcenwAAAABVHKmm/T576zxiDy617r9K`

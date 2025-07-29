@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,737 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,717 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 20 | [free love \- dream edit](https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 4:09 |
 | 21 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 22 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
-| 23 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
-| 24 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
+| 23 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
+| 24 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
 | 25 | [Gondry](https://open.spotify.com/track/7lPFh8HF5FFMzSIUOwvRTm) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 5:08 |
 | 26 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 |
 | 27 | [bath](https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [bath](https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r) | 4:21 |
 | 28 | [Blue rain](https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 3:49 |
-| 29 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
+| 29 | [lie](https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [lie](https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI) | 4:24 |
 | 30 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 31 | [lie](https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [lie](https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI) | 4:24 |
+| 31 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
 | 32 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
 | 33 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 34 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
-| 35 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
-| 36 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
+| 35 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
+| 36 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 37 | [Mouse](https://open.spotify.com/track/3Xz3KJ4ZsFmiwRcrzuXV3m) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/7qOgTG0UtYwFhp2SDJb5bs) | 3:58 |
 | 38 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 39 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Kae Tempest",
-  "num_followers": 180194,
+  "num_followers": 180200,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Sweetie",
-        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 244049,
-      "name": "Sweetie",
-      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
         "name": "Wasteman",
         "url": "https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 145879,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "Sweetie",
+        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 244049,
+      "name": "Sweetie",
+      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -387,38 +387,6 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Ama said",
-        "url": "https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Ama said",
-      "url": "https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
-        "name": "time to go",
-        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 209362,
-      "name": "time to go",
-      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09"
       },
@@ -447,6 +415,38 @@
       "duration_ms": 206451,
       "name": "Straight Drop X5",
       "url": "https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "Ama said",
+        "url": "https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Ama said",
+      "url": "https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "time to go",
+        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 209362,
+      "name": "time to go",
+      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
         "name": "Date Nite",
         "url": "https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP"
       },
@@ -519,34 +535,34 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Figures On The Wall",
-        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
       },
       "artists": [
         {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Figures On The Wall",
-      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
     },
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+        "name": "Same Sh*t",
+        "url": "https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
         }
       ],
-      "duration_ms": 149624,
-      "name": "Holy Mountain",
-      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
+      "duration_ms": 148452,
+      "name": "Same Sh*t",
+      "url": "https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -575,38 +591,6 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Same Sh*t",
-        "url": "https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r"
-      },
-      "artists": [
-        {
-          "name": "Booter Bee",
-          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
-        }
-      ],
-      "duration_ms": 148452,
-      "name": "Same Sh*t",
-      "url": "https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
-        "name": "aggressive",
-        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 175215,
-      "name": "aggressive",
-      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
         "name": "cook & effy",
         "url": "https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 187555,
       "name": "cook & effy",
       "url": "https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 149624,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "One Call Away",
-        "url": "https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 107333,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
       },
@@ -759,34 +739,22 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "Know Yourself",
-        "url": "https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX"
+        "name": "One Call Away",
+        "url": "https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK"
       },
       "artists": [
         {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        }
-      ],
-      "duration_ms": 160113,
-      "name": "Know Yourself",
-      "url": "https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
         {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+      "duration_ms": 107333,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -807,6 +775,38 @@
       "duration_ms": 134370,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "Know Yourself",
+        "url": "https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX"
+      },
+      "artists": [
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "duration_ms": 160113,
+      "name": "Know Yourself",
+      "url": "https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
-        "name": "TELL DEM IT'S SUNNY",
-        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "Whatcha Mean",
-      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
@@ -899,6 +883,38 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "TELL DEM IT'S SUNNY",
+        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "Whatcha Mean",
+      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -923,22 +939,6 @@
       "duration_ms": 220165,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
       "added_at": "2025-07-03 23:00:17",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-07-03 23:00:17",
       "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2025-07-03 23:00:17",
+      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2025-07-03 23:00:17",
-      "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
-      },
-      "artists": [
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        }
-      ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2025-07-03 23:00:17",

@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 33 min
+45 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 | 2024-09-17 |  |
 | [Faded](https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Faded](https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR) | 3:22 | 2024-09-17 |  |
 | [Fly Away](https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Tanner Alexander](https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP) | [Fly Away](https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN) | 3:47 | 2024-09-17 |  |
-| [GlitchGang \(Remix\)](https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Last Ones Standing](https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm) | 2:24 | 2024-09-17 |  |
+| [GlitchGang \(Remix\)](https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [GlitchGang \(Remix\)](https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb) | 2:24 | 2025-07-29 |  |
+| [GlitchGang \(Remix\)](https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Last Ones Standing](https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm) | 2:24 | 2024-09-17 | 2025-07-29 |
 | [Hellscape](https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B) | [HECC](https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Roland Banks](https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK) | [Hellscape](https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq) | 3:39 | 2024-09-17 |  |
 | [Hurt You So Bad](https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:46 | 2024-09-17 |  |
 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 | 2024-09-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,244 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,252 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 3 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
 | 4 | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 |
 | 5 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 |
-| 6 | [Keanu's Song](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [Keanu's Song](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
+| 6 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 |
 | 7 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
-| 8 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 |
+| 8 | [Keanu's Song](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [Keanu's Song](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
 | 9 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 10 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
 | 11 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 46 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
 | 47 | [Another Win](https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Another Win](https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU) | 3:45 |
 | 48 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
-| 49 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 |
-| 50 | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr) | 3:53 |
+| 49 | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr) | 3:53 |
+| 50 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 |
 
-Snapshot ID: `aIQagAAAAABMrAnof+j3801il0IIz719`
+Snapshot ID: `aIVsAAAAAABNVJU0cLaQhe44jJjTnbt+`

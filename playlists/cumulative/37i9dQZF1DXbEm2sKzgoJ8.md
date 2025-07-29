@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-488 songs - 1 day 3 hr 3 min
+489 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Falling \(Summer Walker Remix\)](https://open.spotify.com/track/3doHXO2n8mAW8XkIFeapTZ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Falling \(Summer Walker Remix\)](https://open.spotify.com/album/3AbYioF6OiwhcMXZDdR394) | 2:53 | 2021-12-10 | 2022-04-19 |
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-09-17 |
 | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b) | 3:43 | 2023-05-05 | 2023-06-20 |
+| [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 | 2025-07-18 |  |
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-27 | 2024-08-24 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-11-13 |
 | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/album/3x97AnoAAIBGJuqZSTtVte) | 3:06 | 2023-08-04 |  |
@@ -474,7 +475,7 @@
 | [What's On Ur Mind](https://open.spotify.com/track/1tCMbFn0uTiIqBqIdZ0cES) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [What's On Ur Mind](https://open.spotify.com/album/7Hk38z2ouRgFRwIuo5FfJ9) | 3:24 | 2021-12-10 | 2022-07-29 |
 | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 | 2024-08-30 | 2024-09-17 |
 | [When I'm With You \(feat\. Tyla\)](https://open.spotify.com/track/6JLV2Jo7IJmWbNVITZaGsd) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:52 | 2025-02-28 | 2025-03-18 |
-| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-29 |  |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-29 | 2025-07-29 |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-28 |  |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-03-11 | 2022-05-22 |
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-05-20 | 2022-07-11 |

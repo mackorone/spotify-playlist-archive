@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 653879,
+  "num_followers": 654009,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACydoeLe8qzbB0tw/xQStmN",
+  "snapshot_id": "aIVsAAAAAAAN/ylMfOK5b3unIBjf7c2A",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Liver Will Handle What My Heart Can't",
-        "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Kill Yourself (Part III)",
-      "url": "https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Liver Will Handle What My Heart Can't",
+        "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Kill Yourself (Part III)",
+      "url": "https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk"
     },
     {
       "added_at": null,
@@ -706,31 +706,11 @@
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 169319,
-      "name": "$outh $ide $uicide",
-      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "LTE",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+      "duration_ms": 192168,
+      "name": "Diemonds",
+      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
     },
     {
       "added_at": null,
@@ -747,6 +727,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "LTE",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,
@@ -774,11 +770,15 @@
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 192168,
-      "name": "Diemonds",
-      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
+      "duration_ms": 169319,
+      "name": "$outh $ide $uicide",
+      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
     },
     {
       "added_at": null,

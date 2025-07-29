@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,887 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,918 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 45 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 | 46 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
 | 47 | [Certified Blues](https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:27 |
-| 48 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
-| 49 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
+| 48 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
+| 49 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
 | 50 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
 
-Snapshot ID: `aIQagAAAAAAb11YQjXiilDkLmFy6m8tV`
+Snapshot ID: `aIVsAAAAAAB+BlcAerdfktzDQ+yIAHDx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8119,
+  "num_followers": 8117,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADcs1Ehl6Ekcc4FYceAz8af",
+  "snapshot_id": "aIVsAAAAAAA3dZN6vv+7IG2pvqZm37Be",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 404333,
-      "name": "Meet Me On The Moon",
-      "url": "https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm"
+      "duration_ms": 426666,
+      "name": "Living In Confusion",
+      "url": "https://open.spotify.com/track/6X8TcpimcImnieJyfPr7NF"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 426666,
-      "name": "Living In Confusion",
-      "url": "https://open.spotify.com/track/6X8TcpimcImnieJyfPr7NF"
+      "duration_ms": 404333,
+      "name": "Meet Me On The Moon",
+      "url": "https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "The Love Too Good to Last",
+      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Are My Starship",
         "url": "https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "The Love Too Good to Last",
-      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Refuse To Be Lonely",
         "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 280560,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 297906,
-      "name": "Gonna Make Changes",
-      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
     },
     {
       "added_at": null,
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever with You",
-        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
         {
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 277040,
-      "name": "Come Right or Not at All",
-      "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
+      "duration_ms": 297906,
+      "name": "Gonna Make Changes",
+      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 358093,
       "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
       "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever with You",
+        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Come Right or Not at All",
+      "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Just Another Face In the Crowd",
-      "url": "https://open.spotify.com/track/4PbatvH2aKPvZ8cF15892v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living All Alone",
         "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Why Did You Turn Me On",
-      "url": "https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko"
+      "duration_ms": 350520,
+      "name": "Just Another Face In the Crowd",
+      "url": "https://open.spotify.com/track/4PbatvH2aKPvZ8cF15892v"
     },
     {
       "added_at": null,
@@ -719,6 +703,38 @@
       "duration_ms": 224226,
       "name": "Can't We Fall in Love Again",
       "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Why Did You Turn Me On",
+      "url": "https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 374693,
+      "name": "Living Inside Your Love",
+      "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 374693,
-      "name": "Living Inside Your Love",
-      "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 310493,
       "name": "Some Way",
       "url": "https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
       "artists": [
         {
@@ -828,25 +844,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 184253,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 322773,
-      "name": "Tonight You and Me - Disco Version",
-      "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
+      "duration_ms": 313253,
+      "name": "Give Me One Good Reason To Stay",
+      "url": "https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS"
     }
   ],
   "unique_name": "This Is Phyllis Hyman",

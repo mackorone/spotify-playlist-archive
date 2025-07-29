@@ -1,29 +1,13 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 588384,
+  "num_followers": 588438,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACsVqHLycK2j44tRL533TSZ",
+  "snapshot_id": "aIVsAAAAAACnDUurHP66aWpK6c2c56Zm",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 189386,
       "name": "Immortals",
       "url": "https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 244720,
       "name": "Just One Yesterday",
       "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Didn\u2019t Start The Fire",
-        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire",
-      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 156287,
       "name": "Best Friend (with Fall Out Boy)",
       "url": "https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
     },
     {
       "added_at": null,

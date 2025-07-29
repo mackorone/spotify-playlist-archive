@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,849 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,853 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 93 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 94 | [September Song](https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song](https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg) | 3:40 |
 | 95 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
-| 96 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
-| 97 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 98 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl) | 3:16 |
-| 99 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
-| 100 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 96 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl) | 3:16 |
+| 97 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
+| 98 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
+| 99 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 100 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
 
 Snapshot ID: `aB0rPgAAAABqNpPyIV4oD2ZEdQ98vSZH`

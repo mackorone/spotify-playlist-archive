@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31486,
+  "num_followers": 31494,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z7g98gAAAADrtoUtu27YMakzR+FWy6CU",
   "tracks": [
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Jealous Guy - Live",
-      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
-    },
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 498866,
       "name": "Tonight Is the Night - Live",
       "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Jealous Guy - Live",
+      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 255693,
-      "name": "River - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -183,6 +167,22 @@
       "duration_ms": 403666,
       "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "River - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 598533,
       "name": "Woman Of The Ghetto - Live From The Montreux Jazz Festival,Switzerland/1973",
       "url": "https://open.spotify.com/track/65G7H4iqy4wwugOdfM04rn"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "The Tour",
         "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 310973,
       "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
       "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
@@ -535,18 +551,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+        "name": "Compared to What",
+        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Eddie Harris",
+          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
         }
       ],
-      "duration_ms": 181200,
-      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
+      "duration_ms": 523333,
+      "name": "Compared to What - Live",
+      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -567,22 +587,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Compared to What",
-        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
       "artists": [
         {
-          "name": "Eddie Harris",
-          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 523333,
-      "name": "Compared to What - Live",
-      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
+      "duration_ms": 261533,
+      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -615,22 +631,6 @@
       "duration_ms": 145294,
       "name": "Horsepower For The Streets - Acoustic String Version",
       "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Life on Planet Groove",
+        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
+      },
+      "artists": [
+        {
+          "name": "Maceo Parker",
+          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "I Got You (I Feel Good) - Live",
+      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live at Paste",
         "url": "https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 221020,
       "name": "Smile - Live at Paste",
       "url": "https://open.spotify.com/track/4PNcOEOxdTQjGO4gcWW2zB"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Life on Planet Groove",
-        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
-      },
-      "artists": [
-        {
-          "name": "Maceo Parker",
-          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "I Got You (I Feel Good) - Live",
-      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 211202,
       "name": "First Began - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -791,38 +791,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At The London Palladium",
-        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Let's Get It On - Live At The London Palladium/1976",
-      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 274306,
       "name": "St. James Infirmary - Live/Remastered",
       "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live At The London Palladium",
+        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Let's Get It On - Live At The London Palladium/1976",
+      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -875,22 +859,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
-        "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        },
-        {
-          "name": "The New Power Generation",
-          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 376973,
-      "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
-      "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -911,50 +891,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+        "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
+        "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
-      },
-      "artists": [
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
         }
       ],
-      "duration_ms": 254992,
-      "name": "You're On My Mind - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+      "duration_ms": 376973,
+      "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
+      "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -975,6 +927,54 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254992,
+      "name": "You're On My Mind - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 269040,
-      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
+      "duration_ms": 356493,
+      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1055,22 +1039,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Aretha Live at Fillmore West",
         "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
@@ -1083,6 +1051,22 @@
       "duration_ms": 197200,
       "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
       "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1115,6 +1099,22 @@
       "duration_ms": 232706,
       "name": "Let's Stay Together - Live",
       "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Like a Ship (Live from Strange Manor)",
         "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+        "name": "Live And In Living Color",
+        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
         }
       ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+      "duration_ms": 394973,
+      "name": "What Is Hip? - Live Version",
+      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1283,22 +1299,6 @@
       "duration_ms": 484858,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live And In Living Color",
-        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 394973,
-      "name": "What Is Hip? - Live Version",
-      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
     },
     {
       "added_at": "2024-10-25 07:48:43",

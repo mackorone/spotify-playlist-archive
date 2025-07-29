@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres.",
-  "num_followers": 189633,
+  "num_followers": 189612,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "All\u00ed Va",
-        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
+        "name": "Se Aleja el Tren",
+        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
       },
       "artists": [
         {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        },
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
         }
       ],
-      "duration_ms": 153942,
-      "name": "All\u00ed Va",
-      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
+      "duration_ms": 246322,
+      "name": "Se Aleja el Tren",
+      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -267,22 +271,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Se Aleja el Tren",
-        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
+        "name": "All\u00ed Va",
+        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
       },
       "artists": [
         {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        },
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
         }
       ],
-      "duration_ms": 246322,
-      "name": "Se Aleja el Tren",
-      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
+      "duration_ms": 153942,
+      "name": "All\u00ed Va",
+      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Arauco Tiene una Pena",
-        "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        },
-        {
-          "name": "Juanita Parra",
-          "url": "https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj"
-        }
-      ],
-      "duration_ms": 348871,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Hojas de T\u00e9 (2023)",
         "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 281133,
       "name": "\u00danete A Mi Ser",
       "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Arauco Tiene una Pena",
+        "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        },
+        {
+          "name": "Juanita Parra",
+          "url": "https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj"
+        }
+      ],
+      "duration_ms": 348871,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -403,38 +403,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Caballo sin due\u00f1o",
-        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Caballo sin due\u00f1o",
-      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Como es que no gozas",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "Como es que no gozas",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "LA WE\u00c1",
         "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
@@ -455,6 +423,38 @@
       "duration_ms": 170328,
       "name": "LA WE\u00c1",
       "url": "https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Como es que no gozas",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "Como es que no gozas",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -495,6 +495,26 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "Te van a olvidar",
+        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 241651,
+      "name": "Te van a olvidar",
+      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Solo de Ti",
         "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 147000,
       "name": "T\u00f3tem",
       "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Te van a olvidar",
-        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        },
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 241651,
-      "name": "Te van a olvidar",
-      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+        "name": "Revuelta",
+        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+      "duration_ms": 202493,
+      "name": "D\u00e9jate Caer - 2024",
+      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Revuelta",
-        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "D\u00e9jate Caer - 2024",
-      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Rocanrol de los Misterios",
         "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Julius Popper?",
-        "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
       },
       "artists": [
         {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 247693,
-      "name": "La Innombrable",
-      "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -847,6 +831,22 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "Julius Popper?",
+        "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Innombrable",
+      "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Eternos",
         "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "P\u00e1lida Forma Nocturna",
-        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilabaca",
-          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
-        }
-      ],
-      "duration_ms": 224235,
-      "name": "P\u00e1lida Forma Nocturna",
-      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Plumas",
         "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 262530,
       "name": "Todo Cae",
       "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "P\u00e1lida Forma Nocturna",
+        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+        }
+      ],
+      "duration_ms": 224235,
+      "name": "P\u00e1lida Forma Nocturna",
+      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Conducci\u00f3n",
-        "url": "https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Simetr\u00eda",
-      "url": "https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Hipertenso",
-        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 164256,
-      "name": "Son Puros Caballos",
-      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Santos",
         "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 172000,
       "name": "Mech\u00f3n",
       "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Conducci\u00f3n",
+        "url": "https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Simetr\u00eda",
+      "url": "https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Hipertenso",
+        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 164256,
+      "name": "Son Puros Caballos",
+      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+      },
+      "artists": [
+        {
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+        }
+      ],
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 248371,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
-      },
-      "artists": [
-        {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Fuiste Bueno (Remaster 2022)",
-        "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 161672,
-      "name": "Nunca Se Apaga - Remaster 2022",
-      "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "SUE\u00d1OS MOJADOS",
         "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 144000,
       "name": "SUE\u00d1OS MOJADOS",
       "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Fuiste Bueno (Remaster 2022)",
+        "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 161672,
+      "name": "Nunca Se Apaga - Remaster 2022",
+      "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Explorador (Remaster 2022)",
-        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 170536,
-      "name": "Explorador - Remaster 2022",
-      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "PORTAL",
         "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 293252,
       "name": "Fiesta En El Barrio",
       "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 170536,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "added_at": "2025-05-09 03:00:24",

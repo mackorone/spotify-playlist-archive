@@ -2,9 +2,9 @@
 
 ### [Tendenze Rap 2025](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈 Luchè in cover
+> Brani virali e trend, rap e urban 📈 Artie 5ive in cover
 
-841 songs - 1 day 19 hr 58 min
+843 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,10 +454,12 @@
 | [MAGIE](https://open.spotify.com/track/10m71bibk6nEbgtPilXSZv) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [MAGIE](https://open.spotify.com/album/7Jw0SgbSIlMjjIupte0ZON) | 3:38 | 2025-07-03 |  |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 | 2022-12-17 |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-28 | 2024-08-02 |
+| [Mama ja dola](https://open.spotify.com/track/1y6EBEYiqLSBsgu39kPrn9) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Mama ja dola](https://open.spotify.com/album/3TAIRuW8HHeq0i7VESGsII) | 3:25 | 2025-07-28 |  |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-05 | 2024-09-26 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-03-05 | 2025-07-04 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-11 | 2025-05-30 |
 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/3TNlo9OEKQxBA9Ctghiz4r) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:35 | 2024-10-25 | 2024-11-19 |
+| [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 | 2025-07-28 |  |
 | [Manos Rotas](https://open.spotify.com/track/3BFh8rR6aMexy7ELu2UQy3) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Manos Rotas](https://open.spotify.com/album/7KKBibFuDeAKYrB79gPcHu) | 2:48 | 2023-12-07 | 2024-06-14 |
 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 | 2023-01-19 | 2023-03-04 |
 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4CphT44U2oOp2XzqWKUyeo) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1aN3LYbdOm7vBEZRXjt0MA) | 3:25 | 2024-04-04 | 2024-06-14 |

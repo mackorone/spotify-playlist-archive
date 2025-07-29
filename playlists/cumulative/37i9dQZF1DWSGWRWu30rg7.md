@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Shadowbourne
 
-4,879 songs - 12 day 10 hr 54 min
+4,881 songs - 12 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,6 +897,7 @@
 | [Cristiano](https://open.spotify.com/track/7lHkYv4cvg7u4ofaUZGDGr) | [Rafkyboy](https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R) | [Cristiano](https://open.spotify.com/album/5iGEKg9Xd15pDwkFVN2lK8) | 3:41 | 2024-04-18 | 2024-05-14 |
 | [Cruel](https://open.spotify.com/track/0odvYVQm4CqsPY2gj8bXJk) | [Kol](https://open.spotify.com/artist/2B30Nyq8DkSK4MkUDlKSnd) | [Cruel](https://open.spotify.com/album/6vyFx6HlUeF9XgLwPn9uPc) | 2:27 | 2023-03-09 | 2023-03-25 |
 | [Crumble & Wither](https://open.spotify.com/track/1LLu09lTwW4kwWnVL98gkl) | [Cubfires](https://open.spotify.com/artist/7FLqlPJdkEK58I1Xr6dtWA) | [Crumble & Wither](https://open.spotify.com/album/5yUZ2khO98Gju4s8y7ia7C) | 3:56 | 2025-03-07 | 2025-04-18 |
+| [Crush](https://open.spotify.com/track/2uR0G75vqPdNAHL0l3UR6c) | [Efah Aaralyn](https://open.spotify.com/artist/5icFX2Js5xKYshp78XxEzP) | [Crush](https://open.spotify.com/album/48ubSib1qw18TX1CJiv9IH) | 3:58 | 2025-07-28 |  |
 | [Crush](https://open.spotify.com/track/5TxnDvw7XL8RRtnEOQwwbn) | [Louwiesye](https://open.spotify.com/artist/4CX9rkItDqgahVdyHjdKC6) | [Crush](https://open.spotify.com/album/1PWrdDtO8WRyKx4vKW8KDg) | 4:13 | 2023-05-11 | 2023-05-26 |
 | [Crush](https://open.spotify.com/track/1htJlPwaupxmJ1XSYoT5AD) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Crush](https://open.spotify.com/album/0nMd1E9qxuHc2zKfy26ZX3) | 3:30 | 2023-06-01 | 2023-06-16 |
 | [Crush](https://open.spotify.com/track/6G6xJvy375fwsFLncY4jdI) | [Y.A.W](https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96) | [Crush](https://open.spotify.com/album/1hDDOQstjfYGcvdlD6VWQr) | 3:02 | 2022-11-24 | 2022-12-01 |
@@ -2085,6 +2086,7 @@
 | [Jika Bisa Kulupa](https://open.spotify.com/track/65GndBH8JO8V0fVLtDScC7) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jika Bisa Kulupa](https://open.spotify.com/album/5GhMVtktt3q2tj2o0tecL2) | 3:26 | 2023-03-16 | 2023-03-31 |
 | [Jika Bisa Memilih](https://open.spotify.com/track/2ojrZzi4qE5wgPbw3d8IXb) | [Rachel Manroe](https://open.spotify.com/artist/4C5054Vlxnz7iU385I6obf) | [Jika Bisa Memilih](https://open.spotify.com/album/0EnIjVSMRgvF2ZxtlUFRkG) | 3:57 | 2023-01-12 | 2023-01-27 |
 | [Jika Dia](https://open.spotify.com/track/04un5sP1aQs3AzZxBIOdIs) | [Flavio Zaviera](https://open.spotify.com/artist/2OKFdBQsZWBBFH6mSqO0D9) | [Jika Dia](https://open.spotify.com/album/3Fqu3KeAE4UupO6oTwiV36) | 3:36 | 2023-01-12 | 2023-01-27 |
+| [Jika Kehidupan Selanjutnya Memang Ada \(JKSMA\)](https://open.spotify.com/track/6wso2wCKoNfIvfDx2bXT6R) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Berimajinasi](https://open.spotify.com/album/7svAAL8xN1871CNZekW1wa) | 3:03 | 2025-07-28 |  |
 | [Jika Ku Bisa Memilih](https://open.spotify.com/track/2Y9GN9Gi9D2fQYAqIG3iqM) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [unspoken](https://open.spotify.com/album/2d4Z66ff9bVorWVEVycp2p) | 3:49 | 2025-07-03 |  |
 | [Jikalau](https://open.spotify.com/track/4CIuDLlr1LwplE8fZO2LwT) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh) | [Jikalau](https://open.spotify.com/album/2zHspBqlLzTJa7FCTEDeRO) | 3:12 | 2024-06-20 | 2024-07-20 |
 | [Jikalau Nanti](https://open.spotify.com/track/3qHHnFahheYHHU7x9jXCJ8) | [Buana Lintang](https://open.spotify.com/artist/7M4BOrPw2CPvsebtpCr0DW) | [Jikalau Nanti](https://open.spotify.com/album/7rXykt8JmP5QHZvDv7E4E5) | 4:28 | 2024-05-13 | 2024-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,904 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,919 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 29 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
 | 30 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
 | 31 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
-| 32 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
+| 32 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
 | 33 | [Mashyeen Be Elzak](https://open.spotify.com/track/7giK9ESAiO1gOgjNcuJjZu) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Mashyeen Be Elzak](https://open.spotify.com/album/7FWoWblYxaS8aey1Zubji9) | 3:20 |
-| 34 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
+| 34 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
 | 35 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
 | 36 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 |
-| 37 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
-| 38 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
-| 39 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 |
+| 37 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 |
+| 38 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
+| 39 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 40 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 |
 | 41 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 |
 | 42 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 45 | [معلش مكتوبلك](https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [معلش مكتوبلك](https://open.spotify.com/album/0fZm1zZXnYLz7j7LSkSqPD) | 1:04 |
 | 46 | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE) | [Mohamed Medhat](https://open.spotify.com/artist/32VKNJoqx0a4twZTxkGsqb) | [Ashghal Shaqa \(Original Series Soundtrack\) \- أشغال شقة](https://open.spotify.com/album/32RhHdlioLX6LBOcuGPGNu) | 3:09 |
 | 47 | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I) | [Radia Manel](https://open.spotify.com/artist/1zAmhEK0OZp1fETu3bGQeZ) | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/album/5PP1oLZ8GlXsi0eW0ylbT7) | 2:01 |
-| 48 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
-| 49 | [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 |
+| 48 | [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 |
+| 49 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
 | 50 | [wa7edo elwa7ed](https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [wa7edo elwa7ed](https://open.spotify.com/album/7LzA52HvdLTCum6HkGROyp) | 3:04 |
 
 Snapshot ID: `Z+0t4gAAAADknS6P9g4H350sEOYDkV4R`

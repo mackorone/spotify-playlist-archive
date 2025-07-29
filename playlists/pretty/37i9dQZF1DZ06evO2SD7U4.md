@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,246 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,247 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 38 | [Vete Al Averno](https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 4:17 |
 | 39 | [El Chin Pun Cuaz](https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:33 |
 | 40 | [Bueno, Bueno Probando](https://open.spotify.com/track/0UmWL3lUXe5iFUh6dJE5wg) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 1:23 |
-| 41 | [Asalto Chido](https://open.spotify.com/track/7tM0WwDhtb3JCa7HKDXZm3) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:34 |
-| 42 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 |
+| 41 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 |
+| 42 | [Asalto Chido](https://open.spotify.com/track/7tM0WwDhtb3JCa7HKDXZm3) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:34 |
 | 43 | [Chichis Pa la Banda](https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 1:31 |
 | 44 | [El Charrockandroll \- En Vivo](https://open.spotify.com/track/0v9ahSG7zLYCBEQfTQUA3a) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 2:42 |
 | 45 | [Guaca Rocker](https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 49 | [Carefoca´s Swing](https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:40 |
 | 50 | [El Guacarock Del Santo \- En Vivo](https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 3:37 |
 
-Snapshot ID: `aIQagAAAAACU81BHWbpVQWpIeC7R6not`
+Snapshot ID: `aIVsAAAAAABtBCaBrVYZbzfk20qhXiy7`

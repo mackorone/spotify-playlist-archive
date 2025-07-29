@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Mehringer
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Dzsúdló
 
-127 songs - 6 hr 19 min
+128 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,11 +111,12 @@
 | [Smash!](https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:24 | 2024-07-01 | 2024-08-14 |
 | [SOFIA COPPOLA](https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:33 | 2024-07-01 | 2024-07-16 |
 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 | 2024-07-01 | 2024-12-31 |
+| [STRESSZ](https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [STRESSZ](https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ) | 2:48 | 2025-07-28 |  |
 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 | 2024-09-23 |  |
 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 | 2025-07-07 |  |
 | [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2024-07-01 | 2024-08-07 |
 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-07-01 |  |
-| [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 | 2025-03-24 |  |
+| [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 | 2025-03-24 | 2025-07-29 |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 |  |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 |  |

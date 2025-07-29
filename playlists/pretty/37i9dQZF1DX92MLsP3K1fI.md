@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Mon Laferte y Conociendo Rusia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,307 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,320 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 24 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
 | 25 | [WIFEY](https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [WIFEY](https://open.spotify.com/album/1tNFQJTavzceB0nE8TTPBr) | 3:03 |
 | 26 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
-| 27 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
+| 27 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 28 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
-| 29 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
+| 29 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 30 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
 | 31 | [ASTROS](https://open.spotify.com/track/5mPHerqBng78VtnLT2VTWl) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [ASTROS](https://open.spotify.com/album/4XTVEZqrJv8wBMMZJZmwsp) | 2:38 |
 | 32 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 36 | [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 |
 | 37 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
 | 38 | [Película \- Intervenida por Ximena Sariñana](https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Película \(Intervenida por Ximena Sariñana\)](https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS) | 4:03 |
-| 39 | [vienes o vas?](https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [vienes o vas?](https://open.spotify.com/album/43485os867PpeGvfNwp5bB) | 2:33 |
-| 40 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 39 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 40 | [vienes o vas?](https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [vienes o vas?](https://open.spotify.com/album/43485os867PpeGvfNwp5bB) | 2:33 |
 | 41 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
-| 42 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
-| 43 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
+| 42 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
+| 43 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
 | 44 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 45 | [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 |
 | 46 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |

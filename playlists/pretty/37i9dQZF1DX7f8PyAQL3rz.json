@@ -1,6 +1,6 @@
 {
   "description": "chega no ouvidin e canta um samba de cria ",
-  "num_followers": 1408496,
+  "num_followers": 1408360,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -179,42 +179,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "Veterano",
-        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
-      },
-      "artists": [
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        },
-        {
-          "name": "Surfista",
-          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
-        },
-        {
-          "name": "Ryuchi",
-          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
-        },
-        {
-          "name": "Ian Durso",
-          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
-        },
-        {
-          "name": "JVMVO",
-          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Veterano",
-      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 6",
         "url": "https://open.spotify.com/album/49gFR3KamlSMnteqEvOGV4"
       },
@@ -259,6 +223,42 @@
       "duration_ms": 378218,
       "name": "THE BOX MEDLEY FUNK 6",
       "url": "https://open.spotify.com/track/3FBs8ttL0pPOLTbC6xWpTj"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
+        "name": "Veterano",
+        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
+      },
+      "artists": [
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "JVMVO",
+          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Veterano",
+      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
     },
     {
       "added_at": "2025-07-25 03:00:30",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "Taylor",
-        "url": "https://open.spotify.com/album/6q72fGs82aYlWkqJUNddTp"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 123206,
-      "name": "Taylor",
-      "url": "https://open.spotify.com/track/5nLbkYr8XYVT915bd02NQm"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "CAOS",
         "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 232188,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/4Q0j8IUJaSxNROmna9IWWX"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
+        "name": "Taylor",
+        "url": "https://open.spotify.com/album/6q72fGs82aYlWkqJUNddTp"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 123206,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/5nLbkYr8XYVT915bd02NQm"
     },
     {
       "added_at": "2025-07-25 03:00:30",
@@ -839,6 +839,22 @@
       "duration_ms": 141639,
       "name": "OQCSENTE",
       "url": "https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
     },
     {
       "added_at": "2025-07-25 03:00:30",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "Amina",
-        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "Reza do Milh\u00e3o",
         "url": "https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5"
       },
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
-      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
+      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
     },
     {
       "added_at": "2025-07-25 03:00:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Sui\u00e7a",
-      "url": "https://open.spotify.com/track/7k64Ai8ccdFIto421PrILd"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "Cada Segundo",
         "url": "https://open.spotify.com/album/5nIxh4z5tSZRr4FtTm3hnr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 144125,
       "name": "Cada Segundo",
       "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Sui\u00e7a",
+      "url": "https://open.spotify.com/track/7k64Ai8ccdFIto421PrILd"
     },
     {
       "added_at": "2025-07-25 03:00:30",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
+        "name": "Evite Decep\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1x7rIsGQtLiUDoqVjOeM25"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+        }
+      ],
+      "duration_ms": 132769,
+      "name": "Evite Decep\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0EtyZRQfBjii5op0MY86CF"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
         "name": "BOLA + 1 BECK",
         "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
-        "name": "Evite Decep\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1x7rIsGQtLiUDoqVjOeM25"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Di Marques",
-          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
-        }
-      ],
-      "duration_ms": 132769,
-      "name": "Evite Decep\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0EtyZRQfBjii5op0MY86CF"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ"
       },
@@ -1451,6 +1451,38 @@
     {
       "added_at": "2025-07-25 03:00:30",
       "album": {
+        "name": "Quietin",
+        "url": "https://open.spotify.com/album/2FxpFdAScphUMRQ4FNeyKc"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "D Santana",
+          "url": "https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "QUIETIN",
+      "url": "https://open.spotify.com/track/4AcFyB9HCzD12HysMrJqN1"
+    },
+    {
+      "added_at": "2025-07-25 03:00:30",
+      "album": {
         "name": "BOLA + 1 BECK (DELUXE)",
         "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
       },
@@ -1491,38 +1523,6 @@
       "duration_ms": 496941,
       "name": "Gostosa Demais",
       "url": "https://open.spotify.com/track/6VOu9NObZ00mk5KFC6HfIQ"
-    },
-    {
-      "added_at": "2025-07-25 03:00:30",
-      "album": {
-        "name": "Quietin",
-        "url": "https://open.spotify.com/album/2FxpFdAScphUMRQ4FNeyKc"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "D Santana",
-          "url": "https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "QUIETIN",
-      "url": "https://open.spotify.com/track/4AcFyB9HCzD12HysMrJqN1"
     },
     {
       "added_at": "2025-07-25 03:00:30",

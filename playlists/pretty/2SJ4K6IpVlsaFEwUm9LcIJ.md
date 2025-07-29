@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,152 likes - 39 songs - 2 hr 40 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,155 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 |
 | 38 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 |
 | 39 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
+| 40 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 |
+| 41 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
+| 42 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
 
-Snapshot ID: `AAAM2uCIRQqpWPCAEZiNyZWs/X2B8laE`
+Snapshot ID: `AAAM3Tb5sA53SZnmiySHFWYfoNXVi/Rd`

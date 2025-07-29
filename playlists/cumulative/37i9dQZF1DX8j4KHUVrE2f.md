@@ -4,11 +4,12 @@
 
 > Take a trip down memory lane with these noughties classics...
 
-265 songs - 16 hr 58 min
+266 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2020-07-08 |  |
+| [5 Years Time](https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4) | 3:34 | 2024-06-03 |  |
 | [A Moment Like This](https://open.spotify.com/track/6Far9mixuLOSu0Y5ectjfA) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/4txPGNHsUtjgBickDa5mOe) | 3:48 | 2020-07-08 | 2022-07-16 |
 | [A Moment Like This](https://open.spotify.com/track/5i9UKSttY3V7x9OnYZsMBX) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:17 | 2020-07-08 | 2022-07-29 |
 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 | 2020-07-08 | 2022-07-29 |
@@ -57,7 +58,7 @@
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2020-07-08 | 2024-04-19 |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2020-07-08 |  |
 | [Confessions Part II](https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:31 | 2020-07-08 | 2024-04-16 |
-| [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 | 2023-10-17 |  |
+| [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 | 2023-10-17 | 2025-07-29 |
 | [Crack The Shutters](https://open.spotify.com/track/5UAIfoDCzjcobOTd1nDu26) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Up To Now](https://open.spotify.com/album/61ydlH3GzijGrRrivGZASi) | 3:21 | 2020-07-08 | 2022-07-19 |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2020-07-08 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2020-07-08 | 2024-04-19 |

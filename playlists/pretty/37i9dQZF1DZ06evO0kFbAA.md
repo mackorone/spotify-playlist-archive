@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,316 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,336 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 32 | [E Luxo So](https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:40 |
 | 33 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 |
 | 34 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
-| 35 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
-| 36 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
+| 35 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
+| 36 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
 | 37 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:48 |
 | 38 | [Aguas de Marco](https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz Moods \- Cool](https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk) | 4:42 |
 | 39 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
 | 40 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 9:02 |
-| 41 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
-| 42 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
+| 41 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
+| 42 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 43 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Expanded Edition\)](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 |
 | 44 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz With Cal Tjader](https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J) | 3:56 |
 | 45 | [The Look Of Love](https://open.spotify.com/track/671ldGME9jjEANX5bvCSFn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz 'Round Midnight](https://open.spotify.com/album/6UYhs851X9P9wUGagL2k32) | 2:43 |
-| 46 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
-| 47 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
+| 46 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
+| 47 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
 | 48 | [Stars Fell On Alabama](https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:22 |
 | 49 | [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 |
 | 50 | [Menina Flor](https://open.spotify.com/track/5cD4lbcDJ5jEkar2sW2roc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:08 |
 
-Snapshot ID: `aIQagAAAAABzZqAyIOYLNRoa3Zjwg5Am`
+Snapshot ID: `aIVsAAAAAAB3k5b/B1IBsaGWw2Ro/epe`

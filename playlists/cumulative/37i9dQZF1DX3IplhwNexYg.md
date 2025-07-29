@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-754 songs - 1 day 18 hr 45 min
+755 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-03-17 | 2024-04-19 |
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-01-19 | 2023-03-04 |
 | [\(You're Better\) Than Ever](https://open.spotify.com/track/4oZbuLXzaXBHKLrMJQq3Ie) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/7MBEDhV5OFYhCq6fkmQNUT) | 2:21 | 2021-03-09 | 2022-01-17 |
-| [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 | 2024-08-23 |  |
+| [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 | 2024-08-23 | 2025-07-29 |
 | [17](https://open.spotify.com/track/6M6B25BFwE2h7W5izrDYmD) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [17](https://open.spotify.com/album/2R7HViCC1W5fNTEVYbWVog) | 3:13 | 2022-02-04 | 2022-08-19 |
 | [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 | 2023-01-20 | 2023-05-26 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-28 | 2022-12-13 |
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2021-03-09 | 2022-01-17 |
 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 | 2024-02-09 | 2024-07-29 |
 | [3](https://open.spotify.com/track/2JNx996AAVsi1OLdxSP6xf) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [3](https://open.spotify.com/album/4SWFRq8izGzkqSb2BG2BaY) | 3:01 | 2022-01-17 | 2022-08-19 |
+| [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-07-25 |  |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-02-21 |  |
 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 | 2023-11-17 | 2024-01-12 |
 | [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 | 2023-05-25 | 2023-07-15 |

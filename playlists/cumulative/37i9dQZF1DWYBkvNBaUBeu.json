@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Future hits in the Philippines! Cover: Jonas Brothers",
+  "description": "Future hits in the Philippines! Cover: sombr",
   "name": "Pop Rising Philippines",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 193334,
       "name": "100 Lives",
       "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
+    },
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "album": {
@@ -274,7 +292,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 187455,
       "name": "All I Can Say",
       "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
@@ -668,10 +686,28 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 173773,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/3pLrfv9Zgt6gkR2iNQV9Xp"
+    },
+    {
+      "album": {
+        "name": "Beautiful Colors - from Kaiju No. 8",
+        "url": "https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157151,
+      "name": "Beautiful Colors - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr"
     },
     {
       "album": {
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 180127,
       "name": "Dirty Work (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/3i2w6O98pzUUmqRJavWF6f"
@@ -1950,6 +1986,28 @@
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "album": {
@@ -2578,7 +2636,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -2881,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
+    },
+    {
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -3087,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "HOT GIRL PROBLEMS",
+        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "HOT GIRL PROBLEMS",
+      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
+    },
+    {
+      "album": {
         "name": "HOT SAUCE",
         "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
       },
@@ -3098,7 +3192,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
@@ -3637,6 +3731,28 @@
     },
     {
       "album": {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271874,
+      "name": "It Depends (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
+    {
+      "album": {
         "name": "It's ok I'm ok",
         "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
       },
@@ -4132,7 +4248,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 126666,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen"
@@ -5034,7 +5150,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 155053,
       "name": "No Time To Talk",
       "url": "https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI"
@@ -5266,7 +5382,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 206711,
       "name": "Outside",
       "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
@@ -5735,6 +5851,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -6062,7 +6196,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
@@ -7114,7 +7248,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 185600,
       "name": "Tell Me The Name",
       "url": "https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT"
@@ -7455,6 +7589,24 @@
     },
     {
       "album": {
+        "name": "e\u2022pit\u2022o\u2022me",
+        "url": "https://open.spotify.com/album/04767Bip35J4QmOy6TrFDI"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193704,
+      "name": "Thinkin About You",
+      "url": "https://open.spotify.com/track/0F8PC2hasKm37MG3U1bhlu"
+    },
+    {
+      "album": {
         "name": "THIS IS FOR",
         "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
       },
@@ -7558,7 +7710,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 182430,
       "name": "Til My Fingers Bleed (with DINO, Duckwrth & Telle)",
       "url": "https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L"
@@ -7642,6 +7794,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "To Be Free",
+        "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255155,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
     },
     {
       "album": {

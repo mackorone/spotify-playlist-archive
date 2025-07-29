@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors.",
-  "num_followers": 29860,
+  "num_followers": 29886,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "Nettles",
-        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
@@ -295,22 +279,18 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+        "name": "Nettles",
+        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 160200,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -327,6 +307,26 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "S.M.O.",
-        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 270329,
-      "name": "S.M.O.",
-      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "Campe\u00f3n",
         "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "S.M.O.",
+        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 270329,
+      "name": "S.M.O.",
+      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "FEEL SOMETHING",
-        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "FEEL SOMETHING",
-      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "Chocolate Axe",
         "url": "https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "Falter",
-        "url": "https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc"
+        "name": "FEEL SOMETHING",
+        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
       },
       "artists": [
         {
-          "name": "Acopia",
-          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa"
+      "duration_ms": 152195,
+      "name": "FEEL SOMETHING",
+      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -711,6 +695,22 @@
       "duration_ms": 139920,
       "name": "hnic",
       "url": "https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "Falter",
+        "url": "https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "Trapped In Silence",
-        "url": "https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X"
-      },
-      "artists": [
-        {
-          "name": "Junior Simba",
-          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
-        }
-      ],
-      "duration_ms": 175393,
-      "name": "Trapped In Silence",
-      "url": "https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "Cruel Love",
         "url": "https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 279067,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "Trapped In Silence",
+        "url": "https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "duration_ms": 175393,
+      "name": "Trapped In Silence",
+      "url": "https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP"
     },
     {
       "added_at": "2025-07-03 18:02:56",

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-565 songs - 2 day 4 hr 14 min
+566 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 | 2024-08-30 |  |
 | [Iwo lawa o ma bo](https://open.spotify.com/track/3rXJD0RA6PLFENF7t2Zqln) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 6:48 | 2023-12-05 | 2023-12-11 |
 | [Jehovah Ebenezer](https://open.spotify.com/track/3dmy0rwVI6ipn6KgznuQuS) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 6:00 | 2023-12-05 | 2023-12-11 |
+| [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
 | [Jesus](https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Jesus](https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb) | 4:00 | 2025-05-30 |  |
 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 | 2022-06-09 | 2023-04-15 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2022-06-09 |  |
@@ -249,7 +250,7 @@
 | [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 | 2024-11-22 |
 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 | 2025-01-07 |  |
 | [Ka Anyi Bulie \(feat\. Don Moen\)](https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Frankincense](https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh) | 3:29 | 2022-06-09 | 2024-11-08 |
-| [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-09 |  |
+| [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-09 | 2025-07-29 |
 | [Kadosh](https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 6:04 | 2022-07-28 | 2025-03-01 |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 |  |
 | [Karamin Haske](https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Karamin Haske](https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM) | 3:33 | 2025-07-04 |  |

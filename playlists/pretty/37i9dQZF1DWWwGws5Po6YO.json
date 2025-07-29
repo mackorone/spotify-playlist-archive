@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 129742,
+  "num_followers": 129773,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -659,8 +659,8 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
       "artists": [
         {
@@ -668,29 +668,13 @@
           "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
         },
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Eurybia",
         "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
@@ -731,42 +731,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Frozen Passages",
         "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 342000,
       "name": "a path between the clouds",
       "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 162230,
       "name": "Strawberry Hill Ascent",
       "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "blue hour",
-        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 166784,
-      "name": "blue hour",
-      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 166784,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "OUT I",
         "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 281565,
       "name": "OUT I",
       "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "A Requiem",
-        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Bandorai",
-      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -1135,34 +1119,34 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Keep Pulling Me In",
-        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
       },
       "artists": [
         {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 372430,
-      "name": "Keep Pulling Me In",
-      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
+      "duration_ms": 181831,
+      "name": "Bandorai",
+      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
     },
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
       },
       "artists": [
         {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
         }
       ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "One Universal Breath",
-        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
       "artists": [
         {
-          "name": "Veryan",
-          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Lift Hands",
-      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Keep Pulling Me In",
+        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 372430,
+      "name": "Keep Pulling Me In",
+      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1259,38 +1259,6 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1331,18 +1299,34 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
       "artists": [
         {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1399,6 +1383,22 @@
       "duration_ms": 335402,
       "name": "A Woman Escapes Cue 4",
       "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Raw Silk Uncut Wood",
+        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 600386,
+      "name": "Raw Silk Uncut Wood",
+      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Littoral States",
         "url": "https://open.spotify.com/album/2UEVHGwydI2fZEKNUJgmL2"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 352947,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/30eqBSvHnfXwBRS5vclue7"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Sky Flesh",
-        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Marta De Pascalis",
-          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Harmonices Infinity",
-      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     }
   ],
   "unique_name": "Women of Ambient",

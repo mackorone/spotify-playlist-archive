@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Tame Impala, Tyler, The Creator,  OneRepublic, Daniel Caesar, Tyla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,791 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,799 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

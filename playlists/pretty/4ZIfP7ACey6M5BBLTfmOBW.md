@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,131 likes - 61 songs - 2 hr 45 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,131 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,11 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 52 | [Self\-Inflicted](https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Self\-Inflicted](https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT) | 1:27 |
 | 53 | [Can't Make This Up](https://open.spotify.com/track/32d1TpNx0Ir2wxjmL51sOK) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Can't Make This Up](https://open.spotify.com/album/5WwKdYVWFfQV2VFrxraUVV) | 2:24 |
 | 54 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/3wZwJmK48mHwruBIK24oP2) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/album/3N7NAEQA0RxUxJSq0JOmd5) | 2:08 |
-| 55 | [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
-| 56 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 |
-| 57 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
-| 58 | [speed \(feat\. Ty Dolla $ign & Rich The Kid\)](https://open.spotify.com/track/6R9ur6yrjsP3xnJ0la11uX) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:48 |
-| 59 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
-| 60 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/7KxvXm90toCbgzJW58xlUT) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/0mPExzX1w2pAoKDXuB0qzh) | 2:52 |
-| 61 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 |
+| 55 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 |
+| 56 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
+| 57 | [speed \(feat\. Ty Dolla $ign & Rich The Kid\)](https://open.spotify.com/track/6R9ur6yrjsP3xnJ0la11uX) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:48 |
+| 58 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
+| 59 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/7KxvXm90toCbgzJW58xlUT) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/0mPExzX1w2pAoKDXuB0qzh) | 2:52 |
+| 60 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 |
 
-Snapshot ID: `AAAlRap5ciIJB8BaPNF8t+qAJbtFwCHk`
+Snapshot ID: `AAAlRly0BrJlpS/jrhehPgkcVBPmu/5F`

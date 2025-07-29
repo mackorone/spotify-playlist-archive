@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 370189,
+  "num_followers": 370232,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "DARLING DRIVE",
-        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 199497,
-      "name": "DARLING DRIVE",
-      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 174562,
       "name": "More Than A Little Bit (feat. Tinashe)",
       "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "DARLING DRIVE",
+        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 199497,
+      "name": "DARLING DRIVE",
+      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Soon We Will Reminisce",
-        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 127235,
-      "name": "Soon We Will Reminisce",
-      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Soon We Will Reminisce",
+        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 127235,
+      "name": "Soon We Will Reminisce",
+      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Sunrise Sunfall (Edit)",
         "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 193105,
       "name": "Sunrise Sunfall - Edit",
       "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "Rhythm Vol.1",
         "url": "https://open.spotify.com/album/2Icj4vEVEjXyrIHhEWWJ2e"
       },
@@ -1267,6 +1287,22 @@
       "duration_ms": 222834,
       "name": "Hold of Me",
       "url": "https://open.spotify.com/track/5yzwtVC34FhG478dU4SlKT"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1291,78 +1327,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
+        "name": "LOVER/LOSER",
+        "url": "https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy"
       },
       "artists": [
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
         },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "Mama's Food",
-        "url": "https://open.spotify.com/album/1wvgOzHqZ9IZawNzqPPABr"
-      },
-      "artists": [
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        },
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        }
-      ],
-      "duration_ms": 180526,
-      "name": "Mama's Food",
-      "url": "https://open.spotify.com/track/7MUCWUapc1Re1CaafXWzWh"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
         {
           "name": "Wilfy D",
           "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+      "duration_ms": 183700,
+      "name": "LOVER/LOSER",
+      "url": "https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1387,22 +1367,42 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "LOVER/LOSER",
-        "url": "https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy"
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
       },
       "artists": [
-        {
-          "name": "Elj\u00e9",
-          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
-        },
         {
           "name": "Wilfy D",
           "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 183700,
-      "name": "LOVER/LOSER",
-      "url": "https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw"
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Mama's Food",
+        "url": "https://open.spotify.com/album/1wvgOzHqZ9IZawNzqPPABr"
+      },
+      "artists": [
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        },
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 180526,
+      "name": "Mama's Food",
+      "url": "https://open.spotify.com/track/7MUCWUapc1Re1CaafXWzWh"
     }
   ],
   "unique_name": "Soultronic",

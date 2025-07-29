@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72288,
+  "num_followers": 72291,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAB88FTZDvPf91A8wacMpMF8",
+  "snapshot_id": "aIVsAAAAAACTOTDjoeFQ+MGMj3+99EHj",
   "tracks": [
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 198805,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1063,30 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,111 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,114 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 4 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 | 5 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 |
 | 6 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
-| 7 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
-| 8 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
+| 7 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
+| 8 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
 | 9 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 |
 | 10 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 11 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [GHOST](https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:20 |
 | 50 | [2STYLISH](https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:22 |
 
-Snapshot ID: `aIQagAAAAACApa2slGpRBUmxErSu/BQn`
+Snapshot ID: `aIVsAAAAAABLGIDrfm3mnGW0xQt50vkb`

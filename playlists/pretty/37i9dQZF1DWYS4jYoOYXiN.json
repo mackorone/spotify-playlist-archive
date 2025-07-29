@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 95110,
+  "num_followers": 95133,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mr. Watermelon Man",
-        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "De Panama A Nueva York",
         "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 323040,
       "name": "Descarga Caliente",
       "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Exitos de Oro (Golden Hits)",
-        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
-      },
-      "artists": [
-        {
-          "name": "Joe Quijano",
-          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "En Puerta de Tierra",
-      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229733,
       "name": "Gentle Rain",
       "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Exitos de Oro (Golden Hits)",
+        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
+      },
+      "artists": [
+        {
+          "name": "Joe Quijano",
+          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "En Puerta de Tierra",
+      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
     },
     {
       "added_at": "2024-07-18 20:57:58",

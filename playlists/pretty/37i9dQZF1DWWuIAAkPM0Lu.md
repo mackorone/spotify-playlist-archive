@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Svea S, Berg & Klamfyr, Sam Smith og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,925 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,936 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 55 | [Deja Vu](https://open.spotify.com/track/0aDc5gr2u7pjSluI6Ki4IV) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [Deja Vu](https://open.spotify.com/album/1aM23ON2rEZSGFzpbJ6aWN) | 2:21 |
 | 56 | [Ruin My Life](https://open.spotify.com/track/7bZ5cXAjGudfW9MDKOarnQ) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying: Vol\. 2](https://open.spotify.com/album/1ys0w3yGETGtBkOOfp1jkR) | 3:44 |
 | 57 | [Home \(feat\. Tom Walker\)](https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Home \(feat\. Tom Walker\)](https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE) | 3:16 |
-| 58 | [Syrener og villaveje](https://open.spotify.com/track/5nbxdZcMUI9f8czpeNdNzu) | [Rasmus Nøhr](https://open.spotify.com/artist/2AE5DinlTXCV7JeVKKQEgk) | [Syrener og Villavej](https://open.spotify.com/album/5oYVL96M1o1oMa5yfp1lsR) | 4:02 |
+| 58 | [Syrener og Villaveje](https://open.spotify.com/track/5nbxdZcMUI9f8czpeNdNzu) | [Rasmus Nøhr](https://open.spotify.com/artist/2AE5DinlTXCV7JeVKKQEgk) | [Syrener og Villaveje](https://open.spotify.com/album/5oYVL96M1o1oMa5yfp1lsR) | 4:02 |
 | 59 | [S3X](https://open.spotify.com/track/71OuWk4ofbQdmsxcRCWj6F) | [Tony](https://open.spotify.com/artist/74cKMDmtMTrH6pwo6ncSPY), [Nikolina](https://open.spotify.com/artist/6NgsGDQzcgFNsZhPx7kMHY) | [S3X](https://open.spotify.com/album/7t1eYX5UIvuoX0MkjzarGX) | 3:43 |
 | 60 | [Bodies Hit The Floor](https://open.spotify.com/track/0Zj69VgJrUS1s57y2RFNvb) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Bodies Hit The Floor](https://open.spotify.com/album/2F2ZaqCv9n3v6qlU1LKAQa) | 4:09 |
 | 61 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 |

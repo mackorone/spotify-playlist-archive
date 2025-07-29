@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,231 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,328 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 16 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
 | 17 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 18 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
-| 19 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
+| 19 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 20 | [Eyes on Fire](https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Life Of A Ghost](https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl) | 5:02 |
-| 21 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 21 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
 | 22 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 23 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 24 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 49 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
 | 50 | [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 |
 | 51 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
-| 52 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 |
-| 53 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
-| 54 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
+| 52 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
+| 53 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
+| 54 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 |
 | 55 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
 | 56 | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 |
 | 57 | [Ringleader](https://open.spotify.com/track/61KapusHaUgQ7Zhv3GxoZO) | [Public Memory](https://open.spotify.com/artist/1v9FPBHwuI4FjR7ewOifmJ) | [Wuthering Drum](https://open.spotify.com/album/035KrNkVSdgjUkIBIZkeT9) | 3:14 |

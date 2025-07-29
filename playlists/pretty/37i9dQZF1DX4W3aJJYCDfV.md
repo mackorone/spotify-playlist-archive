@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Tyler The Creator, Tame Impala, CMAT and more!
+> Brand new music from Tyler, The Creator, Tame Impala, CMAT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,367 likes - 123 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,342 likes - 123 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Any Better](https://open.spotify.com/track/3caXHCeMrBN1FQOkNjiFGs) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [Any Better](https://open.spotify.com/album/29AxANEhm9rcdb8fM6semp) | 2:45 |
 | 123 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 
-Snapshot ID: `aINFYQAAAAAAm9DP2kRiqT69cPzg06op`
+Snapshot ID: `aIdWIwAAAABbo3a04XcFercaTCIEh3cj`

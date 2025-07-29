@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21814,
+  "num_followers": 21815,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADyLIAkwLoBvkKUtKAIGdvc",
+  "snapshot_id": "aIVsAAAAAADy+KLdcy+cXB+t3ouMAsaE",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Flower on the Water",
-      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Waltzing Matilda 2000",
-      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
       "added_at": null,
@@ -295,6 +295,38 @@
       "duration_ms": 378133,
       "name": "And the Band Played Waltzing Matilda - Live",
       "url": "https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Galleries of Pink Galahs",
+      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
     },
     {
       "added_at": null,
@@ -319,38 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Galleries of Pink Galahs",
-      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -363,38 +363,6 @@
       "duration_ms": 212680,
       "name": "I Can't Feel Those Chains Any Longer - Live",
       "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
     },
     {
       "added_at": null,
@@ -415,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
       "artists": [
         {
@@ -424,9 +392,25 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+      "duration_ms": 189733,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 210133,
       "name": "A Flag of Our Own",
       "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Papa Whisky November",
-      "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Papa Whisky November",
+      "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Waltzing Matilda",
-      "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184906,
       "name": "Hillbilly Road",
       "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Queensland Bungalow",
+      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Queensland Bungalow",
-      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulga to Mangoes",
         "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173093,
       "name": "Aussie Balladeer",
       "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Waltzing Matilda",
+      "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Hang My Hat in Queensland - Orchestra Version",
-      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Many Songs",
         "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 159786,
       "name": "If You Wanna Be An Aussie",
       "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulga to Mangoes",
-        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 178293,
-      "name": "My Oath to Australia",
-      "url": "https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E"
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     }
   ],
   "unique_name": "This Is John Williamson",

@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/1xbAq7yRBcysOXXv0p7N1s"
+      },
+      "artists": [
+        {
+          "name": "Getmoney Dro",
+          "url": "https://open.spotify.com/artist/6qB4k5MC79m9A5i3HPBsZW"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162119,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/4yWNKN9igNvsTlh9JiK1yY"
+    },
+    {
+      "album": {
         "name": "ANGEL MAY CRY 2",
         "url": "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo"
       },
@@ -5610,7 +5628,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -7800,6 +7818,24 @@
       "duration_ms": 142054,
       "name": "\u0412\u0438\u0448\u043d\u0451\u0432\u044b\u0439",
       "url": "https://open.spotify.com/track/35wTSN7Mw6knm4xsN41hKm"
+    },
+    {
+      "album": {
+        "name": "\u043c\u0440\u0430\u0447\u043d\u044b\u0435 \u0442\u0440\u0435\u0434\u044b",
+        "url": "https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99681,
+      "name": "\u0432\u043a\u043b\u0443\u0431\u0435",
+      "url": "https://open.spotify.com/track/3jy14G6E0lcNdK9i6h4Uup"
     },
     {
       "album": {
@@ -11166,7 +11202,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 173958,
       "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043b\u0430\u0441\u044c \u043c\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI"

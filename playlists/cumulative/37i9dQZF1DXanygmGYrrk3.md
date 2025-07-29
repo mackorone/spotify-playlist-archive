@@ -4,7 +4,7 @@
 
 > ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: 8Uno, Airam Paez
 
-589 songs - 1 day 7 hr 26 min
+590 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Cielo Eterno](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 | 2024-10-11 | 2025-05-03 |
 | [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 | 2023-01-26 | 2024-06-08 |
 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 | 2024-03-29 | 2025-05-03 |
+| [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-07-28 |  |
 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 | 2022-07-01 | 2022-08-06 |
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-06 | 2025-02-01 |
 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 | 2025-03-07 |  |
@@ -183,7 +184,7 @@
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-12-22 | 2023-05-16 |
 | [El Rey \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Rey A Rey \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib) | 2:51 | 2025-05-02 | 2025-07-05 |
 | [El Roto](https://open.spotify.com/track/2GrHWsu8r3N8WEQAiiTSlg) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Roto](https://open.spotify.com/album/5LpVTeRA0lLxEVwE4juBFx) | 3:03 | 2022-05-12 | 2022-07-29 |
-| [El Ruido De Tus Zapatos](https://open.spotify.com/track/0xJAo5c01HY0htLZwPAuXV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Mejor De...](https://open.spotify.com/album/275JSnJEE006Zda2tj0qey) | 4:25 | 2024-08-02 |  |
+| [El Ruido De Tus Zapatos](https://open.spotify.com/track/0xJAo5c01HY0htLZwPAuXV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Mejor De...](https://open.spotify.com/album/275JSnJEE006Zda2tj0qey) | 4:25 | 2024-08-02 | 2025-07-29 |
 | [El Sillón](https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:19 | 2022-12-08 |  |
 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-09-29 |  |
 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 | 2022-05-12 | 2024-09-23 |

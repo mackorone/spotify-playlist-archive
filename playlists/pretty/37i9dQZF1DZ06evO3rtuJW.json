@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34429,
+  "num_followers": 34438,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAURYgMnrlo6FICE8QgGggp",
+  "snapshot_id": "aIVsAAAAAAAQV6ObIMY7Kv7wVOq6ciUu",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/1crTP3xQj3Z7ipjSDmIlXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strictly 4 My Fans",
         "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/1crTP3xQj3Z7ipjSDmIlXR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -415,26 +415,6 @@
       "duration_ms": 164770,
       "name": "High Speed",
       "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleuski",
-        "url": "https://open.spotify.com/album/6cMxW6Nfs0feHiFNZZGl2D"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Trim (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1rRR6qwjIA268I8VpznRU9"
     },
     {
       "added_at": null,
@@ -479,6 +459,26 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleuski",
+        "url": "https://open.spotify.com/album/6cMxW6Nfs0feHiFNZZGl2D"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Trim (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1rRR6qwjIA268I8VpznRU9"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WTHELLY (with G Herbo) [Remix]",
-        "url": "https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176791,
-      "name": "WTHELLY (with G Herbo) - Remix",
-      "url": "https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 221815,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WTHELLY (with G Herbo) [Remix]",
+        "url": "https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176791,
+      "name": "WTHELLY (with G Herbo) - Remix",
+      "url": "https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stress Relief (with G Herbo)",
-        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Stress Relief (with G Herbo)",
-      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Fly (Deluxe)",
         "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 154666,
       "name": "Trench Baby (with G Herbo)",
       "url": "https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
     },
     {
       "added_at": null,

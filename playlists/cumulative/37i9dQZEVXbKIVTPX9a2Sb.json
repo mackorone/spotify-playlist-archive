@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -8228,7 +8228,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -8480,7 +8480,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -24346,7 +24346,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
@@ -32166,7 +32166,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -32852,7 +32852,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 149118,
       "name": "Pre v\u00e1s hr\u00e1m",
       "url": "https://open.spotify.com/track/5pltfpIVFmQdLbb1H20HeD"
@@ -35800,7 +35800,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -40280,7 +40280,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -40834,6 +40834,40 @@
       "duration_ms": 253909,
       "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
       "url": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "Takedown",
+      "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
       "album": {
@@ -41774,7 +41808,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -46297,6 +46331,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -46552,7 +46620,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
@@ -48638,7 +48706,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 210346,
       "name": "\u010card\u00e1\u0161 dvoch s\u0155dc",
       "url": "https://open.spotify.com/track/3LmVNym79jPeDKOuIHte4T"

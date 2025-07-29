@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
+    },
+    {
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -331,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151867,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
+    },
+    {
+      "album": {
         "name": "Junk",
         "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
@@ -360,7 +396,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
@@ -468,7 +504,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 198978,
       "name": "Familiar Beat",
       "url": "https://open.spotify.com/track/19w2uyd9GJrTRMcJ5szPge"
@@ -732,7 +768,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 207493,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
@@ -870,6 +906,28 @@
       "duration_ms": 189770,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "album": {
+        "name": "LOOK! I'm Alive",
+        "url": "https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Live & Let Go (with DISPATCH)",
+      "url": "https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: STAYC\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,858 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,991 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 40 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
 | 41 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 42 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 |
-| 43 | [WAVE](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3 : One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 |
-| 44 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 |
+| 43 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 |
+| 44 | [WAVE](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3 : One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 |
 | 45 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 |
 | 46 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
 | 47 | [10 Months](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:14 |
@@ -83,20 +83,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 73 | [Hola Hola](https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Mini Album 'Hola Hola'](https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z) | 3:22 |
 | 74 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 |
 | 75 | [Into the I\-LAND](https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [I\-LAND Part.1 Signal Song](https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA) | 3:37 |
-| 76 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 |
+| 76 | [YOU AND I](https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE) | 2:49 |
 | 77 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 78 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 |
 | 79 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 |
-| 80 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 |
-| 81 | [YOU AND I](https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE) | 2:49 |
+| 80 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 |
+| 81 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 |
 | 82 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 |
 | 83 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 84 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 |
 | 85 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
 | 86 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
 | 87 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
-| 88 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 |
-| 89 | [I AM](https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:03 |
+| 88 | [I AM](https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:03 |
+| 89 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 |
 | 90 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 91 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
 | 92 | [Blue Lemonade](https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:16 |

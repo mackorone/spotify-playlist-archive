@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pLfLmbGM3d.md) - [plain]
 
 > Let's DIVE into IVE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,145 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,206 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

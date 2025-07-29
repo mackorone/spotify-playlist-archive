@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,726 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,730 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
 | 50 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:09 |
 
-Snapshot ID: `aIQagAAAAABF+U0xrYZ7Jkasso43W1Ho`
+Snapshot ID: `aIVsAAAAAAApfVNAzjTT69EW+0Re5ZTj`

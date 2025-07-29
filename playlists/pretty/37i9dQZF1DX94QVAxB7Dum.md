@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,576 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,717 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 5 | [Theme From Shaft](https://open.spotify.com/track/7nPc4tfJCRvcxxt9Xz3ugx) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft](https://open.spotify.com/album/2fJgWsAG6PKSOhcrsNEyDm) | 4:36 |
 | 6 | [My Girl](https://open.spotify.com/track/1WWbqYAzu1N216ngniTLNq) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 2:58 |
 | 7 | [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 |
-| 8 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
-| 9 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
-| 10 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
-| 11 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
+| 8 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
+| 9 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
+| 10 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
+| 11 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 12 | [Oh Girl](https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 3:37 |
 | 13 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
 | 14 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 36 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
 | 37 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 |
 | 38 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
-| 39 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
-| 40 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
+| 39 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
+| 40 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
 | 41 | [I Was Made To Love Her](https://open.spotify.com/track/0mOqAlDRU2Awz65hdK2glS) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Stevie Wonder The Definitive Collection 2002](https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk) | 2:35 |
 | 42 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 |
 | 43 | [Smiling Faces Sometimes](https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 3:15 |

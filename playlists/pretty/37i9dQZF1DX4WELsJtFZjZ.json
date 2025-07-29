@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1528188,
+  "num_followers": 1528987,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
-        }
-      ],
-      "duration_ms": 297853,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 327746,
       "name": "I Wish It Would Rain Down - 2016 Remaster",
       "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297853,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 236306,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 318680,
       "name": "Man in the Mirror - 2012 Remaster",
       "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where Do Broken Hearts Go",
-      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 222333,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where Do Broken Hearts Go",
+      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 267733,
-      "name": "Who's Holding Donna Now?",
-      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
         }
       ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
+      "duration_ms": 267733,
+      "name": "Who's Holding Donna Now?",
+      "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1603,22 +1603,6 @@
       "duration_ms": 264333,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 250440,
       "name": "Angel Of The Morning",
       "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Cat Trick",
+        "url": "https://open.spotify.com/album/1qFnzeL2z377T605oCdDTX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Wood",
+          "url": "https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/02HtMmMgd4SYJx76Alv71n"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Cat Trick",
-        "url": "https://open.spotify.com/album/1qFnzeL2z377T605oCdDTX"
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
       },
       "artists": [
         {
-          "name": "Lauren Wood",
-          "url": "https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG"
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/02HtMmMgd4SYJx76Alv71n"
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 219893,
       "name": "Your Love Is King",
       "url": "https://open.spotify.com/track/7erXAfnatmoUow8DnbseOY"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "All That Jazz",
         "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Misplaced Childhood (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Marillion",
-          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 243560,
-      "name": "Kayleigh - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1947,6 +1931,22 @@
       "duration_ms": 297306,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Misplaced Childhood (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Kayleigh - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Introducing The Hardline According To Sananda Maitreya",
         "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
@@ -2015,6 +1999,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Never Run Never Hide",
         "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
       },
@@ -2027,22 +2027,6 @@
       "duration_ms": 271800,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2083,6 +2067,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
       },
@@ -2095,22 +2095,6 @@
       "duration_ms": 258266,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2143,6 +2127,22 @@
       "duration_ms": 297426,
       "name": "Eyes Without A Face - Remastered 1999",
       "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Endless Summer Nights",
-      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Shake You Down (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
       },
@@ -2215,22 +2199,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Turn Back The Clock",
-      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -2243,6 +2211,38 @@
       "duration_ms": 226266,
       "name": "Ebony And Ivory - Remixed 2015",
       "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Turn Back The Clock",
+      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Emergency (Reissue)",
-        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 247200,
       "name": "Baby, I Love Your Way/Freebird",
       "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Emergency (Reissue)",
+        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "All That Jazz",
         "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 259506,
       "name": "Hands To Heaven",
       "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 416413,
+  "num_followers": 416554,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Essential Johnny Mathis 3.0",
-        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Chances Are - Single Version",
-      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+      "duration_ms": 168906,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -687,6 +691,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Essential Johnny Mathis 3.0",
+        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 134560,
       "name": "Love Letters In The Sand",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 174893,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Sarah Vaughan Sings George Gershwin",
         "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 246161,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
     },
     {
       "added_at": "2022-05-30 12:59:00",

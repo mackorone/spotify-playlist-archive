@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-327 songs - 21 hr 8 min
+329 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Fun Girl](https://open.spotify.com/track/78mXeWyY9ZEqOCkTl3nGfI) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 1:49 | 2022-11-29 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2021-04-19 |  |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2024-01-24 |  |
-| [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:55 | 2025-07-16 |  |
+| [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2ssyECwAX5JxtcAUTFw7wI) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:55 | 2025-07-29 |  |
+| [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:55 | 2025-07-16 | 2025-07-29 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2023-12-05 |  |
 | [Gone Till November \(feat\. The New York Philharmonic Orchestra\)](https://open.spotify.com/track/0jOXmNowR2j1hVpZMqnz9P) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 3:27 | 2020-04-11 |  |
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-09 |  |
@@ -290,6 +291,7 @@
 | [The Abyss \(feat\. Lana Del Rey\)](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:42 | 2025-02-01 |  |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-07 |  |
 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2024-02-07 |  |
+| [The Great Below](https://open.spotify.com/track/7LBWAib31Cthfz2KoI611Z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 5:17 | 2025-07-29 |  |
 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 | 2024-05-19 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2019-10-19 |  |
 | [the locket](https://open.spotify.com/track/5UAN0uymtMZfsQFlDiEIyy) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO), [atlas](https://open.spotify.com/artist/4GT06uo0obqLzrkFbpyu9I) | [Lost / Found](https://open.spotify.com/album/6b00YRhJqFSByhIEpZXPzM) | 2:07 | 2020-08-11 |  |

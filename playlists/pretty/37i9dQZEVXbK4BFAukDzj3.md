@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,060 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,079 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 |
 | 50 | [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 |
 
-Snapshot ID: `MBmdKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

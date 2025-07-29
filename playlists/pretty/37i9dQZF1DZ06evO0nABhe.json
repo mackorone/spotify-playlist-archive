@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11104,
+  "num_followers": 11107,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAI3/6GqM3JCxtJyrtDxPd/",
+  "snapshot_id": "aIVsAAAAAAAzKgj1Eg8fzaPNL6OG3g6v",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 231137,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -132,9 +116,29 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223808,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
+      "duration_ms": 231137,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WWE: The Music - A New Day, Vol. 10",
+        "url": "https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 271353,
+      "name": "Just Close Your Eyes (Christian)",
+      "url": "https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WWE: The Music - A New Day, Vol. 10",
-        "url": "https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
       "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 271353,
-      "name": "Just Close Your Eyes (Christian)",
-      "url": "https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu"
+      "duration_ms": 223808,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
     },
     {
       "added_at": null,

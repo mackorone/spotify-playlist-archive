@@ -4,7 +4,7 @@
 
 > Cover: Valerieblud
 
-421 songs - 22 hr 12 min
+422 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
 | [BLUE LOVE](https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [ARABIA / BLUE LOVE](https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl) | 3:07 | 2024-02-23 | 2024-05-18 |
-| [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 |  |
+| [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 | 2025-07-29 |
 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
 | [Bondagani](https://open.spotify.com/track/0f442OjFSbQ5gpbBlvaJTI) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Bondagani](https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb) | 2:14 | 2023-06-22 | 2023-08-31 |
 | [BOOS](https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [NSR](https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B) | 2:56 | 2024-02-17 | 2024-05-18 |
@@ -82,6 +82,7 @@
 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 | 2023-12-16 | 2024-05-26 |
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
 | [Charchabil](https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [AOKIGAHARA](https://open.spotify.com/album/62ez9OSwKvmA4DPSMobZVw) | 3:46 | 2024-11-21 | 2024-12-13 |
+| [CHERRANI](https://open.spotify.com/track/4jGp61FIMJW8DUS1C3O3GR) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [CHERRANI](https://open.spotify.com/album/7pQCduA2fy9aDXzwQeZscQ) | 3:13 | 2025-07-28 |  |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 | 2023-04-09 |
 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 | 2024-12-12 | 2025-01-01 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2022-11-14 | 2022-12-13 |

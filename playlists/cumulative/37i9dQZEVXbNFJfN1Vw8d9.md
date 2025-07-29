@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,494 songs - 3 day 9 hr 9 min
+1,495 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,6 +856,7 @@
 | [Me Maten \- Live at NPR's Tiny Desk](https://open.spotify.com/track/5py3FJrHEuR67BjR7wm8uj) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [El Madrileño \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/3hQIiRWmSllPrVnOEG1qVS) | 4:02 | 2021-04-23 | 2021-05-18 |
 | [Me Muero](https://open.spotify.com/track/4MfDHmbJQNpeBp83uSlsSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:15 | 2025-04-05 | 2025-04-07 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 | 2023-02-15 |
+| [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 | 2025-07-28 |  |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2021-12-16 | 2022-05-08 |
 | [MEDIA LUNA](https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:14 | 2023-08-30 | 2023-09-22 |
 | [MEJOR ASÍ](https://open.spotify.com/track/3XAHTceKLB1RnMxrRJ7lx1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:39 | 2024-08-24 | 2024-08-26 |
@@ -897,7 +898,7 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-05-14 | 2022-02-01 |
 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-05 | 2024-06-19 |
 | [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 | 2024-12-20 | 2025-01-07 |
-| [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 | 2025-06-14 |  |
+| [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 | 2025-06-14 | 2025-07-29 |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-01 | 2023-08-04 |
 | [Mon amour](https://open.spotify.com/track/064ikblBFGS6HL35D71LZy) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon amour](https://open.spotify.com/album/7IU61sfQFUdnrZ8U6aHD7O) | 2:53 | 2021-09-22 | 2021-09-25 |
 | [Mon Amour](https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon Amour](https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J) | 2:53 | 2021-07-28 | 2021-09-22 |

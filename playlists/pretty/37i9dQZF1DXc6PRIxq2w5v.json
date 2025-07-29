@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: 2metro",
-  "num_followers": 183040,
+  "num_followers": 183072,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "Rio De \u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Rio De \u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Seu Poder",
         "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 222169,
       "name": "Seu Poder",
       "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "Rio De \u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Rio De \u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -715,46 +715,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 134050,
-      "name": "\u00c9 Real",
-      "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Bem Maior",
         "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
       },
@@ -807,26 +767,74 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+        "name": "Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+      "duration_ms": 134050,
+      "name": "\u00c9 Real",
+      "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
+      },
+      "artists": [
+        {
+          "name": "Insanou",
+          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+        }
+      ],
+      "duration_ms": 205034,
+      "name": "Renascer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -851,18 +859,26 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Dima",
+          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
         }
       ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+      "duration_ms": 200405,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -927,18 +943,30 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
+        "name": "Encontrei em Voc\u00ea",
+        "url": "https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo"
       },
       "artists": [
         {
-          "name": "Insanou",
-          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+          "name": "Lucena",
+          "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
+        },
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "O Peter",
+          "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 205034,
-      "name": "Renascer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
+      "duration_ms": 172123,
+      "name": "Encontrei em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1055,22 +1083,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Virando a Mesa",
-        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
-      },
-      "artists": [
-        {
-          "name": "JRG",
-          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
       },
@@ -1107,26 +1119,18 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Umbral",
-        "url": "https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP"
+        "name": "Virando a Mesa",
+        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
       },
       "artists": [
         {
-          "name": "Ian DaRua",
-          "url": "https://open.spotify.com/artist/1L2z3Cdc2iZifngTEC1Gyz"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        },
-        {
-          "name": "Fernandinho Beat Box",
-          "url": "https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i"
+          "name": "JRG",
+          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
         }
       ],
-      "duration_ms": 169019,
-      "name": "Umbral",
-      "url": "https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea"
+      "duration_ms": 168221,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1171,6 +1175,30 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "Umbral",
+        "url": "https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP"
+      },
+      "artists": [
+        {
+          "name": "Ian DaRua",
+          "url": "https://open.spotify.com/artist/1L2z3Cdc2iZifngTEC1Gyz"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Fernandinho Beat Box",
+          "url": "https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "Umbral",
+      "url": "https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Purificado",
         "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
@@ -1191,30 +1219,6 @@
       "duration_ms": 145125,
       "name": "Purificado",
       "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "Me Deixou Forte",
-        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Me Deixou Forte",
-      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1243,30 +1247,26 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Encontrei em Voc\u00ea",
-        "url": "https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo"
+        "name": "Me Deixou Forte",
+        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
       },
       "artists": [
         {
-          "name": "Lucena",
-          "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
-        },
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "O Peter",
-          "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
           "name": "Trindade Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 172123,
-      "name": "Encontrei em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI"
+      "duration_ms": 164102,
+      "name": "Me Deixou Forte",
+      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1415,6 +1415,34 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
+      },
+      "artists": [
+        {
+          "name": "Igor PPrata",
+          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
+        },
+        {
+          "name": "Kenedy Gomes",
+          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
+        },
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 237108,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Melhores Dias",
         "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
@@ -1479,34 +1507,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
-      },
-      "artists": [
-        {
-          "name": "Igor PPrata",
-          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
-        },
-        {
-          "name": "Kenedy Gomes",
-          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
-        },
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 237108,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "777 na Mente",
         "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 165899,
       "name": "777 na Mente",
       "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "\"23\"",
+        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 132653,
+      "name": "\"23\"",
+      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1539,22 +1555,6 @@
       "duration_ms": 169090,
       "name": "Por Onde C Andar",
       "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "\"23\"",
-        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 132653,
-      "name": "\"23\"",
-      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Se Anima",
-        "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Se Anima",
-      "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4WTA1GMzuqdtMsFSan3y7Q"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 196967,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "Se Anima",
+        "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Se Anima",
+      "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
     },
     {
       "added_at": "2025-07-19 03:29:14",

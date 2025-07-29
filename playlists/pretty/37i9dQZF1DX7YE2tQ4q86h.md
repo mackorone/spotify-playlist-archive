@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Margaret Qualley is having a main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,412 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,512 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

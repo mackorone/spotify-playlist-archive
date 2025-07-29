@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,174 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,179 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 22 | [Galveston](https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 2:40 |
 | 23 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
 | 24 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
-| 25 | [Dang Me](https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 1:42 |
-| 26 | [He'll Have to Go](https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:18 |
+| 25 | [He'll Have to Go](https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:18 |
+| 26 | [Dang Me](https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 1:42 |
 | 27 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
 | 28 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
 | 29 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:56 |
-| 30 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
-| 31 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
+| 30 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
+| 31 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
 | 32 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:55 |
-| 33 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
+| 33 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
 | 34 | [Six Days On The Road](https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql) | [Dave Dudley](https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv) | [20th Century Masters: The Millennium Collection: Best Of Dave Dudley](https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM) | 2:14 |
 | 35 | [She's Got You](https://open.spotify.com/track/1Pj6cjIyqBBnl82qJwi1Kb) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [The Definitive Collection](https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em) | 2:58 |
 | 36 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |

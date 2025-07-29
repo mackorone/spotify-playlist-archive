@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,525 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,538 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 40 | [Floating On A Moment](https://open.spotify.com/track/0WH39BFVGotzXe3torfzvK) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 5:26 |
 | 41 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
 | 42 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
-| 43 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 44 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
+| 43 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
+| 44 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 45 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
-| 46 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
-| 47 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 48 | [Guided Tour](https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X) | 4:25 |
-| 49 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 46 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
+| 47 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
+| 48 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
+| 49 | [Guided Tour](https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X) | 4:25 |
 | 50 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
 | 51 | [wish u well](https://open.spotify.com/track/4TZOVk3IPsfYQTiCGyRauf) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:33 |
 | 52 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 59 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
 | 60 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
 | 61 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
-| 62 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 |
-| 63 | [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 |
-| 64 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
+| 62 | [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 |
+| 63 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
+| 64 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 |
 | 65 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
 | 66 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |
 | 67 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 70 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
 | 71 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
 | 72 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 |
-| 73 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
-| 74 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 73 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 74 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
 | 75 | [Susan](https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Susan](https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0) | 3:18 |
 
 Snapshot ID: `Z1uEoQAAAAAkZ9+Y99rvYmXnMNUype2W`

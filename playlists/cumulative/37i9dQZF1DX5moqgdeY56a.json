@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Corridos Antonio Aguilar",
+        "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "Me Importa Poco",
+      "url": "https://open.spotify.com/track/2iJwarZCb8vTSzfj4Kuobs"
+    },
+    {
+      "album": {
         "name": "Me Vale",
         "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 205266,
       "name": "Te Solt\u00e9 La Rienda",
       "url": "https://open.spotify.com/track/7raX70QMuOnywsxLEBzh5j"

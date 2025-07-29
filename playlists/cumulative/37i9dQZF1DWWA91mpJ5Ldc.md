@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-262 songs - 15 hr 50 min
+263 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Pérola de Espuma](https://open.spotify.com/track/7a9kD8LKp6ts1r0dlePx55) | [Rommel](https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10) | [Pérola de Espuma](https://open.spotify.com/album/3NdnrEtvtoNGN1v3l498Qb) | 3:50 | 2022-02-04 | 2022-07-29 |
 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 | 2022-02-04 |  |
 | [Que Céu Que Tá](https://open.spotify.com/track/13fKljiL4Vp7DCUXWyY58x) | [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Giba E A Raça](https://open.spotify.com/artist/7xpM9q9QwOqHm1s4MSPYIi) | [Que Céu Que Tá](https://open.spotify.com/album/6AxcpdiPAqhtNNBlYklsVq) | 2:50 | 2022-02-04 | 2022-07-27 |
-| [Quem Me Conhece Sabe](https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Melhor Que Ontem](https://open.spotify.com/album/64ux9afJoLaafAYumSppUl) | 2:39 | 2023-06-02 |  |
+| [Quem Me Conhece Sabe](https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Melhor Que Ontem](https://open.spotify.com/album/64ux9afJoLaafAYumSppUl) | 2:39 | 2023-06-02 | 2025-07-29 |
 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/2pSOBtKOC9TnjSigCMK9kf) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. I\)](https://open.spotify.com/album/4rp1jclowkzH4QyGMg6xTx) | 5:26 | 2022-02-04 | 2022-07-28 |
 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 5:26 | 2022-07-22 | 2024-04-19 |
 | [Quem Tem Um Amigo \(Tem Tudo\) \(Remix\) \(feat\. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid\)](https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:06 | 2022-02-04 |  |
@@ -218,6 +218,7 @@
 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 | 2023-12-26 | 2024-04-19 |
 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 | 2022-02-04 |  |
 | [Saiba](https://open.spotify.com/track/13HJiaanpj9UUlM0oRdLCw) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Rodrigo Tavares](https://open.spotify.com/artist/3AJRxQt0V8I0MqhqZ1fwTG), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC) | [Saiba](https://open.spotify.com/album/7ebm89fROlRR91r89dSYNw) | 2:43 | 2022-02-04 | 2025-03-21 |
+| [SAMBA DE CRIA](https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [TÁ FELIZ?!](https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg) | 3:11 | 2025-07-25 |  |
 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 | 2022-02-04 | 2025-02-15 |
 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 | 2025-07-11 |  |
 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 | 2022-03-22 |  |

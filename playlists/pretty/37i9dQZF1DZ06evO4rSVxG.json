@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15154,
+  "num_followers": 15155,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAB15Uc7W9pR6/uxGZ1q1RiP",
+  "snapshot_id": "aIVsAAAAAABP2CTFj6+6ODiywPEH+Efp",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 236124,
-      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
       "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+      "duration_ms": 236124,
+      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
     },
     {
       "added_at": null,

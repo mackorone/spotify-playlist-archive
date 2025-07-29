@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,746 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,768 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 41 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
 | 42 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 43 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
-| 44 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
-| 45 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
+| 44 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
+| 45 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
 | 46 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |
 | 47 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
 | 48 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
-| 49 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 |
-| 50 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
+| 49 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
+| 50 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 |
 | 51 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 52 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
-| 53 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
-| 54 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
-| 55 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
-| 56 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
+| 53 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
+| 54 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
+| 55 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
+| 56 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 57 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
 | 58 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
 | 59 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |

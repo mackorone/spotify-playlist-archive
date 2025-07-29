@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經不只一年了？高人氣金曲讓你一路聽下去！Cover: 高爾宣 \(OSN\) x 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,503 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,539 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

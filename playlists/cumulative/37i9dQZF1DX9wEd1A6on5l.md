@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-730 songs - 1 day 10 hr 31 min
+731 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 | 2025-03-28 | 2025-06-10 |
 | [Bolingo](https://open.spotify.com/track/4bKoCUCsmc2SdqWv0YV1gk) | [HumbleSmith](https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Bolingo](https://open.spotify.com/album/18jIbSk5BS74Z7TC57HNcX) | 3:23 | 2025-04-04 | 2025-05-04 |
 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:13 | 2024-07-09 | 2024-10-05 |
-| [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 | 2025-06-09 |  |
+| [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 | 2025-06-09 | 2025-07-29 |
 | [Born Fi Dis](https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:30 | 2024-04-03 | 2024-05-09 |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-05-31 | 2024-08-26 |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-11 |  |
@@ -278,6 +278,7 @@
 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 | 2022-10-13 | 2022-10-31 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 |  |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 | 2025-04-01 |
+| [Friday Night](https://open.spotify.com/track/6NfV8y0AyagUxnv1WTA5O2) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Friday Night](https://open.spotify.com/album/6Bb9LEeAQW6hw3fEuTz4Oc) | 2:20 | 2025-07-25 |  |
 | [Fuji Garbage](https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Chief Dr\. Sikiru Ayinde Barrister \(MFR\)](https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg) | [Fuji Garbage](https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T) | 2:41 | 2024-12-06 | 2025-06-10 |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2024-12-06 |  |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-09 | 2022-11-13 |

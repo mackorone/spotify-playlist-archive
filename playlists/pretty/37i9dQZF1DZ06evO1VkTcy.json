@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAC4U+otpB2FSoQnZr4FHDyv",
+  "snapshot_id": "aIVsAAAAAABAvbwstlZh9yyDnXm1iwhD",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5458",
+        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
+      },
+      "artists": [
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "5458",
+      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Livre",
         "url": "https://open.spotify.com/album/4IUX7jygRntlpHKwaLen5z"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 225608,
       "name": "Amor Livre",
       "url": "https://open.spotify.com/track/1k6JvHGHVQPV1qeFmtnKWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5458",
-        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
-      },
-      "artists": [
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "5458",
-      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -887,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Avi\u00e3o",
         "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 241171,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Seu Grande Amor",
         "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
       },
@@ -963,38 +963,6 @@
       "duration_ms": 211896,
       "name": "O Seu Grande Amor",
       "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posturadin",
-        "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
-      },
-      "artists": [
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        },
-        {
-          "name": "Artioli",
-          "url": "https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 226521,
-      "name": "Posturadin",
-      "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
     },
     {
       "added_at": null,
@@ -1043,6 +1011,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posturadin",
+        "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Artioli",
+          "url": "https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 226521,
+      "name": "Posturadin",
+      "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tava Tudo Tranquilin",
         "url": "https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin"
       },
@@ -1087,26 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00f3s Dois",
         "url": "https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 179467,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1287,26 +1287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 179310,
       "name": "Ressentimento",
       "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
     },
     {
       "added_at": null,

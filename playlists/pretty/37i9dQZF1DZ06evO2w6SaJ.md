@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,720 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 3 | [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 |
 | 4 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 |
 | 5 | [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 |
-| 6 | [GlitchGang \(Remix\)](https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Last Ones Standing](https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm) | 2:24 |
-| 7 | [Hurt You So Bad](https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:46 |
+| 6 | [Hurt You So Bad](https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:46 |
+| 7 | [GlitchGang \(Remix\)](https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [GlitchGang \(Remix\)](https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb) | 2:24 |
 | 8 | [Megatron](https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Boondock](https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:41 |
 | 9 | [Revolving Door](https://open.spotify.com/track/29BNwy4DiJbLSf796C337g) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:40 |
 | 10 | [Lighthouse](https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH) | 3:42 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 16 | [Backpack](https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Bishop Lamont](https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 4:15 |
 | 17 | [Lollipop Porn](https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:54 |
 | 18 | [Boom Box Gang War \- Unreleased](https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:33 |
-| 19 | [Cake](https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:02 |
+| 19 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 |
 | 20 | [Baby You Don't Know](https://open.spotify.com/track/347222YpEP2tSehBnN8b3T) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:09 |
 | 21 | [Black Cloud](https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 5:02 |
-| 22 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 |
+| 22 | [Cake](https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:02 |
 | 23 | [Change](https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:44 |
 | 24 | [A Little More Time](https://open.spotify.com/track/5uu3JPIIjqRL6Z2Dvmq8qn) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Koko LaRoo](https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:39 |
 | 25 | [Skulls and Stars \- Original Demo](https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:48 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 37 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `aIQagAAAAAAzdccXtKR/nGgG9QeFQutq`
+Snapshot ID: `aIVsAAAAAABqHiiWS1BUO9/nLL7yYNog`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,258 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,256 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 15 | [HOTBOX](https://open.spotify.com/track/2UcHKgT00bLP7Cjkni3Itg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:02 |
 | 16 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 17 | [Bounce](https://open.spotify.com/track/2umdZeVXVU5JZCThIq8r6K) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bounce](https://open.spotify.com/album/2YAtJ3wrDFaLE8rNJaRncW) | 2:26 |
-| 18 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 19 | [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 |
+| 18 | [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 |
+| 19 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 20 | [Snap My Finger \(feat\. PinkPantheress\)](https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:21 |
 | 21 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
 | 22 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 60 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 61 | [The Returner](https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw) | 3:50 |
 | 62 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
-| 63 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
-| 64 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 63 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 64 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
 | 65 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 66 | [Lipstick Lover](https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:49 |
 | 67 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |

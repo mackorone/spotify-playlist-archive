@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > \#SpotifyTBT is taking you back to the dance scene of the 90s\. Cover: Aqua
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,850 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,846 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

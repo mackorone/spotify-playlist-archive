@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,011 likes - 115 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,907 likes - 115 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 55 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 56 | [Wheel of Change](https://open.spotify.com/track/0ce5zTXfsdmerMyCtLUoII) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wheel of Change](https://open.spotify.com/album/3jkhNReoky0EeoIzNzwbQA) | 4:25 |
 | 57 | [Say You Will](https://open.spotify.com/track/3qTx09RfTk18uwaJ2hKiVx) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Say You Will](https://open.spotify.com/album/53BvCzNQgSZyQyhkai2Zdy) | 3:19 |
-| 58 | [Remember! \(English Version\)](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
+| 58 | [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
 | 59 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 |
 | 60 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
 | 61 | [Virginia Tech](https://open.spotify.com/track/63RXrwFp8OlTvnr5JsXVY2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Defense / Virginia Tech](https://open.spotify.com/album/4loQm364AOexSa6uEMUpUo) | 4:27 |

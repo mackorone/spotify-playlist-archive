@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Tyla, Fireboy DML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,504 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,634 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

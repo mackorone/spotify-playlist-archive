@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > 👻 don't forget to live\. IDOLS is out!  Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,008 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,006 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 15 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 |
 | 16 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 17 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
-| 18 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
-| 19 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
-| 20 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 |
+| 18 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
+| 19 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
+| 20 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 21 | [Lost Chapter](https://open.spotify.com/track/207K1MXwebxpXDS43OazOU) | [Pentakill](https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s), [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [III: Lost Chapter](https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE) | 3:49 |
-| 22 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
+| 22 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 |
 | 23 | [Swing At Me](https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Swing At Me](https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN) | 3:25 |
 | 24 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
-| 25 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
-| 26 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
-| 27 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 |
+| 25 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 |
+| 26 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 27 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 28 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 29 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 30 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |

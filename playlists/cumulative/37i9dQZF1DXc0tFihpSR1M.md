@@ -4,13 +4,14 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-325 songs - 16 hr 47 min
+326 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2024-06-27 | 2024-11-02 |
 | [\*\*NYB\*\*](https://open.spotify.com/track/1x9PxhI3ccK3lbIsDpTL0p) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 2:31 | 2025-05-01 | 2025-05-03 |
 | [100 Years](https://open.spotify.com/track/2LdEG2fQwyFe3znpFZBxNf) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [100 Years](https://open.spotify.com/album/00Es0qcLGaFaAOMIWjkjV7) | 3:07 | 2025-01-30 | 2025-02-07 |
+| [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 |  |
 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-02-13 |  |
 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-17 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-15 | 2025-03-06 |
@@ -46,7 +47,7 @@
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-07-11 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-20 |  |
 | [Call Me](https://open.spotify.com/track/7I8ebrCiAjFs5y4wXPDunW) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Call Me](https://open.spotify.com/album/6LELKKMXI1lMMm9tBf55OO) | 2:46 | 2024-09-12 | 2024-09-27 |
-| [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 |  |
+| [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 | 2025-07-29 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-06-27 | 2025-03-28 |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-27 |
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 |  |

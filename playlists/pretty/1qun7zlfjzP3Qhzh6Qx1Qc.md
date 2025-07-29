@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,548 likes - 64 songs - 3 hr 33 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,548 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,24 +53,20 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 43 | [Naming Boats](https://open.spotify.com/track/49YM9koBu5gPvRDHqahE93) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Naming Boats](https://open.spotify.com/album/3bbAO5CmtuHBZSnTdgaoDO) | 2:36 |
 | 44 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 |
 | 45 | [Dads Don't Die](https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Dads Don't Die](https://open.spotify.com/album/3o92h5pPmdj8EaCBkORE3C) | 3:29 |
-| 46 | [Smooth Like Vinyl](https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Smooth Like Vinyl](https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH) | 3:39 |
-| 47 | [Heard It In A Country Song](https://open.spotify.com/track/5RNcjfueJkUFpYivW3APhT) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Heard It In A Country Song](https://open.spotify.com/album/2aHEBlvJcTbJDhnwSFQi7y) | 3:48 |
-| 48 | [Bad Habits](https://open.spotify.com/track/0zzA7A6btrf9ah4bdpuiqr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Bad Habits](https://open.spotify.com/album/5jWs2Me9Jf6pQtMKh379hF) | 3:14 |
-| 49 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
-| 50 | [Normal Day](https://open.spotify.com/track/228Vc4jTjQX0ZJkWiZNIMd) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Normal Day](https://open.spotify.com/album/177CiyEoebDBYc0hUocsiN) | 3:49 |
-| 51 | [Boy Meets Girl \(Unreleased Demo\)](https://open.spotify.com/track/37CproXECOynt6rioUnE4s) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time: 10 Year Anniversary Edition](https://open.spotify.com/album/4bT4YQv0edl0KrWrrMHpB3) | 3:03 |
-| 52 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
-| 53 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 |
-| 54 | [Dodge a Bullet](https://open.spotify.com/track/2jzinvUUX94JyPd29xxepc) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Dodge a Bullet](https://open.spotify.com/album/0IhgFS7FRUgW7iKCNAUG7d) | 2:41 |
-| 55 | [You'd Still Be Drunk](https://open.spotify.com/track/5lWhePiXoypnLKGEtL1knq) | [Kayley Green](https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM) | [You'd Still Be Drunk](https://open.spotify.com/album/0eIaWMw3r0z6js35UNR17Q) | 2:30 |
-| 56 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
-| 57 | [Nice Girl](https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Nice Girl](https://open.spotify.com/album/4ZUYCh9U0NSUnsz3r3TRpv) | 2:40 |
-| 58 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
-| 59 | [Coyote](https://open.spotify.com/track/4iTU8a7xlebcunaTSBLwEs) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Coyote](https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr) | 5:06 |
-| 60 | [Lose You](https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ) | 2:54 |
-| 61 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
-| 62 | [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 |
-| 63 | [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 |
-| 64 | [Seventeen](https://open.spotify.com/track/3Y86mi6er0gPd1iWSCZgow) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Seventeen](https://open.spotify.com/album/6BVKN6zW6cv2JVWabt7UEc) | 3:04 |
+| 46 | [Heard It In A Country Song](https://open.spotify.com/track/5RNcjfueJkUFpYivW3APhT) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Heard It In A Country Song](https://open.spotify.com/album/2aHEBlvJcTbJDhnwSFQi7y) | 3:48 |
+| 47 | [Bad Habits](https://open.spotify.com/track/0zzA7A6btrf9ah4bdpuiqr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Bad Habits](https://open.spotify.com/album/5jWs2Me9Jf6pQtMKh379hF) | 3:14 |
+| 48 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
+| 49 | [Boy Meets Girl \(Unreleased Demo\)](https://open.spotify.com/track/37CproXECOynt6rioUnE4s) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time: 10 Year Anniversary Edition](https://open.spotify.com/album/4bT4YQv0edl0KrWrrMHpB3) | 3:03 |
+| 50 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
+| 51 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 |
+| 52 | [Dodge a Bullet](https://open.spotify.com/track/2jzinvUUX94JyPd29xxepc) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Dodge a Bullet](https://open.spotify.com/album/0IhgFS7FRUgW7iKCNAUG7d) | 2:41 |
+| 53 | [You'd Still Be Drunk](https://open.spotify.com/track/5lWhePiXoypnLKGEtL1knq) | [Kayley Green](https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM) | [You'd Still Be Drunk](https://open.spotify.com/album/0eIaWMw3r0z6js35UNR17Q) | 2:30 |
+| 54 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
+| 55 | [Nice Girl](https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Nice Girl](https://open.spotify.com/album/4ZUYCh9U0NSUnsz3r3TRpv) | 2:40 |
+| 56 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 57 | [Coyote](https://open.spotify.com/track/4iTU8a7xlebcunaTSBLwEs) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Coyote](https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr) | 5:06 |
+| 58 | [Lose You](https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ) | 2:54 |
+| 59 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 60 | [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 |
 
-Snapshot ID: `AAAMti7NeRWDK9HX2sBcpmCEBeVlUxLu`
+Snapshot ID: `AAAMuPVIvV+hXMv2HUpm7LI/uLeNOf3j`

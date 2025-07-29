@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,839,893 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839,761 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 13 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 |
 | 14 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
 | 15 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
-| 16 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 16 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 17 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 |
 | 18 | [Ramona](https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA) | 2:46 |
 | 19 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |

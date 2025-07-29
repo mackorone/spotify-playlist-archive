@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 880283,
+  "num_followers": 880483,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACSoQdkKdYoQa8ygKq40QZ5",
+  "snapshot_id": "aIVsAAAAAAAu8OCE/jlvBJDg48ytMcmM",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHY (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Goes On (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
       },
@@ -491,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
       },
       "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,

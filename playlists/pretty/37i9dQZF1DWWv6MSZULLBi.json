@@ -1,13 +1,29 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Georgia Harmer",
-  "num_followers": 167573,
+  "num_followers": 167574,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIJ5ZQAAAACw6d/NwDP4xIEJ3wX3Non6",
+  "snapshot_id": "aIeGAwAAAAD1zsAYYOG2z7Ld12sLkEqu",
   "tracks": [
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
     {
       "added_at": "2025-07-24 18:20:21",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/0TMYG4N8EtUQnnhIXiPxGE"
     },
     {
-      "added_at": "2025-07-24 18:20:21",
+      "added_at": "2025-07-28 14:15:31",
       "album": {
-        "name": "Lay Your Head on Me",
-        "url": "https://open.spotify.com/album/1hgMBq5qbb81MsziCGm1VH"
+        "name": "When the Lavender Blooms",
+        "url": "https://open.spotify.com/album/3N5fQyXfKJPpQvHm3mG4pw"
       },
       "artists": [
         {
-          "name": "Somewhere In Between",
-          "url": "https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 215751,
-      "name": "Lay Your Head on Me",
-      "url": "https://open.spotify.com/track/2y8zw6ulvnyDxLZv6adJCY"
+      "duration_ms": 216107,
+      "name": "When the Lavender Blooms",
+      "url": "https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -57,20 +73,52 @@
       "url": "https://open.spotify.com/track/2h8NGYVcmhtjdXmgYkpftE"
     },
     {
-      "added_at": "2025-07-18 04:01:06",
+      "added_at": "2025-07-28 14:15:31",
       "album": {
-        "name": "No Silent Monks",
-        "url": "https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/2JSiPJeCV42psHYQEPUji1"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 230000,
-      "name": "One",
-      "url": "https://open.spotify.com/track/6ATGoNeKZih1AhZ8Ossy1H"
+      "duration_ms": 200570,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/3uxEnpxnkSVmLCNR3i71Il"
+    },
+    {
+      "added_at": "2025-07-24 18:20:21",
+      "album": {
+        "name": "Lay Your Head on Me",
+        "url": "https://open.spotify.com/album/1hgMBq5qbb81MsziCGm1VH"
+      },
+      "artists": [
+        {
+          "name": "Somewhere In Between",
+          "url": "https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA"
+        }
+      ],
+      "duration_ms": 215751,
+      "name": "Lay Your Head on Me",
+      "url": "https://open.spotify.com/track/2y8zw6ulvnyDxLZv6adJCY"
+    },
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "Heavy Foot",
+        "url": "https://open.spotify.com/album/67pI7imaiLZ70j22ROlLmf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 145058,
+      "name": "Heavy Foot",
+      "url": "https://open.spotify.com/track/6tJQwOhJTw9a6l7C1EEBbP"
     },
     {
       "added_at": "2025-07-24 18:20:21",
@@ -87,6 +135,90 @@
       "duration_ms": 276938,
       "name": "Thinkin About Ya",
       "url": "https://open.spotify.com/track/3fqDX8NdDlw6LF1BA4H89d"
+    },
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "You Again",
+        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
+    },
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+    },
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
+    },
+    {
+      "added_at": "2025-07-24 18:20:21",
+      "album": {
+        "name": "Don't Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/4rXkly88k12Epggce9zAnz"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        },
+        {
+          "name": "jed and the valentine",
+          "url": "https://open.spotify.com/artist/7H4OVhyKr2lE5XWyLJa6Gs"
+        }
+      ],
+      "duration_ms": 254068,
+      "name": "Don't Mind - Acoustic",
+      "url": "https://open.spotify.com/track/4TBuKdjC1ii6PnjWul0Zbk"
+    },
+    {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "No Silent Monks",
+        "url": "https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6ATGoNeKZih1AhZ8Ossy1H"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -139,26 +271,6 @@
       "duration_ms": 193707,
       "name": "Forever Ain't Long Enough",
       "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
-    },
-    {
-      "added_at": "2025-07-24 18:20:21",
-      "album": {
-        "name": "Don't Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/4rXkly88k12Epggce9zAnz"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        },
-        {
-          "name": "jed and the valentine",
-          "url": "https://open.spotify.com/artist/7H4OVhyKr2lE5XWyLJa6Gs"
-        }
-      ],
-      "duration_ms": 254068,
-      "name": "Don't Mind - Acoustic",
-      "url": "https://open.spotify.com/track/4TBuKdjC1ii6PnjWul0Zbk"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -1431,90 +1543,6 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
-        "name": "Begin",
-        "url": "https://open.spotify.com/album/6Cg20PRLaa4ZxkAKQe6kTN"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 196639,
-      "name": "Begin",
-      "url": "https://open.spotify.com/track/2Xl7Aw8qNgxodJbxJV49Rc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Life I Wanted",
-        "url": "https://open.spotify.com/album/7MTvwzmvpmcgMRNUkxxn97"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Life I Wanted",
-      "url": "https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Tell me I never knew that",
-        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 279051,
-      "name": "Tell me I never knew that",
-      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Every Dawn's a Mountain",
-        "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 247940,
-      "name": "Every Dawn's a Mountain",
-      "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 222365,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
         "name": "Brave Boy",
         "url": "https://open.spotify.com/album/6RoH1SlIjhoefuwDz96a3R"
       },
@@ -1639,174 +1667,6 @@
       "duration_ms": 166027,
       "name": "Unlike Anything",
       "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Blue Embers",
-        "url": "https://open.spotify.com/album/5BCmff76yBVEHr9BUnILBM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Blue Embers",
-      "url": "https://open.spotify.com/track/1I3qnpna2lLZeTk2B06bih"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Therapy Notes",
-        "url": "https://open.spotify.com/album/2BCYKHOYEWovCakIv4ZO6j"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 237541,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/6bk9Tqq2fQrZBVgNISxgjl"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Superlover (Feat. Annie Lennox)",
-        "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 312602,
-      "name": "Superlover (Feat. Annie Lennox)",
-      "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6lLyfQ83nAeBmCBNZWBi7q"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 200214,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/5fhJHv91Y71lXFzrRMw9ku"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 277299,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/4joCdZ76bt2OQTqYMbizJI"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/1M59UjZ6KQLUnNERnpmBeD"
-      },
-      "artists": [
-        {
-          "name": "Hayley Gene Penner",
-          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Horizon Lines",
-        "url": "https://open.spotify.com/album/1ffDjaaQRB7Zn3g7k5MscX"
-      },
-      "artists": [
-        {
-          "name": "Michael Bernard Fitzgerald",
-          "url": "https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv"
-        }
-      ],
-      "duration_ms": 184648,
-      "name": "After a While",
-      "url": "https://open.spotify.com/track/6iAEOBu38x5Qbg2CcoCgk8"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/05Abr5BF3CZpcjatqNTi1p"
-      },
-      "artists": [
-        {
-          "name": "Sister Ray",
-          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
-        }
-      ],
-      "duration_ms": 226972,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/10e8q50norTRKjCFM3xePC"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "trouble",
-        "url": "https://open.spotify.com/album/0GJ0lURWzZhkNrobN0RYHJ"
-      },
-      "artists": [
-        {
-          "name": "young friend",
-          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "trouble",
-      "url": "https://open.spotify.com/track/1RriFYclWq7TtWGBbXHfLJ"
     }
   ],
   "unique_name": "Folk & Friends",

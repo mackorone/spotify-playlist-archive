@@ -523,26 +523,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "All I See",
-        "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "TOLED\u00d8",
-          "url": "https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms"
-        }
-      ],
-      "duration_ms": 189024,
-      "name": "All I See",
-      "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "TOLED\u00d8",
+          "url": "https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms"
+        }
+      ],
+      "duration_ms": 189024,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "MAMI D\u00d3NDEST\u00c1S?",
-        "url": "https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw"
-      },
-      "artists": [
-        {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
-        }
-      ],
-      "duration_ms": 143617,
-      "name": "MAMI D\u00d3NDEST\u00c1S?",
-      "url": "https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 181176,
       "name": "3 Chakas (Aferrados Al Culo)",
       "url": "https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "MAMI D\u00d3NDEST\u00c1S?",
+        "url": "https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 143617,
+      "name": "MAMI D\u00d3NDEST\u00c1S?",
+      "url": "https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -683,6 +683,38 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "\u00a1GLORIA EL CENTRO DE REHABILITACION!",
+        "url": "https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "PUM PUM!",
+      "url": "https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "veranito2k",
+        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "veranito2k",
+      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "adondevamos??",
         "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
       },
@@ -707,18 +739,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "\u00a1GLORIA EL CENTRO DE REHABILITACION!",
-        "url": "https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j"
+        "name": "Un Error",
+        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
       },
       "artists": [
         {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+          "name": "Monte Carlo",
+          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
         }
       ],
-      "duration_ms": 158312,
-      "name": "PUM PUM!",
-      "url": "https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB"
+      "duration_ms": 239358,
+      "name": "Un Error",
+      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -743,38 +775,6 @@
       "duration_ms": 190515,
       "name": "Tu Consentido",
       "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Un Error",
-        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
-      },
-      "artists": [
-        {
-          "name": "Monte Carlo",
-          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
-        }
-      ],
-      "duration_ms": 239358,
-      "name": "Un Error",
-      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "veranito2k",
-        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "veranito2k",
-      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "REGGAETON CUTE (VOL. 2)",
-        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
-      },
-      "artists": [
-        {
-          "name": "Roby Damian",
-          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "MI D",
-      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "AYER (Remix)",
         "url": "https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 268448,
       "name": "AYER - Remix",
       "url": "https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "REGGAETON CUTE (VOL. 2)",
+        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
+      },
+      "artists": [
+        {
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "MI D",
+      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "Loquequiero (nunca me lo das)",
+        "url": "https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Loquequiero (nunca me lo das)",
+      "url": "https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/0ZblXy5C5Po8ltwW7KxOIc"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Loquequiero (nunca me lo das)",
-        "url": "https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Loquequiero (nunca me lo das)",
-      "url": "https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "DESAYUNO CONTINENTAL",
         "url": "https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 169500,
       "name": "DESAYUNO CONTINENTAL",
       "url": "https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "No Quedan M\u00e1s Intentos",
+        "url": "https://open.spotify.com/album/5FHzCb9rvGokUXPwawcbCp"
+      },
+      "artists": [
+        {
+          "name": "Bateados",
+          "url": "https://open.spotify.com/artist/2uAkVijNPFc9sP3aAnvv5a"
+        }
+      ],
+      "duration_ms": 154586,
+      "name": "No Quedan M\u00e1s Intentos",
+      "url": "https://open.spotify.com/track/7uIKxrKFYuwA6AbB8twqzB"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1295,18 +1311,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "No Quedan M\u00e1s Intentos",
-        "url": "https://open.spotify.com/album/5FHzCb9rvGokUXPwawcbCp"
+        "name": "desintoxicar",
+        "url": "https://open.spotify.com/album/3yegZNxgoCqKNeuTG8j3nk"
       },
       "artists": [
         {
-          "name": "Bateados",
-          "url": "https://open.spotify.com/artist/2uAkVijNPFc9sP3aAnvv5a"
+          "name": "Montecarlo",
+          "url": "https://open.spotify.com/artist/0cVSnXQu9AcTb6JvsgkbI0"
+        },
+        {
+          "name": "INTTI FR",
+          "url": "https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB"
         }
       ],
-      "duration_ms": 154586,
-      "name": "No Quedan M\u00e1s Intentos",
-      "url": "https://open.spotify.com/track/7uIKxrKFYuwA6AbB8twqzB"
+      "duration_ms": 153250,
+      "name": "desintoxicar",
+      "url": "https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1343,26 +1363,6 @@
       "duration_ms": 194648,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "desintoxicar",
-        "url": "https://open.spotify.com/album/3yegZNxgoCqKNeuTG8j3nk"
-      },
-      "artists": [
-        {
-          "name": "Montecarlo",
-          "url": "https://open.spotify.com/artist/0cVSnXQu9AcTb6JvsgkbI0"
-        },
-        {
-          "name": "INTTI FR",
-          "url": "https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "desintoxicar",
-      "url": "https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "lady on my body!",
-        "url": "https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1"
+        "name": "Viento Feroz",
+        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
       },
       "artists": [
         {
-          "name": "Abnerxd",
-          "url": "https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd"
-        },
-        {
-          "name": "Doe Slurp",
-          "url": "https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74"
+          "name": "Mermelada de Pepino",
+          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
         }
       ],
-      "duration_ms": 143190,
-      "name": "lady on my body!",
-      "url": "https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM"
+      "duration_ms": 196107,
+      "name": "Viento Feroz",
+      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

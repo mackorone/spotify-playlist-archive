@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mxKt6WorzQ.md) - [plain]
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,648 likes - 77 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,675 likes - 77 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mxKt6WorzQ.md) - [plain]
 | 61 | [Slowcomotive](https://open.spotify.com/track/2rjavdrVBB2lkBuW7QvYhS) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Slowcomotive](https://open.spotify.com/album/6Od2gTJG0UboI7FfNbM8RM) | 2:25 |
 | 62 | [Peaceful Train Rumbles to Lull You to Sleep](https://open.spotify.com/track/7uKmCuXCLjAuOJvD3XwAQW) | [F/A/B Binaural](https://open.spotify.com/artist/0QWgnVChTUhPhLTJCmKU6O) | [Calming Train Tones for Soothing Sleep](https://open.spotify.com/album/1H6L3RTJsYPWRHl9e8edgG) | 3:40 |
 | 63 | [Panning 360 Freight Train](https://open.spotify.com/track/0Xkaek8XTnGp7RrhK2NLz5) | [Right On Track](https://open.spotify.com/artist/2yaSX4WVWlMsUiwnzo3vcW) | [Panning 360 Freight Train](https://open.spotify.com/album/0e5KOyVbnPaMpfWA6Vcm7n) | 2:04 |
-| 64 | [Night Train](https://open.spotify.com/track/56r1nUtDLZcSs8nHfMoNXz) | [The American Railway](https://open.spotify.com/artist/2XvIJQ4i2vTtf5Br94eFb6) | [Night Train](https://open.spotify.com/album/7AeKMRp3pXrLnzhkOAnjkd) | 5:56 |
+| 64 | [Night Train](https://open.spotify.com/track/56r1nUtDLZcSs8nHfMoNXz) | [Ilkley Rvr](https://open.spotify.com/artist/03XL5jHJbnEGr0KeTmAOSo) | [Night Train](https://open.spotify.com/album/7AeKMRp3pXrLnzhkOAnjkd) | 5:56 |
 | 65 | [In Transit](https://open.spotify.com/track/5OUTHKJcTZfB8s3sh2BkxA) | [Traniac](https://open.spotify.com/artist/4UwyKNY22p7LEPPNEWDKaM) | [In Transit](https://open.spotify.com/album/0gLuxzoRQtqLXqlRr6QRhA) | 3:02 |
 | 66 | [Calming Trains Passing](https://open.spotify.com/track/3ECW5iX2Ec99jRqysjTjLG) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 3:42 |
 | 67 | [Zermatt Express](https://open.spotify.com/track/0k8DZ7A5lOQpKt2SODR4Qm) | [Tray N](https://open.spotify.com/artist/2bNilsq819ehowEstD1hiE) | [Zermatt Express](https://open.spotify.com/album/1enQdrcdq5O6BQvycRZ3FC) | 4:12 |

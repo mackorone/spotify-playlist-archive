@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 325 songs - 21 hr 0 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 326 songs - 21 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -328,10 +328,11 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 318 | [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 |
 | 319 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 |
 | 320 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
-| 321 | [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:55 |
-| 322 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
+| 321 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
+| 322 | [The Great Below](https://open.spotify.com/track/7LBWAib31Cthfz2KoI611Z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 5:17 |
 | 323 | [Piano that may not be played that well](https://open.spotify.com/track/5dH2YsWmbDhVgFrESQrMDk) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapters 3+4 \(Original Game Soundtrack\)](https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P) | 0:42 |
 | 324 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 325 | [Changes](https://open.spotify.com/track/5QdBAG8cpZhM3kIAQLDRN2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 4:42 |
+| 326 | [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2ssyECwAX5JxtcAUTFw7wI) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:55 |
 
-Snapshot ID: `AAAEAew6juD2CiDQaV8gFP99gfQ1QyMW`
+Snapshot ID: `AAAEBQDsOH28tBKFArXEeWgPHeS96FLA`

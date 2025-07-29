@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de vară
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,142 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,143 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 32 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
 | 33 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 34 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
-| 35 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 |
-| 36 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
+| 35 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
+| 36 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 |
 | 37 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
-| 38 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 |
-| 39 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 |
+| 38 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 |
+| 39 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 |
 | 40 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
 | 41 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 42 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |

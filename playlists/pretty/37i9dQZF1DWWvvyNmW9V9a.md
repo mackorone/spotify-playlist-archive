@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > In a room full of people sombr looks for Addison 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,433 likes - 93 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,394 likes - 93 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 14 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 15 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 16 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
-| 17 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 17 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 18 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
 | 19 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
 | 20 | [Dumb Girl](https://open.spotify.com/track/7zzUqihj2HS2NhOOmWWTJj) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/65tHdjAgNth0Vm7JrEYn1v) | 3:11 |

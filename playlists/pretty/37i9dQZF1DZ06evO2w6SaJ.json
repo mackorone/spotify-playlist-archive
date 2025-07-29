@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6720,
+  "num_followers": 6729,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAzdccXtKR/nGgG9QeFQutq",
+  "snapshot_id": "aIVsAAAAAABqHiiWS1BUO9/nLL7yYNog",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Standing",
-        "url": "https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Hurt You So Bad",
+      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GlitchGang (Remix)",
+        "url": "https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb"
       },
       "artists": [
         {
@@ -126,23 +142,7 @@
       ],
       "duration_ms": 144818,
       "name": "GlitchGang (Remix)",
-      "url": "https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Hurt You So Bad",
-      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
+      "url": "https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax"
     },
     {
       "added_at": null,
@@ -367,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "Leeches",
+        "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Ray Garrison",
+          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
         }
       ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
+      "duration_ms": 212623,
+      "name": "Leeches",
+      "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leeches",
-        "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Ray Garrison",
-          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
         }
       ],
-      "duration_ms": 212623,
-      "name": "Leeches",
-      "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,

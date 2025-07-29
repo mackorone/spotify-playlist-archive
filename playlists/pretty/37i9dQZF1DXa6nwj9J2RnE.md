@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,049 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,053 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

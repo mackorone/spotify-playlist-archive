@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 826109,
+  "num_followers": 826272,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Giros",
-        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "11 Y 6",
-      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 247453,
       "name": "Un Osito de Peluche de Taiw\u00e1n",
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Giros",
+        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "11 Y 6",
+      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "GUAU!",
         "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 237800,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 218440,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 281920,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "La Declaraci\u00f3n",
-        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 258826,
       "name": "La Noche Sin T\u00ed",
       "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "La Declaraci\u00f3n",
+        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+      "duration_ms": 242932,
+      "name": "Un Dia Perfecto",
+      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 242932,
-      "name": "Un Dia Perfecto",
-      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Un Misil En Mi Placard - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Un Misil En Mi Placard - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Pasos Al Costado",
-        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 240703,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+        "name": "Pasos Al Costado",
+        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+      "duration_ms": 240703,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1403,6 +1387,38 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+    },
+    {
+      "added_at": "2025-07-22 18:43:48",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Canci\u00f3n para Mi Muerte",
+      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1443,22 +1459,6 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
-    },
-    {
-      "added_at": "2025-07-22 18:43:48",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Canci\u00f3n para Mi Muerte",
-      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
     },
     {
       "added_at": "2025-07-22 18:43:48",
@@ -1515,18 +1515,26 @@
     {
       "added_at": "2025-07-22 18:43:48",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

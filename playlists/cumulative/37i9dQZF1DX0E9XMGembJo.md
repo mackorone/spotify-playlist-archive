@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-703 songs - 1 day 14 hr 23 min
+704 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2021-12-29 | 2022-05-14 |
 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 | 2025-07-11 |  |
 | [Heavy Hearted](https://open.spotify.com/track/3yXgttblOo006gd4eGOvw1) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Heavy Hearted](https://open.spotify.com/album/6TqyOjnzxtdboeo8XiSYcj) | 4:16 | 2022-04-14 | 2022-04-16 |
-| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-12-29 |  |
+| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-12-29 | 2025-07-29 |
 | [HELLO](https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [HELLO](https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25) | 2:42 | 2022-04-01 | 2022-04-18 |
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2021-12-29 | 2022-07-29 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-03-25 | 2024-06-29 |
@@ -435,7 +435,7 @@
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-10 |  |
 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 | 2023-01-13 | 2023-02-04 |
 | [Moment](https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Moment](https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d) | 2:12 | 2022-11-04 | 2022-11-12 |
-| [Money is Everything](https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:02 | 2025-06-20 |  |
+| [Money is Everything](https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:02 | 2025-06-20 | 2025-07-29 |
 | [Money Trees](https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 6:26 | 2022-03-28 | 2022-04-17 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-07-25 | 2024-04-19 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-12-28 |
@@ -519,6 +519,7 @@
 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 | 2022-11-11 | 2022-12-08 |
 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-06-06 | 2023-07-15 |
 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 | 2024-05-24 | 2024-06-01 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-28 |  |
 | [Riptide](https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16) | 3:21 | 2022-04-01 | 2025-02-15 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-25 | 2024-04-19 |
 | [Rock It](https://open.spotify.com/track/3gkUWlXM4gDUZbKn5WO3N9) | [Little Red](https://open.spotify.com/artist/74WcfqC2hmUFHEJs0PDqYi) | [Midnight Remember](https://open.spotify.com/album/1ali3G594gMxV4Bl92NTdw) | 3:30 | 2022-03-25 | 2022-04-12 |
@@ -654,7 +655,7 @@
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-06 | 2023-03-22 |
 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 | 2022-10-20 | 2024-04-09 |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2021-12-29 | 2022-10-13 |
-| [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 | 2022-03-28 | 2025-07-19 |
+| [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 | 2022-03-28 |  |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2022-07-25 |  |
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-22 | 2022-07-25 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-28 | 2024-07-19 |

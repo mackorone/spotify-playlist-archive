@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 588668,
+  "num_followers": 588712,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACUeHKMwnl9/opwSi2RkWeb",
+  "snapshot_id": "aIVsAAAAAAAMKK5v/XJKrqraQ53XylFw",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older + Upper",
-        "url": "https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 295685,
-      "name": "Fastlove, Pt. 2",
-      "url": "https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 242493,
       "name": "Wild Is the Wind",
       "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older + Upper",
+        "url": "https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 295685,
+      "name": "Fastlove, Pt. 2",
+      "url": "https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
       "duration_ms": 355733,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 105946,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 246870,
-      "name": "If You Were My Woman",
-      "url": "https://open.spotify.com/track/2mpPu9931WS9IDrhS6tE1x"
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
     }
   ],
   "unique_name": "This Is George Michael",

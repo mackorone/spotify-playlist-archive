@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Petey USA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,424,152 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,422,704 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

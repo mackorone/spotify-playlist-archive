@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 
 > Grandes temas del rock de ayer y de hoy\. Celebrando 50 años del 'Dressed to Kill' de KISS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,540 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,640 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 15 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
 | 16 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 17 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 18 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
-| 19 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
+| 18 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
+| 19 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 20 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 |
 | 21 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 |
 | 22 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 23 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 24 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
-| 25 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
+| 24 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
+| 25 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 26 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 27 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:17 |
 | 28 | [Don't Look Back in Anger \- Remastered](https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:49 |
 | 29 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 30 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 31 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
-| 32 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
-| 33 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
+| 32 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
+| 33 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
 | 34 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
 | 35 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
 | 36 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 42 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
 | 43 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 44 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
-| 45 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
-| 46 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 |
+| 45 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 |
+| 46 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 47 | [Plush](https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 5:10 |
 | 48 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
 | 49 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
-| 50 | [Vertigo](https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:13 |
+| 50 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 
 Snapshot ID: `Z+87BgAAAAAaY0el4yQeIr9OP3bSsnSL`

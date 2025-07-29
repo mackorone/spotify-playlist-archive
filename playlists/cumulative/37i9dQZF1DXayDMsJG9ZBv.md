@@ -4,7 +4,7 @@
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: BLACKPINK
 
-758 songs - 1 day 19 hr 49 min
+759 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-19 | 2024-04-05 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-17 | 2023-05-09 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-16 | 2024-10-18 |
-| [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-24 |  |
+| [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-24 | 2025-07-29 |
 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-04-17 | 2023-04-22 |
 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 | 2023-04-21 | 2023-04-25 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-26 |  |
@@ -428,6 +428,7 @@
 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-25 | 2023-11-08 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-09-04 | 2024-01-16 |
 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-05 | 2024-03-29 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-28 |  |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-13 | 2023-04-11 |
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-03-06 | 2025-04-18 |
 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 | 2025-04-17 | 2025-06-13 |

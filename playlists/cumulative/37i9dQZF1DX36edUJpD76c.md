@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Luciano
 
-58 songs - 2 hr 34 min
+59 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 | 2025-07-17 |  |
 | [Alles oder Nix](https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu) | 4:12 | 2025-07-17 |  |
 | [Anders](https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Edin](https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa) | [Anders](https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj) | 3:24 | 2025-07-24 |  |
+| [Antalya](https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [Antalya](https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz) | 2:36 | 2025-07-28 |  |
 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 | 2025-07-17 |  |
 | [Bei dir](https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Bei dir](https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk) | 2:38 | 2025-07-17 |  |
 | [Big Boy](https://open.spotify.com/track/3lviRnxqGTGtOZu90fvqgw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Big Boy](https://open.spotify.com/album/6YRiKZgNzHLq23shJOCIqR) | 2:46 | 2025-07-24 |  |
@@ -48,7 +49,7 @@
 | [PLUS EINS](https://open.spotify.com/track/1pPHHKZZoyXJvnMaHJtkww) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [PLUS EINS](https://open.spotify.com/album/1HS1xsWQS8IQcBrjgWVC9x) | 2:21 | 2025-07-17 |  |
 | [Reggaeton](https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Reggaeton](https://open.spotify.com/album/2IvWfJoEYFRNNNOdMqX7QE) | 2:30 | 2025-07-17 | 2025-07-25 |
 | [Roulette](https://open.spotify.com/track/6PieJIdEWkf1GUoZTJWx1b) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Roulette](https://open.spotify.com/album/539SeSEFXI4DToEbUY6XxL) | 2:21 | 2025-07-17 |  |
-| [RS7](https://open.spotify.com/track/1NXEkfWUKNoEQ1Ve2HoO9w) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Soufian](https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE) | [RS7](https://open.spotify.com/album/6hpv3u2QBfPn1N8UDKMJC8) | 2:11 | 2025-07-17 |  |
+| [RS7](https://open.spotify.com/track/1NXEkfWUKNoEQ1Ve2HoO9w) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Soufian](https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE) | [RS7](https://open.spotify.com/album/6hpv3u2QBfPn1N8UDKMJC8) | 2:11 | 2025-07-17 | 2025-07-29 |
 | [Run Run](https://open.spotify.com/track/27dn9ZTwGj5uZjIQPulwAE) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Run Run](https://open.spotify.com/album/5JxlJGXiIRwsA2RPM9PTso) | 2:06 | 2025-07-17 |  |
 | [Scherbenhaus](https://open.spotify.com/track/1ehSSVqtdKXUqFxklpRjRX) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:51 | 2025-07-24 |  |
 | [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 | 2025-07-17 |  |

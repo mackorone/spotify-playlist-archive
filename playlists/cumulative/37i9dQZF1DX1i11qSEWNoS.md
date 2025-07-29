@@ -4,7 +4,7 @@
 
 > und macht laune
 
-311 songs - 14 hr 29 min
+312 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2023-07-21 |  |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-07-21 |  |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-03-06 |  |
+| [BLING BLING](https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [BLING BLING](https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8) | 2:27 | 2025-07-24 |  |
 | [Blonde Chaya \- Sped up](https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped up\)](https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY) | 3:01 | 2023-10-20 | 2023-11-22 |
 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 | 2023-11-17 | 2024-01-21 |
 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-05-15 |  |
@@ -246,7 +247,7 @@
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-04-10 |  |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-08-18 | 2024-05-11 |
-| [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2024-02-16 |  |
+| [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2024-02-16 | 2025-07-29 |
 | [Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Secco Maracuja \(feat\. Themba\)](https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH) | 2:39 | 2023-07-21 | 2023-09-08 |
 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 | 2023-07-21 | 2025-07-02 |
 | [Semers Sirenen](https://open.spotify.com/track/5Hcp4HSrACxWkqoMx6eaBc) | [Mara Menace](https://open.spotify.com/artist/0gHeuBqqupAKjuSTsutl0g), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Semers Sirenen](https://open.spotify.com/album/5ES7185TkLyhAuiLOdvnGb) | 6:18 | 2023-12-28 | 2024-01-02 |

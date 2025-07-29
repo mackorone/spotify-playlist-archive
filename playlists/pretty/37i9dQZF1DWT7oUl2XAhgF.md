@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Hermanos Gutiérrez x Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,331 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,439 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 22 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 23 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 |
 | 24 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 |
-| 25 | [Dreaming](https://open.spotify.com/track/0scJw0FWIuCIYmy1oyhVud) | [Taylor Williams](https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F) | [Dreaming](https://open.spotify.com/album/5qKeXbW7HY6yxXHBZmW5EP) | 2:50 |
+| 25 | [Dreaming](https://open.spotify.com/track/0scJw0FWIuCIYmy1oyhVud) | [Taylor Williams](https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F), [Leroi Conroy](https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw) | [Dreaming](https://open.spotify.com/album/5qKeXbW7HY6yxXHBZmW5EP) | 2:50 |
 | 26 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
 | 27 | [Punchin'](https://open.spotify.com/track/6dDgxIyzALkKPtSQRFmX3P) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Punchin'](https://open.spotify.com/album/24nNZxJjjObwnTf0sqXvmU) | 3:09 |
 | 28 | [Puppet On Your String](https://open.spotify.com/track/3TZvgDK4BNmaAUGX6Ik90R) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Audience With the Queen](https://open.spotify.com/album/5apzPGL9pMN4bLMaNG4pQ6) | 4:19 |

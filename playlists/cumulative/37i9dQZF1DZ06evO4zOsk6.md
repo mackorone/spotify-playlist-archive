@@ -4,7 +4,7 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 43 min
+67 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,15 +13,16 @@
 | [Criatura Misteriosa \(En Vivo\)](https://open.spotify.com/track/1lNOh95xYwn0JmtECerJpt) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 4:39 | 2023-08-25 |  |
 | [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 | 2023-08-25 |  |
 | [Culpable](https://open.spotify.com/track/79tGltolVrUMbxy7NUdq2J) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 2:37 | 2023-08-25 |  |
-| [Cómo Estás](https://open.spotify.com/track/3QBq430wLlZjsDn9WlK3GD) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:30 | 2025-07-27 |  |
+| [Cómo Estás](https://open.spotify.com/track/3QBq430wLlZjsDn9WlK3GD) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:30 | 2025-07-27 | 2025-07-29 |
 | [Cómo estás \(En vivo\)](https://open.spotify.com/track/1fHlONl6pMBC9zc4Qh76XQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Acústico en el Gran Teatro Nacional \(En vivo\)](https://open.spotify.com/album/4GhkQaLNEGLF22fxsn8kFV) | 4:27 | 2023-08-25 | 2024-10-12 |
 | [Debí decir que no](https://open.spotify.com/track/6MFp3LAgfCKFKmpNllLI3K) | [Jet Rodeo](https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM), [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Debí decir que no](https://open.spotify.com/album/5o9IDJby9JX093elzIItHT) | 3:41 | 2024-05-19 | 2024-05-24 |
 | [Disparar](https://open.spotify.com/track/5h21CIvNQTXy2Xh91hwVY6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:42 | 2023-08-25 | 2024-07-08 |
-| [El Vampiro](https://open.spotify.com/track/4H7fsXUbdI7k19r06JPujW) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:46 | 2025-07-23 |  |
+| [El Vampiro](https://open.spotify.com/track/4H7fsXUbdI7k19r06JPujW) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:46 | 2025-07-23 | 2025-07-29 |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2023-08-25 |  |
-| [Espermato](https://open.spotify.com/track/5pWZ2OXVkXGme8VhO2Uzn6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 2:47 | 2025-07-23 |  |
-| [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 |  |
-| [Estoy Tan Gris](https://open.spotify.com/track/3yiDtHpGDR9BDCIooRjggY) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:36 | 2025-07-23 |  |
+| [Espermato](https://open.spotify.com/track/5pWZ2OXVkXGme8VhO2Uzn6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 2:47 | 2025-07-23 | 2025-07-29 |
+| [Esther Fe](https://open.spotify.com/track/4O6xZJ2wkXXiEMfTRRhwc0) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:52 | 2025-07-29 |  |
+| [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 | 2025-07-29 |
+| [Estoy Tan Gris](https://open.spotify.com/track/3yiDtHpGDR9BDCIooRjggY) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:36 | 2025-07-23 | 2025-07-29 |
 | [Estoy Tan Gris](https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:48 | 2023-08-25 | 2024-11-09 |
 | [Fantasma](https://open.spotify.com/track/7zVdRFV3Uv2eiHXVcUx3fO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:42 | 2023-08-25 | 2024-07-08 |
 | [Fantasma \(En Vivo\)](https://open.spotify.com/track/6nITBK0KfnuoP7RJ8Mmfoi) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 | 2024-07-19 |  |
@@ -31,7 +32,8 @@
 | [Hambre \(En Vivo\)](https://open.spotify.com/track/0UJj05XrM71OCDuwYqPX88) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 3:57 | 2023-08-25 |  |
 | [Hembra](https://open.spotify.com/track/16sX7ktvlTcYWjHlJtKxZ7) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:11 | 2023-08-25 |  |
 | [Igual Que Ayer](https://open.spotify.com/track/4hkZKqqskYe2KzV9n8TOaT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:27 | 2023-08-25 |  |
-| [Invencible](https://open.spotify.com/track/0mYrJUHGtN009Z9A9LEymM) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 2:55 | 2023-08-25 |  |
+| [Invencible](https://open.spotify.com/track/0qtjPIZo1hA9ow9f7VnDDA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 2:55 | 2025-07-29 |  |
+| [Invencible](https://open.spotify.com/track/0mYrJUHGtN009Z9A9LEymM) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 2:55 | 2023-08-25 | 2025-07-29 |
 | [La Casa de los Gritos](https://open.spotify.com/track/0DhKIRnmgScffC5lhTulQ0) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 2:36 | 2023-08-25 |  |
 | [La Mujer](https://open.spotify.com/track/2EvrCdXPxTlvjBYzlDsJnT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 3:16 | 2023-08-25 |  |
 | [Libido](https://open.spotify.com/track/1N394dXTpjm6UDHJ89koXK) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 4:58 | 2023-08-25 |  |
@@ -59,7 +61,8 @@
 | [Salvaciones \(En Vivo\)](https://open.spotify.com/track/2Mkc4hDegyejz9zobFxXkr) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 3:36 | 2023-08-25 | 2025-05-21 |
 | [Sed](https://open.spotify.com/track/4pAUE8Xf67tbhXK26TSAcQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 1:53 | 2023-08-25 |  |
 | [Sentir Que Hoy](https://open.spotify.com/track/689JndbnnR4l3KeVE0dQlR) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:30 | 2023-08-25 |  |
-| [Sin Rencor](https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 4:39 | 2023-08-25 |  |
+| [Sin Rencor](https://open.spotify.com/track/53xgdLYMgkElkQvZrTa7v8) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:39 | 2025-07-29 |  |
+| [Sin Rencor](https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 4:39 | 2023-08-25 | 2025-07-29 |
 | [Something](https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:46 | 2023-08-25 |  |
 | [Tan Suave](https://open.spotify.com/track/17NwlT5t6LX7DbwP3u9jbZ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/30ZEtM3sTLf0N6OTLX4l2m) | 3:42 | 2024-12-01 |  |
 | [Tan Suave](https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:42 | 2023-08-25 | 2024-12-01 |
@@ -68,7 +71,8 @@
 | [Tres](https://open.spotify.com/track/0cIxbSC4rzseQW4ohhnree) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:42 | 2023-08-25 |  |
 | [Un Día Nuevo](https://open.spotify.com/track/5VYZqC5272yRi8tUPJXSxu) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 4:03 | 2023-08-25 |  |
 | [Un Nuevo Juego](https://open.spotify.com/track/5rrgfvJxTPMO1udiE9bufA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:11 | 2024-07-08 |  |
-| [Universo](https://open.spotify.com/track/3tAmyOiJOpznwi9MvE3APj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:50 | 2023-08-25 |  |
+| [Universo](https://open.spotify.com/track/2LL0qjY8WqM1qvRKVmQ9mB) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:50 | 2025-07-29 |  |
+| [Universo](https://open.spotify.com/track/3tAmyOiJOpznwi9MvE3APj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:50 | 2023-08-25 | 2025-07-29 |
 | [Vientos y Amarguras](https://open.spotify.com/track/3EMDgB880IOf11eZXSaw33) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 2:36 | 2023-08-25 |  |
 | [Y Vuelves a Aparecerte](https://open.spotify.com/track/24S0H05hCJtzasYcrm6ngJ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:44 | 2023-08-25 |  |
 

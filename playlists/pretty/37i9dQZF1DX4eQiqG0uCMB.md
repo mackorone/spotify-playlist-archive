@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,262 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,284 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 13 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
 | 14 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 |
 | 15 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
-| 16 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
-| 17 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 16 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 17 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
 | 18 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 19 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 |
 | 20 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
-| 21 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
-| 22 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 21 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 22 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
 | 23 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 24 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 25 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 42 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 43 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
 | 44 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 45 | [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 |
-| 46 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
+| 45 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
+| 46 | [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 |
 | 47 | [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:33 |
 | 48 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
 | 49 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |

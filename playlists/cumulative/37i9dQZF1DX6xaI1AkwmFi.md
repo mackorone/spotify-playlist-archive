@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-453 songs - 1 day 2 hr 15 min
+454 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BABY CHAOS](https://open.spotify.com/track/6ufv6uhkSARQyDDtglYpj9) | [GIRLS HERO](https://open.spotify.com/artist/2MxT61zWTWlcqPTIuDWWzA) | [BABY CHAOS](https://open.spotify.com/album/5iE0UUNuhxeIUqRo8rrpKe) | 2:22 | 2023-11-23 | 2023-11-29 |
 | [Bakemon](https://open.spotify.com/track/0HhtHyb8lvyB6SZpwxoSev) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Bakemon](https://open.spotify.com/album/7x7fVxpV7KJykT5g978GLM) | 3:56 | 2024-02-09 | 2024-02-21 |
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-11-23 | 2023-11-29 |
+| [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-07-23 |  |
 | [BFF](https://open.spotify.com/track/0UphESovufBGWK0Npk1sHu) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:35 | 2024-03-05 | 2024-04-03 |
 | [BFF](https://open.spotify.com/track/3YwIFcgXFrTwQMlLpHM0lT) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [weekday](https://open.spotify.com/album/78KVeLhWFA4tDmb7DaMBic) | 3:35 | 2024-03-05 | 2024-03-07 |
 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 | 2024-10-23 | 2024-11-13 |
@@ -296,7 +297,7 @@
 | [シャラランデヴー](https://open.spotify.com/track/3SCd7CySMBfyE1ZhJLtiOH) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [シャラランデヴー](https://open.spotify.com/album/0vpcPQ7Rveh5iDEZvAe3Xt) | 3:10 | 2024-10-23 | 2024-11-20 |
 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2024-04-17 |  |
-| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-09 |  |
+| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-09 | 2025-07-29 |
 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-11-23 | 2025-07-24 |
 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 | 2024-01-23 | 2024-02-07 |
 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 | 2025-05-27 |  |

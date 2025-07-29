@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,283 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,483 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 24 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 | 25 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
 | 26 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
-| 27 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
-| 28 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 |
+| 27 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 |
+| 28 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:31 |
 | 29 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
-| 30 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:31 |
+| 30 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 31 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
 | 32 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
 | 33 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Whoever You Turn Out to Be](https://open.spotify.com/track/09CXwVGMfxcRdOJQbiCJT6) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 |
 | 50 | [Used to You](https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Used to You](https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs) | 3:56 |
 
-Snapshot ID: `aIQagAAAAACSoQdkKdYoQa8ygKq40QZ5`
+Snapshot ID: `aIVsAAAAAAAu8OCE/jlvBJDg48ytMcmM`

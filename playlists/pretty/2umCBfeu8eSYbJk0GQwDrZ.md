@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,394 likes - 111 songs - 6 hr 25 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,386 likes - 111 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 10 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 11 | [Tulips](https://open.spotify.com/track/2gNhoBcE4TdPHfbBeUzKAb) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt'd \(deluxe\)](https://open.spotify.com/album/1T2014qB6n5220jO0ATBgx) | 2:42 |
 | 12 | [Fan Service](https://open.spotify.com/track/2pNzXIE5vd4akAg0phpy5O) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Fan Service](https://open.spotify.com/album/6Xa5Zo5369G3xsGhOF4tBZ) | 1:54 |
-| 13 | [Leaving Is Easy \(feat\. Donovan Woods\)](https://open.spotify.com/track/0mKknvF5dphJZouu3nBBko) | [Breagh Isabel](https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs) | [Things I Never Told You](https://open.spotify.com/album/4b9pJDO1HbELw9MHkOOp7P) | 3:24 |
+| 13 | [Leaving Is Easy \(feat\. Donovan Woods\)](https://open.spotify.com/track/0mKknvF5dphJZouu3nBBko) | [Breagh Isabel](https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Things I Never Told You](https://open.spotify.com/album/4b9pJDO1HbELw9MHkOOp7P) | 3:24 |
 | 14 | [Save Your Tears](https://open.spotify.com/track/4vpGFbrj3JDGwxFDdisFcg) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:26 |
 | 15 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/72uSrGrIdFXdzTLhsmU65O) | 2:30 |
 | 16 | [Seed](https://open.spotify.com/track/3iMj8uSw3w0J5MCnGnpXpl) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Seed](https://open.spotify.com/album/4DqIeJJWh804nKXbF7A1kR) | 4:33 |

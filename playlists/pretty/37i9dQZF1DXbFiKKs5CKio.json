@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 69596,
+  "num_followers": 69621,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-07-25 16:01:26",
       "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
-    },
-    {
-      "added_at": "2025-07-25 16:01:26",
-      "album": {
         "name": "O Amor e Suas Vari\u00e1veis",
         "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 152630,
       "name": "De Boa",
       "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
+    },
+    {
+      "added_at": "2025-07-25 16:01:26",
+      "album": {
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     },
     {
       "added_at": "2025-07-25 16:01:26",
@@ -667,30 +667,6 @@
     {
       "added_at": "2025-07-25 16:01:26",
       "album": {
-        "name": "Inspirar",
-        "url": "https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g"
-      },
-      "artists": [
-        {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Flavia K",
-          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 262105,
-      "name": "Inspirar",
-      "url": "https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG"
-    },
-    {
-      "added_at": "2025-07-25 16:01:26",
-      "album": {
         "name": "Theodoro Nag\u00f4: We4Sessions",
         "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 154958,
       "name": "Flor",
       "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
+    },
+    {
+      "added_at": "2025-07-25 16:01:26",
+      "album": {
+        "name": "Inspirar",
+        "url": "https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g"
+      },
+      "artists": [
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        },
+        {
+          "name": "Flavia K",
+          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "Inspirar",
+      "url": "https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG"
     },
     {
       "added_at": "2025-07-25 16:01:26",

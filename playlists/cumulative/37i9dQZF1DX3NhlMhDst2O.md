@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3NhlMhDst2O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3NhlMhDst2O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3NhlMhDst2O)
 
-### [Sonidos del Ayer](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
+### [Radio Recuerdo](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
 
-> el primer tonto de tu vida quiero ser 🥺🥀😭
+> Sintoniza los éxitos románticos del siglo pasado 🥀
 
-172 songs - 9 hr 27 min
+173 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 | 2023-01-04 |  |
 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 | 2023-01-04 |  |
 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 | 2024-11-06 |  |
+| [Siempre Estoy Pensando en Ella](https://open.spotify.com/track/5NqBvjxFa4Depd6VFhefjG) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Siempre Estoy Pensando en Ella](https://open.spotify.com/album/24UqV0ZmTxSeLGG5V3lyAg) | 3:43 | 2025-07-29 |  |
 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 | 2023-01-04 |  |
 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 | 2024-11-06 | 2024-12-17 |
 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 | 2023-01-04 |  |
@@ -165,7 +166,7 @@
 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 | 2024-12-16 |  |
 | [Una Sola Caída](https://open.spotify.com/track/4oJxSefLxw6t1mjqEJcXsr) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 2:53 | 2023-11-06 | 2024-04-19 |
 | [Una Sola Caída](https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 2:56 | 2023-11-06 |  |
-| [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 | 2024-11-06 |  |
+| [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 | 2024-11-06 | 2025-07-29 |
 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 | 2023-01-04 |  |
 | [Viviras](https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Viviras](https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee) | 3:35 | 2024-11-06 |  |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2023-01-04 |  |

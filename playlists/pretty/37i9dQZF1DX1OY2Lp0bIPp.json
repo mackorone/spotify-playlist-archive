@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 645101,
+  "num_followers": 645113,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
         }
       ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -375,22 +391,6 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Wheatus",
-        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -655,8 +655,8 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "The Blueprint 3",
-        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
       "artists": [
         {
@@ -664,17 +664,13 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 267520,
-      "name": "Run This Town",
-      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -743,8 +739,8 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
       "artists": [
         {
@@ -752,13 +748,17 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+      "duration_ms": 267520,
+      "name": "Run This Town",
+      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Four Tops - Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Four Tops - Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1003,6 +987,22 @@
       "duration_ms": 181573,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Runnin' (Lose It All)",
         "url": "https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 213019,
       "name": "Runnin' (Lose It All)",
       "url": "https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Blossoms",
-        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 166791,
-      "name": "Charlemagne",
-      "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "I Ain't Movin'",
         "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 245200,
       "name": "You Gotta Be",
       "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Blossoms",
+        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 166791,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation",
-        "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Let's Hear It for the Boy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 262440,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
       "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation",
+        "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
     },
     {
       "added_at": "2024-03-20 18:24:49",

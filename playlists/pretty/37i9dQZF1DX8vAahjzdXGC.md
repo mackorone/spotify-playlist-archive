@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Geisha,  MALIQ & D'Essentials, Sam Smith, Daniel Ceasar dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,026 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,069 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [YOURS \(TONIGHT\)](https://open.spotify.com/track/15tHdxOUY51MdJkxbA73jX) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOURS \(TONIGHT\)](https://open.spotify.com/album/7xTtkJm1dgJOOn7jInhU2n) | 3:07 |
 | 102 | [Shadowless Dance](https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [Shadowless Dance](https://open.spotify.com/album/73xj05nSCflpkAWZoHba2y) | 2:52 |
 | 103 | [Just Like Sunny](https://open.spotify.com/track/4mHqYUBsqpv479cEsJelzp) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Just Like Sunny](https://open.spotify.com/album/3cFGleWdQHuzReXLuzAxdm) | 2:56 |
-| 104 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 104 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 105 | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/track/4GojOaaXHYF8sX4u4jLjYJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/album/5o2lFirzSh3KUCTJYB372W) | 2:46 |
 | 106 | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/track/2KeVyyc99Tppp8Ad1Cm2ph) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/album/7F8ATHmFJnPTKyXXiuUXEA) | 3:04 |
 | 107 | [VIBEGLO](https://open.spotify.com/track/0NYUJlsDbscqWZdU3JyPXI) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [VIBEGLO](https://open.spotify.com/album/1MA6KsoqXfiSnCJp292ssR) | 3:02 |

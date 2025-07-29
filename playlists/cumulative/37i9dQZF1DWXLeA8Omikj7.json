@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 422853,
       "name": "Dance of Seasons",
       "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 213897,
       "name": "I Cannot I",
       "url": "https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF"
@@ -16319,6 +16319,28 @@
     },
     {
       "album": {
+        "name": "Spider Ballad",
+        "url": "https://open.spotify.com/album/4ZqtS7gozAe9gcsau9HmMw"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455419,
+      "name": "Spider Ballad",
+      "url": "https://open.spotify.com/track/6AfXAFKkqmp6EsJWxHXihQ"
+    },
+    {
+      "album": {
         "name": "Spike",
         "url": "https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs"
       },
@@ -19656,7 +19678,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 247559,
       "name": "Waiting on You",
       "url": "https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R"

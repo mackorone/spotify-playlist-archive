@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10843,
+  "num_followers": 10842,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Ona M\u00f3wi",
+        "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Ona M\u00f3wi",
+      "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "Prawie straci\u0142em g\u0142os",
         "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
       },
@@ -211,26 +235,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "Ona M\u00f3wi",
-        "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
       },
       "artists": [
         {
-          "name": "730 Huncho",
-          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
         },
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Kazior",
-          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
         }
       ],
-      "duration_ms": 152470,
-      "name": "Ona M\u00f3wi",
-      "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
+      "duration_ms": 202054,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -259,26 +279,6 @@
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 202054,
-      "name": "MAMA POWTARZA\u0141A",
-      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "Zapiski z Landary",
-        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        },
-        {
-          "name": "Hemp Gru",
-          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
-        }
-      ],
-      "duration_ms": 216869,
-      "name": "Tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "LEVEL DOWN",
         "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
       },
@@ -1199,22 +1175,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DRUGI RAZ",
-        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
+        "name": "Zapiski z Landary",
+        "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
       },
       "artists": [
         {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
         },
         {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        },
+        {
+          "name": "Hemp Gru",
+          "url": "https://open.spotify.com/artist/5xT1vs5QIozPsaUdUC5UjC"
         }
       ],
-      "duration_ms": 127692,
-      "name": "DRUGI RAZ",
-      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
+      "duration_ms": 216869,
+      "name": "Tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1239,26 +1219,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "A co, je\u015bli si\u0119 uda? (1989 Musical)",
-        "url": "https://open.spotify.com/album/13PpDhgpA9XQ6OrtzkjOc2"
+        "name": "DRUGI RAZ",
+        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
       },
       "artists": [
         {
-          "name": "\u0141ona I Webber",
-          "url": "https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO"
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
         },
         {
-          "name": "Teatr im. Juliusza S\u0142owackiego w Krakowie",
-          "url": "https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL"
-        },
-        {
-          "name": "GDA\u0143SKI TEATR SZEKSPIROWSKI",
-          "url": "https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs"
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
         }
       ],
-      "duration_ms": 250862,
-      "name": "A co, je\u015bli si\u0119 uda? - 1989 Musical",
-      "url": "https://open.spotify.com/track/24t6BlxeSZQutmFglHchu9"
+      "duration_ms": 127692,
+      "name": "DRUGI RAZ",
+      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1279,6 +1255,30 @@
       "duration_ms": 177103,
       "name": "GRABEN",
       "url": "https://open.spotify.com/track/5YtI4iiYGprhUWnWqbLSH8"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "A co, je\u015bli si\u0119 uda? (1989 Musical)",
+        "url": "https://open.spotify.com/album/13PpDhgpA9XQ6OrtzkjOc2"
+      },
+      "artists": [
+        {
+          "name": "\u0141ona I Webber",
+          "url": "https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO"
+        },
+        {
+          "name": "Teatr im. Juliusza S\u0142owackiego w Krakowie",
+          "url": "https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL"
+        },
+        {
+          "name": "GDA\u0143SKI TEATR SZEKSPIROWSKI",
+          "url": "https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "A co, je\u015bli si\u0119 uda? - 1989 Musical",
+      "url": "https://open.spotify.com/track/24t6BlxeSZQutmFglHchu9"
     },
     {
       "added_at": "2025-04-24 21:35:46",

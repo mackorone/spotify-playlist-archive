@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 
 > Reps, riffs, rest, repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,092 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,073 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 | 7 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 8 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
 | 9 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
-| 10 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 11 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
+| 10 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
+| 11 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 12 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 13 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 |
 | 14 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 | 31 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
 | 32 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 33 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
-| 34 | [MANTRA](https://open.spotify.com/track/060RNnzoMay3wKJek1faPc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:53 |
+| 34 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 35 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
 | 36 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
 | 37 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
 | 38 | [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 |
-| 39 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
+| 39 | [MANTRA](https://open.spotify.com/track/060RNnzoMay3wKJek1faPc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:53 |
 | 40 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
 | 41 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:32 |
 | 42 | [Seize the Power](https://open.spotify.com/track/794IGyga5qnhlzOUimLOMw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 | 45 | [Dark Void](https://open.spotify.com/track/76DODhl0vwR4CpWKexVF4U) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:52 |
 | 46 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
 | 47 | [The Emperor](https://open.spotify.com/track/4CtqY9iFkMwCz1pewf0t90) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 2:55 |
-| 48 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 49 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
+| 48 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
+| 49 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 50 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 |
 
 Snapshot ID: `ZppTQAAAAAAIjVjuBb3UtqRnGQgk1I1s`

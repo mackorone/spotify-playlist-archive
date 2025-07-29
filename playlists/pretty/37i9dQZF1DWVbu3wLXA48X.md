@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,636 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,632 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 59 | [Stupefied](https://open.spotify.com/track/4W8ZloZDeY01EwvnWZASLp) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Stupefied](https://open.spotify.com/album/6SO2nPUIEM1QyajFjqigUw) | 3:05 |
 | 60 | [You'll Find Lovers Like You and Me](https://open.spotify.com/track/6BQiGGlPp294KMLYQMmS0C) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [You'll Find Lovers Like You and Me](https://open.spotify.com/album/7Fqm1j72ZIaBOazURTNRAj) | 3:29 |
 | 61 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 |
-| 62 | [Remember! \(English Version\)](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
+| 62 | [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
 | 63 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
 | 64 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 | 65 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,886 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,899 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 12 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
 | 13 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |
 | 14 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
-| 15 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 |
-| 16 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
+| 15 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
+| 16 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 |
 | 17 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
 | 18 | [AYA](https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl) | 3:16 |
 | 19 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 31 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |
 | 32 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |
 | 33 | [RARRii](https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT) | 2:47 |
-| 34 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
-| 35 | [Taştan](https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug) | 2:56 |
+| 34 | [Taştan](https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug) | 2:56 |
+| 35 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
 | 36 | [Güzelim](https://open.spotify.com/track/1xh4TN6flr8m751YFr2r9M) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Güzelim](https://open.spotify.com/album/5nYqLxjjZf7PVJfMtZH5yq) | 3:03 |
 | 37 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
 | 38 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 |

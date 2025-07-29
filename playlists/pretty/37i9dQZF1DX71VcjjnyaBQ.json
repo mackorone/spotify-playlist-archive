@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 426958,
+  "num_followers": 426999,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,34 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 226766,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
@@ -443,34 +471,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 226766,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -483,6 +483,34 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "The Lion Turtle",
+        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 515253,
+      "name": "The Lion Turtle",
+      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -519,30 +547,18 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "The Lion Turtle",
-        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
       },
       "artists": [
         {
-          "name": "Oded Tzur",
-          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        },
-        {
-          "name": "Petros Klampanis",
-          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
-        },
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 515253,
-      "name": "The Lion Turtle",
-      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -563,34 +579,18 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
         }
       ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
       "artists": [
         {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
         }
       ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -727,6 +727,58 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -751,22 +803,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -783,26 +819,6 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -855,26 +871,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
         "url": "https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV"
       },
@@ -911,6 +907,26 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -931,6 +947,22 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -959,22 +991,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 280011,
       "name": "Blues Arabesque",
       "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 308786,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1135,22 +1111,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
@@ -1171,6 +1131,74 @@
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
+      },
+      "artists": [
+        {
+          "name": "Mads Hansen",
+          "url": "https://open.spotify.com/artist/6iKV4zoLGRiV89fT1hbjSF"
+        },
+        {
+          "name": "Mathias Heise",
+          "url": "https://open.spotify.com/artist/28ii7dRvo99jXy6NikDOWk"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Kaspar Vadsholt",
+          "url": "https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 255746,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Voor Jou Yvonne",
+        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
+      },
+      "artists": [
+        {
+          "name": "Bill Weeds",
+          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 461190,
+      "name": "Voor Jou Yvonne",
+      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1231,58 +1259,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Voor Jou Yvonne",
-        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
-      },
-      "artists": [
-        {
-          "name": "Bill Weeds",
-          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 461190,
-      "name": "Voor Jou Yvonne",
-      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
-      },
-      "artists": [
-        {
-          "name": "Mads Hansen",
-          "url": "https://open.spotify.com/artist/6iKV4zoLGRiV89fT1hbjSF"
-        },
-        {
-          "name": "Mathias Heise",
-          "url": "https://open.spotify.com/artist/28ii7dRvo99jXy6NikDOWk"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        },
-        {
-          "name": "Kaspar Vadsholt",
-          "url": "https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 255746,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "The Rumor",
         "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
       },
@@ -1339,18 +1315,26 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
       },
       "artists": [
         {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
         }
       ],
-      "duration_ms": 482693,
-      "name": "Softly, as in a Morning Sunrise",
-      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+      "duration_ms": 213823,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1367,6 +1351,46 @@
       "duration_ms": 383626,
       "name": "Have a Day",
       "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 482693,
+      "name": "Softly, as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
+      },
+      "artists": [
+        {
+          "name": "Robert Ke\u00dfler",
+          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
+        },
+        {
+          "name": "Andreas Henze",
+          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
+        },
+        {
+          "name": "Tobias Backhaus",
+          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
+        }
+      ],
+      "duration_ms": 359982,
+      "name": "Theo",
+      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1399,34 +1423,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Smoke Rings",
-        "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
-      },
-      "artists": [
-        {
-          "name": "Chris Cheek",
-          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Tony Scherr",
-          "url": "https://open.spotify.com/artist/6PGc4Sa3iL0Pii7jGS5p0P"
-        },
-        {
-          "name": "Rudy Royston",
-          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
-        }
-      ],
-      "duration_ms": 270339,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/68Bi9EUUa5jNvpD5sEwGOT"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Afternoon Conversations",
         "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
       },
@@ -1451,26 +1447,30 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
       },
       "artists": [
         {
-          "name": "Robert Ke\u00dfler",
-          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
+          "name": "Chris Cheek",
+          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
         },
         {
-          "name": "Andreas Henze",
-          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         },
         {
-          "name": "Tobias Backhaus",
-          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
+          "name": "Tony Scherr",
+          "url": "https://open.spotify.com/artist/6PGc4Sa3iL0Pii7jGS5p0P"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
         }
       ],
-      "duration_ms": 359982,
-      "name": "Theo",
-      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
+      "duration_ms": 270339,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/68Bi9EUUa5jNvpD5sEwGOT"
     },
     {
       "added_at": "2025-07-18 12:27:16",

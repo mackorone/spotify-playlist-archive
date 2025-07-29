@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(20/7/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(27/7/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-185 songs - 9 hr 13 min
+186 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Llamas en el cielo](https://open.spotify.com/track/552jr5jIQTESjFUTlMawOU) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Llamas en el cielo](https://open.spotify.com/album/1WcQK9WDCOKfWkAmvkGmjz) | 2:42 | 2024-04-28 | 2024-09-09 |
 | [Loka](https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Loka](https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp) | 3:01 | 2023-12-03 | 2024-04-15 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-01-28 | 2024-11-11 |
-| [M'ENAMORA](https://open.spotify.com/track/4Lz9pLX0FcM6t1exbt84oo) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [TOT TORNA](https://open.spotify.com/album/5YhuekNPoX2Zfwrp4endor) | 2:45 | 2025-05-26 |  |
+| [M'ENAMORA](https://open.spotify.com/track/4Lz9pLX0FcM6t1exbt84oo) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [TOT TORNA](https://open.spotify.com/album/5YhuekNPoX2Zfwrp4endor) | 2:45 | 2025-05-26 | 2025-07-29 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-08 | 2025-03-31 |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-08 | 2024-06-03 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-06-30 |  |
@@ -137,6 +137,7 @@
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-31 | 2024-09-09 |
 | [Que Chévere](https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Dj Panko](https://open.spotify.com/artist/3aBY9bY6YpfQP5laY923lF) | [Que Chévere](https://open.spotify.com/album/4jmI5Ofn3t2s4LEfX9J3kz) | 2:13 | 2024-05-05 | 2024-10-28 |
 | [Que et vagi bé](https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s) | [Sopa De Cabra](https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D), [Triquell](https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW) | [Que et vagi bé](https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr) | 3:04 | 2024-03-17 | 2024-07-08 |
+| [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-07-28 |  |
 | [Que Vinguis](https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Que vinguis](https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT) | 2:31 | 2024-06-02 | 2024-10-21 |
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |

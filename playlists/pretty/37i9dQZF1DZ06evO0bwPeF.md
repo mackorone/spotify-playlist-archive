@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 36 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,463 likes - 36 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 17 | [Turned Out](https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:13 |
 | 18 | [I Know](https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
 | 19 | [Blacktop](https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:19 |
-| 20 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
+| 20 | [Renovation](https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:55 |
 | 21 | [He Feels Bad](https://open.spotify.com/track/580vmwV7m3VncbxaWdc8q4) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:03 |
 | 22 | [Tic](https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
 | 23 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
-| 24 | [Renovation](https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:55 |
+| 24 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
 | 25 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
 | 26 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
 | 27 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 35 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 36 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 
-Snapshot ID: `aIQagAAAAACwTQ9eHhSZRpO3Ke9Z67/B`
+Snapshot ID: `aIVsAAAAAADvTibM6HC1YY1/WvuFy7RQ`

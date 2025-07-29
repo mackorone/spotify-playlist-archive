@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > all cruise, no breaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,022 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,378 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 25 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 26 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 27 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
-| 28 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
-| 29 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
-| 30 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
-| 31 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
+| 28 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
+| 29 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
+| 30 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
+| 31 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
 | 32 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 |
 | 33 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
 | 34 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 39 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 |
 | 40 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 |
 | 41 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
-| 42 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
-| 43 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
+| 42 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
+| 43 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 44 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 45 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 |
 | 46 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |

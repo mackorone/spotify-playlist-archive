@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 430782,
+  "num_followers": 431097,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "Bombacid",
         "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -327,34 +327,22 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "No Division",
+        "url": "https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
-      },
-      "artists": [
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "XSALT",
+          "url": "https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC"
         }
       ],
-      "duration_ms": 169950,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
+      "duration_ms": 366613,
+      "name": "No Division (feat. XSALT)",
+      "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -375,22 +363,34 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
-        "name": "No Division",
-        "url": "https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "XSALT",
-          "url": "https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 366613,
-      "name": "No Division (feat. XSALT)",
-      "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
+      "duration_ms": 169950,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -427,30 +427,6 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -495,6 +471,30 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "The Realm",
         "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 358099,
       "name": "The Realm",
       "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "Kernkraft 400",
-        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
-      },
-      "artists": [
-        {
-          "name": "GYMBRO",
-          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
-        },
-        {
-          "name": "Ken",
-          "url": "https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI"
-        }
-      ],
-      "duration_ms": 126915,
-      "name": "Kernkraft 400",
-      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -651,6 +631,26 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "Kernkraft 400",
+        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Ken",
+          "url": "https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI"
+        }
+      ],
+      "duration_ms": 126915,
+      "name": "Kernkraft 400",
+      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "YKSI",
         "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chaos - Rave Mix",
-      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
         "name": "Pulverturm (ANNA Rework)",
         "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chaos - Rave Mix",
+      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "Hare Ram",
         "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "Planet XX",
-        "url": "https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7"
-      },
-      "artists": [
-        {
-          "name": "The YellowHeads",
-          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
-        }
-      ],
-      "duration_ms": 338211,
-      "name": "Planet XX - Extended Mix",
-      "url": "https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
+        "name": "Planet XX",
+        "url": "https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7"
+      },
+      "artists": [
+        {
+          "name": "The YellowHeads",
+          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
+        }
+      ],
+      "duration_ms": 338211,
+      "name": "Planet XX - Extended Mix",
+      "url": "https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
         "name": "I Need It More",
         "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 158167,
       "name": "I Need It More",
       "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 252319,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -843,6 +827,22 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 252319,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO"
     },
     {
       "added_at": "2025-07-25 04:00:47",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-07-25 04:00:47",
       "album": {
-        "name": "Salty",
-        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
-      },
-      "artists": [
-        {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
-        }
-      ],
-      "duration_ms": 181394,
-      "name": "Salty",
-      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
         "name": "Latin Lovers (Joyhauser Remix & Original)",
         "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 275394,
       "name": "Latin Lovers - Joyhauser Remix",
       "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2025-07-25 04:00:47",
+      "album": {
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "duration_ms": 181394,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
     }
   ],
   "unique_name": "Techno Workout",

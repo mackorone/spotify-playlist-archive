@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,942 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,803 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [A Bit of Finger / Sleeping Village / Warning \- 2013 Remaster](https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 14:13 |
 | 50 | [Megalomania \(2009 Remaster\)](https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 9:41 |
 
-Snapshot ID: `aIQagAAAAACxtw2/m6BRX9p/Fq84Qb8h`
+Snapshot ID: `aIVsAAAAAACwnq+OFeRqDSkKKBA9Fli0`

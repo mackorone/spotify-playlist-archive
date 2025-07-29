@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Perfume Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,377 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,393 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 37 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
 | 38 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
 | 39 | [Maybe You're the Reason](https://open.spotify.com/track/22tD1L3AXFs1pYEygkQGAT) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good at Falling](https://open.spotify.com/album/7qcAgj6CoV0VeRLo6ILiF2) | 3:38 |
-| 40 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
-| 41 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 40 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 41 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
 | 42 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
 | 43 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
 | 44 | [Less of You](https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Less of You](https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht) | 3:13 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 60 | [Crazy Again](https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 3:17 |
 | 61 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
 | 62 | [Tsunami](https://open.spotify.com/track/5Ad3sKScpftuea1ulQYEgR) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Tsunami](https://open.spotify.com/album/0x7J9paGzxBDmZ2n49OWhm) | 4:00 |
-| 63 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 |
-| 64 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
+| 63 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
+| 64 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 |
 | 65 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 66 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 |
 | 67 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 |
-| 68 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
-| 69 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
+| 68 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
+| 69 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 | 70 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 71 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 |
 | 72 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |

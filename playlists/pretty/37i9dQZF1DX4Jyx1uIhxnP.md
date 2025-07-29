@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,976 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,996 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 9 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 10 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 11 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
-| 12 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 |
-| 13 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 12 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 13 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 |
 | 14 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 15 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
 | 16 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 20 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 21 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 22 | [A Real Hero](https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 4:27 |
-| 23 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 24 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
+| 23 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
+| 24 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 25 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 26 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 27 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |

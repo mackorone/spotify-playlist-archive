@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,192 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,267 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 50 | [Church Is Revival \- Live](https://open.spotify.com/track/6uc4QKUbT2vBB7FaXmbdtv) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR), [Nicholas Traylor](https://open.spotify.com/artist/5pkbvZHLlIUxki7AdappIi) | [Church Is Revival \(Live\)](https://open.spotify.com/album/1S6RZ2L49KLWmXv3kNPbd2) | 5:36 |
 | 51 | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/track/20qyfm6CoXczO6HomsunrZ) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Marcus McFarlin](https://open.spotify.com/artist/3GSPi1jXT6v4lJ2gV7LSzW) | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/album/6tXnQ7pvb4u5aij6gejcE0) | 5:09 |
 | 52 | [I Can Count On You](https://open.spotify.com/track/7v8QqSJ2HlzcX9KCT0NzJg) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [I Can Count On You](https://open.spotify.com/album/0hiqKwUSedAl0RtoxCB6ll) | 3:51 |
-| 53 | [WHY](https://open.spotify.com/track/5FyapNabN0qbFYTkrEKmsi) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW), [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot) | [The Rose Era](https://open.spotify.com/album/00SwpAGnOUIfdh9ZPvdqTL) | 3:28 |
+| 53 | [WHY](https://open.spotify.com/track/5FyapNabN0qbFYTkrEKmsi) | [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW), [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [The Rose Era](https://open.spotify.com/album/00SwpAGnOUIfdh9ZPvdqTL) | 3:28 |
 | 54 | [Rain of Your Love](https://open.spotify.com/track/7LiaePCWFMtu4Thx29GHGq) | [Maria Hilman](https://open.spotify.com/artist/6zM3emeiYDQ8sdoOA72Hc7) | [Rain of Your Love](https://open.spotify.com/album/6MY1NpLdseGhU0Jh8857nS) | 2:57 |
 | 55 | [Anointed \(II\)](https://open.spotify.com/track/3J8xiSgYueHkxQeFkS8eWj) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed \(II\)](https://open.spotify.com/album/7w1mi7r30eNP3QZe4ElEeK) | 3:23 |
 | 56 | [All Around](https://open.spotify.com/track/3OrBVGYz6opSiyzn4xruDa) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [All Around](https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp) | 2:44 |

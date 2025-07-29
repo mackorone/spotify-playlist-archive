@@ -917,6 +917,28 @@
     },
     {
       "album": {
+        "name": "A Culpa \u00c9 Da Cacha\u00e7a",
+        "url": "https://open.spotify.com/album/54GR9Vqw95ApOMB4DV5pe3"
+      },
+      "artists": [
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2sIP89AL66SX8ApMyoHjJy"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "A Culpa \u00c9 Da Cacha\u00e7a",
+      "url": "https://open.spotify.com/track/2MgxCjL1sEUKMQwVlVAuur"
+    },
+    {
+      "album": {
         "name": "A Little Piece Of Home",
         "url": "https://open.spotify.com/album/0WNTxXuWRjsP4Z06cMqn4s"
       },
@@ -9876,7 +9898,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 188689,
       "name": "CODE!",
       "url": "https://open.spotify.com/track/0n6TqhzFOKGYDEyzAXS19k"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABVCD46GphlEZYZGQ2J6mk7",
+  "snapshot_id": "aIVsAAAAAAApMCvaxFNMaj7la/nlbvmM",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 222598,
-      "name": "Dejarnos Ir",
-      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 315000,
       "name": "Solegrande",
       "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 222598,
+      "name": "Dejarnos Ir",
+      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OPTEMOS",
         "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 178500,
       "name": "OPTEMOS",
       "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
     },
     {
       "added_at": null,

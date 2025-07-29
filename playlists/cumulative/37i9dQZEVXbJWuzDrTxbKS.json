@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -11244,7 +11244,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -16356,7 +16356,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 300000,
       "name": "Grib\u0113ju B\u016bt Rokst\u0101rs",
       "url": "https://open.spotify.com/track/6WyjNTejO9jVh0bUrnx0VY"
@@ -20344,7 +20344,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 181818,
       "name": "It\u0101lija",
       "url": "https://open.spotify.com/track/3Ah0Zwh5MURTocMQtIgfLm"
@@ -21482,7 +21482,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 181920,
       "name": "Ka\u0137\u0113ns, kur\u0161 atteic\u0101s no j\u016brasskolas",
       "url": "https://open.spotify.com/track/6Fs2nN1jo4PXhGXfbsgTDp"
@@ -26774,7 +26774,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 223115,
       "name": "Mellu\u017eu Stacija",
       "url": "https://open.spotify.com/track/5OgiG3R73Xt2x4vmw1RbOq"
@@ -30216,7 +30216,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -32439,6 +32439,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -32450,7 +32468,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -32606,7 +32624,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 173285,
       "name": "Pasarg' dievs",
       "url": "https://open.spotify.com/track/15mI8eh3ke97hPb8gZQxyh"
@@ -33466,7 +33484,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 241258,
       "name": "Plan\u0113ta: Pritons",
       "url": "https://open.spotify.com/track/5SmpCD8NJSFnJa6NeAl88J"
@@ -36128,7 +36146,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 230880,
       "name": "Rudens",
       "url": "https://open.spotify.com/track/4J3B1bPmhh0qp8sez5Ga9g"
@@ -47512,7 +47530,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-934 songs - 2 day 7 hr 30 min
+935 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 | 2020-10-05\* | 2022-04-13 |
 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 | 2022-03-07 | 2022-04-03 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-18 | 2023-07-13 |
+| [DANCING WITHOUT MOVING](https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:19 | 2025-07-25 |  |
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2020-12-08 | 2022-04-21 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-07-19 | 2022-10-13 |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-07 | 2022-10-29 |
@@ -255,7 +256,7 @@
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-07 | 2022-04-17 |
 | [Don't Be Afraid](https://open.spotify.com/track/4VqpY8MfmBoZ4x7cvHvHQM) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Tychonaut](https://open.spotify.com/album/5lNZWn92AKrC1U8TEI8GZ7) | 3:33 | 2021-06-04 | 2022-07-29 |
 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 | 2021-06-04 | 2022-04-09 |
-| [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-03-15 |  |
+| [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-03-15 | 2025-07-29 |
 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-06-28 | 2024-12-07 |
 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 | 2023-07-07 | 2024-04-19 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-10-05\* | 2023-06-15 |

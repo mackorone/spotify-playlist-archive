@@ -1868,19 +1868,27 @@
       },
       "artists": [
         {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        },
+        {
           "name": "Al Jolson",
           "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
         },
         {
           "name": "Al Jolson & Orchestra",
           "url": "https://open.spotify.com/artist/4kAVYNCuMv0G122gnEnFYR"
+        },
+        {
+          "name": "Charles Adams Prince",
+          "url": "https://open.spotify.com/artist/6KBoLfNSal0umvhVqgCcbo"
         }
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174600,
-      "name": "From Here To Shanghai",
+      "name": "From Here to Shanghai",
       "url": "https://open.spotify.com/track/76jNB49onenQmBolXeUURP"
     },
     {
@@ -3068,12 +3076,20 @@
       },
       "artists": [
         {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        },
+        {
           "name": "Al Jolson",
           "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
         },
         {
           "name": "Al Jolson & Orchestra",
           "url": "https://open.spotify.com/artist/4kAVYNCuMv0G122gnEnFYR"
+        },
+        {
+          "name": "Charles Adams Prince",
+          "url": "https://open.spotify.com/artist/6KBoLfNSal0umvhVqgCcbo"
         }
       ],
       "date_added": "2024-07-26",
@@ -7216,7 +7232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 89746,
       "name": "They Call It Dancing",
       "url": "https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk"

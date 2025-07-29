@@ -4,7 +4,7 @@
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 22 min
+88 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [2 Extraños](https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-11-10 |  |
 | [24 Rosas](https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:47 | 2023-11-10 |  |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-08 |  |
-| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-08 |  |
+| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-08 | 2025-07-29 |
+| [6 DE FEBRERO](https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:55 | 2025-07-29 |  |
 | [A la calle](https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:28 | 2023-11-10 | 2025-06-01 |
 | [Akureyri](https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Akureyri](https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN) | 3:14 | 2024-04-28 |  |
 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-11-10 |  |
@@ -38,7 +39,7 @@
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2023-11-10 |  |
 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 | 2023-11-10 | 2025-06-02 |
 | [ESTUPIDEZ](https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:33 | 2023-11-10 | 2025-07-26 |
-| [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 | 2025-06-01 |  |
+| [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 | 2025-06-01 | 2025-07-29 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-11-10 | 2024-10-13 |
 | [Formentera](https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:27 | 2024-10-13 |  |
 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 | 2023-11-10 | 2025-06-01 |

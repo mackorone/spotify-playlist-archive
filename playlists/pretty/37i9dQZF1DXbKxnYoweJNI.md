@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 原子邦妮 \(Astro Bunny\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,195 likes - 139 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,231 likes - 139 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 39 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
 | 40 | [我們真的長大了嗎](https://open.spotify.com/track/585ZriNOeG4nugNlsCYYpB) | [童心Valentina](https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1) | [我們真的長大了嗎](https://open.spotify.com/album/32zAzwSre25X1OQ9ihvbeO) | 2:40 |
 | 41 | [譜寫的青春](https://open.spotify.com/track/4FqsQh3OgLL7xQy18xdJbt) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [譜寫的青春](https://open.spotify.com/album/3PhaDapVbjByr2Bwh9yA4M) | 4:15 |
-| 42 | [離開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
+| 42 | [離不開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離不開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
 | 43 | [做一個惜情軟心的人](https://open.spotify.com/track/3m6IzuqkNDoYSTb8yWlDOj) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [做一個惜情軟心的人](https://open.spotify.com/album/6QWYwGvZd3p9zqgQtDaFxl) | 4:25 |
 | 44 | [最後最後](https://open.spotify.com/track/6bB8uogqmpH0lUZ61vHz9P) | [多情牛奶糖](https://open.spotify.com/artist/73NVIh5VRRl5XmWRvVRruC) | [最後最後](https://open.spotify.com/album/0AzZIcbmPX4gt9zLhwqa7w) | 4:35 |
 | 45 | [迷失的光芒](https://open.spotify.com/track/5mzodtI3UGvjfEgQRYWj1t) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [迷失的光芒](https://open.spotify.com/album/2GxdFKleRl5rsfhPXUG75A) | 3:19 |

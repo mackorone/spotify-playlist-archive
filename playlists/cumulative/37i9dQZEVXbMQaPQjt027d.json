@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284666,
+      "name": "Changes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
+    },
+    {
+      "album": {
         "name": "Vol. 4 (2014 Remaster)",
         "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
       },
@@ -122,7 +140,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -1179,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -1190,10 +1226,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269240,
+      "name": "Planet Caravan - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
     },
     {
       "album": {
@@ -1514,7 +1568,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 173056,
       "name": "The Glen - Levi Heron Edit",
       "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
@@ -1645,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -1656,7 +1728,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"

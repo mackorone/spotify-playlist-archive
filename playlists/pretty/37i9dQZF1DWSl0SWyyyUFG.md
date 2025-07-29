@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,839 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,206 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 83 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
 | 84 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 85 | [Luna Llena](https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:18 |
-| 86 | [Hasta La Miel Amarga](https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:09 |
-| 87 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
+| 86 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
+| 87 | [Hasta La Miel Amarga](https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:09 |
 | 88 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2) | 2:16 |
 | 89 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 |
 | 90 | [Estrellita Marinera](https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:14 |

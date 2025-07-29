@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,028 likes - 109 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,037 likes - 109 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tempo](https://open.spotify.com/track/3zX22ihHjV4y37ZSedjdKj) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Tempo](https://open.spotify.com/album/4zlD45eP54LYnhXtn5kYel) | 2:19 |
-| 2 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
-| 3 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
-| 4 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
-| 5 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 1 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
+| 2 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
+| 3 | [Tempo](https://open.spotify.com/track/3zX22ihHjV4y37ZSedjdKj) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Tempo](https://open.spotify.com/album/4zlD45eP54LYnhXtn5kYel) | 2:19 |
+| 4 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 5 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
 | 6 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
 | 7 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
 | 8 | [Miste det](https://open.spotify.com/track/6HI6mIzktfclfne3N8SZ5l) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt), [Kaffe Karlsson](https://open.spotify.com/artist/1PuOSwI11bE2FE9d6KehL2), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Miste det](https://open.spotify.com/album/2IM8A4awEokOwYK1JsFbMx) | 2:22 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 108 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 109 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 
-Snapshot ID: `aIKtBAAAAAA6V4X3jIh8a4qkhIvlHuM0`
+Snapshot ID: `aIcf0wAAAABPxp+jvexTWi0fQFgl1poj`

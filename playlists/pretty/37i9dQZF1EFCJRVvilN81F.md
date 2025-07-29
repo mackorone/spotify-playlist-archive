@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,089 likes - 161 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,087 likes - 161 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 54 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 55 | [Your Love](https://open.spotify.com/track/3ETuqR9uCVMAlqdNk6dhB3) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 3:14 |
 | 56 | [Lavender](https://open.spotify.com/track/4nSc3L3mCE4E6uPH8gweQ8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [IV](https://open.spotify.com/album/5Dgfrxiz3M0SLosVnVoLEu) | 3:20 |
-| 57 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 |
-| 58 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
+| 57 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
+| 58 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 |
 | 59 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 60 | [BREAKDANCE LESSON N.1.](https://open.spotify.com/track/2CtvI2Isd3aZmfPVD16f8z) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:28 |
 | 61 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 160 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 161 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab37XgAAAABIdBGJYKvEulNaATWqa4c+`
+Snapshot ID: `Ab4A9AAAAABdjDhHIkVIAsJzXjH6hoW7`

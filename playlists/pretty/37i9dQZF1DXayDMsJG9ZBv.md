@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,925 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,984 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
 | 2 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 |
 | 3 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 4 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
+| 4 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 5 | [California](https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [California](https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve) | 2:16 |
 | 6 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 |
 | 7 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 |
 | 50 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 |
 
-Snapshot ID: `aIJKfQAAAABCePnbKUBjS8xvDVkmDVAV`
+Snapshot ID: `aIb7CAAAAAD5JwGE1KE0ftITcvmpOqVB`

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54187,
+  "num_followers": 54192,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAD0/2/TeEGdSoGgI0hwJMmQ",
+  "snapshot_id": "aIVsAAAAAADNW4qkR5VfWXc3I/ANcRfD",
   "tracks": [
     {
       "added_at": null,
@@ -583,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Duele Menos",
-        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184348,
-      "name": "Ya Duele Menos",
-      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol 1.",
         "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+        "name": "Ya Duele Menos",
+        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
+      "duration_ms": 184348,
+      "name": "Ya Duele Menos",
+      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 200565,
       "name": "Tonieladas",
       "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 131285,
+      "name": "Siempre Trabajando",
+      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 174911,
       "name": "Dar\u00eda Todo Por Ti",
       "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 131285,
-      "name": "Siempre Trabajando",
-      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
     },
     {
       "added_at": null,

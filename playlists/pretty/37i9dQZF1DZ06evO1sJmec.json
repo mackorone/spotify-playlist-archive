@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2058588,
+  "num_followers": 2058868,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACfpyq5i3jST7Drb4FvqRbV",
+  "snapshot_id": "aIVsAAAAAABQQC/s6lb3CNxwqG0Pnvec",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 328133,
-      "name": "King Nothing",
-      "url": "https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "King Nothing",
+      "url": "https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 477026,
-      "name": "All Nightmare Long",
-      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 395706,
       "name": "Creeping Death (Remastered)",
       "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 477026,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 496626,
-      "name": "Disposable Heroes",
-      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 319600,
       "name": "Mama Said - Remastered",
       "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
     },
     {
       "added_at": null,

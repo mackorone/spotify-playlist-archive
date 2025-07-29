@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,825 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,834 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 8 | [Stand My Ground](https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:27 |
 | 9 | [In the Middle of the Night](https://open.spotify.com/track/35zwdnMhebt8gLF4WaCUMz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:11 |
 | 10 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:13 |
-| 11 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
-| 12 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Light Can Only Shine In The Darkness](https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52) | 3:36 |
+| 11 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Light Can Only Shine In The Darkness](https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52) | 3:36 |
+| 12 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
 | 13 | [Iron](https://open.spotify.com/track/3iSgRJUrMKHLglnrQrQ6kO) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:41 |
 | 14 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
 | 15 | [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 43 | [Let Us Burn](https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 5:31 |
 | 44 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 |
 | 45 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
-| 46 | [Mother Earth](https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:31 |
-| 47 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
+| 46 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
+| 47 | [Mother Earth](https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:31 |
 | 48 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
 | 49 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 50 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
 
-Snapshot ID: `aIQagAAAAACcR649Gyo30OBqZOOswcrt`
+Snapshot ID: `aIVsAAAAAABE08PBUWiEplPtduqkfQyK`

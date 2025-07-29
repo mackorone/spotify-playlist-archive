@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Collect 200",
+        "url": "https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "Collect 200",
+      "url": "https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6"
+    },
+    {
+      "album": {
         "name": "Our Extended Play",
         "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
@@ -7338,7 +7356,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/60jK1IQ31TzqtL1e0sHHda"

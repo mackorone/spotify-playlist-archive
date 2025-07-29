@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 140867,
       "name": "G\u00fcl\u00fc Sevdim Dikeni Batt\u0131",
       "url": "https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N"
@@ -3143,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192439,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g"
+    },
+    {
+      "album": {
         "name": "Kar\u0131\u015ft\u0131r\u0131cam O Uykular\u0131n\u0131",
         "url": "https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy"
       },
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 223125,
       "name": "Ka\u00e7ak G\u00f6\u00e7ek",
       "url": "https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF"
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 155043,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv"
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 251733,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho"
@@ -5199,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "YAPAR MISIN?",
+        "url": "https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "YAPAR MISIN?",
+      "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
+    },
+    {
+      "album": {
         "name": "Ya\u015fam \u00c7i\u00e7e\u011fi",
         "url": "https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx"
       },
@@ -5334,6 +5374,28 @@
       "duration_ms": 166112,
       "name": "Yat Kalk Dua Et",
       "url": "https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7"
+    },
+    {
+      "album": {
+        "name": "Yatakta Kardiyo",
+        "url": "https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        },
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207171,
+      "name": "Yatakta Kardiyo",
+      "url": "https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU"
     },
     {
       "album": {
@@ -5702,7 +5764,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 165812,
       "name": "Zeze",
       "url": "https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv"

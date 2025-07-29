@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,489 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,453 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 24 | [Fuera de mí](https://open.spotify.com/track/5XH286garUg3tcciTKR50O) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:58 |
 | 25 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
 | 26 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
-| 27 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
-| 28 | [Cuando nadie me ve \- Unplugged](https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:06 |
+| 27 | [Cuando nadie me ve \- Unplugged](https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:06 |
+| 28 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
 | 29 | [I'm Yours \- Live on HSN Live](https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Spotify Sessions](https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj) | 4:03 |
 | 30 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 31 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ieV1TBSMyf5sFiPh9X2ai) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Deluxe\)](https://open.spotify.com/album/3gjJTUMI9q6ReSe0z7gyjp) | 3:46 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 39 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 |
 | 40 | [Vivir Sin Aire \- Unplugged](https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 5:44 |
 | 41 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 |
-| 42 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
-| 43 | [He Barrido el Sol \- Unplugged Version](https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 4:38 |
+| 42 | [He Barrido el Sol \- Unplugged Version](https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 4:38 |
+| 43 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 | 44 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 |
 | 45 | [El baile y el salon \- Unplugged](https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 6:54 |
 | 46 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |

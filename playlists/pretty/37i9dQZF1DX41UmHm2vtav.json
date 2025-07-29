@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 488046,
+  "num_followers": 488083,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -387,26 +367,42 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -435,22 +431,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "Morar No Mar",
         "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 230500,
       "name": "Morar No Mar",
       "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Rio Amazing",
-        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 142267,
-      "name": "Rio Amazing",
-      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Azul (Illusionize & Linkage Remix)",
         "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
+        "name": "Rio Amazing",
+        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142267,
+      "name": "Rio Amazing",
+      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1359,22 +1379,22 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+        "name": "Monalisa (KVSH Remix)",
+        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+      "duration_ms": 175844,
+      "name": "Monalisa (KVSH Remix)",
+      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Monalisa (KVSH Remix)",
-        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Monalisa (KVSH Remix)",
-      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Novo Movimento (Tu-Tum)",
         "url": "https://open.spotify.com/album/1e60jrAWhMZFFdFdg58P5L"
       },
@@ -1435,26 +1435,6 @@
       "duration_ms": 146975,
       "name": "Novo Movimento (Tu-Tum)",
       "url": "https://open.spotify.com/track/3Ymy0gjO9ZG6l2a5OvoMYe"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "Olhos Coloridos (Rap Singulares)",
         "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
@@ -1507,22 +1507,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
       "artists": [
         {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
         }
       ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
     }
   ],
   "unique_name": "Festa na Praia",

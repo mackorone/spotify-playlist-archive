@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAACryfNRBNEJZiTC6niIjq+Q",
+  "snapshot_id": "aIVsAAAAAADlhQ9LfwKD7s6Ljn7jIWSC",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 No Me Esperaste?",
-        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200095,
-      "name": "Por Qu\u00e9 No Me Esperaste?",
-      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Qu\u00e9 No Me Esperaste?",
+        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 200095,
+      "name": "Por Qu\u00e9 No Me Esperaste?",
+      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Suena con Tequila",
         "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Acab\u00f3",
         "url": "https://open.spotify.com/album/54PHqFPXNjmvnoGKsuN6r8"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 182122,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/7ebYaUMVJCLVtD4SB16Mum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Ah\u00ed Va la Loca",
+      "url": "https://open.spotify.com/track/79wJdZSySLA3OGgDbwyKsw"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/79wJdZSySLA3OGgDbwyKsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentimientos de Cart\u00f3n",
         "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
       },
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Tanto Es Tantito?",
-        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Nuevo",
-        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 254003,
       "name": "Lo Que No Me Gusta",
       "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Tanto Es Tantito?",
+        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+        "name": "Nada Nuevo",
+        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+      "duration_ms": 179427,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Donde Esta Tu Amor",
-        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 169429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azules Reflejos (En Vivo)",
         "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
@@ -739,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Carlitos",
-        "url": "https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw"
+        "name": "En Donde Esta Tu Amor",
+        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
       },
       "artists": [
         {
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 139145,
-      "name": "El Carlitos",
-      "url": "https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6"
+      "duration_ms": 169429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 247737,
       "name": "Fuiste T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Carlitos",
+        "url": "https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 139145,
+      "name": "El Carlitos",
+      "url": "https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6"
     },
     {
       "added_at": null,

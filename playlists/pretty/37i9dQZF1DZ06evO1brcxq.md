@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,716 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,815 likes - 47 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 45 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 |
 | 46 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(George Daniel & Charli XCX Remix\)](https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4) | 3:22 |
 | 47 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
-| 48 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
 
-Snapshot ID: `aIQagAAAAADfxQzHUOaEmHRsB2b6pZSn`
+Snapshot ID: `aIVsAAAAAADZJDFSYSpLcfLzpvZ7PfOr`

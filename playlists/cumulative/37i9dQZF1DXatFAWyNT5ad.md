@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-877 songs - 1 day 21 hr 6 min
+878 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-16 | 2022-07-23 |
 | [Belong](https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2022-03-17 | 2022-06-23 |
+| [Bender \(feat\. Travis Barker\)](https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Bender \(feat\. Travis Barker\)](https://open.spotify.com/album/5vKJnMy2A7hDkbWffp5vek) | 2:50 | 2025-07-25 |  |
 | [Best Night of My Life](https://open.spotify.com/track/3quDzhlfgfAvPzmCG3qzIg) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve) | 2:34 | 2024-03-08 | 2024-04-21 |
 | [Best Part](https://open.spotify.com/track/40CASSesK4IyM8Ud5sMsdp) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Best Part](https://open.spotify.com/album/3l4loBBd1uB1EpgWPCrJvQ) | 2:57 | 2022-03-24 | 2022-03-27 |
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
@@ -839,7 +840,7 @@
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-17 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/5xTObgZhZ8WaKy0Zb0yCwZ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/1uYnR6GP38pTjEOIMccjcF) | 3:43 | 2022-03-24 | 2022-04-17 |
 | [Watershed](https://open.spotify.com/track/205M9RkLKErmy1vMcXm3RO) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Watershed](https://open.spotify.com/album/2A0aoSJq66kKCsoguXd6WJ) | 3:38 | 2022-03-24 | 2022-04-12 |
-| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 |  |
+| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 | 2025-07-29 |
 | [We Have To Move On](https://open.spotify.com/track/7LZlKjgyS1IG6BniUx9MOX) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [We Have To Move On](https://open.spotify.com/album/3Vwuh7l6MvX8tnn8Li2Lf2) | 4:12 | 2022-03-24 | 2022-04-14 |
 | [WebMD](https://open.spotify.com/track/0TybJvIlsxCXrAhxpEXC4U) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [WebMD](https://open.spotify.com/album/1uXwPpxRNTNOGfNdgqfTTV) | 2:17 | 2022-03-24 | 2022-04-06 |
 | [weird!](https://open.spotify.com/track/0mCR06PzcuMFPAFz4V4lOB) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/34H8ixOb4n9M8gKCx5SGRn) | 3:04 | 2022-03-24 | 2022-04-06 |

@@ -4,7 +4,7 @@
 
 > Songs, die deine Sehnsucht nach dem Sommer teilen.
 
-316 songs - 16 hr 51 min
+317 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-10-03 |  |
 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-11 | 2025-02-20 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-25 | 2025-02-22 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2023-07-26 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2023-07-26 | 2025-07-29 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2025-03-14 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-11-22 |  |
 | [American Town](https://open.spotify.com/track/58oljhgRB2FFtF1l2v31QJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations \(Fan Living Room Sessions\)](https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA) | 3:17 | 2023-10-20 | 2024-05-25 |
@@ -304,6 +304,7 @@
 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 | 2023-07-26 | 2023-08-26 |
 | [vitamin d\[u\]](https://open.spotify.com/track/15bLQkwoNRFcvT8hcvf4QP) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [vitamin d\[u\]](https://open.spotify.com/album/5180jSrzjoFLALDABAJgWC) | 2:06 | 2024-05-22 | 2024-06-18 |
 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 | 2023-08-18 | 2023-10-22 |
+| [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 | 2025-07-25 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-10-27 | 2025-02-22 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-20 |  |
 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 | 2025-06-02 |  |

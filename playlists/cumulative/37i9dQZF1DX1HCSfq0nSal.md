@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Yan Block
+> Si está pegao, está aquí\. Feat\. Kidd Voodoo y JC Reyes
 
-815 songs - 1 day 20 hr 55 min
+816 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2022-01-07 | 2022-02-04 |
 | [Down](https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Down](https://open.spotify.com/album/4d2O4fr026apliDVapi0j0) | 2:44 | 2023-04-10 | 2023-04-18 |
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2022-10-24 | 2022-11-08 |
-| [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-05-19 |  |
+| [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-05-19 | 2025-07-29 |
 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 | 2023-05-25 | 2023-09-08 |
 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 | 2022-11-07 | 2022-11-30 |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-30 | 2024-11-16 |
@@ -578,6 +578,7 @@
 | [Por Vos](https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Por Vos](https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n) | 3:05 | 2025-03-25 | 2025-04-04 |
 | [Porsche Carrera](https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:14 | 2024-09-09 | 2024-09-26 |
 | [Prettygyal](https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB) | [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez), [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N) | [Prettygyal](https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG) | 2:23 | 2025-07-08 |  |
+| [Primer Lugar](https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Primer Lugar](https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe) | 4:05 | 2025-07-28 |  |
 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 | 2022-01-24 | 2022-04-14 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2022-09-19 | 2022-12-15 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-21 | 2022-07-19 |

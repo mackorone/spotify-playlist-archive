@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 506905,
+  "num_followers": 507013,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "The Best of Branigan",
-        "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231560,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "The Best of Branigan",
+        "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 295066,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "She Works Hard For The Money",
-        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "She Works Hard For The Money",
-      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+        "name": "She Works Hard For The Money",
+        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
       },
       "artists": [
         {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 312906,
-      "name": "You Dropped A Bomb On Me",
-      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
+      "duration_ms": 320840,
+      "name": "She Works Hard For The Money",
+      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 312906,
+      "name": "You Dropped A Bomb On Me",
+      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
         "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 284625,
       "name": "Big in Japan - 2019 Remaster",
       "url": "https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
-      },
-      "artists": [
-        {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
-        }
-      ],
-      "duration_ms": 320573,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -887,6 +871,22 @@
       "duration_ms": 289066,
       "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 320573,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Ultimate Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 311852,
-      "name": "Abracadabra - Remastered 2017",
-      "url": "https://open.spotify.com/track/58bTw40is1J6A67eejMdLn"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Arista Heritage Series: Ray Parker",
         "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 240800,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Ultimate Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 311852,
+      "name": "Abracadabra - Remastered 2017",
+      "url": "https://open.spotify.com/track/58bTw40is1J6A67eejMdLn"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "You Got It (The Right Stuff)",
-      "url": "https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Michael Jackson's This Is It",
         "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 357493,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "You Got It (The Right Stuff)",
+      "url": "https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+        "name": "We Are The '80s",
+        "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
         }
       ],
-      "duration_ms": 330933,
-      "name": "Rhythm Nation",
-      "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
+      "duration_ms": 164306,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
     }
   ],
   "unique_name": "80s Workout",

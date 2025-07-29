@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2029081,
+  "num_followers": 2029061,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -155,22 +159,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Show Me How to Live",
-      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -779,6 +763,22 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Flight b741",
-        "url": "https://open.spotify.com/album/1hyEbrjx4XtesBvKDR3ez2"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Le Risque",
-      "url": "https://open.spotify.com/track/3bDUplTz2UMI7J7ArYxJjT"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Flight b741",
+        "url": "https://open.spotify.com/album/1hyEbrjx4XtesBvKDR3ez2"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/3bDUplTz2UMI7J7ArYxJjT"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -1571,22 +1591,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 352586,
-      "name": "Not for You",
-      "url": "https://open.spotify.com/track/5gdmwS7vtRb8AGGRio84uX"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
       },
@@ -1603,6 +1607,22 @@
       "duration_ms": 273520,
       "name": "Oh Well feat. Chris Stapleton",
       "url": "https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "Not for You",
+      "url": "https://open.spotify.com/track/5gdmwS7vtRb8AGGRio84uX"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1639,22 +1659,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 250274,
-      "name": "Degradation Rules (feat. Tony Iommi)",
-      "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1671,22 +1687,6 @@
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Tanx (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 312200,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "As Above, So Below",
-        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 247716,
-      "name": "Plastic Boxes",
-      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Classic Eric Clapton",
         "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 218106,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/6hDegaGv8VwBoMhGqoPfxR"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 247716,
+      "name": "Plastic Boxes",
+      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "Warm Beers",
         "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 225466,
       "name": "Just What the Doctor Ordered",
       "url": "https://open.spotify.com/track/6uufS093628MRruPbXiW5g"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Welcome to Silvertown",
-        "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Welcome to Silvertown",
-      "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Drive Fast, Rock Hard",
         "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 274600,
       "name": "Got No Shame",
       "url": "https://open.spotify.com/track/5c1nPzFo0fziACO6fKtxqT"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Welcome to Silvertown",
+        "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Welcome to Silvertown",
+      "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
     },
     {
       "added_at": "2025-02-14 05:00:20",

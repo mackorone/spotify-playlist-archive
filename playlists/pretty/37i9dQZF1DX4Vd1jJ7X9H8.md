@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,754 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,782 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 29 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 30 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
 | 31 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
-| 32 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
-| 33 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 |
+| 32 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 |
+| 33 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
 | 34 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 | 35 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
 | 36 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |

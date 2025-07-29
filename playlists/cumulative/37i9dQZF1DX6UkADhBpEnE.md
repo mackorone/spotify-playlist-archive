@@ -4,12 +4,13 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-915 songs - 2 day 2 hr 0 min
+917 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!](https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:05 | 2024-03-07 | 2024-05-10 |
 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 | 2025-02-13 |  |
+| [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 |  |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-02-02 | 2023-03-08 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2025-02-28 |
 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 | 2023-11-28 | 2023-12-20 |
@@ -204,7 +205,7 @@
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2024-01-10 | 2025-07-11 |
 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2023-08-10 | 2023-08-18 |
 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 | 2025-06-05 | 2025-07-11 |
-| [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 | 2024-09-05 |  |
+| [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 | 2024-09-05 | 2025-07-29 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-23 | 2025-06-08 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-09-06 | 2024-10-04 |
 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-22 | 2023-07-07 |
@@ -426,6 +427,7 @@
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-27 | 2023-05-19 |
 | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 | 2024-04-12 | 2024-05-24 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-17 | 2023-09-29 |
+| [Miami \(feat\. Lil Wayne & Rick Ross\)](https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Miami](https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj) | 3:37 | 2025-07-24 |  |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-26 | 2023-11-10 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-09 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2023-02-02 | 2023-02-04 |
@@ -521,7 +523,7 @@
 | [Question](https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Question](https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6) | 2:51 | 2023-12-05 | 2023-12-20 |
 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 | 2024-03-07 | 2024-04-13 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-22 | 2023-07-26 |
-| [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-10 |  |
+| [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-10 | 2025-07-29 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-02-02 | 2023-02-27 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-08 | 2024-09-20 |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-01-05 |

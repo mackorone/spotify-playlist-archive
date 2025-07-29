@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105951,
+  "num_followers": 105954,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABxR47JN5KbsVP8Umu1pYyf",
+  "snapshot_id": "aIVsAAAAAACDo3tChtcV7/XqQ6N7oYkw",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 331466,
       "name": "Canto A La Habana",
       "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bravo",
-        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 224293,
       "name": "Cao Cao Man\u00ed Picao",
       "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "La Sopa En Botella",
-      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -972,9 +952,9 @@
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+      "duration_ms": 308933,
+      "name": "La Sopa En Botella",
+      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
     },
     {
       "added_at": null,
@@ -995,6 +975,26 @@
       "duration_ms": 195360,
       "name": "Vieja Luna",
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
       "added_at": null,

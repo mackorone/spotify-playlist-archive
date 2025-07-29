@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173332,
+  "num_followers": 173345,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADCaNRParkEKYAWtDZVZs+2",
+  "snapshot_id": "aIVsAAAAAABNtc/9+b1Me1tL35sc1jaR",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Again (with Miranda Lambert) / The House That Built Me",
         "url": "https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 203162,
       "name": "House Again (with Miranda Lambert)",
       "url": "https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Branches",
-        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Never You (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/2U3JnNb38trSUJwiJ8pVo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Never You (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/2U3JnNb38trSUJwiJ8pVo0"
     },
     {
       "added_at": null,

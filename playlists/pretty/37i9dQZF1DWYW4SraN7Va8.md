@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,023 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,167 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 15 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 16 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 17 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
-| 18 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
-| 19 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 18 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 19 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 20 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 | 21 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 22 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 54 | [Run to the Hills \- 1998 Remaster](https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt) | 3:53 |
 | 55 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 |
 | 56 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
-| 57 | [Lord Humungus](https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP) | 3:34 |
-| 58 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
+| 57 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
+| 58 | [Lord Humungus](https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP) | 3:34 |
 | 59 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 |
 | 60 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 |
 | 61 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 |

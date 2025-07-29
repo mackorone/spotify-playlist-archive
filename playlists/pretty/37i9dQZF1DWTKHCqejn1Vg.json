@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33853,
+  "num_followers": 33855,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-07-25 04:50:50",
       "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
-    },
-    {
-      "added_at": "2025-07-25 04:50:50",
-      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 182120,
       "name": "Come In",
       "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
+    },
+    {
+      "added_at": "2025-07-25 04:50:50",
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
     },
     {
       "added_at": "2025-07-25 04:50:50",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-07-25 04:50:50",
       "album": {
-        "name": "Riddle",
-        "url": "https://open.spotify.com/album/3lQAIDcYUT1E5cLAuZ2BGA"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Matter of Taste (feat. Paloalto)",
-      "url": "https://open.spotify.com/track/5tEiCsOFqEqDVTYMA05YC8"
-    },
-    {
-      "added_at": "2025-07-25 04:50:50",
-      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
+    },
+    {
+      "added_at": "2025-07-25 04:50:50",
+      "album": {
+        "name": "Riddle",
+        "url": "https://open.spotify.com/album/3lQAIDcYUT1E5cLAuZ2BGA"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Matter of Taste (feat. Paloalto)",
+      "url": "https://open.spotify.com/track/5tEiCsOFqEqDVTYMA05YC8"
     },
     {
       "added_at": "2025-07-25 04:50:50",

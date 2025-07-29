@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 39298,
+  "num_followers": 39330,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Chet is Back",
         "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
       "artists": [
         {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
         }
       ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -383,6 +367,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 503013,
       "name": "Litha",
       "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Nights At The Turntable",
-      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -447,6 +431,22 @@
       "duration_ms": 244466,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Nights At The Turntable",
+      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
       },
       "artists": [
         {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+          "name": "Shorty Rogers & His Big Band",
+          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
         }
       ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+      "duration_ms": 254626,
+      "name": "Moon over Cuba",
+      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -651,34 +651,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
       "artists": [
         {
-          "name": "Shorty Rogers & His Big Band",
-          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
         }
       ],
-      "duration_ms": 254626,
-      "name": "Moon over Cuba",
-      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Take Me Along",
-        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
-      },
-      "artists": [
-        {
-          "name": "Marty Paich",
-          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Sid, Ol' Kid",
-      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Take Me Along",
+        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+      },
+      "artists": [
+        {
+          "name": "Marty Paich",
+          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Sid, Ol' Kid",
+      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Coop! The Music Of Bob Cooper",
         "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 261066,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Gongs East!",
-        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton",
-          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Beyond the Blue Horizon",
-      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "I Had the Craziest Dream (Remastered)",
         "url": "https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+        "name": "Gongs East!",
+        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
       },
       "artists": [
         {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+          "name": "Chico Hamilton",
+          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
         }
       ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+      "duration_ms": 185786,
+      "name": "Beyond the Blue Horizon",
+      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -863,6 +847,22 @@
       "duration_ms": 285620,
       "name": "Little Man You've Had a Busy Day",
       "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
     }
   ],
   "unique_name": "West Coast Jazz",

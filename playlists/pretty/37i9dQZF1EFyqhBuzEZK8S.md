@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,307 likes - 330 songs - 20 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,311 likes - 330 songs - 20 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 36 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
 | 37 | [London Boy](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 38 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
-| 39 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 |
-| 40 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
+| 39 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
+| 40 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 |
 | 41 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 42 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 |
-| 43 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
-| 44 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 43 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
+| 44 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
 | 45 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
 | 46 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 |
 | 47 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 61 | [How to disappear](https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:48 |
 | 62 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 |
 | 63 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
-| 64 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 |
-| 65 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 64 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 65 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 |
 | 66 | [Beautiful Trauma](https://open.spotify.com/track/2DlIwu1iDTILEMXA7MUotn) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:10 |
 | 67 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 68 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 237 | [I'm Ready To Move On/Mickey Mantle Reprise](https://open.spotify.com/track/0h1YzxN6QTjEkJGU6fxsyt) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 4:23 |
 | 238 | [I Am Right On Time](https://open.spotify.com/track/7ssRKRRvrzWSMzpz8dwlEL) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:31 |
 | 239 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
-| 240 | [Who I Want You to Love](https://open.spotify.com/track/6ESXCUaK7TTcRuw1GV6RS4) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 4:50 |
-| 241 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 240 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 241 | [Who I Want You to Love](https://open.spotify.com/track/6ESXCUaK7TTcRuw1GV6RS4) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 4:50 |
 | 242 | [Young Man](https://open.spotify.com/track/3Dp2kZ4749xnDo1DTpRvMM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:09 |
 | 243 | [Hope It's Something Good](https://open.spotify.com/track/4sTP7dRWuDR5P9G8BlI4NQ) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:05 |
 | 244 | [Call Me After Midnight](https://open.spotify.com/track/68NQSQIz2WL18PjkbBu98A) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:15 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 329 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 | 330 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
 
-Snapshot ID: `Ab37XgAAAADvd9OuJA8PHFlzM6LAV8ig`
+Snapshot ID: `Ab4BHAAAAAClSwTyoT+bOboqh5xK4QKD`

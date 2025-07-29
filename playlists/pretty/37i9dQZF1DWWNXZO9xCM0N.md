@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,604 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,666 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 16 | [Ah\-Ah / O\-No](https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 3:47 |
 | 17 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 |
 | 18 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
-| 19 | [Timbalero](https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:26 |
-| 20 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
+| 19 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
+| 20 | [Timbalero](https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:26 |
 | 21 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 22 | [Ausencia](https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:06 |
 | 23 | [Sigue Tu Camino](https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:49 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 46 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 | 47 | [Las Caras Lindas](https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 7:11 |
 | 48 | [Un Verano en Nueva York](https://open.spotify.com/track/1hvyKYOS7m6msSUbXS7reP) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:57 |
-| 49 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
-| 50 | [Cuando Te Vea](https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:27 |
+| 49 | [Cuando Te Vea](https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:27 |
+| 50 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 
 Snapshot ID: `Znnx4wAAAADxh5GsQnB7DqmZN2laTxAd`

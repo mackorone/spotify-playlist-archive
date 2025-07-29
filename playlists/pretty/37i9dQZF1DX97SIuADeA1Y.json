@@ -231,6 +231,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1195,26 +1195,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Heaven (feat. Sofia Quinn)",
-        "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
+        "name": "Raindrops (feat. Jessica Chertock)",
+        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
       "artists": [
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
         },
         {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heaven (feat. Sofia Quinn)",
-      "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
+      "duration_ms": 166887,
+      "name": "Raindrops (feat. Jessica Chertock)",
+      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
     }
   ],
   "unique_name": "SLAP!",

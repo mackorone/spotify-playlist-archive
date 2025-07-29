@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 35410,
+  "num_followers": 35422,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAB0rfp6wvCWL69vLnHJtyS",
+  "snapshot_id": "aIVsAAAAAABk+nfJ+pytgt7pMdKNdhvo",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 368440,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nu Nation Project",
-        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 368440,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
     },
     {
       "added_at": null,
@@ -535,42 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration",
-        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 241988,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portable Sounds (With Bonus Remixes)",
         "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
       },
@@ -591,6 +555,42 @@
       "duration_ms": 375973,
       "name": "Lose My Soul - Afterparty Interlude",
       "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 241988,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 276629,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,

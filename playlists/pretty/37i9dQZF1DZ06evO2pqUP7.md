@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,306 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,308 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 11 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 |
 | 12 | [La Cama \(Remix\)](https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Cama \(Remix\)](https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU) | 5:30 |
 | 13 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 |
-| 14 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 |
-| 15 | [Nuevo](https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Nuevo](https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX) | 2:19 |
+| 14 | [Nuevo](https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Nuevo](https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX) | 2:19 |
+| 15 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 |
 | 16 | [Mi Error \- Remix](https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 5:15 |
 | 17 | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/album/28561uZztshyZSVG6ElL62) | 3:53 |
 | 18 | [VUDÚ](https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 50 | [Vicio](https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Castillo](https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo) | 3:18 |
 
-Snapshot ID: `aIQagAAAAACFMdEFRrIFz1Ga80NHH6BF`
+Snapshot ID: `aIVsAAAAAADbZ+QRNjSyAS+CeLqHA+zC`

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-580 songs - 1 day 2 hr 3 min
+581 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Laminar](https://open.spotify.com/track/11WO4NEL8X56PGQi0F2LqD) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Laminar](https://open.spotify.com/album/2IpmiuingrjKA53aL03GE5) | 1:48 | 2024-11-22 |  |
 | [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2023-08-22 | 2024-09-13 |
 | [Lark](https://open.spotify.com/track/2ROtdh14YltIbcT42rHuZm) | [Matt Paull](https://open.spotify.com/artist/19pBPYYL9OPlpamPuKZojI) | [Lark](https://open.spotify.com/album/0ioS07TfyPOKOdxqeW9cyj) | 2:18 | 2025-04-11 | 2025-05-17 |
+| [Last Ray](https://open.spotify.com/track/1OepOwxPyqCYctBH2DyWu4) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Last Ray](https://open.spotify.com/album/6ltMOMfmOMZDBDUJ4enEdc) | 2:03 | 2025-07-25 |  |
 | [Late Night Vibes](https://open.spotify.com/track/67Y0o1RFXaLYN7XLiN2onZ) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Late Night Vibes](https://open.spotify.com/album/2bDCbDHxEJ6OnNyAUcKTHV) | 2:35 | 2025-04-18 | 2025-05-24 |
 | [Le club](https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Le club](https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz) | 3:10 | 2023-08-22 | 2025-04-12 |
 | [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-08-30 | 2025-07-19 |
@@ -372,7 +373,7 @@
 | [Out of Reach](https://open.spotify.com/track/1fWjm9Q9ybcmfY85u4xJM6) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4), [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV), [moonboy](https://open.spotify.com/artist/4UkR948lZ7yLKOpfBClKUS) | [Out of Reach](https://open.spotify.com/album/1A5GRMdAuTwvxqos2Ppuuv) | 2:36 | 2025-06-13 | 2025-07-19 |
 | [Out of the Shadows](https://open.spotify.com/track/44nl2WJglJunlzTzO1qDsY) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Out of the Shadows](https://open.spotify.com/album/3Lu9GtQEoUyHnoMFWbtKw1) | 2:03 | 2025-04-18 |  |
 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 | 2024-08-30 | 2025-04-19 |
-| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 |  |
+| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 | 2025-07-29 |
 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 | 2024-02-23 | 2025-04-26 |
 | [P\_Optimist](https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [P\_Optimist](https://open.spotify.com/album/03OFznjG6SjQ7WMViYD6xK) | 1:43 | 2024-03-01 | 2025-05-17 |
 | [Palm Springs](https://open.spotify.com/track/47dEiRz8rdsmj2U2xz7Uhk) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Palm Springs](https://open.spotify.com/album/6gcC7HoskODlDAgEXfv2lw) | 2:40 | 2025-02-07 | 2025-02-25 |

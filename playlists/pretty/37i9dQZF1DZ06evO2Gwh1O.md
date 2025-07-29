@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,761 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,763 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 41 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 |
 | 42 | [Spine](https://open.spotify.com/track/2jEM4kZCCvavtg3igVPd2c) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:22 |
 | 43 | [Maybe I Am?](https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:38 |
-| 44 | [Old Hymns](https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 2:32 |
-| 45 | [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 |
+| 44 | [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 |
 
-Snapshot ID: `aIQagAAAAABKd1r5nwBJzLSIHbySCMIE`
+Snapshot ID: `aIVsAAAAAAAzuPDxRk/Xa2Y9Vi1PTlPR`

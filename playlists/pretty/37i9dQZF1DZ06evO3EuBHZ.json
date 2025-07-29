@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 15603,
+  "num_followers": 15606,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAAvl93AFx9ToYrWMdvUU46V",
+  "snapshot_id": "aIVsAAAAAAAfaPPX9UJV0wnaV0A47Eo+",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 268693,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
+      "duration_ms": 115000,
+      "name": "Swing It on Home",
+      "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Swing It on Home",
-      "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
+      "duration_ms": 268693,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 217000,
-      "name": "That Lucky Old Sun",
-      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Tell Me Pretty Baby - 2022 Remaster",
+      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Early One Mornin\u2019 Blues (Live)",
         "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
@@ -620,25 +636,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
-        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Tell Me Pretty Baby - 2022 Remaster",
-      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 239000,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
     },
     {
       "added_at": null,

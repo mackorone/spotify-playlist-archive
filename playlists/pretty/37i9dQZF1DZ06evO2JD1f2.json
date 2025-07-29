@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12901,
+  "num_followers": 12899,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADpfnn18Fu0zR9pokW8cjbk",
+  "snapshot_id": "aIVsAAAAAABbdvGdw3reXMpcerzUhXR4",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
         "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
       },
@@ -795,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
@@ -804,17 +828,13 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 199565,
-      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa"
+      "duration_ms": 165690,
+      "name": "In Town (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/263eZVLZKivILcoy9gend3"
     },
     {
       "added_at": null,
@@ -835,22 +855,6 @@
       "duration_ms": 204533,
       "name": "Hmhmm (feat. EST Gee)",
       "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 103249,
-      "name": "Bigger Than Life Or Death",
-      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
     },
     {
       "added_at": null,
@@ -895,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 103249,
+      "name": "Bigger Than Life Or Death",
+      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Aint Feeling You",
         "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 168607,
       "name": "RIP LU MIKE",
       "url": "https://open.spotify.com/track/2fTtulLDfS5WnNiZmcumit"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 165690,
-      "name": "In Town (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/263eZVLZKivILcoy9gend3"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 126164,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 141633,
       "name": "Capitol 1",
       "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 126164,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG"
     }
   ],
   "unique_name": "This Is EST Gee",

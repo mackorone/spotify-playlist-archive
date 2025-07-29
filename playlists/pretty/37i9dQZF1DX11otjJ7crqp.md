@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Remy Bond
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,195 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,781 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 43 | [surprise!](https://open.spotify.com/track/0I6BQvM62vDau1xn76eJyD) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [surprise!](https://open.spotify.com/album/44xJnasBEye8d4fOjeOtyX) | 2:49 |
 | 44 | [clawmarks](https://open.spotify.com/track/3EmaDeBxjpIPV0FbgHaKA7) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [clawmarks](https://open.spotify.com/album/5UPlR2RJSlhZ5djM52I0gW) | 3:11 |
 | 45 | [BOYS AIN'T SHIT](https://open.spotify.com/track/1btSva6AIe9FM24cUgalq1) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BOYS AIN'T SHIT](https://open.spotify.com/album/1KRduKaFCe7FeyPdIf5NoA) | 1:58 |
-| 46 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
+| 46 | [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 |
 | 47 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 |
 | 48 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
 | 49 | [BIRTHDAY](https://open.spotify.com/track/4GfscdpaWdBjSovc3UNoas) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [BIRTHDAY](https://open.spotify.com/album/2YxzQz0dgcUu6RmR2zc9jD) | 2:27 |

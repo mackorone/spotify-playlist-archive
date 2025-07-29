@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "B with U",
+        "url": "https://open.spotify.com/album/1G3M1IEYZX1E7m7BNLvfpl"
+      },
+      "artists": [
+        {
+          "name": "BULGOGI DISCO",
+          "url": "https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191445,
+      "name": "B with U",
+      "url": "https://open.spotify.com/track/2RTzRSm7rjSsfY2II25Qdk"
+    },
+    {
+      "album": {
         "name": "BABEL",
         "url": "https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF"
       },
@@ -2667,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/4LiuM6QOgsmRfCVL07SlFu"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270453,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn"
+    },
+    {
+      "album": {
         "name": "AoB Compilation Album Vol.1 : Mutant",
         "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
       },
@@ -3524,6 +3560,24 @@
       "duration_ms": 200357,
       "name": "Dew",
       "url": "https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y"
+    },
+    {
+      "album": {
+        "name": "Dimension Theory",
+        "url": "https://open.spotify.com/album/4SOxENfRVQRs3E9DBMejik"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155600,
+      "name": "Dimension Theory",
+      "url": "https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz"
     },
     {
       "album": {
@@ -8074,7 +8128,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 210373,
       "name": "Insomnia (Feat. YAYYOUNG)",
       "url": "https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq"
@@ -16468,7 +16522,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt"
@@ -17910,7 +17964,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"

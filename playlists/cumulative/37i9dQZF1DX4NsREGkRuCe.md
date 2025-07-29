@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-991 songs - 2 day 0 hr 40 min
+992 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-08 | 2023-02-11 |
 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 | 2024-02-16 | 2024-02-23 |
 | [High Fashion](https://open.spotify.com/track/7E16M5RsdOI7I5vz80qck0) | [Portable](https://open.spotify.com/artist/25oA4XUyjYiongEmRv6Slk) | [High Fashion](https://open.spotify.com/album/1wXKQl9ynDdHQyZNuRUFGI) | 2:31 | 2024-07-12 | 2024-08-26 |
+| [HIGH STAR](https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [HIGH STAR](https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95) | 2:19 | 2025-07-25 |  |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-28 | 2025-02-25 |
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-14 | 2024-06-21 |
 | [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 | 2025-05-09 |  |
@@ -878,7 +879,7 @@
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-23 |  |
 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-07 | 2025-07-26 |
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-19 | 2024-09-10 |
-| [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 | 2025-07-18 |  |
+| [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 | 2025-07-18 | 2025-07-29 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-04-19 |
 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 | 2023-12-22 |
 | [Terrified](https://open.spotify.com/track/4z9ypdntkvGCIKYnAeaIJA) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Terrified](https://open.spotify.com/album/5tg2L6H8SCiVC7sLebVqS6) | 5:20 | 2023-05-26 | 2023-06-10 |

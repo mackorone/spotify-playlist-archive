@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29881,
+  "num_followers": 29884,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAABkXhLrDHJr39lb6E+gexqn",
+  "snapshot_id": "aIVsAAAAAACNuZVisaFNtrCACjM0k0Qd",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 217129,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 203400,
       "name": "Un Golpe De Suerte",
       "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Pensando en Ti",
         "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 211706,
       "name": "Hey",
       "url": "https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
     },
     {
       "added_at": null,
@@ -911,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1 Te Animes (En Vivo)",
-        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Ojal\u00e1 Te Animes - En Vivo",
-      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,
@@ -951,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Ojal\u00e1 Te Animes (En Vivo)",
+        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+      "duration_ms": 181906,
+      "name": "Ojal\u00e1 Te Animes - En Vivo",
+      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

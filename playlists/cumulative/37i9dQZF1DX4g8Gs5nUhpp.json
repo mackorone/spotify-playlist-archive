@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: 2pillz, tlinh",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: RIO, 52Hz",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -284,6 +284,24 @@
       "duration_ms": 270643,
       "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
       "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
+    },
+    {
+      "album": {
+        "name": "Anh Ch\u1eb3ng Th\u1ec3",
+        "url": "https://open.spotify.com/album/02d8ze0zMLjXziyKr7Fbol"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m K\u1ef3",
+          "url": "https://open.spotify.com/artist/3yCPgp6ckDEqBUQnybWeTm"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Anh Ch\u1eb3ng Th\u1ec3",
+      "url": "https://open.spotify.com/track/3c8s2bCBk3cn8Taete6Q5B"
     },
     {
       "album": {
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 291529,
       "name": "Em Kh\u00f4ng Sai, Ch\u00fang Ta Sai",
       "url": "https://open.spotify.com/track/3yWacnoBnM0lrzLmXAk44d"
@@ -2460,6 +2478,24 @@
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
+    },
+    {
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
     },
     {
       "album": {
@@ -2738,6 +2774,32 @@
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
+    },
+    {
+      "album": {
+        "name": "XOAY TR\u00d2N",
+        "url": "https://open.spotify.com/album/2fqk3kixhLLCX1AJ8h8ba4"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        },
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        },
+        {
+          "name": "Lelarec",
+          "url": "https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290634,
+      "name": "Gi\u1eef Anh Cho Ng\u00e0y H\u00f4m Qua",
+      "url": "https://open.spotify.com/track/5wYQC7AuxV8ROALWcbVNxc"
     },
     {
       "album": {
@@ -3241,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Kho B\u00e1u",
+        "url": "https://open.spotify.com/album/3Y0pJ9MuiLicJ6tIO5uq6p"
+      },
+      "artists": [
+        {
+          "name": "(S)TRONG",
+          "url": "https://open.spotify.com/artist/7571XEqHqL61NDiLtWXhS5"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196753,
+      "name": "Kho B\u00e1u",
+      "url": "https://open.spotify.com/track/1enwoOU8CFAp9D3TY475sh"
+    },
+    {
+      "album": {
         "name": "\u0110\u1ec2 LEO M\u1ed8T NG\u1eccN N\u00daI",
         "url": "https://open.spotify.com/album/5A8HQs5og9i3Z4f4zyWqBC"
       },
@@ -3358,7 +3438,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 222886,
       "name": "kh\u00f4ng l\u1eddi",
       "url": "https://open.spotify.com/track/4sUO0zmF9LZL1XNe1LjHvV"
@@ -4700,7 +4780,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
@@ -5144,7 +5224,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"

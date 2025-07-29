@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,728 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,748 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 26 | [No te puedo olvidar](https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No te puedo olvidar](https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8) | 3:34 |
 | 27 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estrafalario](https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p) | 2:40 |
 | 28 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
-| 29 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 |
-| 30 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
+| 29 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
+| 30 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 |
 | 31 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
 | 32 | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Troca Mamalona \(feat\. Eme Malafe\)](https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2) | 3:43 |
 | 33 | [El Diablo, La Muerte y Yo](https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 | 50 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
 
-Snapshot ID: `aIQagAAAAADD8qCA0zxIhh5jgZ1SyzlD`
+Snapshot ID: `aIVsAAAAAADMZEYYFSvyN1lC6QUxGfxo`

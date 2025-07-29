@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15465,
+  "num_followers": 15469,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIM0jgAAAADnheduRuMKF9Ud33lbmO4c",
+  "snapshot_id": "aIdGyAAAAABsLELcbuGxaiQPYJ0eALfr",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -189,6 +189,30 @@
       "url": "https://open.spotify.com/track/5owXfexSJX5DguWsS5ACge"
     },
     {
+      "added_at": "2025-07-28 09:45:44",
+      "album": {
+        "name": "Oru Pozhuthu (From \"Vaanil Thedinen\")",
+        "url": "https://open.spotify.com/album/2RdRMrdWdVquNVCahDXKcs"
+      },
+      "artists": [
+        {
+          "name": "Vignesh Raja",
+          "url": "https://open.spotify.com/artist/4PdoILzfYKtrIvlgXGzanS"
+        },
+        {
+          "name": "Ramya RamC",
+          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
+        },
+        {
+          "name": "Alvin Deva",
+          "url": "https://open.spotify.com/artist/46fTQPlhKeJhvA4lJI7DRT"
+        }
+      ],
+      "duration_ms": 142968,
+      "name": "Oru Pozhuthu - From \"Vaanil Thedinen\"",
+      "url": "https://open.spotify.com/track/6TViEFq6pLzQkVHaqmOKDd"
+    },
+    {
       "added_at": "2025-07-18 07:05:04",
       "album": {
         "name": "Konji Pesa",
@@ -327,6 +351,30 @@
       "duration_ms": 91500,
       "name": "Oru Vina",
       "url": "https://open.spotify.com/track/6GZn9kBgICX6JBjpSbgHSq"
+    },
+    {
+      "added_at": "2025-07-28 09:45:44",
+      "album": {
+        "name": "Vellai Mazhaye (From \"Muthal Pakkam\")",
+        "url": "https://open.spotify.com/album/5mOh1j3BQ0vUIWWYtkgYfl"
+      },
+      "artists": [
+        {
+          "name": "AGR",
+          "url": "https://open.spotify.com/artist/6r53VssQ7lvTmY8fDEtYiR"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Anish Ashraf",
+          "url": "https://open.spotify.com/artist/1ZMQnhIxZOqJ4lRCJ83dlk"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Vellai Mazhaye - From \"Muthal Pakkam\"",
+      "url": "https://open.spotify.com/track/4Kt2es8cdWFvoPKFOuMkkA"
     },
     {
       "added_at": "2025-07-11 12:29:52",

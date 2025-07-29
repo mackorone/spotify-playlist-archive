@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 563906,
+  "num_followers": 564021,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "You're Too Precious",
         "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 223900,
       "name": "You're Too Precious",
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -767,6 +751,22 @@
       "duration_ms": 341345,
       "name": "For My Ladies",
       "url": "https://open.spotify.com/track/1GOiGHZpvVIwIXqmXVwvCy"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Sounds Of Blue",
         "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1331,22 +1347,6 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Love Potion",
         "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2025-05-16 06:00:17",

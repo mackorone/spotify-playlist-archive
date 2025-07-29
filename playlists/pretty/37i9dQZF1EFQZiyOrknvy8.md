@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 140 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 139 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 136 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 |
 | 137 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 |
 | 138 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
-| 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
-| 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
+| 139 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Ab37aAAAAAC0Io2e70jStuf4k5Xm7EPv`
+Snapshot ID: `Ab4BCAAAAABMoaaqAJ/O8Pg9filHN0Q/`

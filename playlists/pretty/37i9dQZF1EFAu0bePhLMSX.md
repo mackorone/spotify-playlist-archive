@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 160 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 160 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 89 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
 | 90 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
 | 91 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
-| 92 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
-| 93 | [I'm Alright](https://open.spotify.com/track/0bGS851JgP0O5PXzNXzEcr) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:04 |
+| 92 | [I'm Alright](https://open.spotify.com/track/0bGS851JgP0O5PXzNXzEcr) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:04 |
+| 93 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
 | 94 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 |
 | 95 | [Don't Let Me Down](https://open.spotify.com/track/6AHLNk8luePtX6bUjA3hEW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 4:46 |
 | 96 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 159 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 160 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `Ab37XgAAAAB+EnPsODrEeCFan9t4cHku`
+Snapshot ID: `Ab4A/gAAAACkR55sM30QdJrwxZcNp0Hl`

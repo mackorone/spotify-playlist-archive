@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,717 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,733 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 |
 | 50 | [NMMS](https://open.spotify.com/track/4PtZh2Xu5EohHdVBTLuUqz) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:44 |
 
-Snapshot ID: `aIQagAAAAAAGwaK9dNe/mzNpn28Hmalf`
+Snapshot ID: `aIVsAAAAAADjYqdHTVDb8F5aqyp69oRc`

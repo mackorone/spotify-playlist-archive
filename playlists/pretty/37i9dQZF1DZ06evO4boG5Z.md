@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,321 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,323 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Fazil's Friend](https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:52 |
 | 49 | [Yanny & Laurel](https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 2:48 |
 
-Snapshot ID: `aIQagAAAAABqoqA/bztfMWPTJcWteXOE`
+Snapshot ID: `aIVsAAAAAAAA1FSthEOqZY+a2MwJQH/o`

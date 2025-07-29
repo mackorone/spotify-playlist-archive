@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,704 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,732 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,18 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 43 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 44 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
 | 45 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
-| 46 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
-| 47 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
-| 48 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
+| 46 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
+| 47 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
+| 48 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 49 | [Future Soda](https://open.spotify.com/track/4C1sgQTlXViKQ0E3LXoOew) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Future Soda](https://open.spotify.com/album/4LCcyv7mKIVHZq7Fh0d9kk) | 4:07 |
 | 50 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
-| 51 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 52 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
+| 51 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
+| 52 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
 | 53 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 54 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 55 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
-| 56 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
-| 57 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 |
+| 56 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 |
+| 57 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 58 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 59 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
 | 60 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 72 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
 | 73 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 74 | [キミシダイ列車](https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [残響リファレンス](https://open.spotify.com/album/46tySm112BCkEkfssfPODv) | 4:14 |
-| 75 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
-| 76 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
+| 75 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
+| 76 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
 | 77 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 78 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 79 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 84 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 85 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 |
 | 86 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 |
-| 87 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 |
-| 88 | [ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:06 |
+| 87 | [ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:06 |
+| 88 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 |
 | 89 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
 | 90 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 |
-| 91 | [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 |
-| 92 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 93 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
-| 94 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
+| 91 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
+| 92 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
+| 93 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
+| 94 | [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 |
 | 95 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |
 | 96 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
 | 97 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
-| 98 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
-| 99 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 |
-| 100 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
+| 98 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
+| 99 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
+| 100 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 |
 
 Snapshot ID: `aH+niQAAAAAo1m8ju3o0lXBocq+kyRKK`

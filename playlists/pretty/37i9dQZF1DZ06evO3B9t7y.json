@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1077370,
+  "num_followers": 1077553,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADQNjF5KInf/FA8Q2R9FRdC",
+  "snapshot_id": "aIVsAAAAAACLKkDd/epkDOKfQmdZzBvh",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mutuo",
         "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 177888,
       "name": "Mutuo",
       "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
-        "url": "https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
-      "url": "https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 222285,
       "name": "Guaro (Remix)",
       "url": "https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
+        "url": "https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
+      "url": "https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Thalaivan Thalaivii
 
-312 songs - 20 hr 18 min
+313 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Enai Neengathe Nee \- From "Tharunam"](https://open.spotify.com/track/0FppHG9msGwmKKdJSK44zS) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Enai Neengathe Nee \(From "Tharunam"\)](https://open.spotify.com/album/1KusGIYK1EjUSkBSRAcvF7) | 5:25 | 2024-02-12 | 2025-01-17 |
 | [Endhooru Poradi Pulla \(From "Seetha Payanam"\) \(Tamil\)](https://open.spotify.com/track/5MkMO7d8QXt3cBBaO1hKIe) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sruthy Sivadas](https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ), [Suresh Jithan](https://open.spotify.com/artist/0lJx0HVqt1RQelLtFVx1UD) | [Endhooru Poradi Pulla \(From "Seetha Payanam"\) \(Tamil\)](https://open.spotify.com/album/46gIstiYfF8LPhkgO5rbzP) | 4:15 | 2025-07-14 |  |
 | [Engeyo](https://open.spotify.com/track/4xQWkUflCzPA5UtI9Bt0Qy) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Siva Ananth](https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 2:56 | 2025-05-24 |  |
+| [Enna Sugam \(From "Idli Kadai"\)](https://open.spotify.com/track/5eapD8IF5Ha70315fHiwbK) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Enna Sugam \(From "Idli Kadai"\)](https://open.spotify.com/album/3aUkyC2xD3z5NeGQnUJWCc) | 3:42 | 2025-07-28 |  |
 | [Ennai Vittu](https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 4:04 | 2023-01-04 | 2024-02-13 |
 | [Ennile Ennile \(From "Trending"\)](https://open.spotify.com/track/0JiAhr6QTDcN3EuXYhjYg7) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [HoneyBlaze](https://open.spotify.com/artist/4jSmIS0Ua6GzoOTN3s5H4V), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Ennile Ennile \(From "Trending"\)](https://open.spotify.com/album/7dJ58NJiPQMmx8PMZWl0M2) | 3:27 | 2025-07-08 |  |
 | [Eppa Paarthaalum](https://open.spotify.com/track/544aJ5szBIJQPTslMwpJ5W) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aalambana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39KQ4Vr4myL0VV1c9IFUCR) | 3:29 | 2022-03-29 | 2023-06-16 |

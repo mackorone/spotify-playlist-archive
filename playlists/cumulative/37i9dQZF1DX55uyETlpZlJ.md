@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-532 songs - 1 day 5 hr 55 min
+533 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
 | [Saniha](https://open.spotify.com/track/7hmN27jjClmHVy19FttaLm) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Saniha](https://open.spotify.com/album/3x4tOrDXuh35j0mv9LynSk) | 3:27 | 2025-05-02 |  |
 | [Saniha](https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Saniha](https://open.spotify.com/album/1jG0j98LGR6d1QX8K7J3B8) | 3:36 | 2024-07-14 | 2025-02-07 |
+| [Saniha Neeniddaru](https://open.spotify.com/track/7rLApwpG3STvKLgjXncYXB) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Saniha Neeniddaru](https://open.spotify.com/album/7MvaMNlx2ByU8kklEwa0UB) | 3:13 | 2025-07-28 |  |
 | [Sanji Munda Baara](https://open.spotify.com/track/1FRlkyYRCXNq4EuwYCFV5D) | [sharan](https://open.spotify.com/artist/6mOEdEWobe3buWI9yFv6oF), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Manju Kavi](https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q) | [Sanji Munda Baara](https://open.spotify.com/album/1IC8An5qcYEmOb2ROtPhjq) | 4:09 | 2025-01-10 | 2025-01-14 |
 | [Sanna Sanhe](https://open.spotify.com/track/2spWEByvQoOXImGTN456Jl) | [Ranjan Das](https://open.spotify.com/artist/1xoGSvUCAgFWNPPdRNhBpY), [Chaitrhika V K](https://open.spotify.com/artist/0vHj2WJpPqVx4Po9BTiw6l) | [Sanna Sanhe](https://open.spotify.com/album/32HLzydiXioH3ogXxgHBsy) | 3:22 | 2025-04-28 |  |
 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 | 2024-08-23 |
@@ -502,7 +503,7 @@
 | [Thamma Kel](https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Thamma Kel](https://open.spotify.com/album/0ZZ33eV5ntxd5aLYtWRyar) | 3:10 | 2025-01-27 | 2025-05-03 |
 | [That's OK \- 1 Min Music](https://open.spotify.com/track/6YDRZIUqzVrbgziCHMe6Vx) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [That's OK \- 1 Min Music](https://open.spotify.com/album/4Ohu6HtBYUwWLjrer2Vj1A) | 1:00 | 2022-08-05 | 2023-07-04 |
 | [The Bengaluru Rap](https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [The Bengaluru Rap](https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe) | 1:02 | 2023-08-31 | 2023-09-22 |
-| [Thelidhe Manasu](https://open.spotify.com/track/6IZBHryRA3Swnxwl1c6VdR) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Thelidhe Manasu](https://open.spotify.com/album/5ZDtV1XHgqYZwq3IkvR0Qs) | 2:05 | 2025-02-24 |  |
+| [Thelidhe Manasu](https://open.spotify.com/track/6IZBHryRA3Swnxwl1c6VdR) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Thelidhe Manasu](https://open.spotify.com/album/5ZDtV1XHgqYZwq3IkvR0Qs) | 2:05 | 2025-02-24 | 2025-07-29 |
 | [Thikkane Urdoytu](https://open.spotify.com/track/4xK8kLWUlOJ5oV9ZlvCNWb) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [SK](https://open.spotify.com/artist/71WhhgTlR07JzWe5WCEFQU), [MG](https://open.spotify.com/artist/3ru0W3EQXHgYaasXXvjWJU), [Chandu](https://open.spotify.com/artist/0f4x73SgahH0uXasIRBcqZ) | [Thikkane Urdoytu](https://open.spotify.com/album/2p04eQXEJ97HV7KevaTavL) | 2:27 | 2022-11-02 | 2023-06-08 |
 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 | 2023-07-15 | 2023-09-21 |
 | [Thiz ma Gully](https://open.spotify.com/track/3Lc6Ieoi0LqtcVSkEcb6GF) | [Manchal](https://open.spotify.com/artist/1nOb34gdXcsJGvCHM34geP) | [Thiz ma Gully](https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9) | 3:14 | 2023-02-01 | 2023-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,823 likes - 198 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,825 likes - 198 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 11 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 |
 | 12 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 13 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
-| 14 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
-| 15 | [1999](https://open.spotify.com/track/3WGJSY8JaGliVIJyMig5aS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:09 |
+| 14 | [1999](https://open.spotify.com/track/3WGJSY8JaGliVIJyMig5aS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:09 |
+| 15 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
 | 16 | [OMG \(feat\. Quavo\)](https://open.spotify.com/track/4xBjsLUSjcx2h7PcRikpQp) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [OMG \(feat\. Quavo\)](https://open.spotify.com/album/3Eh8juJMtjYOS4ryAtMDFJ) | 3:48 |
 | 17 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 18 | [Break the Rules](https://open.spotify.com/track/0A5qqtFMG1qrNQEcjvr1A2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 3:23 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 197 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 198 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Ab37hgAAAAA1vDP+vJKbZ5Ju5VBakCAu`
+Snapshot ID: `Ab4BHAAAAAA2rNBuM8IwIlYycU7UY/pZ`

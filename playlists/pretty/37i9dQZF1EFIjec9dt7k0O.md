@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 208 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,919 likes - 208 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 39 | [Always You](https://open.spotify.com/track/5KcT9rJDqQJUSFF3O9wPJ5) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:07 |
 | 40 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
 | 41 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
-| 42 | [Jet Lag \(feat\. Young Scooter\)](https://open.spotify.com/track/2OsDoAzo5SGq10qwmKSQBv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 4:31 |
-| 43 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 42 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 43 | [Jet Lag \(feat\. Young Scooter\)](https://open.spotify.com/track/2OsDoAzo5SGq10qwmKSQBv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 4:31 |
 | 44 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
 | 45 | [No Shame](https://open.spotify.com/track/5EbidH3lGB30WuDsoR4km6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:12 |
 | 46 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 |
 | 47 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
 | 48 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 |
-| 49 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 |
-| 50 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
+| 49 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
+| 50 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 |
 | 51 | [Me & You Together Song](https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 3:27 |
 | 52 | [Lover Of Mine](https://open.spotify.com/track/1hUPOCqOukEl03lOs16DtN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:26 |
 | 53 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/2QMnxA6R1PD0dYyUi5AxZZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 2:40 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 166 | [Do Girls](https://open.spotify.com/track/0BFYW2sNgz4Ai4IA43YaMs) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 3:38 |
 | 167 | [Rebels Without Applause](https://open.spotify.com/track/0ydQtiT94YMzEBlqvBITvh) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Rebels Without Applause](https://open.spotify.com/album/20RqGVQICnXPysBXdnGAZz) | 3:25 |
 | 168 | [Power of Right](https://open.spotify.com/track/3FKYu6nsp3LG6JeEmpZRyV) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 3:33 |
-| 169 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 |
-| 170 | [God Only Knows](https://open.spotify.com/track/3ROQcr0U4X4qeS2qm5Ha7T) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:00 |
+| 169 | [God Only Knows](https://open.spotify.com/track/3ROQcr0U4X4qeS2qm5Ha7T) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:00 |
+| 170 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 |
 | 171 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
 | 172 | [Wings Of Stone](https://open.spotify.com/track/1yZntW925nLegBydduhjWN) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Wings Of Stone](https://open.spotify.com/album/2hBfTjB77BQ4Fa7RN64MNT) | 3:46 |
 | 173 | [Snow](https://open.spotify.com/track/131lgy79NeNjFp3m1kZ4Al) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/2ssQ0Rw8fqgQEDsVVNb0Sm) | 3:30 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 207 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 208 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab37cgAAAAA+rqwmG/OZJQRyy2p5fla+`
+Snapshot ID: `Ab4A9AAAAACPFCmYChPm8Nlfk17MAHru`

@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-304 songs - 19 hr 40 min
+305 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 | 2022-05-20 |  |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [CARE4ME](https://open.spotify.com/track/0LwecaHvWZJ6ZXKxKKydoh) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 1:54 | 2024-03-29 | 2024-04-06 |
-| [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 |  |
+| [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 | 2025-07-29 |
 | [Carry On](https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:53 | 2021-08-18 | 2022-08-13 |
 | [Celebration](https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Celebration](https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV) | 2:48 | 2024-03-29 | 2024-04-06 |
 | [Celestial Hands](https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Growth](https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8) | 5:33 | 2024-05-31 | 2024-08-17 |
@@ -86,6 +86,7 @@
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-08-18 | 2024-03-23 |
 | [Distant Lady](https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [Lost and Found](https://open.spotify.com/album/7Je3fpcl3IE4Labowc1y8S) | 4:58 | 2021-08-18 | 2022-11-11 |
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-08-18 | 2023-02-09 |
+| [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 |  |
 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 | 2024-04-05 | 2024-07-10 |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-04-22 | 2022-11-08 |
 | [Emotion](https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:56 | 2022-04-19 | 2022-04-23 |

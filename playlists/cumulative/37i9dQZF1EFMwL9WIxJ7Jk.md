@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 11 hr 25 min
+220 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [The Best Part \(Interlude\)](https://open.spotify.com/track/6uFZbboK1A4h4jNc87AaOl) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 0:24 | 2023-12-30 | 2025-03-30 |
 | [The Best Part \(Interlude\)](https://open.spotify.com/track/7oNEuFACp53VjotAhPqU8p) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 0:24 | 2025-03-29 | 2025-07-12 |
 | [Throwback Love](https://open.spotify.com/track/2EbY1Lm4zrb2SOKsknxNRK) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:13 | 2023-12-30 | 2025-07-12 |
+| [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 | 2025-07-28 |  |
 | [Timeless](https://open.spotify.com/track/5VwoyOFisHUeHxUMsh96Jk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:13 | 2025-01-08 |  |
 | [Title](https://open.spotify.com/track/18IwlUCETTJSrS0fYkZGEo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 2:54 | 2025-03-29 | 2025-07-12 |
 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 | 2024-01-01 | 2025-03-30 |

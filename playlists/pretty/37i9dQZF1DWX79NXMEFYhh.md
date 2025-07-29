@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,239 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,217 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 8 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 9 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 10 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
-| 11 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
-| 12 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 |
+| 11 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 |
+| 12 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 13 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
 | 14 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 15 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 22 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 23 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 |
 | 24 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 |
-| 25 | [OTW](https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OTW](https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI) | 4:23 |
-| 26 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
+| 25 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
+| 26 | [OTW](https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OTW](https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI) | 4:23 |
 | 27 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
 | 28 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
 | 29 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 44 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 45 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 | 46 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
-| 47 | [LAST GOODBYE](https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [LAST GOODBYE](https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq) | 2:28 |
-| 48 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 47 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 48 | [LAST GOODBYE](https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [LAST GOODBYE](https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq) | 2:28 |
 | 49 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 50 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 

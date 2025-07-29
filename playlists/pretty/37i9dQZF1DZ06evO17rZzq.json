@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4651,
+  "num_followers": 4654,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADVw18u6yFyxaPHN+ClkGUR",
+  "snapshot_id": "aIVsAAAAAAD/3po8NnISBq7zCVv27fbQ",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 150743,
-      "name": "Red Light Special (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shiesty (feat. Kaliii & Sexyy Red)",
         "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 150743,
+      "name": "Red Light Special (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 159755,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OOP",
         "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 130813,
       "name": "OOP",
       "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 159755,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
     },
     {
       "added_at": null,

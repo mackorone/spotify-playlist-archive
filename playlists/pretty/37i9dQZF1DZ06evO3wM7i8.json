@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 34595,
+  "num_followers": 34600,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADKAou9g1DQAotlCLaj61i7",
+  "snapshot_id": "aIVsAAAAAABU3qq8y7y8+qZN+g3Wmy/s",
   "tracks": [
     {
       "added_at": null,
@@ -491,30 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
-        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 149370,
-      "name": "I Saw Stars",
-      "url": "https://open.spotify.com/track/2tDKWngdaCDdXtj1BgRa6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limitless Jazz, Vol. 31",
         "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
       },
@@ -535,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War Clouds 1940",
         "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
@@ -567,6 +527,22 @@
       "duration_ms": 163226,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
     },
     {
       "added_at": null,
@@ -627,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Ol' Man River",
-      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -675,54 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
-      },
-      "artists": [
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 176052,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -730,11 +634,43 @@
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 182866,
-      "name": "My Serenade",
-      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+      "duration_ms": 157840,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
+        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 149370,
+      "name": "I Saw Stars",
+      "url": "https://open.spotify.com/track/2tDKWngdaCDdXtj1BgRa6n"
     },
     {
       "added_at": null,
@@ -771,6 +707,70 @@
       "duration_ms": 172993,
       "name": "I Can't Give You Anything but Love",
       "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+      },
+      "artists": [
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 176052,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "My Serenade",
+      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
-        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/0dFfiBFNd10yWiQ8vGrff8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limitless Jazz, Vol. 32",
         "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
       },
@@ -919,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
+        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/0dFfiBFNd10yWiQ8vGrff8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -939,30 +939,6 @@
       "duration_ms": 154548,
       "name": "Swing from Paris",
       "url": "https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
-        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 173770,
-      "name": "Djangology",
-      "url": "https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL"
     },
     {
       "added_at": null,
@@ -992,6 +968,10 @@
       },
       "artists": [
         {
+          "name": "Dino Olivieri",
+          "url": "https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5"
+        },
+        {
           "name": "St\u00e9phane Grappelli",
           "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         },
@@ -1003,6 +983,30 @@
       "duration_ms": 160000,
       "name": "Tornerai (J'attendrai)",
       "url": "https://open.spotify.com/track/4Ka5krmfRuHNBYXJ6jV0C7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
+        "url": "https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 173770,
+      "name": "Djangology",
+      "url": "https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL"
     },
     {
       "added_at": null,

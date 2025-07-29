@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: Sethu
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,983 likes - 122 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,985 likes - 122 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

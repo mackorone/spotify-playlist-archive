@@ -7405,6 +7405,24 @@
     },
     {
       "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/6s4fgB4zdqPJN7eheY7j52"
+      },
+      "artists": [
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155826,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/4XcJLTSiFcSxymMBAfG2Qe"
+    },
+    {
+      "album": {
         "name": "FUFN (Fuck You For Now)",
         "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
       },

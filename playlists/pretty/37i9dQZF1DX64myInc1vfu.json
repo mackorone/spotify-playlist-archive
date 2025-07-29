@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Escarlata",
-  "num_followers": 98500,
+  "num_followers": 98516,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 157176,
+      "name": "Odio Gitano",
+      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "D\u00e9jame Conocerte",
         "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "Juntos Otra Vez",
-        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        },
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 157176,
-      "name": "Odio Gitano",
-      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 220647,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -715,22 +695,22 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "TRAUMADOS",
-        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
         },
         {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 255714,
-      "name": "cuando el mundo acabe",
-      "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
+      "duration_ms": 220647,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -767,6 +747,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "TRAUMADOS",
+        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 255714,
+      "name": "cuando el mundo acabe",
+      "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -779,6 +779,38 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -811,38 +843,6 @@
       "duration_ms": 201626,
       "name": "Gualero REFF12.31",
       "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
-      },
-      "artists": [
-        {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Fantas\u00edas",
         "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
       },
@@ -935,6 +919,42 @@
       "duration_ms": 165586,
       "name": "Amor En Cuarentena",
       "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+      },
+      "artists": [
+        {
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1047,42 +1067,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "\u00bfQui\u00e9n Se Va?",
-        "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        },
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 187161,
-      "name": "\u00bfQui\u00e9n Se Va?",
-      "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Del Cielo Te Cuido",
         "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 208453,
       "name": "Del Cielo Te Cuido",
       "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
     }
   ],
   "unique_name": "boleritos",

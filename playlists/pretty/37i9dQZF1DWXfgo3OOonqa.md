@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,380 likes - 109 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,376 likes - 109 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Demon Block](https://open.spotify.com/track/2jfvL18fxqw9fN5prs6o3N) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [ROCKAMAN FLOW](https://open.spotify.com/album/0MJgu1pQL8uoeRRYKhQpq6) | 2:28 |
-| 2 | [TOUCHDOWN \(2015\)](https://open.spotify.com/track/7eqkxYQa1YcQoh226A17VF) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Old N Gold](https://open.spotify.com/album/64WkwYpDQ1z2u2ni5JZFnC) | 2:38 |
-| 3 | [Continental](https://open.spotify.com/track/7cpXS5OjqB5JFFPZLPLOv6) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Continental](https://open.spotify.com/album/0lEsWnbDE0MSFsyc4gDNic) | 2:31 |
+| 2 | [Continental](https://open.spotify.com/track/7cpXS5OjqB5JFFPZLPLOv6) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Continental](https://open.spotify.com/album/0lEsWnbDE0MSFsyc4gDNic) | 2:31 |
+| 3 | [TOUCHDOWN \(2015\)](https://open.spotify.com/track/7eqkxYQa1YcQoh226A17VF) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Old N Gold](https://open.spotify.com/album/64WkwYpDQ1z2u2ni5JZFnC) | 2:38 |
 | 4 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 |
 | 5 | [M.I.A](https://open.spotify.com/track/3KhLHYsBY487ITDnPXV2Ka) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [M.I.A](https://open.spotify.com/album/0yUy79c2a3CRRJPjrkG8cf) | 3:26 |
 | 6 | [Pierroo](https://open.spotify.com/track/3R8R5KFhnCsNk1i5XEEbL9) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Pierroo](https://open.spotify.com/album/3amKSCNRWVk7tSdPhKpRRh) | 2:15 |
 | 7 | [Mi Amor](https://open.spotify.com/track/2gwdgwRuor7g0uhYGBFuW0) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Mi Amor](https://open.spotify.com/album/6MIwc2cD9gJEXNhcyKHxuX) | 2:47 |
-| 8 | [Spola om](https://open.spotify.com/track/3IwBe9A1oqs69eIsBelEJj) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Spola om](https://open.spotify.com/album/7I3Jf6ORUFFvPGYXprHfoE) | 2:32 |
-| 9 | [Kan jag ba få veta?](https://open.spotify.com/track/6Hoih13IjxYa0eZDhmminW) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Kan jag ba få veta?](https://open.spotify.com/album/4NF5q0fUvN5rOsMwcgirwt) | 1:56 |
-| 10 | [MER ÄN EN M](https://open.spotify.com/track/3SvzE8kBBFFXsgcYpUZLlf) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MER ÄN EN M](https://open.spotify.com/album/2qd9pHzgZaNSeGtGo3YDxs) | 2:47 |
-| 11 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 |
-| 12 | [Hosianna](https://open.spotify.com/track/1lovqjNeukfYJrQtQdEyfn) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [Hosianna](https://open.spotify.com/album/5u07mkTtUchuT1wiKFoQD5) | 2:05 |
-| 13 | [Mob Style](https://open.spotify.com/track/3gNxh5HZRt6OS1TQRwe2EK) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Mob Style](https://open.spotify.com/album/639YONxz7Qhx6GphGudWl8) | 2:39 |
+| 8 | [Mob Style](https://open.spotify.com/track/3gNxh5HZRt6OS1TQRwe2EK) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Mob Style](https://open.spotify.com/album/639YONxz7Qhx6GphGudWl8) | 2:39 |
+| 9 | [Spola om](https://open.spotify.com/track/3IwBe9A1oqs69eIsBelEJj) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Spola om](https://open.spotify.com/album/7I3Jf6ORUFFvPGYXprHfoE) | 2:32 |
+| 10 | [Kan jag ba få veta?](https://open.spotify.com/track/6Hoih13IjxYa0eZDhmminW) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Kan jag ba få veta?](https://open.spotify.com/album/4NF5q0fUvN5rOsMwcgirwt) | 1:56 |
+| 11 | [MER ÄN EN M](https://open.spotify.com/track/3SvzE8kBBFFXsgcYpUZLlf) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MER ÄN EN M](https://open.spotify.com/album/2qd9pHzgZaNSeGtGo3YDxs) | 2:47 |
+| 12 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 |
+| 13 | [Hosianna](https://open.spotify.com/track/1lovqjNeukfYJrQtQdEyfn) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [Hosianna](https://open.spotify.com/album/5u07mkTtUchuT1wiKFoQD5) | 2:05 |
 | 14 | [Berlin](https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Berlin](https://open.spotify.com/album/2Ledv5IU1jLs3JqSCEdA20) | 2:24 |
 | 15 | [Ala rasi](https://open.spotify.com/track/2oS8Zc7G3OWRXbp9ebTGnW) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Ala rasi](https://open.spotify.com/album/2F8wgZEe1VraVmiD82cpUU) | 2:20 |
 | 16 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 108 | [AYWA](https://open.spotify.com/track/1dWAYiEBEZNfhTc7yQz8AM) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [AYWA](https://open.spotify.com/album/6q6Es7j8AyZXubmzurovKM) | 2:18 |
 | 109 | [En sista gång](https://open.spotify.com/track/59gjiR00mvfLrGRwFLhxCo) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [En sista gång](https://open.spotify.com/album/68oSNCwaTxD7Sarr9dXblG) | 2:25 |
 
-Snapshot ID: `aIORtwAAAADlKLMrzqzIQXtMxwO36z87`
+Snapshot ID: `aIcgJgAAAADRLKT+C40FBoimz/Ur74Rj`

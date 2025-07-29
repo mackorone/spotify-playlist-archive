@@ -1,6 +1,6 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 53849,
+  "num_followers": 53853,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
+        "name": "Catch & Release (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Catch & Release (Deepend remix)",
+      "url": "https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK"
       },
@@ -1719,22 +1739,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Catch & Release (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl"
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
       },
       "artists": [
         {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 196198,
-      "name": "Catch & Release (Deepend remix)",
-      "url": "https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS"
+      "duration_ms": 268466,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1755,22 +1771,6 @@
       "duration_ms": 245755,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd"
     }
   ],
   "unique_name": "10's Allerbeste",

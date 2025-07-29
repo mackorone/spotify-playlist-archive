@@ -4,7 +4,7 @@
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 44 min
+62 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-12-13 |  |
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2023-12-13 |  |
 | [in the dark](https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:31 | 2023-12-13 | 2025-07-27 |
+| [in\_the\_dark.ech](https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 | 2025-07-29 |  |
 | [It Never Ends](https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There is a Hell Believe Me I've Seen It\. There is a Heaven Let's Keep it a Secret](https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl) | 4:34 | 2023-12-13 | 2025-07-17 |
 | [king\_sl@yer.fmk](https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:02 | 2025-07-27 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2023-12-13 |  |
@@ -53,7 +54,7 @@
 | [n/A](https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:20 | 2024-05-26 |  |
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2023-12-13 |  |
 | [Parasite Eve](https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 4:51 | 2023-12-13 |  |
-| [parasite.ev3](https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:14 | 2025-07-24 |  |
+| [parasite.ev3](https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:14 | 2025-07-24 | 2025-07-29 |
 | [R.i.p\. \(duskCOre RemIx\)](https://open.spotify.com/track/2FpTKYNgIKLGpNYu7doupu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:23 | 2024-05-28 | 2024-06-01 |
 | [seenitallbefore\_xx.arch](https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:28 | 2025-07-14 | 2025-07-27 |
 | [Shadow Moses](https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 | 2023-12-13 |  |

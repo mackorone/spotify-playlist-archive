@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > Every summer needs a soundtrack\. 🐊🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,954 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,143 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 18 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 19 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 20 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
-| 21 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 22 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
+| 21 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
+| 22 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 23 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 24 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 25 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 33 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
 | 34 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 35 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
-| 36 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
-| 37 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
+| 36 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
+| 37 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
 | 38 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 39 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 40 | [Girls Like You](https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Girls Like You](https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc) | 3:35 |

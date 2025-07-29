@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,046 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,044 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 39 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
 | 40 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
 | 41 | [Dançar Com Você](https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:53 |
-| 42 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
-| 43 | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W) | 4:07 |
+| 42 | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W) | 4:07 |
+| 43 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
 | 44 | [No Cais](https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:28 |
 | 45 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
 | 46 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 |
 | 50 | [Eu To Mudada](https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:55 |
 
-Snapshot ID: `aIQagAAAAADl895j+G8CEhLS1ObNi1nA`
+Snapshot ID: `aIVsAAAAAABB3Y7JenT5cfykL0Bovo8+`

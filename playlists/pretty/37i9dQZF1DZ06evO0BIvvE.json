@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11196,
+  "num_followers": 11199,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADR/BXI8REHzAS5Yf8f6p3o",
+  "snapshot_id": "aIVsAAAAAADUP+obg7XeKvgLwyKSuRp+",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "False Faces",
+      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me and Mrs. Jones (1895 Jazz Remix)",
         "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 308103,
       "name": "Me and Mrs. Jones (1895 Jazz Remix)",
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "False Faces",
-      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Don't Give Up On Us",
-      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -499,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
         {
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 438986,
-      "name": "I Was Married",
-      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
+      "duration_ms": 219426,
+      "name": "Don't Give Up On Us",
+      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
     },
     {
       "added_at": null,
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
+      "duration_ms": 438986,
+      "name": "I Was Married",
+      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 329013,
       "name": "When Love Is New",
       "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandra de S\u00e1 (1988)",
-        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 325053,
-      "name": "Amanh\u00e3 (feat. Billy Paul)",
-      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sandra de S\u00e1 (1988)",
+        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 325053,
+      "name": "Amanh\u00e3 (feat. Billy Paul)",
+      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
     },
     {
       "added_at": null,

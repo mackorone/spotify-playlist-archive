@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,816 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,800 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
 | 2 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 | 3 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
-| 4 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
-| 5 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
+| 4 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
+| 5 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
 | 6 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 7 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 8 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |

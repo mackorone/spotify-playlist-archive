@@ -4,7 +4,7 @@
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Escarlata
 
-154 songs - 8 hr 40 min
+155 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Tesoro](https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Tesoro](https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp) | 3:33 | 2023-01-13 | 2023-07-01 |
 | [Tiempo De Reír](https://open.spotify.com/track/7tnj2t2hFnDvxDteGuO9TV) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Parceiros, Vol\. 3](https://open.spotify.com/album/0iOAjduxkyRrCrU1n4G8Km) | 3:39 | 2025-01-24 | 2025-03-25 |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-19 |  |
+| [tu amor me da paz](https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [tu amor me da paz](https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN) | 3:15 | 2025-07-25 |  |
 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 | 2023-10-27 | 2024-09-07 |
 | [Tú](https://open.spotify.com/track/1DMiJvljMa3QwvIGDqGJtF) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/4vWMXbIf6HRnxd3vZ4fq66) | 2:51 | 2022-02-16 | 2022-07-29 |
 | [Tú](https://open.spotify.com/track/6OQWXsydNnIVHfbJrTMNer) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/1O88OBOAtX6c8DUMEkq5HY) | 2:51 | 2022-08-05 | 2022-10-23 |
@@ -160,7 +161,7 @@
 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 | 2024-06-28 |  |
 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 | 2022-02-16 |  |
 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2024-05-17 |  |
-| [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 | 2022-02-16 |  |
+| [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 | 2022-02-16 | 2025-07-29 |
 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 | 2022-02-16 | 2023-07-01 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

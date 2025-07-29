@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058,588 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058,868 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 27 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
 | 28 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
 | 29 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
-| 30 | [King Nothing](https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 5:28 |
-| 31 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
+| 30 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
+| 31 | [King Nothing](https://open.spotify.com/track/140u2dqlZbpi4ZLgeolKqA) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 5:28 |
 | 32 | [Harvester of Sorrow](https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 5:45 |
 | 33 | [Holier Than Thou \- Remastered 2021](https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 3:47 |
 | 34 | [Hero of the Day \- Remastered](https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 4:21 |
 | 35 | [The Four Horsemen \- Remastered](https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe / Remastered\)](https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n) | 7:12 |
 | 36 | [...And Justice for All](https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 9:45 |
 | 37 | [Of Wolf and Man \- Remastered 2021](https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 4:16 |
-| 38 | [All Nightmare Long](https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:57 |
-| 39 | [Creeping Death \(Remastered\)](https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:35 |
+| 38 | [Creeping Death \(Remastered\)](https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:35 |
+| 39 | [All Nightmare Long](https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:57 |
 | 40 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 |
 | 41 | [Through the Never \- Remastered 2021](https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 4:04 |
-| 42 | [Disposable Heroes](https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:16 |
-| 43 | [Mama Said \- Remastered](https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 5:19 |
+| 42 | [Mama Said \- Remastered](https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 5:19 |
+| 43 | [Disposable Heroes](https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:16 |
 | 44 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
 | 45 | [No Leaf Clover \- Live](https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD) | 5:43 |
 | 46 | [72 Seasons](https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Eye of the Beholder](https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:25 |
 | 50 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
 
-Snapshot ID: `aIQagAAAAACfpyq5i3jST7Drb4FvqRbV`
+Snapshot ID: `aIVsAAAAAABQQC/s6lb3CNxwqG0Pnvec`

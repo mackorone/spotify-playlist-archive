@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Eladio Carrion & Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,529 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,341 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [Rapeando A Cualquier Hora \#30](https://open.spotify.com/track/3Dr43iU87eIL2vwQxvSE7R) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Rapeando A Cualquier Hora \#30](https://open.spotify.com/album/015xGQKk4Jy9VG0BJEojXG) | 1:47 |
 | 23 | [Alligator](https://open.spotify.com/track/0modORGSenw6pAm10E5ayV) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Alligator](https://open.spotify.com/album/26UcI2jkZrTKjXZL4g5qjv) | 2:08 |
 | 24 | [BACK TO THE 90s](https://open.spotify.com/track/4eZwTqnEhXNcbk2rqU8sZT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Big Sempa](https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf) | [LOS CHICOS DEL NORTE](https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m) | 3:21 |
-| 25 | [Si Te Vas \- Remix](https://open.spotify.com/track/1ldjtEiy3uanvWXZ4efJON) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Si Te Vas \(Remix\)](https://open.spotify.com/album/7m6ToDegdnWjRCNr7JG8HI) | 4:00 |
+| 25 | [Si Te Vas \- Remix](https://open.spotify.com/track/1ldjtEiy3uanvWXZ4efJON) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Si Te Vas \(Remix\)](https://open.spotify.com/album/7m6ToDegdnWjRCNr7JG8HI) | 4:00 |
 | 26 | [Cartier](https://open.spotify.com/track/4BOg2ccj24y4HKF8tbR3Vj) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Cartier](https://open.spotify.com/album/3f59YESZOcAgpdMgMAWbLG) | 2:43 |
 | 27 | [Taliban](https://open.spotify.com/track/1btNs9848rQfN7bWVYSkjV) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Taliban](https://open.spotify.com/album/7Hr5KOqwR5OKJcCxOY9c3L) | 2:17 |
 | 28 | [My PaPi ChuLo](https://open.spotify.com/track/0BgU8fvTRIxNwkmgtQtfvm) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [My PaPi ChuLo](https://open.spotify.com/album/1xAI4MwYuBipyW2TD0F3QW) | 2:32 |

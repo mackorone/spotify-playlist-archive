@@ -527,6 +527,32 @@
     },
     {
       "album": {
+        "name": "Longway",
+        "url": "https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB"
+    },
+    {
+      "album": {
         "name": "Busy Getting Paid",
         "url": "https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK"
       },
@@ -2066,7 +2092,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 165581,
       "name": "Pyaar Tenu Karda Gabru (From \"Shubh Mangal Zyada Saavdhan\")",
       "url": "https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb"

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-1,442 songs - 4 day 2 hr 1 min
+1,443 songs - 4 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [Power Melts Away](https://open.spotify.com/track/570fmjtmNPAfPCObDf4RhK) | [Loveshadow](https://open.spotify.com/artist/0GkDenXPntgMBSzRZab1JM) | [II](https://open.spotify.com/album/3orDNHHDpKNNO0j8CqRg3r) | 6:52 | 2024-08-07 | 2024-09-12 |
 | [Praise](https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Sinister Grift](https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9) | 3:31 | 2025-03-05 | 2025-04-24 |
 | [Pray To Me](https://open.spotify.com/track/0cUwbbBAQBIAVOoeViCIeb) | [BAMBARA](https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6) | [Pray To Me](https://open.spotify.com/album/11zYqXZ5SJzgXUh0HADIcg) | 3:29 | 2024-12-04 | 2025-02-06 |
+| [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-07-28 |  |
 | [PRESSED](https://open.spotify.com/track/4WYoSVibjO0PftEmfRimMN) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [PRESSED](https://open.spotify.com/album/6O5pvcu2FyE8FZYx2Mzl3M) | 1:19 | 2023-02-08 | 2023-03-16 |
 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-01-17 | 2024-03-01 |
 | [pretender to surrender](https://open.spotify.com/track/3eC4Ks2cmVc8xUi0UaTxYO) | [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk), [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [pretender to surrender](https://open.spotify.com/album/1a0zCTyhCUZlR9n32amZBR) | 4:54 | 2024-06-12 | 2024-07-18 |

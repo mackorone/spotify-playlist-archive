@@ -1,6 +1,6 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 592154,
+  "num_followers": 592393,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-01-03 14:50:49",
+      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 229360,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
-    },
-    {
-      "added_at": "2023-01-03 14:50:49",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 201254,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+      "duration_ms": 201254,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
     },
     {
       "added_at": "2023-01-03 14:50:49",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
+    },
+    {
+      "added_at": "2023-01-03 14:50:49",
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2023-01-03 14:50:49",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2023-01-03 14:50:49",

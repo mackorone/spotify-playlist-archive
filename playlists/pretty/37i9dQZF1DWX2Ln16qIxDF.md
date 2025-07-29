@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenes que escuchar  📸 DobleP y La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,772 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,876 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 3 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
 | 4 | [Entra En Mi vida / La De La Mala Suerte \- En Vivo](https://open.spotify.com/track/0mYdCMOJH2nvHXx9VLzVBl) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Entra En Mi Vida / La De La Mala Suerte \(En Vivo\)](https://open.spotify.com/album/3ULJmOsz4m4VafxGGXsDWB) | 3:15 |
 | 5 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 |
-| 6 | [Tu Me Dice](https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls) | [salastkbr0n](https://open.spotify.com/artist/0TtAyLGnZIryy3kKBydSoK) | [Tu Me Dice](https://open.spotify.com/album/26B0HS1Tk6auY7NwLEB8dL) | 1:47 |
+| 6 | [](https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tu Me Dice](https://open.spotify.com/album/26B0HS1Tk6auY7NwLEB8dL) | 0:00 |
 | 7 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 8 | [amor de veraNO](https://open.spotify.com/track/6WJ2QzbVnjmPGKpmb6tmmO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [amor de veraNO](https://open.spotify.com/album/5HcFNQRrln543myn8MwucM) | 3:18 |
 | 9 | [5 Pa Las 12](https://open.spotify.com/track/7L0pCzg4LmOxcPyk554aTa) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 3:55 |

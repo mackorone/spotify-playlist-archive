@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888063,
+  "num_followers": 888101,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAD65MheCQaAFqgM89ZOWyjo",
+  "snapshot_id": "aIVsAAAAAAC/4loTXP7axhjdYO+MO61c",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 218746,
       "name": "High School",
       "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pinkprint (International Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI (Bonus)",
         "url": "https://open.spotify.com/album/5eczdMiRvq3ZB0ogylQOLD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 203981,
       "name": "Banned From NO (with Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/0w6Y7dbsjByFQ8C8LUktto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
-        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 234333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 189533,
       "name": "Bed (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
     },
     {
       "added_at": null,

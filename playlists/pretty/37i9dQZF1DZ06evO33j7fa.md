@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,169 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,195 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,20 +33,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 23 | [Three Hours](https://open.spotify.com/track/3Mc00D5lLah9WAn62rDKrH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 6:12 |
 | 24 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 | 25 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
-| 26 | [Fly](https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R) | [Chris Adams](https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Beyond All Reasonable Doubt](https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw) | 3:19 |
-| 27 | [Time Of No Reply](https://open.spotify.com/track/2Q8kCpA08VCLRiJY1Tonxa) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The John Peel Session](https://open.spotify.com/album/3GjUa3zM2G02BAnNpvqaw5) | 2:42 |
+| 26 | [My Love Left With The Rain \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/5IWBbQgkXBNCmdGijw8Hpq) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 3:51 |
+| 27 | [Fly](https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R) | [Chris Adams](https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Beyond All Reasonable Doubt](https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw) | 3:19 |
 | 28 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 |
 | 29 | [All My Trials](https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:55 |
-| 30 | [My Love Left With The Rain \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/5IWBbQgkXBNCmdGijw8Hpq) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 3:51 |
-| 31 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 |
-| 32 | [Blues Run The Game](https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:25 |
-| 33 | [Mayfair \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 2:17 |
-| 34 | [Magic \- Orchestrated Version 2](https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:45 |
-| 35 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
-| 36 | [Instrumental \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/0J9G3K0eY0oCmIdCvpdB6S) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 1:40 |
-| 37 | [They're Leaving Me Behind](https://open.spotify.com/track/6OEmSqjP5aXJnbCkoaYuyF) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 3:17 |
+| 30 | [Instrumental \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/0J9G3K0eY0oCmIdCvpdB6S) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 1:40 |
+| 31 | [Time Of No Reply](https://open.spotify.com/track/2Q8kCpA08VCLRiJY1Tonxa) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The John Peel Session](https://open.spotify.com/album/3GjUa3zM2G02BAnNpvqaw5) | 2:42 |
+| 32 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 |
+| 33 | [Blues Run The Game](https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:25 |
+| 34 | [Mayfair \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 2:17 |
+| 35 | [Magic \- Orchestrated Version 2](https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:45 |
+| 36 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
+| 37 | [Mickey’s Tune \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 3:23 |
 | 38 | [Blossom \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 4:25 |
-| 39 | [Mickey’s Tune \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/5YUnQbDO1oaHsW0aHDfqdU) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 3:23 |
-| 40 | [Made To Love Magic \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/77vzXRqnYcXVrkHca3WqLi) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 5:28 |
+| 39 | [Made To Love Magic \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/77vzXRqnYcXVrkHca3WqLi) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 5:28 |
 
-Snapshot ID: `aIQagAAAAAD7zYXDWmOM4cEHsFPh0p+7`
+Snapshot ID: `aIVsAAAAAAAxCrbXpirq4aUHuQ6X01w6`

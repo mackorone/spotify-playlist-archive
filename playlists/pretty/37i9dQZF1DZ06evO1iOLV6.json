@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11485,
+  "num_followers": 11489,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAADeUCYrYVdk7F7sATajd5D+",
+  "snapshot_id": "aIVsAAAAAABCAyJn2SeknqYo9DR8jwrQ",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suh Different",
-        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 218488,
-      "name": "Suh Different",
-      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 267993,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6P4kIjBGUzlieJBkUFobTL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suh Different",
+        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 218488,
+      "name": "Suh Different",
+      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrate Me",
-        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Celebrate Me",
-      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/6AggMrJjq5i8HftaQMpnJt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 234226,
       "name": "Is It Because I Love You",
       "url": "https://open.spotify.com/track/1qfNnRKkN2tvAdFch4fOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,

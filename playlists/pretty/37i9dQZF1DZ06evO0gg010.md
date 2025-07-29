@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,483 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,258 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 21 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 22 | [peliculiando](https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:28 |
 | 23 | [ULTIMAMENTE](https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:28 |
-| 24 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 |
+| 24 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 |
 | 25 | [INMORTAL](https://open.spotify.com/track/3BssiKHkHy0zXZCj1T8TcJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:17 |
-| 26 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 |
+| 26 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 |
 | 27 | [Fresas Con Crema](https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:20 |
-| 28 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
+| 28 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 | 29 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
-| 30 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
+| 30 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 31 | [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 |
 | 32 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
 | 33 | [BARBIEZ](https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Falsa](https://open.spotify.com/track/3N5fHogY7kxVNrD7icdzXY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:36 |
 | 50 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
 
-Snapshot ID: `aIQagAAAAAD79xXX0J6zCm8YtVmhjBk0`
+Snapshot ID: `aIVsAAAAAAAgRDteTugshK2JP/GlsEWJ`

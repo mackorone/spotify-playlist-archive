@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,538 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,555 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 29 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 |
 | 30 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 |
 | 31 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
-| 32 | [Alone In The Studio With My Gun \(feat\. mgk, Kodak Black\)](https://open.spotify.com/track/7uGBxHPuPrz9YvYssdcqhI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 2:52 |
-| 33 | [Pimpin Ain't Eazy](https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 2:57 |
-| 34 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 |
+| 32 | [Pimpin Ain't Eazy](https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 2:57 |
+| 33 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 |
+| 34 | [Alone In The Studio With My Gun \(feat\. mgk, Kodak Black\)](https://open.spotify.com/track/7uGBxHPuPrz9YvYssdcqhI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 2:52 |
 | 35 | [Purp](https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 4:00 |
 | 36 | [MoshPit \(feat\. Juice WRLD\)](https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:44 |
 | 37 | [Codeine Dreaming \(feat\. Lil Wayne\)](https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Project Baby 2: All Grown Up \(Deluxe Edition\)](https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 49 | [Z Look Jamaican](https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
 | 50 | [Till im Gone \(feat\. Kodak Black\)](https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:46 |
 
-Snapshot ID: `aIQagAAAAAAHmsdy9NjlhII6M8VZ+eG1`
+Snapshot ID: `aIVsAAAAAAA61+idrfgjoaa0xrTx9y4a`

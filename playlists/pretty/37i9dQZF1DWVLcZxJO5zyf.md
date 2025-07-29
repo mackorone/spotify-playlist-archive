@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rico Dalasam
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,328,519 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,328,304 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

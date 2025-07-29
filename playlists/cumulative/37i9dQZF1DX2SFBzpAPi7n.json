@@ -2671,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/4LiuM6QOgsmRfCVL07SlFu"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270453,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn"
+    },
+    {
+      "album": {
         "name": "City of Freedom",
         "url": "https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC"
       },
@@ -10372,7 +10390,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 213000,
       "name": "Night Runner (Shooting Star)",
       "url": "https://open.spotify.com/track/1b3r8lsK8BJSsOUoIpRTLG"
@@ -15840,7 +15858,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
@@ -16666,7 +16684,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,248 songs - 2 day 22 hr 21 min
+1,249 songs - 2 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-01 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-19 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2025-04-27 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2025-04-27 | 2025-07-29 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-10-21 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-06 | 2022-10-08 |
 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 | 2023-10-28 | 2023-10-30 |
@@ -619,7 +619,7 @@
 | [אין לי אותך](https://open.spotify.com/track/3Rq8vC7CDbqs3VHJxsu6TW) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/432qmy3EY5mh8NWpwFRYfD) | 3:13 | 2024-04-15 | 2024-04-17 |
 | [אין לי ארץ אחרת](https://open.spotify.com/track/0O39bLHAGjH56HwSpU8tP8) | [Gali Atari](https://open.spotify.com/artist/4og9lYRD6weUueMRu8lbP4) | [אמצע ספטמבר](https://open.spotify.com/album/4wuC67qADh8SaH0ZDtwZRH) | 3:09 | 2023-04-26 | 2023-04-28 |
 | [אין לי כח](https://open.spotify.com/track/4XCGTV9uchQOFffzH1eqDo) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [אין לי כח](https://open.spotify.com/album/4IwjBNQDDQkiM1spf5Kiin) | 3:29 | 2022-07-05 | 2022-07-31 |
-| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-01-03 |  |
+| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-01-03 | 2025-07-29 |
 | [אין מאושר ממני](https://open.spotify.com/track/0XQ39JCh0I9tsKEmwMEH5F) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [מסע](https://open.spotify.com/album/088zTAQ5eV3aBrBgesvNSJ) | 2:52 | 2021-12-29 | 2022-01-23 |
 | [אין מאושר ממני](https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [אין מאושר ממני](https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT) | 2:52 | 2021-12-09 | 2021-12-30 |
 | [אין מה לחפש בחוץ](https://open.spotify.com/track/7inwpGKVgS13Igzdz0m4yu) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 | 2025-01-11 | 2025-01-19 |
@@ -838,7 +838,7 @@
 | [חתולים](https://open.spotify.com/track/7IGkkk83NInOaTmLALMP7L) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [חתולים](https://open.spotify.com/album/6SSW04Xf7QMwtQSvaVUYjx) | 3:38 | 2021-03-27\* | 2021-05-29 |
 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 | 2025-01-18 | 2025-05-31 |
 | [טיל פצמר](https://open.spotify.com/track/0JoYMP7hvEwxKCjj9szUo6) | [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [טיל פצמר](https://open.spotify.com/album/7pkmnnhjVV4vSCbUnguYcj) | 2:15 | 2023-08-12 | 2023-12-26 |
-| [טקילה](https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:40 | 2024-11-11 | 2025-07-03 |
+| [טקילה](https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:40 | 2024-11-11 |  |
 | [טרילילי טרללה](https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL) | [טרילילי טרללה](https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk) | 3:23 | 2021-06-23 | 2022-05-08 |
 | [טרנטולה](https://open.spotify.com/track/4py8ddBPFRTYqL3vbh2FXq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:10 | 2023-02-23 | 2023-08-01 |
 | [טרנטונה](https://open.spotify.com/track/5pszKUrVXrL8MZ3UJb2fX3) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:49 | 2021-12-18 | 2021-12-26 |
@@ -1001,6 +1001,7 @@
 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 | 2024-05-31 | 2025-06-01 |
 | [מלוך](https://open.spotify.com/track/4Zm64H7mbeqRdvLzlsEZmR) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:27 | 2023-09-25 | 2024-10-14 |
 | [מלכת הדור](https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:03 | 2025-06-11 |  |
+| [מלכת הקרח](https://open.spotify.com/track/7jIQI2hhTqgBB7xga5jTWA) | [נתנאל דהאן](https://open.spotify.com/artist/6ES4mvTqKEqvAORGsS4wsn) | [מלכת הקרח](https://open.spotify.com/album/1VsMiIJPGALAj3lqbH8J6M) | 2:35 | 2025-07-28 |  |
 | [מלכת הרחבה](https://open.spotify.com/track/1Dus0KytptzGZvzfAnTcfG) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [מלכת הרחבה](https://open.spotify.com/album/0YS5kzUC2bBxlsfeMSVQGz) | 3:12 | 2022-08-24 | 2022-10-16 |
 | [ממי את יודעת איך](https://open.spotify.com/track/0igXa4xOZowEJUNPhUbPwr) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:45 | 2025-05-31 | 2025-06-17 |
 | [ממתק](https://open.spotify.com/track/39R36zC5ysSRIrneGDGhYa) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [ממתק](https://open.spotify.com/album/6VXePLdJNPBL3O2ehqXkxL) | 2:22 | 2021-08-21 | 2021-12-13 |

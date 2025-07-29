@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -8674,7 +8674,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
@@ -9004,7 +9004,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -12548,7 +12548,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
@@ -16144,7 +16144,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -23292,7 +23292,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -24172,7 +24172,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -26009,6 +26009,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -26020,7 +26038,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -29588,7 +29606,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -32558,7 +32576,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -36530,7 +36548,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 188000,
       "name": "V Hlav\u011b",
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"
@@ -37214,7 +37232,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 223822,
       "name": "VMBR",
       "url": "https://open.spotify.com/track/70yDVYmpYxDRC2GcwLVpVK"

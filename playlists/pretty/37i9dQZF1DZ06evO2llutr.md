@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,787 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,143 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 21 | [A Song For You](https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:37 |
 | 22 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 |
 | 23 | [East Side of Sorrow](https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:29 |
-| 24 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 |
-| 25 | [American Nights](https://open.spotify.com/track/00ju8gshHD67on6Aqh83Pb) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:38 |
+| 24 | [American Nights](https://open.spotify.com/track/00ju8gshHD67on6Aqh83Pb) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:38 |
+| 25 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 |
 | 26 | [Heavy Eyes](https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:10 |
 | 27 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
-| 28 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
-| 29 | [Fifth of May](https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 2:58 |
+| 28 | [Fifth of May](https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 2:58 |
+| 29 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
 | 30 | [From Austin](https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:27 |
 | 31 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
 | 32 | [Fear and Friday's](https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 49 | [The Way Back](https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:05 |
 | 50 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 
-Snapshot ID: `aIQagAAAAAAQqbO+c3oKBJC/zmS91KQe`
+Snapshot ID: `aIVsAAAAAAByErUWkCW+eN/hxZ4B0phd`

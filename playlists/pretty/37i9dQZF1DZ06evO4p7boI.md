@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,896 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,900 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 36 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 |
 | 37 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 38 | [NOTHING 4 FREE \(feat\. NAV\)](https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:45 |
-| 39 | [U.N.I.](https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 2:12 |
+| 39 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 |
 | 40 | [Vicodin](https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:11 |
-| 41 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 |
+| 41 | [U.N.I.](https://open.spotify.com/track/0JVapaUZm2Ax627wjKP8Xn) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 2:12 |
 | 42 | [GLOBE](https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 1:29 |
 | 43 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
 | 44 | [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
 | 50 | [Good For It](https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:39 |
 
-Snapshot ID: `aIQagAAAAAC+fsG5iEe1J8CpjDnB9UF3`
+Snapshot ID: `aIVsAAAAAACaRuwjcPYzGco5FfZ6v8n1`

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 556873,
+  "num_followers": 557123,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182560,
       "name": "Big Bad John",
       "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Walking the Line",
-        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "The Essential Charley Pride",
         "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
       },
@@ -991,18 +971,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+        "name": "Walking the Line",
+        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
       },
       "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
         {
           "name": "Merle Haggard",
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+      "duration_ms": 286066,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "The Essential Marty Robbins 1951-1982",
-        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 148600,
-      "name": "A White Sport Coat (with Ray Conniff)",
-      "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
+      "duration_ms": 148600,
+      "name": "A White Sport Coat (with Ray Conniff)",
+      "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 164520,
       "name": "The Wild Side Of Life",
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "The Essential Tammy Wynette",
         "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 182080,
       "name": "'Til I Can Make It on My Own",
       "url": "https://open.spotify.com/track/0aJHZYjwbfTmeyUWF7zGxI"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2024-07-05 20:27:10",

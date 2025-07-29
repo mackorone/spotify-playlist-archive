@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 36314,
+  "num_followers": 36320,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIQagAAAAAB3Fc+iCbaTOytRiLC5GWqO",
+  "snapshot_id": "aIVsAAAAAAD/Fwl4y2mWDnPtjwIxjmEu",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 189133,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5hWgvf26WNDS7kfYp5v7IS"
+      "duration_ms": 138440,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 138440,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
+      "duration_ms": 189133,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5hWgvf26WNDS7kfYp5v7IS"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con",
-        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Maquina 501",
-      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos De (Vol. 2)",
         "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 160040,
       "name": "Dados Cargados",
       "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Los Federales De Caminos",
-      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 138533,
       "name": "El Tepozan",
       "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Los Federales De Caminos",
+      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Rato",
-        "url": "https://open.spotify.com/album/52UpMj1lzpBoWsYLZhwtwd"
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 188440,
-      "name": "El Rico Pobre",
-      "url": "https://open.spotify.com/track/75K6YcunJ1fo8pafK6jjrz"
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Primeros 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+        "name": "Para Rato",
+        "url": "https://open.spotify.com/album/52UpMj1lzpBoWsYLZhwtwd"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Tengo a Mi Lupe",
-      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/75K6YcunJ1fo8pafK6jjrz"
     },
     {
       "added_at": null,

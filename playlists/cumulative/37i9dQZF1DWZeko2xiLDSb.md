@@ -4,7 +4,7 @@
 
 > soundtrack long, dark days with warm favourites
 
-169 songs - 10 hr 37 min
+170 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 | 2024-01-12 |  |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2024-01-12 | 2024-04-19 |
 | [damn](https://open.spotify.com/track/6PZ2cAqzEDYyjGk1rbeyvX) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/4x39dWBX1IW8wgHufEh6og) | 4:21 | 2024-04-12 | 2024-10-05 |
-| [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 | 2024-01-12 |  |
+| [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 | 2024-01-12 | 2025-07-29 |
 | [Dark Streets](https://open.spotify.com/track/6A5xgYmg4bm8qooNhRWr10) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Dark Streets](https://open.spotify.com/album/0juG0HCzrGZbgsWZWagPnQ) | 6:40 | 2024-01-12 |  |
 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 | 2024-01-12 | 2024-04-19 |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2024-01-12 |  |
@@ -175,6 +175,7 @@
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2024-01-12 | 2024-01-20 |
 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 | 2024-01-12 | 2024-04-19 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2024-01-12 |  |
+| [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 | 2025-01-31 |  |
 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 | 2024-01-12 |  |
 | [‘It's A Good Life If You Don't Weaken’ \- Live From ‘No Dress Rehearsal’](https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [‘It's A Good Life If You Don't Weaken’ \(Live From ‘No Dress Rehearsal’\)](https://open.spotify.com/album/33V5tVXf7kOU6kzFtIYRAJ) | 4:20 | 2024-12-13 | 2024-12-21 |
 

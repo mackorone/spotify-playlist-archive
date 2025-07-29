@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lay It All Down](https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 5:51 |
-| 2 | [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 |
-| 3 | [No One Like The Lord \- Live](https://open.spotify.com/track/3xWG8giKTvCASohULZHTY7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Even Though I Walk \(Live\)](https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ) | 8:20 |
+| 2 | [No One Like The Lord \- Live](https://open.spotify.com/track/3xWG8giKTvCASohULZHTY7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Even Though I Walk \(Live\)](https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ) | 8:20 |
+| 3 | [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 |
 | 4 | [Catch Me](https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Wearing A Blindfold And Running](https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj) | 4:41 |
 | 5 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 |
 | 6 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 37 | [I Say Yes](https://open.spotify.com/track/30ylLpVlXV3rQ9Tk3PuKEg) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/1Y389ylGEmvWM3eSeEEWnu) | 7:43 |
 | 38 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `Ab37aAAAAABAIfbSyD1ljzxkyrmQGwVT`
+Snapshot ID: `Ab4A/gAAAABnmOkMX3APzpeADntMxAhd`

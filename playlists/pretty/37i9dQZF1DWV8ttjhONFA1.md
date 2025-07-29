@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: un muerto mas
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,677 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,672 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

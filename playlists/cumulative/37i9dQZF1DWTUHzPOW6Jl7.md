@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-258 songs - 15 hr 20 min
+259 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [High Like That](https://open.spotify.com/track/6tXOws0Nb2y03Aq7HtBccL) | [Katana](https://open.spotify.com/artist/2ZWvzt4dOVc2GQg2SeZFWc), [Gudda Brvckin](https://open.spotify.com/artist/3TPlXJoC1qRvrjkma3E4fP) | [Smile Now, Heal Later](https://open.spotify.com/album/2UqqAuNMIdgEvekyivBiHN) | 2:21 | 2022-04-11 | 2022-05-24 |
 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [So Blu](https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU) | 4:10 | 2021-12-17 |  |
 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 | 2021-12-17 |  |
+| [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-25 |  |
 | [Hurtin' Me](https://open.spotify.com/track/2VoJe7vkKkigs7C3CGnSXL) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Hurtin' Me](https://open.spotify.com/album/5HWdfsIN1ixzkWpKHib5Dd) | 3:32 | 2021-12-17 | 2024-01-29 |
 | [Hurtin' Me](https://open.spotify.com/track/76IkF7pA7RscjDTvOFT4vb) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Hurtin' Me](https://open.spotify.com/album/2xhP3p0znN775vRxRP71ET) | 3:32 | 2022-05-23 | 2024-04-19 |
 | [Hurtin' Me](https://open.spotify.com/track/5TTGvO7zUgv8momRWaga4C) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Fresh For 2018](https://open.spotify.com/album/0UURABllcIvOWRXAyzMQsy) | 3:33 | 2022-08-02 | 2022-11-13 |
@@ -135,7 +136,7 @@
 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 | 2024-10-26 | 2025-06-07 |
 | [Like a Boy](https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 3:57 | 2022-02-07 |  |
 | [Like This \(feat\. Eve\)](https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Ms\. Kelly](https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW) | 3:35 | 2021-12-17 | 2025-05-03 |
-| [Long Time](https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Long Time](https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB) | 1:54 | 2025-06-06 |  |
+| [Long Time](https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Long Time](https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB) | 1:54 | 2025-06-06 | 2025-07-29 |
 | [Long Way 2 Go](https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:40 | 2021-12-17 |  |
 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 | 2021-12-17 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-05-23 | 2024-04-19 |

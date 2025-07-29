@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,934 likes - 47 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,935 likes - 47 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 27 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 |
 | 28 | [Crystal](https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:43 |
 | 29 | [All I’ve Ever Known](https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 5:06 |
-| 30 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 |
+| 30 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 |
 | 31 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
 | 32 | [Arrow Through Me](https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [LIFE](https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX) | 2:46 |
 | 33 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
-| 34 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 |
+| 34 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 |
 | 35 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 36 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 37 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 41 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
 | 42 | [Alone \(feat\. Madison Cunningham\)](https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:14 |
 | 43 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 |
-| 44 | [Beauty Into Clichés](https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:01 |
-| 45 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
+| 44 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
+| 45 | [Beauty Into Clichés](https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:01 |
 | 46 | [Hold On](https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday](https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK) | 4:28 |
 | 47 | [I Close My Eyes](https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:59 |
 
-Snapshot ID: `aIQagAAAAABwCmxaUukb8kBm82RMhLc2`
+Snapshot ID: `aIVsAAAAAADsbFGwwraeqYiEWh6d/WUe`

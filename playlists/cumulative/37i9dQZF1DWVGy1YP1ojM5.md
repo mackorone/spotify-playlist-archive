@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-284 songs - 16 hr 13 min
+285 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-20 |  |
 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-03-25 | 2023-02-04 |
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-03-25 | 2022-10-04 |
+| [Bad Dream/No Looking Back](https://open.spotify.com/track/7x7QlOg9xTzRHkSW5mf1HY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Always Never Home](https://open.spotify.com/album/67DkNSnBpXbl8n7dVzJci1) | 4:54 | 2022-10-03 |  |
 | [Best Ever \(feat\. Maeta\)](https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 2:32 | 2023-11-10 | 2025-04-26 |
 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 | 2021-08-13 | 2025-04-12 |
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-04-04 | 2022-10-04 |
@@ -100,7 +101,7 @@
 | [Freaky](https://open.spotify.com/track/2RMVF5zL92Y3FjMVPwUmmh) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [The R&B You Love: For the '99 and the 2000s](https://open.spotify.com/album/5dFAi8YRb09fkSJAATWGrX) | 3:27 | 2024-08-09 | 2025-02-15 |
 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 | 2021-08-13 | 2022-10-04 |
 | [Future Sex Sounds](https://open.spotify.com/track/1qmlvTgi8R5ppwHMj9nkh9) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [7](https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY) | 3:06 | 2023-10-06 | 2023-11-11 |
-| [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 | 2022-10-03 |  |
+| [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 | 2022-10-03 | 2025-07-29 |
 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 | 2025-01-12 |
 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 | 2022-10-03 |  |
 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 | 2023-02-12 |  |

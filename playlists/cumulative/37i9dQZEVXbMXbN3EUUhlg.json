@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 153697,
       "name": "APOSTAR EM VOC\u00ca - Ao Vivo",
       "url": "https://open.spotify.com/track/45vUvne5AOyx71Dkw7rXZW"
@@ -5833,6 +5833,24 @@
     },
     {
       "album": {
+        "name": "Caos De Algu\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154097,
+      "name": "Caos De Algu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4"
+    },
+    {
+      "album": {
         "name": "Capit\u00e3o do Povo",
         "url": "https://open.spotify.com/album/2MhCvp4sYqv1QoalR3ONxx"
       },
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
@@ -22248,7 +22266,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 120916,
       "name": "Olha pra Cara de Quem Te...",
       "url": "https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U"

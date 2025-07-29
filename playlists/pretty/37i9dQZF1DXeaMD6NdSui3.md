@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,455 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,511 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 36 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
 | 37 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 38 | [I Ain't Drunk](https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap](https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O) | 4:07 |
-| 39 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
-| 40 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
+| 39 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
+| 40 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
 | 41 | [A Blue Song](https://open.spotify.com/track/433G78x9000nRkf4flw6bs) | [Joe "Guitar" Hughes](https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r) | [Texas Guitar Slinger](https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb) | 5:14 |
 | 42 | [Life by the Drop](https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu) | 3:05 |
 | 43 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 4:28 |

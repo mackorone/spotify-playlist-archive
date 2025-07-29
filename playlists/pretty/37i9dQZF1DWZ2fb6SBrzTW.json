@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 53743,
+  "num_followers": 53769,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 163539,
       "name": "MACHO (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -923,38 +923,6 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Conse (feat. Fatboy E & Smada)",
-        "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
-      },
-      "artists": [
-        {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
-        },
-        {
-          "name": "Fatboy E",
-          "url": "https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b"
-        },
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Conse (feat. Fatboy E & Smada)",
-      "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -999,18 +967,34 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+        "name": "Conse (feat. Fatboy E & Smada)",
+        "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Fatboy E",
+          "url": "https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
         }
       ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+      "duration_ms": 169411,
+      "name": "Conse (feat. Fatboy E & Smada)",
+      "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1091,6 +1071,26 @@
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1171,22 +1187,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2025-07-18 00:01:17",

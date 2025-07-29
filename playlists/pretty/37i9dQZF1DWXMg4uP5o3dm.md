@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,760 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,795 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 34 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
 | 35 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
 | 36 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 37 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
+| 37 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
 | 38 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
-| 39 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
+| 39 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
 | 40 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
-| 41 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
+| 41 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 42 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 43 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 |
 | 44 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 63 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 64 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 65 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
-| 66 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
-| 67 | [Carsick](https://open.spotify.com/track/0vk4PPSvobFbKhnAPro0ju) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Carsick](https://open.spotify.com/album/3TynRnLMuOcoFJf88r5qio) | 2:44 |
+| 66 | [Carsick](https://open.spotify.com/track/0vk4PPSvobFbKhnAPro0ju) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Carsick](https://open.spotify.com/album/3TynRnLMuOcoFJf88r5qio) | 2:44 |
+| 67 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
 | 68 | [rusty](https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [rusty](https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG) | 2:15 |
 | 69 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 70 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |

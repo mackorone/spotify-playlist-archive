@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: TOMORROW X TOGETHER)",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: BLACKPINK)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -5144,7 +5144,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
@@ -8896,6 +8896,24 @@
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
+    },
+    {
+      "album": {
+        "name": "sweet tang",
+        "url": "https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW"
+      },
+      "artists": [
+        {
+          "name": "ifeye",
+          "url": "https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "r u ok?",
+      "url": "https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6"
     },
     {
       "album": {

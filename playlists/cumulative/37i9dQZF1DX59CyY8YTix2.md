@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: UNFAIR RULE
 
-1,897 songs - 4 day 21 hr 39 min
+1,898 songs - 4 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1315,6 +1315,7 @@
 | [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 | 2024-04-16 | 2024-11-20 |
 | [ブルー](https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [ブルー](https://open.spotify.com/album/5AzlrPPAqQAkrmhtRGq2I9) | 4:21 | 2024-03-19 | 2024-03-21 |
 | [ブルーボネット](https://open.spotify.com/track/6TY5b9l9HaUGgfJhtTwQWR) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [ブルーボネット](https://open.spotify.com/album/1VOZ1mcQ6aSlyAZeetVhgA) | 3:45 | 2023-12-19 | 2024-01-10 |
+| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-07-22 |  |
 | [ブーツを鳴らして](https://open.spotify.com/track/4W2KhLs5rhIbo73x1hw48L) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ブーツを鳴らして \- EP](https://open.spotify.com/album/7jdLRIgpAKYnDJjuR6vkFX) | 5:57 | 2022-05-26 | 2022-07-11 |
 | [プラズマクラシックミュージック](https://open.spotify.com/track/48cFdkt692jgYl01sKFjDY) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [プラズマクラシックミュージック](https://open.spotify.com/album/1pqo0amavweAPnPr93EnDO) | 3:34 | 2024-01-09 | 2024-01-17 |
 | [プラットフォーム \| platform](https://open.spotify.com/track/3Pzl2ZLXlfcdytRfXuQPFZ) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [合歓る \- walls](https://open.spotify.com/album/0tkktCcSWh0qpzrfqmR1Ye) | 5:18 | 2025-02-04 | 2025-04-09 |
@@ -1577,7 +1578,7 @@
 | [怪獣が出た！](https://open.spotify.com/track/3ueyGnZ231NbgGPbXhA5B0) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [ジュブナイルのあとがき](https://open.spotify.com/album/4ZWeelfg3C51uYEVNrRWx1) | 4:06 | 2024-07-30 | 2024-08-07 |
 | [恋](https://open.spotify.com/track/2BjsXpCV4Bw1P4pXmlTv7b) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [恋](https://open.spotify.com/album/3urBw8VQwQN1N6v97kcAvQ) | 3:23 | 2025-03-04 | 2025-04-19 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2022-11-15 | 2023-06-01 |
-| [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 | 2024-11-26 |  |
+| [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 | 2024-11-26 | 2025-07-29 |
 | [恋のディスマッチン](https://open.spotify.com/track/0Zciqrsv1JDOXWD5vYmY7F) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [恋のディスマッチン](https://open.spotify.com/album/67ShhE4c7V44stYppmwvgd) | 2:48 | 2023-05-30 | 2023-06-01 |
 | [恋セヨ乙女](https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [恋セヨ乙女](https://open.spotify.com/album/47o2RFUP2cpmg5Nl1dBRFc) | 3:29 | 2023-06-20 | 2023-07-12 |
 | [恋煩い](https://open.spotify.com/track/36lSrFMKhW4ELMARipC3zO) | [my sister circle](https://open.spotify.com/artist/1yEover8BsXV4sZg74anXx) | [恋煩い](https://open.spotify.com/album/0jZuSkoP2SPNEZ8j32zdsb) | 3:30 | 2024-03-12 | 2024-03-14 |

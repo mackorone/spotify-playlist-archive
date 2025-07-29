@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586139,
+  "num_followers": 586089,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "Nothing Was The Same",
-        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
       },
@@ -1131,6 +1115,46 @@
       "duration_ms": 189397,
       "name": "Queen of Mean",
       "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2025-07-20 16:27:24",
+      "album": {
+        "name": "Monster High Fright Song",
+        "url": "https://open.spotify.com/album/5xGIPK8xElAjIBhP4TVyE3"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 163461,
+      "name": "Monster High Fright Song",
+      "url": "https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1183,30 +1207,6 @@
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2025-07-20 16:27:24",
-      "album": {
-        "name": "Monster High Fright Song",
-        "url": "https://open.spotify.com/album/5xGIPK8xElAjIBhP4TVyE3"
-      },
-      "artists": [
-        {
-          "name": "Monster High",
-          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
-        },
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 163461,
-      "name": "Monster High Fright Song",
-      "url": "https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1371,6 +1371,46 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        },
+        {
+          "name": "Anna Cathcart",
+          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 189868,
+      "name": "Good to Be Bad",
+      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1415,62 +1455,22 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Descendants 3 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Booboo Stewart",
-          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
-        },
-        {
-          "name": "Cameron Boyce",
-          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
-        },
-        {
-          "name": "Jadah Marie",
-          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
-        },
-        {
-          "name": "Anna Cathcart",
-          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 189868,
-      "name": "Good to Be Bad",
-      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "How Far I'll Go - Alessia Cara Version",
-      "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     }
   ],
   "unique_name": "Pop for Kids",

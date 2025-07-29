@@ -12659,6 +12659,24 @@
     },
     {
       "album": {
+        "name": "the kindness in her eyes",
+        "url": "https://open.spotify.com/album/05aQNI911eXKdKkfpNkXsf"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2025-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136783,
+      "name": "the kindness in her eyes",
+      "url": "https://open.spotify.com/track/3ZWdKYfxs7ErxwqNSp8G3u"
+    },
+    {
+      "album": {
         "name": "The Last Impressionist",
         "url": "https://open.spotify.com/album/4qyThJug35v8OcYjHLO74U"
       },
@@ -13938,7 +13956,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-29",
       "duration_ms": 200169,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5M0hcvGQyO2LC5JIbshtUA"

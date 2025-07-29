@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,512 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,470 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 16 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 17 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 18 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
-| 19 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
-| 20 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
+| 19 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
+| 20 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
 | 21 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
 | 22 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 23 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |

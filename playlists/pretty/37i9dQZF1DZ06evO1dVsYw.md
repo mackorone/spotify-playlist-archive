@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,277 likes - 33 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,286 likes - 33 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 7 | [Fim de Semana no Parque](https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 7:47 |
 | 8 | [Formula Mágica da Paz \- Ao Vivo](https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [1000 Trutas 1000 Tretas \(Ao Vivo\)](https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude) | 11:20 |
 | 9 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 |
-| 10 | [Formula Mágica de Paz](https://open.spotify.com/track/4QsfSMCOEmTbPzHCCLbhgr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 10:39 |
+| 10 | [Jorge da Capadócia](https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 2:47 |
 | 11 | [Cores & Valores](https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:16 |
 | 12 | [Mente do Vilão](https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais Mc's](https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4) | 4:30 |
 | 13 | [Jesus Chorou](https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:51 |
-| 14 | [Jorge da Capadócia](https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 2:47 |
+| 14 | [Formula Mágica de Paz](https://open.spotify.com/track/4QsfSMCOEmTbPzHCCLbhgr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 10:39 |
 | 15 | [Você Me Deve](https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:39 |
 | 16 | [Negro Drama \(Ao Vivo\)](https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \(Delux Edition\)](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 5:21 |
 | 17 | [A Vida É Desafio](https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:13 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 32 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 | 33 | [O Mal e o Bem](https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:54 |
 
-Snapshot ID: `aIQagAAAAADsDOxGBJ3MMqW1Yx0WkahI`
+Snapshot ID: `aIVsAAAAAABXvEEtIhyOir0f0Nzgdtvp`

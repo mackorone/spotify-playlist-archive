@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,614 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,613 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 39 | [Spoken Roses](https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 6:20 |
 | 40 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
 | 41 | [Winter Garden](https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:45 |
-| 42 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
-| 43 | [The White Arcades](https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 4:44 |
-| 44 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 |
-| 45 | [It's Steeper Near the Roses \(For David Sylvian\) \- 2013 Remaster](https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:02 |
+| 42 | [The White Arcades](https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 4:44 |
+| 43 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
+| 44 | [Arabesque 2 \- 2013 Remaster](https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 3:00 |
+| 45 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 |
 | 46 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
 | 47 | [Through The Hill](https://open.spotify.com/track/1CQWBAOHnibwUJB3cDivvN) | [Andy Partridge](https://open.spotify.com/artist/4QeOiHDqIpzHpbfxz4dc9X), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Through The Hill](https://open.spotify.com/album/22TvJ8NyEoZzZeNWwuKyBg) | 4:05 |
 | 48 | [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 |
 | 49 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 |
 | 50 | [The Belles of Saint Andrew](https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:42 |
 
-Snapshot ID: `aIQagAAAAAA1CNphYbsHxbTwy4E5zvMC`
+Snapshot ID: `aIVsAAAAAAChJ+VGR0GWE1Wc53aH2p2W`

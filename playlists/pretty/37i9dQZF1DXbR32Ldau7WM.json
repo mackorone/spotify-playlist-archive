@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: LiSA",
-  "num_followers": 298704,
+  "num_followers": 298732,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
+        "name": "\u7d76\u4f53\u7d76\u547d",
+        "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 162280,
+      "name": "\u541b\u3068\u7f8a\u3068\u9752",
+      "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -767,34 +783,22 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
-        "name": "834.194",
-        "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "\u65b0\u5b9d\u5cf6",
-      "url": "https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
-      },
-      "artists": [
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
         }
       ],
-      "duration_ms": 162280,
-      "name": "\u541b\u3068\u7f8a\u3068\u9752",
-      "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -831,6 +835,22 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
+        "name": "834.194",
+        "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "\u65b0\u5b9d\u5cf6",
+      "url": "https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
         "name": "\u5e7e\u5104\u5149\u5e74",
         "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        },
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 241156,
-      "name": "\u5922\u5e7b",
-      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
-        "name": "\u8d70\u308cSAKAMOTO",
-        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 205984,
-      "name": "\u8d70\u308cSAKAMOTO",
-      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
         "name": "\u8cdc\u7269",
         "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 288323,
       "name": "\u8cdc\u7269",
       "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
+        "name": "\u8d70\u308cSAKAMOTO",
+        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 205984,
+      "name": "\u8d70\u308cSAKAMOTO",
+      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
-        "name": "\u58f0",
-        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 263983,
-      "name": "\u58f0",
-      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
         "name": "\u7b2c\u30bc\u30ed\u611f",
         "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
+        "name": "\u58f0",
+        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 263983,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
-        "name": "Puppets Can't Control You",
-        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Puppets Can\u2019t Control You",
-      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 186293,
       "name": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero",
       "url": "https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
+        "name": "Puppets Can't Control You",
+        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
-        "name": "\u307e\u306a\u3056\u3057",
-        "url": "https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 258159,
-      "name": "\u307e\u306a\u3056\u3057",
-      "url": "https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
-        "name": "mild days",
-        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "mild days",
-      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
         "name": "\u8d85\u3048\u308b",
         "url": "https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE"
       },
@@ -1539,6 +1507,38 @@
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
+        "name": "\u307e\u306a\u3056\u3057",
+        "url": "https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 258159,
+      "name": "\u307e\u306a\u3056\u3057",
+      "url": "https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X"
     },
     {
       "added_at": "2025-07-22 15:00:25",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-07-22 15:00:25",
       "album": {
+        "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+        "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        },
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 261497,
+      "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+      "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
+    },
+    {
+      "added_at": "2025-07-22 15:00:25",
+      "album": {
         "name": "\u5fd8\u30ec\u30ca\u5504",
         "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 196813,
       "name": "EPIPHANY",
       "url": "https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR"
-    },
-    {
-      "added_at": "2025-07-22 15:00:25",
-      "album": {
-        "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
-        "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        },
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 261497,
-      "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
-      "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
     }
   ],
   "unique_name": "Big in Japan",

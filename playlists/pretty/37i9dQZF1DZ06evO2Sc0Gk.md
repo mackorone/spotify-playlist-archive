@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,289 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,290 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 14 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
 | 15 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 16 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
-| 17 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 |
-| 18 | [Doyin](https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Doyin](https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9) | 2:33 |
-| 19 | [DON'T JEALOUS ME](https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:35 |
-| 20 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 17 | [Doyin](https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Doyin](https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9) | 2:33 |
+| 18 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 |
+| 19 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 20 | [DON'T JEALOUS ME](https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:35 |
 | 21 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |
 | 22 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
 | 23 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 50 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
 
-Snapshot ID: `aIQagAAAAAByyhJiDT458DWbrpMoEeEd`
+Snapshot ID: `aIVsAAAAAAC++Bs90h6n3oaIByk+FonI`

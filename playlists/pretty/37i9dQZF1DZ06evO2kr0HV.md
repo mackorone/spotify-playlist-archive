@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,944 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,955 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 40 | [Oh Là Là \(feat\. Monsieur Periné\)](https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:07 |
 | 41 | [DUALIDAD \- feat\. Esteman](https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DUALIDAD](https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl) | 3:21 |
 | 42 | [Secreto](https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:03 |
-| 43 | [Frenesí](https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:32 |
-| 44 | [El Noa Noa \- Remix](https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [El Noa Noa \(Remix\)](https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q) | 3:24 |
+| 43 | [El Noa Noa \- Remix](https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [El Noa Noa \(Remix\)](https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q) | 3:24 |
+| 44 | [Frenesí](https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:32 |
 | 45 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
 | 46 | [Vacío](https://open.spotify.com/track/31FQspjo54Q66HPdSceOtm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:17 |
 | 47 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
-| 48 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
-| 49 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
+| 48 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
+| 49 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
 | 50 | [De Otro Planeta](https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:10 |
 
-Snapshot ID: `aIQagAAAAAA6NtP6KBdoACbNJ76v70eT`
+Snapshot ID: `aIVsAAAAAAA8K6kl/2Gv9Hgk6N6pLluH`

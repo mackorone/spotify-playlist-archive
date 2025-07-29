@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,483 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,468 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 97 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
 | 98 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 99 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 |
-| 100 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
-| 101 | [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 |
+| 100 | [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 |
+| 101 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
 | 102 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 2:07 |
 | 103 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 |
 | 104 | [Te Lo Agradezco](https://open.spotify.com/track/0zl5ZtLcMzQv7YPDphUDoG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 3:03 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 106 | [Flea](https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:46 |
 | 107 | [Loved](https://open.spotify.com/track/2rIDrqcliMqD8AydNA4Tmc) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:03 |
 | 108 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 |
-| 109 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 |
-| 110 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
+| 109 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
+| 110 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 |
 | 111 | [Empty Trainload Of Sky](https://open.spotify.com/track/2u8O02RCui0KMai7dmPAnf) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:24 |
 | 112 | [One Hallelujah](https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Hallelujah](https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn) | 5:45 |
 | 113 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |

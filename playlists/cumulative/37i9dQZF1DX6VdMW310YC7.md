@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,797 songs - 5 day 2 hr 23 min
+1,798 songs - 5 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2020-03-20 | 2020-07-03 |
 | [Dusk](https://open.spotify.com/track/1EfvfZvqp2XqmoxjKYzmie) | [OKO](https://open.spotify.com/artist/3OhUF302MItZZi3UsCr2Nd) | [Afterlight](https://open.spotify.com/album/0eMEGygqg8kTzzy21T6ubq) | 1:28 | 2020-08-06 | 2020-08-20 |
 | [Early Summer](https://open.spotify.com/track/4HkWtJ0xN3bHxxXUEdTTGT) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:43 | 2020-05-18 | 2021-03-06 |
+| [easy](https://open.spotify.com/track/3IaiBk51hqgCSuwEdRKPdz) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i wish u stayed](https://open.spotify.com/album/7qxf7x7y1ci7UAqR5u7PkC) | 2:12 | 2025-07-25 |  |
 | [Easy \- Mild Minds Remix](https://open.spotify.com/track/2VpJB1vzL9ZadZ3gF8GQBv) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [Easy \(Mild Minds Remix\)](https://open.spotify.com/album/1wPZA3sgmTciBOhylvZNmv) | 5:56 | 2020-11-20 | 2022-05-03 |
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
 | [Echo](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb) | [Echo](https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj) | 2:26 | 2024-09-20 | 2025-02-05 |
@@ -1449,7 +1450,7 @@
 | [Something About You \- ODESZA Remix](https://open.spotify.com/track/6vjWim6xU6tPjA42GxSp1U) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Something About You \(The Remixes\)](https://open.spotify.com/album/0WJIPz25jMYUpLMTM37eA6) | 5:43 | 2020-05-18 | 2020-06-12 |
 | [Something Familiar](https://open.spotify.com/track/0Af3QIr4DnHqBsfEpU223O) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Something Familiar](https://open.spotify.com/album/2OSBCWNUW1LI5NnKkHVkt4) | 3:53 | 2021-11-12 | 2022-11-13 |
 | [Something Good \- Radio Edit](https://open.spotify.com/track/68hrtOiA7J06Bp42M6KZdc) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/2PSI6xjkprGEfykOQ1XCnZ) | 2:58 | 2020-05-22 | 2020-07-03 |
-| [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 | 2024-07-26 |  |
+| [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 | 2024-07-26 | 2025-07-29 |
 | [Something To Say](https://open.spotify.com/track/1r7Qru1A5tduUNf7qxDogp) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Something To Say](https://open.spotify.com/album/2JvCQOoWxhbDiq6L6XyQHC) | 4:18 | 2022-12-02 | 2022-12-29 |
 | [Something to Say](https://open.spotify.com/track/62M5gj2bau54bPysumOjXp) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something to Say](https://open.spotify.com/album/2ew6OwY8suQguh3vblcPjj) | 3:36 | 2020-07-18 | 2020-10-10 |
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 | 2024-03-23 |

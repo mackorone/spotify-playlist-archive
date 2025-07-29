@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,304 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,277 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 15 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB) | 3:33 |
 | 16 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 |
 | 17 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
-| 18 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
-| 19 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
+| 18 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
+| 19 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
 | 20 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 21 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
 | 22 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 7:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 38 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 39 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 |
 | 40 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
-| 41 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
-| 42 | [Vampire Money](https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:38 |
+| 41 | [Vampire Money](https://open.spotify.com/track/4kXHIm097G3CemN3PzcpgL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:38 |
+| 42 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
 | 43 | [Twin Skeleton's \(Hotel In NYC\)](https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:40 |
 | 44 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 45 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |

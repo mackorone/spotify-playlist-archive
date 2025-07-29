@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 124083,
+  "num_followers": 124119,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
+      },
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 266040,
       "name": "Huit octobre 1971",
       "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
-      },
-      "artists": [
-        {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Ondatr\u00f3pica",
         "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
         }
       ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -663,6 +647,22 @@
       "duration_ms": 250666,
       "name": "Pa\u00eds Tropical",
       "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -703,18 +703,34 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
         }
       ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
+      "duration_ms": 158400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -743,18 +759,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cartola (1974)",
-        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
       "artists": [
         {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -779,22 +795,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Dead Dance",
-        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
-      },
-      "artists": [
-        {
-          "name": "Opez",
-          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
-        }
-      ],
-      "duration_ms": 215056,
-      "name": "Balera De Mar",
-      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 162586,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Dead Dance",
+        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
+      },
+      "artists": [
+        {
+          "name": "Opez",
+          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
+        }
+      ],
+      "duration_ms": 215056,
+      "name": "Balera De Mar",
+      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "The Budos Band",
         "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
@@ -907,22 +927,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 314520,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Exporta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 167466,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
+      },
+      "artists": [
+        {
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 314520,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -1083,38 +1067,6 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
-      },
-      "artists": [
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Introducing",
-        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
-      },
-      "artists": [
-        {
-          "name": "Ruben Gonzalez",
-          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
-        }
-      ],
-      "duration_ms": 275293,
-      "name": "Cumbanchero",
-      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1135,18 +1087,50 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Quarteto Em Cy",
-        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
       "artists": [
         {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
         }
       ],
-      "duration_ms": 161106,
-      "name": "Tudo Que Voce Podia Ser",
-      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
+      },
+      "artists": [
+        {
+          "name": "Ruben Gonzalez",
+          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
+        }
+      ],
+      "duration_ms": 275293,
+      "name": "Cumbanchero",
+      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+        "name": "Quarteto Em Cy",
+        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
         }
       ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+      "duration_ms": 161106,
+      "name": "Tudo Que Voce Podia Ser",
+      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "La Onda de Elia y Elizabeth",
         "url": "https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX"
       },
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Iko Iko",
-      "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 295080,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Iko Iko",
+      "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+      },
+      "artists": [
+        {
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+        }
+      ],
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
-      },
-      "artists": [
-        {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+      },
+      "artists": [
+        {
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Sketches From An Island 2",
         "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 224428,
       "name": "Brunch With Suki",
       "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 355040,
-      "name": "Marieta",
-      "url": "https://open.spotify.com/track/530CFqFZ0pdUp5cU0yZULv"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1615,6 +1599,22 @@
       "duration_ms": 176091,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 355040,
+      "name": "Marieta",
+      "url": "https://open.spotify.com/track/530CFqFZ0pdUp5cU0yZULv"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1667,34 +1667,38 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Muito Vivo",
-        "url": "https://open.spotify.com/album/6dfj97K2ywJ2HKAL8P3niw"
+        "name": "Linha De Passe",
+        "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
       "artists": [
         {
-          "name": "Juca Chaves",
-          "url": "https://open.spotify.com/artist/6sm4fipYpmeCJLmAWc820F"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Angela Maria",
+          "url": "https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l"
         }
       ],
-      "duration_ms": 196506,
-      "name": "Take Me Back To Piau\u00ed",
-      "url": "https://open.spotify.com/track/26uzS4AhDPEYbGwcWFWB2O"
+      "duration_ms": 200240,
+      "name": "O B\u00eabado e a Equilibrista",
+      "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
     },
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Napoli Segreta",
-        "url": "https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl"
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
       },
       "artists": [
         {
-          "name": "Donatella Viggiano",
-          "url": "https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk"
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
         }
       ],
-      "duration_ms": 174349,
-      "name": "Napule Canta E More",
-      "url": "https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k"
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     }
   ],
   "unique_name": "Bon Voyage",

@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-594 songs - 2 day 10 hr 22 min
+595 songs - 2 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Really](https://open.spotify.com/track/6jwssBokHjWLUj5YUooU4w) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Really](https://open.spotify.com/album/3lh9QWrJ2yhH4WnSixFMkF) | 2:43 | 2023-02-10 | 2023-12-15 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2024-07-19 | 2025-07-11 |
 | [Redeemed](https://open.spotify.com/track/03AEQdnT6bkKDsJrqNVaiR) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Redeemed](https://open.spotify.com/album/0iHiZlXA0ex7AP3axxTSun) | 6:46 | 2024-10-04 | 2024-10-11 |
+| [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 |  |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2022-09-19 | 2023-01-20 |
 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 | 2022-06-30 | 2023-12-15 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-06-30 |  |
@@ -503,7 +504,7 @@
 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-14 | 2023-05-08 |
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 | 2024-06-07 |
 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 | 2025-01-27 | 2025-02-02 |
-| [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 | 2024-02-16 |  |
+| [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 | 2024-02-16 | 2025-07-29 |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 | 2024-09-06 |
 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-03-03 | 2023-10-08 |
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2023-06-02 | 2024-05-29 |

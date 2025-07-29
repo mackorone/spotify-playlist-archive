@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 946295,
+  "num_followers": 946280,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Malandramente",
         "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "\u00d4 Mo\u00e7a",
-        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "\u00d4 Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 161444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "\u00d4 Mo\u00e7a",
+        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "\u00d4 Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -523,6 +523,38 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Social Narga e Piscina",
+        "url": "https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT"
+      },
+      "artists": [
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        }
+      ],
+      "duration_ms": 185436,
+      "name": "Social Narga e Piscina",
+      "url": "https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 176608,
+      "name": "Movimento da sanfoninha - Ao vivo",
+      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Dennis Dj Apresenta: Funk Now",
         "url": "https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5"
       },
@@ -547,34 +579,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
+        "name": "Trof\u00e9u do Ano",
+        "url": "https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 176608,
-      "name": "Movimento da sanfoninha - Ao vivo",
-      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Social Narga e Piscina",
-        "url": "https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT"
-      },
-      "artists": [
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        },
         {
-          "name": "MC MM",
-          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+          "name": "Mc Nando Dk",
+          "url": "https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7"
+        },
+        {
+          "name": "DJ Cassula",
+          "url": "https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny"
         }
       ],
-      "duration_ms": 185436,
-      "name": "Social Narga e Piscina",
-      "url": "https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN"
+      "duration_ms": 189103,
+      "name": "Trof\u00e9u do Ano",
+      "url": "https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -623,30 +647,6 @@
       "duration_ms": 153077,
       "name": "Oh Juliana",
       "url": "https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Trof\u00e9u do Ano",
-        "url": "https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        },
-        {
-          "name": "Mc Nando Dk",
-          "url": "https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7"
-        },
-        {
-          "name": "DJ Cassula",
-          "url": "https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny"
-        }
-      ],
-      "duration_ms": 189103,
-      "name": "Trof\u00e9u do Ano",
-      "url": "https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Olha A Explos\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Talarica",
         "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 162000,
       "name": "Talarica",
       "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "LARISSA",
+        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "duration_ms": 125304,
+      "name": "LARISSA",
+      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "LARISSA",
-        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        }
-      ],
-      "duration_ms": 125304,
-      "name": "LARISSA",
-      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Senta braba",
-        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 149615,
-      "name": "Senta braba",
-      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
         "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 186363,
       "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
       "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Senta braba",
+        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Senta braba",
+      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Para n\u00e3o",
-        "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Para n\u00e3o",
-      "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Baila Comigo (feat. Kelly Ruiz) [Rennan da Penha Remix]",
         "url": "https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M"
       },
@@ -1419,18 +1395,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Aquecimento Solta o Ponto (Brega Funk)",
-        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
+        "name": "Para n\u00e3o",
+        "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
       },
       "artists": [
         {
-          "name": "Dj Cabide",
-          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 123928,
-      "name": "Aquecimento Solta o Ponto (Brega Funk)",
-      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
+      "duration_ms": 164800,
+      "name": "Para n\u00e3o",
+      "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1451,6 +1435,22 @@
       "duration_ms": 154181,
       "name": "Nem On Nem Off",
       "url": "https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Aquecimento Solta o Ponto (Brega Funk)",
+        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
+      },
+      "artists": [
+        {
+          "name": "Dj Cabide",
+          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
+        }
+      ],
+      "duration_ms": 123928,
+      "name": "Aquecimento Solta o Ponto (Brega Funk)",
+      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Se Prepara 2",
         "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 215937,
       "name": "Abusadamente",
       "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 267795,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "MTG \u00c9 Sempre Assim",
         "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 162461,
       "name": "MTG \u00c9 Sempre Assim",
       "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 267795,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
