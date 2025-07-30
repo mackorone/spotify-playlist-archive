@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 174353,
+  "num_followers": 174411,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
         "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 205440,
       "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
       "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "la derniere annee",
         "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "C'est comme vous voulez",
-        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "La ballade de Jim",
-      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Encore un dernier baiser",
         "url": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 203293,
       "name": "L'amour \u00e0 la plage",
       "url": "https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "C'est comme vous voulez",
+        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "La ballade de Jim",
+      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
     },
     {
       "added_at": "2025-04-29 15:09:38",

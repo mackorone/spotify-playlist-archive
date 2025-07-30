@@ -4,7 +4,7 @@
 
 > Playlist
 
-600 songs - 1 day 11 hr 34 min
+601 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Better](https://open.spotify.com/track/7GR6pnI0K7wXabVgCcs2DR) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 3:59 | 2023-10-25 |  |
 | [Better Plans](https://open.spotify.com/track/5SADyvZe5cfPpBkV7py2GH) | [Lihou](https://open.spotify.com/artist/5fL3WTh8jzQ0tvuvNnv7Gy) | [Better Plans](https://open.spotify.com/album/18js1yatb8rUqCxotL3WP5) | 3:08 | 2023-10-25 |  |
 | [Big Foot](https://open.spotify.com/track/10qUVLriAYhg9xqc4h7ZLw) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 2:59 | 2023-10-25 |  |
+| [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 | 2025-07-29 |  |
 | [Blue](https://open.spotify.com/track/0WIHwtJS11qxWgKtw2qhPR) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Blue](https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8) | 3:05 | 2023-10-25 |  |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2023-10-25 |  |
 | [Boogie Board](https://open.spotify.com/track/2fxvzbFrmMuTbGdt9t3ReA) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Sueños Que Sobran](https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz) | 3:04 | 2023-10-25 |  |

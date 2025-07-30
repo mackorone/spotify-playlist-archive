@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-288 songs - 20 hr 36 min
+290 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 | 2025-02-08 |
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 | 2024-04-09 | 2024-10-01 |
-| [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-05-16 |  |
+| [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-05-16 | 2025-07-30 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 | 2025-07-25 |
 | [Daitarn](https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Daitarn](https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU) | 3:23 | 2025-07-25 |  |
 | [Dam Dam Dam](https://open.spotify.com/track/2xBXLFJRja72cfOVR4o8WY) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Dam Dam Dam](https://open.spotify.com/album/2Mm67B8tYrlGiFyOq0wzpw) | 5:48 | 2024-11-29 |  |
@@ -74,6 +74,7 @@
 | [Daydream](https://open.spotify.com/track/0WsROU8CJrMWBukK5IMs4y) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Warehouse Memories](https://open.spotify.com/album/3IRvcihOMBU1KNjrSX2YZh) | 7:43 | 2025-01-02 | 2025-01-10 |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2024-04-09 |  |
+| [Devils Got My Back](https://open.spotify.com/track/0PItAl4HEXoEfK5NMRCAQW) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Devils Got My Back](https://open.spotify.com/album/2aSrnAjieDsZl8nbKdTk2n) | 2:25 | 2025-07-25 |  |
 | [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 | 2024-11-14 |
 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-05-30 |  |
 | [Die Welt Brennt](https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Obernauer](https://open.spotify.com/artist/1PDMLYsqcKoGCBaWMTwcpi) | [Die Welt Brennt](https://open.spotify.com/album/44WQTL892sCs09rNu3hSLJ) | 5:10 | 2024-08-05 | 2025-07-25 |
@@ -156,6 +157,7 @@
 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 | 2025-06-12 |
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATE](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-07-25 |  |
 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 | 2025-06-20 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-13 | 2025-04-06 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-09-11 |  |
@@ -272,7 +274,7 @@
 | [Toxic Waste](https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2) | [VAAG](https://open.spotify.com/artist/7oHIEjSNbWOZdoV9nSNyp1), [GD\_Connect](https://open.spotify.com/artist/31hv6Yit1qAoFEXCFM7Bpw) | [Toxic Waste](https://open.spotify.com/album/0ji3nORUd0KEbgoQ8vbxOi) | 3:56 | 2024-07-14 | 2024-07-22 |
 | [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 | 2024-12-19 |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |
-| [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 |  |
+| [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 | 2025-07-30 |
 | [Trip To Fantasy](https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:14 | 2024-07-18 | 2024-07-22 |
 | [Two Steps from Heaven](https://open.spotify.com/track/0eRbOJ7nguOh6UCV1Lbpwn) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Disco Inferno 01](https://open.spotify.com/album/2Knz72wmGmCdGPTRqJZWB6) | 9:27 | 2024-04-09 | 2024-12-10 |
 | [Una Hora Más](https://open.spotify.com/track/4h9RbW9SAvfiyq9hsVKUym) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más](https://open.spotify.com/album/6GQFgi1oqmxeM3aDwb8xQY) | 2:43 | 2025-01-24 |  |

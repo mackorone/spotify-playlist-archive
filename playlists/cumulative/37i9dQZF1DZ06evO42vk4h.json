@@ -475,6 +475,36 @@
     },
     {
       "album": {
+        "name": "Reunited",
+        "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "DJ Micks",
+          "url": "https://open.spotify.com/artist/4j9zc19lwaM4NY6PDHn81B"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474180,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
+    },
+    {
+      "album": {
         "name": "Next Gen",
         "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
@@ -644,10 +674,44 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 415714,
       "name": "Iphinde - Club Mix",
       "url": "https://open.spotify.com/track/7A2yBsVft09RE0YafPXOTK"
+    },
+    {
+      "album": {
+        "name": "Iphinde",
+        "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Iphinde - Radio Edit",
+      "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
     },
     {
       "album": {
@@ -670,7 +734,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 379454,
       "name": "Iqhude",
       "url": "https://open.spotify.com/track/0c5q4Fw5UOfN2WG6LLFD8O"
@@ -1264,7 +1328,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221415,
-      "name": "Pakinou",
+      "name": "Pakinou - Remix",
       "url": "https://open.spotify.com/track/55PRpaKqYP3iLMIKS6gADm"
     },
     {

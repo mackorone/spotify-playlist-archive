@@ -4,7 +4,7 @@
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 50 min
+100 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Big One \(feat\. Monaleo\)](https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Big One \(feat\. Monaleo\)](https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX) | 2:36 | 2024-08-06 |  |
 | [Binary Tertials](https://open.spotify.com/track/4gdjjcgEYjDLs7R4omwjZ3) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 5:20 | 2023-12-13 | 2024-04-03 |
 | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2023-06-07 |  |
-| [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2023-06-07 |  |
+| [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2023-06-07 | 2025-07-30 |
 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 | 2024-02-10 |  |
 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 | 2023-11-10 |  |
 | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw) | 2:33 | 2023-06-07 | 2025-06-27 |
@@ -49,6 +49,7 @@
 | [Formentera \- Original Mix](https://open.spotify.com/track/1afeg0sP5XBOXAWKWbFXkQ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:04 | 2023-12-29 | 2024-05-13 |
 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 | 2024-06-17 |  |
 | [Gelatin Coated \- Original Mix](https://open.spotify.com/track/2UyDM4ZkCAThoYz6Uxz1yW) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Groovy Psychedelic Downtempo & Chill out V7](https://open.spotify.com/album/3sw4MuCG3Uc2NYQBYZEn7q) | 9:26 | 2024-03-19 | 2024-03-22 |
+| [Gotham](https://open.spotify.com/track/0pVry6RxHkNmJqznmzuf6T) | [Vargek Beatanga](https://open.spotify.com/artist/0GLrxz8RXFPh1yppKUuDi8), [Tibor](https://open.spotify.com/artist/4a0IBiTrgmIVogXUrpFcbN), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Chelavy](https://open.spotify.com/artist/2JF1k1TAUkaRuLZ6AqTkJE), [Scriptor](https://open.spotify.com/artist/2qvacrMqliC2lSPz07mPUM), [Eli Džejn](https://open.spotify.com/artist/6gL656v4SG6eTTS38LYTzv) | [Nisam ni Trapnuo](https://open.spotify.com/album/4YcqzZl5pZQYDKKlbID3pe) | 6:00 | 2025-07-30 |  |
 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 | 2024-09-22 |  |
 | [I Got Questions](https://open.spotify.com/track/1wVkPL1b8tpv4qJHf9Y3mx) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Kinda Famous](https://open.spotify.com/album/20ViMp0RQoeldbJVe4WeoN) | 2:22 | 2025-03-06 | 2025-06-10 |
 | [I Got Questions](https://open.spotify.com/track/4kqfFU1iQaJZxNxiN6Dz5C) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Kinda Famous](https://open.spotify.com/album/0V2FmNlHJtmiCvZmsQltYF) | 2:22 | 2025-06-10 |  |

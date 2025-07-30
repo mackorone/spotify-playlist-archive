@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde el urbano y la música mexicana se unen\.  Neton Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,868 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Rafa el Number One](https://open.spotify.com/track/2nUx2eRrEimtob57eMEjPf) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Rafa el Number One](https://open.spotify.com/album/1OpvyodzSFkimbqi8zjMDL) | 2:31 |
 | 50 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 
-Snapshot ID: `aFT5AwAAAADY4cxJ+dWO6goLO+5G0JyS`
+Snapshot ID: `AAAAAPg4sGCLr1UtRXjJRer0v5SrV01A`

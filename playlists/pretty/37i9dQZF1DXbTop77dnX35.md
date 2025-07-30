@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Tyla, Fireboy DML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,634 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,798 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 23 | [SHOW ME LUV](https://open.spotify.com/track/5LZc3aiwsBn2G3OeRBScij) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [SHOW ME LUV](https://open.spotify.com/album/30xxVWC88CCxGw5QYbOMsq) | 1:49 |
 | 24 | [Never Miss a Step](https://open.spotify.com/track/5aQAJWOzETGV1cHGm8jLbb) | [Shoka Sunflower](https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [For Now Keep Dancing](https://open.spotify.com/album/7xBspYmCVkYaCOBTONkA6b) | 3:02 |
 | 25 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
-| 26 | [Wickedness](https://open.spotify.com/track/7kSVloY3RU0yzVWT72r6LM) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Wickedness](https://open.spotify.com/album/1s0GUaZJwCoEzHDIBefXew) | 2:19 |
+| 26 | [Wickedness](https://open.spotify.com/track/7kSVloY3RU0yzVWT72r6LM) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Wickedness](https://open.spotify.com/album/1s0GUaZJwCoEzHDIBefXew) | 2:19 |
 | 27 | [BLUEWATERS](https://open.spotify.com/track/3X1qWV6NtjjbOhoDMLFZd4) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Business & BlueWaters](https://open.spotify.com/album/2SBV1bGGmW0SAdBCOsJw2A) | 2:14 |
 | 28 | [THANK YOU](https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [THANK YOU](https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp) | 2:51 |
 | 29 | [Owo Eyo](https://open.spotify.com/track/6N4dJBFAcstuJTIKXNOHjr) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Owo Eyo](https://open.spotify.com/album/476C7MDwnirB6yT1c1j6bY) | 1:41 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 54 | [You](https://open.spotify.com/track/44q1UuWeAd10A039OJaQCo) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [You](https://open.spotify.com/album/19ItPFuhI8876a357HNd74) | 2:52 |
 | 55 | [Call Me \(feat\. Dorely\)](https://open.spotify.com/track/687uQIzFYwPp3SjNUrBvAv) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me \(feat\. Dorely\)](https://open.spotify.com/album/5eJJnXgW0hKsknYZAzayVa) | 3:14 |
 | 56 | [Kita Kita](https://open.spotify.com/track/0CQyMqv7PmavgZYYPv5QBy) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Kita Kita](https://open.spotify.com/album/0RmxHnNA78AXpzE5EBC1kw) | 2:40 |
-| 57 | [OHA](https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [OHA](https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u) | 2:53 |
+| 57 | [OHA](https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Reekado Banks](https://open.spotify.com/artist/2cm9kuB5FB4fKaJ9SJEAVq), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [OHA](https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u) | 2:53 |
 | 58 | [Fesemule](https://open.spotify.com/track/08bMaL72I4BuKKWWizlwBL) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [S Brown](https://open.spotify.com/artist/3TNA43Vo9hRkh7XglAMIgp) | [Fesemule](https://open.spotify.com/album/5iG3BPGTN8AaXmRnbfX0yt) | 3:11 |
 | 59 | [Let you go](https://open.spotify.com/track/0rer0sotWINaqWKZ1I3Nkq) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk) | [Situationship](https://open.spotify.com/album/2IvvH3wkXZ33lnfaaWeeA4) | 2:17 |
 | 60 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |

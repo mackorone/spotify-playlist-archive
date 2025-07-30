@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,218 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,300 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 69 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
 | 70 | [Vrijgezel](https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Vlinders Van De Nacht](https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC) | 3:46 |
 | 71 | [De Woonboot](https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | ['n Koffer Vol Met Dromen](https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz) | 4:27 |
-| 72 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
-| 73 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
+| 72 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
+| 73 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
 | 74 | [Je Raakt Me Zo](https://open.spotify.com/track/0RTUDjc3FeUaMQ6LOSA2c9) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Je Raakt Me Zo](https://open.spotify.com/album/3RMEpViH3YM1O2UnuRzyOt) | 3:05 |
 | 75 | [Jannes hitmedley](https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 5:08 |
 | 76 | [Mijn Stad](https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Danny de Munk](https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,708 likes - 65 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,847 likes - 65 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 20 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 |
 | 21 | [God Problems \(feat\. Chandler Moore\)](https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God Problems \(feat\. Chandler Moore\)](https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E) | 9:50 |
 | 22 | [Higher Than I](https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:18 |
-| 23 | [Dying To Be Different \- Live At VOUS, Miami, FL, 2025](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live At VOUS, Miami, FL, 2025\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
+| 23 | [Dying To Be Different \- Live](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
 | 24 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 |
 | 25 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
 | 26 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,155 likes - 42 songs - 2 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,154 likes - 41 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 |
 | 32 | [Real Thing](https://open.spotify.com/track/70oLoBhpHsNEDVLsMDlheU) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:18 |
 | 33 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 |
-| 34 | [I'm So Happy I Can't Stop Crying](https://open.spotify.com/track/5sU3gFFE3K28cWgC8NfERu) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Mercury Falling](https://open.spotify.com/album/1Z4RIxVodiz0V9x8veQ9Rr) | 3:57 |
-| 35 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 |
-| 36 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 |
-| 37 | [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 |
-| 38 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 |
-| 39 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
-| 40 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 |
-| 41 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
-| 42 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
+| 34 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 |
+| 35 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 |
+| 36 | [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 |
+| 37 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 |
+| 38 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
+| 39 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 |
+| 40 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
+| 41 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
 
-Snapshot ID: `AAAM3Tb5sA53SZnmiySHFWYfoNXVi/Rd`
+Snapshot ID: `AAAM3oJwxieQP9+llczZXK0Nn9PEiMaS`

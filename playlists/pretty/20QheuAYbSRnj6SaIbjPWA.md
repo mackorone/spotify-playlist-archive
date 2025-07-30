@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 133 songs - 8 hr 54 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 134 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 131 | [strangers](https://open.spotify.com/track/664GJ3Q68nj89RyDsDQZvM) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hopefully !](https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK) | 2:35 |
 | 132 | [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 |
 | 133 | [Virginia](https://open.spotify.com/track/5SejvjBqkWfoqiddeZCE92) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [No Silent Monks](https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn) | 3:03 |
+| 134 | [One](https://open.spotify.com/track/6ATGoNeKZih1AhZ8Ossy1H) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [No Silent Monks](https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn) | 3:50 |
 
-Snapshot ID: `AAAA/Bb6QbPoAqr1GYe8QJW4jVTof/f/`
+Snapshot ID: `AAAA/Vlo7pjPrK70jW/iexbQMWCbhW2y`

@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 228639,
+  "num_followers": 228680,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAABwZURR3eY97au6f2Bia9aY",
+  "snapshot_id": "aIa9gAAAAADSFWcvqkE5TJ6UJcGJE08e",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Put Me In Your Mix - Single Version",
+      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Put Me In Your Mix - Single Version",
-      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
       "added_at": null,

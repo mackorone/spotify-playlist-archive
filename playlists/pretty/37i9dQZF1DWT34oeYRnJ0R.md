@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Rubí
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,497 likes - 200 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,457 likes - 200 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 199 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
 | 200 | [ADICTIVO](https://open.spotify.com/track/6DJi5W0wWz0A8szKMSDiiu) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [ADICTIVO](https://open.spotify.com/album/4OdooYGHrmqiIGQb6sJVTP) | 3:06 |
 
-Snapshot ID: `aIKpmgAAAADWJHjUSKEJLdbF+B0rzuOU`
+Snapshot ID: `AAAAAO5sY29lXQ5uUDJ5kygHU726hOgD`

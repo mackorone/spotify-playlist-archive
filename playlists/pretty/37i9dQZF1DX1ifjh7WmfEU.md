@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,810 likes - 85 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,835 likes - 85 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 23 | [Ashfall](https://open.spotify.com/track/6ftwSPoxBAoAk41eQeen4w) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ashfall](https://open.spotify.com/album/5xQ0f2SQpsoHHLGDGypcWB) | 2:49 |
 | 24 | [Sincere](https://open.spotify.com/track/4asD2twwtZWdwYoYlZtOkg) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Sincere](https://open.spotify.com/album/0C1OyOoHKnzex4Km4J0W8K) | 2:57 |
 | 25 | [Things Untold](https://open.spotify.com/track/7wGZxAnqMmLb7zB2cXcIo3) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Things Untold](https://open.spotify.com/album/2Cc0WE7uCJedRtu9tHVw2t) | 2:06 |
-| 26 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/6SfRPNpx53bVHzG8dNvROF) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
+| 26 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
 | 27 | [Rays](https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Rays](https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1) | 2:33 |
 | 28 | [Dawn's reflection](https://open.spotify.com/track/15LkUIJWsiQI54VJlQj0tM) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [Dawn's reflection](https://open.spotify.com/album/4wkFYgDToH6x1vglr148A7) | 2:13 |
 | 29 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 84 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 |
 | 85 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
 
-Snapshot ID: `aGzeBgAAAADYyiMBxISWQwsww9FKkpjx`
+Snapshot ID: `AAAAAPJHLCmKmBiIQvptSiwWgRvjgJiu`

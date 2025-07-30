@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "No Silent Monks",
+        "url": "https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6ATGoNeKZih1AhZ8Ossy1H"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },

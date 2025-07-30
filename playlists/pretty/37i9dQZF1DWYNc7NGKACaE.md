@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,828 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,829 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 29 | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo) | 1:37 |
 | 30 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 |
 | 31 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
-| 32 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
-| 33 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
+| 32 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
+| 33 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
 | 34 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
 | 35 | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Jorgin Dejhaay](https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV) | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N) | 2:54 |
 | 36 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |

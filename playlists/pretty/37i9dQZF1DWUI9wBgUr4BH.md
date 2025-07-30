@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,649 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,661 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Hot summer night \- Oh La La La](https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN) | [Smil](https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI), [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Hot summer night \(Oh La La La\)](https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG) | 3:05 |
 | 40 | [Je pars mais je reste](https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Je pars mais je reste](https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu) | 3:20 |
 
-Snapshot ID: `aIKtAAAAAACZDS4AtloQ7KYQA+r588qO`
+Snapshot ID: `AAAAADe9BSz9E7laXsEKrDI9QxaoQCXF`

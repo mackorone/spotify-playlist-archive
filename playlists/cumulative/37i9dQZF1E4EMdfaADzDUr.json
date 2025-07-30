@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 150500,
       "name": "Echoes in The Dark",
       "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 248175,
       "name": "Girei",
       "url": "https://open.spotify.com/track/39XVc9tJMwgBpaMgGp8wSB"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 195585,
       "name": "i think i'm everything",
       "url": "https://open.spotify.com/track/1lXgcIT8pPEYpyWuPo6Hsr"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 140485,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 191146,
       "name": "Some Garbage",
       "url": "https://open.spotify.com/track/2CnXzEqWKTFZavG50Tonjf"
@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/0tVYTAD2f4aHk9S1ayjsTi"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232679,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5kNraerCQo5v4pIhPcyddH"
+    },
+    {
+      "album": {
         "name": "u n k n o w n",
         "url": "https://open.spotify.com/album/2auEr9CC9UHr8FXAa3NblU"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "until the end",
       "url": "https://open.spotify.com/track/0UB9iVDfas6ydjFFeFyBfU"

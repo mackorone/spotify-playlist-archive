@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain]
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,239 likes - 160 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,347 likes - 160 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain]
 | 159 | [Mauve \- Sound Bath](https://open.spotify.com/track/4mpCBB279BFXz8tYMUYAxb) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [Mauve \- Sound Bath](https://open.spotify.com/album/2m6fFcCrm7rz3vo4k4TgRJ) | 2:06 |
 | 160 | [Forest Is Calling](https://open.spotify.com/track/6t7yTOvXhwwUPnXrES80B1) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Forest Is Calling](https://open.spotify.com/album/2Xvd7npyVn1tPwBFP8xDkV) | 2:24 |
 
-Snapshot ID: `aFFvVwAAAADPpd12qsFoBk1z4Arw0l2p`
+Snapshot ID: `AAAAAHUxY60sikQ0Gnmt1yrLtLikHLB7`

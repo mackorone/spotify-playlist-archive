@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-338 songs - 21 hr 3 min
+339 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [MORE!](https://open.spotify.com/track/63UgfCqOUjxybXd5T878eP) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [MORE!](https://open.spotify.com/album/1oOYnstxgv9e0cJRbbWSd7) | 3:20 | 2024-06-21 | 2025-02-14 |
 | [Motion](https://open.spotify.com/track/4WpSnyYpocu22oaGeqylKv) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [Motion](https://open.spotify.com/album/1D2UilwHLlBe9hoobp0y3C) | 2:12 | 2024-07-26 | 2025-02-14 |
 | [Mr Blue](https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 4:32 | 2021-10-28 | 2024-04-12 |
-| [Music Sounds Better With Me](https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [it's Franky baby! \(Deluxe\)](https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq) | 2:41 | 2025-06-26 |  |
+| [Music Sounds Better With Me](https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [it's Franky baby! \(Deluxe\)](https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq) | 2:41 | 2025-06-26 | 2025-07-30 |
 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 | 2025-02-14 |  |
 | [Mystic Pebble \- Mood Talk Remix](https://open.spotify.com/track/5ayUGL4gx4ntTUOi9e8dgv) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Mystic Pebble \(Mood Talk Remix\)](https://open.spotify.com/album/0eG1bYIW4MsFyI7XIOdYc9) | 4:12 | 2025-01-31 | 2025-02-14 |
 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 | 2024-03-22 | 2025-02-21 |
@@ -240,6 +240,7 @@
 | [Put Your Love On Me \(feat\. Henry Camamile\)](https://open.spotify.com/track/3vgDmz3zXSanBA52SeTmtD) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe), [Henry Camamile](https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB) | [Put Your Love On Me \(feat\. Henry Camamile\)](https://open.spotify.com/album/2nQZyTRC7ckSchCSdvL9Vg) | 3:19 | 2025-05-08 | 2025-07-07 |
 | [Questions](https://open.spotify.com/track/37dmaWoFI8PEM0T7O0BCiP) | [Slum Sociable](https://open.spotify.com/artist/0J626PVezyRujeAfXAssnH) | [Questions](https://open.spotify.com/album/2IKzJwdIzDW8TOiHVf6J2H) | 3:19 | 2021-10-28 | 2024-04-12 |
 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 | 2024-07-26 | 2025-03-14 |
+| [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 | 2025-07-24 |  |
 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-03-21 | 2025-06-23 |
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2021-10-28 | 2024-04-12 |
 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 | 2024-02-23 | 2024-07-27 |

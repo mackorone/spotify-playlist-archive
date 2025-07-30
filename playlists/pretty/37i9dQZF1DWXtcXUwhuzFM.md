@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Danitello & Mirella, Isac Elliot monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,387 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,390 likes - 108 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

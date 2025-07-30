@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Folk Bitch Trio
 
-377 songs - 21 hr 4 min
+378 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Clothes Off](https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Clothes Off](https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma) | 3:08 | 2025-03-04 | 2025-05-30 |
 | [Coast Is Clear](https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL) | 4:04 | 2025-04-03 | 2025-05-09 |
 | [Cold Treatment](https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Cold Treatment](https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ) | 3:47 | 2024-06-06 | 2024-08-23 |
-| [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 | 2025-04-03 |  |
+| [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 | 2025-04-03 | 2025-07-30 |
 | [Cowboys Do It Better](https://open.spotify.com/track/0XNBRpurtqq0ukySxNDnXi) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Cowboys Do It Better](https://open.spotify.com/album/7mqz842qp6y73MAoWL0lKd) | 3:06 | 2025-05-15 | 2025-05-23 |
 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 | 2024-09-05 | 2025-01-10 |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-13 |  |
@@ -164,7 +164,7 @@
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 |  |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-04 | 2025-05-24 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 |  |
-| [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-07-25 |
+| [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 |  |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-26 |  |
 | [I Don't Wanna Go Home](https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Don't Wanna Go Home](https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL) | 2:41 | 2025-07-10 | 2025-07-18 |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
@@ -193,7 +193,7 @@
 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 | 2025-02-20 | 2025-04-09 |
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2024-05-31 | 2025-02-14 |
 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 | 2025-01-09 | 2025-01-17 |
-| [Learn Yourself](https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [New Love](https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT) | 2:41 | 2025-03-04 |  |
+| [Learn Yourself](https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [New Love](https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT) | 2:41 | 2025-03-04 | 2025-07-30 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-24 |  |
 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 | 2025-02-13 | 2025-07-25 |
 | [Let It Grow](https://open.spotify.com/track/7jcGRUfoREyKkpuvIv4Sd9) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Let It Grow](https://open.spotify.com/album/5aA7OMN45iR1fO8cgvkAau) | 4:44 | 2025-01-09 | 2025-01-17 |
@@ -307,6 +307,7 @@
 | [Speedracer](https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV) | 2:58 | 2024-05-31 | 2024-08-31 |
 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 | 2025-03-20 |  |
 | [Spezial](https://open.spotify.com/track/0Co5koTVt517q1N5J9BNiM) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [The Terrys](https://open.spotify.com/album/68b5a3uX42PXw7Dpv5yGsl) | 2:35 | 2025-07-10 | 2025-07-18 |
+| [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 | 2025-07-10 |  |
 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 | 2024-05-31 | 2025-01-12 |
 | [Still Sweet](https://open.spotify.com/track/4kR1H437UieRbDAcz2s8IP) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [Still Sweet](https://open.spotify.com/album/3BSPrmpXFlCu3OoLSK7Ue8) | 3:01 | 2025-07-24 |  |
 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-10-31 | 2025-05-30 |

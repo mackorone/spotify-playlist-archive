@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,203 songs - 4 day 22 hr 3 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,202 songs - 4 day 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2191,25 +2191,24 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2181 | [Go Get Your Lover](https://open.spotify.com/track/1AvMJcmPRnOzaqVv1ZloHA) | [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw) | [Go Get Your Lover](https://open.spotify.com/album/6jxIUKriOnFD9FAz9Csfiw) | 2:11 |
 | 2182 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
 | 2183 | [In Da Q](https://open.spotify.com/track/0dmeBl3THoDOlDwWLBT9jy) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [In Da Q](https://open.spotify.com/album/1VABXT4gr5v1LtUZbXu8Yx) | 3:53 |
-| 2184 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
-| 2185 | [te pongo mal\(prendelo\)](https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:52 |
-| 2186 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
-| 2187 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
-| 2188 | [Stereo Love](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 |
-| 2189 | [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 |
-| 2190 | [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 |
-| 2191 | [The Way I Feel](https://open.spotify.com/track/5wf74zcM2rvFuLPA1ybEY5) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 |
-| 2192 | [Here Tonight](https://open.spotify.com/track/0gAhUXqYphJt5iFmYkowAf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:44 |
-| 2193 | [MamaZota](https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb) | [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET) | [MamaZota](https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3) | 2:02 |
-| 2194 | [Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [Every Day 2005](https://open.spotify.com/album/1XbYeV8bSmIIHsytMXqxua) | 3:48 |
-| 2195 | [Celestial Kiss](https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Dreamland](https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk) | 2:37 |
-| 2196 | [12B3](https://open.spotify.com/track/36gvDSuv5AyqwpbRpWYf0N) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:32 |
-| 2197 | [Divertida](https://open.spotify.com/track/5Urocwjl0iuHmUUC9zNF1H) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Reset](https://open.spotify.com/album/2nGKc4syMB4SzeEXRIh6X4) | 4:05 |
-| 2198 | [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 |
-| 2199 | [Se Encendio el Beeper](https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [5to Aniversario](https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc) | 3:22 |
-| 2200 | [Sabbath Ⅰ](https://open.spotify.com/track/2BKGLVolirwSRAYWL60Ugw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 4:48 |
-| 2201 | [Before Every Load](https://open.spotify.com/track/6lKxR1j4093K49grbtC9Ir) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [BUCKSHOT ROULETTE](https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y) | 2:41 |
-| 2202 | [SG\-177](https://open.spotify.com/track/21Jlw6dn72ni5vGq5ejatL) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [SG\-177](https://open.spotify.com/album/1ehg4ms9bq8wxPeNWOUDjC) | 2:48 |
-| 2203 | [Bump 9](https://open.spotify.com/track/3R70HmrqOGs7CL0T5KFcWp) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [Tango Circuit](https://open.spotify.com/album/6o0klrmJedxW8Ro3oviacJ) | 2:57 |
+| 2184 | [te pongo mal\(prendelo\)](https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:52 |
+| 2185 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
+| 2186 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
+| 2187 | [Stereo Love](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 |
+| 2188 | [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 |
+| 2189 | [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 |
+| 2190 | [The Way I Feel](https://open.spotify.com/track/5wf74zcM2rvFuLPA1ybEY5) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 |
+| 2191 | [Here Tonight](https://open.spotify.com/track/0gAhUXqYphJt5iFmYkowAf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:44 |
+| 2192 | [MamaZota](https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb) | [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET) | [MamaZota](https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3) | 2:02 |
+| 2193 | [Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [Every Day 2005](https://open.spotify.com/album/1XbYeV8bSmIIHsytMXqxua) | 3:48 |
+| 2194 | [Celestial Kiss](https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Dreamland](https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk) | 2:37 |
+| 2195 | [12B3](https://open.spotify.com/track/36gvDSuv5AyqwpbRpWYf0N) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:32 |
+| 2196 | [Divertida](https://open.spotify.com/track/5Urocwjl0iuHmUUC9zNF1H) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Reset](https://open.spotify.com/album/2nGKc4syMB4SzeEXRIh6X4) | 4:05 |
+| 2197 | [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 |
+| 2198 | [Se Encendio el Beeper](https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [5to Aniversario](https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc) | 3:22 |
+| 2199 | [Sabbath Ⅰ](https://open.spotify.com/track/2BKGLVolirwSRAYWL60Ugw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 4:48 |
+| 2200 | [Before Every Load](https://open.spotify.com/track/6lKxR1j4093K49grbtC9Ir) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [BUCKSHOT ROULETTE](https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y) | 2:41 |
+| 2201 | [SG\-177](https://open.spotify.com/track/21Jlw6dn72ni5vGq5ejatL) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [SG\-177](https://open.spotify.com/album/1ehg4ms9bq8wxPeNWOUDjC) | 2:48 |
+| 2202 | [Bump 9](https://open.spotify.com/track/3R70HmrqOGs7CL0T5KFcWp) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [Tango Circuit](https://open.spotify.com/album/6o0klrmJedxW8Ro3oviacJ) | 2:57 |
 
-Snapshot ID: `AAAEgyblIJMaAs1+TmghLF1gOH0Wr8tL`
+Snapshot ID: `AAAEhDLN2asyuGs+Sllr0VPuc5dmnleg`

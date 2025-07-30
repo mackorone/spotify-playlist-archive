@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,804 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,809 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
 | 50 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
 
-Snapshot ID: `aGOn6QAAAABd9kM+3LuwE05phzTdLdCz`
+Snapshot ID: `AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA`

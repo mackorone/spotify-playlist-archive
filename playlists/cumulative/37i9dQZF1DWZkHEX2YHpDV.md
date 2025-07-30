@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,392 songs - 3 day 1 hr 29 min
+1,393 songs - 3 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Angry Cry](https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Angry Cry](https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466) | 2:55 | 2024-11-08 | 2025-02-01 |
 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 | 2023-07-14 | 2024-01-01 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2024-01-19 | 2024-12-07 |
-| [Antidote](https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:11 | 2023-10-27 |  |
+| [Antidote](https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:11 | 2023-10-27 | 2025-07-30 |
 | [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 | 2023-10-10 | 2023-10-28 |
 | [Antitype](https://open.spotify.com/track/21vbuLEqhFGoZUciOhDbPj) | [The Intersphere](https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY) | [Antitype](https://open.spotify.com/album/245bFEq19BqpogiQtkWY6v) | 5:28 | 2022-03-25 | 2022-04-21 |
 | [ANXIETY](https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ANXIETY](https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM) | 3:14 | 2022-09-09 | 2022-10-08 |
@@ -212,6 +212,7 @@
 | [Can't Let You Back In](https://open.spotify.com/track/1PvYrRcJ7iyYPvzVlt98IW) | [Victory Lane](https://open.spotify.com/artist/56TexoheCRrAi15dxTQbIF) | [Can't Let You Back In](https://open.spotify.com/album/6V9sZP8Q7CIw1DqDZ7cVGv) | 3:18 | 2022-03-25 | 2022-04-05 |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-08-12 | 2024-10-12 |
 | [can't you tell](https://open.spotify.com/track/5XuFg634Y5vAAEG2ZI7Tti) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [can't you tell](https://open.spotify.com/album/4HhwrYw5v5HXDntSsdxwVS) | 2:28 | 2024-08-12 | 2025-02-15 |
+| [Candy Mouth](https://open.spotify.com/track/19wtuLFeO7sIXHTxaW5l4H) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [Candy Mouth](https://open.spotify.com/album/7BrRpfGIJqjIu9KQ7rsiRd) | 2:59 | 2025-07-25 |  |
 | [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-19 | 2024-10-19 |
 | [Care](https://open.spotify.com/track/73XEi2vkcuHWF2m9wiOfbu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 4:25 | 2022-02-04 | 2022-04-16 |
 | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/track/5gZEWg5YT9fZHyw7sAH4o3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/album/0AQ8Eo8necD9pcFSce4qNd) | 3:00 | 2021-12-10 | 2022-07-25 |

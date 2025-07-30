@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Aditya Bhardwaj,  and other exciting artists.
 
-1,118 songs - 2 day 13 hr 5 min
+1,119 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Kishmish](https://open.spotify.com/track/0y0PU8VFoud2NTXfkUmr7g) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Kishmish](https://open.spotify.com/album/1YFzCuDm6sdX1mFvu6ngXA) | 2:23 | 2024-03-01 | 2024-04-13 |
 | [Kisi Tarah](https://open.spotify.com/track/4jVJH1awgJLzWWv2vKNRwg) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Kisi Tarah](https://open.spotify.com/album/20GlqmFsboHgSZC4KA0rtr) | 2:58 | 2025-01-31 | 2025-02-22 |
 | [Kismet](https://open.spotify.com/track/5uuN0Br13jpilHaV6OTzpK) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Kismet](https://open.spotify.com/album/1kYV2ozbBjtCARj0B5JNM1) | 3:36 | 2024-07-05 | 2024-08-10 |
+| [Kisse](https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Kisse](https://open.spotify.com/album/7dkpnaX8v3uCNDKZ8gWASu) | 2:58 | 2025-07-25 |  |
 | [Kiya Dhara](https://open.spotify.com/track/7LOQN5ZIcfVbLGN1z9UJqa) | [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kiya Dhara](https://open.spotify.com/album/5LNmi8aUJQXt0IOMFcjIae) | 2:02 | 2024-10-18 | 2024-11-09 |
 | [Kohinoor](https://open.spotify.com/track/1fmPlmof4bVJFWjzvTCjy2) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Kohinoor](https://open.spotify.com/album/1dvgCUkwd38ZacYjSP13NT) | 2:41 | 2025-02-07 | 2025-03-02 |
 | [Koi Aayega](https://open.spotify.com/track/4rAW3JZn2LjEueC8OKVQQV) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Koi Aayega](https://open.spotify.com/album/1GG363ypMjGaD4Y89Jd0iF) | 3:06 | 2024-10-04 | 2024-11-15 |
@@ -1113,7 +1114,7 @@
 | [YOURS TRULY](https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02) | [Niyati Handa](https://open.spotify.com/artist/548L7yKLZMuFHfBVFQ2mO5), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [YOURS TRULY](https://open.spotify.com/album/15qlNT50CSml6ZQVUnI900) | 2:37 | 2024-03-08 | 2024-04-13 |
 | [Zahir](https://open.spotify.com/track/1J86cSSBnwaYRnkfg8TmeS) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Zahir](https://open.spotify.com/album/3GX5jwzbv5mxXoq9p58vOQ) | 2:57 | 2024-03-01 | 2024-04-19 |
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-05-10 | 2024-07-06 |
-| [Zamaana](https://open.spotify.com/track/39QaSlqpo6F9Jv8cIokylx) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Zamaana](https://open.spotify.com/album/6Af60nKxVgmnOm6D7lIOcW) | 2:30 | 2025-05-04 |  |
+| [Zamaana](https://open.spotify.com/track/39QaSlqpo6F9Jv8cIokylx) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Zamaana](https://open.spotify.com/album/6Af60nKxVgmnOm6D7lIOcW) | 2:30 | 2025-05-04 | 2025-07-30 |
 | [Zaroorat](https://open.spotify.com/track/0JhfRcaTCtksBXAtiFfyHH) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Zaroorat](https://open.spotify.com/album/30O4j3yuur3CfVy7ZyIbu3) | 2:52 | 2023-11-24 | 2023-12-09 |
 | [Zaroori](https://open.spotify.com/track/639mTbZQtyB943hXWueUm7) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Zaroori](https://open.spotify.com/album/3dRAFi5yf1iC25WTz9LTBm) | 1:41 | 2025-07-25 |  |
 | [Zaroori Saman](https://open.spotify.com/track/71WrJaBUsdwsf7NFxMMNcl) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Zaroori Saman](https://open.spotify.com/album/21hL4jXoRXtmSQAwFDVChf) | 2:51 | 2023-10-27 | 2023-12-02 |

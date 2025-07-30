@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-113 songs - 6 hr 12 min
+115 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Lickupon](https://open.spotify.com/track/1wQixSSWydeLgkebOzu3yt) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:44 | 2025-03-04 |  |
 | [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 | 2025-06-28 |  |
 | [Lockjaw](https://open.spotify.com/track/6K6rqLZ7PBDx3PNA4snQzK) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 1:03 | 2025-03-06 |  |
+| [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 | 2025-07-29 |  |
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2025-01-13 |  |
 | [Mince Meat](https://open.spotify.com/track/4bCBiFAPiK7rquriyiHByb) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:32 | 2025-03-04 |  |
 | [Molasses \(feat\. RZA\)](https://open.spotify.com/track/7lhkOb0VNnTlshwifCEoSr) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:16 | 2025-02-06 | 2025-04-20 |
@@ -119,6 +120,7 @@
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2025-02-16 |  |
 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 | 2025-03-26 |  |
 | [Winter Blues](https://open.spotify.com/track/1ZUYJWpneAKH2EyBAQoeO6) | [JJ DOOM](https://open.spotify.com/artist/5BxMS9rhKHbSagaYFBICun), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB) | [Key to the Kuffs](https://open.spotify.com/album/3AEeWRPtSMeqoXL8xNcSbe) | 4:10 | 2025-03-11 | 2025-04-15 |
+| [YAH.](https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:40 | 2025-07-29 |  |
 | [YESSIR!](https://open.spotify.com/track/7mFH1v50oBayJuhE0wfKhc) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:33 | 2025-05-31 |  |
 | [You Might Think He Loves You for Your Money but I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://open.spotify.com/track/5YnS9oWrGcwf1tgode1F7z) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 2:41 | 2025-03-10 | 2025-04-22 |
 

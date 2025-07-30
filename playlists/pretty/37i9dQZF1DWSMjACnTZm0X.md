@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI?si=HUkkftvyRfOlI0i3TNRJNw">Chella</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,221 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,222 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 |
 | 2 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
-| 3 | [OHA](https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [OHA](https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u) | 2:53 |
+| 3 | [OHA](https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Reekado Banks](https://open.spotify.com/artist/2cm9kuB5FB4fKaJ9SJEAVq), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [OHA](https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u) | 2:53 |
 | 4 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 |
 | 5 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
 | 6 | [Tonge Nyama \(feat\. Marioo\)](https://open.spotify.com/track/5d2HXfPrOJfwEyIJXjdm3l) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Tonge Nyama \(feat\. Marioo\)](https://open.spotify.com/album/06ApcBlzPY37llD7aFCrGm) | 3:28 |

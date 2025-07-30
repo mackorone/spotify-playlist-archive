@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,609 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,711 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Tango \(feat\. Veigh & Niink\)](https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:44 |
 | 55 | [Avançando Muito](https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [beira.wav](https://open.spotify.com/artist/5hqyBZU3Hdg0HfT5VUURTB) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 4:11 |
 
-Snapshot ID: `aILzSAAAAADFhEVOo32Oz9K4PU7sR3ub`
+Snapshot ID: `AAAAALWJXDGwUCTTZaFGdpj+6B5eTLK/`

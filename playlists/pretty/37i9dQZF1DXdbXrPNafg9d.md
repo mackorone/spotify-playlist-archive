@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Indigo De Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310,995 likes - 199 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,957 likes - 199 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

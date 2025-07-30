@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ezgi B Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,789 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 73 | [N'olur Yine](https://open.spotify.com/track/5I5UCJmtOwxyUAioaeSaQD) | [Göksu Taşçeviren](https://open.spotify.com/artist/2HyUHWERo5Ku8Eqsk5OdTA) | [N'olur Yine](https://open.spotify.com/album/3Fmx8mOHUIHgRWnMVNMzNH) | 2:27 |
 | 74 | [Mirket \(Aniden Kalkar\)](https://open.spotify.com/track/1fo6hpdFCDyVnfU9g9BiFO) | [Serkan Modalı](https://open.spotify.com/artist/0EnJuE66sW7GGlz4qNaTJy) | [Mirket \(Aniden Kalkar\)](https://open.spotify.com/album/36ZXHDNnCexhkyIQZKxSn6) | 4:11 |
 
-Snapshot ID: `aIOI4QAAAABByfzKZT7rVCPuK6ThhjvS`
+Snapshot ID: `aIk2aAAAAADEPBpBPtNQmm4a31X/SbY5`

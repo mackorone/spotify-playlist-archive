@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-05",
+      "date_removed": null,
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 273790,
       "name": "Spirit in My Heart",
       "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
@@ -1560,6 +1560,24 @@
       "duration_ms": 208626,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
+    },
+    {
+      "album": {
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
     },
     {
       "album": {

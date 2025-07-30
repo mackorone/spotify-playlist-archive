@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Mesy, Gilly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,757 likes - 53 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,754 likes - 53 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 33 | [Beste Voor Jou](https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Beste Voor Jou](https://open.spotify.com/album/6RcRiiZRb774Zi5erJi1SE) | 3:04 |
 | 34 | [Stoppen Als Het Lukt](https://open.spotify.com/track/0QWukb6lPHrGsOCfEOnApp) | [NDD](https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV) | [Stoppen Als Het Lukt](https://open.spotify.com/album/6RPa7cHyU61hRnWbsZQOM7) | 2:26 |
 | 35 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 |
-| 36 | [Magic](https://open.spotify.com/track/1ZMKJVJVqzPPbwfDKdedvV) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [Magic](https://open.spotify.com/album/51AjqnUvFSqm89n1Mnfy3s) | 3:06 |
+| 36 | [Magic](https://open.spotify.com/track/1ZMKJVJVqzPPbwfDKdedvV) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [Magic](https://open.spotify.com/album/51AjqnUvFSqm89n1Mnfy3s) | 3:34 |
 | 37 | [Degradatie](https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Degradatie](https://open.spotify.com/album/2BdM34Vhz4W06U2OZK7V8Z) | 2:37 |
 | 38 | [Huismuziek](https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Huismuziek](https://open.spotify.com/album/0oB2M2lgv9YK4X2eRRmYk7) | 2:45 |
 | 39 | [9 Straatjes](https://open.spotify.com/track/7EWlCJN36ukc2tUvYv9GZp) | [Mau](https://open.spotify.com/artist/1ESH6JWzVykbIYI4ew71eW) | [9 Straatjes](https://open.spotify.com/album/1MPaDbwT7ODJ7SKJ3B10ie) | 2:47 |

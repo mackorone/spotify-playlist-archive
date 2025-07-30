@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 274884,
+  "num_followers": 275126,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2025-06-27 10:19:13",
+      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -1091,6 +1107,26 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+        }
+      ],
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2025-06-27 10:19:13",
+      "album": {
         "name": "Common",
         "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
       },
@@ -1123,42 +1159,6 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
-      },
-      "artists": [
-        {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
-        }
-      ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2025-06-27 10:19:13",
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
-    },
-    {
-      "added_at": "2025-06-27 10:19:13",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     }
   ],
   "unique_name": "gloomcore",

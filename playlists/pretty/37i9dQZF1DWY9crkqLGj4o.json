@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 437488,
+  "num_followers": 437517,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
+      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2025-07-04 03:01:25",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -575,22 +595,6 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
-      },
-      "artists": [
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2025-07-04 03:01:25",
-      "album": {
         "name": "Aos P\u00e9s da Cruz",
         "url": "https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4"
       },
@@ -607,22 +611,18 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
       },
       "artists": [
         {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
-      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     },
     {
       "added_at": "2025-07-04 03:01:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
-        "name": "Leandro Borges ao Vivo: Parte 2",
-        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Deus e Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
-    },
-    {
-      "added_at": "2025-07-04 03:01:25",
-      "album": {
         "name": "Maranata",
         "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 395435,
       "name": "Tudo \u00e9 Poss\u00edvel",
       "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": "2025-07-04 03:01:25",
+      "album": {
+        "name": "Leandro Borges ao Vivo: Parte 2",
+        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Deus e Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
     },
     {
       "added_at": "2025-07-04 03:01:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
-    },
-    {
-      "added_at": "2025-07-04 03:01:25",
-      "album": {
         "name": "Pra Te Ferir",
         "url": "https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 266664,
       "name": "Pra te Ferir",
       "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
+    },
+    {
+      "added_at": "2025-07-04 03:01:25",
+      "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2025-07-04 03:01:25",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-07-04 03:01:25",
       "album": {
-        "name": "Deus Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "Deus Forte (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
-    },
-    {
-      "added_at": "2025-07-04 03:01:25",
-      "album": {
         "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 282709,
       "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
+    },
+    {
+      "added_at": "2025-07-04 03:01:25",
+      "album": {
+        "name": "Deus Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "Deus Forte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
     },
     {
       "added_at": "2025-07-04 03:01:25",

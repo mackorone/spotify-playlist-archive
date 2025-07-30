@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 793717,
+  "num_followers": 793858,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Stevie Wonder The Definitive Collection 2002",
+        "url": "https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "I Was Made To Love Her",
+      "url": "https://open.spotify.com/track/0mOqAlDRU2Awz65hdK2glS"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Proud Mary: The Best Of Ike & Tina Turner",
         "url": "https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "The Best Of Bill Withers: Lean On Me",
-        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "We Are Marshall Soundtrack",
         "url": "https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Stevie Wonder The Definitive Collection 2002",
-        "url": "https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk"
+        "name": "The Best Of Bill Withers: Lean On Me",
+        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 155706,
-      "name": "I Was Made To Love Her",
-      "url": "https://open.spotify.com/track/0mOqAlDRU2Awz65hdK2glS"
+      "duration_ms": 123333,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
     },
     {
       "added_at": "2024-07-02 22:47:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,784 likes - 601 songs - 1 day 11 hr 42 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,785 likes - 602 songs - 1 day 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,5 +609,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 599 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 600 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 601 | [GNAT](https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5) | [ZOO](https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR) | [GNAT](https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH) | 4:30 |
+| 602 | [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 |
 
-Snapshot ID: `AAAL6yFZAZegUbz+ZwLxxPD8Ol1zqNGW`
+Snapshot ID: `AAAL7NKwEnMYm158qk6GBoCKV51jw9bs`

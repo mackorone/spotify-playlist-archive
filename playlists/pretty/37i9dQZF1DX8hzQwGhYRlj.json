@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38721,
+  "num_followers": 38723,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg/Sibelius: Nordic Suites",
-        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
-      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Grieg/Sibelius: Nordic Suites",
+        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
+      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg/Sibelius: Cello Sonatas",
         "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 606493,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
       "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 123040,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
+      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 362716,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: II. Allegretto espressivo alla romanza",
       "url": "https://open.spotify.com/track/26IsOkbxM5eh9CTS2FvxTm"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 123040,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
-      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
     },
     {
       "added_at": "2025-07-04 11:59:56",

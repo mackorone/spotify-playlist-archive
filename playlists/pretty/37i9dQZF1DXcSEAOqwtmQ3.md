@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,322 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,367 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 27 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 28 | [Expensive Shit](https://open.spotify.com/track/5FvggTB5kixLoOHtKIUFkg) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 13:12 |
 | 29 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
-| 30 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
-| 31 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
+| 30 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
+| 31 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
 | 32 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
 | 33 | [Water No Get Enemy](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 11:00 |
 | 34 | [Ten over Ten](https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE) | [Naeto C](https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r) | [Super C Season](https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg) | 3:38 |

@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Yves\)
 
-252 songs - 14 hr 22 min
+253 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [FOREVER 1 \- Mar Vista Remix](https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:17 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2024-04-05 |  |
 | [Forever Only \- SHINDRUM Remix](https://open.spotify.com/track/2J21A2R7x9HTzTPz44Ct6I) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [iScreaM Vol.20 : Forever Only Remix](https://open.spotify.com/album/0qGWYp3eoGi3NK27XhwF6i) | 3:22 | 2024-04-05 | 2024-06-29 |
-| [Gatha](https://open.spotify.com/track/7r8NrNn8ttKczTCqnGSgcV) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Seoul 01 : Part Yin](https://open.spotify.com/album/4tu8rN61IRW23NRl6ZkGtq) | 5:41 | 2025-07-22 |  |
+| [Gatha](https://open.spotify.com/track/7r8NrNn8ttKczTCqnGSgcV) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Seoul 01 : Part Yin](https://open.spotify.com/album/4tu8rN61IRW23NRl6ZkGtq) | 5:41 | 2025-07-22 | 2025-07-30 |
 | [Get A Guitar \(English Version\) \- Chromeo Remix](https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [iScreaM Vol\. 28: Get A Guitar Remixes](https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo) | 2:47 | 2024-04-05 | 2024-06-29 |
 | [Get A Guitar \- Chromeo Remix](https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [iScreaM Vol\. 28: Get A Guitar Remixes](https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo) | 2:47 | 2024-04-05 | 2024-06-29 |
 | [Girls \- BRLLNT Remix](https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 2:55 | 2024-04-18 | 2024-09-22 |
@@ -156,6 +156,7 @@
 | [Monster \- LDN Noise Creeper Bass Remix](https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki) | 4:05 | 2024-06-28 |  |
 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 |  |
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
+| [murmur](https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 01](https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S) | 4:02 | 2025-07-29 |  |
 | [Music \(with\. sunwoojunga\)](https://open.spotify.com/track/7qgUPFjr05oDLtNT2l73Dm) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Music](https://open.spotify.com/album/6tZsLeta17ydKrxuWix40e) | 5:13 | 2025-03-28 | 2025-07-23 |
 | [My Universe \- David Guetta Remix](https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [My Universe \(David Guetta Remix\)](https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI) | 3:19 | 2024-06-28 |  |
 | [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 | 2025-07-24 |  |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Ha Kiem
+> Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: NOIR
 
-2,156 songs - 5 day 6 hr 26 min
+2,158 songs - 5 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Don't love me](https://open.spotify.com/track/2DhSku1iI1dPvNv8oDrlZu) | [Fuji](https://open.spotify.com/artist/3Zw1XinO6O5eXm8EpGZc9Y), [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV) | [Don't love me](https://open.spotify.com/album/6HwWysO6tPzRY8LU9yFIs4) | 2:57 | 2022-06-30 | 2022-09-22 |
 | [Don't Tell Me You Love Me](https://open.spotify.com/track/6640Tm6oQeX8dg9tziiGlo) | [Kanx](https://open.spotify.com/artist/0rP4Is3FRJKPCPVrdNXehM), [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i) | [Don't Tell Me You Love Me](https://open.spotify.com/album/19jZHBiYqc8lIyyDJl5v4k) | 3:48 | 2025-03-20 | 2025-05-01 |
 | [Don't Worry](https://open.spotify.com/track/5nip6bO6OzyeanmLe04Edm) | [Lil Roff](https://open.spotify.com/artist/3BBFbrYDfJFpWuwQZnALpp) | [Don't Worry](https://open.spotify.com/album/5ABbeILTHwdwlzlYj6uXYr) | 2:22 | 2023-04-13 | 2023-06-16 |
-| [Down To The Bones](https://open.spotify.com/track/1sXrjHVXILkjLOIaQjGvPo) | [Trần Trung Đức](https://open.spotify.com/artist/3Xlqvg2IKYrix7RCYRgXKp) | [Down To The Bones](https://open.spotify.com/album/5cmGOZIlHQMHgOY2HgEXqM) | 3:30 | 2025-05-15 |  |
+| [Down To The Bones](https://open.spotify.com/track/1sXrjHVXILkjLOIaQjGvPo) | [Trần Trung Đức](https://open.spotify.com/artist/3Xlqvg2IKYrix7RCYRgXKp) | [Down To The Bones](https://open.spotify.com/album/5cmGOZIlHQMHgOY2HgEXqM) | 3:30 | 2025-05-15 | 2025-07-30 |
 | [dream](https://open.spotify.com/track/1FeuEcWB2Q0vEm37paZp3f) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [dream](https://open.spotify.com/album/3JUDKvRIsi8KIjuDNVBygM) | 2:32 | 2023-07-03 | 2023-07-27 |
 | [Dreamboat](https://open.spotify.com/track/6wkUagrscMyyHQTY3kGlwk) | [Grassic](https://open.spotify.com/artist/4mCkqAH51xAWHQjrngxPsg) | [Dreamboat](https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18) | 3:45 | 2024-04-25 | 2024-07-11 |
 | [DREAMYBAE](https://open.spotify.com/track/1hOqLQYe1QYYCA5d0f3rN6) | [Arrow](https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w) | [DREAMYBAE](https://open.spotify.com/album/3rlRrwJqGGG9oGyajkaaMm) | 3:03 | 2022-04-07 | 2022-05-27 |
@@ -576,7 +576,7 @@
 | [dốc tiên long](https://open.spotify.com/track/7s6ovGQrG5gWLvA9lC1bnh) | [mối](https://open.spotify.com/artist/2rDOa0khaLnzba0zxlwjIX) | [chờ](https://open.spotify.com/album/6QBN7YlyEjz1FgJZAvJooB) | 4:44 | 2023-03-29 | 2023-04-06 |
 | [dối hay thật.](https://open.spotify.com/track/5lVaHjofNbj64dH7BOnlQM) | [Ben Pham](https://open.spotify.com/artist/2dIB0QxvzPviBFdYKRFW94), [Hao Le](https://open.spotify.com/artist/0yvX7RPSkZFf7Y66UfNsLC) | [dối hay thật.](https://open.spotify.com/album/6Osljr8PDKvW4WD8SLXnJ3) | 3:16 | 2023-10-05 | 2023-11-17 |
 | [Dối Trá](https://open.spotify.com/track/6zMRibsiZ2Q6Qrm5KSb8kz) | [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Bâng Khuâng](https://open.spotify.com/album/0GOaTJw8tiVgdnt7hio72I) | 3:59 | 2023-03-31 | 2023-06-09 |
-| [DỐI TRÁ](https://open.spotify.com/track/1e76JGnUxyuwKV4EF6DXs3) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq) | [DỐI TRÁ](https://open.spotify.com/album/0T2xcmaBIVSJIbOkATIqA6) | 2:59 | 2025-07-17 |  |
+| [DỐI TRÁ](https://open.spotify.com/track/1e76JGnUxyuwKV4EF6DXs3) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq) | [DỐI TRÁ](https://open.spotify.com/album/0T2xcmaBIVSJIbOkATIqA6) | 2:59 | 2025-07-17 | 2025-07-30 |
 | [dửng dưng](https://open.spotify.com/track/2ODE2S0lw6GDheGeyIa5dT) | [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [dửng dưng](https://open.spotify.com/album/1YgYkoIBay5HKNa6Z6Gz6S) | 3:26 | 2024-09-01 | 2024-12-05 |
 | [EASY](https://open.spotify.com/track/1OpUIvfCInZYXf6K4sjCAS) | [DXSE](https://open.spotify.com/artist/0Sh636g3SpwGfv9WwgY040) | [EASY](https://open.spotify.com/album/3ePJT2MfLOW0AjPtm7lkXP) | 3:13 | 2023-07-20 | 2023-08-01 |
 | [easy](https://open.spotify.com/track/6wUxE7kmau1O1dXoAbut1i) | [nghibe](https://open.spotify.com/artist/4uDNmB5UFym8yUC33WdVkt) | [easy](https://open.spotify.com/album/77tM4aKVC7ZmNF0e8pIzMa) | 4:08 | 2023-11-12 | 2023-11-30 |
@@ -627,6 +627,7 @@
 | [Em Thích](https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx) | 2:56 | 2022-01-06 | 2022-07-29 |
 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 | 2022-07-28 | 2023-01-06 |
 | [Em và...](https://open.spotify.com/track/5quyXV8gJzdzBnUI9uYUjZ) | [Bon Ma](https://open.spotify.com/artist/7Am0uM7zd9oMI8Qyo5qmZd), [Minh Lame](https://open.spotify.com/artist/2yr3M7WBJ21pYIOW5Jhzza) | [Em và...](https://open.spotify.com/album/55ySDHE0sD1qH4guxELMrw) | 4:30 | 2025-06-26 |  |
+| [Em Xinh](https://open.spotify.com/track/1zBP33Wq6UMvfgosXoSFBx) | [NOIR](https://open.spotify.com/artist/7muTp7jVpikPTC2KdRyytE) | [Em Xinh](https://open.spotify.com/album/3XLAHVyZPv28A10dbNOwml) | 2:09 | 2025-07-29 |  |
 | [Em Xinh Như Đóa Hoa](https://open.spotify.com/track/6zOBkYSMDFZBPdno8tbMwY) | [Lapphan](https://open.spotify.com/artist/2NkP0wQ6f10FjcdWp4QxGL), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em Xinh Như Đóa Hoa](https://open.spotify.com/album/5jfhxGaOKm5SYeRuj4QvXe) | 2:38 | 2025-05-08 | 2025-06-28 |
 | [Em Đa Nghi](https://open.spotify.com/track/5apbs8mAhF7p80LNQDAbQ5) | [Tùa](https://open.spotify.com/artist/6OX2h0HXN8oN2tb2pmYOby) | [Em Đa Nghi](https://open.spotify.com/album/5EJejurcckpajuvyTIYN68) | 3:15 | 2024-04-04 | 2024-06-25 |
 | [Em Đang Yêu Ai Đó](https://open.spotify.com/track/677TfyoOterQsgr5wo38r0) | [Han](https://open.spotify.com/artist/6xI4HKNrfT3SBf8PSwGMFG), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em Đang Yêu Ai Đó](https://open.spotify.com/album/76bRizUYyjsxjVYXecFrOa) | 2:53 | 2025-06-10 | 2025-07-10 |
@@ -1740,6 +1741,7 @@
 | [Trời Cho](https://open.spotify.com/track/4aOaND4hwRKjiEhNjmedcm) | [Thiện Hưng](https://open.spotify.com/artist/5sLcAaPV5ix8rfppZysYDs) | [Trời Cho](https://open.spotify.com/album/1YbGAAZsj0mmyblc6AGfpJ) | 3:49 | 2023-10-13 | 2023-11-30 |
 | [trời đánh \- CM1X Remix](https://open.spotify.com/track/6g4wLAd3sv2hD7iQrkcZwQ) | [Duệ My](https://open.spotify.com/artist/2rNmKq6YTNX5W9IxX9NsTb), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [trời đánh \(CM1X Remix\)](https://open.spotify.com/album/3Wz1DHrtgy4Lvfglasgxo4) | 4:09 | 2023-08-07 | 2023-10-06 |
 | [Trở Về Cố Đô](https://open.spotify.com/track/1DgvdrXtDn7Xp5tEXuCcKd) | [Trungg I.U](https://open.spotify.com/artist/6Ue0BbbTOdBjcO4QZB5sio), [Hưng Cacao](https://open.spotify.com/artist/3KOY56OWknrjoyAO1F6wXG) | [Trở Về Cố Đô](https://open.spotify.com/album/5WyeXK6mTMIiIztHHSuRtO) | 4:23 | 2024-07-31 | 2024-10-18 |
+| [Trở Về Từ Ngày Mai](https://open.spotify.com/track/3d7UKkyNfQQaHmRK5QcV6A) | [giangimgs](https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Trở Về Từ Ngày Mai](https://open.spotify.com/album/27vyC1KloFbKCwvCL7ZFto) | 3:18 | 2025-07-29 |  |
 | [TUSOKHONG](https://open.spotify.com/track/2d1dBb8U2YKrinYmtp2BP8) | [Linh Lor](https://open.spotify.com/artist/2z9C9qgku8ZmBd5FXlSmJu), [Thịnh Qino](https://open.spotify.com/artist/7DDgdpUIK4BiTaJAzt5wv6) | [TUSOKHONG](https://open.spotify.com/album/4rGQ6F4JZkyiKZK1fsjcQV) | 2:25 | 2025-05-08 | 2025-07-25 |
 | [Tuổi Mộng Mơ](https://open.spotify.com/track/0cKSoE62N9IMcaKade3mzK) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [\#Trầm](https://open.spotify.com/album/27eHKx4Ul50YQlc8IuwmhB) | 3:21 | 2022-01-22 | 2022-05-20 |
 | [Tuổi Mộng Mơ \- From "\#Trầm"](https://open.spotify.com/track/58XezCKDBpiXAOEgIlzEAM) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [\#Trầm](https://open.spotify.com/album/78UkaVDchROeLiVXBsSoxZ) | 3:21 | 2022-11-30 | 2023-01-06 |

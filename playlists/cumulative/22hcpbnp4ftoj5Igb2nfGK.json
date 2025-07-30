@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "LUST.",
+      "url": "https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp"
+    },
+    {
+      "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
       },
@@ -2340,6 +2358,24 @@
       "duration_ms": 250567,
       "name": "Winter Blues",
       "url": "https://open.spotify.com/track/1ZUYJWpneAKH2EyBAQoeO6"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "YAH.",
+      "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4422,
+  "num_followers": 4427,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAADEejX8ucFHo0MsgqvSMvL7",
+  "snapshot_id": "aIa9gAAAAADyps/hRz99ljhdg2A8nki7",
   "tracks": [
     {
       "added_at": null,
@@ -214,11 +214,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 127351,
-      "name": "Mezzanine",
-      "url": "https://open.spotify.com/track/4mjYcKnUZItzIvVYxfgt68"
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
     },
     {
       "added_at": null,
@@ -278,15 +282,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 260885,
-      "name": "Goodbye For Now (feat. Julien Baker)",
-      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
+      "duration_ms": 127351,
+      "name": "Mezzanine",
+      "url": "https://open.spotify.com/track/4mjYcKnUZItzIvVYxfgt68"
     },
     {
       "added_at": null,

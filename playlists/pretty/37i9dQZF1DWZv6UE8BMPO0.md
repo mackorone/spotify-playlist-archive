@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,045 likes - 122 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,015 likes - 122 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 121 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
 | 122 | [O Holy Night](https://open.spotify.com/track/25iEQTtIhKXhhZedTn7YZm) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 4:54 |
 
-Snapshot ID: `Z2UpzgAAAAB3HxITtnzQ4G3ocAYE2tvK`
+Snapshot ID: `AAAAACF0FNuxoqqYrakQsSDXlXtaq/Mj`

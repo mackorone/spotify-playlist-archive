@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-999 songs - 2 day 13 hr 0 min
+1,000 songs - 2 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 | 2025-05-08 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/album/60cdyydHGHG8cj8HTfU4xX) | 4:13 | 2025-02-10 | 2025-03-18 |
-| [G](https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [G](https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX) | 2:56 | 2025-07-24 |  |
+| [G](https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [G](https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX) | 2:56 | 2025-07-24 | 2025-07-30 |
 | [Gaia](https://open.spotify.com/track/4y7WDTY7z2GBAhSNkCbHH2) | [BØJEONG](https://open.spotify.com/artist/16kfFwTVflpU672fr6Z1cA) | [kin](https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5) | 3:55 | 2024-11-06 | 2024-12-03 |
 | [GANGGANGSULLAE](https://open.spotify.com/track/3Vmlbu7l4vhZfpXZ8d10ad) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [GANGGANGSULLAE](https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ) | 3:26 | 2024-04-09 | 2024-05-10 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 | 2024-08-13 |
@@ -658,6 +658,7 @@
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-09-27 | 2024-01-09 |
 | [Radio Drive](https://open.spotify.com/track/0YWNfk3ONygowyOOTvlueu) | [9 and the Numbers](https://open.spotify.com/artist/3GtxaQXCwJZaoV9lmKofs0) | [Radio Drive](https://open.spotify.com/album/7K1yB4bLLhwIyjWYheXdY4) | 3:06 | 2024-05-08 | 2024-05-10 |
+| [Radio Silence](https://open.spotify.com/track/1wJNpkpNrZEZId1F2Gz83K) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Radio Silence](https://open.spotify.com/album/2nZeaSN1gaZoPKeS2dkxJJ) | 4:05 | 2025-07-29 |  |
 | [Rain](https://open.spotify.com/track/1wF3cpRPZMCoHgM4iDh0DK) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [A New Journey](https://open.spotify.com/album/12Z2vK39UyWavZ6NpoK5ZH) | 3:23 | 2022-04-22 | 2022-06-15 |
 | [RAIN STAR \*:・゚](https://open.spotify.com/track/5mY26LEMh6ImayiXo7KLQs) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [RAIN STAR](https://open.spotify.com/album/1YzGYed20Rhnid37X5Ejkl) | 3:07 | 2022-04-12 | 2022-07-28 |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-11 | 2022-07-09 |

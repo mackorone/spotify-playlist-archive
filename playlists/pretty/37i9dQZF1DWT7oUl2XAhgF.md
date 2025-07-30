@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Hermanos Gutiérrez x Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,439 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,525 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 |
 | 100 | [This Could Last Forever](https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/4lVwQRcEyiifhaQRhyv0w0) | 3:57 |
 
-Snapshot ID: `aHnGzAAAAAAw7pje1ZxaHx5gD0vQMVjN`
+Snapshot ID: `AAAAAFbuIK1dQ7eoLm7X6/ul9tt3NLbb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,231 likes - 114 songs - 10 hr 7 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,234 likes - 114 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 94 | [Crowns Down \- Live](https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 6:46 |
 | 95 | [Lord I Need You \- Live](https://open.spotify.com/track/4fF4Bb4T3txIfsLlqLyKA9) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The God You Are \(Live\)](https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2) | 3:48 |
 | 96 | [Always and Forever \- Live](https://open.spotify.com/track/2Bc27NvLY9rGEg2QGbhyMe) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Ashley Bailey](https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR) | [Always and Forever \(Live\)](https://open.spotify.com/album/1z2IJ2IzlcZMjzFHg10bht) | 7:51 |
-| 97 | [Holy Jesus \- Live At VOUS, Miami, FL, 2025](https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Mariah McManus Goss](https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In) | [Holy Jesus](https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2) | 7:28 |
+| 97 | [Holy Jesus \- Live](https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Mariah McManus Goss](https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In) | [Holy Jesus](https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2) | 7:28 |
 | 98 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
 | 99 | [Lamb of God](https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Lamb of God](https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H) | 4:13 |
 | 100 | [Loved](https://open.spotify.com/track/5LQ70Yd2fF8LTCG3e2xfaR) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Loved](https://open.spotify.com/album/6qxCDhu4mNGk4rqvMl1Khk) | 5:08 |

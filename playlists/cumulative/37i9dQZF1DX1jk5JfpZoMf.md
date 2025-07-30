@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-310 songs - 15 hr 16 min
+311 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Calming Droplets](https://open.spotify.com/track/0MKtDIpIijux0WSCLQ1PJl) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Noctis Pluvialis](https://open.spotify.com/album/1xf65AcerYYOcjsZEKGnZl) | 2:22 | 2023-06-16 |  |
 | [Calming Rain Sounds](https://open.spotify.com/track/4Tx8wbiny4HLw62K9hppp8) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Calming Rain Sounds](https://open.spotify.com/album/3Qe0XajKgl7aX74dJUNsne) | 2:57 | 2023-06-16 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2023-06-16 |  |
+| [Canopy Rain](https://open.spotify.com/track/2h9g4A7QBMoW4MblHgwaDv) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Canopy Rain](https://open.spotify.com/album/6TvD50Pze90eqfleZFNq6h) | 2:16 | 2025-07-24 |  |
 | [Chasing Rain](https://open.spotify.com/track/5fd6LDKbz2mIDEeBJRW9KD) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Chasing Rain](https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2) | 3:28 | 2023-06-16 |  |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2023-06-16 |  |
 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2023-06-16 |  |
@@ -149,7 +150,7 @@
 | [Nederbörd](https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Nederbörd](https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh) | 2:44 | 2023-06-16 |  |
 | [Nemesis](https://open.spotify.com/track/7kyjoTvqu9H0cq7qYXeyMm) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Holovid](https://open.spotify.com/album/1XUFL4Zh9itPf7K6aHRvIU) | 2:17 | 2023-06-16 |  |
 | [Never Stop Raining](https://open.spotify.com/track/4HRyCRRVtsqdCHUgCw6pRa) | [Clark Jacobs](https://open.spotify.com/artist/1vGGvSZXDPENgzsf5XY8dI) | [Keeps Pouring](https://open.spotify.com/album/0IDTXTgNCPXWE0CmNWEQ7Y) | 2:35 | 2023-06-16 |  |
-| [Night In The Rainforest](https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7) | [California Nature Sounds](https://open.spotify.com/artist/6MUg2pu162aKWsqjBY5S2A) | [California Rain](https://open.spotify.com/album/3aOEiF4NaabKMdWbRgFXwO) | 2:40 | 2023-06-16 |  |
+| [Night In The Rainforest](https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7) | [California Nature Sounds](https://open.spotify.com/artist/6MUg2pu162aKWsqjBY5S2A) | [California Rain](https://open.spotify.com/album/3aOEiF4NaabKMdWbRgFXwO) | 2:40 | 2023-06-16 | 2025-07-30 |
 | [Nightly Downpour](https://open.spotify.com/track/4wk1SoH1WA7lnhrPaaFVi9) | [Nature Sleepsters](https://open.spotify.com/artist/1oKEOLD6ZytrrT508w0QvJ) | [Midnight Rainy\-Feels](https://open.spotify.com/album/6azVRcM9ruSLAQv7mpXBCG) | 2:30 | 2023-06-16 |  |
 | [Nighttime Rain In Hyde Park \- Seamless](https://open.spotify.com/track/166a8OgRfj3GTf4frIb39E) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Hyde Park Rain](https://open.spotify.com/album/6pdnloswEEFq9U5sbMc3g8) | 2:44 | 2023-06-16 |  |
 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 | 2023-06-16 |  |

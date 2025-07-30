@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93539,
+  "num_followers": 93535,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Forgive, Forget",
         "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212858,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Dr\u00f6mmare",
         "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212858,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Voice Of The Silent",
-        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
       },
       "artists": [
         {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
         }
       ],
-      "duration_ms": 169125,
-      "name": "Voice Of The Silent",
-      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+        "name": "Voice Of The Silent",
+        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
       },
       "artists": [
         {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
         }
       ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
+      "duration_ms": 169125,
+      "name": "Voice Of The Silent",
+      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 216511,
       "name": "V\u00e5r b\u00e4sta tid",
       "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Jag dansade en sommar",
-        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
-      },
-      "artists": [
-        {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Jag dansade en sommar",
-      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Jag dansade en sommar",
+        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Jag dansade en sommar",
+      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
       "artists": [
         {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "EN D\u00d6ENDE PLANET",
-        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
       },
       "artists": [
         {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
         }
       ],
-      "duration_ms": 243529,
-      "name": "EN D\u00d6ENDE PLANET",
-      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
+        "name": "What I'm Running From",
+        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 227654,
+      "name": "What I'm Running From",
+      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -1155,26 +1171,6 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
-        "name": "H\u00e4lsingevind",
-        "url": "https://open.spotify.com/album/0SqezURYw039gJ7livqLby"
-      },
-      "artists": [
-        {
-          "name": "Engmans Kapell",
-          "url": "https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v"
-        },
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 287745,
-      "name": "H\u00e4lsingevind",
-      "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "What I'm Running From",
-        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+        "name": "H\u00e4lsingevind",
+        "url": "https://open.spotify.com/album/0SqezURYw039gJ7livqLby"
       },
       "artists": [
         {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+          "name": "Engmans Kapell",
+          "url": "https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v"
+        },
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
         }
       ],
-      "duration_ms": 227654,
-      "name": "What I'm Running From",
-      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+      "duration_ms": 287745,
+      "name": "H\u00e4lsingevind",
+      "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Alphabet City Songs (Lost and Found Album)",
         "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 235705,
       "name": "East River Park Song",
       "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Kamikaze Life EP",
-        "url": "https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Opening Act",
-      "url": "https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "It\u2019s Time",
         "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 226738,
       "name": "It\u2019s Time",
       "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Kamikaze Life EP",
+        "url": "https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Opening Act",
+      "url": "https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Little Human",
-        "url": "https://open.spotify.com/album/5Hh92QEAAnv8dU71AAVm1M"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 330302,
-      "name": "You\u00b4ve Already Won",
-      "url": "https://open.spotify.com/track/1e3N0rkz3eG9fiMauj9Y4S"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Uteblivna vi",
         "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 362920,
       "name": "Uteblivna vi",
       "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Little Human",
+        "url": "https://open.spotify.com/album/5Hh92QEAAnv8dU71AAVm1M"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 330302,
+      "name": "You\u00b4ve Already Won",
+      "url": "https://open.spotify.com/track/1e3N0rkz3eG9fiMauj9Y4S"
     },
     {
       "added_at": "2025-07-25 14:24:13",

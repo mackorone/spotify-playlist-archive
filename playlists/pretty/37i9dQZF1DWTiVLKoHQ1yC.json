@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 242674,
+  "num_followers": 242742,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-07-17 23:00:27",
       "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+    },
+    {
+      "added_at": "2025-07-17 23:00:27",
+      "album": {
         "name": "Diamonds (Further Than I Ever Was)",
         "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-07-17 23:00:27",
-      "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2025-07-17 23:00:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-07-17 23:00:27",
       "album": {
-        "name": "Waiting on the World",
-        "url": "https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 233574,
-      "name": "Waiting on the World",
-      "url": "https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN"
-    },
-    {
-      "added_at": "2025-07-17 23:00:27",
-      "album": {
         "name": "Protected",
         "url": "https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG"
       },
@@ -1023,26 +1007,18 @@
     {
       "added_at": "2025-07-17 23:00:27",
       "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
+        "name": "Waiting on the World",
+        "url": "https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz"
       },
       "artists": [
         {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        },
-        {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
-        },
-        {
-          "name": "Tom Diesel",
-          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 206890,
-      "name": "The Underground",
-      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
+      "duration_ms": 233574,
+      "name": "Waiting on the World",
+      "url": "https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN"
     },
     {
       "added_at": "2025-07-17 23:00:27",
@@ -1071,6 +1047,30 @@
     {
       "added_at": "2025-07-17 23:00:27",
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Tom Diesel",
+          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+        }
+      ],
+      "duration_ms": 206890,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
+    },
+    {
+      "added_at": "2025-07-17 23:00:27",
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2025-07-17 23:00:27",
       "album": {
-        "name": "No Bad Vibes (with Jayda G)",
-        "url": "https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes (with Jayda G)",
-      "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
-    },
-    {
-      "added_at": "2025-07-17 23:00:27",
-      "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "added_at": "2025-07-17 23:00:27",
+      "album": {
+        "name": "No Bad Vibes (with Jayda G)",
+        "url": "https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes (with Jayda G)",
+      "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
     },
     {
       "added_at": "2025-07-17 23:00:27",

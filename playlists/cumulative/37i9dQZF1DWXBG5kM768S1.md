@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-259 songs - 16 hr 33 min
+260 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Hva kjærlighet er](https://open.spotify.com/track/788MR92vsPMTRVlZSAaxd4) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Hva kjærlighet er](https://open.spotify.com/album/30ORqFtorGGkXnY1Bl5TLx) | 4:14 | 2022-01-27 | 2022-04-13 |
 | [Hvis jeg ikke var meg selv](https://open.spotify.com/track/3tHXA83mhSXOHPAAIAgaMp) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [Me for Queen](https://open.spotify.com/artist/1H7mNprYkefKwq5C0VWS9M) | [20 Lillos uten filter](https://open.spotify.com/album/6BS9ZWKOhOfwryrPDg4lAa) | 4:12 | 2025-01-23 | 2025-03-20 |
 | [Hysj, Hysj, Hysj](https://open.spotify.com/track/5RXYGJbs0J8v2lLYOMxtYr) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:07 | 2021-12-16 | 2022-07-25 |
-| [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 | 2021-12-16 |  |
+| [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 | 2021-12-16 | 2025-07-30 |
 | [I går](https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [I går](https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN) | 5:38 | 2022-09-08 | 2022-11-15 |
 | [I huset med deg](https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I huset med deg](https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU) | 3:23 | 2022-05-26 | 2023-01-23 |
 | [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 | 2022-10-25 |
@@ -178,6 +178,7 @@
 | [Mitt Andre Hjem](https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM), [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K) | [Mitt Andre Hjem](https://open.spotify.com/album/4WChofZor5RuSged93ZT0c) | 3:32 | 2021-12-16 | 2022-07-23 |
 | [Mitt Hjerte Er Ditt](https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI) | [Maj Britt Andersen](https://open.spotify.com/artist/2bIqrsdC6t8Ps4AcBp2rAP) | [Hvis Jeg Kunne Fly](https://open.spotify.com/album/07QZyVv2dBqLijfzuye6NL) | 2:21 | 2021-12-16 | 2022-07-29 |
 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 |  |
+| [Monumental](https://open.spotify.com/track/3IlGkwahrujXd52GYxzP17) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Monumental](https://open.spotify.com/album/5LPLarBQIRrBlAYj47vPf9) | 3:50 | 2025-07-24 |  |
 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 |  |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
 | [Nordlandslefse](https://open.spotify.com/track/1vqgABBkvcpEg4v0ol8fn1) | [Tønes](https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6) | [Nordlandslefse](https://open.spotify.com/album/0k1WDGvdIJmkh2DJdygRdB) | 4:45 | 2025-07-03 |  |

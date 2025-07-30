@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,087 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,057 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 52 | [Young and Free](https://open.spotify.com/track/3YGDAMwevFJ0H1b424V7mX) | [Coulser](https://open.spotify.com/artist/7xwavZDjE0DD8DRtUifePz) | [Young and Free](https://open.spotify.com/album/0Qzc3KCYiCVJRRbZhOYLUS) | 2:02 |
 | 53 | [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 |
 | 54 | [Last](https://open.spotify.com/track/0n1KK4wHT71v40NBhOCbfz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Last](https://open.spotify.com/album/7fW6TfL1hggdSSrCA9h13E) | 4:54 |
-| 55 | [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/6rtsCuZuv4HV4PEo6Tp7UO) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:56 |
+| 55 | [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:56 |
 | 56 | [Outro//Femme Fatale](https://open.spotify.com/track/0GBaOBAMWO1xXuUH3xicQf) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 4:18 |
 | 57 | [Wild Animal](https://open.spotify.com/track/4AdJAwKoPLB3WiOU9agvUB) | [Hante.](https://open.spotify.com/artist/5PhSiNjHZevtfAj9zmvVkU) | [FIERCE](https://open.spotify.com/album/5nGkqRh9HWIPTgYpvbH6DY) | 5:05 |
 | 58 | [We Will Meet Again](https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [We Will Meet Again](https://open.spotify.com/album/44gvqKoDEpsDC9QRE2sChM) | 3:55 |

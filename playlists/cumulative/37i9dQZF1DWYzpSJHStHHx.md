@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 |  |
+| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 | 2025-07-30 |
 | [...Anyway](https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu) | [Ben Cook](https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV) | [Bread For Your Broth](https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak) | 3:06 | 2023-07-13 | 2023-07-29 |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-20 |
 | [A.M.](https://open.spotify.com/track/2Y33MDjGDSZt2OLzkS6ZkG) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Hoodratscumbags](https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo) | 4:03 | 2023-08-18 | 2024-04-19 |
@@ -145,7 +145,7 @@
 | [Hey \(feat\. Alfie Templeman\)](https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK) | 3:01 | 2021-02-05 | 2022-04-20 |
 | [Hey Good Lookin'](https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9) | [Blonde Tongues](https://open.spotify.com/artist/1WXAzKcld8b4tZIteRi14G) | [Blonde Tongues](https://open.spotify.com/album/1pzZ7uCZMJSH21sP8g7dUG) | 5:47 | 2021-02-05 | 2022-06-18 |
 | [Hey Lover](https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII) | [The Daughters Of Eve](https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On) | [Hey Lover / Stand by Me](https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE) | 2:24 | 2022-05-13 | 2022-11-30 |
-| [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 | 2025-02-07 | 2025-04-20 |
+| [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 | 2025-02-07 |  |
 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-11 |  |
 | [Honestly](https://open.spotify.com/track/2XiuMeXhUSqRzbB5X8mWuv) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Honestly](https://open.spotify.com/album/0o2xbYxfg1zEhspcgNEkPQ) | 3:22 | 2021-02-05 | 2022-04-19 |
 | [How Come?](https://open.spotify.com/track/2mPecc45POav5EW6zlFOD3) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [With You For Ever](https://open.spotify.com/album/0eLCZmyXLSBr1hYjMBtLq4) | 5:00 | 2025-02-07 | 2025-07-12 |

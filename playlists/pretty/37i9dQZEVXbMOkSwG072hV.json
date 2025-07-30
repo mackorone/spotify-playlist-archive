@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352455,
+  "num_followers": 352453,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MBxAKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "MEGA YOU WILL SEE",
         "url": "https://open.spotify.com/album/63scaYIxdS1laUfhlbHPxH"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/4s14VIfzOjS6Xb8L35QfUf"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Soft Machine",
         "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Predador de Perereca",
         "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
@@ -77,7 +93,87 @@
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Menino Bonito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 169654,
+      "name": "Menino Bonito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/4tbNbesK0pufHDsu0bxYrD"
+      },
+      "artists": [
+        {
+          "name": "Venere Vai Venus",
+          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Anjos",
+      "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Pr\u00e9t-A-Porter",
+        "url": "https://open.spotify.com/album/0OvDmKn0biodngzwetYNvM"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Sinais de fogo",
+      "url": "https://open.spotify.com/track/7D9BJEcWwRqvQVqPbj1dbF"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Changes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 443240,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "L\u00c9SBICA OU RACISTA",
         "url": "https://open.spotify.com/album/6bfHnAEWpZqK4b4KilT9b0"
@@ -105,75 +201,7 @@
       "url": "https://open.spotify.com/track/5aHTyQQvzAo5jcEHdI7kJE"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Pr\u00e9t-A-Porter",
-        "url": "https://open.spotify.com/album/0OvDmKn0biodngzwetYNvM"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Sinais de fogo",
-      "url": "https://open.spotify.com/track/7D9BJEcWwRqvQVqPbj1dbF"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Popot\u00e3o Grand\u00e3o (1982)",
-        "url": "https://open.spotify.com/album/3zk1AB3MvpOnKQVFQTrBnb"
-      },
-      "artists": [
-        {
-          "name": "BLOW RECORDS",
-          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
-        },
-        {
-          "name": "Mc Neguinho do ITR",
-          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Popot\u00e3o Grand\u00e3o (1982)",
-      "url": "https://open.spotify.com/track/5JHjLuNoea93xUL4fX5xda"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        }
-      ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -205,7 +233,263 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        }
+      ],
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 302647,
+      "name": "Mr. Crowley",
+      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Popot\u00e3o Grand\u00e3o (1982)",
+        "url": "https://open.spotify.com/album/3zk1AB3MvpOnKQVFQTrBnb"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Popot\u00e3o Grand\u00e3o (1982)",
+      "url": "https://open.spotify.com/track/5JHjLuNoea93xUL4fX5xda"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "Extraordin\u00e1ria",
+      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "MEGA FA FA FA FA",
+        "url": "https://open.spotify.com/album/2IuxStyxIrNJKqbTK7p96B"
+      },
+      "artists": [
+        {
+          "name": "Dj Dudu",
+          "url": "https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Mr. Bim",
+          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
+        }
+      ],
+      "duration_ms": 142504,
+      "name": "MEGA FA FA FA FA",
+      "url": "https://open.spotify.com/track/2O0CJSTAl7cZOkX6l1ZAht"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Passa o teu Bigode",
+        "url": "https://open.spotify.com/album/5JDuBwm67g8d0tyqgwIuvQ"
+      },
+      "artists": [
+        {
+          "name": "Luk\u00e3o Mec",
+          "url": "https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg"
+        },
+        {
+          "name": "Dj Adah",
+          "url": "https://open.spotify.com/artist/2AsiMvIZTg9c36hjw3eWLr"
+        },
+        {
+          "name": "Lado Sul",
+          "url": "https://open.spotify.com/artist/0uZFRGwRv2x81BFQjPxzDu"
+        }
+      ],
+      "duration_ms": 119244,
+      "name": "Passa o teu Bigode",
+      "url": "https://open.spotify.com/track/2Hg7UW0OMdjP5nsGoVnyP1"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Malandramente (1972)",
+        "url": "https://open.spotify.com/album/4HA2EBk1eF5ZFinliNSJnW"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Nego Bam",
+          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+        },
+        {
+          "name": "MC Nandinho",
+          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
+        }
+      ],
+      "duration_ms": 214716,
+      "name": "Malandramente (1972)",
+      "url": "https://open.spotify.com/track/6mCAnHcooMWwDUi8HGTei4"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Lita",
+        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
+      },
+      "artists": [
+        {
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Close My Eyes Forever",
+      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Chupa Xoxota - Remake",
         "url": "https://open.spotify.com/album/1ZWw7eDugq5xhF3EDHJduW"
@@ -225,103 +509,7 @@
       "url": "https://open.spotify.com/track/7mL55lRXNzic2ryfmOIXSC"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Changes - 2009 Remaster",
-      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 443240,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "Extraordin\u00e1ria",
-      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Eu Vou Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        }
-      ],
-      "duration_ms": 1356604,
-      "name": "Eu Vou Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 302647,
-      "name": "Mr. Crowley",
-      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
         "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
@@ -337,23 +525,23 @@
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+        "name": "Eu Vou Orar",
+        "url": "https://open.spotify.com/album/4J1MLmnCAmZ4bN3YHcJm0k"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
         }
       ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+      "duration_ms": 434863,
+      "name": "Eu Vou Orar",
+      "url": "https://open.spotify.com/track/0qlH0Ab4LWKhCIII5I49Oa"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Noite Preta Ao Vivo",
         "url": "https://open.spotify.com/album/4wLDFVDOFuOyXnf8jGT3HR"
@@ -373,51 +561,39 @@
       "url": "https://open.spotify.com/track/5338vnPnf5fzJDyiWulX9Y"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Bobbie Goods",
-        "url": "https://open.spotify.com/album/0wQkKRmPsEbLBS3QWibMVv"
+        "name": "Ozzmosis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
       },
       "artists": [
         {
-          "name": "Mc Bringel",
-          "url": "https://open.spotify.com/artist/4kICblwYqH7WDFX6jrmfc3"
-        },
-        {
-          "name": "Luk\u00e3o Mec",
-          "url": "https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg"
-        },
-        {
-          "name": "Lado Sul",
-          "url": "https://open.spotify.com/artist/0uZFRGwRv2x81BFQjPxzDu"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 138857,
-      "name": "Bobbie Goods",
-      "url": "https://open.spotify.com/track/4vqcYqrlRmdtv7gn6526O9"
+      "duration_ms": 370426,
+      "name": "See You on the Other Side",
+      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "S\u00f3 o Amor",
-        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+        "name": "SODA POP (Meu Pequeno Guaran\u00e1) (From \"KPop Demon Hunters\")",
+        "url": "https://open.spotify.com/album/5P6YROYPcEpN04fCB5m3Ho"
       },
       "artists": [
         {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Tiago Pereira",
+          "url": "https://open.spotify.com/artist/5TXdEVFkEfQC3ROyrdAi1B"
         }
       ],
-      "duration_ms": 178105,
-      "name": "S\u00f3 o Amor",
-      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+      "duration_ms": 149997,
+      "name": "SODA POP (Meu Pequeno Guaran\u00e1) (From \"KPop Demon Hunters\")",
+      "url": "https://open.spotify.com/track/5gh44fIDS0R6snh4sQkGQw"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -449,31 +625,155 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Passa o teu Bigode",
-        "url": "https://open.spotify.com/album/5JDuBwm67g8d0tyqgwIuvQ"
+        "name": "S\u00f3 o Amor",
+        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
       "artists": [
         {
-          "name": "Luk\u00e3o Mec",
-          "url": "https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg"
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
         },
         {
-          "name": "Dj Adah",
-          "url": "https://open.spotify.com/artist/2AsiMvIZTg9c36hjw3eWLr"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "S\u00f3 o Amor",
+      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Ordinary Man",
+        "url": "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 301730,
+      "name": "Ordinary Man (feat. Elton John)",
+      "url": "https://open.spotify.com/track/7CR5qGZ2eJwYrFQ8UmHuaR"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "B\u00fafalo Do Maraj\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UsSyERCkmVnakQEwvgVsD"
+      },
+      "artists": [
+        {
+          "name": "O Muriel",
+          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
+        }
+      ],
+      "duration_ms": 171767,
+      "name": "B\u00fafalo Do Maraj\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/63kFOBTy532KRYfgzurul6"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Iririu",
+        "url": "https://open.spotify.com/album/4jYWSWq26a5bYQt7848MjX"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Prando",
+          "url": "https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk"
+        },
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 286442,
+      "name": "Nuvem Passageira",
+      "url": "https://open.spotify.com/track/5SPiyiJIJLzvBnxNlGXDNt"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "Bobbie Goods",
+        "url": "https://open.spotify.com/album/0wQkKRmPsEbLBS3QWibMVv"
+      },
+      "artists": [
+        {
+          "name": "Mc Bringel",
+          "url": "https://open.spotify.com/artist/4kICblwYqH7WDFX6jrmfc3"
+        },
+        {
+          "name": "Luk\u00e3o Mec",
+          "url": "https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg"
         },
         {
           "name": "Lado Sul",
           "url": "https://open.spotify.com/artist/0uZFRGwRv2x81BFQjPxzDu"
         }
       ],
-      "duration_ms": 119244,
-      "name": "Passa o teu Bigode",
-      "url": "https://open.spotify.com/track/2Hg7UW0OMdjP5nsGoVnyP1"
+      "duration_ms": 138857,
+      "name": "Bobbie Goods",
+      "url": "https://open.spotify.com/track/4vqcYqrlRmdtv7gn6526O9"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
+      "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -513,159 +813,23 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Lita",
-        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Close My Eyes Forever",
-      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
+      "duration_ms": 354213,
+      "name": "Iron Man - 2009 Remaster",
+      "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Eu Vou Orar",
-        "url": "https://open.spotify.com/album/4J1MLmnCAmZ4bN3YHcJm0k"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        }
-      ],
-      "duration_ms": 434863,
-      "name": "Eu Vou Orar",
-      "url": "https://open.spotify.com/track/0qlH0Ab4LWKhCIII5I49Oa"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 150861,
-      "name": "Artista Gen\u00e9rico",
-      "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "B\u00fafalo Do Maraj\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6UsSyERCkmVnakQEwvgVsD"
-      },
-      "artists": [
-        {
-          "name": "O Muriel",
-          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
-        }
-      ],
-      "duration_ms": 171767,
-      "name": "B\u00fafalo Do Maraj\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/63kFOBTy532KRYfgzurul6"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "SODA POP (Meu Pequeno Guaran\u00e1) (From \"KPop Demon Hunters\")",
-        "url": "https://open.spotify.com/album/5P6YROYPcEpN04fCB5m3Ho"
-      },
-      "artists": [
-        {
-          "name": "Tiago Pereira",
-          "url": "https://open.spotify.com/artist/5TXdEVFkEfQC3ROyrdAi1B"
-        }
-      ],
-      "duration_ms": 149997,
-      "name": "SODA POP (Meu Pequeno Guaran\u00e1) (From \"KPop Demon Hunters\")",
-      "url": "https://open.spotify.com/track/5gh44fIDS0R6snh4sQkGQw"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Young Black & Rich",
-        "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
-      },
-      "artists": [
-        {
-          "name": "Melly Mike",
-          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Young Black & Rich",
-      "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Ozzmosis (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 370426,
-      "name": "See You on the Other Side",
-      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Hoje Ta Maior Lazer",
         "url": "https://open.spotify.com/album/1LyFLFkZivZNmG5TDkmj8v"
@@ -685,47 +849,55 @@
       "url": "https://open.spotify.com/track/0b9USuJSmKL6Y26L9BOAEf"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/528mCRHid4t1s7JheRag8k"
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 269743,
-      "name": "Dr\u00e3o",
-      "url": "https://open.spotify.com/track/1CNumyeZHwoLJtaZx85E9y"
+      "duration_ms": 150861,
+      "name": "Artista Gen\u00e9rico",
+      "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Ordinary Man",
-        "url": "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj"
+        "name": "Um Novo Dia",
+        "url": "https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
         },
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Melk Villar",
+          "url": "https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        },
+        {
+          "name": "Get Global",
+          "url": "https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM"
         }
       ],
-      "duration_ms": 301730,
-      "name": "Ordinary Man (feat. Elton John)",
-      "url": "https://open.spotify.com/track/7CR5qGZ2eJwYrFQ8UmHuaR"
+      "duration_ms": 360143,
+      "name": "Um Novo Dia",
+      "url": "https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
@@ -736,179 +908,31 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 475000,
-      "name": "War Pigs - 2009 Remaster",
-      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "Saja Boys",
-          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "Neckwav",
-          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
-        },
-        {
-          "name": "Danny Chung",
-          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
-        },
-        {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
-        },
-        {
-          "name": "samUIL Lee",
-          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 150686,
-      "name": "Soda Pop",
-      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+      "duration_ms": 269240,
+      "name": "Planet Caravan - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Todas as Cores",
-        "url": "https://open.spotify.com/album/0DQYpPMAJ9xXlYU5bdOBqI"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "V\u00e1 Se Benzer (feat. Gal Costa)",
-      "url": "https://open.spotify.com/track/2mKz8D8kziLSRFEpvFpBUz"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Sai da Frente do Mano 2",
-        "url": "https://open.spotify.com/album/5v5cDm58tfoLb6Oyv9WQcd"
-      },
-      "artists": [
-        {
-          "name": "DJ Dentinho do Escad\u00e3o",
-          "url": "https://open.spotify.com/artist/7kkQ2JtUgZzczdovF5A30y"
-        },
-        {
-          "name": "DJ Lafon Do Md",
-          "url": "https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7"
-        },
-        {
-          "name": "DG DO BROOKLYN",
-          "url": "https://open.spotify.com/artist/53frDulStqIMhNWMvoswPQ"
-        },
-        {
-          "name": "MC BLACK DA PENHA",
-          "url": "https://open.spotify.com/artist/1t2B2bRVOsLdt5eNHIV7ZF"
-        },
-        {
-          "name": "Dj Gs da Reta velha",
-          "url": "https://open.spotify.com/artist/4zj1YRH4FBpjTJWdVDOJZw"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Sai da Frente do Mano 2",
-      "url": "https://open.spotify.com/track/7x5C8SGzbVlIX7E7MaHtnY"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Dame Un Grrr",
-        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
-      },
-      "artists": [
-        {
-          "name": "Fantomel",
-          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
-        },
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
-        }
-      ],
-      "duration_ms": 133220,
-      "name": "Dame Un Grrr",
-      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "I ONE",
-        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 174910,
-      "name": "1&Only",
-      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Iririu",
-        "url": "https://open.spotify.com/album/4jYWSWq26a5bYQt7848MjX"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Prando",
-          "url": "https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk"
-        },
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 286442,
-      "name": "Nuvem Passageira",
-      "url": "https://open.spotify.com/track/5SPiyiJIJLzvBnxNlGXDNt"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "The Ultimate Sin",
-        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
       },
       "artists": [
         {
@@ -916,92 +940,12 @@
           "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 256293,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+      "duration_ms": 257120,
+      "name": "Bark at the Moon",
+      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "Faz o M",
-        "url": "https://open.spotify.com/album/5RpI7Hk1hZLdmwZKYdSEsh"
-      },
-      "artists": [
-        {
-          "name": "Mc Fantaxma",
-          "url": "https://open.spotify.com/artist/6soU0c0fdHeVIdLIvngcjQ"
-        },
-        {
-          "name": "Henrique no Beat",
-          "url": "https://open.spotify.com/artist/4qau1I8SihpV5k19lunEXX"
-        },
-        {
-          "name": "EO LP",
-          "url": "https://open.spotify.com/artist/4MLSlv6CR0go9HFeF0fIs5"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Faz o M",
-      "url": "https://open.spotify.com/track/5qtdmOBvC7WUX6sJkivsVA"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "VAI NO CH\u00c3O BANDIDA",
-        "url": "https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ"
-      },
-      "artists": [
-        {
-          "name": "Dj Guuh",
-          "url": "https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Mc Talib\u00e3",
-          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "VAI NO CH\u00c3O BANDIDA",
-      "url": "https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 176059,
-      "name": "How It\u2019s Done",
-      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
-    },
-    {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
         "name": "ME LIGOU NA MADRUGADA",
         "url": "https://open.spotify.com/album/4BOzp4sgike2u0QchbxaDE"
@@ -1025,20 +969,20 @@
       "url": "https://open.spotify.com/track/0yYWhqVvSz4md3aalzx5vY"
     },
     {
-      "added_at": "2025-07-28 16:13:49",
+      "added_at": "2025-07-29 16:56:29",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 354213,
-      "name": "Iron Man - 2009 Remaster",
-      "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

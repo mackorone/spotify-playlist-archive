@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Klan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,158 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,170 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 78 | [BARS 01](https://open.spotify.com/track/3ZK1EIRQ7zJFOCmB2xTNmn) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [BARS 01](https://open.spotify.com/album/0MCwtV8RWlOSHQlwLC11DJ) | 2:10 |
 | 79 | [CICATRICES \(Live Session\)](https://open.spotify.com/track/0T9dqvswDkVqD5CeCUvJcT) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Live Session Vol 1](https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO) | 4:15 |
 | 80 | [Malas Vistas](https://open.spotify.com/track/01A48XpjWFsdh3iF7mC37N) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Paterna09](https://open.spotify.com/album/4LY7eHDCFXfdL7IrW72Q7L) | 3:33 |
-| 81 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 |
+| 81 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 |
 | 82 | [UN MILAGRO](https://open.spotify.com/track/4GVjAkuYa7mTuuBcbZHmcO) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [UN MILAGRO](https://open.spotify.com/album/6Z67ofnD2a457wUBNCobAQ) | 4:40 |
 | 83 | [PAULINA](https://open.spotify.com/track/0nxvB50oTssriM7Cq9D8vk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll) | [PAULINA](https://open.spotify.com/album/4KKa84CWt4o4XK4Cg5ui9V) | 2:09 |
 | 84 | [dosmil](https://open.spotify.com/track/2LTWIBgS1enPqdcRxVUHes) | [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [dosmil](https://open.spotify.com/album/1jZBytUTvLxB9MpXTJlLzI) | 2:53 |

@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Dame M\u00e1s",
+        "url": "https://open.spotify.com/album/00sSerlFx4mYWRpcnQom7G"
+      },
+      "artists": [
+        {
+          "name": "Alex De La Nuez",
+          "url": "https://open.spotify.com/artist/25eJW20H8ZviNKZgDs0dR1"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/6mS8ubgkRoVjnn0dtnqKBl"
+    },
+    {
+      "album": {
         "name": "Fast Five (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 198386,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 318538,
+  "num_followers": 318542,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-07-25 16:02:00",
       "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "added_at": "2025-07-25 16:02:00",
+      "album": {
         "name": "Jogo Sujo",
         "url": "https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
-    },
-    {
-      "added_at": "2025-07-25 16:02:00",
-      "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
     },
     {
       "added_at": "2025-07-25 16:02:00",

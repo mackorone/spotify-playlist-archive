@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Hot Chip</a>",
-  "num_followers": 64029,
+  "num_followers": 64001,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQ3UM1I2nlUCY4iL4PKXlZnvzsQIqo",
+  "snapshot_id": "AAAQ3gTJwWZbGn68A7G2LQw6H4nMW0M0",
   "tracks": [
+    {
+      "added_at": "2025-07-29 14:03:43",
+      "album": {
+        "name": "Love On the Big Screen/Buddies On the Blackboard",
+        "url": "https://open.spotify.com/album/0Jw4mL7f1ihHxU645Sm0bQ"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 182158,
+      "name": "Buddies On the Blackboard",
+      "url": "https://open.spotify.com/track/7mcsqurrPcn2qMjIHRB9d7"
+    },
     {
       "added_at": "2025-07-28 16:31:29",
       "album": {

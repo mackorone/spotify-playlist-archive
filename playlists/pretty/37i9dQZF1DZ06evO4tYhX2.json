@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAJ/TgX53F4kOOiCp3TgMq2",
+  "snapshot_id": "aIa9gAAAAAAftJla4949ZZ5oXj7IfEvQ",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento 2",
-        "url": "https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 274161,
-      "name": "Canto Danzo Salto",
-      "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno Dios",
         "url": "https://open.spotify.com/album/4C1H7azlbjrDwK2mVwZVpX"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento 1",
-        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 183854,
-      "name": "Vino Celestial",
-      "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coritos (En Vivo)",
         "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 687091,
       "name": "Coritos (En Vivo)",
       "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 183854,
+      "name": "Vino Celestial",
+      "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento 2",
+        "url": "https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 274161,
+      "name": "Canto Danzo Salto",
+      "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
     },
     {
       "added_at": null,

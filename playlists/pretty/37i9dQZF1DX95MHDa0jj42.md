@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 
 > sunny bossa beats to chill, focus or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,898 likes - 80 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,056 likes - 80 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 | 79 | [Picnic](https://open.spotify.com/track/7b5JyYcFwkOM10McPjh7Vt) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Picnic](https://open.spotify.com/album/3raGIBWmMYinxYKsMn1NTf) | 1:30 |
 | 80 | [i miss the beach](https://open.spotify.com/track/6kqBN8jn6MUIRGBBDkHid0) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [i miss the beach](https://open.spotify.com/album/0ySAvyJwl3l1IF6EDXTLxn) | 1:59 |
 
-Snapshot ID: `aIMBawAAAADdbCsz8eWm/Rn2uapejESA`
+Snapshot ID: `AAAAAHUMRo9QogkoZZkFVPUeNTTvwzxr`

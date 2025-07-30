@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG?si=A3b7I7yBTzS4we7T0n6K6Q">Afamefuna</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm?si=TmK6q7kcR\_GB05pJSQLVtQ">Modest Chabari</a>\. Artwork: Isu Kim.
 
 1,357 songs - 2 day 19 hr 55 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,733 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,800 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 67 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
 | 68 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 |
 | 69 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
-| 70 | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ) | 3:08 |
-| 71 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
+| 70 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
+| 71 | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ) | 3:08 |
 | 72 | [My Heart](https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT) | 4:26 |
 | 73 | [Sleepless \- Radio Edit](https://open.spotify.com/track/15uFqHGAOvaGCqikvgiW6w) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/4pDtJD36tHdR4dVxakWBWH) | 3:41 |
 | 74 | [All of Me \(Tiësto's Birthday Treatment Remix\) \- Radio Edit](https://open.spotify.com/track/3OgesRs9A97HaLMZEWBM9a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Love In The Future \(Special Edition\)](https://open.spotify.com/album/2buNSPalbxgT5kdFVYzfWG) | 4:11 |

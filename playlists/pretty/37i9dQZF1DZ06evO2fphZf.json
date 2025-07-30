@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12290,
+  "num_followers": 12296,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAdAKgnyS6DxhuW3NN0iugH",
+  "snapshot_id": "aIa9gAAAAACMXGhxx1pSast71lPOHjKM",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 174424,
+      "name": "111",
+      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hair down (with CHUNG HA)",
         "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 209060,
       "name": "hair down (with CHUNG HA)",
       "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 174424,
-      "name": "111",
-      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
     },
     {
       "added_at": null,
@@ -379,42 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Truths And A Lie",
-        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Two Truths And A Lie",
-      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 161890,
-      "name": "D8",
-      "url": "https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -435,6 +399,42 @@
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 161890,
+      "name": "D8",
+      "url": "https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Truths And A Lie",
+        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan, RICTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,148 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,141 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 14 | [D%SCO](https://open.spotify.com/track/0BhZFH8Ub1Kvwu1EBMGzl8) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [D%SCO](https://open.spotify.com/album/63Adi92ztG4LthQWqp0OyO) | 2:27 |
 | 15 | [NARCOTRAFICANTE](https://open.spotify.com/track/4vpn2IGV4Eb3249OJ5X3dH) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [M3NTRA](https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn) | [NARCOTRAFICANTE](https://open.spotify.com/album/5ll2b0AmYBnCkjWmvAFAg7) | 2:31 |
 | 16 | [BadaBing](https://open.spotify.com/track/1rKYQ81gCt5PFMpm9dEH88) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Playrec Beats](https://open.spotify.com/artist/7I7MiAUqLE7YKCP10jcgIG), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo) | [BadaBing](https://open.spotify.com/album/6kOU62uHbLX8yGWYX1RIPd) | 2:48 |
-| 17 | [Tripani](https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM) | [ATC Coco](https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [triablo](https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr), [Seaside](https://open.spotify.com/artist/37j45bXWiOUD9Z1LpNvGe5) | [Akou Magka](https://open.spotify.com/album/6cCIPvPKMsnSEplck3oIC5) | 2:31 |
+| 17 | [Tripani](https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM) | [ATC Coco](https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq), [Seaside](https://open.spotify.com/artist/37j45bXWiOUD9Z1LpNvGe5), [triablo](https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Akou Magka](https://open.spotify.com/album/6cCIPvPKMsnSEplck3oIC5) | 2:31 |
 | 18 | [ABRA KADABRA](https://open.spotify.com/track/36dCG87rdMiCuZO1sT7R31) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [ABRA KADABRA](https://open.spotify.com/album/6TNh0ivTNyysXuqOUqRnpr) | 2:51 |
 | 19 | [I POLI MAS](https://open.spotify.com/track/2z0Ke8aGrzhjMlCdRFeU4S) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [CITY CENTER II \(DELUXE\)](https://open.spotify.com/album/6CEpjd8eiWLxdUkduZEeKL) | 3:50 |
 | 20 | [Files Kai Filoi](https://open.spotify.com/track/3SSShuFuxAtR3pGMOahCbO) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F) | [Files Kai Filoi](https://open.spotify.com/album/4oAjQIKscpA7lemogSGruT) | 3:24 |

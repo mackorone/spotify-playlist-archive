@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15638,
+  "num_followers": 15642,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACTz1zNaqHh4DoIp/NIRPmy",
+  "snapshot_id": "aIa9gAAAAAA/1cMPXCLzBj3KwFMJYj4H",
   "tracks": [
     {
       "added_at": null,
@@ -199,42 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -255,6 +219,42 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 205013,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 188783,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 203664,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,

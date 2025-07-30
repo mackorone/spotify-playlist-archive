@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 47217,
+  "num_followers": 47239,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "El Nido",
-      "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Rock Con los Locos del Ritmo",
         "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 126096,
       "name": "Chica Alborotada",
       "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "El Nido",
+      "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
     },
     {
       "added_at": "2024-04-25 04:43:45",

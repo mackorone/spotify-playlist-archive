@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,926 likes - 93 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,945 likes - 93 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 92 | [First Day](https://open.spotify.com/track/6C7NLheYmP4zintC6OOXzf) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:15 |
 | 93 | [Main Title \- From "Monsters University"/Score](https://open.spotify.com/track/6cNNZBkIrUo7Ar9ibtRfpv) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 0:51 |
 
-Snapshot ID: `aG5n4wAAAACIvBSfoEvjucgsX9SATaLH`
+Snapshot ID: `AAAAAAnjgbVj2HFKXRnCOzxxHnbbPYgl`

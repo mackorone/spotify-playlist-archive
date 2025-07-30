@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,236 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,246 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Energie](https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Rémi](https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx) | 2:45 |
-| 2 | [Jungle](https://open.spotify.com/track/295hepw2obbNmOfPOu56td) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Hard Work Pays Off 2](https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9) | 3:41 |
-| 3 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 |
+| 2 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 |
+| 3 | [Jungle](https://open.spotify.com/track/295hepw2obbNmOfPOu56td) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Hard Work Pays Off 2](https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9) | 3:41 |
 | 4 | [Duurt Te Lang](https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Duurt Te Lang \(Beste Zangers Seizoen 2018\)](https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB) | 2:33 |
 | 5 | [Treur Niet \(Ode Aan Het Leven\)](https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Golven](https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO) | 3:44 |
 | 6 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 51 | [Beauty & De Brains](https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Beauty & De Brains](https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP) | 3:06 |
 | 52 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
 | 53 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
-| 54 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 |
+| 54 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
 | 55 | [Later Als Ik Groter Ben](https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:24 |
 | 56 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
-| 57 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
+| 57 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 |
 | 58 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |
 | 59 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom) | 3:43 |
 | 60 | [Open Je Ogen](https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys) | 4:38 |

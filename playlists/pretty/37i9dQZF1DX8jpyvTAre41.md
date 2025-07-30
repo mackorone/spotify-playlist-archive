@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,714 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,723 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Cruel](https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [The Program](https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl) | 3:39 |
 | 100 | [Jennifer's Body](https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Jennifer's Body](https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL) | 2:32 |
 
-Snapshot ID: `aIMBdQAAAABptFnDByR0pVHx4U/CutH8`
+Snapshot ID: `AAAAAFDIxZj3raYrrAkCEp2lRaZK68+v`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,308,088 likes - 235 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,308,685 likes - 235 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 87 | [Predetermined](https://open.spotify.com/track/50ugrXieNRkklm9dVwOCEY) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Predetermined](https://open.spotify.com/album/5gitXZTrajp0xyWUkojeTB) | 2:35 |
 | 88 | [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 |
 | 89 | [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 |
-| 90 | [Intricate](https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC) | [Garcíia](https://open.spotify.com/artist/5PULjaVP5yCS09RlG77wgf) | [Intricate](https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN) | 2:56 |
+| 90 | [Intricate](https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Intricate](https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN) | 2:56 |
 | 91 | [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 |
 | 92 | [Limitless](https://open.spotify.com/track/5PPIGcWAaYcSJaITVgTmrC) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Limitless](https://open.spotify.com/album/37vaeK75NjbyVT4qYh3plN) | 2:44 |
 | 93 | [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 |

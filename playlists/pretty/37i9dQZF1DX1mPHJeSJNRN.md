@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,331 likes - 97 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,333 likes - 97 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 39 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
 | 40 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
 | 41 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 |
-| 42 | [You're The Top](https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:39 |
-| 43 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
+| 42 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
+| 43 | [You're The Top](https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:39 |
 | 44 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
 | 45 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:47 |
 | 46 | [My Heart Stood Still](https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [In Love Again](https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Eslabon Armado, Eladio Carrion & Omar Courtz, De La Rose LATIN MAFIA & Omar Apollo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,813 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,839 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 8 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 9 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 10 | [Me Paseo](https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 3:37 |
-| 11 | [Si Te Vas \- Remix](https://open.spotify.com/track/1ldjtEiy3uanvWXZ4efJON) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Si Te Vas \(Remix\)](https://open.spotify.com/album/7m6ToDegdnWjRCNr7JG8HI) | 4:00 |
+| 11 | [Si Te Vas \- Remix](https://open.spotify.com/track/1ldjtEiy3uanvWXZ4efJON) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Si Te Vas \(Remix\)](https://open.spotify.com/album/7m6ToDegdnWjRCNr7JG8HI) | 4:00 |
 | 12 | [voltaje](https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [voltaje](https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0) | 2:52 |
 | 13 | [Más Finas](https://open.spotify.com/track/7nYI91dkFKHggdjjEsczRz) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Más Finas](https://open.spotify.com/album/0JOBAYeT9Z08bz6V7YUeU6) | 2:40 |
 | 14 | [Dresscode](https://open.spotify.com/track/4FKcnUuw9Kxvb8cjsGyCRu) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Dresscode](https://open.spotify.com/album/2v1DCO1ljOsAzeHZe4kgs0) | 3:00 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [Masoquista](https://open.spotify.com/track/3Kt4hgJd3IwNpluovzpABv) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Osa Mayor](https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc) | 2:47 |
 | 54 | [SOY REBELDE](https://open.spotify.com/track/5zmFwtmXOwY0mfqGI0MfYB) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [SOY REBELDE](https://open.spotify.com/album/4wHmVQ8EJRHkm7DWeoSwoW) | 3:30 |
 
-Snapshot ID: `aIMekgAAAAAUVs6l9xadTlDEECifah5m`
+Snapshot ID: `AAAAALBUmguEQ9WlI3vjC+A8+LLAGLpV`

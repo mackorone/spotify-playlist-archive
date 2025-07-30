@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-742 songs - 1 day 13 hr 20 min
+743 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Dial Tone](https://open.spotify.com/track/74TKpZ4qtUBebygXkees6i) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 2:25 | 2023-07-06 | 2023-08-10 |
 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 | 2022-10-11 | 2023-08-10 |
 | [Different Eyes](https://open.spotify.com/track/1oilJqWTB17JjNSQ6mU0O3) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq) | [Different Eyes](https://open.spotify.com/album/70998LAhRJkFW5W7cg3G5P) | 1:54 | 2024-07-18 |  |
+| [digital death](https://open.spotify.com/track/1ELR2oipJqgJbofkGPfSgE) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [digital death](https://open.spotify.com/album/0gvh5QKSQCIxDH0mkvhT5c) | 3:19 | 2025-07-29 |  |
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-07-08 | 2023-08-10 |
 | [diversion](https://open.spotify.com/track/1mKKWRCfkLtv3R3Fg1qA5N) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [diversion](https://open.spotify.com/album/6bqQ1BGxOMeZGJ5a5jfBsC) | 1:56 | 2023-06-29 | 2023-08-10 |
 | [Do It All](https://open.spotify.com/track/0aP0fCi1CigVMWC9mIf89j) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 2:39 | 2025-07-25 |  |

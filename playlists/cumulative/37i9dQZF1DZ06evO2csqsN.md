@@ -4,7 +4,7 @@
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 27 min
+113 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 | 2022-10-28 | 2022-11-29 |
 | [No Hook](https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [No Hook](https://open.spotify.com/album/0hyrMfQMMX09fOOsnOuhQ8) | 1:43 | 2022-11-18 | 2022-12-18 |
 | [No Panties](https://open.spotify.com/track/4XWQVpZtYsyvVMP99H415j) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Hit The Latto](https://open.spotify.com/album/3lPb5PGWUAbT2iJxBvrVeE) | 2:33 | 2022-10-28 | 2023-04-23 |
-| [On God](https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:53 | 2022-10-28 |  |
+| [On God](https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:53 | 2022-10-28 | 2025-07-30 |
 | [One Light \(feat\. Yung Bleu\) \- Remix](https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [One Light \(feat\. Yung Bleu\) \[Remix\]](https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g) | 3:15 | 2022-10-28 | 2024-08-19 |
 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 | 2023-09-09 |  |
 | [PROCEDURE \(feat\. Latto\)](https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:54 | 2024-10-13 |  |
@@ -113,6 +113,7 @@
 | [The Biggest](https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Biggest](https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE) | 2:23 | 2022-10-28 | 2022-10-30 |
 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 | 2023-12-16 | 2024-07-27 |
 | [There She Go](https://open.spotify.com/track/3hhBbf2lhUByyphVxhestO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:41 | 2024-08-11 | 2024-10-07 |
+| [This Right Here](https://open.spotify.com/track/3yHDVUcMXHbuCOIl2E1at5) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/1ZyoeTI4JofLA7tBGMFgvY) | 3:09 | 2025-07-30 |  |
 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 | 2023-07-22 |  |
 | [Touch Your Toes \(feat\. Latto\)](https://open.spotify.com/track/6ihOIyQU6nvqHG5wJtofEM) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Baby23](https://open.spotify.com/album/24BUwYiW8uDG5tBV428gBY) | 2:17 | 2022-11-28 | 2023-04-22 |
 | [TouchDown](https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG) | [Outta Space](https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Nasa 2](https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF) | 2:58 | 2024-11-05 | 2025-03-17 |

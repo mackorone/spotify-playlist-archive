@@ -2,9 +2,9 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! When hip\-hop meets jazz\. Fusion and samples\. Cover: Eminem
+> Taking it way back! When hip\-hop meets jazz\. Fusion and samples\. Cover: Jeezy
 
-395 songs - 1 day 4 hr 23 min
+396 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Always On Time](https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:05 | 2022-03-13 | 2022-09-30 |
 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 | 2023-04-28 | 2025-02-08 |
 | [Amen \(feat\. Drake\)](https://open.spotify.com/track/32UIpKdyGzgTPTO8e5ge5c) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:49 | 2025-04-11 | 2025-05-17 |
-| [And Then What](https://open.spotify.com/track/5EoobjvWYSRwoPnhRojf5c) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:05 | 2025-07-27 |  |
+| [And Then What](https://open.spotify.com/track/5EoobjvWYSRwoPnhRojf5c) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:05 | 2025-07-27 | 2025-07-30 |
 | [Aquemini](https://open.spotify.com/track/4V3N5LvUOh3yDPP16cwAhE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:19 | 2023-09-01 | 2023-11-02 |
 | [As High as Wu\-Tang Get \(feat\. Ol' Dirty Bastard, GZA & Method Man\)](https://open.spotify.com/track/1XbqOF6nx3tJsyQjXRh9ux) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Wu\-Tang Forever](https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43) | 2:38 | 2022-06-03 | 2022-07-08 |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2021-03-05 | 2023-09-02 |
@@ -190,6 +190,7 @@
 | [Kiss Me Thru The Phone](https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Sammie](https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:13 | 2022-02-11 | 2022-03-14 |
 | [Knock Yourself Out](https://open.spotify.com/track/4jCio4LNO1eZbl09ed4ZFn) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Kiss Tha Game Goodbye](https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR) | 3:32 | 2021-08-12 | 2022-02-12 |
 | [Know The Ledge](https://open.spotify.com/track/4nBZIQ14fOYMxJvgbvHQpJ) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 3:58 | 2025-03-14 | 2025-04-12 |
+| [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2025-07-29 |  |
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2025-03-14 | 2025-04-12 |
 | [LA\-LA\-LA](https://open.spotify.com/track/3BVJ8X4CDBqHzSVePlgary) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Bad Boys II](https://open.spotify.com/album/6cdliVrG1F46ag7FxGPIM1) | 3:54 | 2024-06-13 | 2024-06-21 |
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2022-02-11 |  |

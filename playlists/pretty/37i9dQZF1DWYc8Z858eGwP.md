@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp\_Sw">FOLA</a> & <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=YpyM9WIqRJChjJYvJTgbUA">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,345 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,641 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 16 | [Comforter](https://open.spotify.com/track/1YsGGtMNVuyvlq2enrwL35) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/1AsqUnOVnlsmJEAXBcATir) | 2:18 |
 | 17 | [Very Soon](https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:17 |
 | 18 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 |
-| 19 | [Skaba Bitter](https://open.spotify.com/track/2oXyaoyWX9vmNxiM3259HD) | [Kharishma](https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz), [Ba Bethe Gashoazen](https://open.spotify.com/artist/3zpCN7HsWkXL57ZKlb4Vcr) | [JUNO](https://open.spotify.com/album/2P0xQsmjrHaskAychvNluB) | 2:35 |
+| 19 | [Skaba Bitter](https://open.spotify.com/track/2oXyaoyWX9vmNxiM3259HD) | [Kharishma](https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz), [Ba Bethe Gashoazen](https://open.spotify.com/artist/0HX88eTlictNvgUjBLn03r) | [JUNO](https://open.spotify.com/album/2P0xQsmjrHaskAychvNluB) | 2:35 |
 | 20 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
 | 21 | [Backbencher](https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Backbencher](https://open.spotify.com/album/7lydZgu9oglnh5EDYEbG6z) | 2:53 |
 | 22 | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/track/3mUpLs4JexPKtrd8l5rLz6) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/album/6cbI8L2XkSCYwFa8j8wyj7) | 6:24 |

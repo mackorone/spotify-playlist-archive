@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-718 songs - 2 day 20 hr 56 min
+719 songs - 2 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Reflections](https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Reflections](https://open.spotify.com/album/4vHMhqhM0wqzaxNACySpec) | 4:58 | 2022-11-26 | 2025-07-07 |
 | [Rejection](https://open.spotify.com/track/3EESyn7tEDTcB5L6A7tTF7) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Rejection](https://open.spotify.com/album/3r4RjMFuKjIBUMUwHB2VW6) | 7:09 | 2020-06-03 | 2020-08-15 |
 | [Rekord](https://open.spotify.com/track/7udTz9m97puOGQMQ8IkcMQ) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Rekord \| Solar](https://open.spotify.com/album/1jP4KZHZsWFP4lit3MvEzV) | 7:22 | 2020-02-24 | 2020-03-04 |
-| [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-11-27 |  |
+| [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-11-27 | 2025-07-30 |
 | [Remember \(Remix\)](https://open.spotify.com/track/0sbbGfPxrNtZnJZVIn11MP) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Remember \(Remix\)](https://open.spotify.com/album/7JwLW0aT0c1nq9uPpWFDvV) | 4:44 | 2020-10-10 | 2022-07-29 |
 | [Remind Me Tomorrow](https://open.spotify.com/track/7iXhQsfvRnXCLifgGWJsWf) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Remind Me Tomorrow](https://open.spotify.com/album/5ErgrBIvvImEyUTHQk7sqU) | 8:10 | 2022-04-15 | 2022-04-20 |
 | [Reminiscence](https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Reminiscence](https://open.spotify.com/album/5rTtvod3o7BesmyPzfwowr) | 5:21 | 2019-12-20 | 2022-04-16 |
@@ -548,6 +548,7 @@
 | [Sinner \- Edit](https://open.spotify.com/track/3rM7KGUECeqVtYPoELk7ct) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/3rWqxcWVHk2wmB26tfXOWc) | 4:15 | 2020-04-05 | 2021-06-04 |
 | [Sirens](https://open.spotify.com/track/3Mpyxi2jxNjqo5qw0Dteo1) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Einmusik / D\-Nox](https://open.spotify.com/album/1I79iAbI6MdkJOwBA5r4Ms) | 8:02 | 2019-08-06\* | 2020-05-30 |
 | [Sirens \(feat\. Yasmin Jane\) \[Tube & Berger Remix\] \- Extended Mix](https://open.spotify.com/track/737nhXOCDtruTb0NXhPU5Z) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Sirens \(feat\. Yasmin Jane\) \[Tube & Berger Remix\]](https://open.spotify.com/album/7vZnkI8wIuHQIRmqlipgbN) | 6:09 | 2020-11-21 | 2022-04-18 |
+| [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw) | [DumitrEscu](https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ) | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh) | 2:55 | 2025-07-25 |  |
 | [Sky](https://open.spotify.com/track/5pqkDVWkKGvwQF7XLYoC3j) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu), [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Sky](https://open.spotify.com/album/6U00ib7ihWTBjS3esQnBrX) | 6:40 | 2021-12-17 | 2022-07-27 |
 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 | 2021-02-24 | 2022-10-22 |
 | [Sledi Toku](https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Sledi Toku](https://open.spotify.com/album/21endjynO2HcNX2HKbLE13) | 8:15 | 2019-09-27 | 2020-05-19 |

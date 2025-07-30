@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  James Hype
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 266,356 likes - 200 songs - 10 hr 37 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 266,322 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 13 | [I NEED U 2](https://open.spotify.com/track/5tobVNQ5dQCIK9nVVNdAhq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [I NEED U 2](https://open.spotify.com/album/1rHFIAC2vjXnhYKDkjPQ7U) | 3:03 |
 | 14 | [Silence](https://open.spotify.com/track/2JTPyHFykmgmw2gAUEBMV0) | [Entasia](https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D) | [Silence](https://open.spotify.com/album/50cArNTKv7pwGuG0HvLKyZ) | 3:38 |
 | 15 | [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 |
-| 16 | [Bang Bang](https://open.spotify.com/track/4NpQSDnVOJr8GkkMkKIIgF) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Jessica Sweetman](https://open.spotify.com/artist/2rqSAMbsYflyavLgF2MHqJ) | [Bang Bang](https://open.spotify.com/album/7iy5wpT1YHDsUTEvRyhpo9) | 2:20 |
+| 16 | [Bang Bang](https://open.spotify.com/track/4NpQSDnVOJr8GkkMkKIIgF) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Jessica Sweetman](https://open.spotify.com/artist/2aOthbkNIZZkkex559x6Vq) | [Bang Bang](https://open.spotify.com/album/7iy5wpT1YHDsUTEvRyhpo9) | 2:20 |
 | 17 | [Moon](https://open.spotify.com/track/6D8NhLlyVPps9aqLrJJ1Ut) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Moon](https://open.spotify.com/album/6iVVrWVHA2KE7AzvRoSIU8) | 3:13 |
 | 18 | [Only Midnight Knows](https://open.spotify.com/track/1YhYjF554kZqDognPlXmIR) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Only Midnight Knows](https://open.spotify.com/album/0YiDBD9LLEFeYjI7ZrrlJA) | 2:45 |
 | 19 | [Dreaming](https://open.spotify.com/track/5hIeOGdLUD9St4VzxYM4ql) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dreaming](https://open.spotify.com/album/77i4sLUjUq49nJsjcKHKGI) | 2:28 |

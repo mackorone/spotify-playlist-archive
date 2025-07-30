@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,524 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,489 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 |
 | 2 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
 | 3 | [Circle](https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Circle](https://open.spotify.com/album/4LiuM6QOgsmRfCVL07SlFu) | 4:30 |
-| 4 | [Break the Darkness](https://open.spotify.com/track/2QudD76AkV0lDbByzTMt85) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 |
+| 4 | [Radio Silence](https://open.spotify.com/track/1wJNpkpNrZEZId1F2Gz83K) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Radio Silence](https://open.spotify.com/album/2nZeaSN1gaZoPKeS2dkxJJ) | 4:05 |
 | 5 | [THUNDERSTORM](https://open.spotify.com/track/0O0NPdO8h33Ozg0Nek9qCx) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [THUNDERSTORM](https://open.spotify.com/album/2f4hAw0CgoiPWhlSd26dZF) | 3:06 |
-| 6 | [G](https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [G](https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX) | 2:56 |
+| 6 | [Break the Darkness](https://open.spotify.com/track/2QudD76AkV0lDbByzTMt85) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 |
 | 7 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 |
 | 8 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 9 | [SURF \(The Winning Try : Original Television Soundtrack\)](https://open.spotify.com/track/2czPfQZ5JCwUOBJERa5ljZ) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [The Winning Try OST Part.1](https://open.spotify.com/album/4ylHOz4UUwVwDnJRi7GiaA) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
 | 50 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
 
-Snapshot ID: `aIcAYQAAAABgsOGCmhBROVf3Qe/VEOJD`
+Snapshot ID: `aIiTgAAAAACa6EgOU7wljs6Hk5fBES3a`

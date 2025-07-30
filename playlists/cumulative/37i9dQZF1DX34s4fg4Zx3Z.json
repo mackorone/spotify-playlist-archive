@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u1eefng \ud83c\udfb6 t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ha Kiem",
+  "description": "Nh\u1eefng \ud83c\udfb6 t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NOIR",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -11454,7 +11454,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 210285,
       "name": "Down To The Bones",
       "url": "https://open.spotify.com/track/1sXrjHVXILkjLOIaQjGvPo"
@@ -11864,7 +11864,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 179407,
       "name": "D\u1ed0I TR\u00c1",
       "url": "https://open.spotify.com/track/1e76JGnUxyuwKV4EF6DXs3"
@@ -12888,6 +12888,24 @@
       "duration_ms": 270000,
       "name": "Em v\u00e0...",
       "url": "https://open.spotify.com/track/5quyXV8gJzdzBnUI9uYUjZ"
+    },
+    {
+      "album": {
+        "name": "Em Xinh",
+        "url": "https://open.spotify.com/album/3XLAHVyZPv28A10dbNOwml"
+      },
+      "artists": [
+        {
+          "name": "NOIR",
+          "url": "https://open.spotify.com/artist/7muTp7jVpikPTC2KdRyytE"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129695,
+      "name": "Em Xinh",
+      "url": "https://open.spotify.com/track/1zBP33Wq6UMvfgosXoSFBx"
     },
     {
       "album": {
@@ -35618,6 +35636,28 @@
       "duration_ms": 263039,
       "name": "Tr\u1edf V\u1ec1 C\u1ed1 \u0110\u00f4",
       "url": "https://open.spotify.com/track/1DgvdrXtDn7Xp5tEXuCcKd"
+    },
+    {
+      "album": {
+        "name": "Tr\u1edf V\u1ec1 T\u1eeb Ng\u00e0y Mai",
+        "url": "https://open.spotify.com/album/27vyC1KloFbKCwvCL7ZFto"
+      },
+      "artists": [
+        {
+          "name": "giangimgs",
+          "url": "https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "Tr\u1edf V\u1ec1 T\u1eeb Ng\u00e0y Mai",
+      "url": "https://open.spotify.com/track/3d7UKkyNfQQaHmRK5QcV6A"
     },
     {
       "album": {

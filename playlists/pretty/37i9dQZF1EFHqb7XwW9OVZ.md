@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3uZkaA66y2JQegYQaCP1Fp">Erika de Casier</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 67 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 33 | [Miss](https://open.spotify.com/track/3iewIkYTvvaicW8iysqxuU) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:09 |
 | 34 | [Make My Day](https://open.spotify.com/track/7eHHF8vP2wV4ukcCsWWSAC) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:29 |
 | 35 | [Twice](https://open.spotify.com/track/3U4eW849fjz2U8BF9ghjQb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:43 |
-| 36 | [Rainy](https://open.spotify.com/track/1SQwOMO5fzQVdDnvTN9LZQ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:08 |
-| 37 | [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 |
+| 36 | [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 |
+| 37 | [Rainy](https://open.spotify.com/track/1SQwOMO5fzQVdDnvTN9LZQ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:08 |
 | 38 | [Better Than That](https://open.spotify.com/track/0OQWttGvtkNs5rnhTdqWx9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:56 |
 | 39 | [Home Alone](https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:30 |
 | 40 | [Seasons](https://open.spotify.com/track/5RBv4o9OW0v8NWVNrs5krA) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:09 |
 | 41 | [Steam](https://open.spotify.com/track/4aCNEpyPTrU3HOgipnvexL) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Steam](https://open.spotify.com/album/4YEXcCDX5f3p6GOrjtnSFg) | 3:57 |
 | 42 | [Story of My Life](https://open.spotify.com/track/5ZBtzPY6gBKwiASk5a4s7j) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:43 |
 | 43 | [Ex\-Girlfriend](https://open.spotify.com/track/3meVOmXtT2J2eYxmD9xLvx) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:35 |
-| 44 | [All You Talk About](https://open.spotify.com/track/2ewwMQ5TwidyHreXR72KLT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:01 |
-| 45 | [You Got It!](https://open.spotify.com/track/4g3NhWgkT5FCROOHyhy4QT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 1:54 |
+| 44 | [You Got It!](https://open.spotify.com/track/4g3NhWgkT5FCROOHyhy4QT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 1:54 |
+| 45 | [All You Talk About](https://open.spotify.com/track/2ewwMQ5TwidyHreXR72KLT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:01 |
 | 46 | [Insult Me](https://open.spotify.com/track/1mUNzaUyMba5volrY0XfPP) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:18 |
 | 47 | [The Chase](https://open.spotify.com/track/1Eh2xPB0vGv8QThSD2PDA0) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:22 |
 | 48 | [Right This Way](https://open.spotify.com/track/6VvXCIHldeydKUcbWC0vVT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 1:47 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 66 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
 | 67 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `Ab4A9AAAAAAa33K1OgLzU10fOlVPl7nw`
+Snapshot ID: `Ab4GvAAAAAAKQmk64KS0C7M7icVdl8oA`

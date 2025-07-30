@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 42634,
+  "num_followers": 42664,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Time for a Change",
-        "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
-      },
-      "artists": [
-        {
-          "name": "Cupid",
-          "url": "https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 291666,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
+      },
+      "artists": [
+        {
+          "name": "Cupid",
+          "url": "https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 226946,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194490,
       "name": "Alright",
       "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
     },
     {
       "added_at": "2023-06-16 17:58:31",

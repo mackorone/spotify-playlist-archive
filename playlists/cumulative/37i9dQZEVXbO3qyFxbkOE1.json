@@ -4639,6 +4639,28 @@
     },
     {
       "album": {
+        "name": "Como Es (Remix)",
+        "url": "https://open.spotify.com/album/0tbKQ1OplPgmakKPSzFrZz"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219759,
+      "name": "Como Es - Remix",
+      "url": "https://open.spotify.com/track/3uZe6zsDlFNxaKiqn1kHJi"
+    },
+    {
+      "album": {
         "name": "Como Es Arriba Es Abajo",
         "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
       },
@@ -6350,7 +6372,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -9324,7 +9346,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 181250,
       "name": "GOET",
       "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
@@ -10308,7 +10330,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 281739,
       "name": "Jacobo Grinberg",
       "url": "https://open.spotify.com/track/4e8HMW0GzmlDWPoRA9romo"
@@ -19560,7 +19582,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 173142,
       "name": "RZR",
       "url": "https://open.spotify.com/track/1XAs7coQj8K9RbiVX7JeKG"
@@ -22262,7 +22284,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"

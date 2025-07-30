@@ -240,12 +240,12 @@
       },
       "artists": [
         {
-          "name": "San T",
-          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
-        },
-        {
           "name": "Noidsensi",
           "url": "https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K"
+        },
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
         }
       ],
       "duration_ms": 165677,
@@ -678,6 +678,10 @@
         {
           "name": "Dacalty",
           "url": "https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd"
+        },
+        {
+          "name": "Silvan",
+          "url": "https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw"
         }
       ],
       "duration_ms": 159999,

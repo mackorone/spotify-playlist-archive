@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,969 likes - 90 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,198 likes - 90 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

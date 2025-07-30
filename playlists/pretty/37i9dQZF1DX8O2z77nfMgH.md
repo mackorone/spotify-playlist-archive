@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Eladio Carrion & Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,341 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,173 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 |
 | 51 | [CHANCHULLO](https://open.spotify.com/track/2pIRdv31rkYsXDapg1Wd4t) | [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [Freddy Moreno](https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf), [GlobalBoy Da Glowop](https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq), [Ca$h300](https://open.spotify.com/artist/2ibj4Ar8ndNTRSzDDpZjv2), [GoldenVato](https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b), [Stridah](https://open.spotify.com/artist/72UBiSC3uyu5LRxdFAS2Y7) | [CHANCHULLO](https://open.spotify.com/album/6zjVKT3Rbt4oyw5y4FjIaA) | 2:48 |
 
-Snapshot ID: `aIMdggAAAADzVclFUBJQhczwcYNxXYuF`
+Snapshot ID: `AAAAAFsQ8/KlL2ENidTxLMfACR594B+n`

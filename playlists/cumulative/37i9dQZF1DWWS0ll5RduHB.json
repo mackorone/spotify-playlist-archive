@@ -710,10 +710,28 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
+    {
+      "album": {
+        "name": "Knights of Jahannam / Soma Gospel",
+        "url": "https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209842,
+      "name": "Knights of Jahannam",
+      "url": "https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0"
     },
     {
       "album": {
@@ -1263,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Mabuk Laut",
+        "url": "https://open.spotify.com/album/3W3PcnesLOd6YiGvZHK9av"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5j7HESfa8OXs3hTqQ1ZvnR"
+    },
+    {
+      "album": {
         "name": "Sup",
         "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
       },
@@ -1368,7 +1404,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"

@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 44988,
+  "num_followers": 45021,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-07-25 05:10:03",
       "album": {
+        "name": "YOU AND ME",
+        "url": "https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF"
+      },
+      "artists": [
+        {
+          "name": "PapaRaZzle",
+          "url": "https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL"
+        }
+      ],
+      "duration_ms": 161729,
+      "name": "YOU AND ME",
+      "url": "https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv"
+    },
+    {
+      "added_at": "2025-07-25 05:10:03",
+      "album": {
         "name": "Hard Guy Confessions",
         "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
-    },
-    {
-      "added_at": "2025-07-25 05:10:03",
-      "album": {
-        "name": "YOU AND ME",
-        "url": "https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF"
-      },
-      "artists": [
-        {
-          "name": "PapaRaZzle",
-          "url": "https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL"
-        }
-      ],
-      "duration_ms": 161729,
-      "name": "YOU AND ME",
-      "url": "https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv"
     },
     {
       "added_at": "2025-07-25 05:10:03",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-07-25 05:10:03",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
+    },
+    {
+      "added_at": "2025-07-25 05:10:03",
+      "album": {
         "name": "Paradise Now",
         "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 149624,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
-    },
-    {
-      "added_at": "2025-07-25 05:10:03",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/1oSbIm8m4CzrGvMzQE2Mua"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/2MZxCMrS6tUqA9rL3fj18j"
     }
   ],
   "unique_name": "Lovin' Beats",

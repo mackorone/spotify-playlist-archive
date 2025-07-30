@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,153 likes - 573 songs - 1 day 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,155 likes - 573 songs - 1 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -404,9 +404,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 394 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
 | 395 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
 | 396 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
-| 397 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 |
-| 398 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
-| 399 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 397 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 398 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 |
+| 399 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
 | 400 | [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 |
 | 401 | [Don't Look at Me That Way](https://open.spotify.com/track/3mncIcc50tSkfOLwubXzwU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:50 |
 | 402 | [Ciego De Amor](https://open.spotify.com/track/3zw3qgkrA4E4yENZ5YYDt3) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Si Te Vas](https://open.spotify.com/album/5rP5Gjl6YbGNBsQeahKUdq) | 4:07 |
@@ -463,8 +463,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 453 | [Riivinrautahumppa](https://open.spotify.com/track/47scnIyEs3O95JVO8cLmlV) | [Eläkeläiset](https://open.spotify.com/artist/3HKoyHD86fikvLBdecyl5j) | [Humpan kuninkaan hovissa](https://open.spotify.com/album/7gz76r9FtfbPseiuLbXRGA) | 2:06 |
 | 454 | [Pray For The Love](https://open.spotify.com/track/1N9hQc4dOwszaH1fX49Ckx) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Matt Dunkley](https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 4:54 |
 | 455 | [In a Heart Beat](https://open.spotify.com/track/1RA4Mt2feSah7BiLWprjRp) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time Takes Time](https://open.spotify.com/album/3MoLlCEQ0QmJZQ6KQ9y9iY) | 4:30 |
-| 456 | [You Are My Heaven](https://open.spotify.com/track/3trKxBaWivjVutTwTk9U83) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:36 |
-| 457 | [Places I've Been](https://open.spotify.com/track/1bP40fkBHVutRjd7FIbj9J) | [Taylor Hicks](https://open.spotify.com/artist/3E3tW69eMfAffLGgsmP3GG) | [Taylor Hicks](https://open.spotify.com/album/3nlWXJ6v7cemNilz77YcxD) | 3:29 |
+| 456 | [Places I've Been](https://open.spotify.com/track/1bP40fkBHVutRjd7FIbj9J) | [Taylor Hicks](https://open.spotify.com/artist/3E3tW69eMfAffLGgsmP3GG) | [Taylor Hicks](https://open.spotify.com/album/3nlWXJ6v7cemNilz77YcxD) | 3:29 |
+| 457 | [You Are My Heaven](https://open.spotify.com/track/3trKxBaWivjVutTwTk9U83) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:36 |
 | 458 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 |
 | 459 | [Much Too Much](https://open.spotify.com/track/4LCX83dSdKakjhmCgko1l1) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Friends Can Be Lovers](https://open.spotify.com/album/6kgvNUbpx187PBV8fuWpog) | 4:30 |
 | 460 | [You're the Story of My Life](https://open.spotify.com/track/5srPNy3C5r0mW13xt26msH) | [Desmond Child](https://open.spotify.com/artist/7KgW65389e5w4xWzaVOuCg) | [Discipline](https://open.spotify.com/album/7hYpyujW1Wj6KaVDwBZZK2) | 4:58 |
@@ -513,9 +513,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 503 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
 | 504 | [Your Heart's in Good Hands](https://open.spotify.com/track/6EyudcpNdLdg9xBIq6JdxR) | [The Great Funk Crew](https://open.spotify.com/artist/4DuNlmmEf9PkFBAlZXPNby) | [The Greatest Funk Hits](https://open.spotify.com/album/1eBy9DgA33luL0oclePvm6) | 5:43 |
 | 505 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
-| 506 | [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 |
-| 507 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
-| 508 | [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 |
+| 506 | [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 |
+| 507 | [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 |
+| 508 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
 | 509 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
 | 510 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
 | 511 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
@@ -582,4 +582,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 572 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 573 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab4A9AAAAACUYU0SOeR5JxZNVvOeGm7Q`
+Snapshot ID: `Ab4GlAAAAADOWKNjCYxTgHTuHnLYaNsC`

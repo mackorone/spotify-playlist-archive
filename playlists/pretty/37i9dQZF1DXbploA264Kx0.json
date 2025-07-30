@@ -1,6 +1,6 @@
 {
   "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 9m88 x Phum Viphurit",
-  "num_followers": 27465,
+  "num_followers": 27468,
   "original_name": "The Sound of Formosa",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
-        },
-        {
           "name": "Phum Viphurit",
           "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
         }
       ],
       "duration_ms": 181714,

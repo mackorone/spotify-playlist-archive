@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: LiSA",
+  "description": "The biggest rock artists in Japan right now!  Cover: AKASAKI",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 300333,
       "name": "AQUA ROBE",
       "url": "https://open.spotify.com/track/5vpXxAvJEYy09yoxnQlfK9"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 247256,
       "name": "Future Soda",
       "url": "https://open.spotify.com/track/4C1sgQTlXViKQ0E3LXoOew"
@@ -14396,7 +14396,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 296500,
       "name": "Whenever, Whatever",
       "url": "https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04"
@@ -14926,7 +14926,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 224120,
       "name": "Zetsubou Billy",
       "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
@@ -14962,7 +14962,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 254506,
       "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
       "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
@@ -15868,6 +15868,24 @@
       "duration_ms": 269374,
       "name": "\u3068\u308a\u3042\u3048\u305a\u4eca\u306f",
       "url": "https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv"
+    },
+    {
+      "album": {
+        "name": "\u3068\u308d\u3044",
+        "url": "https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "\u3068\u308d\u3044",
+      "url": "https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq"
     },
     {
       "album": {
@@ -17504,7 +17522,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
@@ -18052,7 +18070,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 185093,
       "name": "\u30ca\u30cf\u30c8",
       "url": "https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5"
@@ -20926,7 +20944,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 179493,
       "name": "\u5f3e\u304d\u3053\u3082\u308a",
       "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
@@ -20944,7 +20962,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 191075,
       "name": "\u5f98\u5f8a",
       "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"

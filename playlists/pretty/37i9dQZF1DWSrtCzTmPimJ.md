@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,844 likes - 135 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,948 likes - 135 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 134 | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/track/4SnNjDXBetwlS9a1taX1VA) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Alpha Sinus \- Greystones \- 146 Hz \-152 Hz](https://open.spotify.com/album/17t1Yj8GSchuXY2j5smc8s) | 2:57 |
 | 135 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/1uehZz3zet1tN5VQ5Tv7un) | [Isochrone](https://open.spotify.com/artist/2AeECKGelGkRXNte7JEHBG) | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/album/7xKbQXC8GNb9mMFubfN3eK) | 3:22 |
 
-Snapshot ID: `aIIbxAAAAACsBt7YpRAx1ViESM6aRY++`
+Snapshot ID: `AAAAAEIpNgOix9GsMqWRqDeoCk16AXdq`

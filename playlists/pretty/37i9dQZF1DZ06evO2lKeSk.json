@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 359629,
+  "num_followers": 359707,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAa7D8jcwH88FdGW9T4TNyF",
+  "snapshot_id": "aIa9gAAAAAAxDYb5TR8+jSII8cVPEqVk",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mariachi En Altos De Chav\u00f3n",
         "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 475880,
       "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
       "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
     },
     {
       "added_at": null,

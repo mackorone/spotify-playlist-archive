@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516455,
+  "num_followers": 1516434,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Eu Feat. Voc\u00ea",
-        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 214249,
-      "name": "Cabelo De Anjo",
-      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Eu Feat. Voc\u00ea",
+        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 214249,
+      "name": "Cabelo De Anjo",
+      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "S\u00f3 Posso Dizer",
-        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 198765,
-      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Amei Te Ver",
         "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254096,
       "name": "Amei Te Ver - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "S\u00f3 Posso Dizer",
+        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 198765,
+      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 238374,
       "name": "Mande um Sinal - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Tudo no Sigilo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 169745,
-      "name": "Tudo no Sigilo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Tudo no Sigilo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 169745,
+      "name": "Tudo no Sigilo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1519,22 +1515,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
       },
@@ -1547,6 +1527,22 @@
       "duration_ms": 228470,
       "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2024-08-02 18:37:00",

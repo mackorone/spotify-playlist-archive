@@ -4,14 +4,14 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-180 songs - 9 hr 3 min
+181 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 | 2023-08-11 |
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 | 2025-05-30 |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
-| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 |  |
+| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-07-30 |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-03-18 |  |
 | [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
@@ -168,6 +168,7 @@
 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2023-12-19 |  |
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 | 2024-08-12 |
 | [Skandal!](https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Skandal!](https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc) | 2:52 | 2024-04-24 | 2024-06-18 |
+| [So Bist Du](https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J) | [Oli\. P](https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [So Bist Du](https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg) | 3:29 | 2025-07-29 |  |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 | 2025-01-20 |
 | [SOS](https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [SOS](https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6) | 3:25 | 2025-04-14 |  |

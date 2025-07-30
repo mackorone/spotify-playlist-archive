@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,289 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |
 | 100 | ['ever do you want](https://open.spotify.com/track/0dYg8io1fham8xmfuoizt4) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | ['ever do you want](https://open.spotify.com/album/2QNw9JDC66ZzuGgkfb4mCp) | 3:50 |
 
-Snapshot ID: `aIMBeQAAAADR75RcnSKhNrCfJVIeag5q`
+Snapshot ID: `AAAAAEs27CHkWaUT9cxKlsDyX+hFvcl1`

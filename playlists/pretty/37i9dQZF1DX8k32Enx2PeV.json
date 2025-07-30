@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13871,
+  "num_followers": 13882,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Buen Pez (Deluz)",
-        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Regalo",
-      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "R-A-B-I-A",
         "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 185210,
       "name": "No me opongo",
       "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Buen Pez (Deluz)",
+        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Ci\u00e9naga",
         "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 176353,
       "name": "Ci\u00e9naga",
       "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
+      },
+      "artists": [
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 176666,
       "name": "Coraz\u00f3n Adentro (Escorpio)",
       "url": "https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Calavera",
-        "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
-      },
-      "artists": [
-        {
-          "name": "Keke Minowa",
-          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Calavera",
-      "url": "https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 202344,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Calavera",
+        "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
+      },
+      "artists": [
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Calavera",
+      "url": "https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1719,18 +1719,26 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+        "name": "Un D\u00eda a la Vez",
+        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
       },
       "artists": [
         {
           "name": "Irepelusa",
           "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+      "duration_ms": 246000,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1807,26 +1815,18 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Un D\u00eda a la Vez",
-        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
       "artists": [
         {
           "name": "Irepelusa",
           "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "NOREH",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Un D\u00eda a la Vez",
-      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2025-05-30 15:44:41",

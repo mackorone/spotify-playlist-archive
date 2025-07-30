@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,828 songs - 11 day 3 hr 4 min
+4,830 songs - 11 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-28 | 2025-04-05 |
 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 | 2024-07-05 | 2024-07-13 |
 | [bucle](https://open.spotify.com/track/27eYTSdJgRk9hOXVUL5F1Y) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [bucle](https://open.spotify.com/album/47W9mf65tOy1KfpVtZWjUU) | 3:23 | 2024-12-13 | 2024-12-28 |
+| [Buddies On the Blackboard](https://open.spotify.com/track/7mcsqurrPcn2qMjIHRB9d7) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Love On the Big Screen/Buddies On the Blackboard](https://open.spotify.com/album/0Jw4mL7f1ihHxU645Sm0bQ) | 3:02 | 2025-07-29 |  |
 | [Buenavista](https://open.spotify.com/track/5orGhyl4oxtVQeAexRSAbQ) | [Andrea Buenavista](https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU) | [Penas de amor](https://open.spotify.com/album/7apjefeEQtdwa9g4d0TS9Y) | 3:27 | 2024-11-22 | 2024-11-30 |
 | [Bugland](https://open.spotify.com/track/3f2maaDw2p5wjzvlPHsJ9T) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Bugland](https://open.spotify.com/album/3uYtBcnM9MiSryQ9W9Ijxm) | 2:29 | 2025-05-15 | 2025-05-24 |
 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-08 | 2025-01-18 |
@@ -740,6 +741,7 @@
 | [Carita Angelikal](https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:55 | 2025-06-20 | 2025-06-28 |
 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 | 2025-04-11 | 2025-04-26 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-08-30 | 2024-09-07 |
+| [Carnage](https://open.spotify.com/track/2C0aRXDheUXBTAjJikotaM) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Carnage](https://open.spotify.com/album/3bxTNWCOk7ZyfqJ9SODj68) | 4:41 | 2025-07-29 |  |
 | [Caro](https://open.spotify.com/track/361r8vLK0bgSoiKHXPERyR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Caro](https://open.spotify.com/album/7HeHYUW5xgsVSk5bvUaW6n) | 3:26 | 2024-04-26 | 2024-05-10 |
 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 | 2024-10-25 | 2024-11-09 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 | 2025-04-05 |

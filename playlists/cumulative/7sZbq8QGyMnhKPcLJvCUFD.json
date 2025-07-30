@@ -3291,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "digital death",
+        "url": "https://open.spotify.com/album/0gvh5QKSQCIxDH0mkvhT5c"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "digital death",
+      "url": "https://open.spotify.com/track/1ELR2oipJqgJbofkGPfSgE"
+    },
+    {
+      "album": {
         "name": "Dioma (Demo)",
         "url": "https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff"
       },

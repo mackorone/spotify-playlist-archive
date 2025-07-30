@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,250 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,332 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 21 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 | 22 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
 | 23 | [Zum Zum](https://open.spotify.com/track/56p5H8xnOPGDSMjIGjYmF0) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Chimera](https://open.spotify.com/album/1nqEB1PcVRdPTxHAlnZ2kN) | 5:16 |
-| 24 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 |
+| 24 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/2vumMcvGJfXKD3NKD51G8a), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 |
 | 25 | [Hi Babe](https://open.spotify.com/track/3btLTcvS1uOk5IVGTn7Gh4) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:02 |
 | 26 | [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 |
 | 27 | [Fafa](https://open.spotify.com/track/4ttKTDA9f5i2dAPSOqTRtB) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Fondo](https://open.spotify.com/album/6ulGA7Fh0lxzmlG1r6OOwR) | 5:03 |

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,664 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,717 likes - 49 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 |
-| 2 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
+| 2 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
 | 3 | [RS6](https://open.spotify.com/track/51KQvZMR70ffMVxs4JugnX) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [RS6](https://open.spotify.com/album/1Jse2pNXxLcKTrePHApCAP) | 3:00 |
-| 4 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
-| 5 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
-| 6 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 |
-| 7 | [Eyvallah](https://open.spotify.com/track/5IvuVMTXSldHhHtC6nlnzh) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Eyvallah](https://open.spotify.com/album/07G6tw1dXIhWIhv20vdBQs) | 2:58 |
-| 8 | [BHS](https://open.spotify.com/track/6bDSjO9UFH0fqVVEnHabeF) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [BHS](https://open.spotify.com/album/353OfQiowfxCbt3B79JXqk) | 2:20 |
-| 9 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
-| 10 | [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 |
-| 11 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
-| 12 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
+| 4 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
+| 5 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
+| 6 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
+| 7 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 |
+| 8 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
+| 9 | [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 |
+| 10 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
+| 11 | [Eyvallah](https://open.spotify.com/track/5IvuVMTXSldHhHtC6nlnzh) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Eyvallah](https://open.spotify.com/album/07G6tw1dXIhWIhv20vdBQs) | 2:58 |
+| 12 | [BHS](https://open.spotify.com/track/6bDSjO9UFH0fqVVEnHabeF) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [BHS](https://open.spotify.com/album/353OfQiowfxCbt3B79JXqk) | 2:20 |
 | 13 | [90'dan](https://open.spotify.com/track/6Sxrm5x6FRqfuXbOSH2hP7) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [90'dan](https://open.spotify.com/album/3KxkH9jDQFnmAyU4dDARlI) | 1:58 |
 | 14 | [ÇOK İYİ](https://open.spotify.com/track/1LKV8a3oBspzpNe1avmSFv) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [ÇOK İYİ](https://open.spotify.com/album/3q9OE9lBGj5OmGyusWR8bp) | 1:54 |
 | 15 | [kum saati](https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [kum saati](https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV) | 2:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 49 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `aIKe5gAAAABM5f1IVcGDp0liAzy2ek2f`
+Snapshot ID: `aIiZhgAAAAAZekOsG0R31W8Iu41TfiaG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Mah Moud, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,865 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,882 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Eye of the Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
 | 50 | [SUN BABY \- Edit](https://open.spotify.com/track/19Bmp61ZLqkp6jMeRmx5qn) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [SUN BABY](https://open.spotify.com/album/0sZTMOne2fjsFQrhEhOoEE) | 3:54 |
 
-Snapshot ID: `aID/egAAAAA79AYW9DLoKDni4pKVdNY5`
+Snapshot ID: `aID/egAAAADmOPZyR+4M0NskOfrDZPla`

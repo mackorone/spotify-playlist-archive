@@ -1,17 +1,18 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb2gEu1155ig.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb2gEu1155ig) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb2gEu1155ig)
 
-### [Acapulco en la Azotea](https://open.spotify.com/playlist/37i9dQZF1DXb2gEu1155ig)
+### [Cumbias Playeras ☀️](https://open.spotify.com/playlist/37i9dQZF1DXb2gEu1155ig)
 
-> Canciones tropicales que te transportan a Caleta y Caletilla.
+> Cumbias tropicales para ponerse de buen humor 🌴🥳
 
-223 songs - 11 hr 47 min
+224 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Donde Iras Ahora](https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh) | [30 Aniversario \(Edición Limitada\)](https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG) | 3:05 | 2023-06-16 |  |
 | [Acapulco Tropical](https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [Ritmo, Sol y Arena](https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H) | 2:27 | 2023-06-16 |  |
 | [Adolescente y Bonita](https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [17 Aniversario](https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77) | 3:08 | 2023-06-16 |  |
-| [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 | 2024-02-22 |  |
+| [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 | 2024-02-22 | 2025-07-30 |
+| [Agüita De Coco](https://open.spotify.com/track/4vczCDNv7LofIRbxFYMiS9) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Vino Y Ron](https://open.spotify.com/album/4aWPLuhsMT5VvcvYKNYbI9) | 2:59 | 2025-07-29 |  |
 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 | 2023-06-16 |  |
 | [Alma Llanera](https://open.spotify.com/track/1W4uZ4K7q8ev1Q5KA6WI6x) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Háblame Sin Palabras](https://open.spotify.com/album/77Y60dKuOYrrJ7t9e9mFTx) | 2:54 | 2024-02-22 |  |
 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 | 2024-02-22 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,021 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,063 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 37 | [The Ones We Seek](https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Ones We Seek](https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc) | 4:34 |
 | 38 | [Numbers](https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 |
 | 39 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
-| 40 | [Light of My Life](https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Light of My Life](https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8) | 4:19 |
-| 41 | [Duly Love](https://open.spotify.com/track/2fqRddXFY6TNFvbdfTOtcK) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Duly Love](https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5) | 3:09 |
-| 42 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 |
-| 43 | [Falling](https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q) | [Loes Haverkort](https://open.spotify.com/artist/54777M62D5hfIB0mFJ7Lzy) | [Falling](https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK) | 3:36 |
+| 40 | [Duly Love](https://open.spotify.com/track/2fqRddXFY6TNFvbdfTOtcK) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Duly Love](https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5) | 3:09 |
+| 41 | [Light of My Life](https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Light of My Life](https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8) | 4:19 |
+| 42 | [Falling](https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q) | [Loes Haverkort](https://open.spotify.com/artist/54777M62D5hfIB0mFJ7Lzy) | [Falling](https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK) | 3:36 |
+| 43 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 |
 | 44 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 |
 | 45 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 |
 | 46 | [What I Really Want To Do](https://open.spotify.com/track/3n9HKcjIQBEQNKE8ZikDvr) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [What I Really Want To Do](https://open.spotify.com/album/7gBrgmkeXYJ7nZXoaIlLeG) | 3:12 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 60 | [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 |
 | 61 | [The Door](https://open.spotify.com/track/2nOtHnLmdE2OBjk2BpGa6W) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Door](https://open.spotify.com/album/6uHpnYIepU8aYH2eVTJeVm) | 3:54 |
 | 62 | [Falling Easy](https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Green Lights](https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku) | 2:57 |
-| 63 | [One Day](https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [One Day](https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL) | 2:59 |
-| 64 | [I Believe In Life](https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I Believe In Life](https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P) | 3:36 |
+| 63 | [I Believe In Life](https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I Believe In Life](https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P) | 3:36 |
+| 64 | [One Day](https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [One Day](https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL) | 2:59 |
 | 65 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
 | 66 | [Happier \- Piano Version](https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier \(Piano Version\)](https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S) | 3:12 |
 | 67 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 |
-| 68 | [Loud Boy \- Acoustic Session](https://open.spotify.com/track/0wKgwevSPynsNCJcLqN1bq) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Loud Boy \(Acoustic Session\)](https://open.spotify.com/album/7ix7u8Nel7PdgPQpXLCaSA) | 3:15 |
-| 69 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 |
+| 68 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 |
+| 69 | [Loud Boy \- Acoustic Session](https://open.spotify.com/track/0wKgwevSPynsNCJcLqN1bq) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Loud Boy \(Acoustic Session\)](https://open.spotify.com/album/7ix7u8Nel7PdgPQpXLCaSA) | 3:15 |
 | 70 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 |
 | 71 | [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 |
 | 72 | [the moment \- acoustic](https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [the moment \(acoustic\)](https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ) | 3:10 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 83 | [Lonely On Lovers Lane](https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:15 |
 | 84 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
 | 85 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 |
-| 86 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 |
-| 87 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 |
+| 86 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 |
+| 87 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 |
 | 88 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
 | 89 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 |
 | 90 | [Waiting in the Wings](https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 4:14 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 94 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 |
 | 95 | [The Room](https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Room](https://open.spotify.com/album/7Lc8y1N0fhcYHWQbBimu3Z) | 4:04 |
 | 96 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 |
-| 97 | [Open Door](https://open.spotify.com/track/3MqZXacgnNZKXuE8Zz4hL9) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Open Door](https://open.spotify.com/album/75mnCrj4eNWJwRoldLVbpM) | 2:24 |
-| 98 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
-| 99 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
-| 100 | [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 |
+| 97 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
+| 98 | [Open Door](https://open.spotify.com/track/3MqZXacgnNZKXuE8Zz4hL9) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Open Door](https://open.spotify.com/album/75mnCrj4eNWJwRoldLVbpM) | 2:24 |
+| 99 | [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 |
+| 100 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
 
 Snapshot ID: `aF6VcgAAAACsN7OO7eiY838HWLdPNuYp`

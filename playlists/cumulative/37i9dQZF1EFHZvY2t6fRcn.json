@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "WhatsInIt4Me",
+        "url": "https://open.spotify.com/album/7xZDLjNaD5tLuQuJKoUvfF"
+      },
+      "artists": [
+        {
+          "name": "Skylar Simone",
+          "url": "https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "WhatsInIt4Me",
+      "url": "https://open.spotify.com/track/6mjnnbzOvYjlKWIlnT6lff"
+    },
+    {
+      "album": {
         "name": "When It's Too Good",
         "url": "https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL"
       },

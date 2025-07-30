@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 67640,
+  "num_followers": 67652,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Standing On The Shore",
+      "url": "https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Prayer In C",
         "url": "https://open.spotify.com/album/2owqoH9s1XsYRbFQ1zRsni"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 189399,
       "name": "Prayer in C - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/7icHQ0UDRFe98tfvI0yyhL"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Standing On The Shore",
-      "url": "https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS"
     },
     {
       "added_at": "2024-12-17 13:01:13",

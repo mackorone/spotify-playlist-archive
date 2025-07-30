@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,500 likes - 310 songs - 16 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,610 likes - 310 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

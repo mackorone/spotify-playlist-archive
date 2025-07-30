@@ -1,12 +1,12 @@
 {
   "description": "\u4e0a\u73ed\u6642\u9593\u5f88\u9577\uff0c\u5c31\u8b93\u6700\u65b0\u6700\u52d5\u807d\u7684\u570b\u8a9e\u6b4c\u966a\u4f60\uff0c\u8212\u670d\u8f15\u807d\u4e00\u8d77\u6e21\u904e\u5427\uff01",
-  "num_followers": 67859,
+  "num_followers": 67865,
   "original_name": "\u4e0a\u73ed\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIZNCwAAAAD7kQ+2mxXeBUKOIfmLLbOQ",
+  "snapshot_id": "aIZNCwAAAADPzEP+XEu7ad63vvtJJAC8",
   "tracks": [
     {
       "added_at": "2025-07-27 16:00:11",
@@ -48,12 +48,12 @@
       },
       "artists": [
         {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
-        },
-        {
           "name": "Phum Viphurit",
           "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
         }
       ],
       "duration_ms": 181714,

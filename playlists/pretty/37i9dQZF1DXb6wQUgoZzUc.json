@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1092071,
+  "num_followers": 1092384,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-07-18 06:00:10",
       "album": {
+        "name": "Chaparrita",
+        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
         "name": "Forni",
         "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 203265,
       "name": "Forni",
       "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
-        "name": "Chaparrita",
-        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chaparrita",
-      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
     },
     {
       "added_at": "2025-07-18 06:00:10",
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2025-07-18 06:00:10",
       "album": {
-        "name": "LYKE MIIKE (DELUXE)",
-        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 205727,
-      "name": "SUELTA (feat. Omar Courtz)",
-      "url": "https://open.spotify.com/track/4bMvbL9C59KX4198rAxBEP"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
         "name": "La Motora",
         "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 203750,
       "name": "La Motora",
       "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 205727,
+      "name": "SUELTA (feat. Omar Courtz)",
+      "url": "https://open.spotify.com/track/4bMvbL9C59KX4198rAxBEP"
     },
     {
       "added_at": "2025-07-18 06:00:10",

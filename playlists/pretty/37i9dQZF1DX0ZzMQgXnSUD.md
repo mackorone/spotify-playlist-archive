@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > Shaken, not stirred..\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,087 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,089 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 27 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [James Bond 007 13 Original Themes](https://open.spotify.com/album/1BIkw8IbCvCsZ942czLa4K) | 3:10 |
 
-Snapshot ID: `Z8XumQAAAAA4ugjdZVRGuN/wT7OaYCej`
+Snapshot ID: `AAAAAAO44k1TmkGQrHUdumR1DxTvZIAc`

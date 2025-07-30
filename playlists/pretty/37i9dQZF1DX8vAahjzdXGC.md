@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Geisha,  MALIQ & D'Essentials, Sam Smith, Daniel Ceasar dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,069 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,080 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [Warm](https://open.spotify.com/track/44nPoBCp9QN83fuGd6FFEO) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Warm \(Part I\)](https://open.spotify.com/album/52FqHls4aGM9TEzG2dKT5B) | 3:40 |
 | 44 | [Ghost On The Radio](https://open.spotify.com/track/3bL20Max8LSiBfyAs6GGwV) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Ghost On The Radio](https://open.spotify.com/album/31NWcwWqUHwCd4ARHgJvJR) | 2:32 |
 | 45 | [Love Is Gone \(with JOSHUA of SEVENTEEN\)](https://open.spotify.com/track/4FTcJ9B6S2QXObqRr9UG8U) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0) | [Love Is Gone \(with JOSHUA of SEVENTEEN\)](https://open.spotify.com/album/5mFLz3amV2wcOY9SBoA4cQ) | 2:58 |
-| 46 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 46 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 47 | [hi, strangers](https://open.spotify.com/track/0yyLpgewoYRmSAtU58CfaV) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [hi, strangers](https://open.spotify.com/album/64yk3fgHfS8hTznFTRn2Dl) | 2:11 |
 | 48 | [Carrying Happiness](https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Carrying Happiness](https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP) | 3:42 |
 | 49 | [something ended before it \(even\) started](https://open.spotify.com/track/0U1tkoPAGFEOFuu8nP8iWP) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [something ended before it \(even\) started](https://open.spotify.com/album/3WzrEP4minGAidLPr9hT4F) | 3:05 |

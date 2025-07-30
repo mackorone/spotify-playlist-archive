@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-467 songs - 21 hr 50 min
+468 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Ein kleines Licht](https://open.spotify.com/track/2RowFACdokspBh35bUB10Y) | [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Ein kleines Licht](https://open.spotify.com/album/3HY6Qx5Im7vFP8LzsLKEtS) | 3:21 | 2023-11-05 | 2024-11-15 |
 | [Ein Vogel wollte Hochzeit machen \- 1](https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Vogelhochzeit \(Das Original in der Urfassung\)](https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl) | 1:47 | 2023-06-28 |  |
 | [Eine Muh, eine Mäh](https://open.spotify.com/track/45qP9cYtZI1pcxo0kzvkAh) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Weihnachts\- Und Winterlieder](https://open.spotify.com/album/3qXBiuZFGf8BGHf55YeFbq) | 2:27 | 2023-12-05 | 2025-02-27 |
+| [Eis](https://open.spotify.com/track/7hJ1hZKAmAcwVA3JMyrI8R) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Eis](https://open.spotify.com/album/3JwtNXrPInNVZqxpVoFGXU) | 2:18 | 2025-07-24 |  |
 | [Eis Eis Baby](https://open.spotify.com/track/2mWUXqkl0VdrMuDgHYM8Jc) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Santi](https://open.spotify.com/artist/2XhQfTSgGspFiJD4ye45fx) | [Eis Eis Baby](https://open.spotify.com/album/6lFzc7pyyvDPGOYPWV2PL1) | 3:17 | 2023-06-28 |  |
 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 | 2023-11-22 | 2025-02-27 |
 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 | 2023-11-22 | 2025-02-27 |
@@ -321,7 +322,7 @@
 | [Monstertanz](https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY) | [Lila Lindwurm](https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj) | [Monsterquatsch und Wackelzähne](https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE) | 2:50 | 2023-10-16 | 2024-11-05 |
 | [Monstertanz](https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs) | [Piano Papa](https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4), [Mama Sandy](https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS) | [Monstertanz](https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ) | 2:06 | 2023-10-16 | 2024-11-05 |
 | [Morgen kommt der Nikolaus](https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:09 | 2023-11-14 | 2023-12-14 |
-| [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 |  |
+| [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2025-07-30 |
 | [Na ja hier](https://open.spotify.com/track/7wMAqMvur9U3tu8ehXFTBx) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Na ja hier](https://open.spotify.com/album/46lcermXoMDRJUwUp7DlSy) | 2:52 | 2025-02-27 | 2025-03-06 |
 | [Na na na, alle springen](https://open.spotify.com/track/0tc9YjBkGgCLJh841o2LLZ) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Na na na, alle springen](https://open.spotify.com/album/4UanPAS7Od7zKPYJtOIv0B) | 2:46 | 2025-02-27 | 2025-03-06 |
 | [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 | 2025-03-06 | 2025-06-03 |

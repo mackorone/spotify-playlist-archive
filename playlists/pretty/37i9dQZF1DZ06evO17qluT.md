@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,982 likes - 43 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,086 likes - 43 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 37 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 | 38 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
 | 39 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 |
-| 40 | [PASSE A RESPEITAR](https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [DJ Chernobyl](https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 1:54 |
+| 40 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 |
 | 41 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
-| 42 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 |
+| 42 | [PASSE A RESPEITAR](https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [DJ Chernobyl](https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 1:54 |
 | 43 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
 
-Snapshot ID: `aIVsAAAAAAA6AJgX8DjtzcqYeOi2q/xQ`
+Snapshot ID: `aIa9gAAAAABf8fhw8p/Ci2bi0sG4mefv`

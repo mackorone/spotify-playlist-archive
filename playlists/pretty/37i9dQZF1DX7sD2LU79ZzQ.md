@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,843 likes - 126 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,845 likes - 126 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

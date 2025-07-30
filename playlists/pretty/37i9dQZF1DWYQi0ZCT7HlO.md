@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,384 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,385 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 77 | [Good King Wenceslas \- Fireside Christmas](https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:01 |
 | 78 | [Where are you Christmas](https://open.spotify.com/track/57MY9r6qFLirorQLs7T0ks) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Home by Christmas](https://open.spotify.com/album/7yqj1JebK54UjJ6SC5d2Bx) | 3:09 |
 
-Snapshot ID: `Z2T56QAAAAA42llh2U3vidahAUu72BGn`
+Snapshot ID: `AAAAAHThYGrOCw6pJgjN8MVxNgLqwp75`

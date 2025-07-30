@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Bauti Mascia & Amigo de Artistas.",
-  "num_followers": 1158154,
+  "num_followers": 1157984,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
-        "name": "Amor Sincero",
-        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 187956,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
         "name": "NO FUIMOS",
         "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 136853,
       "name": "NO FUIMOS",
       "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1895,34 +1895,6 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
-        "name": "Locura Sin Techo (Remix)",
-        "url": "https://open.spotify.com/album/4F3kVz0eoyIIK6HnTyauSa"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Luana",
-          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
-        },
-        {
-          "name": "Agus Padilla",
-          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
-        },
-        {
-          "name": "La Deskarga",
-          "url": "https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS"
-        }
-      ],
-      "duration_ms": 209009,
-      "name": "Locura Sin Techo - Remix",
-      "url": "https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1947,6 +1919,34 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
+        "name": "Locura Sin Techo (Remix)",
+        "url": "https://open.spotify.com/album/4F3kVz0eoyIIK6HnTyauSa"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Luana",
+          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        },
+        {
+          "name": "La Deskarga",
+          "url": "https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS"
+        }
+      ],
+      "duration_ms": 209009,
+      "name": "Locura Sin Techo - Remix",
+      "url": "https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -2019,22 +2019,18 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
-        "name": "A Puros Likes",
-        "url": "https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE"
+        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
       },
       "artists": [
         {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        },
-        {
-          "name": "KINGTO",
-          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 155562,
-      "name": "A Puros Likes",
-      "url": "https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4"
+      "duration_ms": 356261,
+      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

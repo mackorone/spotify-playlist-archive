@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41215,
+  "num_followers": 41218,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAIK+kvmtGCjkN3oxeSjh20",
+  "snapshot_id": "aIa9gAAAAACAKBnxuTr42VosoW1l1GIO",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 467012,
       "name": "Para M\u00ed Es Solo Cristo",
       "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 351542,
-      "name": "Yo Te Busco",
-      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
       },
       "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Desmayes Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 344125,
-      "name": "En Ti Confiar\u00e9",
-      "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambientes de Cuna",
         "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 452354,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Desmayes Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 344125,
+      "name": "En Ti Confiar\u00e9",
+      "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
     },
     {
       "added_at": null,

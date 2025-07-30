@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240017,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw"
+    },
+    {
+      "album": {
         "name": "HEATDEATH",
         "url": "https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk"
       },

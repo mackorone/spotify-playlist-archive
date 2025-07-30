@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Lola Young, Sebastian Ingrosso & Celine Dion,  Emma Heesters en meer
 
-11,968 songs - 26 day 1 hr 6 min
+11,969 songs - 26 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9894,6 +9894,7 @@
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-13 | 2023-07-21 |
 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 | 2023-10-26 | 2023-11-03 |
 | [Talking / Once Again](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [Talking / Once Again](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 | 2024-02-09 | 2024-02-16 |
+| [Talking On The Phone](https://open.spotify.com/track/62O43LbxMJVlxaDJiCkVFa) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Talking On The Phone](https://open.spotify.com/album/7x2EM72TGw1YtfGUIsoVYQ) | 2:46 | 2025-07-24 |  |
 | [talking through you](https://open.spotify.com/track/0oUNzfkQS6s12W1bjrr7Za) | [Flaws](https://open.spotify.com/artist/0DX1pMk1b22S536hNGtFDY), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [talking through you](https://open.spotify.com/album/0U408L3jBuqkv2ahKqovAY) | 3:34 | 2023-06-22 | 2023-06-30 |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-07-04 | 2024-07-12 |
 | [Talking To Myself](https://open.spotify.com/track/76EgNiEak8B77qCzPlsS0C) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [Talking To Myself](https://open.spotify.com/album/59S8OkKoap1ZSrwRRKBsez) | 2:17 | 2023-02-24 | 2023-03-03 |

@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Andhra King Taluka
 
-316 songs - 20 hr 25 min
+317 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Madhurame \(From"Ravikula Raghurama"\)](https://open.spotify.com/track/53AGKXbBI0GLJhGDxrvS3o) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Madhurame \(From"Ravikula Raghurama"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/33qwUFvGqHfJnt4j6FK5PZ) | 3:14 | 2023-03-20 | 2023-09-22 |
 | [Madhuramu Kadha \(From "The Family Star"\)](https://open.spotify.com/track/1imOLzI7CR77fqs5sjKYBO) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Madhuramu Kadha \(From "The Family Star"\)](https://open.spotify.com/album/5xYjkmiZjgx6KUybyOt5Wr) | 4:09 | 2024-03-27 | 2025-02-22 |
 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 | 2023-02-22 | 2023-11-08 |
+| [Mallika Gandha \(From "Telusu Kada"\)](https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Mallika Gandha \(From "Telusu Kada"\)](https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP) | 4:21 | 2025-07-29 |  |
 | [Manasa Manasa \(From “Nachindi Girl Friendu”\)](https://open.spotify.com/track/0tXHjE683Znzi7xfmZOw4Q) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Manasa Manasa \(From “Nachindi Girl Friendu”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/16Fi5WZP0SUkqMJXCUtTti) | 5:15 | 2022-10-24 | 2023-04-25 |
 | [Manase](https://open.spotify.com/track/7p0JeXxp9L5o4XZHljsQMB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yasaswi Kondepudi](https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj) | [Pattudala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6c5k65a6GGJCrsZvGox4jb) | 3:19 | 2025-02-21 | 2025-06-04 |
 | [Manase \[From "14 Days \(Girlfriend Intlo\)"\]](https://open.spotify.com/track/1rwX0zzCIfWM7kSv5x74iD) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Manase \[From "14 Days \(Girlfriend Intlo\)"\]](https://open.spotify.com/album/6JKl1yOUDelzjy5WMzRszX) | 3:11 | 2025-03-07 |  |

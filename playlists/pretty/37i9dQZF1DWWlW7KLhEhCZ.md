@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Boaventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,569 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,562 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ela dnv](https://open.spotify.com/track/7vSYTqtWg25hEOjEz4l61q) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:07 |
+| 1 | [Ela dnv](https://open.spotify.com/track/7vSYTqtWg25hEOjEz4l61q) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Colli](https://open.spotify.com/artist/1pvieTyV0mvUsgs8jZfqwN) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:07 |
 | 2 | [TERAPIA](https://open.spotify.com/track/1sO1hIosYNQSqeEZvimcUB) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [TERAPIA](https://open.spotify.com/album/2MmpXRS59PnFXk0GHseQvO) | 2:25 |
 | 3 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.A.R.D](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
 | 4 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |

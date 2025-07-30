@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: JOLIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,677 likes - 76 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,676 likes - 76 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 13 | [A.I.N.Y\. 愛你 \(G.E.M.重生版\)](https://open.spotify.com/track/4uGve3vqfumnGsUMtnGumr) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I AM GLORIA](https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ) | 3:47 |
 | 14 | [祝你幸福](https://open.spotify.com/track/4EwkxMSoUkxxGF6jSm3J7R) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [祝你幸福](https://open.spotify.com/album/14FTYLF72jDjU18KzMNHpA) | 4:53 |
 | 15 | [看着我的眼睛说 \- Live](https://open.spotify.com/track/1cgz7ebMOUWlhrLX8aGp5A) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL), [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [天赐的声音第六季 第7期 \(Live）](https://open.spotify.com/album/7yLaKkL28aVE72dRjkt4Nv) | 4:40 |
-| 16 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 16 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 17 | [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 |
 | 18 | [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 |
 | 19 | [第57次取消发送](https://open.spotify.com/track/2xYrGeWUjwGvB0KMAfUFSd) | [菲菲公主](https://open.spotify.com/artist/64kT1WWPbIyJcOfNrR2RPD) | [第57次取消发送](https://open.spotify.com/album/56rVxwVN8ymIembS2chjI9) | 3:00 |

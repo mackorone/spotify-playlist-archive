@@ -1,12 +1,12 @@
 {
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 124505,
+  "num_followers": 124530,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAU+nYGO7pvvZJxPrX0+psD",
+  "snapshot_id": "aIa9gAAAAAAfza94SV1gnbeVtj6LT6qu",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mensaje De Oro",
-        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
+        "name": "Haciendo Historia 30 Exitos",
+        "url": "https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 132597,
-      "name": "La Viudita",
-      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
+      "duration_ms": 180244,
+      "name": "Tu Decides",
+      "url": "https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Historia 30 Exitos",
-        "url": "https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL"
+        "name": "Mensaje De Oro",
+        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 180244,
-      "name": "Tu Decides",
-      "url": "https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX"
+      "duration_ms": 132597,
+      "name": "La Viudita",
+      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfil",
-        "url": "https://open.spotify.com/album/1XMCnii3oHdnBQyZN7w9P7"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162278,
-      "name": "Mi Gru\u00f1on De Oro",
-      "url": "https://open.spotify.com/track/5jpuWrJS34sNzUywqgtgJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "28 Huracanazos",
         "url": "https://open.spotify.com/album/051pj99hFiZmLKCoC9sAti"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Nortenas Perronas",
-        "url": "https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh"
+        "name": "Perfil",
+        "url": "https://open.spotify.com/album/1XMCnii3oHdnBQyZN7w9P7"
       },
       "artists": [
         {
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 150440,
-      "name": "Lincoln Negro",
-      "url": "https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF"
+      "duration_ms": 162278,
+      "name": "Mi Gru\u00f1on De Oro",
+      "url": "https://open.spotify.com/track/5jpuWrJS34sNzUywqgtgJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Nuevos Horizontes",
+        "url": "https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 173035,
+      "name": "Doble Fondo Carga Pesada (LIVE0",
+      "url": "https://open.spotify.com/track/6TOAAPGzz2ZD59pBsO3Hau"
     }
   ],
   "unique_name": "This Is Los Huracanes del Norte",

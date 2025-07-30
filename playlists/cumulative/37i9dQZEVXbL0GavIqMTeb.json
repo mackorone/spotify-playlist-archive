@@ -6436,7 +6436,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "DEJA QUE EL MUNDO SE ACABE",
       "url": "https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT"
@@ -9950,7 +9950,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 203506,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02"
@@ -9968,7 +9968,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 203973,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
@@ -24552,7 +24552,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
@@ -26601,6 +26601,24 @@
     },
     {
       "album": {
+        "name": "El Templo del Pop, Vol. 2",
+        "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
+    },
+    {
+      "album": {
         "name": "Miranda Es Imposible!",
         "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
       },
@@ -26612,7 +26630,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 244800,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"

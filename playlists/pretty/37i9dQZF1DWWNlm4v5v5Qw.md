@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Curated: <a href="spotify:artist:4Ge9GwmWnOQsohwPTrXyHc">Gordo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,767 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 59 | [Str8 Drop \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1ui5nrOdo1YXevB0n1u5rg) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Nightmare on E Street 2](https://open.spotify.com/album/5sN4yGTNoZCfYiYZWvEQ6O) | 3:09 |
 | 60 | [Hombres y Mujeres](https://open.spotify.com/track/6RcGfVTAMeUONOC39N50xi) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:28 |
 
-Snapshot ID: `ZyUIRQAAAAB5j6upKyX9RJtHbChBGiVU`
+Snapshot ID: `AAAAANq2D6XIVTHcJkAmS3ZjyZYqhy44`

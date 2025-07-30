@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Joey Valence & Brae
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,447 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,460 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 49 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 50 | [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 |
 
-Snapshot ID: `aHCMSAAAAAD5jLDW4D6me2GCUC1CO6Q/`
+Snapshot ID: `AAAAAGR719Qbs4Y9nW/kaacE78Vuijd6`

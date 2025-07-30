@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1675381,
+  "num_followers": 1674760,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Love Is Blind",
+        "url": "https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233071,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "Falling Faster Than You Can Run",
         "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
       },
@@ -1031,38 +1047,18 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Love Is Blind",
-        "url": "https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw"
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 233071,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-        "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        },
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 238298,
-      "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-      "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
+      "duration_ms": 292953,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1083,22 +1079,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 292953,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Some Still Morning",
         "url": "https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 253670,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
+        "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 238298,
+      "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
+      "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
     },
     {
       "added_at": "2025-06-26 15:53:58",

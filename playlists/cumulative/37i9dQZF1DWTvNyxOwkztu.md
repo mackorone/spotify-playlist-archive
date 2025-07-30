@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-328 songs - 18 hr 10 min
+329 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 | 2022-10-07 | 2025-05-02 |
 | [All Equal](https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [All Equal](https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS) | 3:42 | 2021-12-09 | 2023-09-14 |
 | [All I Ever Wanted](https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [All I Ever Wanted](https://open.spotify.com/album/57wbq7k2zsFPICzfUHiKOS) | 2:48 | 2021-12-09 | 2022-06-16 |
-| [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2021-12-09 |  |
+| [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2021-12-09 | 2025-07-30 |
 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 | 2021-12-09 |  |
 | [Anything \(Ya Ya\)](https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C) | [Anything \(Ya Ya\)](https://open.spotify.com/album/0d8CNFTRePsFgEMMBlFOFQ) | 2:50 | 2025-05-16 |  |
 | [Apart & Beyond](https://open.spotify.com/track/1FODiQJw75rxHyV2LZ8xIr) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [Apart & Beyond](https://open.spotify.com/album/19vpRsrsBJp47KdMT8crx4) | 5:36 | 2021-12-09 | 2022-04-20 |
@@ -189,6 +189,7 @@
 | [mojito](https://open.spotify.com/track/54JmK6z8m7jM2oaDlq7flm) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [mojito](https://open.spotify.com/album/3PK9VIEk2Ni3TB2R7bc3JS) | 2:15 | 2022-05-20 | 2022-07-27 |
 | [Moments of Clarity](https://open.spotify.com/track/4cL7JffDg7AHPOBTzKeN7R) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Moments of Clarity](https://open.spotify.com/album/0ZkvxP4rlPTtTEhmaFEiqs) | 3:13 | 2021-12-09 | 2022-09-13 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |
+| [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD) | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/album/19z4cBAVhTPI1TwFkDrTSU) | 2:24 | 2025-07-18 |  |
 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 | 2022-01-21 |  |
 | [Motion](https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd) | [Ambyion](https://open.spotify.com/artist/1OX2MZhepUtYnq7FCGMVj5) | [Motion](https://open.spotify.com/album/2P9fBxIqlvZmTztyhPaNTD) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Mount Fuji](https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Mount Fuji](https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k) | 2:41 | 2021-12-09 | 2023-01-14 |

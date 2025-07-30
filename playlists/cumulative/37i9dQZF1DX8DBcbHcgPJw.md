@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-658 songs - 1 day 8 hr 33 min
+659 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-18 | 2023-07-20 |
 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 | 2023-05-12 | 2023-11-18 |
 | [A PRUEBA DE BALAS](https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [A PRUEBA DE BALAS](https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L) | 2:42 | 2024-03-08 |  |
-| [A Puros Likes](https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ) | [A Puros Likes](https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE) | 2:35 | 2025-04-11 |  |
+| [A Puros Likes](https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ) | [A Puros Likes](https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE) | 2:35 | 2025-04-11 | 2025-07-30 |
 | [A un centímetro](https://open.spotify.com/track/2Dy5GZwGgR2Kvtnxq9LDc0) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [A un centímetro](https://open.spotify.com/album/0DjuAxI9D8cdYyLJqCultW) | 3:08 | 2023-11-17 | 2023-11-23 |
 | [A un Milimetro de Ti](https://open.spotify.com/track/3qRPjSJ3hj4m26EpGeKLfs) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [A un Milimetro de Ti](https://open.spotify.com/album/3c5Wa5hlkWQAKWqsdoDOWm) | 2:08 | 2022-06-10 | 2022-06-18 |
 | [Abrazame](https://open.spotify.com/track/6nBjmgwILQDwSolxJgY5iB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Abrazame](https://open.spotify.com/album/0miOPWdCY9vEcZLWtZiZFQ) | 2:52 | 2022-01-07 | 2022-07-07 |
@@ -117,6 +117,7 @@
 | [Cuando Baila](https://open.spotify.com/track/3GE0n3hIazM0BGBSbDTer1) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Cuando Baila](https://open.spotify.com/album/6JKsJRQSeJRvn1LQakdxC1) | 2:23 | 2023-07-28 | 2023-08-05 |
 | [CUANDO SALE EL SOL](https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [CUANDO SALE EL SOL](https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI) | 2:56 | 2023-12-15 |  |
 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 | 2021-12-23 |  |
+| [Cuidado Que Te Supero / Calumnia / Tattoo](https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Cuidado Que Te Supero / Calumnia / Tattoo](https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC) | 5:56 | 2025-07-25 |  |
 | [Culpable](https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Culpable](https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2) | 2:51 | 2025-01-31 | 2025-04-05 |
 | [Culpable o No](https://open.spotify.com/track/0PNkST00gopYa35OLKfju2) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Culpable o No](https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19) | 2:17 | 2021-12-23 | 2022-05-07 |
 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-23 | 2025-04-09 |

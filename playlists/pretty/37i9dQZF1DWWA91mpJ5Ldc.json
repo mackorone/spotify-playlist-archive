@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 134955,
+  "num_followers": 134991,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,30 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
+        "name": "T\u00c1 FELIZ?!",
+        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "SAMBA DE CRIA",
+      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -247,30 +271,6 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
-        "name": "T\u00c1 FELIZ?!",
-        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "SAMBA DE CRIA",
-      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "SAGRADO, Vol 2",
-        "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 222834,
-      "name": "Coisas do Amor (Me Chama)",
-      "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "SAGRADO, Vol 2",
+        "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 222834,
+      "name": "Coisas do Amor (Me Chama)",
+      "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
+        "name": "Andar Sozinho (feat. J\u00e3o)",
+        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
-        "name": "Andar Sozinho (feat. J\u00e3o)",
-        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Andar Sozinho (feat. J\u00e3o)",
-      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 209906,
       "name": "Choror\u00f4",
       "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Amar \u00c9 um Dom",
-        "url": "https://open.spotify.com/album/64T5glMZvgQBwF8703mrLL"
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Catan",
-          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Amar \u00c9 um Dom",
-      "url": "https://open.spotify.com/track/6V5gs998jtARkBOsMeNZkJ"
+      "duration_ms": 159250,
+      "name": "Quem Me Conhece Sabe",
+      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
     }
   ],
   "unique_name": "Cozinhando em Casa",

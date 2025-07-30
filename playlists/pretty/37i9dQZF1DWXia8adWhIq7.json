@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Milena Pina",
-  "num_followers": 109142,
+  "num_followers": 109170,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Desacreditar Jamais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
       },
@@ -703,42 +719,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
         "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 238826,
       "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
       "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+        "name": "Alegria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
         }
       ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+      "duration_ms": 298703,
+      "name": "Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -859,22 +863,18 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Alegria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
       },
       "artists": [
         {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Silas Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 298703,
-      "name": "Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 266020,
       "name": "Apenas Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Corre",
         "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 201600,
       "name": "Corre",
       "url": "https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
       },
       "artists": [
         {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
         }
       ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Te Vejo",
         "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2025-07-19 03:27:31",

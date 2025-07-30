@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover:  Rooh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,680 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,688 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 5 | [Dil Mera](https://open.spotify.com/track/4R09rc9Eihz5ikFlFax3dH) | [Kabir Kayson](https://open.spotify.com/artist/2u9yWfKdTNOY6xuTlRAMMC), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Dil Mera](https://open.spotify.com/album/6ljriOxY43rbAW8NZqWmPx) | 3:00 |
 | 6 | [Drip](https://open.spotify.com/track/062u4xBVdBo14GfsToAocU) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG) | [Drip](https://open.spotify.com/album/4rzCyWHq6IXx31xwEcopIV) | 2:13 |
 | 7 | [Definition](https://open.spotify.com/track/3tHRh30b6PBCiC0UBOHo6P) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Definition](https://open.spotify.com/album/759ZXoAaCqM5iki174MwlJ) | 2:34 |
-| 8 | [Heer](https://open.spotify.com/track/5hckyO77yRB5bKUKWy9vF3) | [Gagan Kotla](https://open.spotify.com/artist/01n5bpPypm34tVJ7W2YJ8O), [Daman Music](https://open.spotify.com/artist/5yIdClnXl9N95khJUbWeCe) | [Heer](https://open.spotify.com/album/2BsPM5Z5UowdOjT94gx4Hj) | 1:55 |
+| 8 | [Heer](https://open.spotify.com/track/5hckyO77yRB5bKUKWy9vF3) | [Gagan Kotla](https://open.spotify.com/artist/01n5bpPypm34tVJ7W2YJ8O), [Daman Music](https://open.spotify.com/artist/72pc20b8pSujy2I43jrFoT) | [Heer](https://open.spotify.com/album/2BsPM5Z5UowdOjT94gx4Hj) | 1:55 |
 | 9 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
 | 10 | [Sand Bolde](https://open.spotify.com/track/2ZZOQYt0dZztTtaoEOJQxw) | [Vicky Maan](https://open.spotify.com/artist/2VC3bA2IchCVpMS1U5FRtg) | [Sand Bolde](https://open.spotify.com/album/71BoNRzIB8qocWy4ylTrj3) | 2:21 |
 | 11 | [Innocence](https://open.spotify.com/track/6Z72QDgSWNftsZCtlHBuIz) | [Mantazz Gill](https://open.spotify.com/artist/5gInVhKRfF1Ma5V3klXogO), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [Innocence](https://open.spotify.com/album/0KxP6LWboYQrQjJ0G8pRIt) | 2:44 |

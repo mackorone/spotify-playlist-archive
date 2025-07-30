@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 83982,
+  "num_followers": 84086,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAA6AJgX8DjtzcqYeOi2q/xQ",
+  "snapshot_id": "aIa9gAAAAABf8fhw8p/Ci2bi0sG4mefv",
   "tracks": [
     {
       "added_at": null,
@@ -1031,34 +1031,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
       "artists": [
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Naldo Benny",
-          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
-        },
-        {
-          "name": "Fernanda Abreu",
-          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "DJ Chernobyl",
-          "url": "https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         }
       ],
-      "duration_ms": 114461,
-      "name": "PASSE A RESPEITAR",
-      "url": "https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt"
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,
@@ -1091,26 +1083,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
       "artists": [
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "Fernanda Abreu",
+          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "DJ Chernobyl",
+          "url": "https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW"
         }
       ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+      "duration_ms": 114461,
+      "name": "PASSE A RESPEITAR",
+      "url": "https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt"
     },
     {
       "added_at": null,

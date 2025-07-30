@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 54015,
+  "num_followers": 54120,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Deeper Experience Chant",
         "url": "https://open.spotify.com/album/1Tay2nbUOJnoshqUEoIbO8"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 564888,
       "name": "Deeper Experience Chant",
       "url": "https://open.spotify.com/track/7JJ1xN2a1s7EV7ujV3TQyE"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 227998,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -263,42 +279,6 @@
       "duration_ms": 601940,
       "name": "Ruach Elohim",
       "url": "https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "We Behold(Qavah Anthem)",
-        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 773605,
-      "name": "We Behold(Qavah Anthem)",
-      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Elohim Adonai",
-        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 227998,
-      "name": "Elohim Adonai",
-      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -323,6 +303,26 @@
       "duration_ms": 864287,
       "name": "Out of My Belly - Live",
       "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "We Behold(Qavah Anthem)",
+        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 773605,
+      "name": "We Behold(Qavah Anthem)",
+      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 536024,
-      "name": "At All Cost",
-      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "You Cover Me",
         "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 1078359,
       "name": "You Cover Me",
       "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 536024,
+      "name": "At All Cost",
+      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
     },
     {
       "added_at": "2024-07-26 00:01:00",

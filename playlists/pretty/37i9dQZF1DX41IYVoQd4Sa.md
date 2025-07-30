@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסף אבידן
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,287 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,301 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 46 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 |
 | 47 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 48 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
-| 49 | [Home](https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Kapaim](https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L) | 3:19 |
-| 50 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
+| 49 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
+| 50 | [Home](https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Kapaim](https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L) | 3:19 |
 
 Snapshot ID: `aIKe6gAAAABYQ8TPtz62dsgguH2zxXub`

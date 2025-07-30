@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,395 likes - 56 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,396 likes - 56 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 3 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 |
 | 4 | [ANTONIO](https://open.spotify.com/track/6SYTtNE9tD95oSFPbKXeFL) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:49 |
 | 5 | [FANTINO](https://open.spotify.com/track/5dLzWnp0GXZyEFGhreAy9g) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 3:20 |
-| 6 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 |
+| 6 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 |
 | 7 | [Enamorado](https://open.spotify.com/track/6QL34AOizNSdOSnJpNK69L) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [Enamorado](https://open.spotify.com/album/3SDLtpMyD7UmxcASwCnWK0) | 2:35 |
 | 8 | [Liberen al Pity](https://open.spotify.com/track/3raStJ1O5HY7Np5e9UaKx8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 2:40 |
 | 9 | [Sola](https://open.spotify.com/track/5HcmDAvgFcutXcNBaXqFaH) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 3:33 |

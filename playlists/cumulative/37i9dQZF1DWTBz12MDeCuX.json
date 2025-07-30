@@ -13105,6 +13105,24 @@
     },
     {
       "album": {
+        "name": "Du bist wie",
+        "url": "https://open.spotify.com/album/68wZ1sJlRYXPCZKXW3lhdH"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144830,
+      "name": "Du bist wie",
+      "url": "https://open.spotify.com/track/4RjV7KgAaGvujkv1rpifRU"
+    },
+    {
+      "album": {
         "name": "Du brauchst Zeit",
         "url": "https://open.spotify.com/album/2y1IxC9aqPocR3CrlnpxuX"
       },
@@ -31554,7 +31572,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 164413,
       "name": "Mein sch\u00f6nstes Kleid",
       "url": "https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3"

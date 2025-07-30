@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-321 songs - 14 hr 19 min
+322 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Storm For Sleep](https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl) | [A Tempestade](https://open.spotify.com/artist/6L7uhP0Pp0USs4lVQepDJk) | [A Storm For Sleep](https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921) | 3:45 | 2023-02-13 |  |
 | [A Storm's On The Way](https://open.spotify.com/track/0DP6xqsct4R1BjBq2NUuRk) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Night Thunder](https://open.spotify.com/album/59wL07qYzi01R3icAPk7ZL) | 4:00 | 2021-11-10 | 2023-02-14 |
 | [Acidity Rain](https://open.spotify.com/track/3l30IZUBWUfh3MGvCaGFrv) | [Vanessa Storm](https://open.spotify.com/artist/6TsgwupeJtUQbUQFDXNlvu) | [Rainband](https://open.spotify.com/album/2jh2el08okb2KSgy9sKrew) | 2:07 | 2021-11-10 |  |
+| [Aguacero](https://open.spotify.com/track/139xQGTwuv9suuSwg7hSLg) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 | 2025-07-23 |  |
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-02-13 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2023-06-15 |  |
 | [Another Grey Afternoon](https://open.spotify.com/track/2TIlXNfAUleg3nzWVhTzaO) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 1:48 | 2021-11-10 | 2023-02-14 |
@@ -56,7 +57,7 @@
 | [Desert Storm](https://open.spotify.com/track/4FFFs4A3Xi3AZxo3VDsnht) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [Healing Storm](https://open.spotify.com/album/0mWm4tE8NC213CdPt6WQEN) | 2:38 | 2021-11-10 |  |
 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2023-02-13 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2023-02-13 |  |
-| [Distant Storm](https://open.spotify.com/track/3mVOp7pRhdhkUOfDwfPGUM) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Distant Storm](https://open.spotify.com/album/3U3p0twpZRSXjLUtrCb0hc) | 3:28 | 2021-11-10 |  |
+| [Distant Storm](https://open.spotify.com/track/3mVOp7pRhdhkUOfDwfPGUM) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Distant Storm](https://open.spotify.com/album/3U3p0twpZRSXjLUtrCb0hc) | 3:28 | 2021-11-10 | 2025-07-30 |
 | [Distant Storm](https://open.spotify.com/track/6sZVHMKQ7lf57eTlgby2WL) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 | 2021-11-10 |  |
 | [Distant Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [stereo storm](https://open.spotify.com/artist/6Ai5P2C9QMMD4KZ3scLzKa) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 2:39 | 2021-11-10 |  |
 | [Distant Thunder and Smooth Rain](https://open.spotify.com/track/29cwoaUpoe1zQdi69IEAym) | [Relaxing Nature Recordings](https://open.spotify.com/artist/2oqu88JCOi265HJuVacifj) | [Distant Thunder and Smooth Rain](https://open.spotify.com/album/1wugt0PsqyxHCC1JGGr43C) | 2:09 | 2021-11-10 |  |

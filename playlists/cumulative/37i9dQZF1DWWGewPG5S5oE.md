@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 佐瀬悠輔
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 梅井美咲
 
-430 songs - 1 day 10 hr 56 min
+431 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Gotta Be Happy](https://open.spotify.com/track/5Jdr6tDNTTROnTlE0Itb6Z) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Gotta Be Happy](https://open.spotify.com/album/6ouBUpD5orNd1zWTuwpSMl) | 6:44 | 2024-10-23 | 2024-11-06 |
 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 | 2025-07-01 |  |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
-| [HAGAKURE](https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [HAGAKURE](https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC) | 3:41 | 2024-07-02 |  |
+| [HAGAKURE](https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [HAGAKURE](https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC) | 3:41 | 2024-07-02 | 2025-07-30 |
 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-11-03 |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-14 | 2024-01-20 |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
@@ -220,6 +220,7 @@
 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 | 2024-04-19 |
 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 | 2024-10-08 |  |
+| [No Title](https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg) | [Jun Miyakawa](https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [The Way \(Deluxe Edition\)](https://open.spotify.com/album/1k06f2ViOox957pPj2va5h) | 6:12 | 2025-07-29 |  |
 | [Noisia](https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Noisia](https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz) | 5:07 | 2025-02-26 | 2025-04-06 |
 | [null](https://open.spotify.com/track/0lNwTmuyzwkZ3lcQwjUIm6) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [null](https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7) | 3:38 | 2024-02-27 | 2024-06-12 |
 | [obsession](https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [LOTUS](https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV) | 4:26 | 2024-08-13 | 2024-09-18 |

@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Potty Monkey\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: 99' Nasty Kidz\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,278 songs - 2 day 22 hr 31 min
+1,279 songs - 2 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,7 @@
 | [OMZ freestyle](https://open.spotify.com/track/4SjQF4IpVlOCO4Qsvyaddl) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:24 | 2022-08-01 |  |
 | [ON AIR \(Feat\. Loco, Jay Park & GRAY\)](https://open.spotify.com/track/3sNpAUnxxQWeP4gnSdJXg6) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:10 | 2022-05-31 |  |
 | [On and on \(feat\. FANA\)](https://open.spotify.com/track/5Nlr3ZAz0J3N0IJSVeEe6g) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [On and on](https://open.spotify.com/album/5yBXeh9XWl7IvBMstWnJbo) | 3:06 | 2022-06-09 | 2022-07-24 |
-| [ON FIRE](https://open.spotify.com/track/4oNcVooyhjo79uz9UIeWlA) | [1Kyne](https://open.spotify.com/artist/0x1RhctezsPRui0CZpQKl5), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [국민사형투표 OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/0qnJm03SWIU6sMmbOIIQBK) | 3:26 | 2023-08-31 |  |
+| [ON FIRE](https://open.spotify.com/track/4oNcVooyhjo79uz9UIeWlA) | [1Kyne](https://open.spotify.com/artist/0x1RhctezsPRui0CZpQKl5), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [국민사형투표 OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/0qnJm03SWIU6sMmbOIIQBK) | 3:26 | 2023-08-31 | 2025-07-30 |
 | [ON FIRE \(Feat\. CHANGMO\)](https://open.spotify.com/track/1tGG71EA1DXKQcIVyTji4z) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [ON FIRE](https://open.spotify.com/album/3QsSqWuaNNZlAadGUccURs) | 2:53 | 2024-07-26 | 2025-05-27 |
 | [On Fire \(feat\. CokeJazz\)](https://open.spotify.com/track/3lGpLQKgTSimbOHVpBtFsy) | [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Cokejazz](https://open.spotify.com/artist/5D1OebhQsWt66e9wMEXVu1) | [Korean Dream](https://open.spotify.com/album/1CIUot979SnDkIqZVRkER2) | 5:40 | 2022-06-13 | 2022-07-02 |
 | [On It \(feat\. DJ Wegun\)](https://open.spotify.com/track/2BahDbkdpxAlh4upSKJKdk) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [Worldwide](https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH) | 3:44 | 2022-06-03 | 2022-06-12 |
@@ -852,6 +852,7 @@
 | [Penny and Dime](https://open.spotify.com/track/4wbe3NyQdyscbWjNUgNTOO) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [Penny and Dime](https://open.spotify.com/album/2AaZLFBwF8i2an5DQ88ZUh) | 2:55 | 2022-05-28 | 2022-07-09 |
 | [Perfect \(Feat\. Brown Tigger\) \(GET SCHOOLED X Gwangil Jo\)](https://open.spotify.com/track/3ky21bcZ0cqXJwD9qw2Swk) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH) | [Perfect \(Feat\. Brown Tigger\) \(GET SCHOOLED X Gwangil Jo\)](https://open.spotify.com/album/6dXGDVoscpIA2vxZqu3bpK) | 3:12 | 2022-05-31 | 2022-07-19 |
 | [PEW! \(Feat\. ZICO\)](https://open.spotify.com/track/7LwtVQUNkGNMs475lUqdqe) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 2:49 | 2023-06-20 |  |
+| [Picasso](https://open.spotify.com/track/3NXGMZ6ZIHrNYJeY2DR7cZ) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Picasso](https://open.spotify.com/album/4q2S413NwS40Qbm6TOm2Hf) | 3:21 | 2025-07-29 |  |
 | [Pickupman](https://open.spotify.com/track/1oSfjDYlH5M1GrRkEwgqe6) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [Show Me the Money 777 Final](https://open.spotify.com/album/0PpSvxdXosNfCAnF9OMjxB) | 3:54 | 2022-05-31 | 2022-07-06 |
 | [Piggy Bank](https://open.spotify.com/track/0AnCWhBbUfDtiQa53CiESu) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Jeogeumtong](https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I) | 2:07 | 2023-07-14 | 2024-09-11 |
 | [pirate song](https://open.spotify.com/track/6dFICQpX5dZuZcBXS3GtNh) | [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1), [RudeClub](https://open.spotify.com/artist/5D8CVP7ytHAclwebMaXRa2) | [Kirby’s Adventure](https://open.spotify.com/album/48nJvBugmLqyNYnDXoBPzj) | 2:44 | 2022-07-19 | 2022-07-22 |

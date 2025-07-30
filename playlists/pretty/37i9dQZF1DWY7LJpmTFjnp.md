@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Manu Chao y Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,242 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,138 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 96 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
 | 97 | [Tumbos](https://open.spotify.com/track/7CDuNfOfzLUeK45rjmtPWW) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Tumbos](https://open.spotify.com/album/4n2ljAchiEWrgiDuLHQiMP) | 2:39 |
 | 98 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
-| 99 | [Osito Dormilón \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4tW9IcWgyxkhDUG0Zqhq3f) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Osito Dormilón \(Sonando desde el Auditorio Nacional\)](https://open.spotify.com/album/4Ll6S0UCVzIpdmm0fqgJuX) | 3:56 |
-| 100 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
+| 99 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
+| 100 | [Osito Dormilón \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4tW9IcWgyxkhDUG0Zqhq3f) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Osito Dormilón \(Sonando desde el Auditorio Nacional\)](https://open.spotify.com/album/4Ll6S0UCVzIpdmm0fqgJuX) | 3:56 |
 
 Snapshot ID: `aHni5gAAAACBjy/Gp0Y1/wFSTm6ytF/U`

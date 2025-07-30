@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: LEX",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: LANA",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 5941,
       "name": "+81 Connect Call_JUMADIBA",
       "url": "https://open.spotify.com/track/5LRhYqk1HGqsgozlJUCa7W"
+    },
+    {
+      "album": {
+        "name": "+81 Connect Call_LANA",
+        "url": "https://open.spotify.com/album/2WgC4Ksb6eNTqlpCmBZt24"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12500,
+      "name": "+81 Connect Call_LANA",
+      "url": "https://open.spotify.com/track/48wfpr9c8v0b4BqydswJpd"
     },
     {
       "album": {
@@ -418,7 +436,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 226800,
       "name": "128",
       "url": "https://open.spotify.com/track/03qgnamcJASDvzIagmMg7w"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 173158,
       "name": "2:53",
       "url": "https://open.spotify.com/track/0NbaZEsra2VjrxaVpnUtnC"
@@ -926,6 +944,24 @@
       "duration_ms": 267947,
       "name": "4 season",
       "url": "https://open.spotify.com/track/4MOMvm7jaxomexOj6GsUep"
+    },
+    {
+      "album": {
+        "name": "4 SEASON",
+        "url": "https://open.spotify.com/album/5QcMIfB7ISQn88pvoeb25E"
+      },
+      "artists": [
+        {
+          "name": "Vanity.K",
+          "url": "https://open.spotify.com/artist/7z1LJjoLGnvaEFD75Ypvt3"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173398,
+      "name": "4 SEASON",
+      "url": "https://open.spotify.com/track/1fp8WYRtX59iOWr6b04C6r"
     },
     {
       "album": {
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 214182,
       "name": "abone",
       "url": "https://open.spotify.com/track/3RxEQNjox91VufNzv8pqJO"
@@ -2252,6 +2288,28 @@
       "duration_ms": 214580,
       "name": "Always be killing it",
       "url": "https://open.spotify.com/track/3C8EOKedfzDXH1diDbBUU1"
+    },
+    {
+      "album": {
+        "name": "AMANOJAKU (feat. JUMADIBA)",
+        "url": "https://open.spotify.com/album/2LTH1z02AfuUcvslhBLnll"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165448,
+      "name": "AMANOJAKU (feat. JUMADIBA)",
+      "url": "https://open.spotify.com/track/4k7VfslZnNImr1SiTviZHr"
     },
     {
       "album": {
@@ -4583,6 +4641,28 @@
     },
     {
       "album": {
+        "name": "Billy to Billion",
+        "url": "https://open.spotify.com/album/6zmGHG74n6OitzwylFNpX4"
+      },
+      "artists": [
+        {
+          "name": "illrain",
+          "url": "https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS"
+        },
+        {
+          "name": "TEITO",
+          "url": "https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "Billy to Billion",
+      "url": "https://open.spotify.com/track/2fqRnYtRgO10Gd31aRgFs5"
+    },
+    {
+      "album": {
         "name": "BINBO",
         "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
       },
@@ -4700,7 +4780,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 161189,
       "name": "blacknails",
       "url": "https://open.spotify.com/track/5P3tshp3kDiatlcQde42XJ"
@@ -4740,7 +4820,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 141696,
       "name": "Blaze It Up",
       "url": "https://open.spotify.com/track/14rv0LQpMCit5DiOkQF2LF"
@@ -6416,7 +6496,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 209005,
       "name": "Cho Atsu 2",
       "url": "https://open.spotify.com/track/07FBQ8bPMl97m86wMpLOB1"
@@ -6596,7 +6676,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 131570,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/2v011OEmkvNWNGcwfugill"
@@ -6892,7 +6972,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 130896,
       "name": "COLD BLOOD POWER\u2122",
       "url": "https://open.spotify.com/track/0ZopSzD46pwGzpaRkQIIz6"
@@ -8812,6 +8892,32 @@
       "duration_ms": 155798,
       "name": "Don't stop",
       "url": "https://open.spotify.com/track/1hua9qyCb4iLHejJS4ErOt"
+    },
+    {
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/7p21pGIhZ8PICLnRIENd16"
+      },
+      "artists": [
+        {
+          "name": "A-THUG",
+          "url": "https://open.spotify.com/artist/0ousHWUYQP1iv0PrToT9Xg"
+        },
+        {
+          "name": "Senninsho",
+          "url": "https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD"
+        },
+        {
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216039,
+      "name": "Don't Worry About Me",
+      "url": "https://open.spotify.com/track/5ZaS90eSYMKUA6bctuPWue"
     },
     {
       "album": {
@@ -12526,7 +12632,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 208001,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/0J3JXLGEwD42xA3DYfw1RF"
@@ -12630,7 +12736,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 276400,
       "name": "GOLDEN",
       "url": "https://open.spotify.com/track/2niBQMCy10cufH1rzuB1YS"
@@ -13602,6 +13708,28 @@
       "duration_ms": 211477,
       "name": "Hell Yeah (feat. Vingo, MaRI & Candee)",
       "url": "https://open.spotify.com/track/6MZyUG578VFhukodZYG8ni"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4pORhvjHQNOULri9XD0yRN"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "SALU",
+          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222537,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3bjakIi1SL5y8EXq5VFcDI"
     },
     {
       "album": {
@@ -15190,7 +15318,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 167250,
       "name": "Iikukan",
       "url": "https://open.spotify.com/track/4OXPeu4obNOxFED6ESxJEy"
@@ -18105,6 +18233,28 @@
     },
     {
       "album": {
+        "name": "Live Like Summer",
+        "url": "https://open.spotify.com/album/0WFF5u6P33iHB9kl8gvxQC"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177913,
+      "name": "Live Like Summer",
+      "url": "https://open.spotify.com/track/6WMLCWUim8AiK8LjuHTWfL"
+    },
+    {
+      "album": {
         "name": "Living Alone",
         "url": "https://open.spotify.com/album/75RIPcMWgM5V2nbDxRQhaB"
       },
@@ -18216,6 +18366,32 @@
       "duration_ms": 202013,
       "name": "Lonely Child (feat. Carz)",
       "url": "https://open.spotify.com/track/4O3RAIPl2v9OuaDApbEsB0"
+    },
+    {
+      "album": {
+        "name": "Long way (feat. ELIONE)",
+        "url": "https://open.spotify.com/album/5fWP2Yf3wJsSq9SyVIiOpE"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        },
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        },
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218185,
+      "name": "Long way (feat. ELIONE)",
+      "url": "https://open.spotify.com/track/2PKZz86dIEUf0KSGN0SWT3"
     },
     {
       "album": {
@@ -18520,7 +18696,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 153391,
       "name": "Lost Night",
       "url": "https://open.spotify.com/track/1dL40UUQtAksPt0aOTBggk"
@@ -20798,6 +20974,24 @@
       "duration_ms": 237326,
       "name": "MOUNTAIN D",
       "url": "https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH"
+    },
+    {
+      "album": {
+        "name": "MOVE IN SILENCE",
+        "url": "https://open.spotify.com/album/6c5JgA2ApEgnmItd1bg4wb"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129672,
+      "name": "MOVE IN SILENCE",
+      "url": "https://open.spotify.com/track/6iSLFhWPttcd9hSaiKJw9t"
     },
     {
       "album": {
@@ -23531,6 +23725,24 @@
     },
     {
       "album": {
+        "name": "By your side",
+        "url": "https://open.spotify.com/album/5fmBxI5ZrRW60qNCmmyS8I"
+      },
+      "artists": [
+        {
+          "name": "Lil Bell Dice",
+          "url": "https://open.spotify.com/artist/30RS2ps9J6Z9rifPSY7vO1"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0m52z64Gq2ESpsocEfvYN2"
+    },
+    {
+      "album": {
         "name": "Ocean / Only You",
         "url": "https://open.spotify.com/album/7lZtcGMM2GVpUutGTvTYIc"
       },
@@ -25106,7 +25318,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 170958,
       "name": "PAYDAY",
       "url": "https://open.spotify.com/track/5IwVJcNFveiaxdhE2lVnQr"
@@ -29054,7 +29266,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 140307,
       "name": "Shinpin",
       "url": "https://open.spotify.com/track/29Yp2wENSifXKNGnLIbSgC"
@@ -29102,7 +29314,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 211200,
       "name": "SHOGUN",
       "url": "https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU"
@@ -31024,6 +31236,28 @@
       "duration_ms": 174392,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/0X8i1CeXiXtNE1bpC34PhP"
+    },
+    {
+      "album": {
+        "name": "Summer Ride (feat. \u00a5ellow Bucks)",
+        "url": "https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Summer Ride - feat. \u00a5ellow Bucks",
+      "url": "https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6"
     },
     {
       "album": {
@@ -34969,6 +35203,28 @@
     },
     {
       "album": {
+        "name": "We Are (feat. Tiji Jojo)",
+        "url": "https://open.spotify.com/album/6ZoiLiOWn1I8TfA0wXQVkU"
+      },
+      "artists": [
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "Tiji Jojo",
+          "url": "https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187366,
+      "name": "We Are (feat. Tiji Jojo)",
+      "url": "https://open.spotify.com/track/1ONqnJmKl548H1MwMnsLCL"
+    },
+    {
+      "album": {
         "name": "We are the funky",
         "url": "https://open.spotify.com/album/16ST4BmuKNjL804sKlBuil"
       },
@@ -36733,6 +36989,28 @@
     },
     {
       "album": {
+        "name": "ZERO ZERO (feat. BAY)",
+        "url": "https://open.spotify.com/album/3fTAU354On2uB2S4NDH54X"
+      },
+      "artists": [
+        {
+          "name": "Hezron",
+          "url": "https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq"
+        },
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1mXwJm6cwawVwNU3WXvgx2"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193014,
+      "name": "ZERO ZERO (feat. BAY)",
+      "url": "https://open.spotify.com/track/6x7twxzTZk5EJZh9ITef8B"
+    },
+    {
+      "album": {
         "name": "ISSUES (Remix)",
         "url": "https://open.spotify.com/album/7LnfKuyPg6kisAVpq732G7"
       },
@@ -37618,7 +37896,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 260021,
       "name": "\u30aa\u30ef\u30ea",
       "url": "https://open.spotify.com/track/2qUEiCahiWmFQ7JZeIC2FV"
@@ -40554,6 +40832,24 @@
       "duration_ms": 258861,
       "name": "\u8fd4\u7b54",
       "url": "https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK"
+    },
+    {
+      "album": {
+        "name": "\u9084\u308a",
+        "url": "https://open.spotify.com/album/7tUBkV0qLWrU5tsQiQo2Gs"
+      },
+      "artists": [
+        {
+          "name": "OHZKEY",
+          "url": "https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "\u9084\u308a",
+      "url": "https://open.spotify.com/track/4ouWz9rtoqjEBlhBdxhzSd"
     },
     {
       "album": {

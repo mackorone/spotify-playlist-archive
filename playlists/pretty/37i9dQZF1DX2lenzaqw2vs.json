@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: YADAM",
-  "num_followers": 137730,
+  "num_followers": 137731,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
-      },
-      "artists": [
-        {
-          "name": "Mon & Marz",
-          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
-        },
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
+      },
+      "artists": [
+        {
+          "name": "Mon & Marz",
+          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
+        },
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
     },
     {
       "added_at": "2025-07-18 04:00:12",

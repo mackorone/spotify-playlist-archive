@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 59584,
+  "num_followers": 59583,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Paracas Cavernas",
         "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 268011,
       "name": "Paracas Cavernas",
       "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Ni Una Menos",
-        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 154673,
-      "name": "Ni Una Menos",
-      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 153061,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Ni Una Menos",
+        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Ni Una Menos",
+      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
     },
     {
       "added_at": "2024-07-23 21:39:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,510 songs - 3 day 16 hr 45 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,521 songs - 3 day 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1518,5 +1518,16 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1508 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/2uRHJmdkGIajVibmUv9HDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 4:10 |
 | 1509 | [Love Is Everywhere](https://open.spotify.com/track/2ZSDtC0XZnpokAMwRtgqzh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:14 |
 | 1510 | [Look at the Sky](https://open.spotify.com/track/5lXNcc8QeM9KpAWNHAL0iS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 5:09 |
+| 1511 | [Alewife](https://open.spotify.com/track/5okf19MivZaxlTdRxx1UTl) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:33 |
+| 1512 | [North](https://open.spotify.com/track/3eIwoaqQ3htsJ4bz7Y3GQp) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:33 |
+| 1513 | [Bags](https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 4:20 |
+| 1514 | [Sofia](https://open.spotify.com/track/0za55KLGfhCOr2TC4RM6dr) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:08 |
+| 1515 | [Feel Something](https://open.spotify.com/track/6xzb6wg0GSQlg1KZNGwiMv) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 2:56 |
+| 1516 | [I Wouldn't Ask You](https://open.spotify.com/track/3Jd6rzKHppJ5ULIguJ9q8B) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 6:56 |
+| 1517 | [Sinking](https://open.spotify.com/track/2SUMIoX85glBKsVuu1vo20) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:10 |
+| 1518 | [Impossible](https://open.spotify.com/track/1iBdTa9YrX6eRLdjWjhgU4) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:50 |
+| 1519 | [Closer To You](https://open.spotify.com/track/7C1SjpflVsxWhKHF3TCIdG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:04 |
+| 1520 | [Softly](https://open.spotify.com/track/3r8b29rWOWwvxVyq3bSr1I) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:05 |
+| 1521 | [White Flag](https://open.spotify.com/track/1h1EnRMB7u9i3SUWhrBHLX) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/2DDv7gTOpB3D3kDEHddP9z) | 3:01 |
 
-Snapshot ID: `AAAFXakwEkGI7v55nsuV4YXuwguWyhU0`
+Snapshot ID: `AAAFaM9pWx16/LM6oOQXN/viycpUb/cx`

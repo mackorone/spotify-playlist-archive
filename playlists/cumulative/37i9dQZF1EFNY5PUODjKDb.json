@@ -15482,10 +15482,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 225293,
       "name": "Unexpected Song",
       "url": "https://open.spotify.com/track/2V62GKWuZsrKatmqfIWSyF"
+    },
+    {
+      "album": {
+        "name": "Surrender (The Unexpected Songs)",
+        "url": "https://open.spotify.com/album/0bkUC0Zhn8SG5cQa5NTMxw"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Unexpected Song - From \"Tell Me On A Sunday\"",
+      "url": "https://open.spotify.com/track/2zosOki4y74JOujH3vuDg4"
     },
     {
       "album": {

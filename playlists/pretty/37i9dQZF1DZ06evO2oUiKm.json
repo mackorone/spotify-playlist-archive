@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACQLjKAMfxw/qIsEQMEPbvO",
+  "snapshot_id": "aIa9gAAAAACg7oSm9toS2x8HTBYPMC4H",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worst Of Me",
-        "url": "https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Worst Of Me",
+        "url": "https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 200187,
-      "name": "Push and Pull",
-      "url": "https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp"
+      "duration_ms": 163704,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
     },
     {
       "added_at": null,
@@ -851,34 +851,6 @@
       "duration_ms": 360527,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Joaquina Kalukango",
-          "url": "https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb"
-        },
-        {
-          "name": "Isaiah Johnson",
-          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
-        },
-        {
-          "name": "Kevyn Morrow",
-          "url": "https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3"
-        }
-      ],
-      "duration_ms": 278309,
-      "name": "Our Prayer",
-      "url": "https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

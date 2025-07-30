@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
 | 50 | [Milkyway](https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:45 |
 
-Snapshot ID: `MBrxAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBxAKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,13 +1,37 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36956,
+  "num_followers": 36977,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAD9yJcFJx8TTkCHElwXWd5h",
+  "snapshot_id": "aIa9gAAAAAC8gSnfEFVu0KthUE0GyLl5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Right Here",
+        "url": "https://open.spotify.com/album/1ZyoeTI4JofLA7tBGMFgvY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "This Right Here",
+      "url": "https://open.spotify.com/track/3yHDVUcMXHbuCOIl2E1at5"
+    },
     {
       "added_at": null,
       "album": {
@@ -931,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -971,6 +975,26 @@
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. Latto)",
+        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207284,
+      "name": "Can't Get Enough (feat. Latto)",
+      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
     },
     {
       "added_at": null,
@@ -1011,22 +1035,6 @@
       "duration_ms": 187354,
       "name": "Don't Wanna Leave (feat. Mulatto)",
       "url": "https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 113237,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
     }
   ],
   "unique_name": "This Is Latto",

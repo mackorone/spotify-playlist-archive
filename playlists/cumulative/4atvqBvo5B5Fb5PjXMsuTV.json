@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Jul 03:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jul 22:06 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 215757,
       "name": "ABK",
       "url": "https://open.spotify.com/track/6LYvchB2ylOESS7YzYDPbq"
@@ -26761,6 +26761,24 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161949,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
+    },
+    {
+      "album": {
         "name": "ENGINE (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb"
       },
@@ -26884,7 +26902,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 154484,
       "name": "Ensenada",
       "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
@@ -46163,6 +46181,24 @@
     },
     {
       "album": {
+        "name": "Jetpack",
+        "url": "https://open.spotify.com/album/7JbwufkcQArrCmSbgozL8X"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Jetpack",
+      "url": "https://open.spotify.com/track/11T2QXI2x5pD4CU6TxBaFn"
+    },
+    {
+      "album": {
         "name": "Jetplane",
         "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
       },
@@ -62994,7 +63030,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 198042,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L"
@@ -89584,6 +89620,24 @@
       "duration_ms": 240684,
       "name": "Trial By Fire",
       "url": "https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR"
+    },
+    {
+      "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI"
     },
     {
       "album": {

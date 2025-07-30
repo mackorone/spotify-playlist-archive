@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,120 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,123 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 199 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
 | 200 | [Ambrosia](https://open.spotify.com/track/5nwvCxZTbwOEjltAewJg0P) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:15 |
 | 201 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 |
-| 202 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
-| 203 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 |
+| 202 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 |
+| 203 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
 | 204 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
 | 205 | [Sweet Adonis](https://open.spotify.com/track/73vUP8IfRHcUjJVrgRHpg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:21 |
 | 206 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 233 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 |
 | 234 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 |
 | 235 | [Keep Your Love Locked](https://open.spotify.com/track/1v5veLMvnLZ8mpjIn1gUZv) | [Paul Petersen](https://open.spotify.com/artist/7fUZIscY5nNdeSdetfeBNC) | [All the Hits and More](https://open.spotify.com/album/4cUnVhereIi8xjUYejh7Qm) | 2:11 |
-| 236 | [In My Baby's Eyes](https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:09 |
-| 237 | [I Couldn't Say No](https://open.spotify.com/track/5XjAnwPn0pAga4vnRA1fez) | [Connie Stevens](https://open.spotify.com/artist/5dg9jB2sji4asJtjihC9AE) | [Essential Masters](https://open.spotify.com/album/4GvvQNXXMuR5I56ga19Yn4) | 2:35 |
+| 236 | [I Couldn't Say No](https://open.spotify.com/track/5XjAnwPn0pAga4vnRA1fez) | [Connie Stevens](https://open.spotify.com/artist/5dg9jB2sji4asJtjihC9AE) | [Essential Masters](https://open.spotify.com/album/4GvvQNXXMuR5I56ga19Yn4) | 2:35 |
+| 237 | [In My Baby's Eyes](https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:09 |
 | 238 | [Holla At Your Boy](https://open.spotify.com/track/7koTyURobzyxyIEQ3gOW4o) | [Drag\-On](https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH) | [Hell And Back](https://open.spotify.com/album/3EZTfR8RXwAd5n5cryLVd5) | 3:13 |
 | 239 | [My Golden Chance](https://open.spotify.com/track/57rmNbG3bPXZJzUZwPks2Z) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 1:51 |
 | 240 | [Soulful Times](https://open.spotify.com/track/1xexSIykM6EN38RVMbnoIN) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [Rides On](https://open.spotify.com/album/5xOeUNUjdfLd6FcqkeoN6D) | 4:56 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab4A/gAAAABZSNinmR/ABGo8kdBToJ+X`
+Snapshot ID: `Ab4GxgAAAAC5XGx49V0T90ml3PD8H746`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Tame Impala, Tyler, The Creator,  OneRepublic, Daniel Caesar, Tyla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,799 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,791 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [ONE THING](https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ONE THING](https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V) | 3:37 |
 | 70 | [Run \(feat\. Gottz & MUD\)](https://open.spotify.com/track/3li8S07E2MCMXzPWnPwuDI) | [Gottz ＆ MUD](https://open.spotify.com/artist/3Ieu7FyYG3wYUb4NB2abjg), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Run \(feat\. Gottz & MUD\)](https://open.spotify.com/album/4sTy8jrVBAhPtGcy403KAV) | 3:00 |
 | 71 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
-| 72 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 72 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 73 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 | 74 | [Make Friends](https://open.spotify.com/track/3BbDzepbz5e061ysg6brbk) | [Tres Leches](https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd), [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/5LbSB6lG84SOmJ6i1yez82) | 5:51 |
 | 75 | [Under the Sun](https://open.spotify.com/track/72klJmmlwJkI8S03B0pU7J) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Under the Sun](https://open.spotify.com/album/2ijfVXrS8uuI9xLm4ByQH3) | 3:17 |

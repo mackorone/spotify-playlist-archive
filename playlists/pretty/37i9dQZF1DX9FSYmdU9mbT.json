@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1427081,
+  "num_followers": 1427298,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 155960,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
       "added_at": "2025-05-30 05:19:13",

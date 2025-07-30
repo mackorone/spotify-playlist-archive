@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Willa Owen
 
-906 songs - 2 day 0 hr 31 min
+907 songs - 2 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-09-01 | 2024-08-17 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
 | [Come On Over](https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Come On Over](https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l) | 2:41 | 2022-01-14 | 2022-02-12 |
+| [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 | 2025-07-25 |  |
 | [Coming Of Age](https://open.spotify.com/track/2pO0ctmVG6RYfmLbs7CakL) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [Coming Of Age](https://open.spotify.com/album/0xzKZMdMinGDJ9m2riIuyG) | 3:34 | 2022-01-14 | 2022-03-12 |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-06-06 |  |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 | 2023-04-09 |

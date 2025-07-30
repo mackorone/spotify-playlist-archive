@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Estelares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,853 likes - 106 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,837 likes - 106 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 105 | [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 |
 | 106 | [NO QUIEREN MÁS MI ROCANROL](https://open.spotify.com/track/15SjDtzBpyj6NxS4TY9CAT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:26 |
 
-Snapshot ID: `aHm4ygAAAAAQrHi2Dq5ae5IA4Q+uiIrN`
+Snapshot ID: `AAAAAEjUOYoqUiDf+cIwr4DDbBxjnk4I`

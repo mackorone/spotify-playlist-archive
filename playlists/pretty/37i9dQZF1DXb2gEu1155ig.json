@@ -1,13 +1,45 @@
 {
-  "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 107799,
-  "original_name": "Acapulco en la Azotea",
+  "description": "Cumbias tropicales para ponerse de buen humor \ud83c\udf34\ud83e\udd73",
+  "num_followers": 107869,
+  "original_name": "Cumbias Playeras \u2600\ufe0f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzJXxQAAAACCTHrDmqoWBPnbhyhaCOht",
+  "snapshot_id": "aIjtSwAAAADlI6+pA6qXODMcS7R6w/0L",
   "tracks": [
+    {
+      "added_at": "2025-07-29 15:48:26",
+      "album": {
+        "name": "Vino Y Ron",
+        "url": "https://open.spotify.com/album/4aWPLuhsMT5VvcvYKNYbI9"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Ag\u00fcita De Coco",
+      "url": "https://open.spotify.com/track/4vczCDNv7LofIRbxFYMiS9"
+    },
+    {
+      "added_at": "2024-11-11 19:15:17",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
+    },
     {
       "added_at": "2024-11-11 19:15:17",
       "album": {
@@ -1971,22 +2003,6 @@
     {
       "added_at": "2024-11-11 19:15:17",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
-    },
-    {
-      "added_at": "2024-11-11 19:15:17",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -2359,26 +2375,6 @@
       "duration_ms": 147840,
       "name": "Mambo Universitario",
       "url": "https://open.spotify.com/track/32xH84FLeD1lEuePV242FO"
-    },
-    {
-      "added_at": "2024-11-11 19:15:17",
-      "album": {
-        "name": "Aguita de Coco",
-        "url": "https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
-        },
-        {
-          "name": "Magia San juanera",
-          "url": "https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Aguita de Coco",
-      "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
     },
     {
       "added_at": "2024-11-11 19:15:17",
@@ -2837,6 +2833,6 @@
       "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
     }
   ],
-  "unique_name": "Acapulco en la Azotea",
+  "unique_name": "Cumbias Playeras \u2600\ufe0f",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb2gEu1155ig"
 }

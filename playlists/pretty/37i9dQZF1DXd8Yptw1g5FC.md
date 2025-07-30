@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zakkum ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,094 likes - 142 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,093 likes - 142 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 141 | [Dolunay](https://open.spotify.com/track/4TOFi7Oo6nmkum520fvOyt) | [İtaat](https://open.spotify.com/artist/2FkbFu8Fw20Y0yRtoorMFY) | [Dolunay](https://open.spotify.com/album/2Ey8SdhtSrp7DzS6RbRla5) | 2:06 |
 | 142 | [Gel Gel](https://open.spotify.com/track/0ToSaNsf240ZCQ0Q8gre1R) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Gel Gel](https://open.spotify.com/album/0jK49PUTT6MymztcBdLVm7) | 2:31 |
 
-Snapshot ID: `aIKe5wAAAAAK0OhO8ke9zX8S/DN7GbF4`
+Snapshot ID: `aIiZlgAAAAD9iLFyBKrDzwBlpHZol0pw`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,073 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,078 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 |
 | 2 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
 | 3 | [Als de liefde niet bestond](https://open.spotify.com/track/2BsaPniwYE4dduBgECdsXR) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Als de liefde niet bestond](https://open.spotify.com/album/3cbKomLGWoW2LxfyzDNc6H) | 3:02 |
-| 4 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [NOOR](https://open.spotify.com/artist/2AmZWPayNfJR2LjnjgQYIQ) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
+| 4 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
 | 5 | [Geef Mij Nog Deze Nacht \- Ballad Versie](https://open.spotify.com/track/1VaFtGkRffdvluTUSNcUiQ) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht \(Ballad Versie\)](https://open.spotify.com/album/7qA5vyrbaQcvZVo0KaBIXG) | 4:20 |
 | 6 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
 | 7 | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/5OiG2BpIKuSxbJ53hznAXO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/7JNbi2drC5WH6HvINEqboL) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 |
 | 70 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 
-Snapshot ID: `aHlyjgAAAABZg7yhG+ynp0fqSX8I2gwu`
+Snapshot ID: `AAAAAIJLlFugjJ3v8ebSx8Pmpjl0/b/T`

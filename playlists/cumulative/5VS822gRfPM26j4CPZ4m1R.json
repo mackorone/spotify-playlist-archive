@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Black Water",
+        "url": "https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162671,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8"
       },

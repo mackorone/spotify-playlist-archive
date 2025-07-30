@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15580,
+  "num_followers": 15577,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAtxOo2HUxFy5lboV+wNInS",
+  "snapshot_id": "aIa9gAAAAABRaG/3/ib51bnBarz4i0/C",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 198178,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eva (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 198178,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
     },
     {
       "added_at": null,

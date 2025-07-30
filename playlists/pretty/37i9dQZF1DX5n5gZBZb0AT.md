@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,463 likes - 40 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,704 likes - 40 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 23 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 24 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 25 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
-| 26 | [GANO \- Slowed](https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk) | [VUKEINE](https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew) | [GANO](https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II) | 1:17 |
-| 27 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
+| 26 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
+| 27 | [GANO \- Slowed](https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk) | [VUKEINE](https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew) | [GANO](https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II) | 1:17 |
 | 28 | [DERNIERE DANCE FUNK](https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [Sachin SSS](https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [MC KRAKEN](https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq) | [DERNIERE DANCE FUNK](https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT) | 1:31 |
 | 29 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 |
 | 30 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |

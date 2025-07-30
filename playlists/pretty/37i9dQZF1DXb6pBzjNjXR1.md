@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=RvirRjnkTbmHpN0xKXsVAA">Vanco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,154 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,176 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 15 | [Sinking \- 40D Remix](https://open.spotify.com/track/2liB2XGoCBD0rMVn0YwNlz) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x) | [Sinking \(40D Remix\)](https://open.spotify.com/album/2dtlWaM5ecPVnntvmwrhUy) | 6:40 |
 | 16 | [Olova](https://open.spotify.com/track/3ICb3TSdmuUw6RVMolklD4) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [Oh, Hello EP](https://open.spotify.com/album/4py9J4QuDxDuc2IvWW5KTP) | 4:53 |
 | 17 | [Wicked Evolution](https://open.spotify.com/track/6zW5BUp5cJp8gr1iDGT3Sj) | [Duncan R32](https://open.spotify.com/artist/52X5UIn4TQYFTDbcwpZYCN) | [Wicked Evolution](https://open.spotify.com/album/0j81Y53HKVeFLkBKijLCg4) | 6:46 |
-| 18 | [Igubu Letyala](https://open.spotify.com/track/4obyCg2yNqqAGKuirvUFr9) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Zeegito SA](https://open.spotify.com/artist/0uC7WzxkF1XwSVubVrizC0) | [Igubu Letyala](https://open.spotify.com/album/2ZRWo2kAAJZsKtFPa9kSv3) | 8:54 |
+| 18 | [Igubu Letyala](https://open.spotify.com/track/4obyCg2yNqqAGKuirvUFr9) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Veegito SA](https://open.spotify.com/artist/7iBtioFqoqvdBeYdtEhmng) | [Igubu Letyala](https://open.spotify.com/album/2ZRWo2kAAJZsKtFPa9kSv3) | 8:54 |
 | 19 | [Justice \(You're the one\) \- Sean Rocket's Extended Mix](https://open.spotify.com/track/43WytbVJjoSZZl9sb36kfZ) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Justice \(You're the one\)](https://open.spotify.com/album/5aKaUWsPW9KFNvtXFzQAKP) | 7:01 |
 | 20 | [SHO!!](https://open.spotify.com/track/5OPONV5C8sgv8Sh49gbXIP) | [NAAK](https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC) | [SHO!](https://open.spotify.com/album/7C9dcKJ1oH2flHLb0jWiCk) | 6:22 |
 | 21 | [016 Road](https://open.spotify.com/track/4DFjJ8hZEKyDJYAbSe9bkL) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [In The Den](https://open.spotify.com/album/2sGwO85qThVJZtR18mIdvZ) | 7:42 |

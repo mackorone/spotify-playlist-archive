@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 388240,
+  "num_followers": 388239,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "La Radio",
+      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con Fuerza!",
         "url": "https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 283200,
       "name": "Si Tu Me Dices",
       "url": "https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "La Radio",
-      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Llego Tu Marido",
-      "url": "https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 277866,
       "name": "Como Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Llego Tu Marido",
+      "url": "https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "La Gozadera",
-        "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
-      },
-      "artists": [
-        {
-          "name": "Angelito Villalona",
-          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Cuando Me Enamora",
-      "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 278760,
       "name": "Medley",
       "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "La Gozadera",
+        "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
+      },
+      "artists": [
+        {
+          "name": "Angelito Villalona",
+          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Cuando Me Enamora",
+      "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "20 A\u00f1os Despues Volume 2",
+        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 298360,
+      "name": "Colegiala (La)",
+      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Todos Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 291240,
       "name": "Feliciana",
       "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "20 A\u00f1os Despues Volume 2",
-        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 298360,
-      "name": "Colegiala (La)",
-      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "El Diente de Oro",
-      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Edici\u00f3n Limitada",
         "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 266493,
       "name": "Melina",
       "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "El Diente de Oro",
+      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Los Toros Band... \"Pa' La Calle\"",
+        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 242613,
       "name": "Con las Manos en la Masa",
       "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Raices",
-        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "El Negrito Del Batey",
-      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "El Negrito Del Batey",
+      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 229920,
       "name": "Que Es Lo Que Tienes",
       "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Los Toros Band... \"Pa' La Calle\"",
-        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1291,38 +1291,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "La Fiesta Esta Buena",
-        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 247379,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "Ta' Encendio",
-      "url": "https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Exitos De Los Cantantes De Ramon Orlando",
         "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
       },
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "La Fiesta Esta Buena",
+        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 247379,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Raices",
         "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 379053,
       "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
       "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Ta' Encendio",
+      "url": "https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Caciquiando",
-        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Yo Soy Asi",
-      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Coleccion Salsa Discotheque - Vol. 1",
         "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 266400,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Caciquiando",
+        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Yo Soy Asi",
+      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "La Cartita",
-        "url": "https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 291735,
-      "name": "Soy Dominicano",
-      "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "11 Exitos",
         "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 291994,
       "name": "Cal y Arena",
       "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "La Cartita",
+        "url": "https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 291735,
+      "name": "Soy Dominicano",
+      "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
     },
     {
       "added_at": "2024-06-28 21:55:14",

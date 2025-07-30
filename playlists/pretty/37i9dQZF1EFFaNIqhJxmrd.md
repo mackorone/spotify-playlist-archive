@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 103 | [Patos \(feat\. Conakry & FNY\)](https://open.spotify.com/track/0Snq5llMCUPQWdQtY75Qv9) | [Finess](https://open.spotify.com/artist/4PcgIWHeqqLmAi7kCGiNet), [Conakry](https://open.spotify.com/artist/0tp6dtAt6YCkVnxhrTS9S2), [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [En dag kommer vi skina \- EP](https://open.spotify.com/album/2oWzqPK3soR5ARHBLoXBfh) | 3:48 |
 | 104 | [Forever Yours](https://open.spotify.com/track/21lRcbCWJSbXNy5MMuQgWd) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 2:52 |
 | 105 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 |
-| 106 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
-| 107 | [King Arthur](https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [King Arthur](https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U) | 3:24 |
+| 106 | [King Arthur](https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [King Arthur](https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U) | 3:24 |
+| 107 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 108 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Ab4A/gAAAACWtH+fC3ud9hMWEvK2cNMa`
+Snapshot ID: `Ab4GlAAAAAAxkEoRxvaFjPBTYp678JHs`

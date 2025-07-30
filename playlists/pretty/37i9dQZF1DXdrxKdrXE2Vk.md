@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: JWLKRS Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,775 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,883 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 39 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 40 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
 | 41 | [He's My God](https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9), [Joy Anna](https://open.spotify.com/artist/3DMwqA8h2EJy4vmjEmQDdV) | [He's My God](https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4) | 5:25 |
-| 42 | [Fall \- Live At VOUS, Miami, FL, 2025](https://open.spotify.com/track/4l5Le38sU3RwaJmlGWaBZ1) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Fall On My Knees Again](https://open.spotify.com/album/2ZPahCuTGqHODX7Xl3GXHv) | 8:49 |
+| 42 | [Fall \- Live](https://open.spotify.com/track/4l5Le38sU3RwaJmlGWaBZ1) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Fall On My Knees Again](https://open.spotify.com/album/2ZPahCuTGqHODX7Xl3GXHv) | 8:49 |
 | 43 | [Most Holy \- Live](https://open.spotify.com/track/5GQp9y0WMMFEeHS9ChXfBe) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Most Holy \(Live\)](https://open.spotify.com/album/4G1HJAwYALbyfj7s3KQueP) | 7:27 |
 | 44 | [Yahweh \(Holy\) \- Live](https://open.spotify.com/track/438WdILPegGA1kV2W0QFVc) | [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [Yahweh \(Holy\) \[Live\]](https://open.spotify.com/album/6HWqO8IFSgR7T8H7SEIMeV) | 9:00 |
 | 45 | [Song To The Lamb \- Live](https://open.spotify.com/track/06WlwvDwIGg0BRtnnj4G0K) | [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Song To The Lamb \(Live\)](https://open.spotify.com/album/6Y4yVQr840VjdiDHTupBMG) | 8:18 |

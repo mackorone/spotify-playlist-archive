@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 39470,
+  "num_followers": 39487,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAABRQoEYB/t4KYj+ZRs7tKgi",
+  "snapshot_id": "aIa9gAAAAABcPdrHNmfRLjJjAxh7EK4Z",
   "tracks": [
     {
       "added_at": null,
@@ -127,30 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El R2",
-        "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152351,
-      "name": "EL R2",
-      "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 267300,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El R2",
+        "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152351,
+      "name": "EL R2",
+      "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Easykid en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,457 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,473 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 43 | [H.D.L.C.](https://open.spotify.com/track/41KABWL72p7TNlS91wZIne) | [D.R.E.A.D](https://open.spotify.com/artist/1omDHY5qIqriMoJH2C9goA), [Monde](https://open.spotify.com/artist/1Z3eBkE7pZsOT3qHhU37xr) | [H.D.L.C.](https://open.spotify.com/album/63zWf4LuY5SgU0QelGwig9) | 2:31 |
 | 44 | [TIEMPO](https://open.spotify.com/track/5QTfmxUiFKYH6arotvj789) | [Rxven](https://open.spotify.com/artist/6Trdbxtu1FvtzRXgs6rqed), [Nath4n!](https://open.spotify.com/artist/5tPV00QhdnywroxyvgM6QG), [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [TIEMPO](https://open.spotify.com/album/6BxTNHBjiQdeMzIoKdArp2) | 3:46 |
 | 45 | [Nunca Fuiste Mia](https://open.spotify.com/track/69WNNwYlPflS3T09yq7kHW) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Nunca Fuiste Mia](https://open.spotify.com/album/1z9Sw8vcOsN4YCHHjlAeuf) | 1:53 |
-| 46 | [Sad Dead](https://open.spotify.com/track/4b9frNsk0k9NMgtYSPnZLq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Hbrok3n](https://open.spotify.com/artist/1QGX5YJ9VvTBlFPXuhJSVp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sad Dead](https://open.spotify.com/album/4vQOgbpzxmZOfYJnk0l6MF) | 3:26 |
+| 46 | [Sad Dead](https://open.spotify.com/track/4b9frNsk0k9NMgtYSPnZLq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Hbrok3n](https://open.spotify.com/artist/1QGX5YJ9VvTBlFPXuhJSVp), [Speed Radio](https://open.spotify.com/artist/2H4xD3uWZ9dZbmaMW9hr4C) | [Sad Dead](https://open.spotify.com/album/4vQOgbpzxmZOfYJnk0l6MF) | 3:26 |
 | 47 | [AZUL 2.0](https://open.spotify.com/track/2E71Jn51AgidmfKy6B18nQ) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [kitsuhara](https://open.spotify.com/artist/7ojhyy7OrxPbccFXDOF3yX) | [2008!!! \(˃̣̣̥ᴖ˂̣̣̥\)](https://open.spotify.com/album/2RQDmzxv1XDLXpVpfxMU1c) | 1:57 |
 | 48 | [red eyes](https://open.spotify.com/track/1rZwZFYJ368YbP56r0jTWV) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [red eyes](https://open.spotify.com/album/4HAR5r080n6dJzQ7kLtVSw) | 1:58 |
 | 49 | [Nei](https://open.spotify.com/track/0eAY5c6Euq66UNU0WyCQGq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2) | [Spiritus](https://open.spotify.com/album/3okGCZIcJG1X9NLOu6VMlJ) | 2:36 |

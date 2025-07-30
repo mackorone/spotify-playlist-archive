@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125144,
+  "num_followers": 125146,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUZysvUMT4KdzOWfZFzKSwhwhkJgc5",
+  "snapshot_id": "AAAUacGGhma5wbutuhv8wpiLg6k2Um+I",
   "tracks": [
+    {
+      "added_at": "2025-07-29 12:29:47",
+      "album": {
+        "name": "Loveblind",
+        "url": "https://open.spotify.com/album/6jmaLEgCLLXdMFY475jR0e"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Loveblind",
+      "url": "https://open.spotify.com/track/4017ykB5rb4pyC1sJPCgoZ"
+    },
     {
       "added_at": "2025-07-28 16:34:41",
       "album": {
@@ -1143,46 +1159,6 @@
       "duration_ms": 159655,
       "name": "Run It",
       "url": "https://open.spotify.com/track/3nUcpKt844URh1Y3KEtxB6"
-    },
-    {
-      "added_at": "2025-05-06 14:53:21",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a"
-    },
-    {
-      "added_at": "2025-05-05 14:40:51",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/4SUn5yPsflAUc37H0TxVxQ"
-      },
-      "artists": [
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/36V2mq0XX524f9n4pKbr4b"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

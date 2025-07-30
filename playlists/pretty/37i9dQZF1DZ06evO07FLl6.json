@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244449,
+  "num_followers": 244451,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAA+HGXd//gmfbMl9FJJYDoF",
+  "snapshot_id": "aIa9gAAAAAB8MQ1iBXGLjIDCU0XUyVKr",
   "tracks": [
     {
       "added_at": null,
@@ -51,34 +51,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Walkin' (Remastered 2025)",
+        "url": "https://open.spotify.com/album/646s3T4GmTP5rfamjWxHYo"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 355333,
-      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+      "duration_ms": 285465,
+      "name": "Solar - Remastered 2025",
+      "url": "https://open.spotify.com/track/5t6nLSgJM6fxYHX8tqNCTz"
     },
     {
       "added_at": null,
@@ -143,18 +127,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkin' (Remastered 2025)",
-        "url": "https://open.spotify.com/album/646s3T4GmTP5rfamjWxHYo"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 285465,
-      "name": "Solar - Remastered 2025",
-      "url": "https://open.spotify.com/track/5t6nLSgJM6fxYHX8tqNCTz"
+      "duration_ms": 355333,
+      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZU & Co.",
-        "url": "https://open.spotify.com/album/7KLdrRb8E0Y8ueALiGuWaY"
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
       "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 344506,
-      "name": "Dune Mosse",
-      "url": "https://open.spotify.com/track/4GL0qsiLoCN2rV1SlZh6oW"
+      "duration_ms": 253933,
+      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
+      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
     },
     {
       "added_at": null,
@@ -955,6 +951,26 @@
       "duration_ms": 180693,
       "name": "Blue Room - Take 2",
       "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZU & Co.",
+        "url": "https://open.spotify.com/album/7KLdrRb8E0Y8ueALiGuWaY"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 344506,
+      "name": "Dune Mosse",
+      "url": "https://open.spotify.com/track/4GL0qsiLoCN2rV1SlZh6oW"
     },
     {
       "added_at": null,
@@ -979,22 +995,6 @@
       "duration_ms": 245335,
       "name": "Get On - Sentient Version",
       "url": "https://open.spotify.com/track/2CFOwoetNMZ83IN8oJIatO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
-      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
     },
     {
       "added_at": null,

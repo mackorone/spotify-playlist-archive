@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 352286,
+  "num_followers": 352360,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 300853,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188480,
       "name": "Fue Un Placer Conocerte",
       "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 300853,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -963,22 +963,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Non-Stop: Mexico to Jamaica",
-        "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
+        "name": "Peerless 80 Aniversario - 24 Exitos",
+        "url": "https://open.spotify.com/album/5NetKEnPRXzPzj9J7evLpK"
       },
       "artists": [
         {
-          "name": "Ozomatli",
-          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
         }
       ],
-      "duration_ms": 189666,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
+      "duration_ms": 205985,
+      "name": "Yo no nac\u00ed para amar",
+      "url": "https://open.spotify.com/track/51fiVIBxLbXLnT9hPg8UBp"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos",
-        "url": "https://open.spotify.com/album/5NetKEnPRXzPzj9J7evLpK"
+        "name": "Non-Stop: Mexico to Jamaica",
+        "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
       },
       "artists": [
         {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+          "name": "Ozomatli",
+          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 205985,
-      "name": "Yo no nac\u00ed para amar",
-      "url": "https://open.spotify.com/track/51fiVIBxLbXLnT9hPg8UBp"
+      "duration_ms": 189666,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
     },
     {
       "added_at": "2024-07-02 23:46:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,981 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,986 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 57 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 |
 | 58 | [Growing Smiles！](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles！](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 |
 | 59 | [Baile Apasionado](https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq) | [橘 志狼 \(CV.古畑恵介\)](https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2), [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq), [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM WORLD TRE@SURE 03](https://open.spotify.com/album/2600B026iZThRT78I7Xjlk) | 4:08 |
-| 60 | [PRECIOUS TONE](https://open.spotify.com/track/2EAF1qCzuXw5xMngLOUKka) | [秋山隼人 \(CV.千葉翔也\)](https://open.spotify.com/artist/7vOPzbqRgNcw9PedloTSQE) | [THE IDOLM@STER SideM ORIGIN@L PIECES 09](https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap) | 4:16 |
-| 61 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 60 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 61 | [PRECIOUS TONE](https://open.spotify.com/track/2EAF1qCzuXw5xMngLOUKka) | [秋山隼人 \(CV.千葉翔也\)](https://open.spotify.com/artist/7vOPzbqRgNcw9PedloTSQE) | [THE IDOLM@STER SideM ORIGIN@L PIECES 09](https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap) | 4:16 |
 | 62 | [Eternal Fantasia](https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:36 |
 | 63 | [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 |
 | 64 | [VICTORY BELIEVER](https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:31 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 71 | [和風堂々！～WAnderful NIPPON!～](https://open.spotify.com/track/7DJEjfqCCmgZahE0kwCn6n) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM ST@RTING LINE\-07 彩](https://open.spotify.com/album/0s7spotLMmTvQPSl4IykMd) | 4:33 |
 | 72 | [運命光年](https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:16 |
 | 73 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 |
-| 74 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 |
-| 75 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
+| 74 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
+| 75 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 |
 
 Snapshot ID: `Z4aJSQAAAABFSGpjzAu8gKS/5C1mId8J`

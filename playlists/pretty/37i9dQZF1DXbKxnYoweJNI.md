@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 原子邦妮 \(Astro Bunny\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,231 likes - 139 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,248 likes - 139 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 11 | [把我寄回六月南崁](https://open.spotify.com/track/34KmCcjHMhAiZqigsSonOH) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [把我寄回六月南崁](https://open.spotify.com/album/3qhdzuV4F6FY9YEgTOupr0) | 2:47 |
 | 12 | [你就像陽光 Like Sunshine](https://open.spotify.com/track/6R9mB26hCbX8rhiNv8bRIo) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [你就像陽光 Like Sunshine](https://open.spotify.com/album/6YikJDUZdUsSbPzK9qLgmO) | 3:16 |
 | 13 | [關於愛情](https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [ALIVE](https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A) | 4:55 |
-| 14 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 14 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 15 | [末日擁抱](https://open.spotify.com/track/3t8zDLQg4orQ7FvYSHHbs8) | [Xinz](https://open.spotify.com/artist/7ECCgxHrOUNqurrG8q3CJA) | [bye.](https://open.spotify.com/album/0FLBlLDe1w3BuzZIpVCUXZ) | 2:55 |
 | 16 | [這個夏季最後一天](https://open.spotify.com/track/4IB6JeKTcnge4EvHnNA2Pd) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [這個夏季最後一天](https://open.spotify.com/album/1QtSZNRIMxmDtAp1JdN7f8) | 4:56 |
 | 17 | [Miffy](https://open.spotify.com/track/13bLrxjbIxB9chHHnBnEMo) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Miffy](https://open.spotify.com/album/4ESQEaiJ3ftdnde7E5oAkO) | 3:36 |

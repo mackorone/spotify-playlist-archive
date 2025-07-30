@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 229714,
       "name": "Arise",
       "url": "https://open.spotify.com/track/36V2mq0XX524f9n4pKbr4b"
@@ -11255,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Loveblind",
+        "url": "https://open.spotify.com/album/6jmaLEgCLLXdMFY475jR0e"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Loveblind",
+      "url": "https://open.spotify.com/track/4017ykB5rb4pyC1sJPCgoZ"
+    },
+    {
+      "album": {
         "name": "Loving Me",
         "url": "https://open.spotify.com/album/3B2QQ2MUeavHTibz5ubd7I"
       },
@@ -12314,7 +12332,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 202250,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a"

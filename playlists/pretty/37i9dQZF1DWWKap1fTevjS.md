@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,117 likes - 255 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,243 likes - 255 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 9 | [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 |
 | 10 | [Panacea](https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Panacea](https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG) | 2:51 |
 | 11 | [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 |
-| 12 | [Intricate](https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC) | [Garcíia](https://open.spotify.com/artist/5PULjaVP5yCS09RlG77wgf) | [Intricate](https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN) | 2:56 |
+| 12 | [Intricate](https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Intricate](https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN) | 2:56 |
 | 13 | [Cosmic Cascade](https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Cosmic Cascade](https://open.spotify.com/album/7KuuTbkhUXUNSgU0JY9OXg) | 2:53 |
 | 14 | [Remembrance](https://open.spotify.com/track/7o5vJPnyA74cuM60JQ8NQS) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Remembrance](https://open.spotify.com/album/5Rhc4DOgS45jzFpd74v7pR) | 2:48 |
 | 15 | [Mane](https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Mane](https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv) | 2:49 |

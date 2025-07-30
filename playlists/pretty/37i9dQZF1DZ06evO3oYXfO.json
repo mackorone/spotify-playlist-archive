@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 479803,
+  "num_followers": 480557,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACwnq+OFeRqDSkKKBA9Fli0",
+  "snapshot_id": "aIa9gAAAAABepXrsn4Aone5eRMuyb3qV",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 417840,
-      "name": "Heaven and Hell",
-      "url": "https://open.spotify.com/track/5qxN63QA4Hk1zgdLCsZFE2"
+      "duration_ms": 344600,
+      "name": "Sabbath Bloody Sabbath (2009 Remaster)",
+      "url": "https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabbath Bloody Sabbath",
-        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 344600,
-      "name": "Sabbath Bloody Sabbath (2009 Remaster)",
-      "url": "https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5"
+      "duration_ms": 417840,
+      "name": "Heaven and Hell",
+      "url": "https://open.spotify.com/track/5qxN63QA4Hk1zgdLCsZFE2"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 389306,
-      "name": "Symptom of the Universe (2009 Remaster)",
-      "url": "https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabbath Bloody Sabbath",
         "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 338640,
       "name": "Killing Yourself to Live (2009 Remaster)",
       "url": "https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 389306,
+      "name": "Symptom of the Universe (2009 Remaster)",
+      "url": "https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Hole in the Sky (2009 Remaster)",
-      "url": "https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190680,
       "name": "Tomorrow's Dream - 2009 Remaster",
       "url": "https://open.spotify.com/track/7gygnGtI9S3TE9Z5Yrqhig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Hole in the Sky (2009 Remaster)",
+      "url": "https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabbath Bloody Sabbath",
-        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Looking for Today (2009 Remaster)",
-      "url": "https://open.spotify.com/track/5AZQ7ekBzg4WqAcjOF9srW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 479640,
       "name": "Wheels of Confusion - 2009 Remaster",
       "url": "https://open.spotify.com/track/61zDwmHFXYYNjKTTpT5GOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Looking for Today (2009 Remaster)",
+      "url": "https://open.spotify.com/track/5AZQ7ekBzg4WqAcjOF9srW"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabbath Bloody Sabbath",
-        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "Fluff (2009 Remaster)",
-      "url": "https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231306,
       "name": "Cornucopia - 2009 Remaster",
       "url": "https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "Fluff (2009 Remaster)",
+      "url": "https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mob Rules",
-        "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "The Mob Rules",
-      "url": "https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventh Star",
-        "url": "https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw"
+        "name": "Mob Rules",
+        "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 269453,
-      "name": "No Stranger to Love (2009 Remaster)",
-      "url": "https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE"
+      "duration_ms": 192493,
+      "name": "The Mob Rules",
+      "url": "https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seventh Star",
+        "url": "https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "No Stranger to Love (2009 Remaster)",
+      "url": "https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dehumanizer",
         "url": "https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sabbath (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 853398,
-      "name": "A Bit of Finger / Sleeping Village / Warning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabotage",
         "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 581320,
       "name": "Megalomania (2009 Remaster)",
       "url": "https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 853398,
+      "name": "A Bit of Finger / Sleeping Village / Warning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY"
     }
   ],
   "unique_name": "This Is Black Sabbath",

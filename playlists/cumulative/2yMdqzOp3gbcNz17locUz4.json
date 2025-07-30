@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 235828,
       "name": "down in flames",
       "url": "https://open.spotify.com/track/1jGbLS60uy5C4aehoXNWRd"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 236913,
       "name": "down in flames",
       "url": "https://open.spotify.com/track/2Z9wlzmGctkesM88z4m72L"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 118968,
       "name": "I WANNA SWEAR!",
       "url": "https://open.spotify.com/track/6fBpNrct4YhXT8JpTlIhjv"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 225500,
       "name": "Noise - Memory Pool",
       "url": "https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 328052,
       "name": "The Catastrophe (Good Luck With That, Man)",
       "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 328052,
       "name": "The Catastrophe (Good Luck With That, Man)",
       "url": "https://open.spotify.com/track/2HKHccmnwpsx0FDGiehYoi"
@@ -3968,6 +3968,24 @@
       "duration_ms": 136874,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/6IXKp92Lok2YXsCrmM8Qq4"
+    },
+    {
+      "album": {
+        "name": "untitled animal song",
+        "url": "https://open.spotify.com/album/5dSYrirL3uTk48oqpItXHX"
+      },
+      "artists": [
+        {
+          "name": "fish eat cat",
+          "url": "https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254682,
+      "name": "untitled animal song",
+      "url": "https://open.spotify.com/track/0pvP8ZSzLp6QeqAtPpObnZ"
     },
     {
       "album": {

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG?si=A3b7I7yBTzS4we7T0n6K6Q">Afamefuna</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm?si=TmK6q7kcR\_GB05pJSQLVtQ">Modest Chabari</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,906 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,910 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
-| 2 | [Nyambura](https://open.spotify.com/track/1xjHdu6gNnRg2uYUYpTPur) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Nyambura](https://open.spotify.com/album/0YPGhp4F8ShifkQKVqAtVs) | 4:10 |
-| 3 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
-| 4 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 |
-| 5 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 |
+| 1 | [Nyambura](https://open.spotify.com/track/1xjHdu6gNnRg2uYUYpTPur) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Nyambura](https://open.spotify.com/album/0YPGhp4F8ShifkQKVqAtVs) | 4:10 |
+| 2 | [Agenda](https://open.spotify.com/track/6GRVM5wxyW45UMpgreSWW6) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Agenda](https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1) | 2:16 |
+| 3 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 |
+| 4 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
+| 5 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 6 | [tears water my garden](https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7) | [nostalgiclegend](https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx), [OrahDae](https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7) | [tears water my garden](https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6) | 3:03 |
 | 7 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |
 | 8 | [Safe](https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Safe](https://open.spotify.com/album/41y0S7UNgrEpuMeCOavaR0) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 69 | [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 |
 | 70 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
 
-Snapshot ID: `aIAX+AAAAAChRbRC/SjhcAsvzbfWUE1y`
+Snapshot ID: `aIlSkwAAAABwKGer3HVTJomiOsaT1e52`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Giift
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,352 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,350 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Another Life](https://open.spotify.com/track/2cWbWkRjDuDX3VhZCN50Do) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Another Life](https://open.spotify.com/album/1uOknY2ro4BCx9enXudDiH) | 4:34 |
 | 100 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
 
-Snapshot ID: `aIKstgAAAAB1sN2sAzN4zTazrUq+U08v`
+Snapshot ID: `aIlEegAAAACbT9UaEj9V+sD3+iLCMYxk`

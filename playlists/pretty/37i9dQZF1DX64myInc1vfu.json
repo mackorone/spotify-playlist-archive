@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Escarlata",
-  "num_followers": 98516,
+  "num_followers": 98548,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "Gualero REFF12.31",
         "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
       },
@@ -923,22 +943,18 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "tu amor me da paz",
-        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
       },
       "artists": [
         {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 195413,
-      "name": "tu amor me da paz",
-      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+      "duration_ms": 183042,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -955,22 +971,6 @@
       "duration_ms": 245581,
       "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
       "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 183042,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
+        "name": "Perfidia",
+        "url": "https://open.spotify.com/album/101igY1HyXs27avcElHKzj"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
+      "duration_ms": 211967,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n"
     }
   ],
   "unique_name": "boleritos",

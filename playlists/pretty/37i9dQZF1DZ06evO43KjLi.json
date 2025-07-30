@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22398,
+  "num_followers": 22395,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAADaPQrcwyoMATC8r/Cgf0Xz",
+  "snapshot_id": "aIa9gAAAAAC1gt8rTaZFuhezGPuvoUyG",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Rayas",
-        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
+        "name": "Noche de Desmadre",
+        "url": "https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 184168,
-      "name": "Tres Rayas",
-      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
+      "duration_ms": 159738,
+      "name": "Noche de Desmadre",
+      "url": "https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche de Desmadre",
-        "url": "https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu"
+        "name": "Tres Rayas",
+        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 159738,
-      "name": "Noche de Desmadre",
-      "url": "https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG"
+      "duration_ms": 184168,
+      "name": "Tres Rayas",
+      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "Yo Se",
-      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 203104,
       "name": "Zumbando Terrenos",
       "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Yo Se",
+      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 154351,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 190000,
       "name": "Mi Reyna",
       "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 154351,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 141906,
-      "name": "Seduceme",
-      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 155588,
       "name": "454",
       "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 141906,
+      "name": "Seduceme",
+      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 157080,
       "name": "No Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
     },
     {
       "added_at": null,

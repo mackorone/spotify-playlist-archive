@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACfm2xgob+2vOTsaW1NpUSg",
+  "snapshot_id": "aIa9gAAAAACJGil7zMt/DooLYSE7Fxv+",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "down 4 u",
-      "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "call me when ur lonely",
         "url": "https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 159906,
       "name": "call me when ur lonely",
       "url": "https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "down 4 u",
+      "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+      "duration_ms": 197160,
+      "name": "parallel universe",
+      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 152851,
+      "name": "no importa",
+      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "luna de miel",
         "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
       },
@@ -395,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "valentine's day",
         "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 188560,
       "name": "valentine's day",
       "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "parallel universe",
-      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "no importa",
-      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1p\u00e1rate!",
         "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 212937,
-      "name": "saboteo",
-      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203627,
       "name": "voicenote",
       "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 212937,
+      "name": "saboteo",
+      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
     },
     {
       "added_at": null,

@@ -5173,6 +5173,32 @@
     },
     {
       "album": {
+        "name": "Goat Talk",
+        "url": "https://open.spotify.com/album/3WFxCflwHrxxVH3TDmOGBw"
+      },
+      "artists": [
+        {
+          "name": "4mxn",
+          "url": "https://open.spotify.com/artist/4z805gkcbyXZYMLNUdgUlB"
+        },
+        {
+          "name": "Khamano Aala",
+          "url": "https://open.spotify.com/artist/5j5pvwawSWR90vu1RS45Ms"
+        },
+        {
+          "name": "ProdAK",
+          "url": "https://open.spotify.com/artist/1VfkMDuRBnqRXxms09dABd"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157206,
+      "name": "Goat Talk",
+      "url": "https://open.spotify.com/track/3r1Sj5cbnxXHODaSeaOojx"
+    },
+    {
+      "album": {
         "name": "God Father",
         "url": "https://open.spotify.com/album/5a1uJMsluMCKlYQSV3Wdyt"
       },
@@ -6608,7 +6634,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 179400,
       "name": "Jatt Baija",
       "url": "https://open.spotify.com/track/6pJMNJe5cgk5zXR2TwFbhA"
@@ -7454,7 +7480,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-30",
       "duration_ms": 148571,
       "name": "LCBO",
       "url": "https://open.spotify.com/track/1HwPgofuwQkDfMOi47gLHW"
@@ -11770,6 +11796,28 @@
       "duration_ms": 188210,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/4x0h1kkTKrdcCMfNkBXiIU"
+    },
+    {
+      "album": {
+        "name": "Soulbond",
+        "url": "https://open.spotify.com/album/3kNrzg0QduvPkSpQGbVfM4"
+      },
+      "artists": [
+        {
+          "name": "Rubab",
+          "url": "https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO"
+        },
+        {
+          "name": "Kajam Khan",
+          "url": "https://open.spotify.com/artist/2YdQmZjc7DHi3QdGGhZ9eT"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237045,
+      "name": "Soulbond",
+      "url": "https://open.spotify.com/track/3XffT2hfT9fauRCqpJbTNU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Jagger Eaton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,416 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,446 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 39 | [Sorry Not Sorry](https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Sorry Not Sorry](https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W) | 2:16 |
 | 40 | [Tëslas & Rovers](https://open.spotify.com/track/0gFFliMwE4gGpPhYmyC8ci) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:05 |
 
-Snapshot ID: `aCFyjwAAAADBuvsDwmB59pItLfQ9FtE2`
+Snapshot ID: `AAAAADQ4kHPWj/8tj3Zv2scYVYcqGkmu`

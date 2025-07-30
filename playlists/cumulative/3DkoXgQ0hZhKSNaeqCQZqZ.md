@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  New Twitter @FurryRadio
 
-368 songs - 19 hr 33 min
+369 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Gospel for Triumph](https://open.spotify.com/track/0HqHMuxRCndUaivcYjUBqR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 3:23 | 2025-07-06 |  |
 | [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
+| [HEAT](https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HEAT](https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v) | 4:00 | 2025-07-29 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 |  |
 | [HEAVENSENT!](https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 3:16 | 2025-03-10 |  |
 | [High Sky \- Remix](https://open.spotify.com/track/0rziGzCavNZsDVJl222JSb) | [Retri](https://open.spotify.com/artist/47aYUNg7lhL9arG8W8PSBW), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [High Sky \(Remix\)](https://open.spotify.com/album/3WfUus5Fo8QWjV3FwGYOtF) | 4:00 | 2024-02-09 |  |

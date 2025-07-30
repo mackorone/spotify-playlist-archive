@@ -4,7 +4,7 @@
 
 > 
 
-7,548 songs - 19 day 13 hr 2 min
+7,550 songs - 19 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1744,6 +1744,7 @@
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2025-01-15 |  |
 | [Every Season](https://open.spotify.com/track/1ttPzkTSpQUFcEGx8bjerL) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 3:34 | 2025-01-15 |  |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2025-05-17 |  |
+| [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2025-07-30 |  |
 | [Everybody Can’t Go \(with Kyle Banks\)](https://open.spotify.com/track/0aJa0ipSM7jaUVy6H3Yg7L) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 2:24 | 2024-12-10 |  |
 | [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 | 2025-01-03 |  |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2025-01-15 |  |
@@ -5874,6 +5875,7 @@
 | [Thought It Was a Drought](https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 4:25 | 2025-01-03 |  |
 | [Thought It'd Be Easy](https://open.spotify.com/track/53AvjD9b3sEh5fg6Z7GANp) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 1: Disillusion](https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu) | 3:40 | 2025-01-03 |  |
 | [Threatz](https://open.spotify.com/track/4SMx7LkOPBlTC5UfJl3zSe) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Yung Simmie](https://open.spotify.com/artist/44mzV1KxYq8i2S4LHZxQAp), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Threatz](https://open.spotify.com/album/5D37EAY4aXsW2j6lEGc3zL) | 3:10 | 2025-01-03 |  |
+| [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 | 2025-07-30 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:00 | 2024-12-10 |  |
 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 | 2025-01-15 |  |
 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 3:55 | 2025-01-04 |  |
@@ -7451,7 +7453,7 @@
 | [여전히 아름다운지](https://open.spotify.com/track/73e8u4XEcipWIgtHTtPnIN) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Live Toy](https://open.spotify.com/album/0E1XFkQDSqBzFxsBX1uy23) | 4:24 | 2025-01-03 |  |
 | [영원](https://open.spotify.com/track/7Fi8gr20s1CngYWJFUL27m) | [SKY](https://open.spotify.com/artist/0w93fGITMF8hyPxVkh2AU5) | [Final Fantasy \-The Best Is Yet To Come](https://open.spotify.com/album/5iIizqydJAR7YYItY7kSwe) | 4:33 | 2025-01-15 |  |
 | [옛 사랑](https://open.spotify.com/track/4ceWmKRPe3PGXz4ZyEt3le) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 7집 VII](https://open.spotify.com/album/0AtA5WA9wdMmoaIGjPobJ5) | 4:46 | 2025-01-03 |  |
-| [옛사랑](https://open.spotify.com/track/4bIXDxPN1ddswIpU8WstIT) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 1981\-1999](https://open.spotify.com/album/3qz7MykVuwkGdyI24VfDYF) | 4:37 | 2025-01-03 |  |
+| [옛사랑](https://open.spotify.com/track/4bIXDxPN1ddswIpU8WstIT) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 1981\-1999](https://open.spotify.com/album/3qz7MykVuwkGdyI24VfDYF) | 4:37 | 2025-01-03 | 2025-07-30 |
 | [오늘 같은 밤이면 \- Live](https://open.spotify.com/track/6yOlcQulu1zEg0vBRIyVL9) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [박정운 Live & Single](https://open.spotify.com/album/0dE8ws1ojmSQeVRWVolDPG) | 4:54 | 2025-01-15 |  |
 | [오늘같은 밤이면\(그리움\)](https://open.spotify.com/track/1u7iNnJrdfJcuqSvtFIo3P) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [먼훗날에/오늘 같은 밤이면](https://open.spotify.com/album/4BmQrl6p80eNzhRfG1WeN9) | 4:48 | 2025-01-15 |  |
 | [오늘도 난](https://open.spotify.com/track/4nxZcWJrBDBbZmYko1Qx1Q) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [이승철 Best of Best](https://open.spotify.com/album/5eojAp2VzqCMynrqxI7GAr) | 3:35 | 2025-01-03 |  |

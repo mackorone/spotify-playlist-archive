@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Petey USA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,422,704 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,421,183 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Naive](https://open.spotify.com/track/6q2Gzh3yVPq8dtZbudMFJO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Naive](https://open.spotify.com/album/1LgDzmVzpgFJatwtnS8ZAO) | 2:46 |
 | 75 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
 
-Snapshot ID: `aIMBagAAAADQEw7NwzNcOz1LEjKOK0pY`
+Snapshot ID: `AAAAAP6Tbmssxo0zuFw0kUfu47oJu4uB`

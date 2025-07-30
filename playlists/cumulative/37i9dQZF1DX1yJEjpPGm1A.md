@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-75 songs - 4 hr 56 min
+77 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always and Forever](https://open.spotify.com/track/4XoNHcpISsSFeil5pDoXCO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Always and Forever](https://open.spotify.com/album/2rakJkUUTAjBQmsgI0BJQd) | 3:43 | 2025-04-22 |  |
 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2024-12-19 |  |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2024-12-19 |  |
+| [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 | 2025-07-29 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2025-07-01 |  |
 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 | 2025-07-22 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2025-07-15 |  |
@@ -56,6 +57,7 @@
 | [Start of Forever](https://open.spotify.com/track/0JdokoPasRqRZFkhOIKkQb) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Start Of Forever](https://open.spotify.com/album/37EYZ2BkOugsdBBSPIcfbN) | 2:49 | 2025-05-20 |  |
 | [Stay Here](https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Stay Here](https://open.spotify.com/album/0cWt79wH1zZl7Qc5doi7sx) | 3:54 | 2024-12-19 |  |
 | [Stay With Me \(Feat\. As One\)](https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05), [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [Stay With Me](https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD) | 3:40 | 2025-07-22 |  |
+| [The Eternal Moment](https://open.spotify.com/track/7os5JrOif9RLhqZLUW828v) | [KyungHa](https://open.spotify.com/artist/4ialM3GP21JCOjJ3bftNi8) | [The Eternal Moment](https://open.spotify.com/album/5LEhAYdGG8zjXQaoKGOD30) | 4:00 | 2025-07-29 |  |
 | [The Eternal Moment \- Acoustic Version](https://open.spotify.com/track/4MrYJK1f4beoDBAH3K3k9o) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Moment Becomes Forever](https://open.spotify.com/album/2Ujvr8rac4c8LPGMsqn0tI) | 4:03 | 2025-06-17 |  |
 | [The Night I Miss You](https://open.spotify.com/track/09RSdKL22sHGrcidpL3g3d) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [The Night I Miss You](https://open.spotify.com/album/4EJBHjmepe24xKtaDKPNCi) | 4:58 | 2024-12-19 | 2025-06-24 |
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |

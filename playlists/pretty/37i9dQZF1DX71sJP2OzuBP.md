@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 125 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,865 likes - 125 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fish Love](https://open.spotify.com/track/2mchvAmESMEQzuVBB07qAe) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 3:10 |
 | 2 | [做一個惜情軟心的人](https://open.spotify.com/track/3m6IzuqkNDoYSTb8yWlDOj) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [做一個惜情軟心的人](https://open.spotify.com/album/6QWYwGvZd3p9zqgQtDaFxl) | 4:25 |
-| 3 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 3 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 4 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
 | 5 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 |
 | 6 | [吟遊 \(Live\)](https://open.spotify.com/track/2QFehU1y2RlaFGXXsbJh3f) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [二十站一刻](https://open.spotify.com/album/5shh1qIqjZhBlph7r7UQZp) | 3:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 124 | [蕾絲花邊](https://open.spotify.com/track/6zBm82cW189TaPBtQWP2hT) | [Wakin Chau](https://open.spotify.com/artist/6wcIBaOvA9XNGgPujYZZ7L) | [蕾絲花邊](https://open.spotify.com/album/5wmsjMwNYt20qR8NJKER3u) | 4:54 |
 | 125 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
 
-Snapshot ID: `aIZNCwAAAAD7kQ+2mxXeBUKOIfmLLbOQ`
+Snapshot ID: `aIZNCwAAAADPzEP+XEu7ad63vvtJJAC8`

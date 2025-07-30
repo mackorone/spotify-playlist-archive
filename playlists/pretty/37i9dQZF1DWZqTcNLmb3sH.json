@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Just Married",
-  "num_followers": 63720,
+  "num_followers": 63717,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIdgUwAAAADi9gvkjiqzT/nrQjQvO786",
+  "snapshot_id": "aIixSQAAAACWP1/7MxqtHn1Qa3J0MmGm",
   "tracks": [
     {
       "added_at": "2025-07-17 10:05:52",
@@ -107,6 +107,30 @@
       "duration_ms": 193337,
       "name": "Cheluve (From \"Bandook\")",
       "url": "https://open.spotify.com/track/4xwmVPp29J4nEIzYQHkSHf"
+    },
+    {
+      "added_at": "2025-07-29 11:32:25",
+      "album": {
+        "name": "Sutta Sudugadu (From \"Bandook\")",
+        "url": "https://open.spotify.com/album/5d11ehREpYqZhd5UTuWKKM"
+      },
+      "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Trilok Trivikram",
+          "url": "https://open.spotify.com/artist/1xm0IvlkYjHoADBUX3v6tm"
+        }
+      ],
+      "duration_ms": 140522,
+      "name": "Sutta Sudugadu (From \"Bandook\")",
+      "url": "https://open.spotify.com/track/55IIcMGJCkhEv5CUp9K3hx"
     },
     {
       "added_at": "2025-07-28 11:34:43",
@@ -1195,34 +1219,6 @@
       "duration_ms": 224657,
       "name": "Aavarisu (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/2o6YKrhAGW6Hyqvu8r59qI"
-    },
-    {
-      "added_at": "2025-06-09 12:20:43",
-      "album": {
-        "name": "Kathe Kathe (From \"Kuberaa\")(Kannada)",
-        "url": "https://open.spotify.com/album/1f4OJ1haZ4HukH6Ax7bbAH"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Sarath Santosh",
-          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 180728,
-      "name": "Kathe Kathe (From \"Kuberaa\")(Kannada)",
-      "url": "https://open.spotify.com/track/0woq4qiFFVyiTQ5icsbwWu"
     }
   ],
   "unique_name": "Latest Kannada",

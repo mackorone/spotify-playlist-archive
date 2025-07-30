@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 60315,
+  "num_followers": 60321,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAANoQe7H0fNqSPtBIh3JGKb",
+  "snapshot_id": "aIa9gAAAAABNoVEkppI4nuvBFtjmPzlD",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 310640,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Reputation (Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 191466,
       "name": "Androgynous",
       "url": "https://open.spotify.com/track/6KmPsYpaZzZBCXPmiVdiCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 310640,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -407,30 +407,6 @@
       "duration_ms": 174146,
       "name": "Victim of Circumstance",
       "url": "https://open.spotify.com/track/1VGP4asQMmeyd1PHVFN54d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Two Shots",
-      "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
     },
     {
       "added_at": null,
@@ -463,6 +439,30 @@
       "duration_ms": 195280,
       "name": "If You're Blue",
       "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Two Shots",
+      "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182413,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
       "duration_ms": 223986,
       "name": "You Don't Know What You've Got",
       "url": "https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        },
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Fake Friends (feat. Joan Jett)",
-      "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Fake Friends (feat. Joan Jett)",
+      "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Ridin' With James Dean",
-      "url": "https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W"
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unvarnished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
+        "name": "Dr. Demento Covered In Punk",
+        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 216640,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
+      "duration_ms": 234795,
+      "name": "Science Fiction/Double Feature",
+      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
     },
     {
       "added_at": null,
@@ -788,15 +788,15 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
+      "duration_ms": 197000,
+      "name": "Ridin' With James Dean",
+      "url": "https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Demento Covered In Punk",
-        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
+        "name": "Unvarnished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 234795,
-      "name": "Science Fiction/Double Feature",
-      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+      "duration_ms": 216640,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 9m88 x Phum Viphurit
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,465 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,468 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 1 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 2 | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/track/2KeVyyc99Tppp8Ad1Cm2ph) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/album/7F8ATHmFJnPTKyXXiuUXEA) | 3:04 |
 | 3 | [VIBEGLO](https://open.spotify.com/track/0NYUJlsDbscqWZdU3JyPXI) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [VIBEGLO](https://open.spotify.com/album/1MA6KsoqXfiSnCJp292ssR) | 3:02 |
 | 4 | [Over you \(feat\. DJ VEENA\)](https://open.spotify.com/track/0EH5MKn5xBxjCWkjjde27Q) | [沈建宏](https://open.spotify.com/artist/5qxY29ytVlxVeOQ2scqcfs) | [Over you \(feat\. DJ VEENA\)](https://open.spotify.com/album/6XwaENhy9H6dPROS0npWg9) | 3:14 |

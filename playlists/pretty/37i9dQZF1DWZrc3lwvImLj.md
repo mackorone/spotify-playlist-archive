@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,492 likes - 176 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,489 likes - 176 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 21 | [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 |
 | 22 | [Ma Dette Envers Toi](https://open.spotify.com/track/7A92FFdkNRvdXiYgI5Ohgr) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Ma Dette Envers Toi](https://open.spotify.com/album/233emtLMcu5tl9chdIbThW) | 3:49 |
 | 23 | [Where the Past Meets the Pane](https://open.spotify.com/track/6Z6EfoY5AfarHBlcxIF45D) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Where the Past Meets the Pane](https://open.spotify.com/album/4cZRMJxSlYqpyBOluF7UYR) | 2:23 |
-| 24 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/6SfRPNpx53bVHzG8dNvROF) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
+| 24 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
 | 25 | [Unspoken](https://open.spotify.com/track/77u4Ha6yYizl6Zs5m7znHJ) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Unspoken](https://open.spotify.com/album/7fMhaKQBMxUjaRXwgms7fx) | 2:12 |
 | 26 | [Trapped](https://open.spotify.com/track/0URuOMi37vIV6AydbBRluv) | [Jean Dalmont](https://open.spotify.com/artist/0wUsHCiEBi5gnLotxgzJvX) | [Trapped](https://open.spotify.com/album/6YL4dgtGbwCzEbfxMrHNDA) | 2:09 |
 | 27 | [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 175 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 |
 | 176 | [Dès vu](https://open.spotify.com/track/4xrojcxCFJ26E8JUB5fDfE) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Dès vu](https://open.spotify.com/album/0r4jrdVyggFR6n8EA9s1fm) | 2:09 |
 
-Snapshot ID: `aG0/igAAAAB0iQDNlFyNKTCdhJOUCS9k`
+Snapshot ID: `AAAAABnxziG8exqJeD+1/bRvmKiJrWxU`

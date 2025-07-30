@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Isabella Lovestory
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,482 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,483 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [Les morceaux perdus](https://open.spotify.com/track/4l0t2AKGqSkWCX4yY3aMna) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Les morceaux perdus](https://open.spotify.com/album/2VVOIdhKuQIovhJb4XxtpV) | 3:35 |
 | 40 | [Milk and Sugar](https://open.spotify.com/track/5iPCywl5F6YWIv9Hw0Ep0H) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Milk and Sugar](https://open.spotify.com/album/6rPasl9LpIQDyg802w4c8A) | 2:29 |
 
-Snapshot ID: `aGdR4wAAAAD7vAWa7iByWGs0zErNZmFZ`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

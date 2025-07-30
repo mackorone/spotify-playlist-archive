@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-878 songs - 1 day 21 hr 8 min
+879 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2022-03-24 | 2022-04-19 |
 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 | 2022-03-24 | 2022-04-16 |
 | [Other Lives](https://open.spotify.com/track/1oLS1ZxoPxsbJiiZddEFRl) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Other Lives](https://open.spotify.com/album/70WxwlH4p1PW9yKOi8bv4I) | 3:12 | 2022-03-24 | 2022-04-20 |
-| [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP) | 3:17 | 2024-06-21 |  |
+| [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP) | 3:17 | 2024-06-21 | 2025-07-30 |
 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 | 2022-03-24 | 2022-04-16 |
 | [Out Of My System](https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Deluxe\)](https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn) | 2:17 | 2023-09-08 | 2024-04-19 |
 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-10-14 | 2023-11-06 |
@@ -856,6 +856,7 @@
 | [WHEN THE MUSIC STOPS](https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J) | 3:13 | 2024-02-20 |  |
 | [When You're Around](https://open.spotify.com/track/4C3vAnXJmFR2McECc1du5l) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [When You're Around](https://open.spotify.com/album/403m6rdMFJpSaY4gL0aXY1) | 3:08 | 2022-03-17 | 2022-07-27 |
 | [WHERE DID IT ALL GO WRONG](https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [WHERE DID IT ALL GO WRONG](https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx) | 2:59 | 2024-06-21 | 2024-08-21 |
+| [White Casket](https://open.spotify.com/track/3o2xKwz3oNhm3f2BywSrWm) | [Jady](https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1) | [White Casket](https://open.spotify.com/album/6vIy8qzPJAWvr1g6Yvp3lE) | 2:30 | 2025-07-25 |  |
 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 | 2024-06-21 | 2025-02-15 |
 | [WISH U HELL](https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WISH U HELL](https://open.spotify.com/album/5gWxq8KmRs1opcukXf7q5H) | 3:11 | 2022-03-24 | 2022-07-12 |
 | [Wishbone](https://open.spotify.com/track/3xleExcIVAQcXGd6igrryZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/5zE229ArmKdAwMIJ9Tyefs) | 2:52 | 2024-02-20 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Shelly
 
-2,161 songs - 4 day 18 hr 33 min
+2,162 songs - 4 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,7 +673,7 @@
 | [Favorite Nightmare](https://open.spotify.com/track/3C2iUQ6S34tW7C6BKt8der) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [cheap sodas and ice cream kisses](https://open.spotify.com/album/38sApMoA6rSg4ScXjRkJHk) | 2:55 | 2020-10-13\* | 2021-05-30 |
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-06-17 | 2022-08-06 |
 | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e) | 2:11 | 2023-11-17 | 2024-03-11 |
-| [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-25 |  |
+| [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-25 | 2025-07-30 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-03-29 |  |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-03-01 | 2021-10-18 |
 | [Feel Young Again](https://open.spotify.com/track/4E9eEFBR4JhEfNi9Og3V0k) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Feel Young Again](https://open.spotify.com/album/3DlPcRR0XQNYxp1e5nBirV) | 3:42 | 2021-02-22 | 2021-05-28 |
@@ -1268,6 +1268,7 @@
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-02 | 2022-04-12 |
 | [MICHELLE](https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk) | [G Luné](https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0) | [MICHELLE](https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1) | 2:34 | 2022-04-11 | 2022-04-26 |
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-07 | 2023-08-29 |
+| [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 | 2025-07-25 |  |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-05 | 2024-06-09 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-31 | 2024-06-22 |
 | [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:26 | 2022-04-25 | 2022-06-01 |

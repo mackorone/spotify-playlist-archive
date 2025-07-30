@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Karol G, Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,972 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,049 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 72 | [BAJA AL MALIANTEO](https://open.spotify.com/track/4cl5rK807BQVPjK22DbrOu) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [dn.aire](https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J) | [$F VERANO MIX VOL.2](https://open.spotify.com/album/6JJVx2agB7StZF3qF7s7gu) | 2:51 |
 | 73 | [Balanceando el Cuerpo](https://open.spotify.com/track/7MyxRRPyYRQzUNE8i5riQb) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Japanese](https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Balanceando el Cuerpo](https://open.spotify.com/album/1q17zDplFSr6D9WBIO0h5F) | 2:57 |
 | 74 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
-| 75 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
-| 76 | [La Receta](https://open.spotify.com/track/15FtvuCXegOfYUppRMao57) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [La Receta](https://open.spotify.com/album/04ZHiZGSNgws8S5kpsd7ul) | 2:32 |
+| 75 | [La Receta](https://open.spotify.com/track/15FtvuCXegOfYUppRMao57) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [La Receta](https://open.spotify.com/album/04ZHiZGSNgws8S5kpsd7ul) | 2:32 |
+| 76 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 | 77 | [Habla Comigo](https://open.spotify.com/track/5i9oexxDhlcB4BEP95M6qT) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Habla Comigo](https://open.spotify.com/album/6voR3t2LQriBJbopx7X6A9) | 3:03 |
 | 78 | [Aquecimento](https://open.spotify.com/track/6w4wRw5H7THnMOl3JLwpVz) | [Mr\. André Cruz](https://open.spotify.com/artist/5TfHk8885RZShkv8h5NL9a), [DJ WS](https://open.spotify.com/artist/0aLAHH17o5HqBboWoMuOjq) | [Aquecimento](https://open.spotify.com/album/6BPZmp40XU995nwBUDHs6F) | 2:31 |
 | 79 | [PRENDELA](https://open.spotify.com/track/0azYfxqZYlZcI6IkPHiNYO) | [Lady Vixxen](https://open.spotify.com/artist/05mRHakyJpfJr5aAXGaANu), [Jenn Quezada](https://open.spotify.com/artist/4fJzoA5FKBuOoFz8hBZP9c) | [PRENDELA](https://open.spotify.com/album/0Yx3vTlB0rgtDZ3X7xRW5g) | 2:19 |

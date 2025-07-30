@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1054773,
+  "num_followers": 1054918,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAAqGiFUD+3D+kbPFdZe6zKn",
+  "snapshot_id": "aIa9gAAAAADFKe7QsBAcqPIeWvIi5AyR",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 232611,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Segundas Partes",
-      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Quiere Llorar Y No Puede",
-      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Anaheim, CA",
         "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
       },
@@ -415,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+      "duration_ms": 163500,
+      "name": "Quiere Llorar Y No Puede",
+      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Roto (En Vivo)",
+        "url": "https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Contacto",
+          "url": "https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "El Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Roto (En Vivo)",
-        "url": "https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Contacto",
-          "url": "https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "El Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 153221,
       "name": "El \u00c1guila Blanca (En Vivo)",
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Que un d\u00eda",
-        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Hasta Que un d\u00eda",
-      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,528 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,530 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 87 | [Way to You](https://open.spotify.com/track/3cEu4y6MfcnsiFf1OmNr7w) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Way to You](https://open.spotify.com/album/3KonVXFKTK3VmnmUAafTU2) | 3:15 |
 | 88 | [isle of me](https://open.spotify.com/track/0Miji5OZAJoKlOSonlCgCi) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [isle of me](https://open.spotify.com/album/1qJYp7WdUafdCnm6fOhT2A) | 2:47 |
 
-Snapshot ID: `ZrCazQAAAACs6SFjEAX39ERjyOeQQMiL`
+Snapshot ID: `AAAAANHHJ+WuO5wvs6/V3l73BYqn5OUT`

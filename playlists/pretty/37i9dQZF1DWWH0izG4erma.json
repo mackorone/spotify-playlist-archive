@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 626261,
+  "num_followers": 626339,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
         "name": "I HATE ME TOO",
         "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185569,
       "name": "I HATE ME TOO",
       "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 288121,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
         "name": "Burnpile",
         "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 176344,
       "name": "Burnpile",
       "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "VICES",
-        "url": "https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 152441,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "VICES",
+        "url": "https://open.spotify.com/album/0nK0xwQwzO1Har2LoMuXSy"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 152441,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/50otBPum6Ok3S5zIxtV0rc"
     },
     {
       "added_at": "2025-07-18 04:00:11",

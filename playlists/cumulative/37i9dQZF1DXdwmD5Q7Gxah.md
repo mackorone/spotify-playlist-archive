@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Audrey Hobert
 
-3,461 songs - 7 day 20 hr 53 min
+3,462 songs - 7 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [Dog Eat](https://open.spotify.com/track/6kyNaZJgV2ngQA6c0mvt5y) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Dog Eat](https://open.spotify.com/album/4tp2NihDQ78g1BHJMxN3zW) | 2:47 | 2020-05-28 | 2020-08-20 |
 | [dog eat dog](https://open.spotify.com/track/00UDY0dZ0ZBjZzAL7J7RP8) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:51 | 2021-07-17 | 2021-11-13 |
 | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 | 2025-07-11 |  |
+| [Dogs In Heaven](https://open.spotify.com/track/14aI471gbVhilXXhaV5vww) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g) | 2:08 | 2025-07-29 |  |
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30\* | 2019-09-27 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 | 2024-04-24 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 | 2024-05-11 |

@@ -4,7 +4,7 @@
 
 > Margaret Qualley is having a main pop girl emergency 🆘
 
-1,387 songs - 2 day 21 hr 30 min
+1,388 songs - 2 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 | 2023-06-30 | 2023-08-04 |
 | [Hot One](https://open.spotify.com/track/6FWWJsGO4CuQY3vWtOlBys) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/2A4cjpxbVEXHpvWPIjhJZb) | 1:50 | 2023-07-07 | 2023-10-07 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-09 | 2024-07-27 |
-| [Hotel Rock Bottom \(feat\. Ariana Grande\)](https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Hotel Rock Bottom \(Deluxe\)](https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu) | 3:15 | 2025-07-11 |  |
+| [Hotel Rock Bottom \(feat\. Ariana Grande\)](https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Hotel Rock Bottom \(Deluxe\)](https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu) | 3:15 | 2025-07-11 | 2025-07-30 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2024-02-17 |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-03-07 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-08 | 2023-01-28 |
@@ -853,6 +853,7 @@
 | [Mona Lisa](https://open.spotify.com/track/72lUoCaeg17uXhbfmsRRRt) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Mona Lisa](https://open.spotify.com/album/4L7Udo48s2YmvC0Oq2fFkF) | 2:57 | 2023-03-03 | 2023-08-12 |
 | [Monaco](https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco](https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN) | 2:38 | 2024-08-13 | 2025-03-29 |
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 | 2024-06-08 |
+| [Moonlight](https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG) | [Essy](https://open.spotify.com/artist/6tnxA4woi9zSxFDyOuBjIo) | [Moonlight](https://open.spotify.com/album/0ewLNJICTVLG7qiMKdwhrV) | 2:59 | 2025-07-29 |  |
 | [Moonlight](https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 3:10 | 2022-05-27 | 2023-01-28 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-02-11 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-11-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 396248,
+  "num_followers": 396846,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2025-07-25 04:00:59",
@@ -1419,6 +1419,26 @@
       "duration_ms": 208159,
       "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
       "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
       "added_at": "2025-07-25 04:00:59",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
@@ -1687,6 +1687,30 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
+        "name": "Let's Ride Away (Dimitri Vangelis & Wyman Golden Era Mix)",
+        "url": "https://open.spotify.com/album/4chnQRrrqpVDbYBU2r1H8u"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Let's Ride Away - Dimitri Vangelis & Wyman Golden Era Mix",
+      "url": "https://open.spotify.com/track/0B8JaLnQUHkJMBMbPah0Gx"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
         "name": "Euphoria (with Alok)",
         "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
       },
@@ -1735,26 +1759,6 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
         "name": "Million Good Reasons",
         "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
       },
@@ -1775,26 +1779,22 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
-        "name": "Let's Ride Away (Dimitri Vangelis & Wyman Golden Era Mix)",
-        "url": "https://open.spotify.com/album/4chnQRrrqpVDbYBU2r1H8u"
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Dimitri Vangelis & Wyman",
-          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Let's Ride Away - Dimitri Vangelis & Wyman Golden Era Mix",
-      "url": "https://open.spotify.com/track/0B8JaLnQUHkJMBMbPah0Gx"
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     },
     {
       "added_at": "2025-07-25 04:00:59",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
-        "name": "On and On and On",
-        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 179930,
-      "name": "On and On and On",
-      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
         "name": "Out My Head",
         "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 164000,
       "name": "Out My Head",
       "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
+        "name": "On and On and On",
+        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 179930,
+      "name": "On and On and On",
+      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
     },
     {
       "added_at": "2025-07-25 04:00:59",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2025-07-25 04:00:59",
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
         "name": "Air (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 160021,
       "name": "Air (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
-    },
-    {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-07-25 04:00:59",

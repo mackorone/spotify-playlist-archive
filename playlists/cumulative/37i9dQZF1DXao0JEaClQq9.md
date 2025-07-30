@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Blood Orange
 
-723 songs - 1 day 21 hr 40 min
+724 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-06-03 | 2022-12-13 |
 | [Doorman \- Vegyn Remix](https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Doorman \(Vegyn Remix\)](https://open.spotify.com/album/50WllaBP6r9DWbXDXUxdZA) | 2:28 | 2021-06-11 | 2022-07-26 |
 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-10-21 | 2024-11-02 |
+| [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 | 2025-07-29 |  |
 | [Down By The Water](https://open.spotify.com/track/3kllktLUTSTC1nnXdb21G1) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Down By The Water](https://open.spotify.com/album/09K0K3ZShZXtXguGpFLtjL) | 2:47 | 2021-09-24 | 2022-07-29 |
 | [Down Since '07](https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Down Since '07](https://open.spotify.com/album/7q17UkDMOymKG7HsphFwdR) | 1:37 | 2022-03-07 | 2022-06-01 |
 | [Drama](https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Drama](https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq) | 3:48 | 2021-06-03 | 2022-07-29 |
@@ -216,7 +217,7 @@
 | [Energy](https://open.spotify.com/track/11i3GDVb1hGPWrPSoZ5xGf) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:32 | 2021-10-22 | 2022-01-23 |
 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1NOaMRWrxAyxa3hQEAkWGP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/0FPuzafVIbe5pGAZ43SQ1f) | 2:30 | 2025-07-18 |  |
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2021-06-03 | 2022-07-28 |
-| [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-07 |  |
+| [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-07 | 2025-07-30 |
 | [Esrever Ni Rehtaf \- Edit](https://open.spotify.com/track/5yC407MtN8N1DFkn7FSHUY) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm), [aden](https://open.spotify.com/artist/2TmLX0MEiGgzQfkuiunbHD) | [Esrever Ni Rehtaf](https://open.spotify.com/album/5PAjJjJfSJgcgylapyfnYx) | 4:20 | 2025-05-02 | 2025-06-28 |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-13 | 2025-06-07 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2021-06-03 | 2022-07-29 |

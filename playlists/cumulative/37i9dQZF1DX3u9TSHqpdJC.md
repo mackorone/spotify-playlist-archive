@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: Just For Fun\. Artwork by Paola Saliby
 
-4,128 songs - 8 day 18 hr 8 min
+4,129 songs - 8 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Come Roll With Me](https://open.spotify.com/track/0Fb9fDfg83UbuvVrFMuJu1) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Come Roll With Me](https://open.spotify.com/album/1m0GW1wuN8NFKsy72JGK6o) | 2:18 | 2024-07-10 | 2024-08-29 |
 | [Come, Cry](https://open.spotify.com/track/7BLPoLN4Y2zL37WtSAnpsy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Come, Cry](https://open.spotify.com/album/6D9x0kyB2zsXKM1bpTGyia) | 2:59 | 2022-02-02 | 2023-01-12 |
 | [Comeback Kid](https://open.spotify.com/track/5doO8LiJTac0b2UR1GcZRY) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Comeback Kid](https://open.spotify.com/album/51b3QhLiBeR18UZQG3Xs49) | 2:24 | 2021-03-06 | 2021-04-01 |
+| [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 | 2025-07-25 |  |
 | [Coming Right Back](https://open.spotify.com/track/3DytaDPjcqfsGp70VUXQ7R) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [CELINA](https://open.spotify.com/album/5buVJTbmcQxbDiPPsiTdbO) | 3:10 | 2023-02-01 | 2023-03-09 |
 | [Communicating](https://open.spotify.com/track/152fOt3MBAdOTGXT02JO2z) | [Ane.Fin](https://open.spotify.com/artist/4Jlq2xH8qZVpuCL4SQmFkm) | [Communicating](https://open.spotify.com/album/2MCLL8XtsItKx4DW7pUqQG) | 2:29 | 2021-05-27 | 2021-06-18 |
 | [COMO TÚ](https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [I AM](https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv) | 3:14 | 2025-01-22 | 2025-04-03 |

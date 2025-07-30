@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42342,
+  "num_followers": 42351,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAD2L4N5LfNu6L3rnPbJKizD",
+  "snapshot_id": "aIa9gAAAAABwIp4nQd55SIaYxJL+shJv",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Doubt Full",
-      "url": "https://open.spotify.com/track/0ea1sv8XeSLSc6FENRPrON"
+      "duration_ms": 37198,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3NFRQ6pyhVbTMY7KveXnD6"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 122582,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
+      "duration_ms": 177461,
+      "name": "Summer Fling, Don't Mean a Thing",
+      "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 177461,
-      "name": "Summer Fling, Don't Mean a Thing",
-      "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
+      "duration_ms": 122582,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
     },
     {
       "added_at": null,

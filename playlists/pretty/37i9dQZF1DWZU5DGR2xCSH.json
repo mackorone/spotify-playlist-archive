@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1138060,
+  "num_followers": 1137967,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Nos Veremos Otra Vez",
-      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192240,
       "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
+      "duration_ms": 159866,
+      "name": "No Tan Distintos",
+      "url": "https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 159866,
-      "name": "No Tan Distintos",
-      "url": "https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe"
+      "duration_ms": 135853,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

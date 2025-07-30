@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 73755,
+  "num_followers": 73761,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACW1RyP933xDqblYJvpcZGb",
+  "snapshot_id": "aIa9gAAAAADkU9zyvmT1JUn02mmiAWuM",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lluvia Y Sol",
-        "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
       },
       "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 222191,
-      "name": "Me Voy Contigo",
-      "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+        "name": "Lluvia Y Sol",
+        "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
       "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+      "duration_ms": 222191,
+      "name": "Me Voy Contigo",
+      "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
     },
     {
       "added_at": null,

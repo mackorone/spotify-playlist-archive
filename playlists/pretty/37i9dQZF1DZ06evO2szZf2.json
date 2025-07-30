@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAACvwpsalp97N3OlqsfDzUFB",
+  "snapshot_id": "aIa9gAAAAABqEnk54kUBKmoORpe3Vicp",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pede Chamando de Amor",
+        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Pede Chamando de Amor",
+      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neymar Mudou",
         "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
       },
@@ -499,34 +527,6 @@
       "duration_ms": 198000,
       "name": "Neymar Mudou",
       "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pede Chamando de Amor",
-        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
-      },
-      "artists": [
-        {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Pede Chamando de Amor",
-      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bota A Lingui\u00e7a Pra Fora",
-        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Gouveia",
-          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
-        }
-      ],
-      "duration_ms": 95999,
-      "name": "Bota A Lingui\u00e7a Pra Fora",
-      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bota A Lingui\u00e7a Pra Fora",
+        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Gouveia",
+          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
+        }
+      ],
+      "duration_ms": 95999,
+      "name": "Bota A Lingui\u00e7a Pra Fora",
+      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
     },
     {
       "added_at": null,
@@ -1007,34 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1 Fui o Amor da sua Vida",
-        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Levin",
-          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
-        },
-        {
-          "name": "DJ Game Beat",
-          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
-        },
-        {
-          "name": "Ritmo Dos Fluxos",
-          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "J\u00e1 Fui o Amor da sua Vida",
-      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1059,6 +1031,34 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00e1 Fui o Amor da sua Vida",
+        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        },
+        {
+          "name": "DJ Game Beat",
+          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
+        },
+        {
+          "name": "Ritmo Dos Fluxos",
+          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "J\u00e1 Fui o Amor da sua Vida",
+      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
     },
     {
       "added_at": null,
@@ -1367,6 +1367,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rel\u00edquias da Marketada",
         "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
       },
@@ -1435,30 +1459,6 @@
       "duration_ms": 241899,
       "name": "Rel\u00edquias da Marketada",
       "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
     },
     {
       "added_at": null,

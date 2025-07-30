@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Lo Malo",
+        "url": "https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ana Guerra",
+          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180831,
+      "name": "Lo Malo",
+      "url": "https://open.spotify.com/track/5bhDL4GgUvr5LBrpjqyrte"
+    },
+    {
+      "album": {
         "name": "Lo Malo (Remix)",
         "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
       },
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 163293,
       "name": "TEL\u00c9FONO",
       "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"

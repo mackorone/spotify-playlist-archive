@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\u3001\u7368\u6b65\u7684\u6642\u523b\uff0c\u5fc3\u60c5\u8173\u4e0b\u96e3\u514d\u6c88\u91cd\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 90148,
+  "num_followers": 90187,
   "original_name": "\u966a\u4f60\u8d70\u4e00\u6bb5",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
+        "name": "\u505a\u6211\u7684\u521d\u6200",
+        "url": "https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u505a\u6211\u7684\u521d\u6200",
+      "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
+    },
+    {
+      "added_at": "2025-07-24 18:00:38",
+      "album": {
         "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 242030,
       "name": "\u8eba\u5728\u4f60\u6000\u91cc\u505a\u4e00\u573a\u68a6",
       "url": "https://open.spotify.com/track/3IuzTuGnsywoYnroIHI8VN"
-    },
-    {
-      "added_at": "2025-07-24 18:00:38",
-      "album": {
-        "name": "\u505a\u6211\u7684\u521d\u6200",
-        "url": "https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY"
-      },
-      "artists": [
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u505a\u6211\u7684\u521d\u6200",
-      "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
     },
     {
       "added_at": "2025-07-24 18:00:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
-        "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
-        "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
-      },
-      "artists": [
-        {
-          "name": "Mixer",
-          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
-        }
-      ],
-      "duration_ms": 248619,
-      "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
-      "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
-    },
-    {
-      "added_at": "2025-07-24 18:00:38",
-      "album": {
         "name": "\u6211\u60f3\u5ff5",
         "url": "https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 224516,
       "name": "\u6211\u60f3\u5ff5",
       "url": "https://open.spotify.com/track/6nO5UyAtYeK2M8QuCB8bay"
+    },
+    {
+      "added_at": "2025-07-24 18:00:38",
+      "album": {
+        "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+        "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
+      },
+      "artists": [
+        {
+          "name": "Mixer",
+          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+        }
+      ],
+      "duration_ms": 248619,
+      "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+      "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
     },
     {
       "added_at": "2025-07-24 18:00:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
+        "name": "\u65e0\u53ef\u5948\u4f55",
+        "url": "https://open.spotify.com/album/5MiitjKqH4Am65F5AM2dkh"
+      },
+      "artists": [
+        {
+          "name": "\u627f\u6853",
+          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "\u65e0\u53ef\u5948\u4f55",
+      "url": "https://open.spotify.com/track/3QqCZHkhGKdJCdalzmDrwt"
+    },
+    {
+      "added_at": "2025-07-24 18:00:38",
+      "album": {
         "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
         "url": "https://open.spotify.com/album/0FtgPWglWqnWIS9XalJZDK"
       },
@@ -1031,34 +1047,22 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
-        "name": "\u65e0\u53ef\u5948\u4f55",
-        "url": "https://open.spotify.com/album/5MiitjKqH4Am65F5AM2dkh"
+        "name": "\u6c92\u6709\u5beb\u4e0b\u7684\u6c38\u9060 (feat. \u6797\u4f73\u8fb0)",
+        "url": "https://open.spotify.com/album/0n3OZidzOVH3HJlCOvzrM2"
       },
       "artists": [
         {
-          "name": "\u627f\u6853",
-          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "\u65e0\u53ef\u5948\u4f55",
-      "url": "https://open.spotify.com/track/3QqCZHkhGKdJCdalzmDrwt"
-    },
-    {
-      "added_at": "2025-07-24 18:00:38",
-      "album": {
-        "name": "\u751f\u65e5\u665a\u9910",
-        "url": "https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5"
-      },
-      "artists": [
+          "name": "\u9ec3\u633a\u744b",
+          "url": "https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss"
+        },
         {
-          "name": "Andrew Tan",
-          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+          "name": "\u6797\u4f73\u8fb0",
+          "url": "https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg"
         }
       ],
-      "duration_ms": 226541,
-      "name": "\u751f\u65e5\u665a\u9910",
-      "url": "https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw"
+      "duration_ms": 228065,
+      "name": "\u6c92\u6709\u5beb\u4e0b\u7684\u6c38\u9060 (feat. \u6797\u4f73\u8fb0)",
+      "url": "https://open.spotify.com/track/7KTyRry7MEl3VI3BmDNDYo"
     },
     {
       "added_at": "2025-07-24 18:00:38",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
-        "name": "\u6c92\u6709\u5beb\u4e0b\u7684\u6c38\u9060 (feat. \u6797\u4f73\u8fb0)",
-        "url": "https://open.spotify.com/album/0n3OZidzOVH3HJlCOvzrM2"
+        "name": "\u6495\u88c2\u50b7",
+        "url": "https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox"
       },
       "artists": [
         {
-          "name": "\u9ec3\u633a\u744b",
-          "url": "https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss"
-        },
-        {
-          "name": "\u6797\u4f73\u8fb0",
-          "url": "https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg"
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
         }
       ],
-      "duration_ms": 228065,
-      "name": "\u6c92\u6709\u5beb\u4e0b\u7684\u6c38\u9060 (feat. \u6797\u4f73\u8fb0)",
-      "url": "https://open.spotify.com/track/7KTyRry7MEl3VI3BmDNDYo"
+      "duration_ms": 208625,
+      "name": "\u6495\u88c2\u50b7",
+      "url": "https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa"
     },
     {
       "added_at": "2025-07-24 18:00:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-24 18:00:38",
       "album": {
-        "name": "\u6495\u88c2\u50b7",
-        "url": "https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox"
-      },
-      "artists": [
-        {
-          "name": "Andrew Tan",
-          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "\u6495\u88c2\u50b7",
-      "url": "https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa"
-    },
-    {
-      "added_at": "2025-07-24 18:00:38",
-      "album": {
         "name": "\u96e8\u5098\u5fd8\u4e86\u5e36\u8d70",
         "url": "https://open.spotify.com/album/0lAePQkPAfp1OB2sIFU2lH"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 226363,
       "name": "\u4e5d\u5f4e\u5341\u516b\u62d0",
       "url": "https://open.spotify.com/track/6d1URgz5bJSIsCPsVyvItQ"
+    },
+    {
+      "added_at": "2025-07-24 18:00:38",
+      "album": {
+        "name": "\u751f\u65e5\u665a\u9910",
+        "url": "https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "duration_ms": 226541,
+      "name": "\u751f\u65e5\u665a\u9910",
+      "url": "https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw"
     },
     {
       "added_at": "2025-07-24 18:00:38",

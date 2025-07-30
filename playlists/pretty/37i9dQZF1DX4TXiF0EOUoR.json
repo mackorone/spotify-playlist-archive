@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 247246,
+  "num_followers": 247372,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 162117,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
       "artists": [
         {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
+      "duration_ms": 162117,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
         }
       ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+        "name": "Mujer Alegre",
+        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss"
+      "duration_ms": 217894,
+      "name": "Mujer Alegre",
+      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Mujer Alegre",
-        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Mujer Alegre",
-      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
+      "duration_ms": 173106,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Fiesta de Enero",
         "url": "https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 274064,
       "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+        "name": "Agua de T\u00e9",
+        "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+          "name": "Banda La Movida",
+          "url": "https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0"
         }
       ],
-      "duration_ms": 217280,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+      "duration_ms": 170520,
+      "name": "Agua de T\u00e9",
+      "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1331,22 +1347,6 @@
       "duration_ms": 183177,
       "name": "Recuerdos a Hern\u00e1n",
       "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Agua de T\u00e9",
-        "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Movida",
-          "url": "https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Agua de T\u00e9",
-      "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
     },
     {
       "added_at": "2024-08-28 01:03:24",

@@ -2,7 +2,7 @@
 
 ### [Rock Covers](https://open.spotify.com/playlist/37i9dQZF1DX2S9rTKTX6JP)
 
-> killer rock & alternative covers\. Cover: Sum 41
+> killer rock & alternative covers\. Cover: YUNGBLUD
 
 377 songs - 1 day 0 hr 20 min
 

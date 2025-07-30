@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20328,
+  "num_followers": 20326,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIVsAAAAAAC9fgLkLZf43+o+q2RDC8BE",
+  "snapshot_id": "aIa9gAAAAAD5bj1k6+tcoXdPHLCQm9Uh",
   "tracks": [
     {
       "added_at": null,
@@ -371,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
       "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
+      "duration_ms": 191532,
+      "name": "Word Around Town (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
     },
     {
       "added_at": null,
@@ -403,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
       },
       "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 191532,
-      "name": "Word Around Town (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
+      "duration_ms": 141818,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
     },
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
       "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+      "duration_ms": 195908,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
     },
     {
       "added_at": null,
@@ -483,34 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
       "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 195908,
-      "name": "Never Fold",
-      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got Yo Wingz",
-        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Got Yo Wingz",
-      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got Yo Wingz",
+        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Got Yo Wingz",
+      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 209523,
       "name": "WWYD",
       "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 162246,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 114385,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 162246,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Young OG Project",
+        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
       },
@@ -867,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Young OG Project",
-        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
       "artists": [
         {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 256506,
-      "name": "We Good",
-      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
+      "duration_ms": 214935,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 171773,
       "name": "Daily Bread",
       "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

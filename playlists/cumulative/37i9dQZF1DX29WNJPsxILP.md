@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Jasmine Sandlas & Raga
 
-264 songs - 13 hr 27 min
+265 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3 DRAGS](https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9) | 2:47 | 2025-06-24 |  |
 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 | 2025-01-06 |  |
 | [8\-FIGGAAH! \(feat\. GD47\)](https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 3:05 | 2024-09-17 | 2025-01-07 |
+| [Aag](https://open.spotify.com/track/2ccfR07KexkfAyB0kTkj0p) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Aag](https://open.spotify.com/album/6rjqQpDqcW3eOY1jgD3GEA) | 2:41 | 2025-07-29 |  |
 | [Aamdani](https://open.spotify.com/track/7cUXdknIYp5WapBSweV4Xl) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:51 | 2023-11-17 | 2024-06-06 |
 | [Abey Yaar](https://open.spotify.com/track/5S2MwJBXp4JTC9r16btsJv) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Abey Yaar](https://open.spotify.com/album/0TL3cakInbP0w8mRY7mFr4) | 2:51 | 2023-03-10 | 2023-10-12 |
 | [ABEYY DON HU](https://open.spotify.com/track/7LRFECXdwOyHhVk26w4ORH) | [kaayo lk](https://open.spotify.com/artist/7ccWUSS2KCZOGMFkV7Qrll) | [ABEYY DON HU](https://open.spotify.com/album/5i73K5q6c89vKA7kDqMJiq) | 2:29 | 2025-01-06 | 2025-02-01 |
@@ -128,7 +129,7 @@
 | [Kaali Kaali Aankhein](https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kaali Kaali Aankhein](https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw) | 3:26 | 2025-07-04 |  |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-10 | 2025-01-22 |
 | [Kaise](https://open.spotify.com/track/7lE4hlwqJZE7Q19OGqKyXV) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 3:04 | 2024-06-13 | 2024-07-04 |
-| [Kala](https://open.spotify.com/track/60VpFHQNkaOIf9REhiRWLt) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [Kala](https://open.spotify.com/album/22MzplKqG60ji9jo6IDsr7) | 2:47 | 2025-06-27 |  |
+| [Kala](https://open.spotify.com/track/60VpFHQNkaOIf9REhiRWLt) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [Kala](https://open.spotify.com/album/22MzplKqG60ji9jo6IDsr7) | 2:47 | 2025-06-27 | 2025-07-30 |
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 | 2024-06-29 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-03-10 | 2025-01-07 |
 | [Kaleshi Launde](https://open.spotify.com/track/1I1pIaWzWBHuERmhKpHVey) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Kaleshi Launde](https://open.spotify.com/album/2mH4p2r7bxlgFyQjjbQfSi) | 3:05 | 2024-08-20 | 2025-04-19 |

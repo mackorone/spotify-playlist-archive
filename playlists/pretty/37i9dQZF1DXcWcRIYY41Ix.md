@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,763 likes - 114 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,778 likes - 114 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 13 | [Otras Bocas, Otras Lenguas](https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU) | [Alejo García](https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Otras Bocas, Otras Lenguas](https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I) | 4:45 |
 | 14 | [Coraje \(en directo\)](https://open.spotify.com/track/2ytENQr2lUGYlQtlgxw5mo) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Coraje \(en directo\)](https://open.spotify.com/album/6vvgIMcoVsXsLYxZzoFHkf) | 3:46 |
 | 15 | [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 |
-| 16 | [Sin Rosas \- 10 años de canciones](https://open.spotify.com/track/1dXkR5gtvEQEmlPk8uMnmn) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [SIN ROSAS \(10 años de canciones\)](https://open.spotify.com/album/3zDoOqW1AmX4Z0XI2R0wRN) | 3:15 |
+| 16 | [Sin Rosas \- 10 Años de Canciones](https://open.spotify.com/track/1dXkR5gtvEQEmlPk8uMnmn) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Sin Rosas \(10 Años de Canciones\)](https://open.spotify.com/album/3zDoOqW1AmX4Z0XI2R0wRN) | 3:15 |
 | 17 | [Todos dicen](https://open.spotify.com/track/6kMMGPfnEYHfXgbvpSJkYE) | [Chloé Bird](https://open.spotify.com/artist/1DbosGATEZmWSixTqlGPUh) | [Todos dicen](https://open.spotify.com/album/44pIo52FbnldJInReQbEjB) | 4:18 |
 | 18 | [Hacesdelmundomejor](https://open.spotify.com/track/7E7FGEpgQeegry3UyRqnjA) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 2:50 |
 | 19 | [lo\_divino](https://open.spotify.com/track/20SlD6QDxPlOd1Ip0NvsdG) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [anónimo](https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y) | 3:21 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 31 | [Lucha de gigantes \- En Vivo](https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Lucha de gigantes \(En Vivo\)](https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su) | 4:48 |
 | 32 | [La flor](https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [La flor](https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY) | 2:57 |
 | 33 | [las ramas](https://open.spotify.com/track/1VADn46hFBYDxs7eegvOAd) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [anónimo](https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y) | 3:01 |
-| 34 | [ESTA PIEL \- 10 años de Canciones](https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Esta Piel \(10 años de Canciones\)](https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ) | 3:32 |
+| 34 | [Esta Piel \- 10 años de Canciones](https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Esta Piel \(10 años de Canciones\)](https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ) | 3:32 |
 | 35 | [La frontera](https://open.spotify.com/track/6yDm3MB05w5abgb8MYZAUn) | [Porto](https://open.spotify.com/artist/1AiEOgwte8Uf207KWuGnbM) | [La frontera](https://open.spotify.com/album/2Bzhbf3SANpXAmYY5HmVfj) | 3:36 |
 | 36 | [Tiempo de descuento](https://open.spotify.com/track/6Pc63BRtECeyeJdBUhAKBd) | [Luzía](https://open.spotify.com/artist/5QfzdMOVjnsL7nlxQhep6K) | [Tiempo de descuento](https://open.spotify.com/album/06jIKpFZIel4EaPa1aGu6W) | 3:32 |
 | 37 | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/track/4tQonpIXaqmukiUcuAUTpl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/album/7umpLqi5gRIDPh0MpVyGfn) | 3:27 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 113 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/66N4z49zmWLC1oOsXRqu09) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [La Maza \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6FsFC9UhnjHs6kZOqlpbCh) | 5:03 |
 | 114 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 |
 
-Snapshot ID: `aIdgxAAAAACQH2x++bh30iW5JEygaIoy`
+Snapshot ID: `AAAAAE27gjR7uKjkD8bSV5F2XQ+fiVTe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,376 likes - 109 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,368 likes - 109 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 11 | [MER ÄN EN M](https://open.spotify.com/track/3SvzE8kBBFFXsgcYpUZLlf) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MER ÄN EN M](https://open.spotify.com/album/2qd9pHzgZaNSeGtGo3YDxs) | 2:47 |
 | 12 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 |
 | 13 | [Hosianna](https://open.spotify.com/track/1lovqjNeukfYJrQtQdEyfn) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [Hosianna](https://open.spotify.com/album/5u07mkTtUchuT1wiKFoQD5) | 2:05 |
-| 14 | [Berlin](https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Berlin](https://open.spotify.com/album/2Ledv5IU1jLs3JqSCEdA20) | 2:24 |
-| 15 | [Ala rasi](https://open.spotify.com/track/2oS8Zc7G3OWRXbp9ebTGnW) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Ala rasi](https://open.spotify.com/album/2F8wgZEe1VraVmiD82cpUU) | 2:20 |
-| 16 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
-| 17 | [Egen Chef](https://open.spotify.com/track/1OCfrzWzC0WNZn4OsgB4ba) | [Aj B](https://open.spotify.com/artist/7HNexSRBLdVWgYldSK1EN4) | [Egen Chef](https://open.spotify.com/album/76QnUBmtHFQ3Xd4voT4b8D) | 2:16 |
-| 18 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
-| 19 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
-| 20 | [LIVE](https://open.spotify.com/track/3DPGf3hmoxghMnYXpZzaIQ) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [LIVE](https://open.spotify.com/album/0aUnbeKKwNcC0vyymOEknM) | 1:54 |
-| 21 | [FYP](https://open.spotify.com/track/75J7QmrINGnXE848LfTuah) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A) | [FYP](https://open.spotify.com/album/5i6w0YAlXwoeb3E23XUOdD) | 2:20 |
-| 22 | [BIBI BIBI](https://open.spotify.com/track/6DZtRXxGZNun7EktSg4X4y) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj), [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [BIBI BIBI](https://open.spotify.com/album/2cGJj4NgpJKIQSSanJisIw) | 2:27 |
+| 14 | [Ala rasi](https://open.spotify.com/track/2oS8Zc7G3OWRXbp9ebTGnW) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Ala rasi](https://open.spotify.com/album/2F8wgZEe1VraVmiD82cpUU) | 2:20 |
+| 15 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
+| 16 | [Egen Chef](https://open.spotify.com/track/1OCfrzWzC0WNZn4OsgB4ba) | [Aj B](https://open.spotify.com/artist/7HNexSRBLdVWgYldSK1EN4) | [Egen Chef](https://open.spotify.com/album/76QnUBmtHFQ3Xd4voT4b8D) | 2:16 |
+| 17 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
+| 18 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
+| 19 | [LIVE](https://open.spotify.com/track/3DPGf3hmoxghMnYXpZzaIQ) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [LIVE](https://open.spotify.com/album/0aUnbeKKwNcC0vyymOEknM) | 1:54 |
+| 20 | [FYP](https://open.spotify.com/track/75J7QmrINGnXE848LfTuah) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A) | [FYP](https://open.spotify.com/album/5i6w0YAlXwoeb3E23XUOdD) | 2:20 |
+| 21 | [BIBI BIBI](https://open.spotify.com/track/6DZtRXxGZNun7EktSg4X4y) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj), [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [BIBI BIBI](https://open.spotify.com/album/2cGJj4NgpJKIQSSanJisIw) | 2:27 |
+| 22 | [Berlin](https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Berlin](https://open.spotify.com/album/2Ledv5IU1jLs3JqSCEdA20) | 2:24 |
 | 23 | [Ela Ela](https://open.spotify.com/track/0DfEzYx0Tgl2kb9pBN2QJ3) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ela Ela](https://open.spotify.com/album/5A6uIJ2NQ8wSdEwTmZYbfT) | 2:35 |
 | 24 | [FRIO](https://open.spotify.com/track/00TnItR3PcrcAdr5eXtPtj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [SONDURE](https://open.spotify.com/artist/24UMSNeejy6uKN8e9LMnsH) | [FRIO](https://open.spotify.com/album/7CQ1ZPZDB2FiqCTkailPkb) | 3:07 |
 | 25 | [SVARTA MADAME](https://open.spotify.com/track/5LuJ4xDE6C2dFDkJTkDAMe) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [44Drumz](https://open.spotify.com/artist/6xm2KDrJUgHEBvASo7OuHY) | [SVARTA MADAME](https://open.spotify.com/album/1kR4Q3oaF6L7r25b1H3uxO) | 2:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 108 | [AYWA](https://open.spotify.com/track/1dWAYiEBEZNfhTc7yQz8AM) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [AYWA](https://open.spotify.com/album/6q6Es7j8AyZXubmzurovKM) | 2:18 |
 | 109 | [En sista gång](https://open.spotify.com/track/59gjiR00mvfLrGRwFLhxCo) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [En sista gång](https://open.spotify.com/album/68oSNCwaTxD7Sarr9dXblG) | 2:25 |
 
-Snapshot ID: `aIcgJgAAAADRLKT+C40FBoimz/Ur74Rj`
+Snapshot ID: `aIizvgAAAACWsZGeRfS7S8qlVW2CstLH`

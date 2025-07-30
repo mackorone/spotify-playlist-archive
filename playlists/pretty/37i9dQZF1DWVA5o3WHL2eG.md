@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,532 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,534 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [GESTERN/HEUTE?](https://open.spotify.com/track/1WdHJRjPR83aQDZdsYysEG) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [GESTERN/HEUTE?](https://open.spotify.com/album/22XZso4bfbyELatOzOrIk8) | 3:30 |
 | 28 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
 | 29 | [Ego](https://open.spotify.com/track/7eDmnuJY1U8HqvZuA5PRlf) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Geb dir alles, stimmt so](https://open.spotify.com/album/50CL8CSrwQQghQSrkNRU1S) | 2:28 |
-| 30 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
-| 31 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 30 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 31 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 32 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
 | 33 | [KC](https://open.spotify.com/track/3HDle0GoI8VcCXGvcT0J7f) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [KC](https://open.spotify.com/album/6peo23Qvr0Hd2ytbuVOx1D) | 2:05 |
 | 34 | [Save The Last Dance](https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Save The Last Dance](https://open.spotify.com/album/4oGVlj2GZGx5MmIVzy6WmR) | 4:23 |
 | 35 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
-| 36 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
-| 37 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
-| 38 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
-| 39 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
+| 36 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 37 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
+| 38 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
+| 39 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
 | 40 | [Cherry Blossom](https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg) | [animat](https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb) | [Cherry Blossom](https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8) | 3:12 |
 | 41 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
 | 42 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
