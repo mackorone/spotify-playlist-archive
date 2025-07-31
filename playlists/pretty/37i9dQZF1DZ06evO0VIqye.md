@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,321 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,328 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [I Love Playin' With Fire](https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 3:02 |
 | 50 | [Long Time \- Acoustic](https://open.spotify.com/track/1d7T0hOm2JwyaVziI6enG9) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Changeup](https://open.spotify.com/album/1DT4EIajvxjEkGdvZ707xS) | 2:51 |
 
-Snapshot ID: `aIa9gAAAAABNoVEkppI4nuvBFtjmPzlD`
+Snapshot ID: `aIgPAAAAAAATLxvziZK56/ZBy8Ldl0Co`

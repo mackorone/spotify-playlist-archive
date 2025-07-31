@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 468472,
+  "num_followers": 468522,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
     },
     {
+      "added_at": "2025-05-02 05:35:09",
+      "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
       "added_at": "2025-02-21 22:36:55",
       "album": {
         "name": "gImmE gImmE",
@@ -1351,22 +1367,6 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
-    },
-    {
-      "added_at": "2025-05-02 05:35:09",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1705,6 +1705,22 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
       "added_at": "2025-05-02 05:35:09",
       "album": {
         "name": "Hypnotic (feat. Kyozo)",
@@ -1727,22 +1743,6 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1957,22 +1957,6 @@
       "url": "https://open.spotify.com/track/2iakEZOHqzJ7ret430eLry"
     },
     {
-      "added_at": "2025-01-24 05:00:54",
-      "album": {
-        "name": "Good Girls",
-        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 181850,
-      "name": "Good Girls",
-      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "FAME?",
@@ -1991,6 +1975,22 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "Good Girls",
+        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 181850,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     },
     {
-      "added_at": "2025-03-24 14:38:15",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
       "added_at": "2025-04-04 04:00:31",
       "album": {
         "name": "Late Night Secrets",
@@ -2047,6 +2031,22 @@
       "duration_ms": 185952,
       "name": "Late Night Secrets",
       "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
+    },
+    {
+      "added_at": "2025-03-24 14:38:15",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2085,24 +2085,24 @@
       "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
-      "added_at": "2025-02-21 05:00:41",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Choose Violence",
-        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         }
       ],
-      "duration_ms": 195071,
-      "name": "Choose Violence",
-      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-03-07 05:47:46",
@@ -2125,24 +2125,24 @@
       "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2025-02-21 05:00:41",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+        "name": "Choose Violence",
+        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+      "duration_ms": 195071,
+      "name": "Choose Violence",
+      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2185,6 +2185,26 @@
       "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
       "added_at": "2025-04-25 04:00:58",
       "album": {
         "name": "Move Over",
@@ -2221,30 +2241,10 @@
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2025-07-04 04:00:31",
       "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
-      "added_at": "2025-05-16 04:00:36",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/1k4s0DDRx9nymD1HGwtyGs"
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
       },
       "artists": [
         {
@@ -2252,29 +2252,9 @@
           "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 216562,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/30ZKdAZnM8vyaSqN7AaZT7"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 164545,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/0PfbvUzufeSwaNeYuWUhDl"
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2024-11-06 13:03:41",
@@ -2337,10 +2317,30 @@
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
-      "added_at": "2025-07-04 04:00:31",
+      "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/30ZKdAZnM8vyaSqN7AaZT7"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/0PfbvUzufeSwaNeYuWUhDl"
+    },
+    {
+      "added_at": "2025-05-16 04:00:36",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1k4s0DDRx9nymD1HGwtyGs"
       },
       "artists": [
         {
@@ -2348,9 +2348,9 @@
           "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
+      "duration_ms": 216562,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2401,22 +2401,6 @@
       "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
     },
     {
-      "added_at": "2024-11-13 19:42:07",
-      "album": {
-        "name": "Wrong Feels Right",
-        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
-      },
-      "artists": [
-        {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wrong Feels Right",
-      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Got That",
@@ -2435,6 +2419,26 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,625 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,671 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 114 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 115 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 
-Snapshot ID: `Z5QrFAAAAACL7HOHRSlHBj1TKshtXFXp`
+Snapshot ID: `AAAAAPDqjqZ4sapdoNuwwuq8G7fPwTih`

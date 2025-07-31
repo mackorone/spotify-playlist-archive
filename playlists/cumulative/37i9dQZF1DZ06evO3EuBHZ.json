@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Partnership Blues",
+        "url": "https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160659,
+      "name": "Partnership Blues",
+      "url": "https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4"
+    },
+    {
+      "album": {
         "name": "Big Mama's Home (35 Classic Tracks)",
         "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 37011,
+  "num_followers": 37017,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADvNoKZHPKmEejY/AHrZYo9",
+  "snapshot_id": "aIgPAAAAAACmEQDeA8GW7gdwvmCnxKhd",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 348534,
+      "name": "Sovereign Over Us",
+      "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 20",
         "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 354666,
       "name": "Draw Me Close",
       "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 11",
-        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 348534,
-      "name": "Sovereign Over Us",
-      "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 282681,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 282681,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+      "duration_ms": 322753,
+      "name": "Psalm 8 (How Majestic Is Your Name)",
+      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+        "name": "Psalms Live",
+        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 322753,
-      "name": "Psalm 8 (How Majestic Is Your Name)",
-      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
+      "duration_ms": 292379,
+      "name": "O Praise the Name (Live)",
+      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 261229,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms Live",
-        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 292379,
-      "name": "O Praise the Name (Live)",
-      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 275477,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM"
+      "duration_ms": 261182,
+      "name": "Great I Am",
+      "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 261182,
-      "name": "Great I Am",
-      "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
+      "duration_ms": 275477,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM"
     },
     {
       "added_at": null,

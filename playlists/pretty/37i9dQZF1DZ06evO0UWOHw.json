@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13288,
+  "num_followers": 13301,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAACjd10ZXvt2VYB0uxkhU3Mc",
+  "snapshot_id": "aIgPAAAAAAChJaKz44lGaLgFjlXgCB8g",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 212041,
       "name": "Ludo",
       "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadly (feat. Victony)",
-        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 181979,
-      "name": "Deadly (feat. Victony)",
-      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selema (Po Po) [Remix]",
         "url": "https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deadly (feat. Victony)",
+        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "Deadly (feat. Victony)",
+      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 170088,
       "name": "More",
       "url": "https://open.spotify.com/track/3KROMpk1iSj0NgebYd6E3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
-      },
-      "artists": [
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 331332,
-      "name": "Margaret",
-      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 178048,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 331332,
+      "name": "Margaret",
+      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
       "added_at": null,

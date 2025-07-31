@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 
 > Upbeat songs that will get the whole family feelin' good!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,829 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,827 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 41 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
 | 42 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 43 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
-| 44 | [Cloudy Day](https://open.spotify.com/track/3QUzJqgkcjvsLhgqVos6ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/5fzx5p8CnKO8ZFrluq8xAi) | 3:05 |
-| 45 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/23S9UFWrkq2FcDAU2zUzey) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:57 |
+| 44 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/23S9UFWrkq2FcDAU2zUzey) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:57 |
+| 45 | [Cloudy Day](https://open.spotify.com/track/3QUzJqgkcjvsLhgqVos6ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/5fzx5p8CnKO8ZFrluq8xAi) | 3:05 |
 | 46 | [Crowd Go Crazy](https://open.spotify.com/track/0W58ZzQFWaZgRkKIbSFjde) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:00 |
 | 47 | [Best Thing Ever](https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 4:04 |
 | 48 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/7AxzEXLvtVf5zm5JhVzikc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/2NgSxXlI2lFLAPG49soqlT) | 3:52 |

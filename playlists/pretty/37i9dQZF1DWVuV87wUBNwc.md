@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > TRIANGLE DES BERMUDES au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374,924 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,375,222 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 |
 | 50 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 
-Snapshot ID: `aIKtDwAAAADaxbeSjDo6hAE2NtxT5IPB`
+Snapshot ID: `AAAAAKSQGUTgR4bRGGKDdshJSMbu/6XX`

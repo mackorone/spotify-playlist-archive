@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zakkum ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,093 likes - 142 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,078 likes - 142 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Tyler, The Creator\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,608 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,721 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
 | 100 | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/0D7SdJZbjFdPhDSH7EnFnx) | 3:00 |
 
-Snapshot ID: `AAAAAEQbHs/qvUImmMUJILsCt6+I/X3U`
+Snapshot ID: `aIKQzAAAAAAApWDPwVtkRvuPqc8f8GpD`

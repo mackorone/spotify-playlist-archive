@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 
 > Songs that are queer\. TO ME.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 31 songs - 1 hr 44 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 | 29 | [Girls](https://open.spotify.com/track/3mfwweW6FkfixF5DFP2TTJ) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels \(Deluxe\)](https://open.spotify.com/album/3vcPZf2pYrjqrHNVkPTDVL) | 3:26 |
 | 30 | [Blood Moon Love](https://open.spotify.com/track/4J28eKrMo7vD217UlbcZat) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Blood Moon Love](https://open.spotify.com/album/19Tzd7YSXaZBlmekmwcCE8) | 2:43 |
 | 31 | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/track/6pG2R3eEUtFeH0sHkIcdg5) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/album/4ywC4BFKBC90intbtIV715) | 3:14 |
+| 32 | [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 |
 
-Snapshot ID: `AAAAI4Eu1aI00KwRKEexiUapL+75PkWv`
+Snapshot ID: `AAAAJPMcXR7aypCj/RG3QjDKIQLdpBoc`

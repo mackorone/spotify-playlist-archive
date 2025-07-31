@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,782 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,909 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 16 | [Bossa De Urso](https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:14 |
 | 17 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 |
 | 18 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
-| 19 | [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 |
-| 20 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
+| 19 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
+| 20 | [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 |
 | 21 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
 | 22 | [Tantas Coisas](https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j) | [Seu Elias](https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v) | [Fubá Mimoso](https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0) | 2:40 |
 | 23 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 48 | [Samba Dolente](https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR) | [Francis Hime](https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6) | [Hoje](https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I) | 3:54 |
 | 49 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 |
 | 50 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 |
-| 51 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 |
+| 51 | [Mediação](https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw) | [Bossa Brothers](https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc) | [Mediação](https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1) | 2:31 |
 | 52 | [Além da Bossa](https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Além da Bossa](https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq) | 3:45 |
-| 53 | [Mediação](https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw) | [Bossa Brothers](https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc) | [Mediação](https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1) | 2:31 |
+| 53 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 |
 | 54 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 |
 | 55 | [Rabiscos](https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Rabiscos](https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC) | 3:16 |
-| 56 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 |
-| 57 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 |
+| 56 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 |
+| 57 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 |
 | 58 | [Na Casa do Jornalista](https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC) | [Haroldo Bontempo](https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9), [Lina Lanna](https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F) | [Músicas para Travessia](https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt) | 2:04 |
 | 59 | [Samba Doce](https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf) | [Jorge Helder](https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg) | [Samba Doce](https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh) | 3:33 |
 | 60 | [Chuvas De Verão](https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:49 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 66 | [Muito à Vontade](https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp) | [Sammy Silva Band](https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI) | [Muito à Vontade](https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0) | 2:37 |
 | 67 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 |
 | 68 | [Liberdade, vai](https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Liberdade, vai](https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI) | 3:51 |
-| 69 | [Encanto](https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb) | [Isaac Magalhães](https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2) | [Encanto](https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX) | 3:29 |
-| 70 | [Musa em Fuga](https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 3:22 |
+| 69 | [Musa em Fuga](https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 3:22 |
+| 70 | [Encanto](https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb) | [Isaac Magalhães](https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2) | [Encanto](https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX) | 3:29 |
 | 71 | [Bossa de Maio](https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv) | [Bisdré Santos](https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb), [Gabriel Gavi](https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB), [Stefano Moliner](https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87), [Bebê do Góes](https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc) | [Feito à Mão](https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw) | 4:39 |
 | 72 | [Salomé](https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD) | [Matheus Fonseca](https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss) | [Salomé](https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K) | 3:56 |
 | 73 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Tin Tin Por Tin Tin](https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK) | 2:20 |

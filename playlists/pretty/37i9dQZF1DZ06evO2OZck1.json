@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADQSkRDd7kz9QQuadsgeM9z",
+  "snapshot_id": "aIgPAAAAAAAVvqqxDn4+sbPwUzrqyvXk",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "koi geba",
-      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEAVYWEIGHT",
         "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 212863,
       "name": "ARMSTRONG",
       "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "koi geba",
+      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Yourself feat. ATARASHII GAKKO!",
-        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
       },
       "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Free Yourself feat. ATARASHII GAKKO!",
-      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
+        "name": "Free Yourself feat. ATARASHII GAKKO!",
+        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
       "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
+      "duration_ms": 213500,
+      "name": "Free Yourself feat. ATARASHII GAKKO!",
+      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "kimiwaina'17",
-      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELLO (from The Tiger's Apprentice)",
         "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "kimiwaina'17",
+      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 171566,
       "name": "MANINGEN",
       "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,

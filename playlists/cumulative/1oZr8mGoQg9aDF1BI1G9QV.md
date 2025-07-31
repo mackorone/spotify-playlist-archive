@@ -4,7 +4,7 @@
 
 > Songs that are queer\. TO ME.
 
-31 songs - 1 hr 44 min
+32 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,5 +39,6 @@
 | [Too Bad On Your Birthday](https://open.spotify.com/track/7C9Skg5eUg2hEg8Wke6p4e) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:58 | 2024-10-12 |  |
 | [Verbatim](https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/391bN6K5GtiVruKSrjQjL2) | 2:48 | 2024-09-16 |  |
 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 | 2024-10-17 |  |
+| [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 | 2025-07-30 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,711 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,829 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

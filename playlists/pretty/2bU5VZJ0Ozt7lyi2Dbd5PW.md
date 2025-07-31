@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2bU5VZJ0Ozt7lyi2Dbd5PW.md) - [plain]
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 72 likes - 11 songs - 28 min 43 sec
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 72 likes - 12 songs - 30 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,5 +19,6 @@ pretty - [cumulative](/playlists/cumulative/2bU5VZJ0Ozt7lyi2Dbd5PW.md) - [plain]
 | 9 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 |
 | 10 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 11 | [Gucci Gucci](https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK) | [Kreayshawn](https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd) | [Somethin 'Bout Kreay](https://open.spotify.com/album/3vLsCsD7k1yiuTZysDOM2a) | 3:07 |
+| 12 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/2249zM4BypGtGeOmYEkAjL) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK](https://open.spotify.com/album/3YG1T9eW6bNhfcWtjCPqdN) | 1:56 |
 
-Snapshot ID: `AAAAEnkWW7DAtxzSOT9kmO3S4HJWXgS1`
+Snapshot ID: `AAAAEyA/V9s76uzPLXSZRlRyz+KXEWj3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,386 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,450 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 15 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 |
 | 16 | [Blood](https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/4UvzxGsJRbfoAHxQ5QHV1k) | 3:04 |
 | 17 | [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 |
-| 18 | [Andrea Chenier, Act III: La mamma morta](https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Famous Arias and Duets: Verdi, Mozart, and Puccini](https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN) | 4:55 |
+| 18 | [Andrea Chénier, Andrea Chenier, Act III: La mamma morta](https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Famous Arias and Duets: Verdi, Mozart, and Puccini](https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN) | 4:55 |
 | 19 | [De O De O Doe De O](https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb) | [Skip Easterling](https://open.spotify.com/artist/7Ljeb35EACw2LCUxhvRHtY) | [Shoo Fly Pop Rock & Folk from the Bayou Vol\. 2](https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg) | 3:01 |
 | 20 | [Sciuri Sciura](https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Blonde Redhead](https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp) | 3:22 |
 | 21 | [Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 4:53 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 24 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 25 | [Perfect Day \- Chris Lord Alge Mix](https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Legally Blonde](https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE) | 3:26 |
 
-Snapshot ID: `Zk3QMAAAAABx2V6hI8JVXqglghEuEjzy`
+Snapshot ID: `AAAAAGcPszu3aEhu+JefyDqwdEapN3BE`

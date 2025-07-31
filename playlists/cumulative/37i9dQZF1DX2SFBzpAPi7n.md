@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dragon Pony\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,000 songs - 2 day 13 hr 4 min
+1,001 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-04 | 2024-08-11 |
 | [Brand New Day](https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3) | 3:26 | 2025-06-23 | 2025-07-08 |
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 | 2024-03-22 |
-| [Break the Darkness](https://open.spotify.com/track/2QudD76AkV0lDbByzTMt85) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 | 2025-07-23 |  |
+| [Break the Darkness](https://open.spotify.com/track/2QudD76AkV0lDbByzTMt85) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 | 2025-07-23 | 2025-07-31 |
 | [Break Through](https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Break Through](https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT) | 4:06 | 2022-07-22 | 2022-08-02 |
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |
 | [Break up! \(Feat\. CHANGMO\)](https://open.spotify.com/track/77SdyZ2AxTfa849qhQaFVT) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Break up!](https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp) | 3:08 | 2024-04-22 | 2024-05-10 |
@@ -641,6 +641,7 @@
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-17 |
 | [Plasma](https://open.spotify.com/track/2hGfoOK9qmcNAPjYTEhw5G) | [Hangronan](https://open.spotify.com/artist/306snEmLuui267KbuZX8Fk) | [Plasma](https://open.spotify.com/album/6S2IcmJlNdlA4xBAD3lwHA) | 3:39 | 2024-11-06 | 2024-12-14 |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
+| [Player 1](https://open.spotify.com/track/6go0riAOZ7nZyDPpRjZ53N) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Player 1](https://open.spotify.com/album/0UyEaKpAyUP09apb6Rmb3G) | 3:38 | 2025-07-30 |  |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |
 | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz) | 3:07 | 2023-06-13 | 2023-06-23 |
 | [PLUTO](https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2024-06-05 | 2024-09-11 |
@@ -654,7 +655,7 @@
 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 | 2023-04-05 | 2023-11-04 |
 | [pueblo](https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1) | 3:48 | 2023-11-15 | 2024-03-22 |
 | [pueblo](https://open.spotify.com/track/2DxmlA2heg85pwLrdLp7Zy) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV) | 3:48 | 2022-04-21 | 2022-07-29 |
-| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 | 2025-07-26 |
+| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 |  |
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-09-27 | 2024-01-09 |
 | [Radio Drive](https://open.spotify.com/track/0YWNfk3ONygowyOOTvlueu) | [9 and the Numbers](https://open.spotify.com/artist/3GtxaQXCwJZaoV9lmKofs0) | [Radio Drive](https://open.spotify.com/album/7K1yB4bLLhwIyjWYheXdY4) | 3:06 | 2024-05-08 | 2024-05-10 |
@@ -866,7 +867,7 @@
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
-| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
+| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 | 2025-07-31 |
 | [Transfigure \(Feat\. Kim Doyeong\)](https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Kim Doyeong](https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:31 | 2023-07-12 | 2023-07-29 |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |

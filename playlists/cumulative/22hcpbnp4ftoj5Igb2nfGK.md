@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-115 songs - 6 hr 20 min
+116 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:59 | 2025-04-21 |  |
 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 | 2023-10-05 |  |
 | [Drink N Dance](https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:40 | 2025-02-16 | 2025-05-29 |
+| [DUCKWORTH.](https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:08 | 2025-07-30 |  |
 | [E\. Coli \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Bread](https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI) | 2:12 | 2025-02-05 |  |
 | [Eh](https://open.spotify.com/track/5pNYiMbnXm7UkewX2KhmyK) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 2:52 | 2025-03-10 |  |
 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 | 2025-03-25 |  |

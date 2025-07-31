@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABmwfXO3298rV/03WZdIm6q",
+  "snapshot_id": "aIgPAAAAAAAlhOYNGu4iV0iqJCNpOrH0",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Sobrevivi (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Nuvem (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 249426,
       "name": "A Nuvem (Ao Vivo)",
       "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Sobrevivi (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bastidores da Alma",
+        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Bastidores da Alma",
+      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1grimas Ensinam",
         "url": "https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 266054,
       "name": "Prefiro Ser Fiel",
       "url": "https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bastidores da Alma",
-        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Bastidores da Alma",
-      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
     },
     {
       "added_at": null,

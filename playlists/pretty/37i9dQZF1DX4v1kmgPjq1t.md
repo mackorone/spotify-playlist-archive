@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,574 likes - 23 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,784 likes - 23 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain]
 | 22 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5111HV1Fb6hfeHH0b7VYMm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/1l1WiN1LdJ1eW18CDsMoCo) | 3:21 |
 | 23 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
 
-Snapshot ID: `aHZB6AAAAAAATPXXtDHRNTen8ywkW1Q8`
+Snapshot ID: `AAAAAGphf0tM79hGuE1ADrgy6epfobFr`

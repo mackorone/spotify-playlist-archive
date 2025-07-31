@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Tyla, Fireboy DML  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,798 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,967 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 57 | [OHA](https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Reekado Banks](https://open.spotify.com/artist/2cm9kuB5FB4fKaJ9SJEAVq), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [OHA](https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u) | 2:53 |
 | 58 | [Fesemule](https://open.spotify.com/track/08bMaL72I4BuKKWWizlwBL) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [S Brown](https://open.spotify.com/artist/3TNA43Vo9hRkh7XglAMIgp) | [Fesemule](https://open.spotify.com/album/5iG3BPGTN8AaXmRnbfX0yt) | 3:11 |
 | 59 | [Let you go](https://open.spotify.com/track/0rer0sotWINaqWKZ1I3Nkq) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk) | [Situationship](https://open.spotify.com/album/2IvvH3wkXZ33lnfaaWeeA4) | 2:17 |
-| 60 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |
+| 60 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 61 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
 | 62 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
 | 63 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-62 songs - 3 hr 45 min
+63 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Who Are the Electors?](https://open.spotify.com/track/0hiA5AH9DGZkfrajTZXFnl) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Who Are the Electors?](https://open.spotify.com/album/12QiPGx9GDwoSIllJ2qcJS) | 2:20 | 2023-03-26 |  |
 | [Why We Build the Wall](https://open.spotify.com/track/68oU2YXg4kwPpertTUFrC6) | [Patrick Page](https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:00 | 2023-03-31 |  |
 | [Workingman Unite](https://open.spotify.com/track/1VRobEk2Fpc9K2SeWTSTtq) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [I Will Win: Songs of the Wobblies](https://open.spotify.com/album/2iZE8lCvHwLpbGHgGuAM3s) | 2:08 | 2024-09-16 |  |
+| [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 | 2025-07-30 |  |
 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 | 2023-05-10 |  |
 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 | 2024-11-28 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-10-14 |  |

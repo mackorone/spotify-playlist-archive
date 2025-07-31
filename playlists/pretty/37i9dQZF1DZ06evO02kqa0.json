@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39432,
+  "num_followers": 39430,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADnFj/VQsAr5eYFMvlzon3e",
+  "snapshot_id": "aIgPAAAAAAD1tl0YVQGRrdDrnh9NI5Ne",
   "tracks": [
     {
       "added_at": null,
@@ -24,8 +24,8 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
+          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
+          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
         },
         {
           "name": "Tullio Serafin",
@@ -444,8 +444,8 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Turin",
-          "url": "https://open.spotify.com/artist/6i38LYQcPdliqqhHxhjHRX"
+          "name": "Orchestra Sinfonica Nazionale della RAI di Torino",
+          "url": "https://open.spotify.com/artist/6N8VkPyxz8AF36OLN2yutw"
         },
         {
           "name": "Antonino Votto",
@@ -453,7 +453,7 @@
         }
       ],
       "duration_ms": 275013,
-      "name": "La Gioconda, Act IV: Suicido! \u2026",
+      "name": "La Gioconda, Op. 9, La Gioconda, Act IV: Suicido! \u2026",
       "url": "https://open.spotify.com/track/7ExwOPh8AzzyHcZNiP61KV"
     },
     {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 238191,
-      "name": "Sempre libera",
-      "url": "https://open.spotify.com/track/3n0phoeQUSNApN0sjeqQg1"
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
     },
     {
       "added_at": null,
@@ -795,6 +795,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
+          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Turandot, Act I: Signore, ascolta!",
+      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -863,34 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "Turandot, Act I: Signore, ascolta!",
-      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -915,30 +915,6 @@
       "duration_ms": 412360,
       "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
       "url": "https://open.spotify.com/track/3YYUmw4asVeqUlkJMKPfzW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
-        "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
-      },
-      "artists": [
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Manon, Act II Scene 4: \"Je ne suis que faiblesse et fragilit\u00e9 ... Adieu, notre petite table\" (Manon) - 1963 Columbia Recording",
-      "url": "https://open.spotify.com/track/6eg07P34m0Ieq5VWHMNH01"
     },
     {
       "added_at": null,
@@ -971,6 +947,30 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
+        "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
+      },
+      "artists": [
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Manon, Act II Scene 4: \"Je ne suis que faiblesse et fragilit\u00e9 ... Adieu, notre petite table\" (Manon) - 1963 Columbia Recording",
+      "url": "https://open.spotify.com/track/6eg07P34m0Ieq5VWHMNH01"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandiose Stimmen: Maria Callas",
+        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 131933,
+      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria Callas",
         "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
@@ -1051,78 +1067,6 @@
       "duration_ms": 318826,
       "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
       "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandiose Stimmen: Maria Callas",
-        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 131933,
-      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas sings Great Arias from French Operas - Callas Remastered",
-        "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "French National Radio Orchestra",
-          "url": "https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ"
-        }
-      ],
-      "duration_ms": 318053,
-      "name": "Saint-Sa\u00ebns: Samson et Dalila, Op. 47, Act 1: \"Printemps qui commence\" (Dalila)",
-      "url": "https://open.spotify.com/track/4m6ytPVequobQIcSBAwuHH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Maria Callas",
-        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
     },
     {
       "added_at": null,
@@ -1163,6 +1107,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Maria Callas",
+        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Great Arias from French Operas - Callas Remastered",
+        "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "French National Radio Orchestra",
+          "url": "https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ"
+        }
+      ],
+      "duration_ms": 318053,
+      "name": "Saint-Sa\u00ebns: Samson et Dalila, Op. 47, Act 1: \"Printemps qui commence\" (Dalila)",
+      "url": "https://open.spotify.com/track/4m6ytPVequobQIcSBAwuHH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1187,30 +1187,6 @@
       "duration_ms": 205826,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
-        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 348693,
-      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
     },
     {
       "added_at": null,
@@ -1389,8 +1365,24 @@
         }
       ],
       "duration_ms": 234466,
-      "name": "Cavalleria rusticana: Part II: Intermezzo",
+      "name": "Cavalleria rusticana: Pt. II: Intermezzo",
       "url": "https://open.spotify.com/track/1gnROk7Go9QfQrvQE11f9H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BD Music Presents Maria Callas",
+        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Carmen: L'amour est un oiseau rebelle",
+      "url": "https://open.spotify.com/track/1sj4kIn8n5nXTGwB9CsieB"
     }
   ],
   "unique_name": "This Is Maria Callas",

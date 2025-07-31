@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,865 likes - 125 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,866 likes - 125 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 124 | [蕾絲花邊](https://open.spotify.com/track/6zBm82cW189TaPBtQWP2hT) | [Wakin Chau](https://open.spotify.com/artist/6wcIBaOvA9XNGgPujYZZ7L) | [蕾絲花邊](https://open.spotify.com/album/5wmsjMwNYt20qR8NJKER3u) | 4:54 |
 | 125 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
 
-Snapshot ID: `aIZNCwAAAADPzEP+XEu7ad63vvtJJAC8`
+Snapshot ID: `aIZNCwAAAAD7kQ+2mxXeBUKOIfmLLbOQ`

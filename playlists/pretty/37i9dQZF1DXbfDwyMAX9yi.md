@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 
 > Our favorite subject? Their chemistry\. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,876 likes - 38 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,904 likes - 38 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 | 37 | [Something's Off \- from "Maxton Hall"](https://open.spotify.com/track/2InEuGzKI41WCTMS4vnXUy) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 |
 | 38 | [Let Down \(Acoustic Version\) \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/6kH6AdZkHsvlBVc6nfEmsr) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 0:53 |
 
-Snapshot ID: `ZnCafAAAAABbo8C3HxPdLDdeuzuCamMB`
+Snapshot ID: `ZnCafAAAAACQy4MdsbTW4gCD5Yjv4BUr`

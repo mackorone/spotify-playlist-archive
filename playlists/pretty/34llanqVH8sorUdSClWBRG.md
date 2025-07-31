@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 60 songs - 3 hr 21 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 61 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 58 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
 | 59 | [Inexplicable](https://open.spotify.com/track/3G05DblSK0kTRwE2SG7clZ) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Inexpicable](https://open.spotify.com/album/3RICruUJtlqzGPiBZ6BQX4) | 4:15 |
 | 60 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 |
+| 61 | [Active Trauma](https://open.spotify.com/track/0arc3QuQdiy6u8CmgYWQPW) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:49 |
 
-Snapshot ID: `AAAAQHs039fx+vPBGdtkhiqTzOUt3ygD`
+Snapshot ID: `AAAAQeitvlW/NSWsp4HDiv+sET6jBepb`

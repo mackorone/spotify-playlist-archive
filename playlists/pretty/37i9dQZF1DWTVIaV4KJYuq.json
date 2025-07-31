@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 710097,
+  "num_followers": 710077,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 219960,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
       "artists": [
         {
           "name": "She & Him",
           "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 230813,
+      "name": "Unchained Melody (feat. The Chapin Sisters)",
+      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
       },
       "artists": [
         {
           "name": "She & Him",
           "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        },
-        {
-          "name": "The Chapin Sisters",
-          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
         }
       ],
-      "duration_ms": 230813,
-      "name": "Unchained Melody (feat. The Chapin Sisters)",
-      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1791,6 +1791,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
+      "url": "https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Sweet Child o\u2019 Mine",
         "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
       },
@@ -1819,42 +1851,6 @@
       "duration_ms": 227600,
       "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
-      "url": "https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Strangers (From \"Life In A Day\")",
-        "url": "https://open.spotify.com/album/5gZVsnYndVV84cOFYrJ8wX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 192963,
-      "name": "Strangers - From \"Life In A Day\"",
-      "url": "https://open.spotify.com/track/7yntS3BLfzBAKaHsIvYzjw"
     }
   ],
   "unique_name": "Classic Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sonia Stein
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,574 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,577 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 13 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 14 | [Jersey In July](https://open.spotify.com/track/17YAmnbsjNbnA2Cp4XbWtV) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Jersey In July](https://open.spotify.com/album/2EK0qh8sBulbiiij4dZA0H) | 2:05 |
 | 15 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 |
-| 16 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
-| 17 | [Baw Się Dobrze](https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Baw Się Dobrze](https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc) | 2:23 |
+| 16 | [Baw Się Dobrze](https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Baw Się Dobrze](https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc) | 2:23 |
+| 17 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
 | 18 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 |
 | 19 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 |
 | 20 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 |
@@ -51,27 +51,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 41 | [BOOM](https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BOOM](https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ) | 2:44 |
 | 42 | [ESCAPE](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [ESCAPE](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 |
 | 43 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 |
-| 44 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 |
-| 45 | [moja love](https://open.spotify.com/track/1YtdI4h1XdBPZ44iMCWHZY) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [moja love](https://open.spotify.com/album/7CarrTn901aVyU3oKCN5aL) | 3:01 |
-| 46 | [Letni](https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Letni](https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj) | 2:28 |
-| 47 | [Tak, Ty!](https://open.spotify.com/track/7KV7MrgnlfK1nR3Nb0xvSM) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/5RVaT88U2jh0Trc82Eaiay) | 2:49 |
+| 44 | [moja love](https://open.spotify.com/track/1YtdI4h1XdBPZ44iMCWHZY) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [moja love](https://open.spotify.com/album/7CarrTn901aVyU3oKCN5aL) | 3:01 |
+| 45 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 |
+| 46 | [Tak, Ty!](https://open.spotify.com/track/7KV7MrgnlfK1nR3Nb0xvSM) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/5RVaT88U2jh0Trc82Eaiay) | 2:49 |
+| 47 | [Letni](https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Letni](https://open.spotify.com/album/5W1OECvmOy8qTp3FAYdYWj) | 2:28 |
 | 48 | [Tylko gest](https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Tylko gest](https://open.spotify.com/album/2V3hRzPgs0MW2TaHaInnny) | 3:08 |
 | 49 | [Za długo](https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q) | [Paulina Mikuła](https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht) | [Za długo](https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin) | 3:37 |
 | 50 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 |
 | 51 | [Jeszcze raz](https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Jeszcze raz](https://open.spotify.com/album/1RsZtOTCP3XVv240LxDrhb) | 2:32 |
 | 52 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 |
 | 53 | [Czas](https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di) | 3:55 |
-| 54 | [Minie jesień](https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Minie jesień](https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74) | 2:48 |
-| 55 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
+| 54 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
+| 55 | [Minie jesień](https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Minie jesień](https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74) | 2:48 |
 | 56 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 |
 | 57 | [Mam talent](https://open.spotify.com/track/7yRAd07H8Khf9qVZhFSyeO) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mam talent](https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A) | 3:34 |
-| 58 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
-| 59 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 |
+| 58 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 |
+| 59 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
 | 60 | [UV](https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [UV](https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH) | 2:59 |
 | 61 | [puste słowa](https://open.spotify.com/track/5EXUV3N9nAibypoeBTZnlb) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn) | [puste słowa](https://open.spotify.com/album/6VcBpdcLmlNtaw6mzime7f) | 2:37 |
 | 62 | [Niewidzialna](https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6) | [Zosia Wójcik](https://open.spotify.com/artist/6cfLNhvfa7katU5mLVu1Ye) | [Niewidzialna](https://open.spotify.com/album/13pzluNjYhNK0zPscDrRey) | 2:25 |
-| 63 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 |
-| 64 | [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 |
+| 63 | [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 |
+| 64 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 |
 | 65 | [Gołębie](https://open.spotify.com/track/5HSDp4WE5al3NP8tKcZyJD) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Gołębie](https://open.spotify.com/album/1yTlty7l1TWZYl3BrkYeBj) | 4:50 |
 
 Snapshot ID: `aIKtEAAAAABXXee4BFNG/eLjn+VXYj8w`

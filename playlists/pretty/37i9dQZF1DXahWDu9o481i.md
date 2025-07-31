@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,922 likes - 53 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,945 likes - 53 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 34 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 | 35 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 |
 | 36 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 |
-| 37 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
-| 38 | [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
-| 39 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 |
+| 37 | [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
+| 38 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 |
+| 39 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 |
 | 40 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ) | 2:45 |
 | 41 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 |
 | 42 | [9 2 5](https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [9 2 5](https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF) | 4:29 |
 | 43 | [Eternamente Joven](https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.III\)](https://open.spotify.com/album/3N5Q9YAJAC2pM2CT7WUiQN) | 2:43 |
 | 44 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 45 | [Cruel Love](https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cruel Love](https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1) | 4:39 |
-| 46 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
-| 47 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 |
+| 46 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 |
+| 47 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
 | 48 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 |
 | 49 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
 | 50 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156545,
+  "num_followers": 156554,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 185769,
       "name": "Lifetimes Away (feat. Medina)",
       "url": "https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2025-07-17 13:51:58",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
-        "name": "Call Your Girlfriend",
-        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 194809,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
         "name": "Until The Morning Light",
         "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 188493,
       "name": "Until The Morning Light",
       "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
+        "name": "Call Your Girlfriend",
+        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 194809,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
     },
     {
       "added_at": "2025-07-17 13:51:58",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
-        "name": "No Fixed Abode",
-        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "No Fixed Abode",
-      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 144720,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
+        "name": "No Fixed Abode",
+        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "No Fixed Abode",
+      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
     }
   ],
   "unique_name": "ren hygge",

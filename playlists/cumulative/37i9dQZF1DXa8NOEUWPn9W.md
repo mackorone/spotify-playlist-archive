@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring HoneyLuv & Aluna
 
-1,239 songs - 2 day 23 hr 43 min
+1,240 songs - 2 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-03-04 | 2022-07-23 |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2024-02-16 | 2024-09-07 |
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-11-11 | 2022-12-18 |
-| [Animal](https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Animal](https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD) | 3:13 | 2025-04-11 |  |
+| [Animal](https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Animal](https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD) | 3:13 | 2025-04-11 | 2025-07-31 |
 | [Animal Kingdom](https://open.spotify.com/track/68pyMFPW2TOrCrjnbytDk5) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Animal Kingdom](https://open.spotify.com/album/4eABXs2kDjjsBgjg0CeWIT) | 3:10 | 2021-03-27\* | 2021-07-31 |
 | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/album/1AcmrdgJxvJkwZoKJ9s8ww) | 3:09 | 2023-06-02 | 2023-08-12 |
 | [Another Day](https://open.spotify.com/track/2Psrh4CNi6HbIwf8w4u0Zx) | [Soul Saver](https://open.spotify.com/artist/06s3ib5rLhepD98wuSpw3y) | [Another Day](https://open.spotify.com/album/0Gc4N3chIBg92EWtNOc4rU) | 7:15 | 2022-12-28 | 2023-01-06 |
@@ -859,6 +859,7 @@
 | [Place I Belong](https://open.spotify.com/track/56HvFN72Th5EHiDkluFtny) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Ollie Norton](https://open.spotify.com/artist/6P1ExGJjTHgOEWPTpg3gEp) | [Place I Belong](https://open.spotify.com/album/3qZHzhc1et18cJmhF3cZhH) | 3:34 | 2021-04-10 | 2021-08-07 |
 | [Planet Blue](https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Planet Blue](https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL) | 2:55 | 2024-06-14 | 2024-09-07 |
 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 | 2021-03-27\* | 2021-07-10 |
+| [Playa Paradiso](https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Playa Paradiso](https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP) | 3:05 | 2025-07-25 |  |
 | [Please Be Mine](https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Please Be Mine](https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8) | 3:13 | 2024-06-21 | 2024-11-09 |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-04 | 2024-03-13 |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-23 | 2022-12-01 |

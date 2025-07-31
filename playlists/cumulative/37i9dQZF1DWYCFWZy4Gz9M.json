@@ -214,6 +214,10 @@
       },
       "artists": [
         {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
           "name": "Altaf Gnawa Group",
           "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
         }
@@ -1790,7 +1794,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 261000,
-      "name": "Toura toura (arr. N. Eddine)",
+      "name": "Toura toura (Arr. N. Eddine)",
       "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
     },
     {

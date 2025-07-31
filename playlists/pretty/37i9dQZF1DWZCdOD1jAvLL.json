@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 265158,
+  "num_followers": 265202,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2025-07-18 04:00:15",
       "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "added_at": "2025-07-18 04:00:15",
+      "album": {
         "name": "System Shock",
         "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
-    },
-    {
-      "added_at": "2025-07-18 04:00:15",
-      "album": {
-        "name": "Eternal Rave",
-        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 121908,
-      "name": "Eternal Rave",
-      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
       "added_at": "2025-07-18 04:00:15",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2025-07-18 04:00:15",
       "album": {
-        "name": "SEROTONIN",
-        "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 169777,
-      "name": "SEROTONIN",
-      "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
-    },
-    {
-      "added_at": "2025-07-18 04:00:15",
-      "album": {
         "name": "Everybody Knows (feat. IRAH)",
         "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 168000,
       "name": "Everybody Knows - feat. IRAH",
       "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+    },
+    {
+      "added_at": "2025-07-18 04:00:15",
+      "album": {
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 169777,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
     },
     {
       "added_at": "2025-07-18 04:00:15",
@@ -2251,18 +2251,22 @@
     {
       "added_at": "2025-07-18 04:00:15",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 197407,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2025-07-18 04:00:15",
@@ -2283,22 +2287,18 @@
     {
       "added_at": "2025-07-18 04:00:15",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+      "duration_ms": 197407,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
     },
     {
       "added_at": "2025-07-18 04:00:15",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2025-07-18 04:00:15",
       "album": {
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+    },
+    {
+      "added_at": "2025-07-18 04:00:15",
+      "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
-    },
-    {
-      "added_at": "2025-07-18 04:00:15",
-      "album": {
-        "name": "Distortion Theory",
-        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
-      },
-      "artists": [
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 208035,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
     },
     {
       "added_at": "2025-07-18 04:00:15",

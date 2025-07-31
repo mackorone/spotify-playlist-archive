@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,657 likes - 73 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,650 likes - 73 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 59 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 |
 | 60 | [Christmas Canon](https://open.spotify.com/track/2zXTG9Uoqd8StCSfBTn6fZ) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas: Plain & Simple III](https://open.spotify.com/album/4qPPj6lqfBya86dvGQyy1Y) | 3:23 |
 | 61 | [Coventry Carol](https://open.spotify.com/track/6wjdQUvDqBtrHUoqeI9ehb) | [David Nevue](https://open.spotify.com/artist/7zbq3gjHu4JAiMV7dWbUdv) | [O Come Emmanuel](https://open.spotify.com/album/3yOqSiDRYHeoe8B3bH4bUT) | 4:05 |
-| 62 | [Adeste fideles \(O Come All Ye Faithful\) \(arr\. A\. Delmoni\)](https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:48 |
+| 62 | [Adeste fideles \(O Come All Ye Faithful\) \[arr\. A\. Delmoni\]](https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:48 |
 | 63 | [Gesu Bambino](https://open.spotify.com/track/70TUCXbpF7SqtZOwqq6phF) | [Stan Whitmire](https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw) | [Christmas Around The Piano](https://open.spotify.com/album/2YZZf9NIZnoUurtJdHVp2N) | 4:40 |
 | 64 | [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 |
 | 65 | [The Holly & the Ivy](https://open.spotify.com/track/7EJ27XsIcR0S5V9lQLbP2d) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance \(Deluxe Edition\)](https://open.spotify.com/album/4KCW2gVyGEUjBTOFLRgByk) | 4:19 |
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 70 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 |
 | 71 | [I Wonder as I Wander](https://open.spotify.com/track/044LY9AUmn4YaAQR9TWpdz) | [James Gaertner](https://open.spotify.com/artist/1ej6vCFXoyVEmZQV2hixDS) | [Simply Christmas](https://open.spotify.com/album/5d8HRqN6O7RIcNi030teHY) | 3:53 |
 | 72 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 |
-| 73 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
+| 73 | [Veni, veni Emmanuel \(Arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `Z2BQ4gAAAABJLfCKk+F4LcTcs49IzrUx`
+Snapshot ID: `AAAAAFamX3Pu8YwYyaGGCNIZp6xGUH9B`

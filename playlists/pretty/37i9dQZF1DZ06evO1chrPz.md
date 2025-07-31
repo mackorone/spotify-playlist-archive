@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,073 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,090 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 41 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
 | 42 | [Even Though I Walk \- Live](https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Even Though I Walk \(Live\)](https://open.spotify.com/album/1cTH0uZFMhuQj40YiQUipJ) | 7:17 |
 | 43 | [You're Gonna Be Ok](https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 4:20 |
-| 44 | [He Has Done Great Things \- Live](https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:13 |
-| 45 | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd) | 10:30 |
+| 44 | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd) | 10:30 |
+| 45 | [He Has Done Great Things \- Live](https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:13 |
 | 46 | [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 |
 | 47 | [Pieces \(Live\)](https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:39 |
 | 48 | [By the Grace of God](https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:17 |
 | 49 | [Tend](https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 4:53 |
 | 50 | [Promises Never Fail \(Live\)](https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 4:57 |
 
-Snapshot ID: `aIa9gAAAAABnzvWOmEl7jJ/KWMeqBgrw`
+Snapshot ID: `aIgPAAAAAAA1KoxxvaWIbsU2py5+Wn1o`

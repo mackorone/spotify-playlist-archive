@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,184 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,182 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 60 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |
 | 61 | [Underdog \(From F1® The Movie\)](https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Underdog \(From F1® The Movie\)](https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK) | 2:22 |
 | 62 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 |
-| 63 | [Prince George](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Prince George](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
+| 63 | [PRiNCE GEORGE](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [PRiNCE GEORGE](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
 | 64 | [Voices](https://open.spotify.com/track/0TeyADr2CzTOdwfsZCKn3c) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Voices / Psycho](https://open.spotify.com/album/3hUnq084DKurIS1RMU9srZ) | 3:36 |
 | 65 | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 |
 | 66 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/3wZwJmK48mHwruBIK24oP2) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/album/3N7NAEQA0RxUxJSq0JOmd5) | 2:08 |

@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: December Avenue
 
-351 songs - 21 hr 53 min
+352 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 | 2024-01-24 | 2024-02-01 |
 | [Awatin](https://open.spotify.com/track/5q0b9HzHrJ0COmFx7Hsulg) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Awatin](https://open.spotify.com/album/1BM6cU2S8UkM89MSqUB0ld) | 4:52 | 2025-01-29 | 2025-05-01 |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-12 | 2024-09-19 |
+| [Ayoko Magmadali](https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Ayoko Magmadali](https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW) | 2:24 | 2025-07-30 |  |
 | [Ayos Lang](https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ayos Lang](https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W) | 3:13 | 2025-04-02 | 2025-06-19 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-24 | 2024-03-14 |
 | [Babaeng Torpe](https://open.spotify.com/track/6PqQLaRKRk9Td2WfNIc721) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Babaeng Torpe](https://open.spotify.com/album/7xn6BDQmB8qzssk9aHG79E) | 4:50 | 2024-02-07 | 2024-03-07 |
@@ -80,7 +81,7 @@
 | [Ego](https://open.spotify.com/track/4QosPAbuOSaDQsOSwl6AG1) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Jay Chan](https://open.spotify.com/artist/3IeDT4U7I5MOk729r0SHVE), [Sen Peders](https://open.spotify.com/artist/0X8q0FUuwS6GElbkwhHfxH), [Soup Pha](https://open.spotify.com/artist/2WRp2MrdxMV3BNiES6iTt4) | [Ego](https://open.spotify.com/album/3IIaHuWa8ExBM7iIuxDVpd) | 2:22 | 2025-07-23 |  |
 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 | 2024-01-24 | 2024-02-08 |
 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 | 2024-08-29 | 2025-01-02 |
-| [Exclusively](https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Exclusively](https://open.spotify.com/album/0zH2ZvnrqekbUsn7CWwm28) | 3:39 | 2025-06-04 |  |
+| [Exclusively](https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Exclusively](https://open.spotify.com/album/0zH2ZvnrqekbUsn7CWwm28) | 3:39 | 2025-06-04 | 2025-07-31 |
 | [Eyes Only For Me](https://open.spotify.com/track/6ac9R5HvKZNCGZCXfJSjEx) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Eyes Only For Me](https://open.spotify.com/album/3LVGzUh9SM0HxA0JbSoXI1) | 4:03 | 2024-02-21 | 2024-03-21 |
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2024-01-24 | 2024-05-25 |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-10 | 2024-05-25 |

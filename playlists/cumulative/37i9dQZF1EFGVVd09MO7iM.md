@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-957 songs - 2 day 12 hr 57 min
+958 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 | 2024-01-29 |  |
 | [Best U Can](https://open.spotify.com/track/3brKHFOeiwpfjaZ46ol39C) | [Tha Liks](https://open.spotify.com/artist/4iuyDOnAmE11mVV4aRkLoI), [Tha Alkaholiks](https://open.spotify.com/artist/2FiRV4AeJUGaW98BhDIAKI) | [X.O\. Experience](https://open.spotify.com/album/0DFq6NS2UQhrupuc4svA6E) | 3:37 | 2025-06-27 |  |
 | [Better](https://open.spotify.com/track/2w0orIaubYKdmbnas18oCW) | [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI), [Sorry Jaynari](https://open.spotify.com/artist/4W5pKMWgtvYReRA2xK4Phg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Last Of The '80s](https://open.spotify.com/album/3qyaspYwtCLPhm89sAaRMY) | 3:00 | 2024-06-20 | 2024-06-22 |
+| [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-30 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 1:39 | 2024-01-29 |  |
 | [Bimbo](https://open.spotify.com/track/77mFfoYPNX9Fj53YYT1nwk) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Again](https://open.spotify.com/album/61SjT7sGzNDKtUEUeucKDF) | 2:43 | 2024-01-29 |  |
 | [Blanco \- Spanish Remix](https://open.spotify.com/track/1uHz8K9EPTerODitZhToJh) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Armando](https://open.spotify.com/album/2vzNRwL171avLnmkDJrXXA) | 3:22 | 2024-01-29 |  |
@@ -901,7 +902,7 @@
 | [Use Your Heart](https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:49 | 2024-01-29 | 2025-02-05 |
 | [Use Your Heart \- Interlude](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:34 | 2025-02-04 |  |
 | [Vato](https://open.spotify.com/track/2TgPHDU8zPgAvkSLXkHKXR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/5NSTw9av5T8orAD9dzEE4A) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:44 | 2024-01-29 |  |
-| [Vernon Family](https://open.spotify.com/track/0p3ALbsb1K4i3r78IINq8r) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:00 | 2024-06-20 |  |
+| [Vernon Family](https://open.spotify.com/track/0p3ALbsb1K4i3r78IINq8r) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:00 | 2024-06-20 | 2025-07-31 |
 | [Vex](https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 1:24 | 2024-12-11 | 2025-01-10 |
 | [Victory](https://open.spotify.com/track/6Umb6gglUjvJJSe1k41SAl) | [Daan](https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW) | [Simple](https://open.spotify.com/album/1BlTnfn94qgCP1rkbmpTrE) | 3:46 | 2024-06-20 |  |
 | [Virginia](https://open.spotify.com/track/7dpFJmdFiahlgzzEmgUwoN) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 3:57 | 2024-01-29 |  |

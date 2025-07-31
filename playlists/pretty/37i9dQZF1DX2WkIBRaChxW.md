@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Jenevieve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,964 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,970 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 10 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 |
 | 11 | [Turn Me Up](https://open.spotify.com/track/2WIykpFBlqQ0m7EfAKoev1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/1ldMaOBeKQNU3cpGCsN6hq) | 4:11 |
 | 12 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 13 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |
+| 13 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 14 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 15 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 16 | [Time](https://open.spotify.com/track/5OSZxdDYrFERsEDs7MnLA9) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Time](https://open.spotify.com/album/2ibYWKbp1dta52A2Jg3kAN) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [LOVE MAKE](https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [LOVE MAKE](https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ) | 3:34 |
 | 75 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 
-Snapshot ID: `aIMBZgAAAABG23rh5amwLk6ls4zgRY0i`
+Snapshot ID: `AAAAABn9BPx3E0DZCP0h+ikBLzbXQteI`

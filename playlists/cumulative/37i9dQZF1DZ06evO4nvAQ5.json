@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 268654,
       "name": "Aye Ok",
       "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205254,
+      "name": "Just You & Me",
+      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
+    },
+    {
+      "album": {
         "name": "Just You & Me",
         "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
       },
@@ -916,6 +938,28 @@
       "duration_ms": 222247,
       "name": "Long Way Home (with J Boog & Iyaz) - Island Kartel Version",
       "url": "https://open.spotify.com/track/3z4QVE99lov7iwDzaBEFlV"
+    },
+    {
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230341,
+      "name": "Love Affair (with Fiji)",
+      "url": "https://open.spotify.com/track/78ptPusn6DU9Lh2mDLYn9P"
     },
     {
       "album": {
@@ -1350,7 +1394,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 248000,
       "name": "She Give Me Lovin'",
       "url": "https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe"

@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 107792,
+  "num_followers": 107805,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABe9KZ3+2ios5q68kaB6D3+",
+  "snapshot_id": "aIgPAAAAAABumqQRD+ka7eFVcczlCHeo",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "When Will I Let Her Go",
-      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Hollywood Bowl With Orchestra",
-        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 515226,
-      "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortune Teller Blues",
         "url": "https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 382072,
       "name": "Fortune Teller Blues",
       "url": "https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 515226,
+      "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
     },
     {
       "added_at": null,

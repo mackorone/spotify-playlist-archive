@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Adventure Club",
+        "url": "https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180392,
+      "name": "Wearing Black",
+      "url": "https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

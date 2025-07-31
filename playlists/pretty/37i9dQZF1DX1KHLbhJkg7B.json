@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 132207,
+  "num_followers": 132235,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "Here Without You",
         "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 231750,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "I'm A Ram",
         "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 239040,
       "name": "I'm A Ram",
       "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "You're Still The One",
         "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195455,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Pure BS (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "Pure BS (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Faithfully (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
-      },
-      "artists": [
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 262314,
-      "name": "Faithfully - feat. Willie Nelson",
-      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
       },
@@ -1475,18 +1455,22 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+        "name": "Faithfully (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+      "duration_ms": 262314,
+      "name": "Faithfully - feat. Willie Nelson",
+      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1503,6 +1487,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Dare You to Move",
-        "url": "https://open.spotify.com/album/59Q0IT2MMPbO0psMj3oINn"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 224736,
-      "name": "Dare You to Move",
-      "url": "https://open.spotify.com/track/4uyCECRGpW2NFsSaPvkkVm"
-    },
-    {
-      "added_at": "2025-07-25 04:00:53",
-      "album": {
         "name": "Dancing with Myself",
         "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 251309,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
+      "added_at": "2025-07-25 04:00:53",
+      "album": {
+        "name": "Dare You to Move",
+        "url": "https://open.spotify.com/album/59Q0IT2MMPbO0psMj3oINn"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Dare You to Move",
+      "url": "https://open.spotify.com/track/4uyCECRGpW2NFsSaPvkkVm"
     },
     {
       "added_at": "2025-07-25 04:00:53",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2025-07-25 04:00:53",
       "album": {
-        "name": "Sad Yeehaw Sessions",
-        "url": "https://open.spotify.com/album/7r7ckWO2VcD2U7hmihE72Z"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 274627,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/0M3YUw1RE2kNlEXLm0gFny"
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw"
     }
   ],
   "unique_name": "Country Covers",

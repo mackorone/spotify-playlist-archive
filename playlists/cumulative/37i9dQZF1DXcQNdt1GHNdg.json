@@ -853,6 +853,32 @@
     },
     {
       "album": {
+        "name": "FYI (For Your Information)",
+        "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Big Things",
+      "url": "https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -1028,6 +1054,32 @@
       "duration_ms": 165000,
       "name": "BTS",
       "url": "https://open.spotify.com/track/38pboK5eem22yXfuh9LMjX"
+    },
+    {
+      "album": {
+        "name": "Longway",
+        "url": "https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB"
     },
     {
       "album": {
@@ -1378,7 +1430,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 183149,
       "name": "Defender",
       "url": "https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1"
@@ -3850,7 +3902,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 149052,
       "name": "Peak Jawani",
       "url": "https://open.spotify.com/track/4FoITO1tdL9IT4j57jWIIr"
@@ -4022,10 +4074,32 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 156887,
       "name": "Pre Workout",
       "url": "https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo"
+    },
+    {
+      "album": {
+        "name": "Longway",
+        "url": "https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150676,
+      "name": "Pump Up",
+      "url": "https://open.spotify.com/track/1O1E1lbobekZp3PHVqDAMl"
     },
     {
       "album": {

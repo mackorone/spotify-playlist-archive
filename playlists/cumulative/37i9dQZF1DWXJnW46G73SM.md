@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد سعد و روبي
 
-1,547 songs - 3 day 14 hr 22 min
+1,548 songs - 3 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Dah Begad](https://open.spotify.com/track/0nZv9W4mTGwohVo7Nl8Fws) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Dah Begad](https://open.spotify.com/album/7bX5FZzeHFMCexHRMBbTet) | 4:02 | 2025-06-19 |  |
 | [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-03 | 2022-08-11 |
 | [Dalma W Nour](https://open.spotify.com/track/6f5HYlVuweUALqQLE1Toyx) | [Amira Adeeb](https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137) | [Dalma W Nour](https://open.spotify.com/album/7zMGATlD56CsqoPiUdqQQm) | 2:32 | 2024-10-18 | 2024-12-20 |
+| [Dalmaa](https://open.spotify.com/track/1earbnSWzUIxE2wSTD1Z5R) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:44 | 2025-07-30 |  |
 | [Daloaa](https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y) | [Daloaa](https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY) | 2:55 | 2023-08-15 | 2023-09-29 |
 | [Damar](https://open.spotify.com/track/2wOPcU3AZrTEw0teqb0vSw) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Damar](https://open.spotify.com/album/65tKPzNW9Z4Wk4IVQ3Objv) | 4:11 | 2024-06-26 | 2024-07-30 |
 | [Dars Hayaty](https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Dars Hayaty](https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB) | 2:42 | 2021-12-23 | 2022-02-02 |

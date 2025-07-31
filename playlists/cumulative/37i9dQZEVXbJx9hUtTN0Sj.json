@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Bass Go",
+        "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
+      },
+      "artists": [
+        {
+          "name": "Antonym",
+          "url": "https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305032,
+      "name": "Bass Go",
+      "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
+    },
+    {
+      "album": {
         "name": "Batmana Ansak \u0628\u062a\u0645\u0646\u0649 \u0623\u0646\u0633\u0627\u0643",
         "url": "https://open.spotify.com/album/1FkzvL0LlIlXSGeOIFN93r"
       },
@@ -16858,7 +16876,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -20194,6 +20212,24 @@
       "duration_ms": 169558,
       "name": "Lossendeer",
       "url": "https://open.spotify.com/track/0PQ0WzW0FevrLxPbpdd5VA"
+    },
+    {
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/6c8j9xTNn8Aay7WhbdqaHg"
+      },
+      "artists": [
+        {
+          "name": "NightCrawl",
+          "url": "https://open.spotify.com/artist/7HK5eMsJv8xiiQbaywSKab"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/4JWRos6zAz0GyBfCRoeC0C"
     },
     {
       "album": {
@@ -26076,7 +26112,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 258026,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
@@ -27118,7 +27154,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -27712,7 +27748,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 133869,
       "name": "PROZACZOPIXAN RELOADED",
       "url": "https://open.spotify.com/track/2KdGSv2jbnShvF4GYVtIna"
@@ -30796,10 +30832,28 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 199550,
       "name": "SOLD MY SOUL",
       "url": "https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA"
+    },
+    {
+      "album": {
+        "name": "SOLD MY SOUL",
+        "url": "https://open.spotify.com/album/2W0vIQTvNWsL0PLkHne6rj"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "SOLD MY SOUL",
+      "url": "https://open.spotify.com/track/6lSWUkwJ68QQ6pgdM7ZySj"
     },
     {
       "album": {
@@ -33292,7 +33346,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 240520,
       "name": "The Birds Don't Sing",
       "url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
@@ -34496,7 +34550,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 84977,
       "name": "TRALALERO TRALALA x Sigma Boy",
       "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"

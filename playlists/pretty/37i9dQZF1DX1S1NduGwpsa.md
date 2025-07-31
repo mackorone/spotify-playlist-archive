@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lusaint
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,627 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,644 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [That Doesn't Matter](https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [That Doesn't Matter](https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg) | 2:49 |
 | 50 | [Une Histoire à Trois \(Music from "Une histoire à soi"\)](https://open.spotify.com/track/6eSmjKqPHWAAWIt6I2qgmh) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Michel Alibo](https://open.spotify.com/artist/0g4nh3F1ggb4vG5EihAJ3l), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [Une Histoire à Trois \(Music from "Une histoire à soi"\)](https://open.spotify.com/album/16aMqG3iFEa3nUKTwluARa) | 3:51 |
 
-Snapshot ID: `AAAAAKqXdQgcBO2RG0S9SvUbQEKoJ0z9`
+Snapshot ID: `aIKs/wAAAADtLOWZp/PYxjM8xLYwOP2h`

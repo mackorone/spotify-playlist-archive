@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,129 likes - 200 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,522 likes - 200 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 64 | [Lurline: Overture](https://open.spotify.com/track/2JHDkE2n8wERWEfVm9rCuR) | [William Vincent Wallace](https://open.spotify.com/artist/6JOnrabL8UpMWMdhHQFzkn), [Victorian Opera Orchestra](https://open.spotify.com/artist/77L6tGe6wPEqbBnFalTawE), [Richard Bonynge](https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ) | [British Opera Overtures](https://open.spotify.com/album/0biFhdrU2F30qNzev5BYAi) | 8:22 |
 | 65 | [Symphony No\. 4 in A Major, Op\. 90, MWV N16 "Italian": I\. Allegro vivace \- 1984 Recording](https://open.spotify.com/track/3BZuH9q3NNvu7hKeXUszSo) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Mendelssohn: Italian Symphony](https://open.spotify.com/album/6IULmhNsnliLBqWqqt25J0) | 10:29 |
 | 66 | [Danse macabre](https://open.spotify.com/track/4WJ7UMD4i6DOPzyXU5pZSz) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Keith Clark](https://open.spotify.com/artist/2sGN4C0QLE8MqhMC6jToDw) | [French Festival](https://open.spotify.com/album/0T9YCy8TruLD6Z4qiCGSn6) | 7:08 |
-| 67 | [Till Eulenspiegels lustige Streiche \(Till Eulenspiegel's Merry Pranks\), Op\. 28, TrV 171](https://open.spotify.com/track/2VBgLZhCSulbNcfg9ksff7) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Strasbourg Philharmonic Orchestra](https://open.spotify.com/artist/03Ao2MZkiUx1a8ARZDz5ZX), [Marc Albrecht](https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9) | [Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Traumerei Am Kamin](https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ) | 15:04 |
+| 67 | [Till Eulenspiegels lustige Streiche, Op\. 28, TrV 171: Till Eulenspiegels lustige Streiche \(Till Eulenspiegel's Merry Pranks\), Op\. 28, TrV 171](https://open.spotify.com/track/2VBgLZhCSulbNcfg9ksff7) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Orchestre Philharmonique De Strasbourg](https://open.spotify.com/artist/6ovcFUr31ei4FmtLIXtyNa), [Marc Albrecht](https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9) | [Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Träumerei Am Kamin](https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ) | 15:04 |
 | 68 | [La Traviata: Prelude to Act III](https://open.spotify.com/track/0TW8Ol72NbyPYceiX7ZQHG) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Gianandrea Noseda](https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X) | [The Italian Intermezzo](https://open.spotify.com/album/6GRtA1erz22fuHDBj1mrZe) | 3:27 |
 | 69 | [Pearly\-Dewdrops' Drops](https://open.spotify.com/track/6quWkdjaWC5OrskbKTbuMl) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Stars And Topsoil \- A Collection 1982\-1990](https://open.spotify.com/album/4Scia4LNRC4o2wkVl6mguk) | 4:11 |
 | 70 | [Spinning Away](https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 5:27 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 199 | [sashimi](https://open.spotify.com/track/6hcy6sGEnnng4EdHnAhezD) | [Serengeti](https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF) | [the Glennon ep](https://open.spotify.com/album/6EdwnHQe7LVfMVfRsNYj8k) | 2:51 |
 | 200 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 
-Snapshot ID: `aFyNggAAAADNi5cTnXK2im8bHppc2z2b`
+Snapshot ID: `AAAAAMNF1j1s9k5fhg7O8Rj33wqIr1dU`

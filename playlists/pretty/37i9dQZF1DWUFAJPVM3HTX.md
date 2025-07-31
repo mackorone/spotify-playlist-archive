@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb?si=J5btB2h9RhqTOOjgWGpPAw"> Malaya</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,551 likes - 386 songs - 19 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,706 likes - 386 songs - 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 385 | [Let Me Grow](https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Let Me Grow](https://open.spotify.com/album/14O5OciGC6vcuE6h17l3aC) | 3:35 |
 | 386 | [September](https://open.spotify.com/track/1OC7RsmwnawzA8tZpL5kFQ) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [September](https://open.spotify.com/album/3eFOUZZGqMdcVX4sPEFAih) | 4:04 |
 
-Snapshot ID: `aINgEQAAAACtdp3ch9/JtNNkwH99X8ku`
+Snapshot ID: `AAAAAA7TvAvQ/y0f/7On+YZtwSdkrRda`

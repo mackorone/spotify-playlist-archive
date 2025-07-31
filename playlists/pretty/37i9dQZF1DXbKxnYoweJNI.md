@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 原子邦妮 \(Astro Bunny\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,248 likes - 139 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,275 likes - 139 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 44 | [最後最後](https://open.spotify.com/track/6bB8uogqmpH0lUZ61vHz9P) | [多情牛奶糖](https://open.spotify.com/artist/73NVIh5VRRl5XmWRvVRruC) | [最後最後](https://open.spotify.com/album/0AzZIcbmPX4gt9zLhwqa7w) | 4:35 |
 | 45 | [迷失的光芒](https://open.spotify.com/track/5mzodtI3UGvjfEgQRYWj1t) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [迷失的光芒](https://open.spotify.com/album/2GxdFKleRl5rsfhPXUG75A) | 3:19 |
 | 46 | [於是我們到此為止 Til Gold Turns Grey](https://open.spotify.com/track/6gIBQr64GWDjUzhBu0VNEg) | [Lala WannaCry](https://open.spotify.com/artist/2b0vmYPK4kYWuhW0MmSvjY) | [於是我們到此為止 Til Gold Turns Grey](https://open.spotify.com/album/2mSp6c6UCa018BvK4gpfR4) | 3:50 |
-| 47 | [LOOK AT ME NOW](https://open.spotify.com/track/6LbbRbjhYIXc1VEzJHHpbc) | [EighRA紫月光](https://open.spotify.com/artist/2dsOvPG2dOilw7regHPIo1) | [LOOK AT ME NOW](https://open.spotify.com/album/6mkYdSXRtKYHK8eQV8FztJ) | 3:16 |
+| 47 | [LOOK AT ME NOW](https://open.spotify.com/track/6LbbRbjhYIXc1VEzJHHpbc) | [SOLOMOON紫月光](https://open.spotify.com/artist/2dsOvPG2dOilw7regHPIo1) | [LOOK AT ME NOW](https://open.spotify.com/album/6mkYdSXRtKYHK8eQV8FztJ) | 3:16 |
 | 48 | [点亮我 Light Me Up](https://open.spotify.com/track/2lXPT0GRO34ZAkRuGMoz3v) | [RAYGUN](https://open.spotify.com/artist/12LPVgxiqKD3Lk14Mu5G6k), [赵卿宁](https://open.spotify.com/artist/4b8NDi1AmBDCormlfHPYqE) | [点亮我 Light Me Up](https://open.spotify.com/album/6de3BvVO1yEFc0lAwrJlfy) | 3:09 |
 | 49 | [Friendzone Man](https://open.spotify.com/track/2ZFEeFgbnvg0lwarFZ0ECO) | [Mark Chan](https://open.spotify.com/artist/5LbkM0hR7sv5IVpQWF7AEQ), [Doug](https://open.spotify.com/artist/1Z38ql4K5cg4PwgeVFuL4a) | [Friendzone Man](https://open.spotify.com/album/1cDUzeY04EG3JxY9eqAEz6) | 4:02 |
 | 50 | [福星路](https://open.spotify.com/track/2E2cbtGsDa6apVvah2yK98) | [harrycane](https://open.spotify.com/artist/5JyoJz5nuQXk1uAti0zx50), [KA!T 凱踢](https://open.spotify.com/artist/3Ff9CcNoaUbQSNBKh5C8Sz), [比爾森 Billson](https://open.spotify.com/artist/3O9OmyvBlKVqIkvbX5vX0l) | [福星路](https://open.spotify.com/album/3mXLUZ4DZMH9CDYYYUtkPh) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2023\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,253 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,257 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [Everything Happens to Me](https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Everything Happens to Me](https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ) | 6:19 |
 | 50 | [Put Your Head on My Shoulder](https://open.spotify.com/track/3m3aPLYlaSyQlRHzj3pxSk) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Star City Symphony](https://open.spotify.com/artist/4rIS4hOr1AMWFS3YbGpq4i), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [People](https://open.spotify.com/album/4IKhM8fngURnMvw1rtssKb) | 4:25 |
 
-Snapshot ID: `ZWcrvAAAAABQfPPleP6KP9iwJbkz/8QX`
+Snapshot ID: `AAAAAH5B2ikxETg650wvHb7ALy48vUOS`

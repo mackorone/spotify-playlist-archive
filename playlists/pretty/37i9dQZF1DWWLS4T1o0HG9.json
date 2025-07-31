@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 455715,
+  "num_followers": 456087,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Storm Front",
-        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "We Didn't Start the Fire",
-      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 222320,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "We Didn't Start the Fire",
+      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -555,8 +555,8 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Can't Hold Back",
-        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Money",
-          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Take Me Home Tonight",
-      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 308373,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Take Me Home Tonight",
+      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Stuck With You",
-      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 185694,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Stuck With You",
+      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Kilroy Was Here",
         "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 328706,
       "name": "Mr. Roboto",
       "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 219813,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2024-06-26 01:58:02",

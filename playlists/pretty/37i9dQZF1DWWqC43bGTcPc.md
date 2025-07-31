@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張遠
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,151 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,232 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 11 | [節約用愛](https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [節約用愛](https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK) | 4:05 |
 | 12 | [你到底在選擇什麼](https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [你到底在選擇什麼](https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw) | 4:13 |
 | 13 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
-| 14 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 14 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 15 | [无可奈何](https://open.spotify.com/track/3QqCZHkhGKdJCdalzmDrwt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [无可奈何](https://open.spotify.com/album/5MiitjKqH4Am65F5AM2dkh) | 3:29 |
 | 16 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 |
 | 17 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [致遠方的思念信](https://open.spotify.com/track/0rhHnW81Z25YbxMR05mFVS) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [致遠方的思念信](https://open.spotify.com/album/4ej0umdkwoOOaEidKiOV9n) | 3:37 |
 | 50 | [反覆拉扯](https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [反覆拉扯](https://open.spotify.com/album/00ZZJIk8UrLsl1cS0GHB0E) | 2:56 |
 
-Snapshot ID: `aIeekwAAAADprYDWhvR8BxJwgKH+N3Wd`
+Snapshot ID: `AAAAAB4jjLiXUMG0AhHpwPYSa/PvgNe4`

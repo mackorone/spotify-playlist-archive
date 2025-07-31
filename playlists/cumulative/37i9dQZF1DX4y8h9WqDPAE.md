@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Tyla and Wizkid
 
-1,094 songs - 2 day 8 hr 42 min
+1,095 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -920,7 +920,7 @@
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-08-10 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-07 |  |
 | [Sweet Gurl](https://open.spotify.com/track/2ypJczNpROoMFYTN5vcv9g) | [H\-Money](https://open.spotify.com/artist/1NU1WIfOBzgHWZhalgj3uF), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Sweet Gurl](https://open.spotify.com/album/0mpdm2gR4IqHNBSu27S73E) | 2:42 | 2025-06-20 |  |
-| [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 |  |
+| [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 | 2025-07-31 |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-11 |  |
 | [SWEET SPOT](https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:05 | 2025-07-11 | 2025-07-26 |
 | [Sweet Thang \(feat\. Summer Walker\)](https://open.spotify.com/track/5V7QNaunpviHGU1qustwbl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 7:05 | 2024-05-17 | 2024-07-27 |
@@ -991,6 +991,7 @@
 | [Tu Corazón Es Mío...](https://open.spotify.com/track/59ak5RmKdyspU26ifSg0rW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:45 | 2024-01-12 | 2024-02-17 |
 | [Tummy Hurts](https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:48 | 2023-11-17 | 2023-11-22 |
 | [Tummy Hurts \(feat\. Coco Jones\) \- Remix](https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:47 | 2023-11-21 | 2024-11-02 |
+| [Turning Me On](https://open.spotify.com/track/6BsCBcs9Mcek0Bg2LgzsVr) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Turning Me On](https://open.spotify.com/album/0FfPRELBt3o766q99sVKW6) | 2:10 | 2025-07-18 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-07 |  |
 | [Twisted Fantasy](https://open.spotify.com/track/23tZbR3A6G52shxX4CQg92) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twisted Fantasy](https://open.spotify.com/album/0ZYAqa153aROkjCnfy7fJy) | 3:07 | 2021-12-17 | 2022-01-22 |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 |  |

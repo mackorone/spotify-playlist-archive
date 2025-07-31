@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,558 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,618 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 79 | [FALL APART 2](https://open.spotify.com/track/2RFSaBBaN58ihDRhcNQhFg) | [Agyeiwaa](https://open.spotify.com/artist/1nhNtNcWTi7423IyTTsP43), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [FALL APART 2](https://open.spotify.com/album/7nm1QhDGP0v6hN4WDKUqWb) | 2:40 |
 | 80 | [Be Sure](https://open.spotify.com/track/27SwKuVzaBD78qUyzMivwq) | [Ama Gaisie](https://open.spotify.com/artist/1q2iVU75fVEuNqXZqhPa7k) | [Be Sure](https://open.spotify.com/album/0LSBY6qEJOOdmUwOTrNimQ) | 3:03 |
 
-Snapshot ID: `AAAAAP652Mw4gKKlvpGkXZ7YMQ+y2FnU`
+Snapshot ID: `aILJTQAAAAARP6ZxdGkzOezTLapLqnCP`

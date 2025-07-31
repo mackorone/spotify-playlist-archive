@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Maanu, Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,629 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,819 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 49 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 |
 | 50 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 |
 
-Snapshot ID: `aIIyEwAAAADLIwkjB8uD/ah91/4POHlb`
+Snapshot ID: `AAAAAGHVgmGW8e/R6oV8vKzbsS6I+ghV`

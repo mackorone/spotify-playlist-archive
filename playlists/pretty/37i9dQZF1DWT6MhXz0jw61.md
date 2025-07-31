@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,098 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,373,277 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 52 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 | 53 | [Hopped Out](https://open.spotify.com/track/3mPZLprpiATrEsnLuPIGkc) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Huey Briss](https://open.spotify.com/artist/1G6Gq9pcDT5OwZjEdKXBZm) | [Hopped Out](https://open.spotify.com/album/5Ug0s2QNFPQSh68TacX9QN) | 2:27 |
 | 54 | [I Hate You\. I Love You](https://open.spotify.com/track/5ZsqqGuSlJ6l4YUIihDFbo) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I Love You Again \(Extended\)](https://open.spotify.com/album/52byopOwUnZnKRbxKWg2pZ) | 2:14 |
-| 55 | [Prince George](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Prince George](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
+| 55 | [PRiNCE GEORGE](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [PRiNCE GEORGE](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
 | 56 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 |
 | 57 | [Stuck On Moments \(feat\. Kota The Friend & D'Anna Stewart\)](https://open.spotify.com/track/7Jv4RRzj1YVi3QtPUCBMmU) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [D'Anna Stewart](https://open.spotify.com/artist/4G8WNry9idyIpB106d2q22) | [I Love You Again](https://open.spotify.com/album/0VaQ1RXsmUHqIFzftegVbQ) | 3:24 |
 | 58 | [SILHOUETTES](https://open.spotify.com/track/6F4sg4reLLpEr36STteePe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 | 100 | [New Beginning](https://open.spotify.com/track/1MNw7WRsx6b8GoixLPIBUq) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [The Color Chocolate 2](https://open.spotify.com/album/0Q3l20nxzOrMP3cKHTt4ZK) | 3:47 |
 
-Snapshot ID: `aIMBegAAAABEyBo5v+EpS9DhaK9F5ORI`
+Snapshot ID: `AAAAAHr6Wh+g23etycocF9KeZYZLWOrA`

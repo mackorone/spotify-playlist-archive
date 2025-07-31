@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,812 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,811 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [My Mind](https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Avsten](https://open.spotify.com/artist/3Q7ITfAujief9tMSciw9rq) | [My Mind](https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI) | 3:44 |
 | 50 | [Addicted \- Argy & Omnya Remix](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(Argy & Omnya Remix\)](https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ) | 2:22 |
 
-Snapshot ID: `aHF7nwAAAAB9GmbyttFrHNkhXpj4QolH`
+Snapshot ID: `aHF7nwAAAABDsDeKy3+B48+FeDG8XNYL`

@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Just Married",
-  "num_followers": 63717,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Elumale",
+  "num_followers": 63721,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIixSQAAAACWP1/7MxqtHn1Qa3J0MmGm",
+  "snapshot_id": "aInDCgAAAADJmT0FBlDwTN0Xparl1cjl",
   "tracks": [
+    {
+      "added_at": "2025-07-30 07:00:26",
+      "album": {
+        "name": "Yaavaaga Yaavaaga (From \"Elumale\")",
+        "url": "https://open.spotify.com/album/1ukwjGLlfNjMWS5lVGFeYE"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 277110,
+      "name": "Yaavaaga Yaavaaga (From \"Elumale\")",
+      "url": "https://open.spotify.com/track/79nfr6yDI2zZnXDhPiriRw"
+    },
     {
       "added_at": "2025-07-17 10:05:52",
       "album": {
@@ -1195,30 +1219,6 @@
       "duration_ms": 258834,
       "name": "Husharo Ley (From \"FireFly\")",
       "url": "https://open.spotify.com/track/1ymiLd7gLx8DoWWLOHZYqA"
-    },
-    {
-      "added_at": "2025-05-27 12:56:18",
-      "album": {
-        "name": "Aavarisu (From \"Maayavi\")",
-        "url": "https://open.spotify.com/album/5jhS8CwWwPc3ihc0qHSYMo"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Agsthya Santhosh",
-          "url": "https://open.spotify.com/artist/01llkKtpYeJvgiKlsIRKA6"
-        },
-        {
-          "name": "Anand Kmsaagara",
-          "url": "https://open.spotify.com/artist/5IrEnqLSW76SqmnH3n2GKL"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "Aavarisu (From \"Maayavi\")",
-      "url": "https://open.spotify.com/track/2o6YKrhAGW6Hyqvu8r59qI"
     }
   ],
   "unique_name": "Latest Kannada",

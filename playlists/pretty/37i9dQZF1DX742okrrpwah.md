@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Guy2Bezbar & Joé Dwèt Filé, Lola Young, Sebastian Ingrosso & Celine Dion au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,735 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,722 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 101 | [PRINCESSE ATOMIQUE \- Bonus Track](https://open.spotify.com/track/2iVCfZeE2HeKcuYU8NKajE) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [50% POUR MAMAN](https://open.spotify.com/album/1eooFIBRdt6QEh4TVIQcLh) | 2:31 |
 | 102 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 |
 
-Snapshot ID: `aIKtDgAAAAD9OoFyr8JhY//RWYtNNCgF`
+Snapshot ID: `aIKtDgAAAAAstmwHacWOpYGy2n9oJ8ov`

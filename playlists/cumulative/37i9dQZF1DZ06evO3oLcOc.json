@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "FinallyFed",
+        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "AT THA PARTY",
+      "url": "https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0"
+    },
+    {
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -2268,7 +2290,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 234374,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"

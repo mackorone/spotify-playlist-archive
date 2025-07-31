@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Arthi
 
-3,084 songs - 6 day 19 hr 7 min
+3,087 songs - 6 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Better](https://open.spotify.com/track/4MHlqY55fLORw98xsxw5Kl) | [Gigi Moss](https://open.spotify.com/artist/38NVCgrJsx212T9Tk3yMv6) | [Better](https://open.spotify.com/album/4EoATUdsjZHs8gTuLeU5SO) | 3:02 | 2022-11-09 | 2022-12-01 |
 | [Better Baby](https://open.spotify.com/track/4KpqAqk1ARvmpjiVAz2BG8) | [SIRCA](https://open.spotify.com/artist/5iMWt0sNyEyaWY7d0fmqmB) | [Better Baby](https://open.spotify.com/album/3nZqciUmti0gcGmKdciERh) | 3:33 | 2023-06-27 | 2023-08-02 |
 | [Better Days](https://open.spotify.com/track/3r68CX9Is5Ad4oouA1kVIR) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Better Days](https://open.spotify.com/album/467sIKfJHoAaQPQ2rkWaWp) | 2:53 | 2024-04-23 | 2024-05-29 |
+| [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-30 |  |
 | [Better Lay Low](https://open.spotify.com/track/1FDVWvo1RzjnYiQ0wvNLZq) | [Rebel Bunny](https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Better Lay Low](https://open.spotify.com/album/79kiS9QDvw6BZXAkHADA2l) | 2:41 | 2023-10-03 | 2023-11-16 |
 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 | 2024-11-13 | 2025-01-15 |
 | [BETTER OFF ON MY OWN](https://open.spotify.com/track/70Sv6q5iMvhoHQ9iW4g0VZ) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [BETTER OFF ON MY OWN](https://open.spotify.com/album/31vvkc6lIRTbSjKk6Wc8bk) | 2:15 | 2023-06-21 | 2023-08-02 |
@@ -758,6 +759,7 @@
 | [Double Love](https://open.spotify.com/track/4w1nZJPZyW0aE3CIeNSKkD) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/1MlDvygPIseiKft9wVfisX) | 3:03 | 2024-10-08 | 2025-01-08 |
 | [Doubt](https://open.spotify.com/track/2BolPLQOOaeh0Eexuvu5Yg) | [Holler](https://open.spotify.com/artist/0jcEgJZvCkBiRYnXGit0qT) | [Doubt](https://open.spotify.com/album/2jiU5TkwT56jFZmQxT2XNq) | 3:19 | 2024-04-23 | 2024-06-05 |
 | [Down](https://open.spotify.com/track/2yZ23sMHy3Mr0ngR4eRr8R) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Down](https://open.spotify.com/album/5Blo6YBsMmFCkgP1uw340k) | 3:17 | 2025-05-20 | 2025-07-09 |
+| [Down Bad](https://open.spotify.com/track/5HOtGcfdFX5rlqN0L0CUma) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [It's So Over](https://open.spotify.com/album/0DeOF0X3WWtlY7eprCusdB) | 2:58 | 2025-07-30 |  |
 | [DOWNTIME](https://open.spotify.com/track/3uvnTBeJP0waBfimUoOmYb) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [DOWNTIME](https://open.spotify.com/album/7zrncOg8MGhDG3DaHd1aQH) | 2:50 | 2024-10-15 | 2024-11-20 |
 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 | 2024-11-13 | 2024-12-05 |
 | [DPYB](https://open.spotify.com/track/28yZyKhLOsBmIXnvgMqZix) | [Tala Yunis](https://open.spotify.com/artist/3J5MQFJ1lFoswVXqzfDih0) | [DPYB](https://open.spotify.com/album/1gX3TsJK6j6MsmSZ3FP2gJ) | 2:43 | 2025-04-15 | 2025-05-28 |
@@ -766,7 +768,7 @@
 | [Dream Away](https://open.spotify.com/track/3Tau0On0MNlgOzaS7g2u4i) | [020whitton](https://open.spotify.com/artist/2VJrhcbkgaDz3iOvY6fNHP) | [Dream Away](https://open.spotify.com/album/37Ex05KoMB6VwQB7CWlMbF) | 2:41 | 2024-11-27 | 2025-02-05 |
 | [Dream Girl](https://open.spotify.com/track/1WuSu752iS116I0vW5qUoh) | [Kat](https://open.spotify.com/artist/1c6055hV6gtfOkZgMsuBW9) | [Dream Girl](https://open.spotify.com/album/3JixISO6oYrCHm7zxHfrnH) | 2:12 | 2022-11-16 | 2023-01-12 |
 | [Dream of You](https://open.spotify.com/track/5tgW7QKJNjiCG24AIiUS3E) | [Suncream](https://open.spotify.com/artist/6VLL2o3lKPUy9gWgJPjuSu), [Oli Rivers](https://open.spotify.com/artist/6AUeJbqToVwhA5kcpdOion) | [Dream of You](https://open.spotify.com/album/3AzCUPAuTcFaDDcpWV44vE) | 2:20 | 2023-10-17 | 2023-11-22 |
-| [Dream Sequence](https://open.spotify.com/track/05sx7epsLjTJ0JkevZ6D0Q) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Dream Sequence](https://open.spotify.com/album/1SWtGMlGi9qr0Ds4SkrDlM) | 2:51 | 2025-06-24 |  |
+| [Dream Sequence](https://open.spotify.com/track/05sx7epsLjTJ0JkevZ6D0Q) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Dream Sequence](https://open.spotify.com/album/1SWtGMlGi9qr0Ds4SkrDlM) | 2:51 | 2025-06-24 | 2025-07-31 |
 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 | 2024-06-26 | 2024-07-31 |
 | [Dreamer](https://open.spotify.com/track/40wmEXMwdFS5hunDWwGDV6) | [Wnderland](https://open.spotify.com/artist/1FZf2hsJqHlNB566T9Fekg) | [Dreamer](https://open.spotify.com/album/3ynOhVelfGQ37Er55AxnWN) | 3:37 | 2023-05-10 | 2023-06-08 |
 | [dreamhotel](https://open.spotify.com/track/0N06EpCJB2KxUyEtRQWkhQ) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [dreamhotel](https://open.spotify.com/album/7H77IohlvhArgM45gFtA3C) | 2:22 | 2022-07-06 | 2023-01-05 |
@@ -1864,7 +1866,7 @@
 | [Mum Says](https://open.spotify.com/track/0Xr8Oaw3wRhN9NPiNmaduD) | [Betty](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [Mum Says](https://open.spotify.com/album/3TKGgij0C2pQH7tuFIFGUQ) | 2:39 | 2024-01-17 | 2024-02-21 |
 | [Murmurations](https://open.spotify.com/track/4OF6BCjSiQxPi3llbtkdYg) | [Gan Gemi](https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya) | [Murmurations](https://open.spotify.com/album/06yyva2JrTlCV7MmuUtQe4) | 2:17 | 2025-06-10 | 2025-07-23 |
 | [Music Stuff](https://open.spotify.com/track/5re6DZQ91qGJTZ1EsrINRU) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Get Real](https://open.spotify.com/album/2CP4v1zIXBxJab2lmoVHED) | 3:43 | 2023-01-18 | 2023-02-16 |
-| [My Boy](https://open.spotify.com/track/09rJpXcpTTzNUlWnGEGNYh) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [My Boy](https://open.spotify.com/album/3e4X41omk8suopKBoHTOg6) | 2:55 | 2025-07-01 |  |
+| [My Boy](https://open.spotify.com/track/09rJpXcpTTzNUlWnGEGNYh) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [My Boy](https://open.spotify.com/album/3e4X41omk8suopKBoHTOg6) | 2:55 | 2025-07-01 | 2025-07-31 |
 | [My friend Sarah Tonin](https://open.spotify.com/track/6KfljE3PlnqkQrqz3hqnuq) | [Phoebe Willo](https://open.spotify.com/artist/4TWNdeVFnZhFlWBwwd3Dgu) | [My friend Sarah Tonin](https://open.spotify.com/album/1izfmVmYrvQhTlmmzlMLIe) | 3:37 | 2022-09-21 | 2022-11-17 |
 | [My Girl Likes](https://open.spotify.com/track/5dTrwACgS2aUqr50KAdYW1) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [My Girl Likes](https://open.spotify.com/album/2XQgYUHKJwE8KBxuP4Hhfi) | 2:59 | 2022-09-21 | 2022-11-03 |
 | [My Jeans](https://open.spotify.com/track/2lfGqRRAzNf5PyeiUaYs8K) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [My Jeans](https://open.spotify.com/album/6z1lIBeZOwIjyYCNif3aYg) | 3:51 | 2023-01-18 | 2023-03-16 |
@@ -2359,7 +2361,7 @@
 | [Saving All My Love](https://open.spotify.com/track/5vijUtaUAzI4vIl2ZrIBAN) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Saving All My Love](https://open.spotify.com/album/6yLqRQrxvAfVqiwC0ltBrq) | 2:24 | 2024-09-03 | 2024-10-01 |
 | [Say](https://open.spotify.com/track/2e1lbIuGZH28TURz0owGDH) | [Forty Avenues](https://open.spotify.com/artist/0Lt5dDyDlgmpYQ7DzZyPZp) | [Say](https://open.spotify.com/album/0OEpioTwQoqBVfi6DJy3TT) | 2:48 | 2024-03-12 | 2024-04-17 |
 | [Say It's Just Us](https://open.spotify.com/track/1fGkUKm4CEtKVZvksaajfU) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Say It's Just Us](https://open.spotify.com/album/4ScyPaKGVzOomGn3jrMJDR) | 3:04 | 2024-02-14 | 2024-03-13 |
-| [Say Less](https://open.spotify.com/track/3GKH7wq6YeZNixtH6KtYcb) | [SOBSTORY](https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9), [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1) | [Say Less](https://open.spotify.com/album/3DbcfkZoYIlaetTQtnk6zD) | 2:55 | 2025-07-01 |  |
+| [Say Less](https://open.spotify.com/track/3GKH7wq6YeZNixtH6KtYcb) | [SOBSTORY](https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9), [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1) | [Say Less](https://open.spotify.com/album/3DbcfkZoYIlaetTQtnk6zD) | 2:55 | 2025-07-01 | 2025-07-31 |
 | [SAY MY NAME](https://open.spotify.com/track/6T52Nwzdn3YkPefljuLfs2) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [SAY MY NAME](https://open.spotify.com/album/6VfQlGsSDU0Hl5WOgSrEDF) | 1:37 | 2024-09-24 | 2024-12-05 |
 | [Say No More](https://open.spotify.com/track/3BPmGSmHEkmPbPAx9Y8UXp) | [Oliver Davis](https://open.spotify.com/artist/37X9evwm8Rk6Y1hxE9eZ06) | [Say No More](https://open.spotify.com/album/6Z9YPfKritlKZWN6H0ALST) | 2:47 | 2023-10-03 | 2023-11-16 |
 | [Say The Word](https://open.spotify.com/track/7tPPCfIkqUIJdZ4OLqtUk3) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [Say The Word](https://open.spotify.com/album/6aCfyclZT174UhNfVBjvJW) | 3:42 | 2025-07-15 |  |
@@ -2584,6 +2586,7 @@
 | [Stress Out My Mind](https://open.spotify.com/track/0xRD0NEChOaToDYzvWs3hT) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0) | [Stress Out My Mind](https://open.spotify.com/album/0rQLOplc2i1sqJoHDxTuSE) | 3:16 | 2022-10-28 | 2023-02-08 |
 | [Stressed](https://open.spotify.com/track/1wloDWpI6LMipnVw29bWyK) | [Oliver Pinder](https://open.spotify.com/artist/2FUeTwcoaE68uITtWaTT2a) | [Stressed](https://open.spotify.com/album/2gxCQwEIM0iPpSTXsxDlpf) | 3:07 | 2023-04-12 | 2023-05-24 |
 | [Strings](https://open.spotify.com/track/6aTRctU6qTfq8X66enPnpN) | [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Strings](https://open.spotify.com/album/3DhStA5iDYH1pRGD7g1u6M) | 2:48 | 2025-03-12 | 2025-04-10 |
+| [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-07-30 |  |
 | [Stuck](https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Stuck](https://open.spotify.com/album/7zvnJfzs5OaYCm7B7IOWCF) | 4:06 | 2025-03-19 | 2025-04-16 |
 | [Studio 54](https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Studio 54](https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67) | 3:14 | 2024-02-14 | 2024-03-13 |
 | [Stupid](https://open.spotify.com/track/4v1WZvjAic2aDNDfTklLZ8) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Stupid](https://open.spotify.com/album/3SbHSVABDjfvJpgjbASwWW) | 3:41 | 2022-02-09 | 2022-03-24 |

@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 64 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 |
 | 65 | [Let It Snow \- Music Box Version](https://open.spotify.com/track/2rVNiCBvPNANf8kHiF9Do9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [My Christmas Music Box](https://open.spotify.com/album/51VlCVsag9ouzitxEWeNZA) | 1:44 |
 
-Snapshot ID: `Z2Ve2wAAAAAAfYk4iwlrzOkmWk6g2R36`
+Snapshot ID: `AAAAAByD9teZSryXBo3jeet6LdqZTCnj`

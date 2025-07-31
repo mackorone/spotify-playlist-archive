@@ -4,7 +4,7 @@
 
 > 
 
-7,550 songs - 19 day 13 hr 9 min
+7,553 songs - 19 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2445,6 +2445,7 @@
 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 | 2025-01-15 |  |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-04-19 |  |
 | [Hello Mr.my yesterday\(オリジナルアーティスト:Hundred Percent Free\)\[ガイドメロディ無しカラオケ\]](https://open.spotify.com/track/5D6EBYOQdhCIncMq6KA4Ro) | [歌っちゃ王](https://open.spotify.com/artist/2yXtyhscuiX4SWRqd4ZUzv) | [Hello Mr.my yesterday\(オリジナルアーティスト:Hundred Percent Free\)\[ガイドメロディ無しカラオケ\]](https://open.spotify.com/album/1TQtkYjHxQbvTHoZo6Nx6b) | 4:35 | 2025-01-15 |  |
+| [Hello, Anxiety](https://open.spotify.com/track/1ZseaIKt19broBzze3F8hz) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Hello, Anxiety](https://open.spotify.com/album/40squs3MkwvdLQI8FJ9A6p) | 4:24 | 2025-07-30 |  |
 | [Hello, I Love You](https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:13 | 2025-01-03 |  |
 | [Hello, shooting\-star](https://open.spotify.com/track/3I2Hd6ocYAzxFS9VMEMEKJ) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [moumoon BEST \-FULLMOON\-](https://open.spotify.com/album/4UmPtiiMSi7WPXxIyO3m5h) | 4:37 | 2025-01-04 |  |
 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 | 2024-12-11 |  |
@@ -3561,6 +3562,7 @@
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2024-12-10 |  |
 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2025-01-03 |  |
 | [Lovemonth](https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Lovemonth](https://open.spotify.com/album/1aeo0A7JVTHNQtplMOORRk) | 3:33 | 2025-05-26 |  |
+| [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 | 2025-07-30 |  |
 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 | 2024-12-14 |  |
 | [LOVER$ ROCKY](https://open.spotify.com/track/23MGUudTw3DVferFKgx1FM) | [ultra dreamz](https://open.spotify.com/artist/45mav0sGp3SgLOEGaO6fbk) | [LOVER$ ROCKY](https://open.spotify.com/album/2cD7a5nYjhj4zYcn544IwU) | 2:09 | 2024-12-10 |  |
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-01-03 |  |
@@ -5507,7 +5509,7 @@
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-12-14 |  |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2025-03-26 |  |
 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 | 2025-01-04 |  |
-| [Supplier](https://open.spotify.com/track/1ah2uXf2PFjLpSupcf1jG3) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 0:48 | 2025-01-03 |  |
+| [Supplier](https://open.spotify.com/track/1ah2uXf2PFjLpSupcf1jG3) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 0:48 | 2025-01-03 | 2025-07-31 |
 | [Supply Luh](https://open.spotify.com/track/6KxbdasRYnD0VhbFezcIUC) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [WOO$AH](https://open.spotify.com/album/40ndDsBa2V2PKozv4dMuA0) | 2:18 | 2024-12-14 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2025-01-04 |  |
 | [Surf](https://open.spotify.com/track/3m9St7c9tpJwNYN2adNESk) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 5:30 | 2025-01-04 |  |
@@ -6871,6 +6873,7 @@
 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 | 2025-03-31 |  |
 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 | 2025-01-04 |  |
 | [プライド革命](https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 3:53 | 2024-12-14 |  |
+| [プリズム](https://open.spotify.com/track/3nS2X9u82BDbyuadKIzRT3) | [Uri Nakayama](https://open.spotify.com/artist/2sF48SGYclMSUiGNj8x34b), [南勇介](https://open.spotify.com/artist/4qse6oblCgJi8OEQ1WK05E) | [プリズム](https://open.spotify.com/album/4HvqEmvY9MnZlL54ocnkE8) | 4:42 | 2025-07-30 |  |
 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 | 2025-01-04 |  |
 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 | 2024-12-10 |  |
 | [ベルベットの詩](https://open.spotify.com/track/7ELIV5p6Irk5MHsazeAFv6) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:14 | 2024-12-10 |  |

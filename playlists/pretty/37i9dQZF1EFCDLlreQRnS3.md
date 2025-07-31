@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 71 | [All For You](https://open.spotify.com/track/230iFQRVSL6Mqc91qs4zGe) | [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [All For You](https://open.spotify.com/album/06saY5xxNI3oocnCAaUngb) | 3:00 |
 | 72 | [Crying in the Swimming Pool](https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Crying in the Swimming Pool](https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE) | 3:12 |
 | 73 | [Cloud No9 \- Montmartre Remix](https://open.spotify.com/track/0xYDcgc6HWVKkIumcDPzaV) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:41 |
-| 74 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
-| 75 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
+| 74 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
+| 75 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
 | 76 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 77 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 |
 | 78 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 123 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 124 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Ab4GvAAAAABkdGGxIWaNHJ/h/Ids32vX`
+Snapshot ID: `Ab4MSAAAAAC1ieQZ+ceYS2uswE1Dlu7b`

@@ -10149,6 +10149,36 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243906,
+      "name": "Chains & Whips",
+      "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
       },
@@ -12814,7 +12844,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -24268,7 +24298,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 292720,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/4nvYDy427VvA1TcEkdgZII"
@@ -30278,6 +30308,24 @@
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw"
     },
     {
       "album": {
@@ -46680,7 +46728,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -53172,7 +53220,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 256293,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
@@ -58940,7 +58988,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Tempo za 2",
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
@@ -62272,7 +62320,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 179657,
       "name": "u notice me",
       "url": "https://open.spotify.com/track/0jl5CfgJPdRmfXLewEBDSs"
@@ -63760,7 +63808,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 262285,
       "name": "Victory Lap Four",
       "url": "https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k"
@@ -63888,7 +63936,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/2nWw7VrUn8Ijo45K6WIIna"
@@ -65106,7 +65154,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
@@ -69986,6 +70034,24 @@
       "duration_ms": 238595,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
+        "url": "https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "\u304a\u3064\u304b\u308cSUMMER",
+      "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
     },
     {
       "album": {

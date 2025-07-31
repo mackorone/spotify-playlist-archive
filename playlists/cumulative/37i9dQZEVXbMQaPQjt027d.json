@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "album": {
         "name": "A\u015fiyan",
         "url": "https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT"
       },
@@ -152,7 +170,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Changes - 2009 Remaster",
       "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
@@ -170,7 +188,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -642,7 +660,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 210838,
       "name": "Gangsterchick - Remix",
       "url": "https://open.spotify.com/track/7BawAG17pjGzSqCX8sHfBo"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 313803,
       "name": "Spookstad - NewTone Remix",
       "url": "https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel"
@@ -1785,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "That Acid",
+        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "That Acid",
+      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 240520,
       "name": "The Birds Don't Sing",
       "url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"

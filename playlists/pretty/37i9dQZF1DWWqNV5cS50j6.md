@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,232 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,205 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

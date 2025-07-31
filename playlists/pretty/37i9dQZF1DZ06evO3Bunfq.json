@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 123775,
+  "num_followers": 123808,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAA7uJ4gZw1Ifz3+Vidfkxqe",
+  "snapshot_id": "aIgPAAAAAACGK1+KQxvDH3mdq2mR/wbF",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+        "name": "VNDO",
+        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+      "duration_ms": 231529,
+      "name": "VNDO",
+      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VNDO",
-        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 231529,
-      "name": "VNDO",
-      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ve Como Ando",
         "url": "https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 194304,
       "name": "Ve Como Ando",
       "url": "https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 205196,
-      "name": "El Diablo, La Muerte y Yo",
-      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205196,
+      "name": "El Diablo, La Muerte y Yo",
+      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 227647,
-      "name": "Tony Montana (feat. Tornillo)",
-      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Bols\u00f3n",
         "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 231177,
       "name": "El Bols\u00f3n",
       "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 227647,
+      "name": "Tony Montana (feat. Tornillo)",
+      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,

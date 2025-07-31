@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 38561,
+  "num_followers": 38570,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 310693,
-      "name": "Looking Too Closely",
-      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "You're Somebody Else",
         "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 310693,
+      "name": "Looking Too Closely",
+      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "RETROSPECT",
-        "url": "https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf"
-      },
-      "artists": [
-        {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "moonchild",
-      "url": "https://open.spotify.com/track/7B02F2vNeU33Q04DbhlyAd"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Lose You To Love Me",
         "url": "https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "RETROSPECT",
+        "url": "https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "moonchild",
+      "url": "https://open.spotify.com/track/7B02F2vNeU33Q04DbhlyAd"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "Beneath Your Beautiful",
-        "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
-      "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "Beneath Your Beautiful",
+        "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
     },
     {
       "added_at": "2025-06-26 16:39:05",

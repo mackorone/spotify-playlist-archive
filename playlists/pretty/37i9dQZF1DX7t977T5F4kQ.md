@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:Samini
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,939 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,963 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 66 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 |
 | 67 | [Questions](https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Questions](https://open.spotify.com/album/4w559CTP4QThWmWZUKJ8gI) | 3:03 |
 | 68 | [Fire](https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fire](https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr) | 2:51 |
-| 69 | [Shut Up! \(Pretense\)](https://open.spotify.com/track/15lWYnbT7m7Fc4d3AsjQD2) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Shut Up! \(Pretense\)](https://open.spotify.com/album/4SjA1IpIv4OEBzrWXx54Iw) | 2:56 |
+| 69 | [Shut Up! \(Pretence\)](https://open.spotify.com/track/15lWYnbT7m7Fc4d3AsjQD2) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Shut Up! \(Pretence\)](https://open.spotify.com/album/4SjA1IpIv4OEBzrWXx54Iw) | 2:56 |
 | 70 | [Fortified](https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Fortified](https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ) | 2:58 |
 | 71 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 |
 | 72 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 |

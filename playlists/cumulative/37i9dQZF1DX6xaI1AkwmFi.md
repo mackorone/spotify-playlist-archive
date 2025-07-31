@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-454 songs - 1 day 2 hr 18 min
+455 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [sister](https://open.spotify.com/track/2neojiNTVF8n3ppd05DCG7) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [sister](https://open.spotify.com/album/0cVF2WkVGfPsebD9GpRfGu) | 3:54 | 2024-05-23 | 2024-05-29 |
 | [skirt](https://open.spotify.com/track/4Tpsjv8zpTKcWPL6deVsr1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [残心残暑](https://open.spotify.com/album/7jP1J26XhTXiLzVAIcDc0D) | 4:15 | 2024-09-04 | 2024-09-11 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-01-24 |
+| [Slow & Easy](https://open.spotify.com/track/4b5oBON2DgamONUxvP4JyQ) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Slow & Easy](https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8) | 3:35 | 2025-07-30 |  |
 | [Slowsurf feat\. shimizu eisuke, in\-d](https://open.spotify.com/track/3Nk8AHtU0s8VjzxQH7XkJO) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [shimizu eisuke \(Age Factory\)](https://open.spotify.com/artist/2E1EqsTx4PIY1eezC953Bd), [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj) | [Slowsurf feat\. shimizu eisuke, in\-d](https://open.spotify.com/album/1aLtmKVJsQFqXO4DT03hac) | 5:08 | 2024-07-17 | 2024-07-31 |
 | [Snipe the Heart](https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Snipe the Heart](https://open.spotify.com/album/3YmUPSA8MQTgAlR7g5HIAe) | 3:17 | 2025-03-26 | 2025-04-24 |
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-11-23 | 2023-12-22 |
@@ -408,7 +409,7 @@
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-12-03 | 2024-03-06 |
 | [星間漂流](https://open.spotify.com/track/0U00YWBuWAtUZbUIgtEhZg) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [星間漂流](https://open.spotify.com/album/56VYv3HdS7VgmMUaXbu9af) | 3:56 | 2024-10-24 | 2024-11-20 |
 | [春を綴じる](https://open.spotify.com/track/5380ecDY45s7k3FrFGcqFx) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [春を綴じる](https://open.spotify.com/album/30oTYgvBcmEIRvaGnpp5gg) | 4:08 | 2024-03-28 | 2024-04-03 |
-| [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-10 |  |
+| [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-10 | 2025-07-31 |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-09 |  |
 | [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 | 2024-09-18 |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-11-23 | 2024-09-30 |

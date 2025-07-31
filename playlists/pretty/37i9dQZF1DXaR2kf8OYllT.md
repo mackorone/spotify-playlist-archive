@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 
 > Enjoy the concert LIVE SET including the voices of BTS members on stage! \(BTS 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,807 likes - 31 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,907 likes - 31 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 | 30 | [Finale Comment](https://open.spotify.com/track/4UWbsrCitWKVn1idlAg04z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:45 |
 | 31 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 
-Snapshot ID: `ZIsVvwAAAAD/jXrevV0k1kiCVrcF+igY`
+Snapshot ID: `AAAAAF3B+u/au1ir2Wpn6jpw1Dmofrsu`

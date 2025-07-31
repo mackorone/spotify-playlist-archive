@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 147190,
+  "num_followers": 147222,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADqzWD8cljFa0n5ZdyqYlS1",
+  "snapshot_id": "aIgPAAAAAABDSfB3tBbBg2C2kqiYNN0a",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 440400,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 201973,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 440400,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
         "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 177094,
       "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
       "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
     },
     {
       "added_at": null,

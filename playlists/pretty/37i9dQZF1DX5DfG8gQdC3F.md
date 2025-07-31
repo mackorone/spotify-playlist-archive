@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Daniel Caesar, Drake & Central Cee, Tyler, The Creator,  sombr, Lola Young and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,367 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,383 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 36 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 37 | [Ruin My Life](https://open.spotify.com/track/7bZ5cXAjGudfW9MDKOarnQ) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying: Vol\. 2](https://open.spotify.com/album/1ys0w3yGETGtBkOOfp1jkR) | 3:44 |
 | 38 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
-| 39 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |
+| 39 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 40 | [Buffalo](https://open.spotify.com/track/1VA0nQLGDAi3nqOvloLXfZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Buffalo](https://open.spotify.com/album/0FQaRCQVEAuC4EzvdIi9uf) | 4:24 |
 | 41 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |
 | 42 | [Darlin'](https://open.spotify.com/track/69nGnXCmSpxnlY2L0RJ5id) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Hands Hands Hands](https://open.spotify.com/track/3KOSSEVHf1i0ZBMTXCZvX5) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Hands Hands Hands](https://open.spotify.com/album/6nIdrHUGc45WWcevHdhpi8) | 4:50 |
 | 100 | [Stars](https://open.spotify.com/track/4iEAKoJtoOmpBHp7Za2x58) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi) | [Stars](https://open.spotify.com/album/0LMq7vz0U4WV5UVrwHPUCV) | 2:51 |
 
-Snapshot ID: `aIMCQgAAAABBYK/Rd3VzD3MuvqsI6tf1`
+Snapshot ID: `AAAAAHRP2NjPS9qkpqIfMYtwH2BcYURV`

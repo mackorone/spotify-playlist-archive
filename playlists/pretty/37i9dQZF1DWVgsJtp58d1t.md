@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb?si=65xK280iRHy4t\-eZBCAgsQ">KWN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,615 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,535 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 15 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 |
 | 16 | [BAM BAM](https://open.spotify.com/track/3KIZLRI8eFFYKshsPsJEDA) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [BAM BAM](https://open.spotify.com/album/5BNDwEqRnTxBkV7iKIVtcR) | 2:22 |
 | 17 | [Born in Jamaica](https://open.spotify.com/track/5S7rhnNkFFfUcLWhsvv9L8) | [Friends Only](https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [MediSun](https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Born in Jamaica](https://open.spotify.com/album/3cjWNe9LWwJ9d2GLDFyGqb) | 4:04 |
-| 18 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/3GOr91sZcAFR8cUAXH66D0), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 |
+| 18 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 |
 | 19 | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV) | 2:18 |
 | 20 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 21 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |

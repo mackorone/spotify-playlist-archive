@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,880 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,890 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 11 | [いくぞ！ばいきんまん](https://open.spotify.com/track/2c9ZqOosc9t7IUoT4URrjv) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 2:12 |
 | 12 | [いとまきのうた](https://open.spotify.com/track/12FaMtHsyr8gyhyfEFJR7x) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン ハッピーおたんじょうび 冬生まれのみんなのうた　12月・1月・2月生まれのおともだちへ](https://open.spotify.com/album/5Dpp039N5o4TMTukybi863) | 1:13 |
 | 13 | [いけいけ！どんぶりまんトリオ](https://open.spotify.com/track/5vjZwrtXc5oqE9ky7ZLYUV) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:47 |
-| 14 | [ぼくはクリームパンダ](https://open.spotify.com/track/3pJkh8rlfyGN8GU3asud9c) | [長沢美樹 \(クリームパンダ\)](https://open.spotify.com/artist/02n7FPtNTvFofcKwfkb9aV) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:19 |
-| 15 | [ホラーマンメチャクチャチャ2018](https://open.spotify.com/track/5zx83PFN01qGbgij02Hbta) | [矢尾一樹（ホラーマン）](https://open.spotify.com/artist/4ITV3VbNKMIzK7HD6JTp9N), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 3:11 |
+| 14 | [ホラーマンメチャクチャチャ2018](https://open.spotify.com/track/5zx83PFN01qGbgij02Hbta) | [矢尾一樹（ホラーマン）](https://open.spotify.com/artist/4ITV3VbNKMIzK7HD6JTp9N), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 3:11 |
+| 15 | [ぼくはクリームパンダ](https://open.spotify.com/track/3pJkh8rlfyGN8GU3asud9c) | [長沢美樹 \(クリームパンダ\)](https://open.spotify.com/artist/02n7FPtNTvFofcKwfkb9aV) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:19 |
 | 16 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 |
 | 17 | [むすんでひらいて](https://open.spotify.com/track/7cSmI0Z6UY22E9RlAp3L0R) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン ハッピーおたんじょうび 冬生まれのみんなのうた　12月・1月・2月生まれのおともだちへ](https://open.spotify.com/album/5Dpp039N5o4TMTukybi863) | 1:17 |
 | 18 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |

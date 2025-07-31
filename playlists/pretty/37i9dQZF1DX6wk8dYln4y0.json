@@ -1,6 +1,6 @@
 {
   "description": "music that just *hits different* Cover: Jem Cassar-Daley",
-  "num_followers": 599643,
+  "num_followers": 599579,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+    },
+    {
+      "added_at": "2025-07-24 14:00:08",
+      "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+        "name": "miss sunshine",
+        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+      "duration_ms": 203187,
+      "name": "miss sunshine",
+      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -927,22 +943,6 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2025-07-24 14:00:08",
-      "album": {
-        "name": "miss sunshine",
-        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 203187,
-      "name": "miss sunshine",
-      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+        "name": "Follow Excitement!",
+        "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
+      "duration_ms": 148746,
+      "name": "Follow Excitement!",
+      "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Follow Excitement!",
-        "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
       "artists": [
         {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 148746,
-      "name": "Follow Excitement!",
-      "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
-    },
-    {
-      "added_at": "2025-07-24 14:00:08",
-      "album": {
         "name": "Death Wish (Live from The O2 Arena)",
         "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 227351,
       "name": "Death Wish - Live from The O2 Arena",
       "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
+    },
+    {
+      "added_at": "2025-07-24 14:00:08",
+      "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
+        "name": "Requiem (Deluxe)",
+        "url": "https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 237609,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA"
+    },
+    {
+      "added_at": "2025-07-24 14:00:08",
+      "album": {
         "name": "Starry Eyed (with Chelsea Cutler)",
         "url": "https://open.spotify.com/album/2DWfZUkKHwa4IA9bqUnjIj"
       },
@@ -1267,18 +1283,22 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Requiem (Deluxe)",
-        "url": "https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf"
+        "name": "midsummer pipe dream",
+        "url": "https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 237609,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA"
+      "duration_ms": 156952,
+      "name": "midsummer pipe dream",
+      "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
     },
     {
       "added_at": "2025-07-24 14:00:08",
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "midsummer pipe dream",
-        "url": "https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156952,
-      "name": "midsummer pipe dream",
-      "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
-    },
-    {
-      "added_at": "2025-07-24 14:00:08",
-      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-07-24 14:00:08",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 186435,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     }
   ],
   "unique_name": "*hits different*",

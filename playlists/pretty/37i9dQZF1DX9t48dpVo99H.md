@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,075 likes - 63 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,177 likes - 63 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 62 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 | 63 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 |
 
-Snapshot ID: `aG5vUgAAAACUovkWW6Tc5xIEaBRKAHbn`
+Snapshot ID: `AAAAALZtYtR0JsTGJWH3LF1jJ99WlJxC`

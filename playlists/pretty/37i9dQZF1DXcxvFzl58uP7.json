@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1132416,
+  "num_followers": 1132490,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
+    },
+    {
+      "added_at": "2025-03-03 17:05:33",
+      "album": {
         "name": "Op Shop Lover",
         "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2025-03-03 17:05:33",
-      "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2025-03-03 17:05:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
-      "added_at": "2025-03-03 17:05:33",
-      "album": {
         "name": "be mine",
         "url": "https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 281401,
       "name": "be mine",
       "url": "https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66"
+    },
+    {
+      "added_at": "2025-03-03 17:05:33",
+      "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2025-03-03 17:05:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
-        "name": "Workin' On It",
-        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 215823,
-      "name": "Workin\u2019 On It",
-      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
-    },
-    {
-      "added_at": "2025-03-03 17:05:33",
-      "album": {
         "name": "Her and All of My Friends",
         "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 179748,
       "name": "Wormwood",
       "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
+    },
+    {
+      "added_at": "2025-03-03 17:05:33",
+      "album": {
+        "name": "Workin' On It",
+        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 215823,
+      "name": "Workin\u2019 On It",
+      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
     },
     {
       "added_at": "2025-03-03 17:05:33",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
-        "name": "Way To You",
-        "url": "https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF"
-      },
-      "artists": [
-        {
-          "name": "Asi Kemera",
-          "url": "https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS"
-        },
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 188474,
-      "name": "Way to You",
-      "url": "https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao"
-    },
-    {
-      "added_at": "2025-03-03 17:05:33",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 174379,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA"
+    },
+    {
+      "added_at": "2025-03-03 17:05:33",
+      "album": {
+        "name": "Way To You",
+        "url": "https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF"
+      },
+      "artists": [
+        {
+          "name": "Asi Kemera",
+          "url": "https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS"
+        },
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 188474,
+      "name": "Way to You",
+      "url": "https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao"
     },
     {
       "added_at": "2025-03-03 17:05:33",

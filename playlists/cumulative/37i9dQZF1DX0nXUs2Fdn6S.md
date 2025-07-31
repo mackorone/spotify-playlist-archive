@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-85 songs - 4 hr 37 min
+86 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 | 2024-02-05 | 2024-04-19 |
 | [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-10-20 |  |
 | [Lofi Dreams](https://open.spotify.com/track/3cfqBbYc8b0KTceqeiB3Xa) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:57 | 2024-06-06 |  |
+| [London 2 Bombay](https://open.spotify.com/track/6CyyQqV8TbABcz0yixz8Jm) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [London 2 Bombay](https://open.spotify.com/album/0cZJxtBRIGxwMgordcwrAm) | 3:06 | 2025-07-30 |  |
 | [Lost Without You](https://open.spotify.com/track/57cRnwOnlIVsBKHOzrF7oZ) | [Mridul Kala](https://open.spotify.com/artist/1jhHH5kwbkL3Cr8GxWNTdY) | [Lost Without You](https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY) | 2:20 | 2023-10-20 |  |
 | [Love For A Lifetime](https://open.spotify.com/track/4RoK4OX2L4HXqKXh1xa0LB) | [Progressive Brothers](https://open.spotify.com/artist/49ATHR1LB0svG40PcjjHPP) | [Love For A Lifetime](https://open.spotify.com/album/3KLFtWLDjwXvmoXWpuO5nr) | 3:44 | 2023-10-20 |  |
 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 | 2023-10-20 |  |

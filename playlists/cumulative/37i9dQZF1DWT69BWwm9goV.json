@@ -749,6 +749,42 @@
     },
     {
       "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194314,
+      "name": "TWENTIES - (Spotify OUTSIDE Version) - Live from the Mojave Desert",
+      "url": "https://open.spotify.com/track/3UTPu5xUx69rOxasK2ZDnD"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234045,
+      "name": "Watch Me Bleed - (Spotify OUTSIDE Version) - Live From Austin, TX",
+      "url": "https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe"
+    },
+    {
+      "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
         "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
       },

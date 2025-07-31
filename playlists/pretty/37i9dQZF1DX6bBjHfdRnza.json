@@ -1,44 +1,60 @@
 {
-  "description": "Celebrating 10 years of the best new dance music by independent artists and labels, featuring David Jackson.  Artwork by Rewina Beshue.",
-  "num_followers": 204601,
+  "description": "The best new dance music by independent artists and labels, featuring 1111. Artwork by Rewina Beshue.",
+  "num_followers": 204715,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIfD0AAAAADpkEjI5VUA4/JhEKY2QTQV",
+  "snapshot_id": "AAAAAAcoDgxPCUXC3UjWB/fP2ho+pW9C",
   "tracks": [
     {
-      "added_at": "2025-07-25 04:01:00",
+      "added_at": "2025-07-30 18:26:30",
       "album": {
-        "name": "Holding Me",
-        "url": "https://open.spotify.com/album/0eMU95rsiEsQDfSTyTjdWx"
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/2leZqHN3OIH8eC6dSDHZOk"
       },
       "artists": [
         {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
         }
       ],
-      "duration_ms": 267856,
-      "name": "Holding Me",
-      "url": "https://open.spotify.com/track/0C322Be854wSym6X9BiM31"
+      "duration_ms": 179571,
+      "name": "Shapes",
+      "url": "https://open.spotify.com/track/76ZbsiT5eXrGVMTpSJkIDL"
     },
     {
-      "added_at": "2025-07-25 04:01:00",
+      "added_at": "2025-07-25 14:58:15",
       "album": {
-        "name": "Sitting In The Sun (Walking In The Rain)",
-        "url": "https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh"
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
       },
       "artists": [
         {
-          "name": "DumitrEscu",
-          "url": "https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ"
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
         }
       ],
-      "duration_ms": 175312,
-      "name": "Sitting In The Sun (Walking In The Rain)",
-      "url": "https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw"
+      "duration_ms": 184326,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
+    },
+    {
+      "added_at": "2025-07-30 18:26:30",
+      "album": {
+        "name": "Baddiez",
+        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Baddiez",
+      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
     },
     {
       "added_at": "2025-07-11 04:00:26",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/1Ng0kLgvqPUJGcFhrDGbUR"
     },
     {
-      "added_at": "2025-07-25 14:58:15",
+      "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
+        "name": "Holding Me",
+        "url": "https://open.spotify.com/album/0eMU95rsiEsQDfSTyTjdWx"
       },
       "artists": [
         {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
         }
       ],
-      "duration_ms": 184326,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
+      "duration_ms": 267856,
+      "name": "Holding Me",
+      "url": "https://open.spotify.com/track/0C322Be854wSym6X9BiM31"
     },
     {
       "added_at": "2025-07-25 04:01:00",
@@ -93,6 +109,38 @@
       "url": "https://open.spotify.com/track/3vno5lDrhMqrKQEUDogee3"
     },
     {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "Need It",
+        "url": "https://open.spotify.com/album/5dW5xdjXd8wszERahTyT4O"
+      },
+      "artists": [
+        {
+          "name": "Last Value",
+          "url": "https://open.spotify.com/artist/03GldB4eId8dRZSbl6jmve"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/2Ied5Kc9sahSeTO6GBRkWQ"
+    },
+    {
+      "added_at": "2025-07-30 18:26:30",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/5JbZA64DJSdeLS4g26h9DN"
+      },
+      "artists": [
+        {
+          "name": "GEORGE aka DR.RADSPORT",
+          "url": "https://open.spotify.com/artist/6U4q20LJOa3s9cSM8hXG0c"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "OCEAN",
+      "url": "https://open.spotify.com/track/1lfrHPUUksBTHqlud7Tmng"
+    },
+    {
       "added_at": "2025-07-28 18:39:12",
       "album": {
         "name": "A Culpa \u00c9 Da Cacha\u00e7a",
@@ -113,6 +161,46 @@
       "url": "https://open.spotify.com/track/2MgxCjL1sEUKMQwVlVAuur"
     },
     {
+      "added_at": "2025-07-23 16:02:03",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
+    },
+    {
+      "added_at": "2025-07-30 18:26:30",
+      "album": {
+        "name": "RUFFEST",
+        "url": "https://open.spotify.com/album/6eovWDRLkn2Y4AdcJDQaSf"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        }
+      ],
+      "duration_ms": 226590,
+      "name": "RUFFEST",
+      "url": "https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE"
+    },
+    {
       "added_at": "2025-07-18 04:00:29",
       "album": {
         "name": "Can You Fix Your Heart",
@@ -127,6 +215,106 @@
       "duration_ms": 180424,
       "name": "Can You Fix Your Heart?",
       "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
+    },
+    {
+      "added_at": "2025-07-30 18:26:30",
+      "album": {
+        "name": "GIRLS & BOYS",
+        "url": "https://open.spotify.com/album/0I9Ok1piajJaBw4So8yew6"
+      },
+      "artists": [
+        {
+          "name": "Indigo Eyes",
+          "url": "https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O"
+        },
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 179318,
+      "name": "GIRLS & BOYS",
+      "url": "https://open.spotify.com/track/06WaCojYXpaejtCrFj4V9a"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4SqFoofJnq03YWLgcz5YQS"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 128291,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/0mi7aK49tdp8ES22clJWAB"
+    },
+    {
+      "added_at": "2025-07-16 04:00:36",
+      "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Versatile",
+      "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
+    },
+    {
+      "added_at": "2025-07-30 18:26:30",
+      "album": {
+        "name": "Psychotropic",
+        "url": "https://open.spotify.com/album/4xWJpuZdhtTaB3TE5tJyrd"
+      },
+      "artists": [
+        {
+          "name": "B/AN/K",
+          "url": "https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Psychotropic",
+      "url": "https://open.spotify.com/track/6sOen43o3JjWLy3hQLnmPg"
+    },
+    {
+      "added_at": "2025-07-09 18:17:09",
+      "album": {
+        "name": "Let Me Tell U",
+        "url": "https://open.spotify.com/album/60AbEqiRHvFazQoCOWZaS0"
+      },
+      "artists": [
+        {
+          "name": "Ghoulish",
+          "url": "https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Let Me Tell U",
+      "url": "https://open.spotify.com/track/3evJmfxZKqlx3Rxl4hOM3m"
+    },
+    {
+      "added_at": "2025-07-18 04:00:29",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/44iHEBnNlTfg7BQSIye9Rx"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 247019,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1tnHnmYkpWlVHjB2qkf0iI"
     },
     {
       "added_at": "2025-07-23 16:02:03",
@@ -177,56 +365,20 @@
       "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
     },
     {
-      "added_at": "2025-07-23 16:02:03",
-      "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY"
-      },
-      "artists": [
-        {
-          "name": "Fold",
-          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
-        },
-        {
-          "name": "cu.rve",
-          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
-    },
-    {
       "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "Hardcore",
-        "url": "https://open.spotify.com/album/4SqFoofJnq03YWLgcz5YQS"
+        "name": "Sitting In The Sun (Walking In The Rain)",
+        "url": "https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh"
       },
       "artists": [
         {
-          "name": "AVE",
-          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+          "name": "DumitrEscu",
+          "url": "https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ"
         }
       ],
-      "duration_ms": 128291,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/0mi7aK49tdp8ES22clJWAB"
-    },
-    {
-      "added_at": "2025-07-16 04:00:36",
-      "album": {
-        "name": "Versatile",
-        "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Versatile",
-      "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
+      "duration_ms": 175312,
+      "name": "Sitting In The Sun (Walking In The Rain)",
+      "url": "https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw"
     },
     {
       "added_at": "2025-07-25 04:01:00",
@@ -359,54 +511,6 @@
       "duration_ms": 272157,
       "name": "Meant2Be",
       "url": "https://open.spotify.com/track/3Gage5jAwBcaTmjbEebYjI"
-    },
-    {
-      "added_at": "2025-07-09 18:17:09",
-      "album": {
-        "name": "Let Me Tell U",
-        "url": "https://open.spotify.com/album/60AbEqiRHvFazQoCOWZaS0"
-      },
-      "artists": [
-        {
-          "name": "Ghoulish",
-          "url": "https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Let Me Tell U",
-      "url": "https://open.spotify.com/track/3evJmfxZKqlx3Rxl4hOM3m"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/44iHEBnNlTfg7BQSIye9Rx"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 247019,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1tnHnmYkpWlVHjB2qkf0iI"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
-        "name": "Need It",
-        "url": "https://open.spotify.com/album/5dW5xdjXd8wszERahTyT4O"
-      },
-      "artists": [
-        {
-          "name": "Last Value",
-          "url": "https://open.spotify.com/artist/03GldB4eId8dRZSbl6jmve"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Need It",
-      "url": "https://open.spotify.com/track/2Ied5Kc9sahSeTO6GBRkWQ"
     },
     {
       "added_at": "2025-07-25 04:01:00",
@@ -1257,46 +1361,6 @@
       "url": "https://open.spotify.com/track/2ZziJ48moEQLzwJgSq7OZS"
     },
     {
-      "added_at": "2025-07-02 15:52:18",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/47jgqssoJJr21F1ewwEgB7"
-      },
-      "artists": [
-        {
-          "name": "Polezsky",
-          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
-        },
-        {
-          "name": "Kang Brul\u00e8e",
-          "url": "https://open.spotify.com/artist/5ZeHRvCKe43tfiVYy7w7Sj"
-        }
-      ],
-      "duration_ms": 203211,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/3K0g7ecHptL83eFncKLQGP"
-    },
-    {
-      "added_at": "2025-06-20 16:11:38",
-      "album": {
-        "name": "Dance Without You",
-        "url": "https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dance Without You",
-      "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
-    },
-    {
       "added_at": "2025-06-28 04:43:14",
       "album": {
         "name": "2 People",
@@ -1313,22 +1377,6 @@
       "url": "https://open.spotify.com/track/5y0fc0QaUBPXsuAEHcA77y"
     },
     {
-      "added_at": "2025-07-04 04:00:30",
-      "album": {
-        "name": "ATW023 EP",
-        "url": "https://open.spotify.com/album/6Q8NBTxzPWY8ixjvAKC1v1"
-      },
-      "artists": [
-        {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
-        }
-      ],
-      "duration_ms": 261547,
-      "name": "Rubadub",
-      "url": "https://open.spotify.com/track/5Yde9lsVUKbXxlKSHV926G"
-    },
-    {
       "added_at": "2025-06-12 18:25:32",
       "album": {
         "name": "Never Wanted It To End",
@@ -1343,38 +1391,6 @@
       "duration_ms": 212045,
       "name": "Never Wanted It To End",
       "url": "https://open.spotify.com/track/4QOVuL0aWA1FNKG85kRjpw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:27",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
-    },
-    {
-      "added_at": "2025-06-06 04:00:27",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/315GjUSP75Jcfklq5O5hc8"
-      },
-      "artists": [
-        {
-          "name": "OBESTALLT",
-          "url": "https://open.spotify.com/artist/4pXCzsrekbc42Kbme1cvpi"
-        }
-      ],
-      "duration_ms": 298805,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5vDuD9ndOBRnV61bHHr9Gg"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1603,22 +1619,6 @@
       "duration_ms": 190078,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
-    },
-    {
-      "added_at": "2025-06-04 20:30:53",
-      "album": {
-        "name": "I Wish I Could Fly",
-        "url": "https://open.spotify.com/album/4e6yoPylOAs5Nt8lL1goMU"
-      },
-      "artists": [
-        {
-          "name": "how2fly",
-          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "I Won't Hurt Anymore",
-      "url": "https://open.spotify.com/track/5VUnXIbEAp8eg3qIuc8yui"
     },
     {
       "added_at": "2025-05-30 15:24:22",

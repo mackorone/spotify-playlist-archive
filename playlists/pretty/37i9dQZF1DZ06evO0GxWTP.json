@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 19737,
+  "num_followers": 19766,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABdE7tphOlXl1+OaROquoy5",
+  "snapshot_id": "aIgPAAAAAABNzsxHX1nJOJhHNdsjmnmj",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baldadig",
-        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 143542,
-      "name": "Baldadig",
-      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stapelgek",
         "url": "https://open.spotify.com/album/4b6k5ntVgXMSoGuTUK6xv5"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 175205,
       "name": "Stapelgek",
       "url": "https://open.spotify.com/track/0ggZBG4hvFWeEw7URMBb8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baldadig",
+        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 143542,
+      "name": "Baldadig",
+      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
     },
     {
       "added_at": null,

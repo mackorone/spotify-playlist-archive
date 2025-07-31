@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,068 songs - 2 day 15 hr 4 min
+1,069 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2023-10-23 |
 | [HARD TRUTHS](https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [HARD TRUTHS](https://open.spotify.com/album/0fuIOqcLppUGvtS9sVssCF) | 2:26 | 2025-05-13 |  |
 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-11 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 |  |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-18 |  |
 | [Hearth \(feat\. YonYon & Sagiri Sól\)](https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Hearth \(feat\. YonYon & Sagiri Sól\)](https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx) | 3:26 | 2023-05-09 | 2023-09-08 |
 | [Heat](https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Heat](https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L) | 4:23 | 2023-02-21 | 2023-03-22 |
@@ -537,7 +538,7 @@
 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 | 2023-07-18 | 2023-10-02 |
 | [missing summer \- Hugh Keice　Remix \- Korean Ver.](https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Hugh Keice](https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO) | [missing summer \(Hugh Keice　Remix \- Korean Ver.\)](https://open.spotify.com/album/1YZXtuwz8Ohy0WcMKR93Wg) | 3:37 | 2023-09-14 | 2023-09-29 |
 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 | 2025-06-18 |  |
-| [Monday to Friday](https://open.spotify.com/track/7DrZjXZVRXoIZzQyBNSnMT) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday to Friday](https://open.spotify.com/album/67I2w9FuqBcCarJZGXeq05) | 3:41 | 2025-07-16 |  |
+| [Monday to Friday](https://open.spotify.com/track/7DrZjXZVRXoIZzQyBNSnMT) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday to Friday](https://open.spotify.com/album/67I2w9FuqBcCarJZGXeq05) | 3:41 | 2025-07-16 | 2025-07-31 |
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-02 | 2025-07-16 |
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2022-11-30 |
 | [Moonlight](https://open.spotify.com/track/6ivQiQxke7SqcVCKqJVyiK) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:37 | 2024-04-16 | 2024-06-05 |

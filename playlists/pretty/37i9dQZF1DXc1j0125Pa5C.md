@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Clareou, Milthinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,896 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,950 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 28 | [É Natural / Nuvens de Algodão / Nosso Amor Quer Paz \- Ao Vivo](https://open.spotify.com/track/3DoB8qUXP1KQicq2R0nvEB) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB) | [Encontrin 3 \- Vol\. 4 \(Ao Vivo\)](https://open.spotify.com/album/7ryCbBlrKFUmm0d5zblmkI) | 4:50 |
 | 29 | [Problema Emocional / Brilho No Olhar \- Ao Vivo](https://open.spotify.com/track/7dI9v9Wh3gFDX6QgcCbCGX) | [Grupo Fala Comigo](https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Roda De Samba Fala Comigo Convida Tiee \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/565t9GiCfNywZEhcsZR3ak) | 3:06 |
 | 30 | [Solteiro Forçado / 12 Horas \- Ao Vivo](https://open.spotify.com/track/5hjP1yS1HCqS7EsMylgA4Z) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Pagode do Diferentão 2 \- Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/4j9X79CXvQJ0cEv6ZJaVd3) | 4:05 |
-| 31 | [Para/ S.O.S Paixão/ Mais Forte Que Eu \- Ao Vivo](https://open.spotify.com/track/2YO697JUFpneIUTVw6FESL) | [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Pagodão do Darlan \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/2BDOgPbEuF5egCi2ddDWnU) | 4:35 |
+| 31 | [Instinto, Nada Vai Separar, Reinventar \- Ao Vivo](https://open.spotify.com/track/7xG3hb6KvuNVf6rNBOqeRU) | [Papo em off](https://open.spotify.com/artist/7wOoDKkvDqZlBYq5GBCE3T), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Instinto / Nada Vai Separar / Reinventar \(Ao Vivo\)](https://open.spotify.com/album/7qvSoQsxEh2yWcQ15S431o) | 6:00 |
 | 32 | [Vai Me Dando Corda / Você Me Encantou Demais / Sorri, Sou Rei \- Ao Vivo](https://open.spotify.com/track/1EsZx3vqXTzEHYKLoIaj4w) | [Lance Solto](https://open.spotify.com/artist/4yTSTXLrgC3BnYmxojLyOl), [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Vai Me Dando Corda / Você Me Encantou Demais / Sorri, Sou Rei \(Ao Vivo\)](https://open.spotify.com/album/7tQXf5lmVmAVQzQmW9ASa0) | 4:05 |
 | 33 | [Tristinha / Bota a Cara \- Ao Vivo](https://open.spotify.com/track/0eIjXGaHGliK8pwPca8x9m) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 4:58 |
 | 34 | [Lance Livre / Péssimo Negócio / A Gente Já Não Rola \- Ao Vivo](https://open.spotify.com/track/48ZGOiBpmTfbd5rEH51ktX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Mixturadin 3 \- Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5iaTc8wLU0vV5sqbNxQXE0) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Reinventar / Pra Ver o Sol Brilhar \- Ao Vivo](https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo \- 10 Anos de Sucesso \(Deluxe\)](https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a) | 5:59 |
 | 75 | [Encontro / Eu Te Amo \- Ao Vivo](https://open.spotify.com/track/3QlaEMBgXJcq7lqjjRMmcm) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Encontro / Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/67XOPkmRWRLit6AnqHTSoC) | 3:26 |
 
-Snapshot ID: `aIOtrgAAAAAPDMAfKxLiRaV6Wc17dVOk`
+Snapshot ID: `aIpZhQAAAABhzea9zff5QVIvWvoWF5il`

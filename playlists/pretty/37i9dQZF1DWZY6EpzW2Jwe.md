@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 
 > Remembering Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,613 likes - 40 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,720 likes - 40 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 | 39 | [Over the Mountain](https://open.spotify.com/track/0i1RTnH2Lj5gTDRU5wtyT2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Diary Of A Madman](https://open.spotify.com/album/4xiRrFE0Gq4Si9mAfPB3hZ) | 4:31 |
 | 40 | [Iron Head](https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 4:11 |
 
-Snapshot ID: `aH/sVgAAAAD0BOnSePFkRITlnoA5m2N6`
+Snapshot ID: `AAAAAPA4mZU4YKJRqz+KzOV01kd4GFfx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44367,
+  "num_followers": 44376,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAApO9QL9Pw4OvMPN6dbrGeC",
+  "snapshot_id": "aIgPAAAAAABJZ4r3iZ74+n2Huxxq0vqP",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
     },
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 151604,
-      "name": "No Me Marques Pedo",
-      "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 151604,
+      "name": "No Me Marques Pedo",
+      "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 239500,
       "name": "Se Me Pas\u00f3",
       "url": "https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #3",
-        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LQRA Session #3",
-      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila y Miel",
-        "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "Tequila y Miel",
-      "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 192840,
       "name": "Andamos Al Cien",
       "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tequila y Miel",
+        "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "Tequila y Miel",
+      "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
     },
     {
       "added_at": null,
@@ -1067,6 +1067,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Mis Manos",
+        "url": "https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Entre Mis Manos",
+      "url": "https://open.spotify.com/track/41WuR767LDesQv7lwU8biR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheque En Blanco",
         "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Mis Manos",
-        "url": "https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Entre Mis Manos",
-      "url": "https://open.spotify.com/track/41WuR767LDesQv7lwU8biR"
     },
     {
       "added_at": null,
@@ -1179,6 +1179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Ruego a Dios",
+        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Le Ruego a Dios",
+      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 196216,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Ruego a Dios",
-        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Le Ruego a Dios",
-      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
     }
   ],
   "unique_name": "This Is Yoss Bones",

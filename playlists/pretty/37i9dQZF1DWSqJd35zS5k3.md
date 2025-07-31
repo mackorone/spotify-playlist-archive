@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,576 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,560 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 | 49 | [Balada de navidad](https://open.spotify.com/track/0KX4kQyIEbXduNOmtm26ze) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [Natal Latino](https://open.spotify.com/album/1vxC4YJL0mY08Wt5yPoI99) | 2:38 |
 | 50 | [Esta Noche Es de Alegría](https://open.spotify.com/track/1VixW8tcmo8jt3AgHl7rLJ) | [Coro Infantil De Navidad](https://open.spotify.com/artist/3RpSVVEQJjIeG8OLQxbD1m) | [Villancicos](https://open.spotify.com/album/4XFxUjQFH5wGFNWdIr5a42) | 2:55 |
 
-Snapshot ID: `Z2SlnwAAAAAPIWZz0G3Sf4/P8+cVkHIV`
+Snapshot ID: `AAAAAPb3kx0G5EJACEo+07JIK3HaNNu0`

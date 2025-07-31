@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-339 songs - 21 hr 7 min
+340 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Canela Pura](https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Canela Pura](https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5) | 3:00 | 2025-06-26 |  |
 | [Caramel](https://open.spotify.com/track/6pgL9mKrHp24ZcamJAPphX) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Caramel](https://open.spotify.com/album/08Q2dB31BHpDJXBQy76wwy) | 3:09 | 2024-04-12 | 2024-06-21 |
 | [Caramel](https://open.spotify.com/track/72EJgG1QY9Y1kU4T6Dqe8a) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Caramel](https://open.spotify.com/album/1rYaNphrfP2pefyeHorXuR) | 3:09 | 2021-10-28 | 2024-04-19 |
-| [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-17 |  |
+| [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-17 | 2025-07-31 |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-12 |  |
 | [Chasing Thrills](https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Chasing Thrills](https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es) | 3:06 | 2025-01-17 | 2025-02-14 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |
@@ -229,6 +229,7 @@
 | [Perfectly Broken](https://open.spotify.com/track/21RK93h8VJjBKaGgefZ1ro) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Perfectly Broken](https://open.spotify.com/album/7yEPOcf4i368II6RXOGq5N) | 4:00 | 2021-10-28 | 2024-02-02 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-19 | 2025-03-21 |
 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 | 2025-07-24 |  |
+| [Playa Paradiso](https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Playa Paradiso](https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP) | 3:05 | 2025-07-24 |  |
 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 | 2024-05-24 | 2025-05-09 |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-03 |  |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2025-01-17 | 2025-04-13 |

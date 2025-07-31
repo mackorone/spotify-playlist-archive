@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Hudson Westbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,041 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,118 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
 | 100 | [Let You Down](https://open.spotify.com/track/3NgFlvOUSPL6wxRS1IjlGK) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Let You Down](https://open.spotify.com/album/4d6vxBaMkwAqEPRu7eH8j2) | 3:47 |
 
-Snapshot ID: `aIMBdgAAAAD+Igc/Gzt4JAFgcNsCeT8d`
+Snapshot ID: `AAAAALwsfjUkhj7oI94Z1B9qe9ZfTNf/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Miss Bashful, Ski Aggu, GDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,007 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,004 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
 | 100 | [Manchmal](https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Manchmal](https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY) | 2:49 |
 
-Snapshot ID: `aIiRWgAAAAArLXjYOvH4YDrTX+Vc/12W`
+Snapshot ID: `aIiRWgAAAABO/ZpuEq5ZSN8ssD0Khm/9`

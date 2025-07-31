@@ -4318,10 +4318,28 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 266613,
       "name": "I Wanna Move to the Beat of Your Heart",
       "url": "https://open.spotify.com/track/2dAYPYGmXpSPlIdI36Dwxl"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/7EdDnwrErn9Lpb3CdN7WUR"
+      },
+      "artists": [
+        {
+          "name": "David Hasselhoff",
+          "url": "https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266613,
+      "name": "I Wanna Move to the Beat of Your Heart",
+      "url": "https://open.spotify.com/track/6JWHZCGgPM5MvHGsnNZ8kF"
     },
     {
       "album": {
@@ -8744,6 +8762,24 @@
     {
       "album": {
         "name": "Looking For Freedom",
+        "url": "https://open.spotify.com/album/5dT8wsoBrLfBkfsuBK4bLJ"
+      },
+      "artists": [
+        {
+          "name": "David Hasselhoff",
+          "url": "https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "Sheltered Heart",
+      "url": "https://open.spotify.com/track/7JBrmDHQ0APUwQzGOJOK2W"
+    },
+    {
+      "album": {
+        "name": "Looking For Freedom",
         "url": "https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB"
       },
       "artists": [
@@ -8754,7 +8790,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 284333,
       "name": "Sheltered Heart",
       "url": "https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP"

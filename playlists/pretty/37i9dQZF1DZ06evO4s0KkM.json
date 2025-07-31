@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 123180,
+  "num_followers": 123226,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABql/IqeMOXvTWhAFBzFbVX",
+  "snapshot_id": "aIgPAAAAAAAcRbEXGDIcvwGuG6JuVzx6",
   "tracks": [
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+        "name": "Dead Anthems",
+        "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
       },
       "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        },
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 206373,
-      "name": "The Hardest Mile",
-      "url": "https://open.spotify.com/track/4XkOAgeqwumhecjDcwP1Qv"
+      "duration_ms": 156618,
+      "name": "Cold Like This",
+      "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Shady Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,026 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,025 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 58 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 |
 | 59 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 60 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
-| 61 | [Girl Band Starter Pack](https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Girl Band Starter Pack](https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be) | 3:03 |
-| 62 | [Pretty Good To Feel Something](https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Pretty Good To Feel Something](https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw) | 3:06 |
-| 63 | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/album/4xXFvHDfjN3zcNmXbS0Axu) | 2:51 |
-| 64 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |
+| 61 | [Pretty Good To Feel Something](https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Pretty Good To Feel Something](https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw) | 3:06 |
+| 62 | [Girl Band Starter Pack](https://open.spotify.com/track/4Kc8pHLnsN1MfkFJHKEeXQ) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Girl Band Starter Pack](https://open.spotify.com/album/5FIFu0qCJDIQylnjnWR7be) | 3:03 |
+| 63 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |
+| 64 | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Hey Ken, Someone Methodically Mushed the Donuts \(Re\-recorded\) ft\. Tades Sanville](https://open.spotify.com/album/4xXFvHDfjN3zcNmXbS0Axu) | 2:51 |
 | 65 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 |
 | 66 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
 | 67 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 75 | [Miss Me With That](https://open.spotify.com/track/0wN85vFtomNzPmcEkM9aB0) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Miss Me With That](https://open.spotify.com/album/7k4oB7zleQaaHPH30UohlZ) | 3:09 |
 | 76 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 77 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
-| 78 | [Wearing Black](https://open.spotify.com/track/64WyR2OOqHbd3uQA3LH4wn) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Wearing Black](https://open.spotify.com/album/2TPOpoI8YI71QD4Y0Ziq9O) | 3:00 |
-| 79 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
-| 80 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 |
+| 78 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 79 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 |
+| 80 | [Junebug](https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Junebug](https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358) | 3:16 |
 
 Snapshot ID: `aHumpQAAAAB4yzyu5G/idXnkjmwrS05+`

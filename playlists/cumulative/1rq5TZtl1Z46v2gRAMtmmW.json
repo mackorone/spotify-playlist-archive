@@ -7411,6 +7411,24 @@
     },
     {
       "album": {
+        "name": "The Prophet",
+        "url": "https://open.spotify.com/album/3Oq7YVzRdzNBK5Ji47N1ox"
+      },
+      "artists": [
+        {
+          "name": "Ami Taf Ra",
+          "url": "https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525672,
+      "name": "The Prophet",
+      "url": "https://open.spotify.com/track/68nHXfsqTUHGt9Z21j9Pkj"
+    },
+    {
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 349505,
+  "num_followers": 349584,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADEIdmgN4bQ4FkuwYZV2sik",
+  "snapshot_id": "aIgPAAAAAAATUZRAyddfhuWylFX0AoIR",
   "tracks": [
     {
       "added_at": null,
@@ -248,7 +248,7 @@
       "added_at": null,
       "album": {
         "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 235328,
+      "duration_ms": 234734,
       "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+      "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245478,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On fire",
         "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245376,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 167893,
       "name": "As\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 213507,
-      "name": "Si Supieran",
-      "url": "https://open.spotify.com/track/2vRxyehSZkbxL17aM9lxQX"
+      "duration_ms": 195608,
+      "name": "La Sand\u00eda",
+      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 195608,
-      "name": "La Sand\u00eda",
-      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+      "duration_ms": 213613,
+      "name": "Si Supieran",
+      "url": "https://open.spotify.com/track/61cPaeNerTafqZLYMEfTQ3"
     },
     {
       "added_at": null,

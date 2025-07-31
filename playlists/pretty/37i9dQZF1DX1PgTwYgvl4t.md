@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=Ryxw\-idLS1mm6km64D6KHQ>Sinach</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,654 likes - 100 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,800 likes - 100 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Covenant](https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [VERSES, Vol\. 2](https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8) | 8:49 |
 | 100 | [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 |
 
-Snapshot ID: `aILJSAAAAADZsLQ6qsmLQDzIVooQ9DNH`
+Snapshot ID: `AAAAAPAqsnfwwqzeOTo+K9+AElqlQg83`

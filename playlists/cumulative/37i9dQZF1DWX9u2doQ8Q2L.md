@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,652 songs - 4 day 3 hr 50 min
+1,653 songs - 4 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 | 2023-06-13 | 2023-09-10 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-10-18 |
 | [How's The Weather?](https://open.spotify.com/track/2fDYeWXk5CZa5fDu55TXVR) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [How's The Weather?](https://open.spotify.com/album/61DqjqYnKIVtoKmw8rujY4) | 3:47 | 2023-05-23 | 2023-05-31 |
+| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-07-30 |  |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2022-11-08 | 2023-02-10 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-13 | 2025-02-28 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-07-10 |
@@ -534,7 +535,7 @@
 | [Jam](https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Jam](https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp) | 4:05 | 2023-04-25 | 2023-06-04 |
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-11 | 2023-07-26 |
 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 | 2023-01-17 | 2023-04-05 |
-| [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 |  |
+| [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 | 2025-07-31 |
 | [Joy](https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Joy](https://open.spotify.com/album/3BfGTSaXoQ9AR4jp7UWGEi) | 3:11 | 2023-09-05 | 2023-09-13 |
 | [Judgement?](https://open.spotify.com/track/5MGVaOgYQ3UclF6l7ctMFA) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Judgement?](https://open.spotify.com/album/34XrJ4YbZvHTztBI4ToCDY) | 4:56 | 2025-04-02 | 2025-05-08 |
 | [JUICY 2023](https://open.spotify.com/track/19i6b6c6C0UJ1OnHpBT6nJ) | [BAKU](https://open.spotify.com/artist/6UJ9anFCTizsVkXHg1uKgW), [chinzadopeness](https://open.spotify.com/artist/6DGXrg6MMq5E5rptfiMaNa), [CHAN\-MIKA](https://open.spotify.com/artist/1buzD2EAwSbAdZJHzcSjvw) | [JUICY 2023](https://open.spotify.com/album/19AO1LKYhDm0qfaq9l6WyG) | 3:47 | 2023-02-14 | 2023-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,816 likes - 82 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,947 likes - 82 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 81 | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 |
 | 82 | [So Long \(feat\. Cam\)](https://open.spotify.com/track/1onjgmM6vHbILFbQLg8gFV) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 2:52 |
 
-Snapshot ID: `aIPAPgAAAADUX4dVPbMqWQDQ6uJujDSk`
+Snapshot ID: `AAAAAJs57Af5kqiqA+KNPP4vpVSQWA1V`

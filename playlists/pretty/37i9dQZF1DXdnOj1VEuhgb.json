@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
-  "num_followers": 1395717,
+  "num_followers": 1395770,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIiZhgAAAAAZekOsG0R31W8Iu41TfiaG",
+  "snapshot_id": "aInP5QAAAAAxnwbrTop1c9QfvLIVCHyc",
   "tracks": [
     {
       "added_at": "2025-07-29 09:51:02",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-07-29 09:51:02",
       "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe"
+    },
+    {
+      "added_at": "2025-07-29 09:51:02",
+      "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/1Jse2pNXxLcKTrePHApCAP"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 180000,
       "name": "RS6",
       "url": "https://open.spotify.com/track/51KQvZMR70ffMVxs4JugnX"
-    },
-    {
-      "added_at": "2025-07-29 09:51:02",
-      "album": {
-        "name": "U\u00e7urum",
-        "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "U\u00e7urum",
-      "url": "https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe"
     },
     {
       "added_at": "2025-07-29 09:51:02",

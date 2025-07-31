@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-615 songs - 2 day 3 hr 14 min
+616 songs - 2 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Power Over Me](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [A Power Over Me EP](https://open.spotify.com/album/78uWTRjStnaxMpfeFj9MR1) | 5:34 | 2023-07-14 |  |
 | [A Sheltered Place \- Phaeleh Remix](https://open.spotify.com/track/38CngZw3TDi2XDCQPMKHJR) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 3:48 | 2021-12-08 | 2023-01-06 |
 | [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 | 2025-04-11 | 2025-05-07 |
+| [After The Rain](https://open.spotify.com/track/59bxpViKiAgqDu1gkd2slW) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [After The Rain](https://open.spotify.com/album/0w1ldBaax7UOp17zdqUknF) | 4:30 | 2025-07-25 |  |
 | [Again](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Again](https://open.spotify.com/album/3iGyQOA9EcfQyEPNw65dsg) | 4:18 | 2023-12-15 |  |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-12-08 | 2024-04-13 |
 | [Air](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Air](https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS) | 3:46 | 2023-05-12 |  |
@@ -235,7 +236,7 @@
 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-12-08 |  |
 | [indulge](https://open.spotify.com/track/1xtAsTz9HdPJX20KUlQ3sB) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [indulge](https://open.spotify.com/album/1yOTjWiA4wQXKdZHiD07GA) | 4:27 | 2021-12-08 | 2023-08-05 |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-04-04 |  |
-| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 | 2025-07-14 |
+| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 |  |
 | [Inspired](https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS) | [Inspire](https://open.spotify.com/album/4fBLyRZWGvgptQHuFp3Q17) | 6:13 | 2021-12-08 | 2022-07-28 |
 | [Interlaced](https://open.spotify.com/track/4xwUt1Ukkfc0b3DwsB3f2b) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Interlaced](https://open.spotify.com/album/1LKwsKTXI8hvBmccPCXsec) | 5:04 | 2021-12-08 | 2024-01-17 |
 | [Into The Night](https://open.spotify.com/track/4sKq8rbmhzWElf2rJDG7cJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Into The Night](https://open.spotify.com/album/5oiK8JQJeUOstxrhzjgKjZ) | 3:06 | 2024-06-21 |  |
@@ -345,7 +346,7 @@
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 | 2025-01-11 |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 | 2025-04-25 | 2025-05-22 |
-| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 |  |
+| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 | 2025-07-31 |
 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 | 2021-12-08 | 2022-07-28 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-20 |  |
 | [Never \(Colyn Remix\)](https://open.spotify.com/track/701hEuWyG1EZepbD5Qiu3r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/2fgej64OiBlYJdX6wMc7eb) | 3:37 | 2023-10-28 | 2024-04-13 |
@@ -461,7 +462,7 @@
 | [Satellite Girl](https://open.spotify.com/track/3VedZEruDuibIF8oQONu5k) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/14uk4vsUkGzG8rXM49jw1u) | 8:16 | 2021-12-08 | 2023-11-05 |
 | [Satellite Girl](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Leee EP](https://open.spotify.com/album/1tRR9qjec2ibFz88OyTbjs) | 8:16 | 2023-12-15 | 2024-04-19 |
 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 | 2023-08-11 |  |
-| [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-11-24 |  |
+| [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-11-24 | 2025-07-31 |
 | [Save Us](https://open.spotify.com/track/1jBoW8YIgtkXowgc3RPxnq) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Save Us](https://open.spotify.com/album/2Ias0xFLvCVO6MQd31vzyy) | 5:12 | 2024-08-02 |  |
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
 | [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |

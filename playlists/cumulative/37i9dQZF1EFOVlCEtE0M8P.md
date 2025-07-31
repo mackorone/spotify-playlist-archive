@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 16 hr 26 min
+284 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 | 2024-03-07 |  |
 | [Trigger](https://open.spotify.com/track/3zhSWZqg57WAovvV52nlHa) | [Maluca](https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI) | [Trigger \(Remixes\)](https://open.spotify.com/album/6i1PqlEM32IULbftLEeuji) | 3:11 | 2024-09-25 |  |
 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 | 2024-03-07 | 2024-09-26 |
-| [Truth or Dare](https://open.spotify.com/track/5cyjpbzo1hv5HecXZCmRZD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh) | 2:30 | 2024-03-07 |  |
+| [Truth or Dare](https://open.spotify.com/track/5cyjpbzo1hv5HecXZCmRZD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh) | 2:30 | 2024-03-07 | 2025-07-31 |
+| [Truth or Dare](https://open.spotify.com/track/6VTxre8RGM9v4pJoHJBcI8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6GyVws5xj7caQUCM4dcV8d) | 2:30 | 2025-07-30 |  |
 | [Two Things Can Be True](https://open.spotify.com/track/0hWD4quyea8bHiRp9EjRKH) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:45 | 2024-05-23 | 2025-01-22 |
 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 | 2024-03-24 |  |
 | [u hurt me hurts u](https://open.spotify.com/track/7cWy95kMrBH5ho6GAzpEBB) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 2:57 | 2024-03-07 |  |

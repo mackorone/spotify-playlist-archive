@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,943 songs - 4 day 4 hr 41 min
+1,944 songs - 4 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1685,6 +1685,7 @@
 | [The only thing](https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4) | [Jarn](https://open.spotify.com/artist/4J2RKCwmEVYJlkbZvKJgW9) | [The only thing](https://open.spotify.com/album/5QdGTPzyfzPaDcUUhWga78) | 3:17 | 2024-01-25 | 2024-02-23 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-22 | 2025-03-14 |
 | [The River](https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The River](https://open.spotify.com/album/2BfuSNlZYVmszJzluzFTkb) | 3:20 | 2022-03-17 | 2022-07-29 |
+| [The Spectrum of Love](https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The Spectrum of Love](https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t) | 3:13 | 2025-07-28 |  |
 | [The Terrace](https://open.spotify.com/track/7IbQF9e3Lz1LBPsCxTnBF3) | [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [The Terrace](https://open.spotify.com/album/7I3sbs1SUZU7VGKIQEOxSz) | 2:55 | 2021-12-16 | 2021-12-23 |
 | [The Voice Within](https://open.spotify.com/track/1VmGd9Gw2sKXCT27x5IvwJ) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/0alHmJAANap6kwhm1BMZvc) | 3:56 | 2022-02-24 | 2022-07-24 |
 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 | 2024-01-19 |
@@ -1808,7 +1809,7 @@
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
-| [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 |  |
+| [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 | 2025-07-31 |
 | [Verkligheten har jag här för mig själv](https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [APONIA](https://open.spotify.com/album/1jco0VGKqWijdEj3rD0SIs) | 4:16 | 2025-03-07 | 2025-05-09 |
 | [Verktygslådan](https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Verktygslådan](https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs) | 2:47 | 2024-06-13 | 2024-08-16 |
 | [VERTIGO](https://open.spotify.com/track/4V82PgRDvzQwppU72Aapel) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [VERTIGO](https://open.spotify.com/album/7CIVfrjREC95ffpAFKCbCl) | 3:03 | 2022-05-12 | 2022-06-06 |

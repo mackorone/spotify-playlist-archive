@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,022 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,023 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 16 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
 | 17 | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8) | 2:45 |
 | 18 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 |
-| 19 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 |
-| 20 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 |
+| 19 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 |
+| 20 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 |
 | 21 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
 | 22 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
 | 23 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
 | 50 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 
-Snapshot ID: `aIa9gAAAAADUS5NEvrWiMG1xiPHj5+7U`
+Snapshot ID: `aIgPAAAAAAAZ0yDF0vbNVtl0ObnMIj02`

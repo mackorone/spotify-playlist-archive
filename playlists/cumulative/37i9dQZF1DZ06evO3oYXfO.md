@@ -4,11 +4,11 @@
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-52 songs - 4 hr 46 min
+53 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Bit of Finger / Sleeping Village / Warning \- 2013 Remaster](https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 14:13 | 2025-07-25 |  |
+| [A Bit of Finger / Sleeping Village / Warning \- 2013 Remaster](https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 14:13 | 2025-07-25 | 2025-07-31 |
 | [A National Acrobat \(2009 Remaster\)](https://open.spotify.com/track/6iJuDBangLQkI7cc9MdjPw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 6:15 | 2025-07-23 |  |
 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 | 2025-07-23 |  |
 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 | 2025-07-23 |  |
@@ -45,6 +45,7 @@
 | [Planet Caravan \- 2009 Remaster](https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:29 | 2025-07-23 |  |
 | [Sabbath Bloody Sabbath \(2009 Remaster\)](https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:44 | 2025-07-23 |  |
 | [Sabbra Cadabra \(2009 Remaster\)](https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:55 | 2025-07-23 |  |
+| [Scarlet Pimpernel \- 2025 Remaster](https://open.spotify.com/track/7wziRCajO0SiyszE3XE7cE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 2:06 | 2025-07-31 |  |
 | [Sleeping Village \- 2009 Remaster](https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:46 | 2025-07-23 |  |
 | [Snowblind \- 2009 Remaster](https://open.spotify.com/track/0VfXQxbM0doaDw2fMI8Ima) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 5:28 | 2025-07-23 |  |
 | [Solitude \(2009 Remaster\)](https://open.spotify.com/track/6VfoT86lDJ18YhLCDHKgEL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:01 | 2025-07-23 |  |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-2,092 songs - 5 day 6 hr 35 min
+2,093 songs - 5 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 | 2024-06-27 | 2024-09-30 |
 | [bones.](https://open.spotify.com/track/7vufcZ8MnCb95Smmg8CR8f) | [Kyju](https://open.spotify.com/artist/75Xl3gSfwXJIxqdvIPhHd4), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [bones.](https://open.spotify.com/album/14j1udxcdRtyaPdpNoHFap) | 2:06 | 2024-01-11 | 2024-03-01 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-29 | 2025-03-07 |
+| [Boohoo](https://open.spotify.com/track/02NMxmTOhiZkptYAyQBu1R) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Boohoo](https://open.spotify.com/album/4sYsmIz4EHqCf2o87GbjvE) | 2:00 | 2025-07-24 |  |
 | [BORED? \(hope you’re happy\)](https://open.spotify.com/track/3S13e7YHpPGNbumvwQ8Xn2) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BORED? \(hope you’re happy\)](https://open.spotify.com/album/72qAA57C7nxJeG7clwO41K) | 3:17 | 2023-02-09 | 2023-03-25 |
 | [Born & Die](https://open.spotify.com/track/0RDjAutucOtnLANrRny7r7) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Noises & Clarity](https://open.spotify.com/album/6AKF6IguDDDkjTn07cIIKz) | 4:28 | 2022-09-22 | 2022-10-14 |
 | [Bothering](https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Bothering / Daiji Rushing](https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww) | 2:38 | 2024-12-26 | 2025-01-24 |

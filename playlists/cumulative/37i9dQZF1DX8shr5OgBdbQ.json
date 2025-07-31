@@ -1070,12 +1070,12 @@
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/6R1ancOh80DsLFq5QlKEK0"
-        },
-        {
           "name": "The Revels Chorus",
           "url": "https://open.spotify.com/artist/1JINVUk1oB4ri3xG6UU9Jc"
+        },
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/6R1ancOh80DsLFq5QlKEK0"
         }
       ],
       "date_added": "2022-03-10",

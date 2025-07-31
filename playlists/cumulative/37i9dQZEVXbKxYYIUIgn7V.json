@@ -5619,6 +5619,28 @@
     },
     {
       "album": {
+        "name": "Bounce!",
+        "url": "https://open.spotify.com/album/3JcRDOkJbrFFEMtpR3JCBr"
+      },
+      "artists": [
+        {
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        },
+        {
+          "name": "YDRA",
+          "url": "https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175181,
+      "name": "Bounce!",
+      "url": "https://open.spotify.com/track/1jE771okkIxkTzJxloHDu7"
+    },
+    {
+      "album": {
         "name": "Bo\u015f Yere - Lan ben sana nerden tutuldum",
         "url": "https://open.spotify.com/album/625PMAJKcpX7tHgxJfzHIK"
       },
@@ -18788,7 +18810,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -28968,7 +28990,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -33346,10 +33368,28 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 199550,
       "name": "SOLD MY SOUL",
       "url": "https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA"
+    },
+    {
+      "album": {
+        "name": "SOLD MY SOUL",
+        "url": "https://open.spotify.com/album/2W0vIQTvNWsL0PLkHne6rj"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "SOLD MY SOUL",
+      "url": "https://open.spotify.com/track/6lSWUkwJ68QQ6pgdM7ZySj"
     },
     {
       "album": {
@@ -35360,7 +35400,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -37792,10 +37832,32 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 179657,
       "name": "u notice me",
       "url": "https://open.spotify.com/track/0jl5CfgJPdRmfXLewEBDSs"
+    },
+    {
+      "album": {
+        "name": "u notice me",
+        "url": "https://open.spotify.com/album/0cWiWNmvjH2vdSJnMPYQ4n"
+      },
+      "artists": [
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        },
+        {
+          "name": "Olivia Rose",
+          "url": "https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179657,
+      "name": "u notice me",
+      "url": "https://open.spotify.com/track/0rkvOXeWuEjF2412gXGadE"
     },
     {
       "album": {

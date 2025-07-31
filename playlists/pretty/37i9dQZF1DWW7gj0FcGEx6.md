@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,239 likes - 165 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,277 likes - 165 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 164 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
 | 165 | [Mary \(Main Title\)](https://open.spotify.com/track/18FEHyFBFAdlwR7UOh3kT3) | [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Mary \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/325lSxq5SAnpWSLKIIEFfP) | 4:34 |
 
-Snapshot ID: `aIMBZwAAAABI20/kyyJWFWV2IIbtLtRH`
+Snapshot ID: `AAAAADB4wWKh1tccL9YaXy5wN/HMyu7m`

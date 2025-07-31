@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 62 songs - 3 hr 37 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 63 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 60 | [Getting Into Knives](https://open.spotify.com/track/2b3XA03SZ0ns3Lgc1Y8Xin) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 5:14 |
 | 61 | [Comin' Home](https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Red of Tooth and Claw](https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK) | 3:35 |
 | 62 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
+| 63 | [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 |
 
-Snapshot ID: `AAAASx0f45T03i63VUf4RVIgzqLkIeYv`
+Snapshot ID: `AAAATNetWqzwpHESsbU5Uzh7Ng+eYPCB`

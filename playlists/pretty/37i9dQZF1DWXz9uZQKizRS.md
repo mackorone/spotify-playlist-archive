@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Lor
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,553 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,554 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 98 | [Po burzy](https://open.spotify.com/track/6euxdptOZFX9Kh75CLt847) | [Jakub Wysmułek](https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK) | [Po burzy](https://open.spotify.com/album/5GdZ2bLoqMvWJdjA4UMZ70) | 3:04 |
 | 99 | [Serca na Straty](https://open.spotify.com/track/1IlxzbWGRXRgGcosunZHWc) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Serca na Straty](https://open.spotify.com/album/6RuEVj7XckAOSXRVFqUoZr) | 3:04 |
 
-Snapshot ID: `aIKtEQAAAABI55B0sAWF2IrtYhqIhN8U`
+Snapshot ID: `aIorhwAAAACtP7/PIPY4UJCjTXY6pvaa`

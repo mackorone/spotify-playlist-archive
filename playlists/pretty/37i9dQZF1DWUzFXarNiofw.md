@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,610 likes - 310 songs - 16 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,684 likes - 310 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 18 | [Sober](https://open.spotify.com/track/22P1oKO2J3A0f3QQ6zZKHy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 4:10 |
 | 19 | [Give My Love](https://open.spotify.com/track/69MuwX7oKDP5Ek6So1fAFy) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Give My Love](https://open.spotify.com/album/0SAKY6VQtSx24WIdr7xpDi) | 3:25 |
 | 20 | [Thick n Country](https://open.spotify.com/track/6QclcBITSWRLF49MJiRxCq) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Akeem Ali](https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X) | [Thick n Country](https://open.spotify.com/album/6zmx0UMQ04JeZmDzoXdehm) | 2:08 |
-| 21 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |
+| 21 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 22 | [DIRTY](https://open.spotify.com/track/63x8OG6BbnIEZ0jjrdb1pV) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [DIRTY](https://open.spotify.com/album/431n6Co1YsSkywzmlD3KvZ) | 2:30 |
 | 23 | [Your Type](https://open.spotify.com/track/3BVmE3YJEWn25qobDDVhXd) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Your Type](https://open.spotify.com/album/06sKYl2bgcQDki5j7HtWTd) | 3:50 |
 | 24 | [ONE WISH 20](https://open.spotify.com/track/0wxFKaGJGV7MGNXPZfz22O) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [ONE WISH 20](https://open.spotify.com/album/2WBL16KXAmVjGSXJliVLWs) | 4:56 |

@@ -4,13 +4,14 @@
 
 > Mental illness
 
-60 songs - 3 hr 21 min
+61 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 O'Clock](https://open.spotify.com/track/2Eh6bvihTFDwAjHBEYnbgH) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [7 O'Clock](https://open.spotify.com/album/5Trjk7CuYJO5muXqXPB7xl) | 2:48 | 2024-12-12 |  |
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2025-03-07 |  |
 | [Aaa](https://open.spotify.com/track/6ZaHZR8trkaELFMwbH6wbF) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:59 | 2023-07-21 |  |
+| [Active Trauma](https://open.spotify.com/track/0arc3QuQdiy6u8CmgYWQPW) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:49 | 2025-07-30 |  |
 | [aftershocks](https://open.spotify.com/track/17RUojqXdeBFDF1TlrNOsg) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Winter](https://open.spotify.com/album/22eqt3R2kQcQ2g3xzl8sDm) | 4:15 | 2023-07-09 |  |
 | [All Up the Seething Coast](https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:45 | 2024-12-08 |  |
 | [Always Tired](https://open.spotify.com/track/5gRJEKibCgEHT0EyTzCCNN) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Always Tired](https://open.spotify.com/album/1uwuVHWQtLlheh6WxKnjDP) | 3:03 | 2024-02-19 |  |

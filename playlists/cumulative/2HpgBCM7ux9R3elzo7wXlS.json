@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "catching my tears",
+        "url": "https://open.spotify.com/album/2u94rUNHDcOZZM9rmYsn6H"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102750,
+      "name": "catching my tears",
+      "url": "https://open.spotify.com/track/3Vqyx6twD6N0V9TafhwP4x"
+    },
+    {
+      "album": {
         "name": "BORN LIKE THIS",
         "url": "https://open.spotify.com/album/5i7JM6qlMK5x2gY6Tkv56h"
       },

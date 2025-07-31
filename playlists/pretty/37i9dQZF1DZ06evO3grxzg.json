@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235056,
+  "num_followers": 235063,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADAwmBhZBwYtB/+r/ezlWEv",
+  "snapshot_id": "aIgPAAAAAAA9t+j2cCCUlpS2Q1GK7KhF",
   "tracks": [
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 219320,
+      "duration_ms": 219440,
       "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+      "url": "https://open.spotify.com/track/3snQoH7rfd9ho1sejpFeJ1"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/2uBvWhlfPmQAC025aD3Aas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00cdA",
         "url": "https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz"
       },
@@ -919,6 +903,26 @@
       "duration_ms": 167495,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/2SH19kAKFEqKFYFNLhIEFA"
     }
   ],
   "unique_name": "This Is Danna Paola",

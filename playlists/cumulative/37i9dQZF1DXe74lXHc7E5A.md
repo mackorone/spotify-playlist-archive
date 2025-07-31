@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: JHus x Asake
 
-578 songs - 1 day 5 hr 9 min
+579 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-10-14 |
 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 | 2022-07-27 | 2023-06-20 |
 | [Hear It Back \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:14 | 2022-07-27 | 2022-09-24 |
-| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
+| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 | 2025-07-31 |
 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [Hermano](https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Hermano](https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo) | 3:12 | 2025-07-18 |  |
 | [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-13 | 2022-11-25 |
@@ -326,6 +326,7 @@
 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 | 2025-06-20 | 2025-07-18 |
 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 | 2025-02-21 |  |
 | [Magic \(feat\. I.A.\)](https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [I.A.](https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:00 | 2025-05-30 | 2025-06-20 |
+| [Marco Polo](https://open.spotify.com/track/78RrafIVtzx0ObqAGRljs7) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Big Boy II](https://open.spotify.com/album/3U7aiDvqW3bD8X6MTAgqjs) | 2:12 | 2025-07-29 |  |
 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 | 2025-05-30 | 2025-06-20 |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2023-09-15 | 2023-10-02 |
 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 | 2023-02-10 | 2023-09-19 |

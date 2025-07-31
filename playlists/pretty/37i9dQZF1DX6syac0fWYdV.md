@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,346 likes - 272 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,422 likes - 272 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 271 | [Yachting](https://open.spotify.com/track/3QVyMXKaLUi0np0VlDXWps) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Yachting / Late Call](https://open.spotify.com/album/50YVlsGB9Pq8cApNnicodI) | 3:09 |
 | 272 | [Only U](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9) | [LeDorean](https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46) | [Only U](https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX) | 3:05 |
 
-Snapshot ID: `AAAAADhw/Fvukzvp/E1wuZNM4g9waggA`
+Snapshot ID: `aIN7kAAAAABf9/IWH7moBkqnkllj4u9R`

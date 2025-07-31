@@ -20875,6 +20875,28 @@
     },
     {
       "album": {
+        "name": "When You're Not Around",
+        "url": "https://open.spotify.com/album/4sEdJsUUAi2HR1zNcnkxHa"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191194,
+      "name": "When You're Not Around",
+      "url": "https://open.spotify.com/track/5PigCceQ8BlFQdwMtTJ4Yn"
+    },
+    {
+      "album": {
         "name": "where did you go",
         "url": "https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd"
       },

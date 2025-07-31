@@ -1,44 +1,28 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Just For Fun. Artwork by Paola Saliby",
-  "num_followers": 228927,
+  "description": "The best new pop music from new, independent artists.  Cover: Grace Power. Artwork by Paola Saliby",
+  "num_followers": 228965,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIMBfgAAAAAMfDaf3RAOE0FWlsPm+zwd",
+  "snapshot_id": "aImY2wAAAADwd3h9AWd3SI4wVLpUsTvr",
   "tracks": [
     {
-      "added_at": "2025-07-18 16:52:12",
+      "added_at": "2025-07-30 04:00:26",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
       },
       "artists": [
         {
-          "name": "Just For Fun",
-          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
-    },
-    {
-      "added_at": "2025-07-25 04:01:02",
-      "album": {
-        "name": "i just want to dance",
-        "url": "https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 159975,
-      "name": "i just want to dance",
-      "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
       "added_at": "2025-07-25 04:01:02",
@@ -57,22 +41,6 @@
       "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
     },
     {
-      "added_at": "2025-07-19 15:58:17",
-      "album": {
-        "name": "Leah Dong",
-        "url": "https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp"
-      },
-      "artists": [
-        {
-          "name": "Leah Dong",
-          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "You Were Supposed To Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"
-    },
-    {
       "added_at": "2025-07-25 04:01:02",
       "album": {
         "name": "1-800-LOVECLUB",
@@ -87,6 +55,214 @@
       "duration_ms": 208211,
       "name": "1-800-LOVECLUB",
       "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "TAKE MY LOVE",
+        "url": "https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 180779,
+      "name": "TAKE MY LOVE",
+      "url": "https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "background check",
+        "url": "https://open.spotify.com/album/0C6IgsS1zJRWcvbH0so2Jt"
+      },
+      "artists": [
+        {
+          "name": "Grace Spidell",
+          "url": "https://open.spotify.com/artist/0PPYiSoH8uy2WgQEN48H3F"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "background check",
+      "url": "https://open.spotify.com/track/4p0CN3p41y178UE7d95MUe"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "I Love This!",
+        "url": "https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "I Love This!",
+      "url": "https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Summer of Love",
+        "url": "https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 220732,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Blooming Season Pt. 2",
+        "url": "https://open.spotify.com/album/00lgkYhcBBa6dfa9kc4KNF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Stuck On Us",
+        "url": "https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 175234,
+      "name": "Stuck On Us",
+      "url": "https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/3LcEc8tepT9lPZJMQfhGjl"
+      },
+      "artists": [
+        {
+          "name": "LLL",
+          "url": "https://open.spotify.com/artist/13FoW33FvNgCJZf7KMbOoz"
+        }
+      ],
+      "duration_ms": 141301,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/63LiFwXnspFyyK1erNyb0e"
+    },
+    {
+      "added_at": "2025-07-25 04:01:02",
+      "album": {
+        "name": "i just want to dance",
+        "url": "https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "duration_ms": 159975,
+      "name": "i just want to dance",
+      "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Kadek",
+          "url": "https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "hit me then",
+        "url": "https://open.spotify.com/album/1zQYl7rpVOpTyhCoYbdSEP"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "duration_ms": 143580,
+      "name": "hit me then",
+      "url": "https://open.spotify.com/track/28oKNdVSDu4VIgu6cdIbjv"
+    },
+    {
+      "added_at": "2025-07-18 16:52:12",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
+    },
+    {
+      "added_at": "2025-07-19 15:58:17",
+      "album": {
+        "name": "Leah Dong",
+        "url": "https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp"
+      },
+      "artists": [
+        {
+          "name": "Leah Dong",
+          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "You Were Supposed To Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"
     },
     {
       "added_at": "2025-07-19 15:49:45",
@@ -551,22 +727,6 @@
       "duration_ms": 188012,
       "name": "make the night last",
       "url": "https://open.spotify.com/track/5OdYWoQSPU83aHM81Gfh5y"
-    },
-    {
-      "added_at": "2025-07-09 17:24:19",
-      "album": {
-        "name": "What You Wanted",
-        "url": "https://open.spotify.com/album/7IT7ArBYFJejJFrGRtStrE"
-      },
-      "artists": [
-        {
-          "name": "Grace Kay",
-          "url": "https://open.spotify.com/artist/5XUKBYaVDPMDlKVTS3hSlT"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Wanted",
-      "url": "https://open.spotify.com/track/7pS78xyQrzIzhnF8wgU5MF"
     },
     {
       "added_at": "2025-07-02 04:00:05",
@@ -1451,234 +1611,6 @@
       "duration_ms": 187235,
       "name": "superstitious",
       "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
-    },
-    {
-      "added_at": "2025-05-28 04:56:13",
-      "album": {
-        "name": "The Seven Spirits of Her",
-        "url": "https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4"
-      },
-      "artists": [
-        {
-          "name": "Jude Kelly",
-          "url": "https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ"
-        }
-      ],
-      "duration_ms": 167100,
-      "name": "Married to Her Death",
-      "url": "https://open.spotify.com/track/3xQYyjx0ns7CRg6k3mu0sL"
-    },
-    {
-      "added_at": "2025-05-21 04:00:26",
-      "album": {
-        "name": "Till the Sun Comes Up",
-        "url": "https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9"
-      },
-      "artists": [
-        {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Till the Sun Comes Up",
-      "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
-    },
-    {
-      "added_at": "2025-05-21 04:00:26",
-      "album": {
-        "name": "Billboards",
-        "url": "https://open.spotify.com/album/3D3atcKKmfYoZFJMz6qED8"
-      },
-      "artists": [
-        {
-          "name": "Tragic Sasha",
-          "url": "https://open.spotify.com/artist/13POEdcy38kG2ZzQD6PnTB"
-        }
-      ],
-      "duration_ms": 137243,
-      "name": "Billboards",
-      "url": "https://open.spotify.com/track/0Sg9XLAL4tKezeuwnu4itl"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "East Coast Summers",
-        "url": "https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 221927,
-      "name": "East Coast Summers",
-      "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "I'm Not Your Punchbag",
-        "url": "https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "You Used To Be So Sexy",
-      "url": "https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Pacemaker",
-        "url": "https://open.spotify.com/album/620asHETGznhXwYUUFP3TB"
-      },
-      "artists": [
-        {
-          "name": "Georgie & Joe",
-          "url": "https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "Pacemaker",
-      "url": "https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe"
-    },
-    {
-      "added_at": "2025-04-30 04:00:29",
-      "album": {
-        "name": "Piggies",
-        "url": "https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9"
-      },
-      "artists": [
-        {
-          "name": "GAZAL",
-          "url": "https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU"
-        }
-      ],
-      "duration_ms": 154380,
-      "name": "Piggies",
-      "url": "https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d"
-    },
-    {
-      "added_at": "2025-04-16 04:00:26",
-      "album": {
-        "name": "All I Ever Really Wanted",
-        "url": "https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30"
-      },
-      "artists": [
-        {
-          "name": "Jessica Winter",
-          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
-        }
-      ],
-      "duration_ms": 188668,
-      "name": "All I Ever Really Wanted",
-      "url": "https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO"
-    },
-    {
-      "added_at": "2025-03-26 04:00:08",
-      "album": {
-        "name": "neophyte",
-        "url": "https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh"
-      },
-      "artists": [
-        {
-          "name": "tan sholto",
-          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "father",
-      "url": "https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z"
-    },
-    {
-      "added_at": "2025-03-19 04:00:08",
-      "album": {
-        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        },
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
-    },
-    {
-      "added_at": "2025-03-12 04:00:29",
-      "album": {
-        "name": "a little bit",
-        "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "a little bit",
-      "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
-    },
-    {
-      "added_at": "2025-03-12 04:00:29",
-      "album": {
-        "name": "Why Keep Trying?",
-        "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
-      },
-      "artists": [
-        {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
-        }
-      ],
-      "duration_ms": 222162,
-      "name": "Why Keep Trying?",
-      "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
-    },
-    {
-      "added_at": "2025-03-12 04:00:29",
-      "album": {
-        "name": "Sex, Drugs & Existential Dread",
-        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sex, Drugs & Existential Dread",
-      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
-    },
-    {
-      "added_at": "2025-02-26 05:00:09",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     }
   ],
   "unique_name": "Fresh Finds Pop",

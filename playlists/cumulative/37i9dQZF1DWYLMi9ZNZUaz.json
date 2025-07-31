@@ -4859,6 +4859,28 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
+        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+    },
+    {
+      "album": {
         "name": "QV3D",
         "url": "https://open.spotify.com/album/4e0IStNCwdllLf3YsFOd1I"
       },
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 222831,
       "name": "TALAGI",
       "url": "https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE"

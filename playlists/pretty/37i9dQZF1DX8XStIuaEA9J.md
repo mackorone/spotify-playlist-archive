@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,547 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,556 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 79 | [BE CLASSIC](https://open.spotify.com/track/6qactUdK4Lql5d31ow4669) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC](https://open.spotify.com/album/4hjnuvQELOGNFix32suzo9) | 2:39 |
 | 80 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
 
-Snapshot ID: `aIjiBgAAAABJf+GnlKKmFhtnq7zzMv6X`
+Snapshot ID: `AAAAAGkYFTTJbUQZPfpMf9+lUzsJi9ap`

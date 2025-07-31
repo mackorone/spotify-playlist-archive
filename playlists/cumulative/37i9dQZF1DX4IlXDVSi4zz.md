@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-277 songs - 17 hr 25 min
+278 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2024-05-03 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2022-03-29 | 2023-12-07 |
 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 | 2022-07-26 | 2023-03-15 |
-| [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-08-09 |  |
+| [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-08-09 | 2025-07-31 |
 | [Praise You \(Purple Disco Machine Remix\) \- Radio Edit](https://open.spotify.com/track/6LCrqs85q61pfZCXYvW63B) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Praise You \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0Zw6ZJaKDTfbDG8jVj8IC3) | 3:50 | 2022-03-29 | 2022-07-27 |
 | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN) | 2:24 | 2024-01-26 |  |
 | [Prima Donna \- Guy Maayan Remix](https://open.spotify.com/track/4RkOyM8f9ja1fOBCpIQ7OE) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc), [Guy Maayan](https://open.spotify.com/artist/5ktsPsbEuSPrXO1ebv47xI) | [Prima Donna](https://open.spotify.com/album/29qdNKKAQvgsGXanehbQ1m) | 6:35 | 2022-04-24 | 2022-07-29 |
@@ -265,6 +265,7 @@
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2024-03-08 | 2024-04-20 |
 | [Víctor Jara](https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Vivir](https://open.spotify.com/album/7x9knGXeetiW9caJAHzRwv) | 5:15 | 2022-04-24 | 2022-07-29 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-07-12 | 2024-07-29 |
+| [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2025-07-25 |  |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2024-01-26 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-03-08 |  |
 | [West Wind](https://open.spotify.com/track/2QAvIdV9Bj4ZMBdUvAk0ZN) | [Palo Canto](https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP) | [West Wind](https://open.spotify.com/album/3GTIFa60Icdq6ymygyfI2T) | 4:16 | 2023-12-20 | 2025-04-12 |

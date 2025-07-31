@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 87 | [The Sound of Being Alone](https://open.spotify.com/track/7BtLqIGu2oP1UQMggGSoeL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:36 |
 | 88 | [Blondie](https://open.spotify.com/track/0EPjScjJ9NO030XA0Etzi8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:13 |
 | 89 | [Don't Tell Me](https://open.spotify.com/track/5NqLVKt3rsQ4L2clEBDxFZ) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ) | 3:10 |
-| 90 | [BLOODRUNSOUT](https://open.spotify.com/track/1f1MIRIxCGK4pYMqBk4N9t) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:43 |
-| 91 | [WHAT I THINK I WANT](https://open.spotify.com/track/2hqAeji1pyK2xcFK1afU4q) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:05 |
+| 90 | [WHAT I THINK I WANT](https://open.spotify.com/track/2hqAeji1pyK2xcFK1afU4q) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:05 |
+| 91 | [BLOODRUNSOUT](https://open.spotify.com/track/1f1MIRIxCGK4pYMqBk4N9t) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:43 |
 | 92 | [Cry In California](https://open.spotify.com/track/193noKkuF36J9oFYqTg0bM) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 3:19 |
 | 93 | [Teenage Boys](https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 5:17 |
 | 94 | [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 106 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 107 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab4GqAAAAACA8QUgqYVDGWf2vjd2odVr`
+Snapshot ID: `Ab4MUgAAAADcODURR1Xzv9vDZeydFDF0`

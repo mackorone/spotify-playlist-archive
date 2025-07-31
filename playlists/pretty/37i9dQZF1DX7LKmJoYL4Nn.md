@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,011 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,032 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 41 | [EXCEED](https://open.spotify.com/track/38GxLG5AHziQ9ho4Qel0Vg) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [Eden「EXCEED」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr) | 3:50 |
 | 42 | [Crazy Roulette](https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:14 |
 | 43 | [Brilliant Smile](https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [Switch「Brilliant Smile」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc) | 3:58 |
-| 44 | [Kiss of Life](https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:48 |
-| 45 | [Dawning Angels](https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql) | [fine\-O/青葉 つむぎ\(CV.石川 界人\)、天祥院 英智\(CV.緑川 光\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 4:00 |
+| 44 | [Dawning Angels](https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql) | [fine\-O/青葉 つむぎ\(CV.石川 界人\)、天祥院 英智\(CV.緑川 光\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 4:00 |
+| 45 | [Kiss of Life](https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:48 |
 | 46 | [Psyche’s Butterfly](https://open.spotify.com/track/70gb5bJYRLbxvXqHZrOdLa) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [Eden「EXCEED」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr) | 4:27 |
 | 47 | [スターライトパレード](https://open.spotify.com/track/5ouz6eWbjO2FP8bQIu1VIj) | [fine & Knights/天祥院 英智\(CV.緑川 光\)、日々樹 渉\(CV.江口 拓也\)、姫宮 桃李\(CV.村瀬 歩\)、伏見 弓弦\(CV.橋本 晃太朗\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/5vBqesXGp3JrQyPiXOhP5S) | [fine ＆ Knights「スターライトパレード」 あんさんぶるスターズ！！ COVER SONG SERIES 06](https://open.spotify.com/album/7KfEKUFVBAxnw9koc1C9fH) | 5:43 |
 | 48 | [勇侠青春謳](https://open.spotify.com/track/6f2lqCBtPtJ5XHGtrLZpWi) | [Valkyrie & 紅月/斎宮 宗\(CV.高橋 広樹\)、影片 みか\(CV.大須賀 純\)、蓮巳 敬人\(CV.梅原 裕一郎\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)、神崎 颯馬\(CV.神永 圭佑\)](https://open.spotify.com/artist/7vbRrVS90KcQJxoi5YwIGM) | [Valkyrie ＆ 紅月「勇侠青春謳」 あんさんぶるスターズ！！ COVER SONG SERIES 04](https://open.spotify.com/album/6jO2cWUC0274MSeo1yCQql) | 4:23 |

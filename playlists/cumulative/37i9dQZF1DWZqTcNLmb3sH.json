@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Just Married",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Elumale",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 224657,
       "name": "Aavarisu (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/2o6YKrhAGW6Hyqvu8r59qI"
@@ -39390,6 +39390,32 @@
       "duration_ms": 211312,
       "name": "Yaava Swargadinda (From \"One Cut Two Cut\")",
       "url": "https://open.spotify.com/track/7N1VCDhJPQCdyJ9h0f1B7o"
+    },
+    {
+      "album": {
+        "name": "Yaavaaga Yaavaaga (From \"Elumale\")",
+        "url": "https://open.spotify.com/album/1ukwjGLlfNjMWS5lVGFeYE"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277110,
+      "name": "Yaavaaga Yaavaaga (From \"Elumale\")",
+      "url": "https://open.spotify.com/track/79nfr6yDI2zZnXDhPiriRw"
     },
     {
       "album": {

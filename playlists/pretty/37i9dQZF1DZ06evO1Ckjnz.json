@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAACJEQRbOHU9GV1upME07ac2",
+  "snapshot_id": "aIgPAAAAAAAWlb19uQzPG5WOGqJLDdZX",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONEPOINTFIVE",
-        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "SUGARPARENTS (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 178236,
       "name": "FMU",
       "url": "https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONEPOINTFIVE",
+        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "SUGARPARENTS (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
     },
     {
       "added_at": null,

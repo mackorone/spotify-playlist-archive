@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,891 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,967 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
 | 50 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 |
 
-Snapshot ID: `aIKAUwAAAABaJnpCRMkgfvYrFGyCTo++`
+Snapshot ID: `AAAAAC00BqaJr0QBRwYL/rGE/31ZOa4w`

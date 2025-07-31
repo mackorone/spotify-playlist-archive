@@ -1,33 +1,13 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 127928,
+  "num_followers": 127942,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADrDMG9a6TGtkUTBWoZuA5i",
+  "snapshot_id": "aIgPAAAAAABp04bDRN0IlinAgKHMsJS1",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven Thunder",
-        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 217121,
-      "name": "Heaven Thunder",
-      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
-    },
     {
       "added_at": null,
       "album": {
@@ -179,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven Thunder",
+        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 217121,
+      "name": "Heaven Thunder",
+      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/6s0F09N7jp4wSqN8vVgMQR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 221711,
       "name": "All of Me Wants All of You",
       "url": "https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 146893,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/7o3Zup0nTRFAFAPKBpS72G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 112583,
-      "name": "Javelin (To Have And To Hold)",
-      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
+      "duration_ms": 212866,
+      "name": "Genuflecting Ghost",
+      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Genuflecting Ghost",
-      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
+      "duration_ms": 112583,
+      "name": "Javelin (To Have And To Hold)",
+      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
     },
     {
       "added_at": null,
@@ -775,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 255721,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Size Too Small",
+      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Favorite Dream",
         "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 152644,
       "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
       "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Size Too Small",
-      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 255721,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
     },
     {
       "added_at": null,

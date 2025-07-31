@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > o pior é que a nanda avisou, parsa..\. 🤌🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,874 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,935 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 34 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
 | 35 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
 | 36 | [Minissaia](https://open.spotify.com/track/4uoouuaCKDrPuYibaBl7gr) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:11 |
-| 37 | [Fitas](https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:29 |
-| 38 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
+| 37 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
+| 38 | [Fitas](https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:29 |
 | 39 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
 | 40 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 41 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |

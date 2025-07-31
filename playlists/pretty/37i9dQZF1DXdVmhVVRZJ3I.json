@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 316832,
+  "num_followers": 316900,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,18 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Human (Remix)",
-        "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
+        "name": "Do You EP",
+        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
       },
       "artists": [
         {
           "name": "Vintage Culture",
           "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Bruno Be",
-          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
-        },
-        {
-          "name": "Manimal",
-          "url": "https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9"
         }
       ],
-      "duration_ms": 211024,
-      "name": "Human (Remix)",
-      "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+      "duration_ms": 221769,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -443,18 +435,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Do You EP",
-        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
+        "name": "Human (Remix)",
+        "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
       "artists": [
         {
           "name": "Vintage Culture",
           "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Manimal",
+          "url": "https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9"
         }
       ],
-      "duration_ms": 221769,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
+      "duration_ms": 211024,
+      "name": "Human (Remix)",
+      "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 185806,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Stay Mine",
+        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "Stay Mine",
+      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

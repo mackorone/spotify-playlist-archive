@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/0oUiLHEXHX0bbESKHVZ7xo"
+    },
+    {
+      "album": {
         "name": "Onward (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"

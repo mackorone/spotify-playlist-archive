@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-619 songs - 1 day 13 hr 4 min
+620 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Nobody but You](https://open.spotify.com/track/024v6TtQuwzaudtdWFEOuM) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:03 | 2024-01-29 |  |
 | [Nobody Love](https://open.spotify.com/track/0AXym3uMYhCOngivsnwjkz) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:23 | 2024-01-29 |  |
 | [Nobody Love](https://open.spotify.com/track/5yPbVKNdJVbb6CuhXbuHxG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Nobody Love](https://open.spotify.com/album/5zWabmw06meb7ufnaLuXAC) | 3:24 | 2024-01-31 | 2024-02-02 |
-| [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/6uADgZjH3OQaHlPtHwc9wc) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/0E3TKLXbAvLysz9fcaWSbR) | 3:51 | 2024-01-29 |  |
+| [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/33I3RzH7LrAUlzALinNk2H) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/73cqsNX1NVweKwf2GvoF9v) | 3:51 | 2025-07-30 |  |
+| [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/6uADgZjH3OQaHlPtHwc9wc) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/0E3TKLXbAvLysz9fcaWSbR) | 3:51 | 2024-01-29 | 2025-07-31 |
 | [Nothing To Lose](https://open.spotify.com/track/7JcmDCSadkBYCjc37MW1RS) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:44 | 2024-01-29 |  |
 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-16 |  |
 | [Oh Oh](https://open.spotify.com/track/3lAYDUHm3i4TLpsjjhpPVk) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:53 | 2024-01-29 |  |

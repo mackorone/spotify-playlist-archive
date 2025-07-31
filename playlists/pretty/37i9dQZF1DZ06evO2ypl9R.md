@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,508 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,510 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 32 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 |
 | 33 | [Let's Invade the Amazon \- Yoruba Soul Mix](https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc) | [Casbah 73](https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Let's Invade the Amazon \(Yoruba Soul Mix\)](https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL) | 6:22 |
 | 34 | [Joyous \- Yoruba Soul Instrumental Remix](https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:00 |
-| 35 | [I Found](https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:01 |
+| 35 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 |
 | 36 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 |
-| 37 | [MOSS Pt\. 3 \(My Luva\)](https://open.spotify.com/track/3M71L3e1y6Xps6ojwlPLM2) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:23 |
-| 38 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 |
-| 39 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 |
-| 40 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 |
-| 41 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 |
-| 42 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 |
-| 43 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 |
-| 44 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 |
-| 45 | [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 |
-| 46 | [Everything in Its Right Place](https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK) | [Exit Music \- Songs with Radio Heads EP 4](https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh) | 6:38 |
-| 47 | [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 |
+| 37 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 |
+| 38 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 |
+| 39 | [I Found](https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:01 |
+| 40 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 |
+| 41 | [MOSS Pt\. 3 \(My Luva\)](https://open.spotify.com/track/3M71L3e1y6Xps6ojwlPLM2) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:23 |
+| 42 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 |
+| 43 | [Everything in Its Right Place](https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK) | [Exit Music \- Songs with Radio Heads EP 4](https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh) | 6:38 |
+| 44 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 |
+| 45 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 |
+| 46 | [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 |
+| 47 | [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 |
 | 48 | [Intro \(Solemait\)](https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 2:49 |
 | 49 | [Love Manifesto \- Yoruba Soul Mix](https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX) | [Black Widow](https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 6:56 |
-| 50 | [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 |
+| 50 | [April](https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 7:50 |
 
-Snapshot ID: `aIa9gAAAAABsBEVbHEe9zqiSzmK3RTtD`
+Snapshot ID: `aIgPAAAAAAAa7tw3UKD9/CDf6hZ3ViNi`

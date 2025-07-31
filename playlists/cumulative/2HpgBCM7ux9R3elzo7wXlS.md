@@ -4,7 +4,7 @@
 
 > All of it
 
-899 songs - 2 day 8 hr 9 min
+900 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Capo](https://open.spotify.com/track/1vux5TJpXtc7tbjA1YODpp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Capo](https://open.spotify.com/album/2WAAfdbV4y4qn6lHidoYaR) | 3:12 | 2025-06-02 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2025-06-02 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2025-06-02 |  |
+| [catching my tears](https://open.spotify.com/track/3Vqyx6twD6N0V9TafhwP4x) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [catching my tears](https://open.spotify.com/album/2u94rUNHDcOZZM9rmYsn6H) | 1:42 | 2025-07-30 |  |
 | [CELLZ](https://open.spotify.com/track/0fsO8vN1CSYiUo7vcEPI01) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Charles Bukowski](https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH) | [BORN LIKE THIS](https://open.spotify.com/album/5i7JM6qlMK5x2gY6Tkv56h) | 4:21 | 2025-06-02 |  |
 | [Center Earth](https://open.spotify.com/track/6vCoSDtk2xp7vk1PtO1qs5) | [Spry](https://open.spotify.com/artist/7tn3JgSrLIuv2778sq3aAX) | [Center Earth](https://open.spotify.com/album/13qPCjVES80SSGmlVOgHoS) | 2:08 | 2025-06-02 |  |
 | [Ceux qui rêvent](https://open.spotify.com/track/7as88HhLbDLgobaSbJrVBs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [À peu près](https://open.spotify.com/album/65JwIioaq6D5ExpRdtYpCM) | 1:58 | 2025-06-02 |  |

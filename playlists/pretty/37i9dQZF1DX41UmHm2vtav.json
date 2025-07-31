@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 488102,
+  "num_followers": 488144,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/4m2EgdYO6QUHt9vzveJmTn"
       },
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "O Cajado",
-        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Aycond",
-          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "O Cajado",
-      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+        "name": "O Cajado",
+        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+          "name": "Aycond",
+          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
         }
       ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+      "duration_ms": 193562,
+      "name": "O Cajado",
+      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
     },
     {
       "added_at": "2025-07-19 01:17:37",

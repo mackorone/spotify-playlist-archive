@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "London 2 Bombay",
+        "url": "https://open.spotify.com/album/0cZJxtBRIGxwMgordcwrAm"
+      },
+      "artists": [
+        {
+          "name": "Arjun",
+          "url": "https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "London 2 Bombay",
+      "url": "https://open.spotify.com/track/6CyyQqV8TbABcz0yixz8Jm"
+    },
+    {
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY"
       },

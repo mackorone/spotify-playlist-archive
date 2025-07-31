@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Soft Bait
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,270 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,280 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [sycophant](https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [sycophant](https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT) | 2:09 |
 | 125 | [Headcrusher](https://open.spotify.com/track/1RjG2epXceAYiUHG5tA7Oe) | [Penny & the Pits](https://open.spotify.com/artist/0Imlx4wJ1RmlIXvO6ON5HI) | [Headcrusher](https://open.spotify.com/album/0kUxELNCFvcoA0cIuNyieg) | 1:51 |
 
-Snapshot ID: `aIK7CwAAAADtLWMlm3Fg7UP+J2EQkDdc`
+Snapshot ID: `aIK7CwAAAAAU1FgHp7R2vTeLbKOo36UK`

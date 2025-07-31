@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Queralt Lahoz con Lia Kali, Guitarricadelafuente y Troye Sivan,  Alejandro Sanz con Carín León y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,283 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,278 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 50 | [Baby Icecream](https://open.spotify.com/track/5LKmGE5gUwliF4Qr80Rk4T) | [Paranoid 1966](https://open.spotify.com/artist/6GP540ZTiOPTz8uI76k43u) | [Baby Icecream](https://open.spotify.com/album/2hqRDriGC0Gwu0ibglfI4Y) | 2:41 |
 | 51 | [Baby Doll](https://open.spotify.com/track/7inHjMVq6GF2X1Kzh2r384) | [Guxo](https://open.spotify.com/artist/6iRgPV2iag75MOArijpAsz), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [El Precio del Amor](https://open.spotify.com/album/4FUP5V0Vz7CuJJcXtuqNWO) | 2:39 |
 | 52 | [LULU](https://open.spotify.com/track/1nCi7Si6Y5P9wcdoic8hdZ) | [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [Sen6](https://open.spotify.com/artist/4yRj5C8YJqIcq8QMKnIIWa) | [LULU](https://open.spotify.com/album/0RhbnzGgchIkTDbATnuvWW) | 2:57 |
-| 53 | [Mal Acostumbrado](https://open.spotify.com/track/1U7xY3f5eI62AF33vjKFOa) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [Mal Acostumbrado](https://open.spotify.com/album/4voapHU1ohJhoGFIbikrqo) | 2:25 |
+| 53 | [Mal Acostumbrado](https://open.spotify.com/track/1U7xY3f5eI62AF33vjKFOa) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Koboss Beats](https://open.spotify.com/artist/7mKjPgIt886u817AfpS9Mq), [Ilyam](https://open.spotify.com/artist/1sAwBNwziwQTkKCyxsW5bQ) | [Mal Acostumbrado](https://open.spotify.com/album/4voapHU1ohJhoGFIbikrqo) | 2:25 |
 | 54 | [SUAVE](https://open.spotify.com/track/0DKnT22wzgIKRBWWDd9WMu) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [SUAVE](https://open.spotify.com/album/4UOgDPgPn30J6r9ou4UWfa) | 2:12 |
 | 55 | [si nunca encuentro el amor](https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [si nunca encuentro el amor](https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI) | 3:50 |
 | 56 | [Monte perdido](https://open.spotify.com/track/7bX208E8SIWnqkV29GnVky) | [Idoipe](https://open.spotify.com/artist/6fQf8huuC5Obj3dpGxppug), [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Monte perdido / Celina](https://open.spotify.com/album/297D9IeWM7tyxFEvDFCBhe) | 3:17 |

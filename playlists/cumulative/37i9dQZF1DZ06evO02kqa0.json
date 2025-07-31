@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 286014,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 241386,
       "name": "Carmen: L'amour est un oiseau rebelle",
       "url": "https://open.spotify.com/track/1sj4kIn8n5nXTGwB9CsieB"
@@ -592,7 +592,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234466,
-      "name": "Cavalleria rusticana: Part II: Intermezzo",
+      "name": "Cavalleria rusticana: Pt. II: Intermezzo",
       "url": "https://open.spotify.com/track/1gnROk7Go9QfQrvQE11f9H"
     },
     {
@@ -762,8 +762,8 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
+          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
+          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
         },
         {
           "name": "Tullio Serafin",
@@ -882,8 +882,8 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Turin",
-          "url": "https://open.spotify.com/artist/6i38LYQcPdliqqhHxhjHRX"
+          "name": "Orchestra Sinfonica Nazionale della RAI di Torino",
+          "url": "https://open.spotify.com/artist/6N8VkPyxz8AF36OLN2yutw"
         },
         {
           "name": "Antonino Votto",
@@ -894,7 +894,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 275013,
-      "name": "La Gioconda, Act IV: Suicido! \u2026",
+      "name": "La Gioconda, Op. 9, La Gioconda, Act IV: Suicido! \u2026",
       "url": "https://open.spotify.com/track/7ExwOPh8AzzyHcZNiP61KV"
     },
     {
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 348693,
       "name": "Norma, Act I Scene 1: \"Casta Diva\"",
       "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 238191,
       "name": "Sempre libera",
       "url": "https://open.spotify.com/track/3n0phoeQUSNApN0sjeqQg1"
@@ -2408,8 +2408,8 @@
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
+          "name": "Orchestra Sinfonica Nazionale della RAI di Roma",
+          "url": "https://open.spotify.com/artist/4eWOW0T3SbTOfCgmI2jMQ9"
         },
         {
           "name": "Tullio Serafin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,024 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,037 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 25 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 |
 | 26 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
 | 27 | [Pequenas Alegrias da Vida Adulta \(feat\. Marcos Valle e Thiago Ventura\)](https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Thiago Ventura](https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 4:52 |
-| 28 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 |
-| 29 | [Mãe](https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Dona Jacira](https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax), [Anna Tréa](https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 4:58 |
+| 28 | [Mãe](https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Dona Jacira](https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax), [Anna Tréa](https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 4:58 |
+| 29 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 |
 | 30 | [Vida Loka I \- Live](https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:31 |
 | 31 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 |
 | 32 | [O Pequeno Burguês/ Canta Canta Minha Gente \- Ao Vivo](https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 | 50 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [NAVE](https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH) | 3:36 |
 
-Snapshot ID: `aIa9gAAAAABFO+EVjkWESiVhHqvyWrQx`
+Snapshot ID: `aIgPAAAAAAAaDcHDORlijVIF0dRSH77N`

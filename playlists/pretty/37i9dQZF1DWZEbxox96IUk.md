@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,295 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,306 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 |
 | 60 | [Toi mon toit \- Extended Version](https://open.spotify.com/track/6VUw1TBkg9QNOzLtP4jmhw) | [Elli Medeiros](https://open.spotify.com/artist/6gpCBsCNiMt5MO5sW0sexm) | [Bom Bom](https://open.spotify.com/album/2tnKQOQfzdyn4UO3CVr2lP) | 6:23 |
 
-Snapshot ID: `AAAAAAEGC7vL/E5xI9DbJFA1AHibFyFY`
+Snapshot ID: `Z2PxlAAAAAA/TAONw/iJmyd5RMuTAAyq`

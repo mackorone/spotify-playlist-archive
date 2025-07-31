@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Los Gemelos de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,430 likes - 114 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,674 likes - 114 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

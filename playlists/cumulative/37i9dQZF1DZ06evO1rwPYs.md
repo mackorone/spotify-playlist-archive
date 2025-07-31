@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-138 songs - 8 hr 42 min
+139 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 | 2022-01-13 |  |
 | [Cao, Cao, Maní Picao](https://open.spotify.com/track/6QX6sNhLiptL1o5q55OXzW) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Diario Musical](https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD) | 3:03 | 2021-12-28 | 2022-01-14 |
 | [Caramelos](https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Diario Musical](https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD) | 2:41 | 2022-05-13 | 2025-05-21 |
-| [Celia](https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M) | 4:03 | 2024-02-24 |  |
+| [Celia](https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M) | 4:03 | 2024-02-24 | 2025-07-31 |
+| [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 | 2025-07-31 |  |
 | [Celia Y Tito](https://open.spotify.com/track/3flZnMUMEKYjwvSXalOegN) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [2En1](https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM) | 5:58 | 2021-12-28 | 2022-10-17 |
 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/21pnPg1UFfvVpLInYio1sR) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 4:17 | 2021-12-28 | 2022-04-06 |
 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 | 2022-04-05 |  |

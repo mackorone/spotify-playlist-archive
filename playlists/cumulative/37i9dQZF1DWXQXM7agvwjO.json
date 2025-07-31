@@ -4399,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Boohoo",
+        "url": "https://open.spotify.com/album/4sYsmIz4EHqCf2o87GbjvE"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120250,
+      "name": "Boohoo",
+      "url": "https://open.spotify.com/track/02NMxmTOhiZkptYAyQBu1R"
+    },
+    {
+      "album": {
         "name": "BORED? (hope you\u2019re happy)",
         "url": "https://open.spotify.com/album/72qAA57C7nxJeG7clwO41K"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Desvelados. The essential tracks, all in one playlist.",
-  "num_followers": 587,
+  "num_followers": 588,
   "original_name": "This Is Los Desvelados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAD7XSxAeSCYunLVSS2P/cL9",
+  "snapshot_id": "aIgPAAAAAACZu5i9hd46N5fY8fkIR0KQ",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salieron Rumores",
+        "url": "https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "Salieron Rumores",
+      "url": "https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richie Rich (En Vivo)",
         "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 172000,
       "name": "Richie Rich - En Vivo",
       "url": "https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salieron Rumores",
-        "url": "https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "Salieron Rumores",
-      "url": "https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z.B.Z.A",
-        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 174511,
-      "name": "Z.B.Z.A",
-      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy El Ace Para Ganar",
         "url": "https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 257124,
       "name": "Soy El Ace Para Ganar (Live)",
       "url": "https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Z.B.Z.A",
+        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "Z.B.Z.A",
+      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
     },
     {
       "added_at": null,
@@ -447,7 +447,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7",
+        "name": "El Uno Al 7 (En Vivo)",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
       "artists": [
@@ -461,7 +461,7 @@
         }
       ],
       "duration_ms": 204826,
-      "name": "El Uno Al 7",
+      "name": "El Uno Al 7 - En Vivo",
       "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dash",
-        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Fkd Up",
-        "url": "https://open.spotify.com/album/0ZS4uM0siedzjRVJ96TlEw"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "I Fkd Up",
-      "url": "https://open.spotify.com/track/6TXP4ip9tUGwCVOtRE72Kr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naci En Pacoima",
         "url": "https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 222982,
       "name": "Naci En Pacoima",
       "url": "https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dash",
+        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Fkd Up",
+        "url": "https://open.spotify.com/album/0ZS4uM0siedzjRVJ96TlEw"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "I Fkd Up",
+      "url": "https://open.spotify.com/track/6TXP4ip9tUGwCVOtRE72Kr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cookie Plug (En Vivo)",
         "url": "https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 237000,
       "name": "The Cookie Plug (En Vivo)",
       "url": "https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mafia De Corridos",
-        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 210841,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
     },
     {
       "added_at": null,
@@ -627,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapito Lomas",
-        "url": "https://open.spotify.com/album/3YEavSCWGJ1ZbdmJKCjO6t"
+        "name": "Mafia De Corridos",
+        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
       },
       "artists": [
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
-        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 201701,
-      "name": "Chapito Lomas",
-      "url": "https://open.spotify.com/track/3WHOLFP8efU4kSKektfFGe"
+      "duration_ms": 210841,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
     },
     {
       "added_at": null,
@@ -679,6 +659,26 @@
       "duration_ms": 157512,
       "name": "Crit\u00edquenme",
       "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapito Lomas",
+        "url": "https://open.spotify.com/album/3YEavSCWGJ1ZbdmJKCjO6t"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 201701,
+      "name": "Chapito Lomas",
+      "url": "https://open.spotify.com/track/3WHOLFP8efU4kSKektfFGe"
     },
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
+        "name": "Corridos Underground 2",
+        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 181710,
-      "name": "AHORA NOS VEN",
-      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
+      "duration_ms": 156096,
+      "name": "Turbo Cheyenne (En Vivo)",
+      "url": "https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 2",
-        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
+        "name": "Despu\u00e9s los Miro",
+        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Turbo Cheyenne (En Vivo)",
-      "url": "https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG"
+      "duration_ms": 163245,
+      "name": "Despu\u00e9s los Miro",
+      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despu\u00e9s los Miro",
-        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
+        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 163245,
-      "name": "Despu\u00e9s los Miro",
-      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
+      "duration_ms": 181710,
+      "name": "AHORA NOS VEN",
+      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
     },
     {
       "added_at": null,

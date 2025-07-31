@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: Cleo Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,766 likes - 130 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,840 likes - 130 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

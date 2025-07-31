@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,106 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,105 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 58 | [KANZO](https://open.spotify.com/track/2zPO6GORtM7a4xMcVhudLr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [舒适区](https://open.spotify.com/album/3WsXrggMrQ1iEnsRjJutHI) | 2:55 |
 | 59 | [too high to say hi](https://open.spotify.com/track/4S5P00WGknrcYYplm9hyBW) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [ALIVE](https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A) | 2:41 |
 | 60 | [Miffy](https://open.spotify.com/track/13bLrxjbIxB9chHHnBnEMo) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Miffy](https://open.spotify.com/album/4ESQEaiJ3ftdnde7E5oAkO) | 3:36 |
-| 61 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 61 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 62 | [DANCING WITHOUT MOVING](https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:19 |
 | 63 | [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 |
 | 64 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |

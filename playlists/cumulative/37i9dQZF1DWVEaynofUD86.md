@@ -4,7 +4,7 @@
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-209 songs - 11 hr 47 min
+212 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,10 +84,12 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-07-16 |  |
 | [GOODBYE](https://open.spotify.com/track/7G4yUa1qawOeOImIjDnjcf) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 2:49 | 2023-07-28 |  |
 | [Goodbye](https://open.spotify.com/track/50nZ2pvMssa7zcSI8ZgARe) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:16 | 2023-07-28 |  |
+| [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 | 2025-07-30 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2023-07-14 |  |
 | [Happy Together](https://open.spotify.com/track/562I30eTR14zkJUpbhyJen) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/0lvzbJ2p5zTA4iwW5aNv7P) | 2:20 | 2023-08-22 | 2024-04-19 |
 | [Happy Together](https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/6YsYS9U2ngTayFloBzJMoP) | 2:20 | 2023-08-18 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2023-07-14 |  |
+| [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2025-07-30 |  |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-07-28 |  |
 | [Hey Stephen \(Taylor’s Version\)](https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:14 | 2023-07-14 |  |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2023-08-18 |  |
@@ -117,6 +119,7 @@
 | [Jealous Lover \- From "The Apartment"](https://open.spotify.com/track/72Jcy4OlVnrHYD0geBaxR4) | [Charles Williams](https://open.spotify.com/artist/15592lDspISn6JFzKnmcQk), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [Gavin Sutherland](https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj) | [Love Story: Piano Themes From Cinema's Golden Age](https://open.spotify.com/album/7g6JCEi75hbHnQiv7xieIN) | 3:44 | 2023-07-28 |  |
 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 | 2023-07-14 |  |
 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 | 2025-07-16 |  |
+| [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-30 |  |
 | [Last Kiss \(Taylor's Version\)](https://open.spotify.com/track/59KOoHFcw5XfICnO57holu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 6:09 | 2023-07-14 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2023-08-11 |  |
 | [Laurel and Susannah Hug](https://open.spotify.com/track/7I8LpR7hOSY1i7ximwIKS5) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [The Summer I Turned Pretty: Season 1 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5uAzefaTa85YBHL6N5u2O1) | 1:13 | 2023-07-14 |  |

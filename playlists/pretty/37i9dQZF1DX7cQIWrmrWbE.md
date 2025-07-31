@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Disculpa, KAROL G no necesita presentación  💁‍♀️​
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,018 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,020 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 29 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 |
 | 30 | [PERO TÚ](https://open.spotify.com/track/4QpoPO2Z9xqESwEsfTjaLj) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PERO TÚ](https://open.spotify.com/album/1GIm84Pb9KjbOHz4PXrAbe) | 3:03 |
 
-Snapshot ID: `aGw/0QAAAABYketG9cY8zO6RTCD4qN9o`
+Snapshot ID: `AAAAAEnPkMF5xBYYglXM9Wlessn9/cmG`

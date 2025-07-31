@@ -10127,6 +10127,24 @@
     },
     {
       "album": {
+        "name": "bus stop",
+        "url": "https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit"
+      },
+      "artists": [
+        {
+          "name": "The Empty Threats",
+          "url": "https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "bus stop",
+      "url": "https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8"
+    },
+    {
+      "album": {
         "name": "Bussell Hwy",
         "url": "https://open.spotify.com/album/1mygqa07KT6YyvN0yHkeug"
       },
@@ -30986,6 +31004,24 @@
       "duration_ms": 249691,
       "name": "Homeland",
       "url": "https://open.spotify.com/track/6CqY5hQYAFhnSjZh2RkNG7"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/1fNNrPWT1bcCkGvWxeT4eg"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0ARzCSPcDeUY1fI4q8EMQ0"
     },
     {
       "album": {

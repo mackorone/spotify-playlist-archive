@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 780139,
+  "num_followers": 780328,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-07-18 06:00:07",
       "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
-      },
-      "artists": [
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
-    },
-    {
-      "added_at": "2025-07-18 06:00:07",
-      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:07",
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "added_at": "2025-07-18 06:00:07",
@@ -775,8 +775,8 @@
     {
       "added_at": "2025-07-18 06:00:07",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+        "name": "gervonta",
+        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+      "duration_ms": 167367,
+      "name": "gervonta",
+      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
     },
     {
       "added_at": "2025-07-18 06:00:07",
@@ -851,38 +851,6 @@
     {
       "added_at": "2025-07-18 06:00:07",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
-    },
-    {
-      "added_at": "2025-07-18 06:00:07",
-      "album": {
-        "name": "gervonta",
-        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 167367,
-      "name": "gervonta",
-      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
-    },
-    {
-      "added_at": "2025-07-18 06:00:07",
-      "album": {
         "name": "KHE CALOR",
         "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 126315,
       "name": "KHE CALOR",
       "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
+    },
+    {
+      "added_at": "2025-07-18 06:00:07",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+    },
+    {
+      "added_at": "2025-07-18 06:00:07",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
     },
     {
       "added_at": "2025-07-18 06:00:07",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2025-07-18 06:00:07",
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+        "name": "SECRETO",
+        "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
+      "duration_ms": 208451,
+      "name": "SECRETO",
+      "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
     },
     {
       "added_at": "2025-07-18 06:00:07",
@@ -1319,6 +1323,22 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "added_at": "2025-07-18 06:00:07",
+      "album": {
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2025-07-18 06:00:07",
@@ -1355,26 +1375,6 @@
       "duration_ms": 169988,
       "name": "MONTHS",
       "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
-    },
-    {
-      "added_at": "2025-07-18 06:00:07",
-      "album": {
-        "name": "SECRETO",
-        "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 208451,
-      "name": "SECRETO",
-      "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
     },
     {
       "added_at": "2025-07-18 06:00:07",

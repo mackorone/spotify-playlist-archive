@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,263 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,260 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:25 |
+| 1 | [With You](https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [With You](https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F) | 2:24 |
 | 2 | [SOMEWHERE NEW](https://open.spotify.com/track/5P8PacMc8YVHo5P2fODnuL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SOMEWHERE NEW / WHAT NOW](https://open.spotify.com/album/0R3aQGOUkFvyxvn2X5cpxt) | 2:14 |
 | 3 | [Part of Me](https://open.spotify.com/track/36AfPrMPVwtEf2P3NrQE8Y) | [Rosemary Minkler](https://open.spotify.com/artist/6EwSX64cxni9WbYOGJla1h) | [Part of Me](https://open.spotify.com/album/56EIUBvCmmdArz5jzHuvFf) | 2:59 |
 | 4 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 |
-| 5 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 5 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 6 | [Daydreaming](https://open.spotify.com/track/0xL3dP7NLuG4Rq8hQxv79H) | [Maya Jade](https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq) | [Daydreaming](https://open.spotify.com/album/5vFmrt1Nt1ywmFvEXuhmdP) | 2:44 |
 | 7 | [Lost](https://open.spotify.com/track/01GrYTFz83tnrAfatIhoKK) | [Xlitchi](https://open.spotify.com/artist/4aImt9Qus2RbjUj3qffWKu) | [Lost](https://open.spotify.com/album/6dfus37RumdTGleK5v4QTe) | 3:30 |
 | 8 | [萃点](https://open.spotify.com/track/6FRhIJRix0oOYLpOptipU5) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [萃点](https://open.spotify.com/album/15mvjNIAA2AE42Enz0Poau) | 2:10 |

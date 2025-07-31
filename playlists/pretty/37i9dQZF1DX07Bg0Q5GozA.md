@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,677 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,621 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
 | 75 | [I Can’t Escape Myself](https://open.spotify.com/track/729AUIPyZhlZsBiGj3598Y) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [I Can't Escape Myself](https://open.spotify.com/album/5nD3z2sa1qWbZM2EVE0nNJ) | 3:48 |
 
-Snapshot ID: `aIKtCQAAAADHLU66zBHqGeEQJo3iEchl`
+Snapshot ID: `AAAAALxfWOpHXIX+h7TzgdyO3FRhsrzt`

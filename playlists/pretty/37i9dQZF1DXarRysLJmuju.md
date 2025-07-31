@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,941 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,888 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 98 | [I Can't](https://open.spotify.com/track/5oUnDltSLWS7fJHbg6w3Yk) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [I Can't](https://open.spotify.com/album/5SKjyFXFWguGPtmHlD99gs) | 3:13 |
 | 99 | [spilt milk](https://open.spotify.com/track/1XwFZjQw8OlawIzfoB3M0E) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [spilt milk](https://open.spotify.com/album/6Li9EK2ntXjjBKsb2Cpowl) | 2:39 |
 
-Snapshot ID: `aIMBaAAAAABUUNHD+6nHrosvyeTMy8Eb`
+Snapshot ID: `AAAAAB5Wc84UGqzVS0JBm+oPIv9RJW5F`

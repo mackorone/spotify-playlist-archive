@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125146,
+  "num_followers": 125142,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUacGGhma5wbutuhv8wpiLg6k2Um+I",
+  "snapshot_id": "AAAUauwsn9rbNXmtdoFnQg2zx3iNt8NZ",
   "tracks": [
+    {
+      "added_at": "2025-07-30 14:45:48",
+      "album": {
+        "name": "When You're Not Around",
+        "url": "https://open.spotify.com/album/4sEdJsUUAi2HR1zNcnkxHa"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "When You're Not Around",
+      "url": "https://open.spotify.com/track/5PigCceQ8BlFQdwMtTJ4Yn"
+    },
     {
       "added_at": "2025-07-29 12:29:47",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,972 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,991 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Love and Cough♥](https://open.spotify.com/track/0IgbkpnCfM1c5dOlVnALXS) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love & Cough♥](https://open.spotify.com/album/1ML4GnpXa6DLUjJTSnREW0) | 2:35 |
 | 50 | [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 |
 
-Snapshot ID: `AAAAAL+Er1AQf8EI7UbQzyzwZLc+GG4Y`
+Snapshot ID: `aIbftQAAAAD9E4WQCLsKWKPYGMI3C4zC`

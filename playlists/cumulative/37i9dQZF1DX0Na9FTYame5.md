@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-244 songs - 11 hr 1 min
+245 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-09-09 | 2025-01-17 |
 | [Family](https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [FAMILY & MONEY](https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS) | 2:28 | 2024-09-02 | 2024-10-25 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-09 | 2025-03-22 |
+| [Fehler geschehen](https://open.spotify.com/track/3oBw2WgtGKWGYuJCi6I7R4) | [Dame](https://open.spotify.com/artist/2XNo6k4LqlZlM5sj0wKReo) | [Fehler geschehen](https://open.spotify.com/album/1A0VtKf5PLDVDeKubbyeXC) | 3:05 | 2025-07-24 |  |
 | [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 | 2024-06-28 | 2025-02-28 |
 | [Freiheit](https://open.spotify.com/track/5xMKvpZRLDOXXDRNnZEjmc) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Freiheit](https://open.spotify.com/album/4Qn6VlgGmaBxErJZS2FM2X) | 2:53 | 2025-04-17 | 2025-07-04 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 | 2025-05-16 |
@@ -217,7 +218,7 @@
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 | 2024-11-23 |
 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 | 2025-01-22 |
-| [Ungebrochen](https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ungebrochen](https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa) | 3:51 | 2025-03-24 |  |
+| [Ungebrochen](https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ungebrochen](https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa) | 3:51 | 2025-03-24 | 2025-07-31 |
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 |  |
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 | 2025-03-24 |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
@@ -242,14 +243,14 @@
 | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/track/1SU8huXD15iemDITwALHb3) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw) | 2:51 | 2024-12-16 | 2025-03-25 |
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-06-28 |  |
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2024-06-28 | 2025-07-04 |
-| [Wo willst du hin](https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Wo willst du hin](https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9) | 2:49 | 2024-10-10 | 2025-07-18 |
+| [Wo willst du hin](https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Wo willst du hin](https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9) | 2:49 | 2024-10-10 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-06-28 |  |
 | [Wunderschön](https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Wunderschön](https://open.spotify.com/album/6lpa9euCDZVAOwHO8RrHMV) | 2:38 | 2025-04-10 |  |
 | [WÄNDE AUS ZEMENT](https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [WÄNDE AUS ZEMENT](https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J) | 3:40 | 2024-12-13 | 2025-02-25 |
 | [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 | 2025-01-21 |
 | [Yay](https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:05 | 2025-01-16 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 | 2024-12-10 |
-| [Zemer <3](https://open.spotify.com/track/04xkyS0g9ZQVauyOukMu1r) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer <3](https://open.spotify.com/album/7zOaDFEjjNb8j0uEEfhqC6) | 2:29 | 2025-04-17 |  |
+| [Zemer <3](https://open.spotify.com/track/04xkyS0g9ZQVauyOukMu1r) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer <3](https://open.spotify.com/album/7zOaDFEjjNb8j0uEEfhqC6) | 2:29 | 2025-04-17 | 2025-07-31 |
 | [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-14 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 | 2024-08-13 |
 

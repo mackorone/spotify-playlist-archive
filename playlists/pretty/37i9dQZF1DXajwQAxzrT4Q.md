@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,497 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,506 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 67 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
 | 68 | [Under The Influence \(Jersey Club\)](https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [DJ Taj](https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY) | [Under The Influence \(Jersey Club\)](https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp) | 2:19 |
 | 69 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
-| 70 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
-| 71 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
+| 70 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
+| 71 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 72 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |
 | 73 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
-| 74 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 75 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 |
+| 74 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 |
+| 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
 
 Snapshot ID: `Z9mcbQAAAADfZFgdhyEd1GkKDYl3+VWd`

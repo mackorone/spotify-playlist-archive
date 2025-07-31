@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,554 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,652 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 35 | [Eliza Lee](https://open.spotify.com/track/7vL3rT6hAv7Gixf3y1XDBy) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Victory Square](https://open.spotify.com/album/2dzB7PJM0Fp0sbfISamjKH) | 1:57 |
 | 36 | [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 3:15 |
 | 37 | [High Barbary](https://open.spotify.com/track/6rAO4DLmkQ1Z8YKod6mxdq) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/4IsqzRXr5C43qehSkWHfRF) | 3:11 |
-| 38 | [Roll Down](https://open.spotify.com/track/7kKij7JoKP18RGmzki96hj) | [John Roberts](https://open.spotify.com/artist/6R1ancOh80DsLFq5QlKEK0), [The Revels Chorus](https://open.spotify.com/artist/1JINVUk1oB4ri3xG6UU9Jc) | [Homeward Bound: Sea Songs, Ballads, and Chanteys](https://open.spotify.com/album/6OdLaBj4056Vnj1SzbcWU6) | 2:48 |
+| 38 | [Roll Down](https://open.spotify.com/track/7kKij7JoKP18RGmzki96hj) | [The Revels Chorus](https://open.spotify.com/artist/1JINVUk1oB4ri3xG6UU9Jc), [John Roberts](https://open.spotify.com/artist/6R1ancOh80DsLFq5QlKEK0) | [Homeward Bound: Sea Songs, Ballads, and Chanteys](https://open.spotify.com/album/6OdLaBj4056Vnj1SzbcWU6) | 2:48 |
 | 39 | [The Jolly Roving Tar](https://open.spotify.com/track/5HFTXdXOYdrTBTQzENl3Y6) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Another Round](https://open.spotify.com/album/7dUj8xwItvNidixaT4CIq8) | 2:28 |
 | 40 | [The Maid on the Shore](https://open.spotify.com/track/3bNWnx8gL7vE28hMwY8epM) | [Jamie Jaffe](https://open.spotify.com/artist/59plkMTktla83D0uMxnDti), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz) | [Homeward Bound: Sea Songs, Ballads, and Chanteys](https://open.spotify.com/album/6OdLaBj4056Vnj1SzbcWU6) | 3:14 |
 | 41 | [Billy Riley](https://open.spotify.com/track/1ZCIiSCc73CugkpWp7UYee) | [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 1:15 |

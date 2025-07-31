@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39201,
+  "num_followers": 39206,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAB9QSQfygvWA25vy3GraoAs",
+  "snapshot_id": "aIgPAAAAAAClCBHQNSCEg8z2XMOegxpM",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 131631,
-      "name": "Double CC's",
-      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 194693,
       "name": "Fu*k Dat Ni**a",
       "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
     },
     {
       "added_at": null,

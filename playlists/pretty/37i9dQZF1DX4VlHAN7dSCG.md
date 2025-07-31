@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: I Mean Us x 安吉 \(ANGIE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,368 likes - 82 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,367 likes - 82 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 13 | [漫遊wander](https://open.spotify.com/track/60JkDInai5iIXKTIxNks4K) | [Jazzweed.芥子草](https://open.spotify.com/artist/6hsNVDSKfU1yStQycSP67T) | [漫遊wander](https://open.spotify.com/album/5LOOWCIug9X2EUBkTlAwir) | 4:13 |
 | 14 | [最後最後](https://open.spotify.com/track/6bB8uogqmpH0lUZ61vHz9P) | [多情牛奶糖](https://open.spotify.com/artist/73NVIh5VRRl5XmWRvVRruC) | [最後最後](https://open.spotify.com/album/0AzZIcbmPX4gt9zLhwqa7w) | 4:35 |
 | 15 | [於是我們到此為止 Til Gold Turns Grey](https://open.spotify.com/track/6gIBQr64GWDjUzhBu0VNEg) | [Lala WannaCry](https://open.spotify.com/artist/2b0vmYPK4kYWuhW0MmSvjY) | [於是我們到此為止 Til Gold Turns Grey](https://open.spotify.com/album/2mSp6c6UCa018BvK4gpfR4) | 3:50 |
-| 16 | [LOOK AT ME NOW](https://open.spotify.com/track/6LbbRbjhYIXc1VEzJHHpbc) | [EighRA紫月光](https://open.spotify.com/artist/2dsOvPG2dOilw7regHPIo1) | [LOOK AT ME NOW](https://open.spotify.com/album/6mkYdSXRtKYHK8eQV8FztJ) | 3:16 |
+| 16 | [LOOK AT ME NOW](https://open.spotify.com/track/6LbbRbjhYIXc1VEzJHHpbc) | [SOLOMOON紫月光](https://open.spotify.com/artist/2dsOvPG2dOilw7regHPIo1) | [LOOK AT ME NOW](https://open.spotify.com/album/6mkYdSXRtKYHK8eQV8FztJ) | 3:16 |
 | 17 | [Shadowless Dance](https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [Shadowless Dance](https://open.spotify.com/album/73xj05nSCflpkAWZoHba2y) | 2:52 |
 | 18 | [我們都是外星人](https://open.spotify.com/track/4tiTaI5SKN5GlLRUINJ7ou) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [我們都是外星人](https://open.spotify.com/album/12fV5cMZHcVBXFOM2QIYmr) | 3:55 |
 | 19 | [You just gotta try.](https://open.spotify.com/track/5nsfgF7ETd7jHZnvH77pLI) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [You just gotta try.](https://open.spotify.com/album/4uypJn7SGkFAdP0pMpYjJ1) | 3:20 |

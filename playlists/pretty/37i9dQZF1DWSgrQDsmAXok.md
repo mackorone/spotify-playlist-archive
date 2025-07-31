@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,258 likes - 32 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,354 likes - 32 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,6 +39,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 | 29 | [キリがないから](https://open.spotify.com/track/0puZUrjhNhWl98RdE7YfNM) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:37 |
 | 30 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
 | 31 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 |
-| 32 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
+| 32 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
 
-Snapshot ID: `aEu3owAAAAAK+zH8WxRkR6tQ+VJ2wXNk`
+Snapshot ID: `AAAAANUXKuaLEZcKC0VCRXFXaF0yfKRQ`

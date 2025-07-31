@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3859,
+  "num_followers": 3858,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAC0zv3/pK4pyGvEQOf6Ch7T",
+  "snapshot_id": "aIgPAAAAAACJapl+EwVSB4hDZMCQZmod",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 154893,
-      "name": "\u00bfPor Que?",
-      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
+      "duration_ms": 199653,
+      "name": "Amor De Telefono Esquinero",
+      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Amor De Telefono Esquinero",
-      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
+      "duration_ms": 154893,
+      "name": "\u00bfPor Que?",
+      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria Under the Stars",
+        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 128673,
+      "name": "Euphoria Under the Stars",
+      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u0438\u0437 \u043b\u0443\u0447\u0448\u0438\u0445",
         "url": "https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 216686,
       "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u0442\u0430\u043d\u0446\u043e\u0440\u044b",
       "url": "https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria Under the Stars",
-        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 128673,
-      "name": "Euphoria Under the Stars",
-      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Contesto is officially here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,027 likes - 537 songs - 1 day 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,129 likes - 537 songs - 1 day 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 9 | [Leave The World Behind](https://open.spotify.com/track/1ZGs1UN56boDca814jara3) | [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Leave The World Behind](https://open.spotify.com/album/2yuvGs4SvCvDzdr9btBErf) | 4:20 |
 | 10 | [You](https://open.spotify.com/track/44q1UuWeAd10A039OJaQCo) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [You](https://open.spotify.com/album/19ItPFuhI8876a357HNd74) | 2:52 |
 | 11 | [FOR REAL](https://open.spotify.com/track/5yjCIVDZzRFEe9xOiKz6vU) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [FOR REAL](https://open.spotify.com/album/5NcX7tpr66Qkj9mILZm3kD) | 3:59 |
-| 12 | [Tuliza](https://open.spotify.com/track/4wlSzuD1Tp7MGnhv96VMHF) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Jerome Sydor](https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [kam](https://open.spotify.com/artist/3DWT9SZoA2lOKM32hTseMp) | [Tuliza](https://open.spotify.com/album/1LXdEkvW3d3eVdowMatSLM) | 2:51 |
+| 12 | [Tuliza](https://open.spotify.com/track/4wlSzuD1Tp7MGnhv96VMHF) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Jerome Sydor](https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [KAM](https://open.spotify.com/artist/0xpoykRisDEXtoUlqIKwt2) | [Tuliza](https://open.spotify.com/album/1LXdEkvW3d3eVdowMatSLM) | 2:51 |
 | 13 | [Body Language](https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Body Language](https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf) | 2:59 |
 | 14 | [Ngizothandaza](https://open.spotify.com/track/3IusPh0xpMyppoTGs65pkL) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [DJ Zinhle](https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby) | [Ngizothandaza](https://open.spotify.com/album/7zDl38JNuJYuh3h52P7uZt) | 5:22 |
 | 15 | [Albi](https://open.spotify.com/track/16XLWurcZVM96mYBgtPz4s) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Albi](https://open.spotify.com/album/4t9pyaj3xcA1FCxX1GFRak) | 2:51 |
@@ -546,4 +546,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 536 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 537 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |
 
-Snapshot ID: `aIi4rgAAAAA89PNq6271U6BRq4bCRM8T`
+Snapshot ID: `AAAAANLRudPx2XmbA4jtA1X8v2eoKXvv`

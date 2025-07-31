@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 689083,
+  "num_followers": 689123,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADtqoL9uS70KyeyYeHIfGbA",
+  "snapshot_id": "aIgPAAAAAACbHQjuzflttDi1zcrKRsyI",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 321173,
+      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
+      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -756,17 +780,13 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+          "name": "Peter Rauhofer",
+          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
         }
       ],
-      "duration_ms": 321173,
-      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
-      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
+      "duration_ms": 314066,
+      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
+      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
     },
     {
       "added_at": null,
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Veronica Electronica",
-        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Peter Rauhofer",
-          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
-      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Victor Calderone",
+          "url": "https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI"
         }
       ],
-      "duration_ms": 78293,
-      "name": "A Cinema in Buenos Aires, 26 July 1952",
-      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
+      "duration_ms": 320466,
+      "name": "Sky Fits Heaven - Victor Calderone New Edit",
+      "url": "https://open.spotify.com/track/6tiOODXMVOZ4pDtvhnaTEn"
     }
   ],
   "unique_name": "This Is Madonna",

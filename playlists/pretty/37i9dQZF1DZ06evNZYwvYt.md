@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,981 likes - 45 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,984 likes - 45 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nuestra señal](https://open.spotify.com/track/5YSm9SGD4e1MPgsmsQfSdf) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:11 |
 | 2 | [Te Mueres](https://open.spotify.com/track/595j1iKJMeLn3pKXyfzYQ1) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:17 |
-| 3 | [Me Vuelves a Herir](https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:39 |
-| 4 | [Té](https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:12 |
+| 3 | [Té](https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:12 |
+| 4 | [Me Vuelves a Herir](https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:39 |
 | 5 | [Rescátame](https://open.spotify.com/track/213D70aof1PgFPFUvz3lUz) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Grandes Éxitos](https://open.spotify.com/album/1V8faK2E5dlifTERzgN9xF) | 4:11 |
 | 6 | [Para Ti](https://open.spotify.com/track/5kbsQbh0fTewskukC8BbQS) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 3:53 |
 | 7 | [Besos de Mentira](https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx) | 4:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 44 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 | 45 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `aIa9gAAAAAAhaRdiRS6NMdxh67ilCq3R`
+Snapshot ID: `aIgPAAAAAADsRFO6yCM5Aon62YprHhl8`

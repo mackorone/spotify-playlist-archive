@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain]
 
 > The get to your feet moments in all our favorite shows\. Cover: WICKED
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,107 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,122 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain]
 | 74 | [Move On](https://open.spotify.com/track/47qfHxdj2dCeU8NSaxZnaL) | [Jake Gyllenhaal](https://open.spotify.com/artist/2bwGbnyOkPVvEkIH5ePcLa), [Annaleigh Ashford](https://open.spotify.com/artist/4cHdzQMvESi5fSYStocJQT) | [Sunday in the Park with George \(2017 Broadway Cast Recording\)](https://open.spotify.com/album/1L6Q4V6oAFOF8lTR2wIjP5) | 4:39 |
 | 75 | [Our Time](https://open.spotify.com/track/0RlZ0SEguPU0OUL7ZyGm2Q) | [Jim Walton](https://open.spotify.com/artist/4AimqsCVx82zEDGEDCPpOD), [Lonny Price](https://open.spotify.com/artist/5fGg2yYj6JkoUkfvOkYCQM), [Ann Morrison](https://open.spotify.com/artist/5y53MK418Qo9tGpSGifNVv), [Merrily We Roll Along Ensemble](https://open.spotify.com/artist/211vNUMmoxuncqdZusk8PM) | [Merrily We Roll Along](https://open.spotify.com/album/3KZq3isCTbYMzGvnXkTfNr) | 4:21 |
 
-Snapshot ID: `ZpVlQAAAAACRq04qXpJeVmeDFR/VFau1`
+Snapshot ID: `AAAAAODHHu4zvd3E40jebwz8iTvkjA63`

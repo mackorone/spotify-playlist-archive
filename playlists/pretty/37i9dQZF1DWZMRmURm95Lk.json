@@ -1,6 +1,6 @@
 {
   "description": "DJ Shocca \u00e8 tornato, 60 Hz II. Beat e rime, oggi come una volta.",
-  "num_followers": 47108,
+  "num_followers": 47117,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 290128,
       "name": "Never",
       "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1535,42 +1535,6 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 143892,
-      "name": "Caramelle da uno sconosciuto",
-      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -1595,6 +1559,42 @@
       "duration_ms": 173877,
       "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "duration_ms": 143892,
+      "name": "Caramelle da uno sconosciuto",
+      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1635,6 +1635,26 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1739,6 +1759,30 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
+        "name": "Questo non \u00e8 un cane / Domo",
+        "url": "https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Nak Su Kao - Parte 2 - Domo Version",
+      "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -1759,26 +1803,6 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1847,46 +1871,6 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
-        "name": "Questo non \u00e8 un cane / Domo",
-        "url": "https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Nak Su Kao - Parte 2 - Domo Version",
-      "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 280000,
       "name": "Svegliarsi a Roma",
       "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2025-07-10 22:01:10",

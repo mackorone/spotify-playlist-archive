@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 117113,
+  "num_followers": 117557,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAD822RJDvxooyQaYS0h6uhw",
+  "snapshot_id": "aIgPAAAAAACNjPQNgGCwNRqiFZ/kQtAH",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOD'S GOT MY BACK",
+        "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 158388,
+      "name": "GOD'S GOT MY BACK",
+      "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Paid It All",
         "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
       },
@@ -495,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOD'S GOT MY BACK",
-        "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 158388,
-      "name": "GOD'S GOT MY BACK",
-      "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
+      "duration_ms": 152750,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+      "duration_ms": 151905,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 151905,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
+      "duration_ms": 181374,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 201050,
       "name": "Come Thou Font",
       "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,

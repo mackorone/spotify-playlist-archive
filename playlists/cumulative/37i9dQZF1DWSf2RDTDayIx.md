@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-483 songs - 1 day 1 hr 37 min
+484 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [High Heels \- Party Down Under](https://open.spotify.com/track/3qiC3jOnRNvOxD4m0erBRs) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \- Party Down Under \(Sam Feldt vs\. Flo Rida\)](https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm) | 2:14 | 2023-02-03 | 2024-10-10 |
 | [High Heels \- Party Down Under \- Sam Feldt vs\. Flo Rida](https://open.spotify.com/track/1EnEHZbvVEq3wtIj0408HY) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [High Heels \- Party Down Under \(Sam Feldt vs\. Flo Rida\)](https://open.spotify.com/album/5yiTYHgk7o69M3979SSHZr) | 2:14 | 2024-01-26 | 2024-04-19 |
 | [Higher Love](https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Higher Love](https://open.spotify.com/album/4yKC4uD981O8oCPzowwOjl) | 3:58 | 2022-01-07 | 2023-02-20 |
+| [Hold Me](https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Hold Me](https://open.spotify.com/album/2yaFxmeJTLil88BebMAQ1F) | 2:30 | 2025-07-25 |  |
 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 | 2025-05-16 |  |
 | [Holding Back](https://open.spotify.com/track/1MlwgG0BpnY9sT2nXh4CF0) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Holding Back](https://open.spotify.com/album/0WM3JuuNh24kl6ef5AMwvD) | 2:21 | 2024-04-19 | 2024-09-21 |
 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 | 2025-05-30 |  |
@@ -378,7 +379,7 @@
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-12-03 | 2022-01-08 |
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-07-29 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-25 | 2023-02-04 |
-| [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-18 |  |
+| [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-18 | 2025-07-31 |
 | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD) | 2:57 | 2021-12-03 | 2023-05-13 |
 | [Somebody \- Stadiumx Edit](https://open.spotify.com/track/7Akjeeqf80wiB6vuxLjNBh) | [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Somebody \(Stadiumx Edit\)](https://open.spotify.com/album/3jpkIypKG8VBVjbNwxEmVN) | 3:16 | 2021-12-03 | 2022-01-08 |
 | [Somebody Like You](https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:28 | 2021-12-03 | 2022-01-08 |

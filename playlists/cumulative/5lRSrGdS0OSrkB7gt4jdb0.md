@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-62 songs - 3 hr 37 min
+63 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2024-11-09 |  |
 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/3kpYJjvM8Ja6btr5hEJLWc) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Venom \(Music From The Motion Picture\)](https://open.spotify.com/album/25zSh5FAL8kUh8z7ivwBH6) | 4:29 | 2022-05-06 |  |
 | [When Will You Die?](https://open.spotify.com/track/4wGP288tIQgaOJbJkZDZ5G) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:31 | 2022-05-06 |  |
+| [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 | 2025-07-30 |  |
 | [You Don't Know Me Like That](https://open.spotify.com/track/0Ycp1KfXcVpXXAfStPpdEM) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 3:52 | 2024-09-16 |  |
 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 | 2024-11-28 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Danny L Harle, PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,936 likes - 149 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,932 likes - 149 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 126 | [valentine ᯓ♡](https://open.spotify.com/track/3LejiQFrvIJSjBUeeTRqvJ) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [valentine ᯓ♡](https://open.spotify.com/album/0lEY50AELb70Zozbq7iwnC) | 4:31 |
 | 127 | [Enjoy Yourself](https://open.spotify.com/track/5yXvjipyD1AcO31ZGcvCI0) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Enjoy Yourself](https://open.spotify.com/album/2JMGpsq1PPEjig8CPRdXru) | 2:52 |
 | 128 | [C'MON \- Mattu Remix](https://open.spotify.com/track/6Bi86mzhP4OV7Jg3NBLMXQ) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc), [Mattu](https://open.spotify.com/artist/1GxVO1YvMaSyl8lu7Jqrl5) | [C'MON \(Mattu Remix\)](https://open.spotify.com/album/2ONcFZ1ZDf1mmOz5c3gS90) | 2:11 |
-| 129 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
+| 129 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 130 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
 | 131 | [sexo virtual <3](https://open.spotify.com/track/7nq8bUgZPqbiLqVErw7XgR) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [sexo virtual <3](https://open.spotify.com/album/2n3TOU1GsBZwuuuUxiDAJF) | 2:51 |
 | 132 | [Coconut Water](https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Coconut Water](https://open.spotify.com/album/5NghVRPpgs6d7GXEBsk22G) | 3:24 |

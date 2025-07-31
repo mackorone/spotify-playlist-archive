@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,257 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,261 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 |
 | 100 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 
-Snapshot ID: `aBRDVwAAAABKtw4KejrEYQWMROBbl19j`
+Snapshot ID: `AAAAAHYgBhY0iAdKy6Ay8Vn6QFuzgQBZ`

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-567 songs - 23 hr 31 min
+568 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Candles](https://open.spotify.com/track/4L9NChljxi1xu4NdV0Uruo) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Candles](https://open.spotify.com/album/3M69AADOD8W0LbsG523sfh) | 2:15 | 2020-03-27 | 2022-04-21 |
 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 | 2022-11-17 | 2024-04-19 |
 | [Cargo Rhodes](https://open.spotify.com/track/1MmFMp0sgwl7liFDKJdEyY) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cargo Rhodes / Deliverance](https://open.spotify.com/album/73wgRhPJUpKXr8k49lHVQy) | 2:29 | 2019-06-14 | 2022-07-29 |
-| [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-15 |  |
+| [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-15 | 2025-07-31 |
 | [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 | 2025-04-25 |
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
@@ -298,6 +298,7 @@
 | [Love Vibe and Learn](https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Love Vibe and Learn](https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx) | 2:12 | 2023-11-23 | 2024-05-17 |
 | [Love Vibe and Learn](https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Noflik \- Love Vibe and Learn](https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3) | 2:12 | 2023-11-23 | 2024-04-19 |
 | [Loveofmine](https://open.spotify.com/track/17axGpHVTMbKHKh0z0JCXt) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Synchronicty](https://open.spotify.com/album/4QN6IgCdZjGE8SQK63ef7R) | 3:07 | 2021-08-04 | 2021-10-29 |
+| [Lucent](https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Lucent](https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI) | 2:45 | 2025-07-11 |  |
 | [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 | 2024-04-12 |  |
 | [Mad Skillz](https://open.spotify.com/track/6TjxqtYXNC0TIhq03rDJ9n) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Mad Skillz](https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj) | 2:31 | 2020-08-30 | 2022-07-28 |
 | [Magic Hoodie](https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Dazzle](https://open.spotify.com/album/3lJ3wJoBUclrt7c1QNHAwv) | 1:58 | 2019-05-26\* | 2020-01-14 |

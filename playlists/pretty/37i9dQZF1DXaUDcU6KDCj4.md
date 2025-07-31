@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,684 likes - 169 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,664 likes - 169 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 168 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
 | 169 | [Coldplay cover](https://open.spotify.com/track/5NUFWIfrVVDl8max4A9Oc8) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Coldplay cover](https://open.spotify.com/album/3VblKLR0BXs2em5j30wKlo) | 4:16 |
 
-Snapshot ID: `aIMEmQAAAADHRsc/b05TXjIdIcaDnlEB`
+Snapshot ID: `AAAAAI8Gag02k3EB6hoaLBzCOIogdexq`

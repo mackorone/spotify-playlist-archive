@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 
 > Explicitly gay
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 11 songs - 34 min 13 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 12 songs - 37 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,5 +19,6 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 | 9 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 | 10 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 |
 | 11 | [Girl in My TV](https://open.spotify.com/track/4BL4uNsG60iPTxTl80pe5f) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 3:04 |
+| 12 | [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 |
 
-Snapshot ID: `AAAAER571ARKwroQhPjg/U+vAt8ZTbSw`
+Snapshot ID: `AAAAEhh2GTBSeLKuNyQlA6uRyivp21Vt`

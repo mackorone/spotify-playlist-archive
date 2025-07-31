@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 84 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
 | 85 | [Big Fat Alice's Blues](https://open.spotify.com/track/5p0hnipiGSOZkBSpFCeTkJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:56 |
 | 86 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 |
-| 87 | [The Eighth Veil](https://open.spotify.com/track/2MeGcaarc3ZW0nQ5An18gT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington & His Orchestra, Vol.1, 1946](https://open.spotify.com/album/4Rdr70bjdonvcrh032nGat) | 3:07 |
+| 87 | [The Eighth Veil](https://open.spotify.com/track/2MeGcaarc3ZW0nQ5An18gT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington And His Orchestra, Vol.1, 1946](https://open.spotify.com/album/4Rdr70bjdonvcrh032nGat) | 3:07 |
 | 88 | [The Flowers Die of Love](https://open.spotify.com/track/1yzw1jc60t503rgQQ6ZV6t) | [Yuri Honing](https://open.spotify.com/artist/2g7wk0dMzm7J1dPxaQ44PS), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH) | [Avalon Songs](https://open.spotify.com/album/2Ta8gswq0aGIuZvc9lbhKr) | 7:39 |
 | 89 | [Rhythm Pum Te Dum, Pt\. 1 \- Chorus](https://open.spotify.com/track/5VJSgpKSJyFXX2AGLI45nL) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:56 |
 | 90 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Ab4GlAAAAABivZDCwSIXaqdkQHvlhAYK`
+Snapshot ID: `Ab4MUgAAAABpm/gdoiIlMTJzoYZxIzsX`

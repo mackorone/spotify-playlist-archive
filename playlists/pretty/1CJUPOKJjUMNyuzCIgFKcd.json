@@ -1,13 +1,153 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23437,
+  "num_followers": 23434,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAmkX+d/jQH2BbXtCv/WKhU9BuOB+s/",
+  "snapshot_id": "AAAmm0fjHpQy2GRoxugPbb1z9dMVZN9l",
   "tracks": [
+    {
+      "added_at": "2025-07-30 22:23:24",
+      "album": {
+        "name": "WHAT U SPEND",
+        "url": "https://open.spotify.com/album/0w1apnzbNdKj8DpPRLiDRE"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        }
+      ],
+      "duration_ms": 143442,
+      "name": "WHAT U SPEND",
+      "url": "https://open.spotify.com/track/4xDurVXryaUoRnAoltkeDi"
+    },
+    {
+      "added_at": "2025-07-30 22:23:30",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-07-30 22:23:37",
+      "album": {
+        "name": "FinallyFed",
+        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "BRINGBLICK",
+      "url": "https://open.spotify.com/track/07bvF0AgjZQQdmQvJAYu4r"
+    },
+    {
+      "added_at": "2025-07-30 22:23:43",
+      "album": {
+        "name": "Close Range",
+        "url": "https://open.spotify.com/album/64bVZfaXtmJBJ1N0YcA9oL"
+      },
+      "artists": [
+        {
+          "name": "Yatta Bandz",
+          "url": "https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK"
+        }
+      ],
+      "duration_ms": 132814,
+      "name": "Close Range",
+      "url": "https://open.spotify.com/track/2T9en2wDQ0XTfIhPX0t3Ii"
+    },
+    {
+      "added_at": "2025-07-30 22:24:00",
+      "album": {
+        "name": "LIFE AFTER DEATH",
+        "url": "https://open.spotify.com/album/22nSF43OqkoSheKO58Fie1"
+      },
+      "artists": [
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "duration_ms": 195164,
+      "name": "Streets Fired Up",
+      "url": "https://open.spotify.com/track/64DrIXLvghmCeIJWdhISyP"
+    },
+    {
+      "added_at": "2025-07-30 22:24:13",
+      "album": {
+        "name": "I'm Not An Apprentice",
+        "url": "https://open.spotify.com/album/75apsbVgquXD2zGU3UvWXY"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 146296,
+      "name": "I'm Not An Apprentice",
+      "url": "https://open.spotify.com/track/03hXI7gIbgQjkr9Y3CbCya"
+    },
+    {
+      "added_at": "2025-07-30 22:24:22",
+      "album": {
+        "name": "Big Trucks",
+        "url": "https://open.spotify.com/album/7pGADR60w3DFV1fDpNcwHN"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "duration_ms": 182856,
+      "name": "Big Trucks",
+      "url": "https://open.spotify.com/track/0kLGKne20tuw9ag3iqh8yI"
+    },
+    {
+      "added_at": "2025-07-30 22:24:31",
+      "album": {
+        "name": "Choosing Shoes",
+        "url": "https://open.spotify.com/album/3Lomo0k5ws6mbFTRZN2RpK"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "Choosing Shoes",
+      "url": "https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN"
+    },
     {
       "added_at": "2025-07-15 17:38:42",
       "album": {
@@ -975,150 +1115,6 @@
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2025-05-14 21:21:45",
-      "album": {
-        "name": "THUGGIN NOT CLUBBIN",
-        "url": "https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ"
-      },
-      "artists": [
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 149487,
-      "name": "THUGGIN NOT CLUBBIN",
-      "url": "https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX"
-    },
-    {
-      "added_at": "2025-05-14 21:27:38",
-      "album": {
-        "name": "GIRASOLES",
-        "url": "https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 253170,
-      "name": "Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/62ur1M0fBbidr6Uuj9zKhF"
-    },
-    {
-      "added_at": "2025-05-14 21:27:49",
-      "album": {
-        "name": "Feel A Way",
-        "url": "https://open.spotify.com/album/50oSo3LktSJEospx3F4lyv"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        }
-      ],
-      "duration_ms": 205926,
-      "name": "Feel A Way",
-      "url": "https://open.spotify.com/track/0Z9K04JT10ZjrPv39rPONS"
-    },
-    {
-      "added_at": "2025-04-29 23:34:02",
-      "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
-    },
-    {
-      "added_at": "2025-04-29 23:38:12",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/2IgwHozPjSJEPYzqs2vTS8"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
-        }
-      ],
-      "duration_ms": 186407,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/4GlUBqfPOLCPirtduhOkwz"
-    },
-    {
-      "added_at": "2025-04-29 23:38:18",
-      "album": {
-        "name": "You4Me",
-        "url": "https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "You4Me",
-      "url": "https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA"
-    },
-    {
-      "added_at": "2025-04-29 23:38:28",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168082,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW"
-    },
-    {
-      "added_at": "2025-04-29 23:40:21",
-      "album": {
-        "name": "Do Sum With It",
-        "url": "https://open.spotify.com/album/2Esif4QEmiw6PQ3O6qdYNl"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Do Sum With It",
-      "url": "https://open.spotify.com/track/715jl4rMm36KxLa2o5rubV"
     }
   ],
   "unique_name": "Fresh Out",

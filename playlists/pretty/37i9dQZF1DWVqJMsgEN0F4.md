@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > LØLØ along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,805 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,852 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 75 | [She Explains Things To Me](https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [She Explains Things To Me](https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY) | 2:18 |
 
-Snapshot ID: `aIMBaAAAAABFQynb92WYoET+Z5XPRl0U`
+Snapshot ID: `AAAAAPGeZEk70oAkdYyoM9Psgd2RhGDW`

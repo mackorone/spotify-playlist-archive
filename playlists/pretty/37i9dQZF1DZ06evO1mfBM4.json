@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2490040,
+  "num_followers": 2490296,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAAaAcQy7e0Kz3GAfR2GExj8",
+  "snapshot_id": "aIgPAAAAAAARIjy9diKp7aSh/Rhl9yi5",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 151120,
       "name": "De Qu\u00e9 Manera Te Olvido",
       "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Como Yo Te Am\u00e9",
-      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 212440,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Como Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
     },
     {
       "added_at": null,

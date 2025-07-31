@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Slot Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,710 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,714 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
 | 100 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 |
 
-Snapshot ID: `AAAAAHhnaR6pzEooVtn6W/9jczu7GRQh`
+Snapshot ID: `aIZXOwAAAAAr4UOhLALnkUB/RrMoMu0Q`

@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 592845,
+  "num_followers": 592975,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-05-20 19:05:24",
       "album": {
+        "name": "Hold My Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
+    },
+    {
+      "added_at": "2025-05-20 19:05:24",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
-    },
-    {
-      "added_at": "2025-05-20 19:05:24",
-      "album": {
-        "name": "Hold My Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
     },
     {
       "added_at": "2025-05-20 19:05:24",

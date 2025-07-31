@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201459,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
+    },
+    {
+      "album": {
         "name": "Det L\u00f8ser Seg",
         "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
       },
@@ -1221,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Hvert \u00c5r",
+        "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Hvert \u00c5r",
+      "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
+    },
+    {
+      "album": {
         "name": "Hvitt Gull (Kilroy)",
         "url": "https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM"
       },
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 129082,
       "name": "Leve",
       "url": "https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO"
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 134428,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"

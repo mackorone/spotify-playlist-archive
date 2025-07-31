@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 519869,
+  "num_followers": 519904,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -468,8 +468,8 @@
       },
       "artists": [
         {
-          "name": "Elio Rev\u00e9 Y Su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf"
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
         }
       ],
       "duration_ms": 323453,
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 358480,
       "name": "Rosa la Peligrosa",
       "url": "https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
     },
     {
       "added_at": "2025-03-07 06:00:25",

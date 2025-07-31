@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,491 likes - 162 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,522 likes - 162 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 161 | [Binaural 5HZ Theta \- 65HZ \- 70HZ](https://open.spotify.com/track/1ceFbynOnDRdIkWnwDpQS9) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural 2](https://open.spotify.com/album/4eCytLY2LUz4QdXeOCf3xd) | 2:40 |
 | 162 | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/track/3c5u6dSAbnqfYK12vtTpFI) | [Sort of Speak](https://open.spotify.com/artist/5l9xTwNi7RjxvJnDRdid38) | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/album/76HG7VMcJbs8PP3gugRSNv) | 2:33 |
 
-Snapshot ID: `aIIbfwAAAAANPzZHUxGyGh1xLZXgc1L7`
+Snapshot ID: `aIIbfwAAAABBhIXMvyQnfVNeZtJm9IIf`

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-719 songs - 2 day 5 hr 38 min
+720 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Oostport](https://open.spotify.com/track/3Zi4tzfvJKrB3mqYo9RCgM) | [LIGHTLEAK](https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC) | [Oostport](https://open.spotify.com/album/2KZ2IWsoJfDiPzQmhJVrAx) | 4:13 | 2024-09-06 | 2024-12-03 |
 | [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 | 2025-07-18 |  |
 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 | 2024-03-08 | 2025-02-01 |
-| [Oscillate](https://open.spotify.com/track/7B5lVZGrG0JCMCCUFtYOQS) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S), [Harvard Bass](https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM) | [Oscillate](https://open.spotify.com/album/0wNnFLSSseitcYtpSbqdl0) | 3:16 | 2025-05-30 |  |
+| [Oscillate](https://open.spotify.com/track/7B5lVZGrG0JCMCCUFtYOQS) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S), [Harvard Bass](https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM) | [Oscillate](https://open.spotify.com/album/0wNnFLSSseitcYtpSbqdl0) | 3:16 | 2025-05-30 | 2025-07-31 |
 | [OSSAB](https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3) | [Basso \(UK\)](https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu) | [OSSAB](https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh) | 5:30 | 2024-06-07 | 2024-10-01 |
 | [Otra Mass](https://open.spotify.com/track/7iwJmk3Pv5OxrfDsJVVNFp) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [Misha \(US\)](https://open.spotify.com/artist/7qkb4MvRFQATc7gUB9vqUP) | [Otra Mass](https://open.spotify.com/album/5GXyfWE0pzSh4NGF2eBhuI) | 2:50 | 2025-07-18 |  |
 | [Otto's Chant](https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Otto's Chant](https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5) | 6:09 | 2022-06-03 | 2022-10-13 |
@@ -461,6 +461,7 @@
 | [P!NK](https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 3:00 | 2025-02-28 |  |
 | [Pace Joint](https://open.spotify.com/track/7sfsDeUpNyPYgTiR8ZK32j) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Pace Joint EP](https://open.spotify.com/album/7gRp4xVdtJCporrt7EzrLy) | 2:47 | 2024-12-13 | 2025-01-11 |
 | [Painless Love](https://open.spotify.com/track/4jjKhNsWl7KVnLb89A1guj) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Painless Love](https://open.spotify.com/album/19LnQs9DGwR4li0E4IQlXA) | 3:03 | 2025-05-23 | 2025-07-26 |
+| [Paranoid](https://open.spotify.com/track/2TEAhmnsgbs88D6IYz4BHV) | [Dayme \(NL\)](https://open.spotify.com/artist/0US3GdxMNYRbfatlvcDzQn) | [Paranoid](https://open.spotify.com/album/10kfaYQ0kSDnKotHpEySuq) | 5:38 | 2025-07-30 |  |
 | [Pasi De Dans](https://open.spotify.com/track/4pRKY2GJfRNH0Mytif1EZ1) | [Mahony](https://open.spotify.com/artist/0IM6etys8CAJAph5dOoGBp) | [U Ready? EP](https://open.spotify.com/album/5ee7du4eAC5kCr7nsXLzPq) | 5:30 | 2022-06-03 | 2022-07-27 |
 | [Patterns \- Donato Dozzy Rework](https://open.spotify.com/track/2DtyVQ3rZtkMHFdjKMRHTN) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Patterns \(Donato Dozzy Rework\)](https://open.spotify.com/album/6wv1krOb2WMZwL3IcpLbak) | 6:59 | 2024-03-08 | 2024-03-10 |
 | [Paula Abdul](https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Paula Abdul](https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx) | 3:38 | 2025-01-17 | 2025-07-12 |

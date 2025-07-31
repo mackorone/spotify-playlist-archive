@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,065 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,040 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 |
 | 75 | [I'm Your Dirt, I'm Your Love](https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Jonatan](https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l) | 2:51 |
 
-Snapshot ID: `AAAAAG7VeGUdDVq8/Febg0z1gudeS/FS`
+Snapshot ID: `aII8agAAAADrmNAlLfCD7lR/g7Odwi5i`

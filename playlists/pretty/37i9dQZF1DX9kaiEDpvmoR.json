@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93535,
+  "num_followers": 93537,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Blommor",
         "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 200000,
       "name": "Blommor",
       "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Voice Of The Silent",
-        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 169125,
-      "name": "Voice Of The Silent",
-      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Voice Of The Silent",
+        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 169125,
+      "name": "Voice Of The Silent",
+      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 159329,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216511,
       "name": "V\u00e5r b\u00e4sta tid",
       "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 159329,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Nothing\u2019s Gonna Change My Love for You",
         "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "\u00c4lskade v\u00e4n",
-        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
+        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
       "artists": [
         {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 199336,
-      "name": "\u00c4lskade v\u00e4n",
-      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+      "duration_ms": 209610,
+      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -935,6 +919,22 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
+        "name": "\u00c4lskade v\u00e4n",
+        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 199336,
+      "name": "\u00c4lskade v\u00e4n",
+      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
         "name": "Jag dansade en sommar",
         "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 199120,
       "name": "Jag dansade en sommar",
       "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
-        "name": "Dansa i neon",
-        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 195113,
-      "name": "Dansa i neon",
-      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -987,6 +971,22 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Dansa i neon",
+        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 195113,
+      "name": "Dansa i neon",
+      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Solens alla \u00e4nglar",
-        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Solens alla \u00e4nglar",
-      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Just idag \u00e4r jag stark",
         "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Solens alla \u00e4nglar",
+        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Solens alla \u00e4nglar",
+      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 221560,
       "name": "Lake Geneva",
       "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Dance Cry Laugh Smile",
-        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
-    },
-    {
-      "added_at": "2025-07-25 14:24:13",
-      "album": {
         "name": "Men bara om min \u00e4lskade v\u00e4ntar",
         "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 213774,
       "name": "Men bara om min \u00e4lskade v\u00e4ntar",
       "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+    },
+    {
+      "added_at": "2025-07-25 14:24:13",
+      "album": {
+        "name": "Dance Cry Laugh Smile",
+        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
       "added_at": "2025-07-25 14:24:13",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-07-25 14:24:13",
       "album": {
-        "name": "Hate To Love",
-        "url": "https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS"
+        "name": "Spin The Bottle",
+        "url": "https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz"
       },
       "artists": [
         {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Hate To Love",
-      "url": "https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY"
+      "duration_ms": 186626,
+      "name": "Spin The Bottle",
+      "url": "https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY"
     }
   ],
   "unique_name": "Aktuellt",

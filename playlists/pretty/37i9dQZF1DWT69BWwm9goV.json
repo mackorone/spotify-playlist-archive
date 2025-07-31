@@ -1,13 +1,45 @@
 {
   "description": "A collection of songs from Spotify's original video series OUTSIDE.",
-  "num_followers": 2002,
+  "num_followers": 2004,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66xHAAAAAAY4+Z2seXcFpeEfOnrPTAM",
+  "snapshot_id": "aIqLugAAAAAUqgZ/qFlzOXIuvu8A+J95",
   "tracks": [
+    {
+      "added_at": "2025-07-30 21:16:42",
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 194314,
+      "name": "TWENTIES - (Spotify OUTSIDE Version) - Live from the Mojave Desert",
+      "url": "https://open.spotify.com/track/3UTPu5xUx69rOxasK2ZDnD"
+    },
+    {
+      "added_at": "2025-07-30 21:16:42",
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 234045,
+      "name": "Watch Me Bleed - (Spotify OUTSIDE Version) - Live From Austin, TX",
+      "url": "https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe"
+    },
     {
       "added_at": "2025-02-14 02:57:32",
       "album": {

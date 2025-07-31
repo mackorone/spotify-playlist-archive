@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "flora",
+        "url": "https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo"
+      },
+      "artists": [
+        {
+          "name": "frogi",
+          "url": "https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157514,
+      "name": "a light that never goes out",
+      "url": "https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD"
+    },
+    {
+      "album": {
         "name": "Abundant",
         "url": "https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 342857,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b"

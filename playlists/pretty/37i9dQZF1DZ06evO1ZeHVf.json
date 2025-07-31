@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 50126,
+  "num_followers": 50148,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABpD4+EkZIIX4aDNvDHWdRR",
+  "snapshot_id": "aIgPAAAAAABZ7jt/QuB/gdJZCH/khy7m",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 329573,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 335200,
-      "name": "Holy Spirit, Come Fill This Place",
-      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210893,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM"
     },
     {
       "added_at": null,

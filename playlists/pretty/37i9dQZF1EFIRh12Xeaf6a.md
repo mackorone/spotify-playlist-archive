@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,123 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,122 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 207 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 208 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
 | 209 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
-| 210 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
-| 211 | [Lady Of The Lake](https://open.spotify.com/track/6MwZbyLWRD6cSNzBZY0HSW) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 3:00 |
+| 210 | [Lady Of The Lake](https://open.spotify.com/track/6MwZbyLWRD6cSNzBZY0HSW) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 3:00 |
+| 211 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 212 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
 | 213 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 214 | [Victim Of Circumstance](https://open.spotify.com/track/7jEQx0Bfy3aQF98m1PISHS) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:36 |
@@ -238,8 +238,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 228 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 229 | [Eagle](https://open.spotify.com/track/5XDIXl4gjvb3DiD9F7lV2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:41 |
 | 230 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 |
-| 231 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
-| 232 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 231 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 232 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
 | 233 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 |
 | 234 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 |
 | 235 | [Keep Your Love Locked](https://open.spotify.com/track/1v5veLMvnLZ8mpjIn1gUZv) | [Paul Petersen](https://open.spotify.com/artist/7fUZIscY5nNdeSdetfeBNC) | [All the Hits and More](https://open.spotify.com/album/4cUnVhereIi8xjUYejh7Qm) | 2:11 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab4GxgAAAAC5XGx49V0T90ml3PD8H746`
+Snapshot ID: `Ab4MUgAAAADomFfs2BehjQKQ+39sS4QL`

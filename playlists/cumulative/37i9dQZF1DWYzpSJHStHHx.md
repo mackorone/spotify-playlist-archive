@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 | 2025-07-30 |
+| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 |  |
 | [...Anyway](https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu) | [Ben Cook](https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV) | [Bread For Your Broth](https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak) | 3:06 | 2023-07-13 | 2023-07-29 |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-20 |
 | [A.M.](https://open.spotify.com/track/2Y33MDjGDSZt2OLzkS6ZkG) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Hoodratscumbags](https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo) | 4:03 | 2023-08-18 | 2024-04-19 |
@@ -63,7 +63,7 @@
 | [Catamaran](https://open.spotify.com/track/0y6Mp5Y1OxHtzxi6AwewPt) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/3XgVl7O0ddImgVBtlEPdDw) | 3:32 | 2021-02-05 | 2022-07-02 |
 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 | 2022-07-22 |  |
 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 | 2023-07-13 |  |
-| [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 | 2025-03-27 |  |
+| [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 | 2025-03-27 | 2025-07-31 |
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2023-03-01 | 2023-07-14 |
 | [City Club](https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 3:16 | 2021-02-05 | 2022-07-21 |
 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 | 2022-07-22 | 2023-03-02 |

@@ -4,7 +4,7 @@
 
 > Check out our latest Cargo Distribution approved tracks! Updated weekly
 
-127 songs - 9 hr 38 min
+128 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Deport Me, Baby](https://open.spotify.com/track/1sD4i78qChOYbV8F1OwcsK) | [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Deport Me](https://open.spotify.com/album/5jV36tE6uDqcdAthpzRTGx) | 4:48 | 2025-07-04 |  |
 | [Deport Me, Baby](https://open.spotify.com/track/2Dvl8mO1HHnX1mp1salNdx) | [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Deport Me, Baby](https://open.spotify.com/album/7zMwlFYBI2LsbomS05a09w) | 4:48 | 2025-06-16 | 2025-07-26 |
 | [Deportation on the Rise](https://open.spotify.com/track/5cIDgqq1Ru4DkGkuHDc6pX) | [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Deportation on the Rise](https://open.spotify.com/album/1jeujmbOMkHZNLpREZFMyI) | 2:15 | 2025-06-19 |  |
+| [Descent Into Forever \- Live](https://open.spotify.com/track/4kVw2jB4jJUMHrzAI0SOsz) | [Raz Mesinai](https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y), [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Myth of Nations: An Anti Imperialist Opera \(Live at The Kitchen\)](https://open.spotify.com/album/396usMP3M0uwitZZSVwHcX) | 2:59 | 2025-07-30 |  |
 | [Disasternoon](https://open.spotify.com/track/5REjwXkbdWGbUqvbsOvvfq) | [Crayola Lectern](https://open.spotify.com/artist/7B1n1omO5bprIxGUbxn793) | [Disasternoon](https://open.spotify.com/album/5smpgL460a3gkIlHwai5QS) | 5:53 | 2025-06-20 |  |
 | [Distress Tolerance](https://open.spotify.com/track/3iwc5eZyZVqo3gpe52Uab5) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Distress Tolerance / Voyeur](https://open.spotify.com/album/7ttp6u4XeCzBIE1SSzmkNJ) | 3:13 | 2025-06-05 | 2025-07-26 |
 | [Do It Like This \- Richard Earnshaw "Sugarsoul" club remix](https://open.spotify.com/track/2USlyLNJUHYc4WOnk61AHs) | [Super Powers Soundsystem](https://open.spotify.com/artist/6vEVrHDQt0cJ8plRDZhmXN), [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra) | [Do It Like This \(Richard Earnshaw "Sugarsoul" club remix\)](https://open.spotify.com/album/3Hi1TxuBVOdH5sYQO8N2PY) | 5:56 | 2025-06-16 | 2025-07-26 |

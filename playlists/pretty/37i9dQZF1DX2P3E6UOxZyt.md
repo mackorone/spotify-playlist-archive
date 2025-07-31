@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 公館青少年 \(GGteens\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,335 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,336 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [其實我不意外](https://open.spotify.com/track/0HDmt8s1TNKXuMH3UOWKxj) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [STILL](https://open.spotify.com/album/5JJOpNOE88FlcL9DwDNhKF) | 3:34 |
 | 36 | [不遠處](https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 5:00 |
 
-Snapshot ID: `aIJYlgAAAADpxkvh9Q9PZxruTL09KNSf`
+Snapshot ID: `AAAAADcH6GaLMz4xtgJN6kFezep7QipO`

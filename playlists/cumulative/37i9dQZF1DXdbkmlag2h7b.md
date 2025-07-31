@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-293 songs - 15 hr 10 min
+294 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-26 |  |
 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 | 2024-07-12 | 2025-03-06 |
 | [A Higher Presence](https://open.spotify.com/track/5ZQ2hn58jULkkRLCbEH0ZY) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 2:15 | 2021-12-09 | 2022-07-29 |
+| [a light that never goes out](https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [flora](https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo) | 2:37 | 2025-07-09 |  |
 | [Abundant](https://open.spotify.com/track/13aO4GXU92PdB37eSOxvrp) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Abundant](https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw) | 2:30 | 2025-03-05 |  |
 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2021-12-09 | 2024-10-19 |
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 | 2024-03-06 |
@@ -136,7 +137,7 @@
 | [Ideal](https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Ideal](https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw) | 2:54 | 2024-06-10 |  |
 | [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 | 2024-03-07 | 2024-08-22 |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2021-12-09 | 2025-04-09 |
-| [Immersion](https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Eruptive Love](https://open.spotify.com/album/6vLBNsXnG8LT8e6hJ0IgCr) | 5:42 | 2025-03-05 |  |
+| [Immersion](https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Eruptive Love](https://open.spotify.com/album/6vLBNsXnG8LT8e6hJ0IgCr) | 5:42 | 2025-03-05 | 2025-07-31 |
 | [Infinite](https://open.spotify.com/track/391sFoHJYJrb4vjgp5xRxd) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Infinite](https://open.spotify.com/album/6UQJZnUrjQrAICdAqxbiVs) | 3:12 | 2021-12-09 | 2022-07-29 |
 | [Infusion](https://open.spotify.com/track/5HIY7NFEpNHBtoEgtpW6Re) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Infusion](https://open.spotify.com/album/6dSISAglhffSmE0kpEzGVL) | 3:56 | 2025-01-14 |  |
 | [Inner Sunrise](https://open.spotify.com/track/7vjMcuIdXBeGF3SlutzwiU) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Mahmood Shalabi](https://open.spotify.com/artist/6n4DKEPdku0s6YtnIXFzZX) | [Inner Sunrise](https://open.spotify.com/album/0rXmkmKUzX4hcAZVpwHZZ5) | 3:51 | 2021-12-09 | 2022-07-29 |

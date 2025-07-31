@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: CèJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,457 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,491 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 74 | [Forever With You \(Freestyle Session\)](https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Forever With You \(Freestyle Session\)](https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R) | 2:03 |
 | 75 | [FALL DOWN](https://open.spotify.com/track/62LwMi0hUYAeMMjLlVDgfE) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [SOMETHING TOLD ME](https://open.spotify.com/album/6ExqkdaKtq0NRU1JSh9gRt) | 2:11 |
 
-Snapshot ID: `aHvORQAAAAAADJPE9e7NkkZvvHOJJhhQ`
+Snapshot ID: `AAAAAEWK0M5I+a/9AcbtnwfYfziYJ87C`

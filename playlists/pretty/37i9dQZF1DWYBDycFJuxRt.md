@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Skaai and KM \*👉 <a href="https://spice.eplus.jp/articles/339533">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Skaai and KM \*👉 <a href="https://spice.eplus.jp/articles/339703">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,480 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,543 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 20 | [Echoes](https://open.spotify.com/track/2HcdmAwTWL2zekEICHENEq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [宵 \-YOI\-](https://open.spotify.com/album/3SbFks7Ke2crP3O0RpfDEF) | 3:06 |
 | 21 | [THIS IS ME:I](https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [THIS IS ME:I](https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL) | 2:59 |
 | 22 | [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [北村蕗](https://open.spotify.com/artist/1l4YmwtKMUzE16e6rwTgCR) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 |
-| 23 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
+| 23 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
 | 24 | [every breath](https://open.spotify.com/track/1u7iJzDUnxz1AQxhBER9y5) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [every breath](https://open.spotify.com/album/0bYqHYcVjNyJfwfRze6ieE) | 5:11 |
 | 25 | [To be feat\. 三浦大知](https://open.spotify.com/track/5ifTPBHkcoswJkbLhEMcjd) | [ØMI](https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [To be feat\. 三浦大知](https://open.spotify.com/album/1feBQEV9U3En7Rvmk8il6M) | 2:38 |
 | 26 | [Optimystique \(feat\. Pikes\)](https://open.spotify.com/track/1R53Sq8IDkAHwHAtgDabNp) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Optimystique \(feat\. Pikes\)](https://open.spotify.com/album/6Rempn6qGYGp7yCMyTLmLS) | 3:25 |
-| 27 | [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 |
+| 27 | [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Antonio Loureiro](https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 |
 | 28 | [Deleter](https://open.spotify.com/track/2k6XPgKn55kCEIVHf8qHpT) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [Deleter](https://open.spotify.com/album/2M0UQ1xaoFEfZV4CXzKjoR) | 4:09 |
 | 29 | [Beach House](https://open.spotify.com/track/2l2i3HKT4DyjMoY7FINbq1) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Beach House](https://open.spotify.com/album/7Lx53yIVmTQHqeqza6KnN9) | 3:14 |
 | 30 | [Enchousen](https://open.spotify.com/track/549UScCxqpsobxtTxh2l1s) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [HeartBreak](https://open.spotify.com/album/1MGSALnp4hvfyRvpQ5ymdq) | 3:18 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [Who I Am](https://open.spotify.com/track/0IX7SuQHKF44yqg0uLkF6D) | [入野自由](https://open.spotify.com/artist/5CPe7cGY1bB20e6Tbv4XVQ) | [Who I Am](https://open.spotify.com/album/0Czeq0HZOu4O6LYGUiIBLT) | 3:09 |
 | 84 | [OSHIBAI](https://open.spotify.com/track/361xt1yKYUWpTn9kHMFvvU) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [OSHIBAI](https://open.spotify.com/album/2xtujq0Nxb4mOX30VVdKX2) | 2:58 |
 
-Snapshot ID: `aImIYQAAAAD1n9dAuUyOTVntYbmb1F27`
+Snapshot ID: `AAAAAI/0LNnZdeA0phf9dGnw3EszI6qQ`

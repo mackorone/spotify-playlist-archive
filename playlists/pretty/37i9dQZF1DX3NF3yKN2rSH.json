@@ -871,22 +871,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 337440,
       "name": "He Didn't Have To Do It",
       "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Conqueror",
-        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 123426,
-      "name": "For the Love of the People",
-      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 123426,
+      "name": "For the Love of the People",
+      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Another Chapter, Psalms 51",
         "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 356179,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1423,6 +1423,26 @@
       "duration_ms": 240000,
       "name": "He Paid It All",
       "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1603,22 +1623,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
       "artists": [
         {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1639,22 +1655,6 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
     },
     {
       "added_at": "2025-04-06 05:34:41",

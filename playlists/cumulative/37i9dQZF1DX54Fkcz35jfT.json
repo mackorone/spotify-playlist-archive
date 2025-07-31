@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Advance",
+        "url": "https://open.spotify.com/album/5hwpeb31oT0smtEbVZZqOY"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Advance",
+      "url": "https://open.spotify.com/track/1StSa2C0dXzulhu2Ooi9cc"
+    },
+    {
+      "album": {
         "name": "Cocoon for the Golden Future",
         "url": "https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 191242,
       "name": "BUNBUN SUIBUN",
       "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"

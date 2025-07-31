@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Tyler Childers, Luke Combs, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,775 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,856 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 73 | [Don't Leave The Light On](https://open.spotify.com/track/6cjpsDiVNL1JkLUVKUn9Bh) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Don't Leave The Light On](https://open.spotify.com/album/5sAbm8JS2fpvzexgXJfWz4) | 3:06 |
 | 74 | [The Older I Get \(More Country I'm Gettin' to Be\)](https://open.spotify.com/track/7gnM6rIM7NQOzO0hdwrb6H) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [The Older I Get \(More Country I'm Gettin' to Be\)](https://open.spotify.com/album/5XPsDXT2zGAaofrEjBdnXr) | 3:32 |
 | 75 | [We Should Get Out Of Here](https://open.spotify.com/track/1hCRVJvQVd0oCelmpxqMCw) | [Emmy Russell](https://open.spotify.com/artist/49oaDWZhpPIv5EWR2RHLbf), [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf) | [We Should Get Out Of Here](https://open.spotify.com/album/2VF2wSPyp9ivGviAO8JXxi) | 2:53 |
-| 76 | [Mine](https://open.spotify.com/track/4bkK2PHoS6JFkhwyLNqgF6) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Mine](https://open.spotify.com/album/3hAPGVudRnbqYyUvEbGalN) | 3:55 |
-| 77 | [Something To Lose \(feat\. Corey Harper\)](https://open.spotify.com/track/0YmT6Fgxpg9fs6xPIb4QOi) | [Christian Hayes](https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu), [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Something To Lose \(feat\. Corey Harper\)](https://open.spotify.com/album/4nhGiAeip6FGIyx9YmSOwp) | 3:19 |
-| 78 | [That Dog'll Hunt](https://open.spotify.com/track/3wk6sGYTwPe6H2tSDhlqVv) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [That Dog'll Hunt](https://open.spotify.com/album/7ndYMetArKUZgb1aVHkfBv) | 2:15 |
-| 79 | [Crazy As Me](https://open.spotify.com/track/0BNk0DjV0baaO7O2fLWhBb) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd), [Blake Wood](https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox) | [Crazy As Me](https://open.spotify.com/album/3pVqQB8Kd0OFbKsdRywbyk) | 2:52 |
-| 80 | [Truck On Fire](https://open.spotify.com/track/5W5QUZz6qcjpgCa6k2A9iy) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Truck on Fire](https://open.spotify.com/album/700ZCmGN4iBxfvWMUjbXHc) | 2:30 |
+| 76 | [Something To Lose \(feat\. Corey Harper\)](https://open.spotify.com/track/0YmT6Fgxpg9fs6xPIb4QOi) | [Christian Hayes](https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu), [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Something To Lose \(feat\. Corey Harper\)](https://open.spotify.com/album/4nhGiAeip6FGIyx9YmSOwp) | 3:19 |
+| 77 | [That Dog'll Hunt](https://open.spotify.com/track/3wk6sGYTwPe6H2tSDhlqVv) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [That Dog'll Hunt](https://open.spotify.com/album/7ndYMetArKUZgb1aVHkfBv) | 2:15 |
+| 78 | [Crazy As Me](https://open.spotify.com/track/0BNk0DjV0baaO7O2fLWhBb) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd), [Blake Wood](https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox) | [Crazy As Me](https://open.spotify.com/album/3pVqQB8Kd0OFbKsdRywbyk) | 2:52 |
+| 79 | [Truck On Fire](https://open.spotify.com/track/5W5QUZz6qcjpgCa6k2A9iy) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Truck on Fire](https://open.spotify.com/album/700ZCmGN4iBxfvWMUjbXHc) | 2:30 |
 
-Snapshot ID: `aIMBdQAAAABOIj+9ht52U5XzZoumBTvj`
+Snapshot ID: `AAAAALDrPFKEUw/7Ti8U7E/rWs+mU69y`

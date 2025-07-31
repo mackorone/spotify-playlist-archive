@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,537 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,570 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 99 | [Love from Me](https://open.spotify.com/track/3tWy2cmlXAVRHDLeP2a1Td) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Love from Me](https://open.spotify.com/album/3gY6tTnNsDuCNTrPoA5Lfw) | 4:06 |
 | 100 | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII) | 3:36 |
 
-Snapshot ID: `aGdR5wAAAABfixqD5JqC7s6KuqP9i9pt`
+Snapshot ID: `AAAAAHYNTJ+MI8JCagu5rQFpwHhkHYKf`

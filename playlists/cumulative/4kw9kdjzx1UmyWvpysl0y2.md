@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,036 songs - 2 day 10 hr 8 min
+1,037 songs - 2 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1007,6 +1007,7 @@
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When I'm Gone](https://open.spotify.com/track/2hHdTksNtM52OojwkncDUO) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [When I'm Gone](https://open.spotify.com/album/1SBSEBuRZ559StapQdFUUV) | 3:14 | 2025-06-05 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |
+| [When You're Not Around](https://open.spotify.com/track/5PigCceQ8BlFQdwMtTJ4Yn) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [When You're Not Around](https://open.spotify.com/album/4sEdJsUUAi2HR1zNcnkxHa) | 3:11 | 2025-07-30 |  |
 | [where did you go](https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [where did you go](https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd) | 2:55 | 2025-04-22 | 2025-07-15 |
 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 | 2024-04-12 |
 | [Where My Heart Is](https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Where My Heart Is / Time Is On Our Side](https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j) | 3:26 | 2025-02-13 | 2025-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,896 likes - 109 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,054 likes - 109 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 108 | [Banyathele](https://open.spotify.com/track/3u4SW3dGyuaGN6SQDLP19j) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Banyathele](https://open.spotify.com/album/3G9vtKzP7IV7DiA8Dl2SNx) | 7:03 |
 | 109 | [Quizumba De Rei](https://open.spotify.com/track/4wapYqDKcFmJT54JuI1loR) | [D4NYO](https://open.spotify.com/artist/6i78SJT2qUALxC41EGyIwv), [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Quizumba De Rei](https://open.spotify.com/album/2DqQHRrhOSXmKxCQt9YRYh) | 1:46 |
 
-Snapshot ID: `aIJccgAAAABwheUaay7Hewf3r+yGEv/A`
+Snapshot ID: `AAAAAOWeIV6NsylK01dN8SHvPUertDHr`

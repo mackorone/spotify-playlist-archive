@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,413 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,446 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 23 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
 | 24 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 |
 | 25 | [CAMISA 10](https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [EU GOSTO DE GAROTAS](https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU) | 2:55 |
-| 26 | [Flashes](https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:58 |
-| 27 | [ELAS PINTAM](https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ELAS PINTAM](https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7) | 3:14 |
-| 28 | [BADU & 3000](https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:01 |
+| 26 | [BADU & 3000](https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:01 |
+| 27 | [Flashes](https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:58 |
+| 28 | [ELAS PINTAM](https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ELAS PINTAM](https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7) | 3:14 |
 | 29 | [Reunião Dos Cria](https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq) | 3:48 |
 | 30 | [Tanto Faz](https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Tanto Faz](https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS) | 3:16 |
 | 31 | [CONFIO](https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 3:36 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 47 | [Flat](https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:49 |
 | 48 | [Lipstick](https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:30 |
 
-Snapshot ID: `aIa9gAAAAAAeeINZ3Vwr9QF0mKlLBH/O`
+Snapshot ID: `aIgPAAAAAACowiEIcf2w4UvQBTuTdGxc`

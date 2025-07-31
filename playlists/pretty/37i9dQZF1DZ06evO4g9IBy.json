@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 169810,
+  "num_followers": 169839,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAB0aF/RQ2iHeUt8yJjML//Q",
+  "snapshot_id": "aIgPAAAAAABMZeiDvxPhqbPPkVJBrTJ4",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 322106,
       "name": "Bella Donna - 2016 Remaster",
       "url": "https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 210466,
       "name": "After the Glitter Fades - 2016 Remaster",
       "url": "https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 294920,
-      "name": "Sorcerer",
-      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 192560,
       "name": "Kind of Woman - 2016 Remaster",
       "url": "https://open.spotify.com/track/0ehVk4Py6iyLpfruxVYq4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 294920,
+      "name": "Sorcerer",
+      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 260972,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 230600,
       "name": "Sister Honey",
       "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bella Donna (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 334853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224773,
       "name": "I Sing for Things",
       "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 334853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
     },
     {
       "added_at": null,

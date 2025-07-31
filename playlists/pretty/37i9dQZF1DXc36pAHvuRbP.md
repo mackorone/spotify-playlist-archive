@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 40 | [Doudou](https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 2:44 |
 | 41 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
 | 42 | [Les câlins](https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:01 |
-| 43 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
+| 43 | [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 |
 | 44 | [Le pull qui gratte](https://open.spotify.com/track/0Ydc98mAUvB0HavHmzX67S) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ) | [Vivre heureux dans un pull qui gratte](https://open.spotify.com/album/5KrBQ8dXT4EhYcw6e7Qmcq) | 3:06 |
 | 45 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
-| 46 | [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 |
+| 46 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 47 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 |
-| 48 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
-| 49 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
-| 50 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
+| 48 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 |
+| 49 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
+| 50 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 
 Snapshot ID: `ZsNT8QAAAADuQKbLtWCUTHzdzgAynvhN`

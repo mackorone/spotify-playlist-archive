@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1430800,
+  "num_followers": 1430843,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAD+7/SPyOLE7RYWqsvpslY3",
+  "snapshot_id": "aIgPAAAAAACms6XgB2PWkdv5u/dYceWJ",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drinking From The Sun",
         "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
     },
     {
       "added_at": null,
@@ -859,6 +859,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "STREET X STREET (LAFC)",
+        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "DJ FLICT",
+          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "STREET X STREET",
+      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STREET X STREET (LAFC)",
-        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "DJ FLICT",
-          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "STREET X STREET",
-      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
     },
     {
       "added_at": null,

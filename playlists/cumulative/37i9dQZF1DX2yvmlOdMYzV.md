@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,011 songs - 2 day 7 hr 14 min
+1,012 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [blip](https://open.spotify.com/track/5VD0U65kjk8SKtmEmDWzpO) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [blip](https://open.spotify.com/album/3W07RwmsFX2OI0sWwQ9E4F) | 2:12 | 2025-02-14 | 2025-07-03 |
 | [Bloody Bouquets](https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deliver Me](https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna) | 3:29 | 2024-09-06 |  |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-03-08 | 2025-07-11 |
-| [Blue](https://open.spotify.com/track/2CS4jXoyYcm91tR391ZyNa) | [The 80s](https://open.spotify.com/artist/1vrVERSBTKcxSNUjrvkaXk), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [The Pursuit](https://open.spotify.com/album/0Xjf46gJxcXck1rvJwQc98) | 2:39 | 2024-06-21 |  |
+| [Blue](https://open.spotify.com/track/2CS4jXoyYcm91tR391ZyNa) | [The 80s](https://open.spotify.com/artist/1vrVERSBTKcxSNUjrvkaXk), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [The Pursuit](https://open.spotify.com/album/0Xjf46gJxcXck1rvJwQc98) | 2:39 | 2024-06-21 | 2025-07-31 |
 | [Bodies \- Intro](https://open.spotify.com/track/2Itnx6zp6Ztkex5JnRcy3U) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:01 | 2021-12-15 | 2022-04-07 |
 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-11-09 | 2023-03-11 |
 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2021-12-15 | 2022-12-01 |
@@ -340,6 +340,7 @@
 | [Good Together](https://open.spotify.com/track/1Evdjw7BetnQeOLeofGG0F) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Good Together](https://open.spotify.com/album/295gq9XBTMw0V5Hl29l8A4) | 2:56 | 2021-12-15 | 2022-06-28 |
 | [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 | 2025-03-07 |  |
 | [Grace](https://open.spotify.com/track/4lYpoz9pRsUKHazWsKq1QV) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Grace](https://open.spotify.com/album/3NCYgSaRffcH4a5Vw5bNTg) | 2:54 | 2023-08-18 | 2024-03-09 |
+| [Grateful](https://open.spotify.com/track/4vMjkeZmTDBAdWFWIR2MGl) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [CARROT](https://open.spotify.com/album/60hvg9iSDNXEJ5SBpnTYrn) | 3:20 | 2025-07-25 |  |
 | [Gratitudes](https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Gratitudes](https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj) | 3:16 | 2024-07-26 | 2024-10-01 |
 | [Greatest Gift \- Reimagined](https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Greatest Gift \(Reimagined\)](https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi) | 3:59 | 2024-04-19 |  |
 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 | 2023-06-16 | 2024-07-09 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33081,
+  "num_followers": 33114,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "RE$FRIADO",
+        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
+      },
+      "artists": [
+        {
+          "name": "Kiddo Toto",
+          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
+        },
+        {
+          "name": "Wirchi",
+          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Baila el Funk",
+      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Ready For Life",
         "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 227174,
       "name": "Ready For Life",
       "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "RE$FRIADO",
-        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
-      },
-      "artists": [
-        {
-          "name": "Kiddo Toto",
-          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
-        },
-        {
-          "name": "Wirchi",
-          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Baila el Funk",
-      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Env\u00e9s",
-        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
-      },
-      "artists": [
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        }
-      ],
-      "duration_ms": 378213,
-      "name": "Maybe I'm Leo",
-      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Env\u00e9s",
+        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 378213,
+      "name": "Maybe I'm Leo",
+      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Ya Lo Estoy Deseando",
         "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
@@ -1131,6 +1131,26 @@
       "duration_ms": 202591,
       "name": "C\u00f3mo",
       "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Espacios",
+        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        },
+        {
+          "name": "Dinast\u00eda",
+          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1159,38 +1179,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Espacios",
-        "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
+        "name": "Afromama Jams",
+        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
         },
         {
-          "name": "Dinast\u00eda",
-          "url": "https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF"
+          "name": "Low97",
+          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        }
-      ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+      "duration_ms": 183651,
+      "name": "Afromama Jams",
+      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1211,22 +1215,34 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Afromama Jams",
-        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
       },
       "artists": [
         {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "Low97",
-          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
         }
       ],
-      "duration_ms": 183651,
-      "name": "Afromama Jams",
-      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1315,6 +1299,38 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+      },
+      "artists": [
+        {
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 203056,
       "name": "Nada Ser\u00eda Igual",
       "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Sobrado",
-        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
+        "name": "Best Of Us",
+        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
       "artists": [
         {
-          "name": "Fugazza",
-          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        },
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Sobrado",
-      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+      "duration_ms": 185024,
+      "name": "Best Of Us",
+      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1447,6 +1451,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Sobrado",
+        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
+      },
+      "artists": [
+        {
+          "name": "Fugazza",
+          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Sobrado",
+      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Best Of Us",
-        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
-      },
-      "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        },
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 185024,
-      "name": "Best Of Us",
-      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 175249,
       "name": "Miro donde miro",
       "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Espirituosa",
         "url": "https://open.spotify.com/album/1Cra9uhCvkygaAvXq6qSmA"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 232288,
       "name": "Espirituosa",
       "url": "https://open.spotify.com/track/0ZXJigvZPCAAOUnatrst9F"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2025-07-04 11:50:10",

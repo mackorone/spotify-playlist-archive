@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: JaNa Craig
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,176 likes - 143 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,154 likes - 143 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 142 | [Day in the Life](https://open.spotify.com/track/1o6x7iRcDQPEEg8YPgLeVA) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
 | 143 | [Big Shark](https://open.spotify.com/track/6Yjj0HEBFdOtNjhbhiOiah) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Big Shark](https://open.spotify.com/album/4wtkVYb3pTptewYBch9kTM) | 3:12 |
 
-Snapshot ID: `aHU2hwAAAADeh4LMpHafmCTpcWPZihrI`
+Snapshot ID: `AAAAAPreQVE9+0hFGdB8j4Rfu1RgdMmU`

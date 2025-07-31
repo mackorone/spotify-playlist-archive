@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 101324,
+  "num_followers": 101411,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
-      },
-      "artists": [
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
-      },
-      "artists": [
-        {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 244615,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Jeraha",
+        "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Jeraha",
+      "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Jeraha",
-        "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
-      },
-      "artists": [
-        {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
-        },
-        {
-          "name": "Jovial",
-          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Jeraha",
-      "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Me Ne Woa",
-        "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
-      },
-      "artists": [
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 220890,
-      "name": "Me Ne Woa",
-      "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Me Ne Woa",
+        "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 220890,
+      "name": "Me Ne Woa",
+      "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
     },
     {
       "added_at": "2025-07-11 08:09:25",

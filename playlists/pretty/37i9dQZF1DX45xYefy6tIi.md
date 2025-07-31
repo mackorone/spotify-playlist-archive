@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Summer road trip songs selected by your favorite SportsCenter anchors
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,883 likes - 64 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,894 likes - 64 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 63 | [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 |
 | 64 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
 
-Snapshot ID: `aIN/3gAAAACVXLbAcgRGmWuFUepPEa9G`
+Snapshot ID: `aIN/3gAAAAAIEeUgSJxj7vruJUGrIAif`

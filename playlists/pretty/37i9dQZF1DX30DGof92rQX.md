@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Maanu, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 67 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,625 likes - 67 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

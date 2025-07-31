@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-268 songs - 22 hr 34 min
+269 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Flying Octopus](https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m) | 3:31 | 2023-10-13 | 2024-04-19 |
 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 | 2022-07-05 | 2023-10-15 |
 | [Freedom](https://open.spotify.com/track/3Hmg1WPr7lkT3LAhcnOCHz) | [ONEDEFINED](https://open.spotify.com/artist/4SUQ1GFY0jmck4xkXmMKlk) | [Freedom EP](https://open.spotify.com/album/7meoHVlBOdeYuP3hFU4I89) | 8:02 | 2022-07-05 | 2022-07-29 |
+| [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 | 2025-07-25 |  |
 | [Frequency Differ \- Original Mix](https://open.spotify.com/track/2XGdv6M567kqNoWLm3KcS3) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Frequency Differ](https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ) | 6:49 | 2022-07-05 | 2022-07-28 |
 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-11-10 | 2024-04-19 |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-07-05 | 2023-11-05 |
@@ -204,7 +205,7 @@
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-02-21 |  |
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-07-05 | 2022-09-15 |
 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-25 | 2023-10-04 |
-| [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 | 2025-01-10 |  |
+| [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 | 2025-01-10 | 2025-07-31 |
 | [Sanctum \(feat\. Marion Di Napoli\)](https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Marion Di Napoli](https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C) | [Sanctum EP](https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4) | 5:51 | 2024-12-09 | 2025-06-07 |
 | [Saw of Olympus](https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Saw of Olympus](https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn) | 4:32 | 2022-07-05 | 2022-08-27 |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-07-05 |  |

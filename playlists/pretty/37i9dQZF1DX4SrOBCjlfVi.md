@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake, Freddie Gibbs, Tyler, The Creator and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,095 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,236 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Choosing Shoes](https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Choosing Shoes](https://open.spotify.com/album/3Lomo0k5ws6mbFTRZN2RpK) | 2:47 |
 | 50 | [BADDESTBITCHINMIAMIHANDSDOWN PT\. 1\-3](https://open.spotify.com/track/7dtcM3ZE9whzFp2LdTYcIH) | [BBYKOBE](https://open.spotify.com/artist/4M38DKmHBpyVBqkw3hoTFK) | [SHE LUV BBYKOBE](https://open.spotify.com/album/41mevCtuAncTGAzwGNV7Oh) | 2:48 |
 
-Snapshot ID: `aIPTkQAAAABVOc3/rMdyeBUdxlm+nS+3`
+Snapshot ID: `AAAAADrnNFotBQhgPfyyDWsaEce8Km8M`

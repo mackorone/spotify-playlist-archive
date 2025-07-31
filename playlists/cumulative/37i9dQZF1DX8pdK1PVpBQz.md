@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Chloe Parché
 
-4,159 songs - 9 day 12 hr 56 min
+4,161 songs - 9 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [bury me.](https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [bury me.](https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC) | 3:51 | 2023-04-19 | 2023-05-11 |
 | [Bury My Body](https://open.spotify.com/track/5rWMvS4vP7OQ1qbn4JQNjD) | [April Darling](https://open.spotify.com/artist/23DI2cFDieURQMguGqWquu) | [Bury My Body](https://open.spotify.com/album/3t9fPIMnYQ9ye9WTA2bJQw) | 3:38 | 2024-08-20 | 2024-10-02 |
 | [Bury That Sound](https://open.spotify.com/track/57Tivt7tihc1t8K7jgAtYN) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Bury That Sound](https://open.spotify.com/album/2LN4EViR5QJ3z3hPRTXu3X) | 2:53 | 2022-07-19 | 2022-08-11 |
+| [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-07-29 |  |
 | [Bussell Hwy](https://open.spotify.com/track/1q4aIvJrPfClnevHjT1ic4) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Bussell Hwy](https://open.spotify.com/album/1mygqa07KT6YyvN0yHkeug) | 3:11 | 2022-03-16 | 2022-04-27 |
 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [VV Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 | 2022-07-19 | 2022-08-11 |
 | [BUSTYS INTERLUDE](https://open.spotify.com/track/746PYFQYZ7aKOH2POy4lrd) | [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ) | [BUSTYS INTERLUDE](https://open.spotify.com/album/4sqrBkPLc7q7iPbv30mFpc) | 2:01 | 2022-05-11 | 2022-05-26 |
@@ -1660,6 +1661,7 @@
 | [home run](https://open.spotify.com/track/6ENfgZINqvoE2mRY6KTGXy) | [Vince\. Jr](https://open.spotify.com/artist/5xqQPSaepFZnHgKZ7ASJA0) | [home run](https://open.spotify.com/album/18m4s5J4ZB5VhDgLhZrQ6L) | 3:34 | 2022-07-13 | 2022-08-04 |
 | [Home with You](https://open.spotify.com/track/3biThPdcH6rXkZBMLrfaRl) | [Abbey Singh](https://open.spotify.com/artist/21jBsIyvm5trsy8DSrf9uG) | [Home with You](https://open.spotify.com/album/6GtihyLxWqz6YEkH8ksDQG) | 2:45 | 2022-08-16 | 2022-09-15 |
 | [Homeland](https://open.spotify.com/track/6CqY5hQYAFhnSjZh2RkNG7) | [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [Homeland](https://open.spotify.com/album/3TEP5wIvOc4pZKWYA27Csy) | 4:09 | 2024-05-21 | 2024-07-10 |
+| [Homesick](https://open.spotify.com/track/0ARzCSPcDeUY1fI4q8EMQ0) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [Homesick](https://open.spotify.com/album/1fNNrPWT1bcCkGvWxeT4eg) | 3:46 | 2025-07-29 |  |
 | [Hometown](https://open.spotify.com/track/1qag6EIGiSQI3vo4PqXa3O) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Hometown](https://open.spotify.com/album/6cTRL5RnQJrpFaN4ue0xXp) | 3:05 | 2023-01-18 | 2023-02-16 |
 | [honest](https://open.spotify.com/track/6K1uB20vzp1RvTXAOnfcgN) | [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [vacation](https://open.spotify.com/album/48o7A9qde5Sv2Z36nxDIpU) | 3:22 | 2024-06-04 | 2024-07-10 |
 | [Honey](https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack](https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A) | 3:44 | 2021-12-28 | 2022-01-13 |

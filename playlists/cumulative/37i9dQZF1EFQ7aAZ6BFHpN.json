@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 642240,
       "name": "Cuban Overture",
       "url": "https://open.spotify.com/track/1h6hoawIsg1mgK2KCBfmm1"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 642240,
       "name": "Cuban Overture",
       "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 632520,
       "name": "Gershwin in Hollywood",
       "url": "https://open.spotify.com/track/0Zi6kIZbpbHptjUiQEAlVR"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 632520,
       "name": "Gershwin In Hollywood",
       "url": "https://open.spotify.com/track/6NAvcyUo1ax2Cx5A2Sw5fT"
@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 1508760,
       "name": "Porgy and Bess Suite",
       "url": "https://open.spotify.com/track/4UiG03uA9aGBbiLWAYVPfk"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 1508760,
       "name": "Porgy And Bess Suite",
       "url": "https://open.spotify.com/track/14K0p1ZdxWJnS0GU1z98lu"
@@ -3579,6 +3579,40 @@
     },
     {
       "album": {
+        "name": "Gershwin: Porgy and Bess",
+        "url": "https://open.spotify.com/album/6HHFPXWnEWmUsTduiCeYGb"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Cynthia Clarey",
+          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
+        },
+        {
+          "name": "Dallas Symphony Chorus",
+          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
+        },
+        {
+          "name": "Dallas Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
+        },
+        {
+          "name": "Andrew Litton",
+          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83306,
+      "name": "Porgy and Bess, Act II Scene 2: Shame on All You Sinners",
+      "url": "https://open.spotify.com/track/1koCxA9IxlNLEHYuAWM45d"
+    },
+    {
+      "album": {
         "name": "Grof\u00e9: Grand Canyon Suite/Gershwin: Porgy & Bess",
         "url": "https://open.spotify.com/album/0DVAMwBCbYJbKqq6cB1BSF"
       },
@@ -3602,40 +3636,6 @@
       "duration_ms": 1434040,
       "name": "Porgy and Bess, Symphonic Picture (Arr. Robert Russell Bennett)",
       "url": "https://open.spotify.com/track/6rS85lyKUXcJE5fBMze00w"
-    },
-    {
-      "album": {
-        "name": "Gershwin: Porgy and Bess",
-        "url": "https://open.spotify.com/album/6HHFPXWnEWmUsTduiCeYGb"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Andrew Litton",
-          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
-        },
-        {
-          "name": "Cynthia Clarey",
-          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
-        },
-        {
-          "name": "Dallas Symphony Chorus",
-          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
-        },
-        {
-          "name": "Dallas Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
-        }
-      ],
-      "date_added": "2024-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 83306,
-      "name": "Porgy and Bess: Act II Scene 2: Shame On All You Sinners",
-      "url": "https://open.spotify.com/track/1koCxA9IxlNLEHYuAWM45d"
     },
     {
       "album": {

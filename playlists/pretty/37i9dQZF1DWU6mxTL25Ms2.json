@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 42759,
+  "num_followers": 43023,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,38 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 26",
+        "url": "https://open.spotify.com/album/6FO7lWwH7dD6bUjw9AdYtO"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30db\u30ce\u30d6\u30eb\u30dc\u30f3 (CV. \u9577\u8c37\u5ddd\u80b2\u7f8e)",
+          "url": "https://open.spotify.com/artist/4640XyVEeNXwxenpk8Ilmt"
+        }
+      ],
+      "duration_ms": 220017,
+      "name": "Absolute Faith",
+      "url": "https://open.spotify.com/track/4dnhYhIOjL6EeEQF47uxnW"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
+        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
+          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "ZOKZOK",
+      "url": "https://open.spotify.com/track/0MLZzXaSvO4VMfYt7b42QA"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
         "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
       },
@@ -452,65 +484,13 @@
       },
       "artists": [
         {
-          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
-          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
+          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
+          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
         }
       ],
-      "duration_ms": 178213,
-      "name": "ZOKZOK",
-      "url": "https://open.spotify.com/track/0MLZzXaSvO4VMfYt7b42QA"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 26",
-        "url": "https://open.spotify.com/album/6FO7lWwH7dD6bUjw9AdYtO"
-      },
-      "artists": [
-        {
-          "name": "\u30df\u30db\u30ce\u30d6\u30eb\u30dc\u30f3 (CV. \u9577\u8c37\u5ddd\u80b2\u7f8e)",
-          "url": "https://open.spotify.com/artist/4640XyVEeNXwxenpk8Ilmt"
-        }
-      ],
-      "duration_ms": 220017,
-      "name": "Absolute Faith",
-      "url": "https://open.spotify.com/track/4dnhYhIOjL6EeEQF47uxnW"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u30bd\u30b7\u30c6\u30df\u30f3\u30ca\u30ce",
-        "url": "https://open.spotify.com/album/2j1gCR0wIX4N0l7L2V1Z8L"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
-          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
-        },
-        {
-          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
-          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
-        },
-        {
-          "name": "\u30b5\u30c8\u30ce\u30af\u30e9\u30a6\u30f3 (CV. \u9234\u4ee3\u7d17\u5f13)",
-          "url": "https://open.spotify.com/artist/1VBUFMoigX0eL9udp7qWaQ"
-        },
-        {
-          "name": "\u30b7\u30e5\u30f4\u30a1\u30eb\u30b0\u30e9\u30f3 (CV. \u590f\u5409\u3086\u3046\u3053)",
-          "url": "https://open.spotify.com/artist/2xgEy3RyCYHdv0nydyx8G5"
-        },
-        {
-          "name": "\u30b5\u30a6\u30f3\u30ba\u30aa\u30d6\u30a2\u30fc\u30b9 (CV. MAKIKO)",
-          "url": "https://open.spotify.com/artist/3UHScSxAth9ESGMe9d3ysP"
-        },
-        {
-          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
-          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "\u30bd\u30b7\u30c6\u30df\u30f3\u30ca\u30ce",
-      "url": "https://open.spotify.com/track/4X4edL0cbyRrvV5oa17HQC"
+      "duration_ms": 143533,
+      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
+      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -551,18 +531,38 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
-        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
+        "name": "\u30bd\u30b7\u30c6\u30df\u30f3\u30ca\u30ce",
+        "url": "https://open.spotify.com/album/2j1gCR0wIX4N0l7L2V1Z8L"
       },
       "artists": [
         {
-          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
-          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
+          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
+          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
+        },
+        {
+          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
+        },
+        {
+          "name": "\u30b5\u30c8\u30ce\u30af\u30e9\u30a6\u30f3 (CV. \u9234\u4ee3\u7d17\u5f13)",
+          "url": "https://open.spotify.com/artist/1VBUFMoigX0eL9udp7qWaQ"
+        },
+        {
+          "name": "\u30b7\u30e5\u30f4\u30a1\u30eb\u30b0\u30e9\u30f3 (CV. \u590f\u5409\u3086\u3046\u3053)",
+          "url": "https://open.spotify.com/artist/2xgEy3RyCYHdv0nydyx8G5"
+        },
+        {
+          "name": "\u30b5\u30a6\u30f3\u30ba\u30aa\u30d6\u30a2\u30fc\u30b9 (CV. MAKIKO)",
+          "url": "https://open.spotify.com/artist/3UHScSxAth9ESGMe9d3ysP"
+        },
+        {
+          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
         }
       ],
-      "duration_ms": 143533,
-      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
-      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
+      "duration_ms": 234346,
+      "name": "\u30bd\u30b7\u30c6\u30df\u30f3\u30ca\u30ce",
+      "url": "https://open.spotify.com/track/4X4edL0cbyRrvV5oa17HQC"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
-        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "GIRLS' LEGEND U",
-      "url": "https://open.spotify.com/track/33iH7zq5RFLiBPDWnVo0ID"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
         "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 299520,
       "name": "Dear My Dream",
       "url": "https://open.spotify.com/track/1A5VAbQpjVRyK9xJfIBSem"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
+        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "GIRLS' LEGEND U",
+      "url": "https://open.spotify.com/track/33iH7zq5RFLiBPDWnVo0ID"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
-        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "We are DREAMERS!!",
-      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
         "name": "GSK\u2606",
         "url": "https://open.spotify.com/album/4FaBBSTwrlOqZvXiO6PHps"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164320,
       "name": "GSK\u2606",
       "url": "https://open.spotify.com/track/0C3y5mWUxzF5edW4z5pLxJ"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
+        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "We are DREAMERS!!",
+      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -907,8 +907,8 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
-        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 21",
+        "url": "https://open.spotify.com/album/5PgZAFToXBqDL6CQCXVruf"
       },
       "artists": [
         {
@@ -924,29 +924,77 @@
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
         },
         {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
+        },
+        {
           "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)",
           "url": "https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE"
         },
         {
-          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
-          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
+          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
         },
         {
-          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
-          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
+          "name": "\u30c0\u30a4\u30ef\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8 (CV. \u6728\u6751\u5343\u54b2)",
+          "url": "https://open.spotify.com/artist/0yaxRS7sYtdmwpNIyA1UuR"
         },
         {
-          "name": "\u99ff\u5ddd\u305f\u3065\u306a (CV. \u85e4\u4e95\u3086\u304d\u3088)",
-          "url": "https://open.spotify.com/artist/5PjZxlvCrvumbkjIAOyAL8"
+          "name": "\u30b0\u30e9\u30b9\u30ef\u30f3\u30c0\u30fc (CV. \u524d\u7530\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG"
         },
         {
-          "name": "\u5b9f\u6cc1\u306e\u8d64\u5742\u3055\u3093 (CV. \u660e\u5742\u8061\u7f8e)",
-          "url": "https://open.spotify.com/artist/2JUfVY4enDEMZ78DHlGTbr"
+          "name": "\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2"
+        },
+        {
+          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
+        },
+        {
+          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
+        },
+        {
+          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
+          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
+        },
+        {
+          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
+        },
+        {
+          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
+          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
+        },
+        {
+          "name": "\u30de\u30c1\u30ab\u30cd\u30d5\u30af\u30ad\u30bf\u30eb (CV. \u65b0\u7530\u3072\u3088\u308a)",
+          "url": "https://open.spotify.com/artist/4eOsojkADYun0RZX4I7Td1"
+        },
+        {
+          "name": "\u30df\u30b9\u30bf\u30fc\u30b7\u30fc\u30d3\u30fc (CV. \u5929\u6d77\u7531\u68a8\u5948)",
+          "url": "https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr"
+        },
+        {
+          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
+        },
+        {
+          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
+          "url": "https://open.spotify.com/artist/3fNRzjn4pun1Jj81oMftq5"
+        },
+        {
+          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
+        },
+        {
+          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
+          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
         }
       ],
-      "duration_ms": 211880,
-      "name": "\u8d70\u308c\u30a6\u30de\u5a18",
-      "url": "https://open.spotify.com/track/56i47wuMuHeiwwtcNvoMVL"
+      "duration_ms": 245760,
+      "name": "\u3069\u3069\u3063\u3068\u512a\u52dd\uff01\u5927\u611f\u8b1d\u796d\uff01\uff01\uff01",
+      "url": "https://open.spotify.com/track/69sziaoyqoi5ghM3ePIQWP"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1083,8 +1131,8 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 21",
-        "url": "https://open.spotify.com/album/5PgZAFToXBqDL6CQCXVruf"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 06",
+        "url": "https://open.spotify.com/album/1DItdfNHZwHM4QKxRllEvz"
       },
       "artists": [
         {
@@ -1100,77 +1148,29 @@
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
         },
         {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        },
-        {
           "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)",
           "url": "https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE"
         },
         {
-          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
+          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
         },
         {
-          "name": "\u30c0\u30a4\u30ef\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8 (CV. \u6728\u6751\u5343\u54b2)",
-          "url": "https://open.spotify.com/artist/0yaxRS7sYtdmwpNIyA1UuR"
+          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
         },
         {
-          "name": "\u30b0\u30e9\u30b9\u30ef\u30f3\u30c0\u30fc (CV. \u524d\u7530\u73b2\u5948)",
-          "url": "https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG"
+          "name": "\u99ff\u5ddd\u305f\u3065\u306a (CV. \u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/5PjZxlvCrvumbkjIAOyAL8"
         },
         {
-          "name": "\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)",
-          "url": "https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2"
-        },
-        {
-          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
-        },
-        {
-          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
-        },
-        {
-          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
-          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
-        },
-        {
-          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
-        },
-        {
-          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
-          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
-        },
-        {
-          "name": "\u30de\u30c1\u30ab\u30cd\u30d5\u30af\u30ad\u30bf\u30eb (CV. \u65b0\u7530\u3072\u3088\u308a)",
-          "url": "https://open.spotify.com/artist/4eOsojkADYun0RZX4I7Td1"
-        },
-        {
-          "name": "\u30df\u30b9\u30bf\u30fc\u30b7\u30fc\u30d3\u30fc (CV. \u5929\u6d77\u7531\u68a8\u5948)",
-          "url": "https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr"
-        },
-        {
-          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
-        },
-        {
-          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
-          "url": "https://open.spotify.com/artist/3fNRzjn4pun1Jj81oMftq5"
-        },
-        {
-          "name": "\u30b5\u30c8\u30ce\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 (CV. \u7acb\u82b1\u65e5\u83dc)",
-          "url": "https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0"
-        },
-        {
-          "name": "\u30ad\u30bf\u30b5\u30f3\u30d6\u30e9\u30c3\u30af (CV. \u77e2\u91ce\u5983\u83dc\u559c)",
-          "url": "https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS"
+          "name": "\u5b9f\u6cc1\u306e\u8d64\u5742\u3055\u3093 (CV. \u660e\u5742\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/2JUfVY4enDEMZ78DHlGTbr"
         }
       ],
-      "duration_ms": 245760,
-      "name": "\u3069\u3069\u3063\u3068\u512a\u52dd\uff01\u5927\u611f\u8b1d\u796d\uff01\uff01\uff01",
-      "url": "https://open.spotify.com/track/69sziaoyqoi5ghM3ePIQWP"
+      "duration_ms": 211880,
+      "name": "\u8d70\u308c\u30a6\u30de\u5a18",
+      "url": "https://open.spotify.com/track/56i47wuMuHeiwwtcNvoMVL"
     },
     {
       "added_at": "2025-07-02 09:23:24",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-07-02 09:23:24",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
+        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
+          "url": "https://open.spotify.com/artist/32IUvFgNsgnlkJmEU3OkxG"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Exercise the Right",
+      "url": "https://open.spotify.com/track/3T8u1Vk2gt9Sz6aSUXwfUh"
+    },
+    {
+      "added_at": "2025-07-02 09:23:24",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 250493,
       "name": "\u5f69 Phantasia",
       "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
-    },
-    {
-      "added_at": "2025-07-02 09:23:24",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
-          "url": "https://open.spotify.com/artist/32IUvFgNsgnlkJmEU3OkxG"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Exercise the Right",
-      "url": "https://open.spotify.com/track/3T8u1Vk2gt9Sz6aSUXwfUh"
     },
     {
       "added_at": "2025-07-02 09:23:24",

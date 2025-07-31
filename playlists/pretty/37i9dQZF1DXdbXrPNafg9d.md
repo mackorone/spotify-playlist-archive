@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Indigo De Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310,957 likes - 199 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,906 likes - 199 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 |
 | 199 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 |
 
-Snapshot ID: `aIfY9gAAAAASwI9BO8PLWIPoZq4iOmJv`
+Snapshot ID: `AAAAAHysHUORun8Gng/PO+AmbCrmc5rD`

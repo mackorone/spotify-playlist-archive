@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116521,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
+    },
+    {
+      "album": {
         "name": "Frequency Differ",
         "url": "https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ"
       },
@@ -3876,7 +3898,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 181394,
       "name": "Salty",
       "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"

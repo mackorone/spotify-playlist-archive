@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage \ud83e\udef6\ud83c\udffc Cover - TBMAUJ",
+  "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage \ud83e\udef6\ud83c\udffc Cover - Animal",
   "name": "Bollywood Central",
   "tracks": [
     {
@@ -870,7 +870,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 243484,
       "name": "Dhadak - Title Track",
       "url": "https://open.spotify.com/track/4SrVkrpAyykhbVnATbfvPV"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/5MnAi6ZF7cE8pAz7wYr9Ta"
@@ -1384,6 +1384,40 @@
       "duration_ms": 268463,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa"
+    },
+    {
+      "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/0ggJT2f5xy19NXiwG9IgUC"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322437,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/5XhurUCCVimKqszDzNXxoh"
     },
     {
       "album": {
@@ -2980,7 +3014,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
@@ -4334,7 +4368,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon",
       "url": "https://open.spotify.com/track/5y5xlcoIUjRrrb8W3O5ohk"
@@ -4392,6 +4426,32 @@
       "duration_ms": 261974,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di"
+    },
+    {
+      "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318217,
+      "name": "Tum Ho Toh",
+      "url": "https://open.spotify.com/track/5nMv7iOp4NxJaWx0t8361M"
     },
     {
       "album": {

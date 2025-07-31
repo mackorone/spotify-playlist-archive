@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73708,
+  "num_followers": 73709,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-07-27 16:00:10",
       "album": {
-        "name": "Running Boy",
-        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "Running Boy",
-      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
-    },
-    {
-      "added_at": "2025-07-27 16:00:10",
-      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 142659,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
+    },
+    {
+      "added_at": "2025-07-27 16:00:10",
+      "album": {
+        "name": "Running Boy",
+        "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "Running Boy",
+      "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
     },
     {
       "added_at": "2025-07-27 16:00:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-27 16:00:10",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
-    },
-    {
-      "added_at": "2025-07-27 16:00:10",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2025-07-27 16:00:10",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
     },
     {
       "added_at": "2025-07-27 16:00:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-07-27 16:00:10",
       "album": {
-        "name": "Lose You To Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Lose You To Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
-    },
-    {
-      "added_at": "2025-07-27 16:00:10",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 249066,
       "name": "Sitting Room",
       "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
+    },
+    {
+      "added_at": "2025-07-27 16:00:10",
+      "album": {
+        "name": "Lose You To Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Lose You To Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
     },
     {
       "added_at": "2025-07-27 16:00:10",

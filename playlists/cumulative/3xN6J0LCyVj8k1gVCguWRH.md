@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,201 songs - 12 day 3 hr 0 min
+5,204 songs - 12 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [All Good](https://open.spotify.com/track/0pgMDJVS6FAlLEHublIRo8) | [Jack West](https://open.spotify.com/artist/1btX8gOQ7MhBW3NWnhoOhl) | [Numb](https://open.spotify.com/album/2QKZTEKqARLTaIjoJFxVft) | 3:00 | 2022-05-25 | 2022-06-12 |
 | [All I Care](https://open.spotify.com/track/74RdBxzVT08EfhpD8zSdxs) | [Adixia](https://open.spotify.com/artist/1Cv4ti335JvkSfpuckOrAi), [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa) | [All I Care](https://open.spotify.com/album/5Irt4kBJVZ0K013X8vMJYw) | 2:21 | 2023-08-18 | 2023-09-26 |
 | [All I Got.](https://open.spotify.com/track/3qV9ura2RdYbOURK6Bc4ck) | [Matz.](https://open.spotify.com/artist/0nuiC62AVIETXa98JOADPe) | [All I Got.](https://open.spotify.com/album/1lf6hhcEvP0caskIz8FAEd) | 2:42 | 2022-07-05 | 2022-07-22 |
+| [all i need](https://open.spotify.com/track/1zvGo8mzI4M0eAvqJcxoTE) | [DvDx](https://open.spotify.com/artist/3I82hW38FyHDbJXOmdH1h0) | [said2u](https://open.spotify.com/album/467PFkk4iTZMkoH6jk1igd) | 2:09 | 2025-07-30 |  |
 | [All I Need is a Miracle](https://open.spotify.com/track/7wZSaV4giayw2sk1U81kxK) | [Mirko Boni](https://open.spotify.com/artist/2gAQpTDcT1SDJpOXAUzdG2), [teak](https://open.spotify.com/artist/0ehSu19bmdJiJyUKIez6yQ) | [All I Need is a Miracle](https://open.spotify.com/album/1yGH7QsNTxkXHrwsie2hau) | 4:07 | 2021-01-08 | 2021-01-23 |
 | [All I Need, Part Ii](https://open.spotify.com/track/2h8tsbcNyZBPRaFeC4JLdT) | [Dylan Meek](https://open.spotify.com/artist/4Awh8qSVQ6Bd5f5U7FbQgH) | [All I Need](https://open.spotify.com/album/22dJdXP8kSdGY6YYlxdECO) | 1:57 | 2022-03-28 | 2022-04-14 |
 | [All I See Is You](https://open.spotify.com/track/2tE6D71ioWfyT4InadK3jS) | [Rick Lee Vinson Group](https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq) | [All I See Is You](https://open.spotify.com/album/3nt6Ml2mxZtW2sZn7FT1XQ) | 3:06 | 2023-06-23 | 2023-07-14 |
@@ -1550,6 +1551,7 @@
 | [Fireflies](https://open.spotify.com/track/7BnbPE2IBecaGxkugX3WsW) | [Songs of Solomon](https://open.spotify.com/artist/7aYhaJ4WASFumNOpfA9Eyy) | [Fireflies](https://open.spotify.com/album/1xNQRRdCmJjrdCkSxcStDV) | 2:49 | 2025-04-23 | 2025-05-05 |
 | [Firefly](https://open.spotify.com/track/0pn19uG6B1oU4YOOYe63O2) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Firefly](https://open.spotify.com/album/6s9erImz1DedV4pU7LFlq4) | 2:55 | 2024-10-04 | 2024-11-07 |
 | [First](https://open.spotify.com/track/61e6RuiuvaUwmpC0oNLgmI) | [Jungle House Records](https://open.spotify.com/artist/6IVCwIzr2nwE3OTildQtFx) | [First](https://open.spotify.com/album/3FBnEjGoGX8MgV2XInKzHJ) | 2:53 | 2020-12-25 | 2021-01-09 |
+| [First Class \(Esperame\)](https://open.spotify.com/track/35L74hFZtL2i9VGxzhXPsA) | [BrakaBeats](https://open.spotify.com/artist/3P3dfmAlq6T6UCcSRzsKje) | [First Class \(Esperame\)](https://open.spotify.com/album/58lbmEg3NM8YnpH5ODi8SQ) | 3:55 | 2025-07-30 |  |
 | [First in Line](https://open.spotify.com/track/3iG6x2yVIUc7Qzn825U7xW) | [Partial Sum](https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w) | [First in Line](https://open.spotify.com/album/21ActYFVm8KqcLvZDFbNMd) | 2:47 | 2022-02-11 | 2022-05-08 |
 | [First Time In Forever](https://open.spotify.com/track/5xuqO4eaU92gzXfj1KEuiA) | [Mars Lasar](https://open.spotify.com/artist/1Y5juAYDcY3pv167EIBwlk), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [First Time In Forever](https://open.spotify.com/album/4faselaJ3EgwSoB1zIRG0I) | 3:47 | 2024-12-31 | 2025-01-11 |
 | [Fishbowl](https://open.spotify.com/track/5iFfqKG6ZLNO0twq9Bpl76) | [King Raw Dogg](https://open.spotify.com/artist/0UvojalTPmwLKuuT4WAfeD) | [Fishbowl](https://open.spotify.com/album/2hzmn5vtLvcSKMOCQuzuQF) | 2:30 | 2021-04-10 | 2021-04-26 |
@@ -2798,6 +2800,7 @@
 | [Magic Pill](https://open.spotify.com/track/17H8u706U4K9YR3EYvyvkK) | [The Extravagants](https://open.spotify.com/artist/6syW7OtD2ZlGhukm0VdoZG) | [Magic Pill](https://open.spotify.com/album/6OfjKVylwHEFeBPJM74PT5) | 3:33 | 2023-12-20 | 2023-12-30 |
 | [Magic Spell](https://open.spotify.com/track/4YPvRGHrTYl9KsJU7dO1Kz) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Introducing… The Mellons!](https://open.spotify.com/album/0yEL6rEcdxIevWopi05S0Q) | 3:29 | 2022-10-21 | 2022-11-08 |
 | [Magic to You](https://open.spotify.com/track/6Z3TRzjFNMWfbwbaiH3Kr6) | [Vanitary](https://open.spotify.com/artist/4jxp3P5nnCGVl0lKbBKl8X) | [Magic to You](https://open.spotify.com/album/1pJJ3UDkyVfZImu91HlsAY) | 2:55 | 2024-08-10 | 2024-08-21 |
+| [Magnet](https://open.spotify.com/track/2mpubJqj1DMfBpWt4WoOgb) | [Masha](https://open.spotify.com/artist/2wrRyeLmp8wBTYGKm1rDGX) | [Magnet](https://open.spotify.com/album/70JSZEUTgF6Ro14Rvd1g7C) | 3:06 | 2025-07-31 |  |
 | [magnificent](https://open.spotify.com/track/0GXftM7nVnGvlpr6upNKJn) | [leegxn](https://open.spotify.com/artist/1eWgGolhaiZeJ0GcbwOtlW) | [magnificent](https://open.spotify.com/album/3wtklTfIVLlypPJXA7RZA1) | 3:28 | 2024-05-31 | 2024-06-11 |
 | [MAIN CHARACTER ENERGY](https://open.spotify.com/track/2BRkBHmffDa79diDbvUGIQ) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [MAIN CHARACTER ENERGY](https://open.spotify.com/album/6H5a4ZagV38RrPGVhQU251) | 2:30 | 2025-01-04 | 2025-02-04 |
 | [Make Believe](https://open.spotify.com/track/7JRC1lXT3fdZUCcgKu71pG) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Koonsi](https://open.spotify.com/artist/7iWrvuCq6O8ovVULhP14Ak) | [Make Believe](https://open.spotify.com/album/4BuqGZDPiGWAmMwp2BHfME) | 3:36 | 2019-12-10 | 2019-12-17 |

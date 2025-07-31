@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,718 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,706 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 95 | [MADELINE](https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 2:59 |
 | 96 | [living like this \(delusional\)](https://open.spotify.com/track/2kyH00HDz4H9q6Ky9UalDM) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [KINTSUGI \(Healing\)](https://open.spotify.com/album/442giHyzL62ilNG3vaeRsZ) | 3:19 |
 | 97 | [Shadowless Dance](https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [Shadowless Dance](https://open.spotify.com/album/73xj05nSCflpkAWZoHba2y) | 2:52 |
-| 98 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
-| 99 | [Better Run](https://open.spotify.com/track/2suxNr50PEr7O44dsTuF5S) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Better Run](https://open.spotify.com/album/2omrnJTVqNLfM8Wy18fbBQ) | 3:42 |
+| 98 | [Boohoo](https://open.spotify.com/track/02NMxmTOhiZkptYAyQBu1R) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Boohoo](https://open.spotify.com/album/4sYsmIz4EHqCf2o87GbjvE) | 2:00 |
+| 99 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
+| 100 | [Better Run](https://open.spotify.com/track/2suxNr50PEr7O44dsTuF5S) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Better Run](https://open.spotify.com/album/2omrnJTVqNLfM8Wy18fbBQ) | 3:42 |
 
-Snapshot ID: `aIJhwwAAAADIEl9W2WXmMBKiEm1roW+P`
+Snapshot ID: `AAAAAIlVhF1bZ3aGrvC/Wu2T7gf57ssQ`

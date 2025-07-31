@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 5840,
+  "num_followers": 5841,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABliEv3fJxwHKV1jKcGWqWL",
+  "snapshot_id": "aIgPAAAAAAC2A2Q5vm5ygmNKt1uZS6Rk",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Secure",
-      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 180000,
       "name": "Giveaway",
       "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Secure",
+      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Only Love Was Enough",
-        "url": "https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 227632,
-      "name": "Biggie Man",
-      "url": "https://open.spotify.com/track/2kbzej9CB5YaFbmU9xDo9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agege",
         "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 196257,
       "name": "Agege",
       "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If Only Love Was Enough",
+        "url": "https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 227632,
+      "name": "Biggie Man",
+      "url": "https://open.spotify.com/track/2kbzej9CB5YaFbmU9xDo9L"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marleba The EP",
-        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Drey Spencer",
-          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
-        }
-      ],
-      "duration_ms": 144993,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marleba The EP",
+        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Drey Spencer",
+          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
+        }
+      ],
+      "duration_ms": 144993,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     },
     {
       "added_at": null,

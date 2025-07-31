@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,206 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,219 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 79 | [Walk \(feat\. Dashaun Wesley\)](https://open.spotify.com/track/16FZL2HEkJzvZTVnOvNXUa) | [Skyshaker](https://open.spotify.com/artist/0AkvLNa5ONu9VWoREfOwqo), [Dashaun Wesley](https://open.spotify.com/artist/6ZlsfHbSCDBAisAlLqRF1G) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:52 |
 | 80 | [Koppi's Elevator \~Bitch You Twerk, I Vogue\~](https://open.spotify.com/track/5hf7MlRwwZfs8nw3XqeOpU) | [Koppi Mizrahi](https://open.spotify.com/artist/78fCa4sp8Kkan0M6aIeZnS) | [Koppi's Elevator \~Bitch You Twerk, I Vogue\~](https://open.spotify.com/album/050n3asPqJ1Znuw15ofg5u) | 2:53 |
 
-Snapshot ID: `aDktUwAAAAATBn8rLfskdw2TThaeQWLg`
+Snapshot ID: `AAAAABPJHeKWdbpIbWQnzdXL3kYoxwAj`

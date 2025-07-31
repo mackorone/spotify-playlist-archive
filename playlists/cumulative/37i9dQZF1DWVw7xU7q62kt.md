@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-583 songs - 1 day 2 hr 10 min
+584 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Hand](https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Hand / Kanji](https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj) | 2:13 | 2025-07-11 |  |
 | [Hasta Siempre](https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Hasta Siempre](https://open.spotify.com/album/4wvIW65Wlt4odSfZJZeIfZ) | 2:50 | 2025-05-16 |  |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
+| [Headlights](https://open.spotify.com/track/0E4XPubqUlPIihiYi4pgRb) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Cozy](https://open.spotify.com/album/3RsSbsa04lZcRND0tWG1IC) | 2:06 | 2025-07-25 |  |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 | 2024-10-03 |
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 | 2025-04-12 |
 | [Hidden Gems](https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Sedimental](https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO) | 2:37 | 2024-06-07 | 2025-05-17 |
@@ -312,7 +313,7 @@
 | [Mellow Out](https://open.spotify.com/track/0XcCLsZqK9f9g57BKRn9JU) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [Mellow Out](https://open.spotify.com/album/7KAXbOzp0OhQxwtjw4xIJw) | 2:26 | 2025-04-11 | 2025-05-17 |
 | [Melted](https://open.spotify.com/track/6Fw30XaRdMsdihm4UwYmrn) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Mandela Effect](https://open.spotify.com/album/5F796c2Se6tjUfvA3og3Bz) | 2:08 | 2025-04-11 |  |
 | [Midnight Bath](https://open.spotify.com/track/2inlGvaAiaK07TqGdoGwt6) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Midnight Bath](https://open.spotify.com/album/5KyO2FXgxIjhsIVZDZhSNc) | 2:13 | 2025-03-22 |  |
-| [Midnight Blue](https://open.spotify.com/track/3pKMgBB1ekswonKouOA9Vq) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Midnight Blue](https://open.spotify.com/album/5ideol9Vlwaj7p8g0H31za) | 2:01 | 2025-06-06 |  |
+| [Midnight Blue](https://open.spotify.com/track/3pKMgBB1ekswonKouOA9Vq) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Midnight Blue](https://open.spotify.com/album/5ideol9Vlwaj7p8g0H31za) | 2:01 | 2025-06-06 | 2025-07-31 |
 | [Midnight Groove](https://open.spotify.com/track/4C4o9gN2yrifR5k7FIsDze) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Storytelling](https://open.spotify.com/album/08Y9RaMwqw9G2kv9xW7NZU) | 2:00 | 2024-09-06 |  |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 | 2025-04-12 |
 | [Milan](https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Milan](https://open.spotify.com/album/1ArWhIgs9AndfjneCPIPJj) | 1:52 | 2024-10-11 |  |

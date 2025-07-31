@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,683 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,719 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 46 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 |
 | 47 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 |
 | 48 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 |
-| 49 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 |
-| 50 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
+| 49 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 |
+| 50 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 |
 | 51 | [As My Old Man Always Said](https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:23 |
 | 52 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
 | 53 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 70 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 |
 | 71 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 |
 | 72 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
-| 73 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
+| 73 | [C'est Plus Comme Avant \- Version Acoustique](https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [C'est Plus Comme Avant \(Version Acoustique\)](https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA) | 2:46 |
 | 74 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 |
-| 75 | [C'est Plus Comme Avant \- Version Acoustique](https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [C'est Plus Comme Avant \(Version Acoustique\)](https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA) | 2:46 |
+| 75 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
 | 76 | [it takes 2](https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [it takes 2](https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn) | 3:40 |
 | 77 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 |
 | 78 | [Montréal \- Avec Louis\-Jean Cormier](https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Montréal \(Avec Louis\-Jean Cormier\)](https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM) | 4:00 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 91 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 |
 | 92 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 |
 | 93 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 |
-| 94 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
-| 95 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 |
+| 94 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 |
+| 95 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
 | 96 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
 | 97 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 |
 | 98 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |

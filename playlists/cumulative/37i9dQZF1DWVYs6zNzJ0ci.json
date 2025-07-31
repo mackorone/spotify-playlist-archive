@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Pure Negga",
+  "description": "Vibraciones rastafari en espa\u00f1ol con los 100 millones de streams de \"High\" de Rawayana \ud83c\uddfb\ud83c\uddea",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 246600,
       "name": "A Los Ojos",
       "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 245737,
       "name": "Amores Sinceros",
       "url": "https://open.spotify.com/track/6pbpRmaYJGqo5H8UYEtOvQ"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 222421,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 189150,
       "name": "Big Combination",
       "url": "https://open.spotify.com/track/75AOtxECnlRYLMiW5VLoDP"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 215908,
       "name": "CAHUITA",
       "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 205451,
       "name": "Caminante",
       "url": "https://open.spotify.com/track/2WIYYgfanuLj3Pped97mGf"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 227265,
       "name": "Como Un Volc\u00e1n",
       "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 157427,
       "name": "Dance Forever",
       "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
@@ -2251,6 +2251,32 @@
     },
     {
       "album": {
+        "name": "El Curandero",
+        "url": "https://open.spotify.com/album/2r9FHOtGmhEFV88vfwCFt5"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "El Curandero",
+      "url": "https://open.spotify.com/track/6Gs3BpUh7sSv4yjOWXDy63"
+    },
+    {
+      "album": {
         "name": "Alma Zen",
         "url": "https://open.spotify.com/album/5czi0Oatq5qgaF4TTlnNvt"
       },
@@ -2400,7 +2426,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 204440,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
@@ -2608,7 +2634,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 318915,
       "name": "Entre Sue\u00f1os y Ra\u00edces",
       "url": "https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ"
@@ -2812,6 +2838,28 @@
       "duration_ms": 184615,
       "name": "Fotos\u00edntesis",
       "url": "https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g"
+    },
+    {
+      "album": {
+        "name": "Fragmentos del Alma",
+        "url": "https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321379,
+      "name": "Fragmentos del Alma",
+      "url": "https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ"
     },
     {
       "album": {
@@ -3168,7 +3216,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 286714,
       "name": "High",
       "url": "https://open.spotify.com/track/2vg16RThWkdrrohdk4wq25"
@@ -3734,7 +3782,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
@@ -4298,7 +4346,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 175183,
       "name": "Lo Sabe Dios",
       "url": "https://open.spotify.com/track/1ZNGqZGgVPDsbX0jYHHe1J"
@@ -5046,7 +5094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 199071,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK"
@@ -5192,6 +5240,28 @@
       "duration_ms": 195348,
       "name": "Mucha Experiencia - Su Reggaeton Mix",
       "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
+    },
+    {
+      "album": {
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
     },
     {
       "album": {
@@ -5944,7 +6014,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 251878,
       "name": "Puedo esperarte",
       "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
@@ -6313,6 +6383,28 @@
     },
     {
       "album": {
+        "name": "Resiste",
+        "url": "https://open.spotify.com/album/6nFGKoDThOrTVuBOzEnWM7"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        },
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Resiste",
+      "url": "https://open.spotify.com/track/14ljUE4u1VaoypaUp8wKpf"
+    },
+    {
+      "album": {
         "name": "Sig Ragga",
         "url": "https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r"
       },
@@ -6430,7 +6522,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 276101,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/4MPN2y9c3jwxM0kuqlV80r"
@@ -6688,7 +6780,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
@@ -6710,6 +6802,28 @@
       "duration_ms": 248780,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
     },
     {
       "album": {
@@ -7510,7 +7624,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
@@ -7572,6 +7686,28 @@
       "duration_ms": 288386,
       "name": "Tu Meta",
       "url": "https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME"
+    },
+    {
+      "album": {
+        "name": "Tu Presencia",
+        "url": "https://open.spotify.com/album/759hFA2ZJM27HKYvBUjccm"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227987,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/50uhtfYgi0my9P3atQkJr2"
     },
     {
       "album": {
@@ -7762,6 +7898,28 @@
       "duration_ms": 159984,
       "name": "Una Vaina",
       "url": "https://open.spotify.com/track/1W7j0UqTRmZvEDtWvFG1oi"
+    },
+    {
+      "album": {
+        "name": "Uno atr\u00e1s del otro",
+        "url": "https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Uno atr\u00e1s del otro",
+      "url": "https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF"
     },
     {
       "album": {
@@ -7958,7 +8116,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 294266,
       "name": "Viento",
       "url": "https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW"

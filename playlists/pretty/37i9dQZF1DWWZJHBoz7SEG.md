@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > LATIN MAFIA en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,463 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,484 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [Que Vida](https://open.spotify.com/track/3RO659EBYj58jqFSaF0n1W) | [Christopher Uckermann](https://open.spotify.com/artist/1e1kozSBXGDbaKHnwApmFU) | [Que Vida](https://open.spotify.com/album/0aTvvOeGuFGkRXCEsTSvyc) | 3:15 |
 | 55 | [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 |
 
-Snapshot ID: `aIOWaAAAAADQ09zgnMJjrGzQpBr+GQhy`
+Snapshot ID: `AAAAANpe+7GUDpqa0Lx7abUQDD5RxzWE`

@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "GAME-O",
+        "url": "https://open.spotify.com/album/2qCok0WxYFPabb3rK8JqTt"
+      },
+      "artists": [
+        {
+          "name": "Ilya Gurin-Babayeu",
+          "url": "https://open.spotify.com/artist/6dx0SIZSjYH5sbqTQ1fItS"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312078,
+      "name": "Aqua Beast",
+      "url": "https://open.spotify.com/track/52SFP6FbRYlIdEEVeHho6m"
+    },
+    {
+      "album": {
         "name": "Archaeans",
         "url": "https://open.spotify.com/album/0bUfKOHhJQGTEn59ZatDFy"
       },
@@ -624,7 +642,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 285880,
       "name": "Arpeggi",
       "url": "https://open.spotify.com/track/5c30Lqd4zY3dpMK2usb9yU"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 169250,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2VuTl07AKztRIzYuA5iJVj"
@@ -2674,6 +2692,24 @@
       "duration_ms": 272327,
       "name": "Fern Flowers",
       "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
+    },
+    {
+      "album": {
+        "name": "Fi \u22f0 Sol",
+        "url": "https://open.spotify.com/album/0P0ugNHZL6uEpEiP1o1p4Y"
+      },
+      "artists": [
+        {
+          "name": "Bby Eco",
+          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Fi",
+      "url": "https://open.spotify.com/track/65oqnwkByGPqrSghuq3cEw"
     },
     {
       "album": {
@@ -2964,6 +3000,24 @@
       "duration_ms": 270546,
       "name": "Give It Your Choir - Instrumental",
       "url": "https://open.spotify.com/track/4spkJG5cndAWgMH1ESF1iQ"
+    },
+    {
+      "album": {
+        "name": "Glass Ankle",
+        "url": "https://open.spotify.com/album/0rfgKCRwuaEMWfdabcWPZJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Bhok",
+          "url": "https://open.spotify.com/artist/3o9ubU7gAFiK6xazR6YkTG"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Glass Ankle",
+      "url": "https://open.spotify.com/track/1Sfdy8WzMwWlQWtHSMi90M"
     },
     {
       "album": {
@@ -3902,7 +3956,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 227093,
       "name": "Lomas de Sotelo",
       "url": "https://open.spotify.com/track/0fLNVqhb5plIW4iSVfxAOP"

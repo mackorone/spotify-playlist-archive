@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > There's another 104 days of summer vacation to sing\-along to your favorite Disney Channel hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,530 likes - 188 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,523 likes - 188 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 | 187 | [You Are the Music in Me](https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:27 |
 | 188 | [On My Own](https://open.spotify.com/track/51xUartdwQzXmtrwHyXRVp) | [Brady](https://open.spotify.com/artist/4j6UbCmWa3sZAq8zmy1ZXd) | [Teen Beach 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P) | 2:25 |
 
-Snapshot ID: `aIN/3gAAAAC3dEgLeJI57eNST4ngWick`
+Snapshot ID: `AAAAAC7+4Yupgjxd5vKP3RwRm6E2TsVC`

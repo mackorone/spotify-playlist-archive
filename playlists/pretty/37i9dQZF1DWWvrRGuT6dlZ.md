@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: gels\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,031 likes - 94 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,032 likes - 94 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 93 | [悲離天使（來不及的遺憾\)\-公益電影《詭妻》推廣曲](https://open.spotify.com/track/0FDdCP7TY8s2A6KnNgoNzq) | [Man Hoi](https://open.spotify.com/artist/3smrhx3Did8YKfuez2L3PV) | [悲離天使（來不及的遺憾\)\-公益電影《詭妻》推廣曲](https://open.spotify.com/album/5PxLaTgqSTp8NRm5tAjnUn) | 3:58 |
 | 94 | [葡萄](https://open.spotify.com/track/77KGn00OEJ8gBiF7Dgukvn) | [Bell 傅熙雅](https://open.spotify.com/artist/1LsBLrIZjFwXgXmhUvroDS) | [葡萄](https://open.spotify.com/album/2nqjpTVXBet8O1dTdldo3S) | 3:55 |
 
-Snapshot ID: `aHm7RAAAAACLfykpKErzJm1fASUw746k`
+Snapshot ID: `aIoiWQAAAABBzMnA5VSFKwNA4rBM0Q4G`

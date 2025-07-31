@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Tyler, The Creator, Daniel Caesar, Aisha Retno, Fiq7, LBI利比, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 127 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,136 likes - 127 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 39 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 |
 | 40 | [Frame By Frame](https://open.spotify.com/track/3fX6nY85wiyX1QnxWg2h6u) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Frame By Frame](https://open.spotify.com/album/03KHXeojNDVdJJeW2MSPTi) | 2:50 |
 | 41 | [Lost Again](https://open.spotify.com/track/0UeohS3qVafhkfJ7noXHTF) | [Lincey](https://open.spotify.com/artist/3kiI4fDifi41CiXBcbE5QQ), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Lost Again](https://open.spotify.com/album/3KrHZgyq1dv2JvYAZX1roe) | 3:10 |
-| 42 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 42 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 43 | [Far Side of the Moon \(“Shine” Original Soundtrack\)](https://open.spotify.com/track/2mpBMLklFXjuEiZBFRTuVb) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [“Shine” Original Soundtrack](https://open.spotify.com/album/0VQgDWtqW3iQDUvcQOhEkF) | 2:45 |
 | 44 | [Warm](https://open.spotify.com/track/44nPoBCp9QN83fuGd6FFEO) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Warm \(Part I\)](https://open.spotify.com/album/52FqHls4aGM9TEzG2dKT5B) | 3:40 |
 | 45 | [Ghost On The Radio](https://open.spotify.com/track/3bL20Max8LSiBfyAs6GGwV) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Ghost On The Radio](https://open.spotify.com/album/31NWcwWqUHwCd4ARHgJvJR) | 2:32 |

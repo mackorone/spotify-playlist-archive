@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 114225,
+  "num_followers": 114224,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
     },
     {
+      "added_at": "2025-07-25 08:46:31",
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
+    },
+    {
       "added_at": "2025-07-04 12:11:41",
       "album": {
         "name": "Safe",
@@ -651,22 +667,6 @@
       "duration_ms": 141834,
       "name": "The Scene",
       "url": "https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP"
-    },
-    {
-      "added_at": "2025-07-25 08:46:31",
-      "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
     },
     {
-      "added_at": "2025-07-04 12:11:41",
+      "added_at": "2025-07-25 08:46:31",
       "album": {
-        "name": "Tacklebox",
-        "url": "https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ"
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
       },
       "artists": [
         {
-          "name": "Ruby Fields",
-          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
         }
       ],
-      "duration_ms": 192619,
-      "name": "Tacklebox",
-      "url": "https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA"
+      "duration_ms": 250268,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
-        "name": "resala - \u0631\u0633\u0627\u0644\u0629",
-        "url": "https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi"
-      },
-      "artists": [
-        {
-          "name": "nabeel - \u0646\u0628\u064a\u0644",
-          "url": "https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "resala - \u0631\u0633\u0627\u0644\u0629",
-      "url": "https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l"
-    },
-    {
-      "added_at": "2025-07-04 12:11:41",
-      "album": {
         "name": "I Lied, Amber",
         "url": "https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 211626,
       "name": "I Lied, Amber",
       "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
+    },
+    {
+      "added_at": "2025-07-04 12:11:41",
+      "album": {
+        "name": "Tacklebox",
+        "url": "https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ"
+      },
+      "artists": [
+        {
+          "name": "Ruby Fields",
+          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+        }
+      ],
+      "duration_ms": 192619,
+      "name": "Tacklebox",
+      "url": "https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
+        "name": "resala - \u0631\u0633\u0627\u0644\u0629",
+        "url": "https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi"
+      },
+      "artists": [
+        {
+          "name": "nabeel - \u0646\u0628\u064a\u0644",
+          "url": "https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "resala - \u0631\u0633\u0627\u0644\u0629",
+      "url": "https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l"
+    },
+    {
+      "added_at": "2025-07-04 12:11:41",
+      "album": {
         "name": "The Milkman",
         "url": "https://open.spotify.com/album/5Jh1Rvb07bacdYGlDzqVgh"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 177000,
       "name": "The Milkman",
       "url": "https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7"
-    },
-    {
-      "added_at": "2025-07-25 08:46:31",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
-      },
-      "artists": [
-        {
-          "name": "sleepazoid",
-          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
-        }
-      ],
-      "duration_ms": 250268,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
-    },
-    {
-      "added_at": "2025-07-04 12:11:41",
-      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "added_at": "2025-07-04 12:11:41",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/4aMzuKPJXe9OwYXeUBpdVU"
-      },
-      "artists": [
-        {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
-        }
-      ],
-      "duration_ms": 170560,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/5lpINpxGvNUNB96j2qLQ5a"
-    },
-    {
-      "added_at": "2025-07-04 12:11:41",
-      "album": {
         "name": "I Used To",
         "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/4aMzuKPJXe9OwYXeUBpdVU"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
         }
       ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+      "duration_ms": 170560,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/5lpINpxGvNUNB96j2qLQ5a"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -1307,6 +1291,22 @@
       "duration_ms": 175680,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
+    },
+    {
+      "added_at": "2025-07-04 12:11:41",
+      "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
     },
     {
       "added_at": "2025-07-04 12:11:41",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-07-04 12:11:41",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2025-07-04 12:11:41",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 237410,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
+    },
+    {
+      "added_at": "2025-07-04 12:11:41",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2025-07-04 12:11:41",

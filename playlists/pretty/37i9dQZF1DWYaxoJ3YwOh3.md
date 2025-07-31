@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,313 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,371 likes - 104 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 103 | [Arabic Starry Skies](https://open.spotify.com/track/1xCDq8xU7gE09lJcZNBLts) | [Cafe Tantra Chill](https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 4:06 |
 | 104 | [Far Away](https://open.spotify.com/track/7FWxgkffwiIrr2SR72RqAh) | [CreativeWaves](https://open.spotify.com/artist/6ckEar8o3QDbpIK520uRyx) | [Far Away](https://open.spotify.com/album/4LmSHbGhpvsVK1kGPv0KeT) | 4:06 |
 
-Snapshot ID: `aHe7HAAAAAAXEhmfMDhwXMjm3vEIajvg`
+Snapshot ID: `AAAAAD8VASu3XX1wOnf7JEc3DR4csBu/`

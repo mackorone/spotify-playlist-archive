@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Jenevieve
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,407 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,434 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 54 | [Hope You Understand Me](https://open.spotify.com/track/23dHiDEw7ljPqmthWInVds) | [Tiffany Evans](https://open.spotify.com/artist/3CoW2DhcuWKs93YEjEY5Eq) | [Hope You Understand Me](https://open.spotify.com/album/40BuVcBOhEeXmyJpR3LtIF) | 3:13 |
 | 55 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `aINGVAAAAACjstqvS/YvL3qmvsXQG/8J`
+Snapshot ID: `AAAAAKMIkuvT3+PjzMQzEplFKqvj5OdG`

@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 793858,
+  "num_followers": 793994,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Motown Remixed & Unmixed",
+        "url": "https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Stevie Wonder The Definitive Collection 2002",
         "url": "https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 207200,
       "name": "River Deep, Mountain High",
       "url": "https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Motown Remixed & Unmixed",
-        "url": "https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
     },
     {
       "added_at": "2024-07-02 22:47:47",

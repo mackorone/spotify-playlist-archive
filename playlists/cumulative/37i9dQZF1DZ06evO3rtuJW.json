@@ -3840,6 +3840,24 @@
     {
       "album": {
         "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Went Legit",
+      "url": "https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E"
+    },
+    {
+      "album": {
+        "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
       },
       "artists": [
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"

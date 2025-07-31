@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1007297,
+  "num_followers": 1007396,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
+        "name": "Ninety - Two",
+        "url": "https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 299509,
+      "name": "Ninety - Two",
+      "url": "https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp"
+    },
+    {
+      "added_at": "2025-07-25 04:00:44",
+      "album": {
         "name": "EYES",
         "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
       },
@@ -619,30 +635,6 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Subterranean",
-        "url": "https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Subterranean",
-      "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
-    },
-    {
-      "added_at": "2025-07-25 04:00:44",
-      "album": {
         "name": "Sun Went Down, Sky Went Dark",
         "url": "https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0"
       },
@@ -667,18 +659,26 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Ninety - Two",
-        "url": "https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10"
+        "name": "Subterranean",
+        "url": "https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn"
       },
       "artists": [
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
         }
       ],
-      "duration_ms": 299509,
-      "name": "Ninety - Two",
-      "url": "https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp"
+      "duration_ms": 210731,
+      "name": "Subterranean",
+      "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
     },
     {
       "added_at": "2025-07-25 04:00:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:44",
-      "album": {
         "name": "Let Me Come To Life",
         "url": "https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Lose Yourself Again",
-        "url": "https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws"
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
       },
       "artists": [
         {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 259700,
-      "name": "Lose Yourself Again",
-      "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2025-07-25 04:00:44",
@@ -995,6 +979,22 @@
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2025-07-25 04:00:44",
+      "album": {
+        "name": "Lose Yourself Again",
+        "url": "https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 259700,
+      "name": "Lose Yourself Again",
+      "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"
     },
     {
       "added_at": "2025-07-25 04:00:44",
@@ -1027,6 +1027,22 @@
       "duration_ms": 205714,
       "name": "Heal My Mind",
       "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
+    },
+    {
+      "added_at": "2025-07-25 04:00:44",
+      "album": {
+        "name": "Sitting In The Sun (Walking In The Rain)",
+        "url": "https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh"
+      },
+      "artists": [
+        {
+          "name": "DumitrEscu",
+          "url": "https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Sitting In The Sun (Walking In The Rain)",
+      "url": "https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw"
     },
     {
       "added_at": "2025-07-25 04:00:44",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Sitting In The Sun (Walking In The Rain)",
-        "url": "https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh"
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
       "artists": [
         {
-          "name": "DumitrEscu",
-          "url": "https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 175312,
-      "name": "Sitting In The Sun (Walking In The Rain)",
-      "url": "https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw"
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2025-07-25 04:00:44",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
-    },
-    {
-      "added_at": "2025-07-25 04:00:44",
-      "album": {
         "name": "In The Dust",
         "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-07-25 04:00:44",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
-    },
-    {
-      "added_at": "2025-07-25 04:00:44",
-      "album": {
         "name": "No Boundaries",
         "url": "https://open.spotify.com/album/4VBbdwPSfqhBgsuvcLoHD5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 313634,
       "name": "No Boundaries",
       "url": "https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK"
+    },
+    {
+      "added_at": "2025-07-25 04:00:44",
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
     },
     {
       "added_at": "2025-07-25 04:00:44",

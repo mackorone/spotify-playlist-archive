@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,300 likes - 96 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,580 likes - 96 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 95 | [Radio \(Dum\-Dum\)](https://open.spotify.com/track/0mXXjVVAhaasNXga2HMgJK) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Radio \(Dum\-Dum\)](https://open.spotify.com/album/1jrJTnOMuLs5v0qTDTc0kR) | 2:32 |
 | 96 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
 
-Snapshot ID: `aIJmqQAAAADqucpYfQokydwsRjCMDDOe`
+Snapshot ID: `AAAAAKiQ9yNIRUt+DyfXRhC2/WewdYm1`

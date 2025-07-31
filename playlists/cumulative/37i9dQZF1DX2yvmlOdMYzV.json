@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 159946,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2CS4jXoyYcm91tR391ZyNa"
@@ -6522,6 +6522,24 @@
       "duration_ms": 174855,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4lYpoz9pRsUKHazWsKq1QV"
+    },
+    {
+      "album": {
+        "name": "CARROT",
+        "url": "https://open.spotify.com/album/60hvg9iSDNXEJ5SBpnTYrn"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200425,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4vMjkeZmTDBAdWFWIR2MGl"
     },
     {
       "album": {

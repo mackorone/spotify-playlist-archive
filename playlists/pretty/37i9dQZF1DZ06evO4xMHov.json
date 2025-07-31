@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62943,
+  "num_followers": 62953,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAACXQT8iE+krcO3Vtf1/2IoJ",
+  "snapshot_id": "aIgPAAAAAAByLq/Tprh6FlY6YrHKfP7x",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 546346,
-      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 279826,
       "name": "Dependo de Ti (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 546346,
+      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
     },
     {
       "added_at": null,

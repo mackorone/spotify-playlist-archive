@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 799104,
+  "num_followers": 799430,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -779,8 +779,8 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Old Shadows",
-        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 246764,
-      "name": "Old Shadows",
-      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -811,6 +811,22 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
+        "name": "Feel Myself / Wait For You",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -895,54 +911,6 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "4 And 20",
-      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -963,18 +931,50 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Feel Myself / Wait For You",
-        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+        "name": "Old Shadows",
+        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 164002,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+      "duration_ms": 246764,
+      "name": "Old Shadows",
+      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 306266,
+      "name": "4 And 20",
+      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 197136,
-      "name": "Brown Eyes",
-      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
         "name": "Enzo Enzo",
         "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
+      "duration_ms": 197136,
+      "name": "Brown Eyes",
+      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 131898,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1323,6 +1307,22 @@
       "duration_ms": 216939,
       "name": "H24",
       "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131898,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
         "name": "Not Feeling Up",
         "url": "https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "added_at": "2025-07-25 13:06:31",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-07-25 13:06:31",
       "album": {
+        "name": "No Us",
+        "url": "https://open.spotify.com/album/63ETk6kfvGwrTfErHVQjk0"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 198645,
+      "name": "No Us",
+      "url": "https://open.spotify.com/track/0U5v65NjAtaeW6wbig6ZzY"
+    },
+    {
+      "added_at": "2025-07-25 13:06:31",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2025-07-25 13:06:31",
-      "album": {
-        "name": "No Us",
-        "url": "https://open.spotify.com/album/63ETk6kfvGwrTfErHVQjk0"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 198645,
-      "name": "No Us",
-      "url": "https://open.spotify.com/track/0U5v65NjAtaeW6wbig6ZzY"
     },
     {
       "added_at": "2025-07-25 13:06:31",

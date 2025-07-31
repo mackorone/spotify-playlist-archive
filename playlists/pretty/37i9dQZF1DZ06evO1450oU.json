@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAAmjgE/yExpVqDHjK0HuY/t",
+  "snapshot_id": "aIgPAAAAAADwaX5kfa+/U+eHzktuOiss",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Horse",
-        "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 211812,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr"
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+        "name": "What You Would Hear",
+        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
+      "duration_ms": 235768,
+      "name": "What You Would Hear",
+      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
       "duration_ms": 193293,
       "name": "Soul Jar",
       "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What You Would Hear",
-        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 235768,
-      "name": "What You Would Hear",
-      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
     },
     {
       "added_at": null,
@@ -219,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
       },
@@ -260,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 228670,
-      "name": "Where is the Sun",
-      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
     },
     {
       "added_at": null,
@@ -292,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 172548,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
+      "duration_ms": 228670,
+      "name": "Where is the Sun",
+      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
     }
   ],
   "unique_name": "This Is Salt Creek",

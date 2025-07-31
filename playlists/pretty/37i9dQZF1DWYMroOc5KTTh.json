@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 715546,
+  "num_followers": 715778,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-06-19 23:00:22",
       "album": {
+        "name": "Nothing Better Than Music",
+        "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 155097,
+      "name": "Nothing Better Than Music",
+      "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
+    },
+    {
+      "added_at": "2025-06-19 23:00:22",
+      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 196773,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
-    },
-    {
-      "added_at": "2025-06-19 23:00:22",
-      "album": {
-        "name": "Nothing Better Than Music",
-        "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 155097,
-      "name": "Nothing Better Than Music",
-      "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
     },
     {
       "added_at": "2025-06-19 23:00:22",

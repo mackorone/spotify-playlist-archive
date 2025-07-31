@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: アイナ・ジ・エンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,409 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,743 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Feel](https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Feel / mild days](https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr) | 4:05 |
 | 50 | [Spotlight](https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Spotlight](https://open.spotify.com/album/7nGI2OQ5jZosc6Ezew6Lye) | 2:58 |
 
-Snapshot ID: `aIjiBQAAAABedC/XVJZeZCGGAMOahoGJ`
+Snapshot ID: `AAAAANkNpxaqT/U8c2+NuPd2PzIk5nah`

@@ -2,7 +2,7 @@
 
 ### [This Is YOASOBI](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF)
 
-> コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
+> Japanese music duo formed in 2019, consisting of vocalist ikura \(Ayase Ikura\) and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
 77 songs - 5 hr 32 min
 

@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-161 songs - 8 hr 2 min
+162 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Go Ahead](https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:37 | 2022-05-25 | 2022-12-25 |
 | [Go Ahead \- Live](https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 3:34 | 2023-08-08 | 2023-09-03 |
 | [Go Ahead \- Live](https://open.spotify.com/track/0cwtRGTYhPKJOXkVRDVzx2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:39 | 2023-10-01 | 2024-02-10 |
+| [Go Get the Water \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4q9PDCtCAKSLhSrU5D6FSc) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 2:17 | 2025-07-31 |  |
 | [God Don't Like It](https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:24 | 2022-05-25 | 2024-07-24 |
 | [God Don't Like It](https://open.spotify.com/track/3o9FiDMKdKp1EQuwg5lxwW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:52 | 2024-11-04 | 2025-05-30 |
 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 | 2022-05-25 |  |
@@ -149,7 +150,7 @@
 | [There Is Something Within Me](https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:26 | 2023-12-14 | 2024-10-15 |
 | [There Is Something Within Me](https://open.spotify.com/track/5VRfpX7yscGRT9in6sxnji) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:28 | 2024-11-05 | 2025-06-11 |
 | [There'll Be Peace In The Valley For Me](https://open.spotify.com/track/4jC4Jt97udeQMFlMtTBWwx) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 3:04 | 2022-05-25 |  |
-| [Things That I Used to Do \(And I Don't Do No More\) \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/1wTD230tE937hzjRSrT31H) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 2:22 | 2025-06-11 |  |
+| [Things That I Used to Do \(And I Don't Do No More\) \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/1wTD230tE937hzjRSrT31H) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 2:22 | 2025-06-11 | 2025-07-31 |
 | [This Is A Mean Old World To Live In](https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth: All New! Her Greatest Gospel Hits](https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa) | 3:07 | 2022-05-25 | 2025-01-04 |
 | [This Train](https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:42 | 2022-05-25 |  |
 | [This Train](https://open.spotify.com/track/3qXUmemjpyPPEMCSiYnhf6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 4:42 | 2023-06-09 | 2023-09-16 |

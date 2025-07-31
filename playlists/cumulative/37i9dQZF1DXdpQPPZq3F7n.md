@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story.
+> Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
 275 songs - 19 hr 22 min
 

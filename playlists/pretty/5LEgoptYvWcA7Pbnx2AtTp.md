@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 167 songs - 9 hr 44 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 168 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 165 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 166 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 |
 | 167 | [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 |
+| 168 | [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 |
 
-Snapshot ID: `AAAA5mBN3eJLMIWGZMocgyDgP/5afedv`
+Snapshot ID: `AAAA5927SSL3b5kKXn4D3DYh3fL2NJyO`

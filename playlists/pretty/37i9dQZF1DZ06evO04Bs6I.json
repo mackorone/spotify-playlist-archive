@@ -1,29 +1,13 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 115423,
+  "num_followers": 115452,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADWm92phUHpaY+npdfJf2tk",
+  "snapshot_id": "aIgPAAAAAAAgSlDooeOsFsAlb9WrzAQV",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palavras e Palavras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 326136,
-      "name": "Palavras e Palavras - Ao Vivo",
-      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
-    },
     {
       "added_at": null,
       "album": {
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palavras e Palavras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 326136,
+      "name": "Palavras e Palavras - Ao Vivo",
+      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
       },
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 402811,
       "name": "Meu Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dono dos Meus Dias",
-        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Dono dos Meus Dias",
-      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": null,

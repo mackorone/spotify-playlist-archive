@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 39487,
+  "num_followers": 39504,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABcPdrHNmfRLjJjAxh7EK4Z",
+  "snapshot_id": "aIgPAAAAAAAtHnD7/HhEox9Zjc1Agze4",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dinero No Tenia (En Vivo)",
-        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 208107,
-      "name": "Dinero No Tenia - En Vivo",
-      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "added_at": null,
@@ -583,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
       },
       "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 225165,
-      "name": "Una Coronita",
-      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Amor II",
-        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
       },
       "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
+      "duration_ms": 225165,
+      "name": "Una Coronita",
+      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
     },
     {
       "added_at": null,

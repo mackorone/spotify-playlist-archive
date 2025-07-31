@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Lola Young, Sebastian Ingrosso & Celine Dion,  Emma Heesters en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,609 likes - 81 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,607 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

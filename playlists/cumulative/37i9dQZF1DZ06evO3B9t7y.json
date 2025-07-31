@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "El vino de tu boca",
+        "url": "https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169125,
+      "name": "El vino de tu boca",
+      "url": "https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0"
+    },
+    {
+      "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"

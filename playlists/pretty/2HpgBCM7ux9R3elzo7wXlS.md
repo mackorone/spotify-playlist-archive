@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 897 songs - 2 day 8 hr 4 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 898 songs - 2 day 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -905,5 +905,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 895 | [Creep](https://open.spotify.com/track/30mC7W7Ngzf8BNTEnEVWh3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:11 |
 | 896 | [NO1](https://open.spotify.com/track/1r2UwOteaiw4uZrYp0nHFy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 2:33 |
 | 897 | [Dreiton](https://open.spotify.com/track/0lEikZP9JffOW4sufCKtQO) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 8:17 |
+| 898 | [catching my tears](https://open.spotify.com/track/3Vqyx6twD6N0V9TafhwP4x) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [catching my tears](https://open.spotify.com/album/2u94rUNHDcOZZM9rmYsn6H) | 1:42 |
 
-Snapshot ID: `AAAHLMAsZyGWL35RFEguE3ymJ9HimhCn`
+Snapshot ID: `AAAHLcRmSy3ABrrofP4UBA/vIc4n5JZM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UlNQ36OjFp.md) - [plain]
 
 > <a href="spotify:artist:2Yz9F5lQVc0p6SDxkw2BvF">ZULAN</a>'s favorite tracks\. Updated regularly\. Curated by ZULAN\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 21 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012 likes - 21 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UlNQ36OjFp.md) - [plain]
 | 20 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/1nd2xQeaLU9bKjZbDSRpts) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/1idB5K4PUcMP4sLu19tuU2) | 6:17 |
 | 21 | [At All](https://open.spotify.com/track/35iNiYHSzx3sv6XuqYh8HJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/4oo1zyAMnLVjZmQoyNP3h5) | 4:47 |
 
-Snapshot ID: `aG6ssQAAAAAi7EYrtCBt5aeyACQCqyPf`
+Snapshot ID: `AAAAAHif5GyMXEzgPfBSQ0AjHsAh7LBL`

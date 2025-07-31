@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 99420,
+  "num_followers": 99431,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-07-24 16:00:24",
       "album": {
+        "name": "\u80fd\u4e0d\u80fd",
+        "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
+      },
+      "artists": [
+        {
+          "name": "\u5434\u6620\u9999",
+          "url": "https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI"
+        }
+      ],
+      "duration_ms": 175062,
+      "name": "\u80fd\u4e0d\u80fd",
+      "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
+    },
+    {
+      "added_at": "2025-07-24 16:00:24",
+      "album": {
         "name": "\u98db\u8f2a\u6d77\u9996\u5f35\u540c\u540d\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 239000,
       "name": "\u53ea\u5c0d\u4f60\u6709\u611f\u89ba",
       "url": "https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu"
-    },
-    {
-      "added_at": "2025-07-24 16:00:24",
-      "album": {
-        "name": "\u80fd\u4e0d\u80fd",
-        "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
-      },
-      "artists": [
-        {
-          "name": "\u5434\u6620\u9999",
-          "url": "https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI"
-        }
-      ],
-      "duration_ms": 175062,
-      "name": "\u80fd\u4e0d\u80fd",
-      "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
     },
     {
       "added_at": "2025-07-24 16:00:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-07-24 16:00:24",
       "album": {
-        "name": "\u73b0\u5728\u5c31\u8981\u89c1\u4f60",
-        "url": "https://open.spotify.com/album/6PjffLKLyI4qkV8YKJq7ue"
-      },
-      "artists": [
-        {
-          "name": "\u59da\u6653\u68e0",
-          "url": "https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "\u73b0\u5728\u5c31\u8981\u89c1\u4f60",
-      "url": "https://open.spotify.com/track/2ZpfNWZ73SYBSU7be4Mkvv"
-    },
-    {
-      "added_at": "2025-07-24 16:00:24",
-      "album": {
         "name": "\u6211\u6703\u5f88\u611b\u4f60",
         "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
       },
@@ -883,22 +867,6 @@
       "duration_ms": 215978,
       "name": "\u6211\u6703\u5f88\u611b\u4f60",
       "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
-    },
-    {
-      "added_at": "2025-07-24 16:00:24",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
     },
     {
       "added_at": "2025-07-24 16:00:24",
@@ -919,22 +887,34 @@
     {
       "added_at": "2025-07-24 16:00:24",
       "album": {
-        "name": "\u732b\u72d7\u65e5\u8bb0",
-        "url": "https://open.spotify.com/album/7azMYxIqLcHEOFnMCFavCs"
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
       },
       "artists": [
         {
-          "name": "\u627f\u6853",
-          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
-        },
-        {
-          "name": "\u7740\u8272\u7d20\u63cf",
-          "url": "https://open.spotify.com/artist/10DVAkKUvT6qYlo1hHfVAR"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 192380,
-      "name": "\u732b\u72d7\u65e5\u8bb0",
-      "url": "https://open.spotify.com/track/7Em0o6cBieVxu5tZDAl3BL"
+      "duration_ms": 185008,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
+    },
+    {
+      "added_at": "2025-07-24 16:00:24",
+      "album": {
+        "name": "\u73b0\u5728\u5c31\u8981\u89c1\u4f60",
+        "url": "https://open.spotify.com/album/6PjffLKLyI4qkV8YKJq7ue"
+      },
+      "artists": [
+        {
+          "name": "\u59da\u6653\u68e0",
+          "url": "https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "\u73b0\u5728\u5c31\u8981\u89c1\u4f60",
+      "url": "https://open.spotify.com/track/2ZpfNWZ73SYBSU7be4Mkvv"
     },
     {
       "added_at": "2025-07-24 16:00:24",
@@ -959,6 +939,42 @@
     {
       "added_at": "2025-07-24 16:00:24",
       "album": {
+        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
+        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
+      },
+      "artists": [
+        {
+          "name": "Jerry Yan",
+          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "\u6211\u6703\u5f88\u611b\u59b3",
+      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
+    },
+    {
+      "added_at": "2025-07-24 16:00:24",
+      "album": {
+        "name": "\u732b\u72d7\u65e5\u8bb0",
+        "url": "https://open.spotify.com/album/7azMYxIqLcHEOFnMCFavCs"
+      },
+      "artists": [
+        {
+          "name": "\u627f\u6853",
+          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
+        },
+        {
+          "name": "\u7740\u8272\u7d20\u63cf",
+          "url": "https://open.spotify.com/artist/10DVAkKUvT6qYlo1hHfVAR"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "\u732b\u72d7\u65e5\u8bb0",
+      "url": "https://open.spotify.com/track/7Em0o6cBieVxu5tZDAl3BL"
+    },
+    {
+      "added_at": "2025-07-24 16:00:24",
+      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 191365,
       "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
       "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
-    },
-    {
-      "added_at": "2025-07-24 16:00:24",
-      "album": {
-        "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
-        "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
-      },
-      "artists": [
-        {
-          "name": "Jerry Yan",
-          "url": "https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "\u6211\u6703\u5f88\u611b\u59b3",
-      "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
     },
     {
       "added_at": "2025-07-24 16:00:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-07-24 16:00:24",
       "album": {
-        "name": "\u6e3a\u5c0f",
-        "url": "https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 267185,
-      "name": "\u53e3\u888b\u7684\u6eab\u5ea6",
-      "url": "https://open.spotify.com/track/3hOmv0Gx3765ag0utRymDO"
-    },
-    {
-      "added_at": "2025-07-24 16:00:24",
-      "album": {
         "name": "\u4f60\u597d\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226317,
       "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
       "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
+    },
+    {
+      "added_at": "2025-07-24 16:00:24",
+      "album": {
+        "name": "\u6e3a\u5c0f",
+        "url": "https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 267185,
+      "name": "\u53e3\u888b\u7684\u6eab\u5ea6",
+      "url": "https://open.spotify.com/track/3hOmv0Gx3765ag0utRymDO"
     },
     {
       "added_at": "2025-07-24 16:00:24",

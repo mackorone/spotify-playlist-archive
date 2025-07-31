@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1250720,
+  "num_followers": 1250810,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAB0xozVZktl5j3mWSUHrebX",
+  "snapshot_id": "aIgPAAAAAABGE+ArHRJCF0rIWYgygl/k",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 416533,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of 1990-2000",
         "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 416533,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
     },
     {
       "added_at": null,

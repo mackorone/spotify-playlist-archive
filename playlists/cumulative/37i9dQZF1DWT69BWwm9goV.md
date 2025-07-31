@@ -4,7 +4,7 @@
 
 > A collection of songs from Spotify's original video series OUTSIDE.
 
-42 songs - 2 hr 8 min
+44 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,8 @@
 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 | 2024-04-02 |  |
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2024-04-02 | 2024-11-13 |
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2024-09-25 | 2024-11-13 |
+| [TWENTIES \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/3UTPu5xUx69rOxasK2ZDnD) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 3:14 | 2025-07-30 |  |
+| [Watch Me Bleed \- \(Spotify OUTSIDE Version\) \- Live From Austin, TX](https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Spotify OUTSIDE](https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF) | 3:54 | 2025-07-30 |  |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-04-02 | 2024-11-13 |
 

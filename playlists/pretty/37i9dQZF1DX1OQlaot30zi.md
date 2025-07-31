@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf, Neffa, Sadturs e KIID, Clementino, Disme e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,001 likes - 144 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,013 likes - 144 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 81 | [Dove si va](https://open.spotify.com/track/7hZiiiS4ZfFbR6bwRSOtHg) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Dove si va](https://open.spotify.com/album/56472p5UVAiu1kUmq4hEaq) | 2:40 |
 | 82 | [Pit Stop Sulla Costa](https://open.spotify.com/track/2VwtGCqpn4u8xE0i3GGQWP) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Big Swords](https://open.spotify.com/artist/1KirHVZN99OA7acYpT42Kx), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [Pit Stop Sulla Costa](https://open.spotify.com/album/27GI4zUV3JF7JnawR1fvr9) | 3:50 |
 | 83 | [ADHD/1HW](https://open.spotify.com/track/59fLTra95Twpe0L8iLP0UA) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [ADHD/1HW](https://open.spotify.com/album/4ZLFgt2EzZxEzBzk7gHdqJ) | 2:22 |
-| 84 | [CALABRIFORNIA \(feat\. SKT\)](https://open.spotify.com/track/4QF8bJql8KaUOvkaGZwg04) | [Trankilo](https://open.spotify.com/artist/1ZDLyljVwUmmnVafwA8m4L), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [CALABRIFORNIA \(feat\. SKT\)](https://open.spotify.com/album/4uToEsImCApiJQpp6iRwJy) | 2:27 |
+| 84 | [CALABRIFORNIA](https://open.spotify.com/track/4QF8bJql8KaUOvkaGZwg04) | [Trankilo](https://open.spotify.com/artist/1ZDLyljVwUmmnVafwA8m4L), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [CALABRIFORNIA](https://open.spotify.com/album/4uToEsImCApiJQpp6iRwJy) | 2:27 |
 | 85 | [Scary Movie](https://open.spotify.com/track/6jv7tyMdKwDBdru8F4hKqU) | [Leam](https://open.spotify.com/artist/5unMeXu4SMNZXy64Ad48VO) | [Scary Movie](https://open.spotify.com/album/358ZJt2jdujaFNvUl1kSlh) | 1:54 |
 | 86 | [Grano Saraceno](https://open.spotify.com/track/5LD8cEDQOnxkrpDGCaXmFu) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr) | [Grano Saraceno](https://open.spotify.com/album/7CRdsL9yqR2ZS1Ktom84CG) | 2:24 |
 | 87 | [HOOLIGANS](https://open.spotify.com/track/1YTGtbQO8qh55gY8o9IMFQ) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [ADHD](https://open.spotify.com/album/0qZU3KB0TjdpqmZRIa9QFC) | 3:01 |

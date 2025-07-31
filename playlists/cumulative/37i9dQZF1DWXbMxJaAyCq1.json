@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Daizak, Uzielito Mix, El Bogueto, Ak-Boyz",
+  "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Kybba, Ryan Castro, Busy Signal",
   "name": "Remixes Urbanos",
   "tracks": [
     {
@@ -883,6 +883,36 @@
     },
     {
       "album": {
+        "name": "Ba Ba Bad Remix",
+        "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Ba Ba Bad Remix",
+      "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
+    },
+    {
+      "album": {
         "name": "BAD BOY (feat. Juhn, Jairo Vera, Sayian Jimmy, Nysix Music, CamiMusic & Montana the Producer) [Remix]",
         "url": "https://open.spotify.com/album/06KxwydF7895ixPU54krhE"
       },
@@ -1264,7 +1294,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
@@ -1512,7 +1542,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 232653,
       "name": "CHEROKEE RMX - Remix",
       "url": "https://open.spotify.com/track/3sADWXuKGeGcprocykh67J"
@@ -2121,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L (Remix)",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
+    },
+    {
+      "album": {
         "name": "Diosa (Remix)",
         "url": "https://open.spotify.com/album/4UgYvPP8XhEXbr8ZpZI6em"
       },
@@ -2140,7 +2192,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 259242,
       "name": "Diosa - Remix",
       "url": "https://open.spotify.com/track/1kIWef5hc2uAqkNxOTakzP"
@@ -3438,7 +3490,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
@@ -4282,7 +4334,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 229333,
       "name": "La Mejor Versi\u00f3n de Mi - Remix",
       "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
@@ -4562,7 +4614,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 444631,
       "name": "Las Bratz (Remix)",
       "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
@@ -4852,6 +4904,36 @@
       "duration_ms": 266616,
       "name": "Lollipop - Remix",
       "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
+    },
+    {
+      "album": {
+        "name": "Los Rockstar No Van Al Cielo (Remix)",
+        "url": "https://open.spotify.com/album/3uqKgqJu5XEBTZEYWzgiOF"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297623,
+      "name": "Los Rockstar No Van Al Cielo - Remix",
+      "url": "https://open.spotify.com/track/63NzbBRuMRtzMNKhL0RizU"
     },
     {
       "album": {
@@ -5812,10 +5894,40 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 226319,
       "name": "Namorar - Remix",
       "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+    },
+    {
+      "album": {
+        "name": "Natural (Remix)",
+        "url": "https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Natural - Remix",
+      "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
     },
     {
       "album": {
@@ -6518,7 +6630,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 288053,
       "name": "PALABRAS SOBRAN - REMIX",
       "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
@@ -6870,6 +6982,28 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "album": {
+        "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
+        "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
+      "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
     },
     {
       "album": {
@@ -7718,7 +7852,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 322200,
       "name": "SISAS NADA (feat. Kris R.) - Remix",
       "url": "https://open.spotify.com/track/7jkNUCqYvmgWe8JxhE6C98"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: Sethu
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,984 likes - 122 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,983 likes - 122 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 121 | [INFERNO E FERNET](https://open.spotify.com/track/09RCUC6xoVJZefKxL1Y9DG) | [PELIGRO](https://open.spotify.com/artist/5frSoUKC7ordrJUgUzYU2I) | [INFERNO E FERNET](https://open.spotify.com/album/1rF1YDeweKd09rWWfFhkKQ) | 2:56 |
 | 122 | [Bugie](https://open.spotify.com/track/7KNUKFijQMWdPJVdi07RKe) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [Bugie](https://open.spotify.com/album/09GBBtn7rgAVCigN6nb0Fk) | 3:21 |
 
-Snapshot ID: `AAAAACmyL6zt9+2twbTb6rRykgKS4ai7`
+Snapshot ID: `aIKtNQAAAAC2aHPeTlbuQ7aPW0Kz9hWV`

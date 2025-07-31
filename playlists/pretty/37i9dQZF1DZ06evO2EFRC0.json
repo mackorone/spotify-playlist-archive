@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 96278,
+  "num_followers": 96280,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAACfZDhZ14IEMj2SIN6YmhpK",
+  "snapshot_id": "aIgPAAAAAABBuWpNrJ5eLJ2OGRj4AZdV",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 427066,
-      "name": "Dios imparable",
-      "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Exaltamos",
         "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 163053,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 427066,
+      "name": "Dios imparable",
+      "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
     },
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
       "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+      "duration_ms": 152046,
+      "name": "Tu Fidelidad - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/7MQXOm1gKmRTaowv4K4Hyx"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
       },
       "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 152046,
-      "name": "Tu Fidelidad - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/7MQXOm1gKmRTaowv4K4Hyx"
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/2VldUmpRrsk7jyPVDTRdFj"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 270920,
+      "name": "No hay pero va a sobrar",
+      "url": "https://open.spotify.com/track/5f4hGWPnmzvoCe2f6x4QiG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -727,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/2VldUmpRrsk7jyPVDTRdFj"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 270920,
-      "name": "No hay pero va a sobrar",
-      "url": "https://open.spotify.com/track/5f4hGWPnmzvoCe2f6x4QiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volver\u00e1",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "Sananos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Instrumentales",
         "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222876,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 412708,
+      "name": "Sananos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,

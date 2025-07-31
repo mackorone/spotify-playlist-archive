@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Skaai and KM \*👉 <a href="https://spice.eplus.jp/articles/339533">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Skaai and KM \*👉 <a href="https://spice.eplus.jp/articles/339703">連動記事</a>をSPICEでチェック!
 
 11,433 songs - 29 day 19 hr 7 min
 
@@ -2506,7 +2506,7 @@
 | [go](https://open.spotify.com/track/2phBtCPLYPfDbq4WIP7amU) | [naotohiroyama](https://open.spotify.com/artist/1wg2an5ZodHFA9yqsUv0Dk) | [go](https://open.spotify.com/album/2xh6bRd47JETeYh9M7ETg6) | 7:12 | 2024-12-25 | 2025-01-08 |
 | [Go](https://open.spotify.com/track/4W1vG5xm38GXbqXhkMvEEp) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Go](https://open.spotify.com/album/5G3B9WaYoiymVHx3DtlSIK) | 3:30 | 2024-05-07 | 2024-05-15 |
 | [GO & SEE MY LOVE T\-Remix](https://open.spotify.com/track/4NSoBmlSSMuNHyq6HJ9ggm) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [GO & SEE MY LOVE T\-Remix](https://open.spotify.com/album/3xm72mRdhmM9r66bAdRHV3) | 4:15 | 2023-05-09 | 2023-05-17 |
-| [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 | 2025-07-30 |  |
+| [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Antonio Loureiro](https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 | 2025-07-30 |  |
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-22 | 2023-03-01 |
 | [Go Back](https://open.spotify.com/track/7MgEPoGcCSb0OJ2h7rCmAK) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Go Back](https://open.spotify.com/album/28wQA4FxsLAhCUETS986Vn) | 2:51 | 2023-04-25 | 2023-05-03 |
@@ -3109,7 +3109,7 @@
 | [I'll be](https://open.spotify.com/track/3hnmW0g0SkxYc1IvUnUebL) | [満島ひかり](https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 5:15 | 2023-10-25 | 2023-11-01 |
 | [I'll be](https://open.spotify.com/track/7MBFjKKxAtwYAvJ4735L35) | [満島ひかり](https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 5:15 | 2023-10-24 | 2023-10-26 |
 | [I'll be by your side \- feat\. 花村想太](https://open.spotify.com/track/0HAs544Ccr2FDse3wGldf9) | [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt), [花村想太](https://open.spotify.com/artist/3GySosBJugToISyNqclm53) | [I'll be by your side \(feat\. 花村想太\)](https://open.spotify.com/album/68vADTbEXbnNHtTQB9L4qW) | 3:06 | 2025-06-11 | 2025-06-18 |
-| [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-30 |  |
+| [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-30 |  |
 | [I'll Come A\-Runnin'](https://open.spotify.com/track/37POE5IjJiHrWiJhuPGWA2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [I'll Come A\-Runnin'](https://open.spotify.com/album/3vURvexOe9NzBYJiNrVoxD) | 2:47 | 2024-05-07 | 2024-05-15 |
 | [I'll Follow You Down](https://open.spotify.com/track/5dnsXEJwrLubrcbXdjBw93) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS) | [I'll Follow You Down](https://open.spotify.com/album/1tDFpo9U36DintGAwGLede) | 3:22 | 2024-01-09 | 2024-01-17 |
 | [I'm a mess \(TeddyLoid Remix\)](https://open.spotify.com/track/2ABjtvD7uxAECfJ653N72S) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:42 | 2024-05-07 | 2024-05-15 |

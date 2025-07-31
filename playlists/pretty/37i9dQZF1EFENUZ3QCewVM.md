@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 93 | [So Not Sober](https://open.spotify.com/track/2RVChbMVi7Q0CKFnKSTGMr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over \(It's Really Really Really Over Edition\)](https://open.spotify.com/album/60MSlGTw8G4KR2l05F3t7P) | 2:38 |
 | 94 | [Chapel](https://open.spotify.com/track/083E4FFkmkNx2bAfiHGA7N) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:01 |
 | 95 | [Sad Gurl](https://open.spotify.com/track/5nt1oHeq7HJDz26LQbZPoL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:11 |
-| 96 | [One Mississippi](https://open.spotify.com/track/2075qOiQPv12B8YM1dA0Yo) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:02 |
-| 97 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
-| 98 | [Lipstick](https://open.spotify.com/track/5foCAV6LkMOuD9KX2Ox0NL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:16 |
+| 96 | [Lipstick](https://open.spotify.com/track/5foCAV6LkMOuD9KX2Ox0NL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:16 |
+| 97 | [One Mississippi](https://open.spotify.com/track/2075qOiQPv12B8YM1dA0Yo) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:02 |
+| 98 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
 | 99 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 |
 | 100 | [French Toast](https://open.spotify.com/track/4b5Qg8Y596hh7EYkd23WYH) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:13 |
 | 101 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 121 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 122 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Ab4GxgAAAAAoauuY7EOOA0Zupbhcwyqj`
+Snapshot ID: `Ab4MUgAAAAB2EnKOu6+N9XPOlfJz0unw`

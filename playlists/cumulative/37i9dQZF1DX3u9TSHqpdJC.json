@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music from new, independent artists.  Cover: Just For Fun. Artwork by Paola Saliby",
+  "description": "The best new pop music from new, independent artists.  Cover: Grace Power. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 165408,
       "name": "a little bit",
       "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 188668,
       "name": "All I Ever Really Wanted",
       "url": "https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO"
@@ -5045,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "background check",
+        "url": "https://open.spotify.com/album/0C6IgsS1zJRWcvbH0so2Jt"
+      },
+      "artists": [
+        {
+          "name": "Grace Spidell",
+          "url": "https://open.spotify.com/artist/0PPYiSoH8uy2WgQEN48H3F"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "background check",
+      "url": "https://open.spotify.com/track/4p0CN3p41y178UE7d95MUe"
+    },
+    {
+      "album": {
         "name": "Background Noise",
         "url": "https://open.spotify.com/album/3w0xvbfLNFG37oFQIpQ7Wb"
       },
@@ -7290,7 +7308,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 137243,
       "name": "Billboards",
       "url": "https://open.spotify.com/track/0Sg9XLAL4tKezeuwnu4itl"
@@ -8712,6 +8730,24 @@
       "duration_ms": 153373,
       "name": "Bossa Nova Baby",
       "url": "https://open.spotify.com/track/7Fj3WLawd3Nms8utkoC3sb"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220732,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
     },
     {
       "album": {
@@ -12242,6 +12278,24 @@
       "duration_ms": 159757,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/51kmdZIuwxM0iNmntBi7UX"
+    },
+    {
+      "album": {
+        "name": "Blooming Season Pt. 2",
+        "url": "https://open.spotify.com/album/00lgkYhcBBa6dfa9kc4KNF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
     },
     {
       "album": {
@@ -16519,6 +16573,24 @@
     },
     {
       "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/3LcEc8tepT9lPZJMQfhGjl"
+      },
+      "artists": [
+        {
+          "name": "LLL",
+          "url": "https://open.spotify.com/artist/13FoW33FvNgCJZf7KMbOoz"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141301,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/63LiFwXnspFyyK1erNyb0e"
+    },
+    {
+      "album": {
         "name": "DGAF BOY",
         "url": "https://open.spotify.com/album/3Xj4sBMCZnsHMgeR5hg4JG"
       },
@@ -19270,7 +19342,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 221927,
       "name": "East Coast Summers",
       "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
@@ -21802,7 +21874,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 177000,
       "name": "father",
       "url": "https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z"
@@ -25624,7 +25696,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
@@ -29571,6 +29643,24 @@
     },
     {
       "album": {
+        "name": "hit me then",
+        "url": "https://open.spotify.com/album/1zQYl7rpVOpTyhCoYbdSEP"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143580,
+      "name": "hit me then",
+      "url": "https://open.spotify.com/track/28oKNdVSDu4VIgu6cdIbjv"
+    },
+    {
+      "album": {
         "name": "Hit Me When Ur Sorry",
         "url": "https://open.spotify.com/album/6dOg71hG7hxC0tu5gK5CUq"
       },
@@ -32634,6 +32724,24 @@
       "duration_ms": 180409,
       "name": "i lost my friend at a rave",
       "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
+    },
+    {
+      "album": {
+        "name": "I Love This!",
+        "url": "https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170668,
+      "name": "I Love This!",
+      "url": "https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic"
     },
     {
       "album": {
@@ -38239,6 +38347,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Kadek",
+          "url": "https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9"
+    },
+    {
+      "album": {
         "name": "Les gens",
         "url": "https://open.spotify.com/album/7sqpJwq2QQMJ6I7Y0Qr4r1"
       },
@@ -42610,7 +42736,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 167100,
       "name": "Married to Her Death",
       "url": "https://open.spotify.com/track/3xQYyjx0ns7CRg6k3mu0sL"
@@ -50070,7 +50196,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 189824,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe"
@@ -51386,7 +51512,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 154380,
       "name": "Piggies",
       "url": "https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d"
@@ -57760,7 +57886,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 155571,
       "name": "Sex, Drugs & Existential Dread",
       "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
@@ -58782,7 +58908,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 229079,
       "name": "Silver Heart",
       "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
@@ -62283,6 +62409,24 @@
     },
     {
       "album": {
+        "name": "Stuck On Us",
+        "url": "https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175234,
+      "name": "Stuck On Us",
+      "url": "https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1"
+    },
+    {
+      "album": {
         "name": "Student",
         "url": "https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog"
       },
@@ -62688,6 +62832,24 @@
       "duration_ms": 176535,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/2vRI54BHLrwKhmu7eSDGmH"
+    },
+    {
+      "album": {
+        "name": "Summer of Love",
+        "url": "https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA"
     },
     {
       "album": {
@@ -63860,6 +64022,24 @@
       "duration_ms": 208998,
       "name": "take me to the moon",
       "url": "https://open.spotify.com/track/4PJ7GSAn3rt808GqAD0G9a"
+    },
+    {
+      "album": {
+        "name": "TAKE MY LOVE",
+        "url": "https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "TAKE MY LOVE",
+      "url": "https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs"
     },
     {
       "album": {
@@ -67274,7 +67454,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 223000,
       "name": "Till the Sun Comes Up",
       "url": "https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig"
@@ -67296,6 +67476,24 @@
       "duration_ms": 152571,
       "name": "TIM BURTON",
       "url": "https://open.spotify.com/track/5HnhgU9FS7RNnFgkBy48wS"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
       "album": {
@@ -72344,7 +72542,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 160000,
       "name": "What You Wanted",
       "url": "https://open.spotify.com/track/7pS78xyQrzIzhnF8wgU5MF"
@@ -73318,7 +73516,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 222162,
       "name": "Why Keep Trying?",
       "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
@@ -75084,7 +75282,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 204923,
       "name": "You Used To Be So Sexy",
       "url": "https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV"

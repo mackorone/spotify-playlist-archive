@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83c\udfc6 Kannessa WIL ja Phimi.",
-  "num_followers": 25861,
+  "num_followers": 25868,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-07-24 21:01:03",
       "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
-    },
-    {
-      "added_at": "2025-07-24 21:01:03",
-      "album": {
         "name": "Avicii Forever",
         "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+    },
+    {
+      "added_at": "2025-07-24 21:01:03",
+      "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
     },
     {
       "added_at": "2025-07-24 21:01:03",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-07-24 21:01:03",
       "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
-    },
-    {
-      "added_at": "2025-07-24 21:01:03",
-      "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 202626,
       "name": "All over me",
       "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
+    },
+    {
+      "added_at": "2025-07-24 21:01:03",
+      "album": {
+        "name": "Aja tai kuole",
+        "url": "https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Aja tai kuole",
+      "url": "https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7"
     }
   ],
   "unique_name": "Ensisoitossa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,625 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,651 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 100 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 |
 | 101 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 |
 
-Snapshot ID: `aIOgEAAAAAAO5veV0FQ3QmFpmCGjznrw`
+Snapshot ID: `AAAAAAYJa/fO07/jIx9gw5eU3iwMA1LB`

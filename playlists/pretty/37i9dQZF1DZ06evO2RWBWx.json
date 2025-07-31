@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 25501,
+  "num_followers": 25502,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAC9kKjeMJ2gQHKwPHpbXneQ",
+  "snapshot_id": "aIgPAAAAAADcEi+nrti5rj3mkgmGoyMe",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 254842,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 202181,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 254842,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EGOIST",
-        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "EGOIST",
-      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POP CUBE",
         "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 197306,
       "name": "Holy Light",
       "url": "https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EGOIST",
+        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "EGOIST",
+      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
     },
     {
       "added_at": null,

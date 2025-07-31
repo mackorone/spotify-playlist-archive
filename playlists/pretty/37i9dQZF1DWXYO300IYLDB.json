@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139266,
+  "num_followers": 139264,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,42 @@
     {
       "added_at": "2025-07-10 15:00:09",
       "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2025-07-10 15:00:09",
+      "album": {
+        "name": "BRANDY SENKI",
+        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/5qCYsAzh1ICtujiR1iuy6S"
+    },
+    {
+      "added_at": "2025-07-10 15:00:09",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -499,42 +535,6 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
-    },
-    {
-      "added_at": "2025-07-10 15:00:09",
-      "album": {
-        "name": "BRANDY SENKI",
-        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 100933,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/5qCYsAzh1ICtujiR1iuy6S"
-    },
-    {
-      "added_at": "2025-07-10 15:00:09",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2025-07-10 15:00:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-07-10 15:00:09",
       "album": {
-        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
-    },
-    {
-      "added_at": "2025-07-10 15:00:09",
-      "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+    },
+    {
+      "added_at": "2025-07-10 15:00:09",
+      "album": {
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
     },
     {
       "added_at": "2025-07-10 15:00:09",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-07-10 15:00:09",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-07-10 15:00:09",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199595,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
+    },
+    {
+      "added_at": "2025-07-10 15:00:09",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-07-10 15:00:09",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-07-10 15:00:09",
       "album": {
-        "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
-        "url": "https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt"
-      },
-      "artists": [
-        {
-          "name": "Yujiro Kudo",
-          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
-      "url": "https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P"
-    },
-    {
-      "added_at": "2025-07-10 15:00:09",
-      "album": {
         "name": "North Marine Drive",
         "url": "https://open.spotify.com/album/4FjsXGxYbYGobkIspixnlw"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 210625,
       "name": "North Marine Drive",
       "url": "https://open.spotify.com/track/1Z6hLIXSRczR1GiEXGcqZt"
+    },
+    {
+      "added_at": "2025-07-10 15:00:09",
+      "album": {
+        "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
+        "url": "https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt"
+      },
+      "artists": [
+        {
+          "name": "Yujiro Kudo",
+          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
+        }
+      ],
+      "duration_ms": 151986,
+      "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
+      "url": "https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P"
     },
     {
       "added_at": "2025-07-10 15:00:09",

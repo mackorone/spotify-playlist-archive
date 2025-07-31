@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 58625,
+  "num_followers": 58642,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Con Alma y Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 339000,
       "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
       "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Te amare eternamente",
-      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -1208,13 +1192,13 @@
       },
       "artists": [
         {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
         }
       ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1251,6 +1235,22 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
-        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
       "artists": [
         {
-          "name": "Rosendo y Ofelia",
-          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 143466,
-      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1459,34 +1459,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
+        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
+        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
       "artists": [
         {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+          "name": "Rosendo y Ofelia",
+          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
         }
       ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+      "duration_ms": 143466,
+      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Cena",
-          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Camino a las cuchillas",
-      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 171973,
       "name": "Flor del Litoral",
       "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2024\. Cover: Bambie Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,647 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,661 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [DARK 2.0 \(feat\. TWISTED\)](https://open.spotify.com/track/3HV6iBGoFsUbVwJzdMJ8ZU) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [DARK 2.0 \(feat\. TWISTED\)](https://open.spotify.com/album/24MnyCwzIBiSQ8uqP6KEPm) | 2:42 |
 | 50 | [Cliché](https://open.spotify.com/track/13sYq1DRwEvWqfimRKRUAC) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Cliché](https://open.spotify.com/album/0flX7vAoaSnbrYnTkREOUj) | 2:55 |
 
-Snapshot ID: `AAAAAMOWeBlYAZriD17FAJjczQPT3YlO`
+Snapshot ID: `Z1BHxAAAAACDRnxf0WzGiXFAMJdoljB8`

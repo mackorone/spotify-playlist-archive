@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 
 > Check out our latest Cargo Distribution approved tracks! Updated weekly
 
-[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 610 likes - 100 songs - 7 hr 44 min
+[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 610 likes - 101 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 | 98 | [Coin Clippers](https://open.spotify.com/track/22dVMm1ocQVq0Ok4PlqUAk) | [Haress](https://open.spotify.com/artist/0MB2801ja1MCYSIMETpi0s) | [Skylarks](https://open.spotify.com/album/43soljHcjufEWOVXLHMru3) | 4:06 |
 | 99 | [Seems Ridiculous](https://open.spotify.com/track/3V9zF80iUvYVwbwqSE1prl) | [Opaque](https://open.spotify.com/artist/2H3dVYABwnIiZRcqO0tehe) | [Beginning To End](https://open.spotify.com/album/3Dk061aEDPFu3YloK1wTLv) | 3:24 |
 | 100 | [Con Air](https://open.spotify.com/track/3YnvPF4RwCufUcLNqbVYFT) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk) | [Neurotica](https://open.spotify.com/album/2mwAkVuxD0PwJB1ExAap1H) | 1:48 |
+| 101 | [Descent Into Forever \- Live](https://open.spotify.com/track/4kVw2jB4jJUMHrzAI0SOsz) | [Raz Mesinai](https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y), [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Myth of Nations: An Anti Imperialist Opera \(Live at The Kitchen\)](https://open.spotify.com/album/396usMP3M0uwitZZSVwHcX) | 2:59 |
 
-Snapshot ID: `AABHa3lpAVxOaf7n0XmVfwONKHVnU11G`
+Snapshot ID: `AABHbCM8bNOHua2rGgnHEh4EmHSS1Uak`

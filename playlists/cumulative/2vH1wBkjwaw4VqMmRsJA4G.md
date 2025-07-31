@@ -4,7 +4,7 @@
 
 > Explicitly gay
 
-11 songs - 34 min 13 sec
+12 songs - 37 min 13 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,5 +19,6 @@
 | [May](https://open.spotify.com/track/5Yem71ssnAc1pD7Yr3i9rj) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 3:51 | 2024-09-16 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-08-09 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2024-10-09 |  |
+| [Wearing Black](https://open.spotify.com/track/4uhwC8YZ0JIujAXQtML7Cm) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 3:00 | 2025-07-30 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> whoa almost 300 saves !1!?1&\#x2F;?!1 tank u
+> YAYAY 303 SAVESSS
 
 [beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 303 likes - 188 songs - 6 hr 11 min
 
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 187 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 |
 | 188 | [w](https://open.spotify.com/track/6qZglgzWHfGbyXODLz2x8l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 1:34 |
 
-Snapshot ID: `AAAAiJxuUi51Ud30xnn9bq5sQNQjwuyN`
+Snapshot ID: `AAAAidywZPnVTfIIJb9B3PXjHcZ2IYio`

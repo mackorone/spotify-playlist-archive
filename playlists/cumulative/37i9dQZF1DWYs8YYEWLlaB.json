@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "AQUAFINA",
+        "url": "https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147888,
+      "name": "AQUAFINA",
+      "url": "https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3"
+    },
+    {
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 154883,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi"
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 188589,
       "name": "RUJ",
       "url": "https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk"
@@ -3147,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe"
+    },
+    {
+      "album": {
         "name": "VEDA T\u00dcRK\u00dcS\u00dc",
         "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
       },
@@ -3312,6 +3348,28 @@
       "duration_ms": 173608,
       "name": "Yans\u0131ma",
       "url": "https://open.spotify.com/track/4T73JmNNhtkFBzjRfCeMzN"
+    },
+    {
+      "album": {
+        "name": "YAPAR MISIN?",
+        "url": "https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "YAPAR MISIN?",
+      "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
     },
     {
       "album": {
@@ -3590,7 +3648,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 138461,
       "name": "Zindan",
       "url": "https://open.spotify.com/track/2WuyMog3qp7VKidUtwBfNk"

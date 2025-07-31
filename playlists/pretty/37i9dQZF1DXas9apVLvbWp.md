@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,446 likes - 30 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,477 likes - 30 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Monaco \- Live Set \#1 from Cafe Bohemia, New York, U.S.A./1956; Alternate Take; Rudy Van Gelder Edition; 24\-Bit Mastering/2001 Digital Remaster](https://open.spotify.com/track/232yJTrTCovc2h5hJ0BLFr) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/0Cz8qkM02FyEdaLWuH0WE3) | 5:33 |
 | 30 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
 
-Snapshot ID: `aGFVDQAAAABu9AVos200DR6KtFUYGCyK`
+Snapshot ID: `aGFVDQAAAADi1QpDfqZH6kz6QJG3tcja`

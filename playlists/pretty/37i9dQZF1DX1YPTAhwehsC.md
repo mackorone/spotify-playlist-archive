@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Bay Swag
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,974 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,932 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 46 | [PEOPLE LIKE ME](https://open.spotify.com/track/5P02eVAQ2j8ykf9ecyYVh0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [Never Stop](https://open.spotify.com/album/1iQFI8rAzbBaXGLGLEytwX) | 2:20 |
 | 47 | [To The Beat](https://open.spotify.com/track/6d5VSSCOSe0GIA7uAvUxxl) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 3:05 |
 | 48 | [Real Or Fake](https://open.spotify.com/track/7lxOUjZl1ionCWPGTJxGte) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Real Or Fake](https://open.spotify.com/album/24gBY76Nc8rEAVect3OPlR) | 1:47 |
-| 49 | [Prince George](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Prince George](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
+| 49 | [PRiNCE GEORGE](https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [PRiNCE GEORGE](https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1) | 2:45 |
 | 50 | [Me Again](https://open.spotify.com/track/7ajhnF9PY4D1LftlzVpO6G) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Me Again](https://open.spotify.com/album/0AZzBpP070CamsTm5Pqvgf) | 2:24 |
 | 51 | [HYPERYOUTH](https://open.spotify.com/track/01hvp6Vmy2aQ6CAAibCmEe) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/17BbrYyPUMl3zpcKo7gHML) | 2:47 |
 | 52 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Took A While \(Be Us\)](https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Took A While \(Be Us\)](https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP) | 2:36 |
 | 100 | [advance w her!](https://open.spotify.com/track/30tNEwC1enw94vUxFyzHag) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:43 |
 
-Snapshot ID: `AAAAALvduTgwDuqquojgH/j+lvt6nT6h`
+Snapshot ID: `aIPZUgAAAAA+Y7W9OngKT5FrOgZI453I`

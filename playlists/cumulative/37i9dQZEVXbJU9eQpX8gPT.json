@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 193942,
       "name": "CHERRANI",
       "url": "https://open.spotify.com/track/4jGp61FIMJW8DUS1C3O3GR"
@@ -8980,7 +8980,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
@@ -15578,6 +15578,28 @@
       "duration_ms": 140750,
       "name": "KA3I",
       "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
+    },
+    {
+      "album": {
+        "name": "kafini",
+        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181011,
+      "name": "kafini",
+      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
     },
     {
       "album": {
@@ -22946,7 +22968,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"

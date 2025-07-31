@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9849,
+  "num_followers": 9854,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAACMe3WobnqxjvRK8WyRySti",
+  "snapshot_id": "aIgPAAAAAADyn3tF7XlugHssJ86OEsHK",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre de 14 A\u00f1os",
-        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 239381,
-      "name": "Las Tempestades",
-      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 173499,
       "name": "El Jabali - En Vivo",
       "url": "https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre de 14 A\u00f1os",
+        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 239381,
+      "name": "Las Tempestades",
+      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
-        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
+      "duration_ms": 138453,
+      "name": "Yo Fui el Se\u00f1or de los Llanos",
+      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
+        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 138453,
-      "name": "Yo Fui el Se\u00f1or de los Llanos",
-      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Se Equivoc\u00f3 El Pistolero",
-      "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
+      "duration_ms": 210626,
+      "name": "Cien Por Uno",
+      "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Cien Por Uno",
-      "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
+      "duration_ms": 162586,
+      "name": "Se Equivoc\u00f3 El Pistolero",
+      "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 142093,
-      "name": "Gente del Macho",
-      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
+      "duration_ms": 129533,
+      "name": "Como en la Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 129533,
-      "name": "Como en la Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
+      "duration_ms": 142093,
+      "name": "Gente del Macho",
+      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
     },
     {
       "added_at": null,

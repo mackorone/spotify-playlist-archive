@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 129786,
+  "num_followers": 129806,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Ad Astra",
-        "url": "https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk"
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
       "artists": [
         {
-          "name": "Kayce Laine",
-          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ad Astra",
-      "url": "https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd"
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
         }
       ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+      "duration_ms": 260000,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "blue hour",
-        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 166784,
-      "name": "blue hour",
-      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "OUT I",
         "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 281565,
       "name": "OUT I",
       "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 166784,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "CHANDANI",
-        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
-      },
-      "artists": [
-        {
-          "name": "Chiara Dubey",
-          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
-        }
-      ],
-      "duration_ms": 189350,
-      "name": "Amma",
-      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Kumquat",
         "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "CHANDANI",
+        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
+      },
+      "artists": [
+        {
+          "name": "Chiara Dubey",
+          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
+        }
+      ],
+      "duration_ms": 189350,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1591,18 +1591,34 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
       "artists": [
         {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
+        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+      },
+      "artists": [
+        {
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Cross-Contamination",
+      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
-        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
       },
       "artists": [
         {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
         }
       ],
-      "duration_ms": 236286,
-      "name": "Cross-Contamination",
-      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2025-06-19 09:48:26",

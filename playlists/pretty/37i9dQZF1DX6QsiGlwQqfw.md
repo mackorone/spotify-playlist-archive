@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,994 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,003 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 2 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 3 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 4 | [Raga Bhupali \- Teentaal](https://open.spotify.com/track/1rnN4Sw2lrDrohbbX7KNPP) | [Ulhas Bapat](https://open.spotify.com/artist/1z32zRkxwsdSPdH94j7eF9), [Aneesh Pradhan](https://open.spotify.com/artist/6W68ewYGmJgtVekZFZeBvt) | [Colours of Romance \- Raga Bhupali](https://open.spotify.com/album/5PH0PXYBR6fQI41JFXqFVB) | 4:50 |
-| 5 | [Raag Hament \(Tintal, 16 beats\) \(arr\. T\. Bhattacharya\)](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |
+| 5 | [Raag Hament \(Tintal, 16 beats\) \[arr\. T\. Bhattacharya\]](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |
 | 6 | [Raga Prachin Khamaj](https://open.spotify.com/track/4ja1Jx5SzX65R6jHb14qOz) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:16 |
 | 7 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 |
 | 8 | [Raga Mishra Shivaranjani](https://open.spotify.com/track/3YLqvI4mIynHBm5oZd3kcp) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 7:32 |

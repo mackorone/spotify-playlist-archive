@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Los Chivatos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,424 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,432 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [i feel like masking today!](https://open.spotify.com/track/0kb0Y8NdJDG2kZ6QtV8nZA) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [xXGamerXx](https://open.spotify.com/artist/6gnRIDoZzLxv9NsB814zWe), [Ab1xd.mp3](https://open.spotify.com/artist/5figENKgII1lqutHDUpkgS) | [i feel like masking today!](https://open.spotify.com/album/04WpYWFzbCuJvilHSfOARl) | 2:03 |
 | 50 | [Nada Que Entregar](https://open.spotify.com/track/6MwiMPwTQn3WinQkWRqYzX) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Nada Que Entregar](https://open.spotify.com/album/6H1fIHDqxbn3KyaGPMIaYg) | 3:49 |
 
-Snapshot ID: `aIMBewAAAAC7LGA7WQPrwaNxVfXwfXrZ`
+Snapshot ID: `AAAAAIDyLNg+Y8z1kBl607RMX5QLNnIW`

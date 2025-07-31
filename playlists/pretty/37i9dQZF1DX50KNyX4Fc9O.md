@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: sombr
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,573 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,568 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [It Might Be Love \(It's Not\)](https://open.spotify.com/track/5IrPk5us7fGlfybpfpGypp) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [It Might Be Love \(It's Not\)](https://open.spotify.com/album/4ELIMXyA39yZZlYj1aqUd0) | 3:20 |
 | 100 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 
-Snapshot ID: `aII8agAAAAD0MtKBJcvlrdLZkC0Ug/9w`
+Snapshot ID: `AAAAAP23zKfcpuPuOBzrF+SSKKMdZkNJ`

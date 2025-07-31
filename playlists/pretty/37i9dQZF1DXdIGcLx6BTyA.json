@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 39595,
+  "num_followers": 39624,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-04 04:00:18",
       "album": {
-        "name": "The Price of Admission",
-        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 281602,
-      "name": "On The Red River",
-      "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
-    },
-    {
-      "added_at": "2025-07-04 04:00:18",
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2025-07-04 04:00:18",
+      "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 281602,
+      "name": "On The Red River",
+      "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
     },
     {
       "added_at": "2025-07-04 04:00:18",

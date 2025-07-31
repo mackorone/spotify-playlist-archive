@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Londra",
+        "url": "https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4iGf7FQ9COSPGJ1QwOyUaI"
+    },
+    {
+      "album": {
         "name": "30003",
         "url": "https://open.spotify.com/album/0TKCe79Uz3HpEsOCoCkeY5"
       },
@@ -751,6 +769,28 @@
     },
     {
       "album": {
+        "name": "CTX",
+        "url": "https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr"
+      },
+      "artists": [
+        {
+          "name": "Fonzo",
+          "url": "https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h"
+        },
+        {
+          "name": "Roaming Data",
+          "url": "https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320087,
+      "name": "CTX",
+      "url": "https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -864,6 +904,24 @@
       "duration_ms": 287462,
       "name": "Downtown World, Pt. 4",
       "url": "https://open.spotify.com/track/70pg0JK72l31vfVCThWMRv"
+    },
+    {
+      "album": {
+        "name": "Drummers Mind EP",
+        "url": "https://open.spotify.com/album/6bVQybF4o3j5gqq9BiLq0H"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395294,
+      "name": "Drummers Mind",
+      "url": "https://open.spotify.com/track/358MluMk3fbVTerojlmhl6"
     },
     {
       "album": {
@@ -1084,7 +1142,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 248306,
       "name": "fused (DJ-Kicks) - VIP Edit",
       "url": "https://open.spotify.com/track/6S98fWmtapkp4IBcHeoZ5u"
@@ -1269,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Heartbeats (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/07WAcfVx48SYmkXsBj3w70"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Heartbeats - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/68kYDrFU5TdJ0jU35hePDs"
+    },
+    {
+      "album": {
         "name": "Heartbreak (Kerri Chandler Remix)",
         "url": "https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb"
       },
@@ -1382,6 +1462,28 @@
       "duration_ms": 175454,
       "name": "House Flava - Edit",
       "url": "https://open.spotify.com/track/2i3fYjbrqxpt5Z82Li4L5s"
+    },
+    {
+      "album": {
+        "name": "i couldn't hold back",
+        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170316,
+      "name": "i couldn't hold back",
+      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
     },
     {
       "album": {
@@ -1574,7 +1676,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 199348,
       "name": "Illusion - Logic1000 Remix",
       "url": "https://open.spotify.com/track/77kkDugNfkAar6gx2UkuHi"
@@ -1734,6 +1836,24 @@
       "duration_ms": 235010,
       "name": "Je disparais dans tes bras",
       "url": "https://open.spotify.com/track/2P96XdauZc5DlJFtlFT9Rt"
+    },
+    {
+      "album": {
+        "name": "Just Not Cute",
+        "url": "https://open.spotify.com/album/2QoBgE08gFPMieaebjr8D8"
+      },
+      "artists": [
+        {
+          "name": "LOVEFOXY",
+          "url": "https://open.spotify.com/artist/11pW7chJfzATeandApxMBo"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394160,
+      "name": "Just Not Cute",
+      "url": "https://open.spotify.com/track/6Lr9s4byjOdhwLYDPxshHD"
     },
     {
       "album": {
@@ -2006,7 +2126,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 641584,
       "name": "Morning Factory",
       "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
@@ -2098,7 +2218,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 223800,
       "name": "mute - Logic1000 remix",
       "url": "https://open.spotify.com/track/2xQDAkpYth8kUHdjKlZteJ"
@@ -2346,7 +2466,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 330067,
       "name": "Orage de Chaleur",
       "url": "https://open.spotify.com/track/44kOhdgdHbSDUz7zvcWkcj"
@@ -2480,7 +2600,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 247694,
       "name": "Promises - VIP",
       "url": "https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku"
@@ -2726,7 +2846,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 245360,
       "name": "Self To Blame",
       "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
@@ -2824,7 +2944,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 195293,
       "name": "side by side (feat. Empress Of) [rebirth]",
       "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
@@ -3260,6 +3380,24 @@
       "duration_ms": 419097,
       "name": "To the Disco \u201877",
       "url": "https://open.spotify.com/track/0OvwOCehqyC5xe6VOir4V5"
+    },
+    {
+      "album": {
+        "name": "toldmyself",
+        "url": "https://open.spotify.com/album/5vKr08XyzXsSyFNBS6X1am"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258760,
+      "name": "toldmyself",
+      "url": "https://open.spotify.com/track/1b7A3YbtGZQFTPCp4jAkfq"
     },
     {
       "album": {
@@ -3700,6 +3838,24 @@
       "duration_ms": 487752,
       "name": "When U Came Into My Life",
       "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
+    },
+    {
+      "album": {
+        "name": "Questions?",
+        "url": "https://open.spotify.com/album/5AJwefpBLiQRHDmF0YB0by"
+      },
+      "artists": [
+        {
+          "name": "Yesca",
+          "url": "https://open.spotify.com/artist/0ZZlysmyFhg3yT6Pupdsff"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Where's The Grit Gone?",
+      "url": "https://open.spotify.com/track/4tm6rmS3eNppWq56XvQAje"
     },
     {
       "album": {

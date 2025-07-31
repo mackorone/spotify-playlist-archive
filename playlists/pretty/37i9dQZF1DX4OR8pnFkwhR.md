@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,798 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,811 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 2 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 |
 | 3 | [あっちゅうま](https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [あっちゅうま](https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3) | 2:22 |
 | 4 | [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 |
-| 5 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
+| 5 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
 | 6 | [フーリッシュサマー feat\. 芦田菜名子 from 7co](https://open.spotify.com/track/6obhcVwTeDGLBDOPewOjHm) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [芦田菜名子](https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4) | [フーリッシュサマー feat\. 芦田菜名子 from 7co](https://open.spotify.com/album/3mG1WjoVzdeSZ5Re7vZ1Ts) | 4:29 |
 | 7 | [I can't stand the heat](https://open.spotify.com/track/1XBtjxNVcMxWNsLKb87Dsa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [I can't stand the heat](https://open.spotify.com/album/3IvPbgcwGDsaNgEY1j2Kaq) | 3:00 |
 | 8 | [You Mermaid I](https://open.spotify.com/track/28bMZjDjRRa9kmIXTjyiE7) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [KID IN ME](https://open.spotify.com/album/3dWKaZnTTOji0e86PQwFjX) | 4:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/5EGjNgoJxZakg7oLhrnKGE) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Cheese \(feat\. Manaka\)](https://open.spotify.com/album/1kmXaI6erGYphtNxdGkmGI) | 2:45 |
 | 60 | [Rouge540 \(feat\. Kohjiya\)](https://open.spotify.com/track/2CW9hvXcfr7R0oxjB5VIaJ) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 3:08 |
 
-Snapshot ID: `aIjiCAAAAADZLIqQk5L9LLnxNz+BtJTO`
+Snapshot ID: `aIjiCAAAAACJNlpRqa0EW39y2RvD1gbg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain]
 
 > Feel...everything\. Listen to the music from The Idea of You, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,379 likes - 27 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,376 likes - 27 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain]
 | 26 | [Score Suite](https://open.spotify.com/track/2HRIqT9NHWy0vNdU34k7kM) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [The Idea of You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA) | 5:45 |
 | 27 | [Voilà](https://open.spotify.com/track/4KdJEb8VlqNfbdLz7m1Ztw) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [L'eau](https://open.spotify.com/album/2wJPnOY68XA64DXL9Cv0Ax) | 3:30 |
 
-Snapshot ID: `ZkUGRgAAAADCQb5iH5w76MMPqg+O9uYj`
+Snapshot ID: `AAAAAC1S5H+nkvciUfzEOq2IXDFhB4f5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 
 > The best of anime, honored\. Listen to the music behind previous Anime Award winners, from 2017\-2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,511 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,648 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVizp5U5GYQH.md) - [plain]
 | 92 | [99.9](https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw), [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [99.9](https://open.spotify.com/album/5sjhfZ28ERosz4yEraPQ8V) | 3:08 |
 | 93 | [History Maker](https://open.spotify.com/track/6XUQElkODYTnMXjmUDD0G6) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Stars of the Lid](https://open.spotify.com/album/4KsWTElvGlR40InOGT9QrG) | 3:13 |
 
-Snapshot ID: `AAAAADyF5sWemUx1sOSYsf49f9llWrxm`
+Snapshot ID: `aEpFEAAAAADATVvoxhhEtutXyPwmGRub`

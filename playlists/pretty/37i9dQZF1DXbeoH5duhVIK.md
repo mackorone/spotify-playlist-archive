@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,480 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,502 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 70 | [Fresh Hollows](https://open.spotify.com/track/0spD3VK9iuHe4wwA2GX5uF) | [Hollovvs](https://open.spotify.com/artist/4IUBtegsmcSz9aie7eWZcY) | [Fresh Hollows](https://open.spotify.com/album/3bqOKAVNig3CiwFhYvMgYB) | 3:59 |
 | 71 | [Big Bang Blues](https://open.spotify.com/track/1RFFDOPlHH5Wf5gc0vptvG) | [Breanna Barbara](https://open.spotify.com/artist/2p5zh0v6BIDwVSY3Q6pgwn) | [Big Bang Blues](https://open.spotify.com/album/6yYkq48lihgkljoiJnshMr) | 4:33 |
 | 72 | [Smoulder](https://open.spotify.com/track/2XIcdldYKAhOAYSWoe0Xfl) | [EMA](https://open.spotify.com/artist/5zc31hILCd8LXc1Asl2yIr) | [The Future's Void](https://open.spotify.com/album/1kDe6TJirwUB2NYj7oDIhB) | 5:08 |
-| 73 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 |
+| 73 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1rd8GUD0cYmPeZm5QVhWg0) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 |
 | 74 | [Tarantula](https://open.spotify.com/track/6ZqqyQOl7Uv8Q49iN99Hxx) | [Bob Schneider](https://open.spotify.com/artist/4YOxTnmYogOpUPxrNTacvQ) | [Lovely Creatures](https://open.spotify.com/album/3DPmzl6I0l8YoRBnOihs5h) | 4:08 |
 | 75 | [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 |
 | 76 | [Music \(I Like It\) \- Part 1](https://open.spotify.com/track/2Jb1h4KCaLwnFW42DNMUUp) | [Benny Sharp & The Sharpies](https://open.spotify.com/artist/61D7cUf6FGUAvPmW8bbR4G) | [The One\-Derful! Collection, Vol\. 5: Midas Records](https://open.spotify.com/album/2tpNiQOSzFHKcxe1p5leGq) | 2:55 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 101 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 |
 | 102 | [Beautiful Gold](https://open.spotify.com/track/5U7aqUHeCSiMsL5iC0m1OL) | [Hillgate County](https://open.spotify.com/artist/6IMAiDdDghtLoMSr2XZXCO) | [Beautiful Gold](https://open.spotify.com/album/0qugubB1MGTC9z5t5BpjYT) | 3:11 |
 
-Snapshot ID: `ZIsV1gAAAAAC7qhjR+tBuqRdllACFt5q`
+Snapshot ID: `AAAAAAZlyNQFMDKVK2JkXF96qV4w36Lg`

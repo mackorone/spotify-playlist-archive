@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
-  "num_followers": 200143,
+  "num_followers": 200118,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
+        "name": "escocia",
+        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 177321,
+      "name": "escocia",
+      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
         "name": "ella es",
         "url": "https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "escocia",
-        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 177321,
-      "name": "escocia",
-      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "la soledad",
         "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 199546,
       "name": "la soledad",
       "url": "https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
-        "name": "As\u00ed me va",
-        "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        },
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "As\u00ed me va",
-      "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -751,6 +731,26 @@
       "duration_ms": 203435,
       "name": "Lo que yo te he querido",
       "url": "https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "As\u00ed me va",
+        "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        },
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "As\u00ed me va",
+      "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "MIRLO PARDO \u00b7 LA VEREDA",
-        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
-        }
-      ],
-      "duration_ms": 203244,
-      "name": "Mirlo pardo",
-      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 166866,
       "name": "Sexo Y Rock & Roll",
       "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "MIRLO PARDO \u00b7 LA VEREDA",
+        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+        }
+      ],
+      "duration_ms": 203244,
+      "name": "Mirlo pardo",
+      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Kryptonita",
-        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "Tu Jard\u00edn Japon\u00e9s",
         "url": "https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 192798,
       "name": "Tu Jard\u00edn Japon\u00e9s",
       "url": "https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "Kryptonita",
+        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
+        "name": "La Suerte Que Tengo",
+        "url": "https://open.spotify.com/album/49xKBRtBI08F8CugcupAlC"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
         }
       ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
+      "duration_ms": 163200,
+      "name": "La Suerte Que Tengo",
+      "url": "https://open.spotify.com/track/37DfAS4yfIzdP7TgzrHk8b"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "La Suerte Que Tengo",
-        "url": "https://open.spotify.com/album/49xKBRtBI08F8CugcupAlC"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
       "artists": [
         {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 163200,
-      "name": "La Suerte Que Tengo",
-      "url": "https://open.spotify.com/track/37DfAS4yfIzdP7TgzrHk8b"
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Gatos De Gasolinera",
-      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "abrigo",
         "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 169955,
       "name": "abrigo",
       "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Gatos De Gasolinera",
+      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Aut\u00f3ctono",
-        "url": "https://open.spotify.com/album/1E13GMn18U09eYcW34tjAk"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 180874,
-      "name": "Aut\u00f3ctono",
-      "url": "https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "ZULOA",
         "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+        "name": "Aut\u00f3ctono",
+        "url": "https://open.spotify.com/album/1E13GMn18U09eYcW34tjAk"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+      "duration_ms": 180874,
+      "name": "Aut\u00f3ctono",
+      "url": "https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1151,6 +1135,22 @@
       "duration_ms": 198960,
       "name": "Desde El Otro Lado",
       "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "( ali despierta )",
-        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 190127,
-      "name": "( ali despierta )",
-      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "Un Cl\u00e1sico [2022]",
         "url": "https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 197466,
       "name": "Un Cl\u00e1sico [2022]",
       "url": "https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "( ali despierta )",
+        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 190127,
+      "name": "( ali despierta )",
+      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Desde otro lugar",
-        "url": "https://open.spotify.com/album/6vXdlMZLVZMmz7wwMXgPRr"
+        "name": "ibuprofeno",
+        "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
       },
       "artists": [
         {
-          "name": "dani dicostas",
-          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 185728,
-      "name": "Desde otro lugar",
-      "url": "https://open.spotify.com/track/4ry3rOAdEksQ6Y1ASKzup0"
+      "duration_ms": 168857,
+      "name": "ibuprofeno",
+      "url": "https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "ibuprofeno",
-        "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
+        "name": "Desde otro lugar",
+        "url": "https://open.spotify.com/album/6vXdlMZLVZMmz7wwMXgPRr"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
         }
       ],
-      "duration_ms": 168857,
-      "name": "ibuprofeno",
-      "url": "https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ"
+      "duration_ms": 185728,
+      "name": "Desde otro lugar",
+      "url": "https://open.spotify.com/track/4ry3rOAdEksQ6Y1ASKzup0"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "La Plaza",
-        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
-      },
-      "artists": [
-        {
-          "name": "Rufus T. Firefly",
-          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
-        }
-      ],
-      "duration_ms": 204559,
-      "name": "La Plaza",
-      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
-    },
-    {
-      "added_at": "2025-07-24 22:00:37",
-      "album": {
         "name": "SORA",
         "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "filosofar",
-        "url": "https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4"
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
         }
       ],
-      "duration_ms": 223392,
-      "name": "filosofar",
-      "url": "https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L"
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1531,6 +1515,22 @@
       "duration_ms": 193006,
       "name": "Loba",
       "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+    },
+    {
+      "added_at": "2025-07-24 22:00:37",
+      "album": {
+        "name": "filosofar",
+        "url": "https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "filosofar",
+      "url": "https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "SO-LO",
-        "url": "https://open.spotify.com/album/3GYTAJrM1rZDDafuflo5hr"
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/7GYXSqJpHJiRkGJhrc4eqN"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Amores",
-          "url": "https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ"
+          "name": "Vera Fauna",
+          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
         }
       ],
-      "duration_ms": 171428,
-      "name": "SO-LO",
-      "url": "https://open.spotify.com/track/5xM5Ia4bXSOi6TYYuJS3Ye"
+      "duration_ms": 172925,
+      "name": "Sale el sol",
+      "url": "https://open.spotify.com/track/3lC7zx8UpCwK1Ohoyez3JE"
     },
     {
       "added_at": "2025-07-24 22:00:37",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-07-24 22:00:37",
       "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/7GYXSqJpHJiRkGJhrc4eqN"
+        "name": "SO-LO",
+        "url": "https://open.spotify.com/album/3GYTAJrM1rZDDafuflo5hr"
       },
       "artists": [
         {
-          "name": "Vera Fauna",
-          "url": "https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4"
+          "name": "Sof\u00eda Amores",
+          "url": "https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ"
         }
       ],
-      "duration_ms": 172925,
-      "name": "Sale el sol",
-      "url": "https://open.spotify.com/track/3lC7zx8UpCwK1Ohoyez3JE"
+      "duration_ms": 171428,
+      "name": "SO-LO",
+      "url": "https://open.spotify.com/track/5xM5Ia4bXSOi6TYYuJS3Ye"
     },
     {
       "added_at": "2025-07-24 22:00:37",

@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 223333,
       "name": "Chai Latte",
       "url": "https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r"
@@ -4711,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
+    },
+    {
+      "album": {
         "name": "Eighteen",
         "url": "https://open.spotify.com/album/3ECzUzQZ8mjos4TW7ELL1T"
       },
@@ -5368,7 +5386,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 131999,
       "name": "Loving You Will Be The Death Of Me",
       "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
@@ -5556,7 +5574,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 155131,
       "name": "Million Billion Trillion",
       "url": "https://open.spotify.com/track/5Mj2za2W4PZ3NDN3d1NYdR"
@@ -7545,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Sunny Beat",
+        "url": "https://open.spotify.com/album/0QW4UNRaYFsPqNaJ4iAUN3"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Service",
+          "url": "https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185056,
+      "name": "Summer Gig",
+      "url": "https://open.spotify.com/track/6FZLilf2t51YjXkzAb1DW1"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
@@ -7614,6 +7650,24 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Mabuk Laut",
+        "url": "https://open.spotify.com/album/3W3PcnesLOd6YiGvZHK9av"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5j7HESfa8OXs3hTqQ1ZvnR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,354 likes - 75 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,376 likes - 75 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 36 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 |
 | 37 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
 | 38 | [S3 Vetta \(Theme Music\)](https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am) | [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [S3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eoSgIGH6QNQbOo0Bij06j) | 1:32 |
-| 39 | [Hukum Reloaded \- Tamil \(From "Jailer 2"\)](https://open.spotify.com/track/57IV0hLaFBsJItvjSLu601) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Hukum Reloaded \- Tamil \(From "Jailer 2"\)](https://open.spotify.com/album/3fehKTRZv5h2otLpjVOJq6) | 1:31 |
+| 39 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
 | 40 | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/album/4x4k5W1QK5rkPUYp3VP7f7) | 0:44 |
 | 41 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |
 | 42 | [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 |
 | 43 | [Manmadhan Theme Music](https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\) \- Bonus Tracks](https://open.spotify.com/album/6k25DINuCoGsG1rayjLqSt) | 1:23 |
-| 44 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
+| 44 | [Hukum Reloaded \- Tamil \(From "Jailer 2"\)](https://open.spotify.com/track/57IV0hLaFBsJItvjSLu601) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Hukum Reloaded \- Tamil \(From "Jailer 2"\)](https://open.spotify.com/album/3fehKTRZv5h2otLpjVOJq6) | 1:31 |
 | 45 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 46 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 |
 | 47 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 |

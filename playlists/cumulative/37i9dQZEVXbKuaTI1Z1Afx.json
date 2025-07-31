@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 214933,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1kfpqIo1zfPOaxm9n2eRfp"
@@ -9240,7 +9240,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 378226,
       "name": "Black Sabbath - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc"
@@ -13167,6 +13167,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6Gia6htJMJqFBat4jUyVDj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Osbourne",
+          "url": "https://open.spotify.com/artist/1hckaudcoOzWyeRIlrOksc"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247013,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3inSAmtjMjAePyBUqh5Z3r"
+    },
+    {
+      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -15704,6 +15726,24 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "album": {
+        "name": "Creature In The Black Night",
+        "url": "https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Creature In The Black Night",
+      "url": "https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6"
     },
     {
       "album": {
@@ -23498,7 +23538,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 576693,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/6fK7yKIMmXbymQyyTw9wWA"
@@ -23516,7 +23556,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 582733,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
@@ -28092,7 +28132,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 335872,
       "name": "Goodbye to Romance",
       "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
@@ -36195,6 +36235,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "url": "https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192697,
+      "name": "In Your Fantasy",
+      "url": "https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f"
+    },
+    {
+      "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
       },
@@ -36626,7 +36684,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -44628,6 +44686,24 @@
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -54304,7 +54380,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -55192,6 +55268,24 @@
     {
       "album": {
         "name": "Mania",
+        "url": "https://open.spotify.com/album/4fuNohVRMb98IgoOUoZ1X0"
+      },
+      "artists": [
+        {
+          "name": "armani west",
+          "url": "https://open.spotify.com/artist/7xLpLOGgLLFUaHpZhu94z6"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81948,
+      "name": "Piano Tiles",
+      "url": "https://open.spotify.com/track/0fk09gyOmgKeA5AB9sX9Uj"
+    },
+    {
+      "album": {
+        "name": "Mania",
         "url": "https://open.spotify.com/album/25hU0zGZcELPgAG62sh3EO"
       },
       "artists": [
@@ -55202,7 +55296,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 81948,
       "name": "Piano Tiles",
       "url": "https://open.spotify.com/track/3PrdNqPXE2VMSOiXO0seeO"
@@ -55598,7 +55692,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 269026,
       "name": "Planet Caravan - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
@@ -59386,7 +59480,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 261293,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
@@ -68562,7 +68656,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 304787,
       "name": "Sweet Leaf - 2014 Remaster",
       "url": "https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4"
@@ -72282,7 +72376,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 262746,
       "name": "The Wizard - 2014 Remaster",
       "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
@@ -82951,6 +83045,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "album": {
         "name": "Fresh Meat",
         "url": "https://open.spotify.com/album/18liOIWZVclN96uk7SY7Xm"
       },
@@ -83180,7 +83292,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

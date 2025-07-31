@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 332726,
+  "num_followers": 332794,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAAgrO8Xl2cctu8iCQApcOtI",
+  "snapshot_id": "aIgPAAAAAADviMtSkokvnDWrh017FuQF",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+        "name": "Nieves de Enero",
+        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Ramiro Sierra",
-      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
+      "duration_ms": 213089,
+      "name": "Nocturno A Rosario",
+      "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nieves de Enero",
-        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 213089,
-      "name": "Nocturno A Rosario",
-      "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
+      "duration_ms": 191000,
+      "name": "Ramiro Sierra",
+      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
     },
     {
       "added_at": null,

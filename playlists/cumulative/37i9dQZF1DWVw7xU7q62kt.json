@@ -4179,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/3RsSbsa04lZcRND0tWG1IC"
+      },
+      "artists": [
+        {
+          "name": "Half Blue",
+          "url": "https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0E4XPubqUlPIihiYi4pgRb"
+    },
+    {
+      "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
       },
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 121395,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/3pKMgBB1ekswonKouOA9Vq"

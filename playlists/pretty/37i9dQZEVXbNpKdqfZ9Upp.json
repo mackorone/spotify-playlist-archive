@@ -6,42 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBxAKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MB2RqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
@@ -69,7 +37,7 @@
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
@@ -80,12 +48,12 @@
           "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 443240,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "El Templo del Pop, Vol. 2",
         "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
@@ -101,7 +69,23 @@
       "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Soft Machine",
         "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
@@ -121,23 +105,23 @@
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "Sonr\u00edele",
-        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
       "artists": [
         {
-          "name": "DY",
-          "url": "https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 178117,
-      "name": "Sonr\u00edele",
-      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
+      "duration_ms": 443240,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -169,7 +153,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Sonr\u00edele",
+        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
+      },
+      "artists": [
+        {
+          "name": "DY",
+          "url": "https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Sonr\u00edele",
+      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -185,23 +185,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "La Gran Banda LGB (En vivo)",
         "url": "https://open.spotify.com/album/3zANRpGAWDiGyFBdTdpfN0"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/75TYEwP88BvNP1QJ7gH2B8"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
@@ -233,23 +217,7 @@
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Vol. 4 (2014 Remaster)",
-        "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 282497,
-      "name": "Changes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -281,7 +249,23 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl"
@@ -297,39 +281,7 @@
       "url": "https://open.spotify.com/track/0TJdgYzIwuJNikaavO9Cul"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 474359,
-      "name": "War Pigs / Luke's Wall - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
@@ -345,7 +297,7 @@
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
@@ -365,7 +317,7 @@
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
@@ -381,30 +333,10 @@
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "Lita",
-        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
-      },
-      "artists": [
-        {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Close My Eyes Forever",
-      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
       "artists": [
         {
@@ -412,28 +344,12 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 355303,
-      "name": "Iron Man - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
+      "duration_ms": 284666,
+      "name": "Changes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -473,7 +389,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "POR SUS BESOS",
         "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
@@ -489,27 +405,7 @@
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
-        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "LA FREAK",
-      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -549,7 +445,27 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "LA FREAK",
+      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
@@ -569,71 +485,39 @@
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "The Ultimate Sin",
-        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 256293,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 292720,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/4nvYDy427VvA1TcEkdgZII"
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 302647,
-      "name": "Mr. Crowley",
-      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "ALAMBRE P\u00faA",
-        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 146017,
-      "name": "ALAMBRE P\u00faA",
-      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
@@ -649,7 +533,7 @@
       "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
@@ -665,10 +549,10 @@
       "url": "https://open.spotify.com/track/4YM3IYESNKXWYHbPXvMMVD"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "Black Sabbath",
-        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
@@ -676,28 +560,28 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 366173,
-      "name": "N.I.B. - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3XclwoQxz4p6Dl7VUf90KW"
+      "duration_ms": 354213,
+      "name": "Iron Man - 2009 Remaster",
+      "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 317206,
-      "name": "Children of the Grave - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
@@ -713,7 +597,71 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 302647,
+      "name": "Mr. Crowley",
+      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "MamaZota",
+        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
@@ -737,7 +685,59 @@
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Lita",
+        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
+      },
+      "artists": [
+        {
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Close My Eyes Forever",
+      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 184547,
+      "name": "si te pillara",
+      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
@@ -757,71 +757,39 @@
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 184547,
-      "name": "si te pillara",
-      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Master of Reality",
+        "url": "https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9"
       },
       "artists": [
         {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 250268,
-      "name": "What It Sounds Like",
-      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+      "duration_ms": 315893,
+      "name": "Children of the Grave (2009 Remaster)",
+      "url": "https://open.spotify.com/track/0ElAcOj8tudMA6X6KZ7SMO"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -853,103 +821,23 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
-        "name": "MamaZota",
-        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
       },
       "artists": [
         {
-          "name": "Arlene MC",
-          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
         }
       ],
-      "duration_ms": 122125,
-      "name": "MamaZota",
-      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Come Back - Buddha Remastered 2001",
-      "url": "https://open.spotify.com/track/7K6KRwyvE0plDEzxrVmCon"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Bark At The Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Bark at the Moon",
-      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 269026,
-      "name": "Planet Caravan - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
-      "album": {
-        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 135443,
-      "name": "Futile Devices (Doveman Remix)",
-      "url": "https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19"
-    },
-    {
-      "added_at": "2025-07-29 16:56:11",
+      "added_at": "2025-07-30 15:36:55",
       "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
@@ -967,6 +855,126 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/4nvYDy427VvA1TcEkdgZII"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
+      },
+      "artists": [
+        {
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        }
+      ],
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "TUCHAT",
+        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 221224,
+      "name": "TUCHAT",
+      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        },
+        {
+          "name": "AR\u5218\u592b\u9633",
+          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
+        }
+      ],
+      "duration_ms": 211677,
+      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
+      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
+    },
+    {
+      "added_at": "2025-07-30 15:36:55",
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "N.I.B. - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3XclwoQxz4p6Dl7VUf90KW"
     }
   ],
   "unique_name": "Viral 50 - Honduras",

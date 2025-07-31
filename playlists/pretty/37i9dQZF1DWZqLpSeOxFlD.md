@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,393 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,429 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

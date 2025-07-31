@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1727,
+  "num_followers": 1726,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAADDy31m5NY2eKcaCJxV4a1K",
+  "snapshot_id": "aIgPAAAAAABOvhSpx12ZyfVZTK0oEcK7",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "contact high",
+      "url": "https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Supernova (Extended)",
         "url": "https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu"
       },
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 250253,
-      "name": "contact high",
-      "url": "https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR"
+      "duration_ms": 153733,
+      "name": "something in the way you say my name",
+      "url": "https://open.spotify.com/track/2ShX8QxlgobHmhe2nXoe92"
     },
     {
       "added_at": null,
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 153733,
-      "name": "something in the way you say my name",
-      "url": "https://open.spotify.com/track/2ShX8QxlgobHmhe2nXoe92"
+      "duration_ms": 194946,
+      "name": "are you curious?",
+      "url": "https://open.spotify.com/track/5LK1DcgHrVHOU00bQwTQG6"
     },
     {
       "added_at": null,
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 194946,
-      "name": "are you curious?",
-      "url": "https://open.spotify.com/track/5LK1DcgHrVHOU00bQwTQG6"
+      "duration_ms": 169346,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/18slvcCbyVc4ODK67dveRm"
     },
     {
       "added_at": null,
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 169346,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/18slvcCbyVc4ODK67dveRm"
+      "duration_ms": 220106,
+      "name": "my funeral",
+      "url": "https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
       "duration_ms": 159966,
       "name": "A Song For Her",
       "url": "https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "my funeral",
-      "url": "https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx"
     },
     {
       "added_at": null,

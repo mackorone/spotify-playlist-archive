@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 427031,
+  "num_followers": 427071,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 254560,
       "name": "Nothing Happens Here",
       "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "For my lady",
         "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 283266,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 308786,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 386786,
-      "name": "Uncle John\u2019s Band",
-      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 386786,
+      "name": "Uncle John\u2019s Band",
+      "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
@@ -1487,6 +1463,30 @@
       "duration_ms": 403285,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
     },
     {
       "added_at": "2025-07-18 12:27:16",

@@ -346,10 +346,32 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 243201,
       "name": "Celia",
       "url": "https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9"
+    },
+    {
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243201,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
     },
     {
       "album": {

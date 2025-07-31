@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Francamente
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,247 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,205 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Róża](https://open.spotify.com/track/6eMb3cPoLTEfa7u8w4TSrE) | [Kochliwa Magda](https://open.spotify.com/artist/2cVWL2Lcr1E38bdn265vaG), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8), [Lulu](https://open.spotify.com/artist/4vobEJ4kSKRGljl6ih2ZRR) | [Róża](https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr) | 3:24 |
 | 50 | [Mrs Thomas](https://open.spotify.com/track/53RGmdd994Q2B65CphWwQC) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Mrs Thomas](https://open.spotify.com/album/0ubE6U59PiQM4fgehn5cp4) | 3:08 |
 
-Snapshot ID: `aIg5NAAAAAAFHM6I+OicIJZ0ip9EHQfA`
+Snapshot ID: `AAAAAC2IGCyJwV99N8BY3fzIECAJ/Rji`

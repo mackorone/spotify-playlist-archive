@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 179500,
+  "num_followers": 179523,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 144880,
+      "name": "Here, There And Everywhere - Remastered 2009",
+      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Innerquake",
         "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 212813,
       "name": "The Fade Out Line",
       "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Revolver (Remastered)",
-        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 144880,
-      "name": "Here, There And Everywhere - Remastered 2009",
-      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Bleed (feat. Omar Apollo)",
         "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 151867,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 156221,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -907,18 +907,34 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 151867,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
+      "duration_ms": 156221,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -955,22 +971,6 @@
       "duration_ms": 212532,
       "name": "Save a Little Love for Me",
       "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Friends Forever",
+        "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 170727,
+      "name": "Friends Forever",
+      "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Friends Forever",
-        "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        },
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Friends Forever",
-      "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Manga",
+        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Al\u0113",
         "url": "https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Manga",
-        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
       "artists": [
         {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         }
       ],
-      "duration_ms": 170413,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
+      "duration_ms": 155480,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1223,22 +1239,18 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Ain't It Kinda Funny (feat. City and Colour)",
-        "url": "https://open.spotify.com/album/0uqQkKlvrbcP2TcZqy6PWR"
+        "name": "Hits the Hits",
+        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        },
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+          "name": "Shawn Lee's Ping Pong Orchestra",
+          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
         }
       ],
-      "duration_ms": 366730,
-      "name": "Ain't It Kinda Funny (feat. City and Colour)",
-      "url": "https://open.spotify.com/track/1ICs8ifpdwtVTs5zCoEw8t"
+      "duration_ms": 231706,
+      "name": "Let Me Blow Your Mind",
+      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1259,6 +1271,42 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Ain't It Kinda Funny (feat. City and Colour)",
+        "url": "https://open.spotify.com/album/0uqQkKlvrbcP2TcZqy6PWR"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        },
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 366730,
+      "name": "Ain't It Kinda Funny (feat. City and Colour)",
+      "url": "https://open.spotify.com/track/1ICs8ifpdwtVTs5zCoEw8t"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 385677,
+      "name": "Montego Bay Spleen",
+      "url": "https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Please Don\u2018t Feed the Lions",
         "url": "https://open.spotify.com/album/4u6vUXnCBWaETCfba4FZCX"
       },
@@ -1271,58 +1319,6 @@
       "duration_ms": 235159,
       "name": "Please Don\u2018t Feed the Lions",
       "url": "https://open.spotify.com/track/0hUFW01KmgWe4IqYcNcga8"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Hits the Hits",
-        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
-      },
-      "artists": [
-        {
-          "name": "Shawn Lee's Ping Pong Orchestra",
-          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Let Me Blow Your Mind",
-      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Livin Alright",
-        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "Livin Alright",
-      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1347,34 +1343,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+        "name": "Livin Alright",
+        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
       "artists": [
         {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 385677,
-      "name": "Montego Bay Spleen",
-      "url": "https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
-      },
-      "artists": [
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
         {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+      "duration_ms": 176543,
+      "name": "Livin Alright",
+      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+      },
+      "artists": [
+        {
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
         "name": "Paradis bleu",
         "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
     },
     {
       "added_at": "2025-07-25 13:08:43",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-07-25 13:08:43",
       "album": {
-        "name": "Get Knocked Down",
-        "url": "https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 220593,
-      "name": "Get Knocked Down",
-      "url": "https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV"
-    },
-    {
-      "added_at": "2025-07-25 13:08:43",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+    },
+    {
+      "added_at": "2025-07-25 13:08:43",
+      "album": {
+        "name": "Get Knocked Down",
+        "url": "https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 220593,
+      "name": "Get Knocked Down",
+      "url": "https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV"
     },
     {
       "added_at": "2025-07-25 13:08:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! When hip\-hop meets jazz\. Fusion and samples\. Cover: Jeezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,948,099 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948,458 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [Never Scared \(feat\. Killer Mike & T.I.\) \- Club Mix](https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC) | [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [AttenCHUN!](https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi) | 5:16 |
 | 50 | [My Nigga](https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:55 |
 
-Snapshot ID: `AAAAANuKQKqNWtBmbQN3gXhs3rQYYTFU`
+Snapshot ID: `aIkObAAAAAArYG/3Q25bLefRbyN/C77p`

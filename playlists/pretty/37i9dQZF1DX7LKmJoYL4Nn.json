@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61011,
+  "num_followers": 61032,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-21 16:12:53",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
-        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
-        }
-      ],
-      "duration_ms": 288373,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
-    },
-    {
-      "added_at": "2025-07-21 16:12:53",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
         "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 240320,
       "name": "Dawning Angels",
       "url": "https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql"
+    },
+    {
+      "added_at": "2025-07-21 16:12:53",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 288373,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
     },
     {
       "added_at": "2025-07-21 16:12:53",

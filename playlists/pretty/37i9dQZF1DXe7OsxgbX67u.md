@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,293 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,408 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 61 | [I Am Yesterday](https://open.spotify.com/track/31gOEdNLFZEgIkF5hVrx0f) | [Zoe Boekbinder](https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119), [Gracie and Rachel](https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX) | [I Am Yesterday](https://open.spotify.com/album/0xZsPtfxzBTBzEvbb9lx90) | 3:37 |
 | 62 | [Ballad Of A Thin Place](https://open.spotify.com/track/0VkMYMMccsX2fE4BRLiSiD) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/7Fdr6rpnrWE6GsMzIyPh0g) | 4:16 |
 | 63 | [Forever](https://open.spotify.com/track/4Pn4v9RemDhJ2iOi0q11js) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 5:29 |
-| 64 | [Till Eulenspiegels lustige Streiche \(Till Eulenspiegel's Merry Pranks\), Op\. 28, TrV 171](https://open.spotify.com/track/2VBgLZhCSulbNcfg9ksff7) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Strasbourg Philharmonic Orchestra](https://open.spotify.com/artist/03Ao2MZkiUx1a8ARZDz5ZX), [Marc Albrecht](https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9) | [Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Traumerei Am Kamin](https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ) | 15:04 |
+| 64 | [Till Eulenspiegels lustige Streiche, Op\. 28, TrV 171: Till Eulenspiegels lustige Streiche \(Till Eulenspiegel's Merry Pranks\), Op\. 28, TrV 171](https://open.spotify.com/track/2VBgLZhCSulbNcfg9ksff7) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Orchestre Philharmonique De Strasbourg](https://open.spotify.com/artist/6ovcFUr31ei4FmtLIXtyNa), [Marc Albrecht](https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9) | [Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Träumerei Am Kamin](https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ) | 15:04 |
 | 65 | [u and me, but mostly me](https://open.spotify.com/track/3JVVqUHTCylHLm9wCLh5hL) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me](https://open.spotify.com/album/0QZZbn5ugHghTnSaHpPZPn) | 4:20 |
 | 66 | [I Can Get It Myself \(feat\. Bionik\)](https://open.spotify.com/track/58zkFnI1D8GHNXNrgQrekB) | [Aceyalone](https://open.spotify.com/artist/7CaUk9xCxdXAmmqQn3PLR7), [Bionik](https://open.spotify.com/artist/46ydYG7G0ABYU40mmEgUdA) | [Leanin' on Slick](https://open.spotify.com/album/020XQPs7cEdMspZwVfO6VV) | 2:45 |
 | 67 | [Riding Solo](https://open.spotify.com/track/7ljBw7FDHlYtWhUVKgcm7z) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Riding Solo](https://open.spotify.com/album/7e0HCVNR9U3CZqU1MCn0I6) | 3:36 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 72 | [Invincible](https://open.spotify.com/track/6WQJBaBfM1Ow66RIlc43SK) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:55 |
 | 73 | [Second Strongest Viltrumite](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 |
 
-Snapshot ID: `AAAAAOU9DR5AkqlyePU0r4G8xg2Pin9S`
+Snapshot ID: `Z9zobQAAAABAzZcBMFO0rga7jTUbeZNq`

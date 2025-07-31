@@ -48911,6 +48911,24 @@
     },
     {
       "album": {
+        "name": "Hello, Anxiety",
+        "url": "https://open.spotify.com/album/40squs3MkwvdLQI8FJ9A6p"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264761,
+      "name": "Hello, Anxiety",
+      "url": "https://open.spotify.com/track/1ZseaIKt19broBzze3F8hz"
+    },
+    {
+      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -70788,6 +70806,24 @@
       "duration_ms": 213868,
       "name": "Lovemonth",
       "url": "https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d"
+    },
+    {
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
       "album": {
@@ -109606,7 +109642,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 48506,
       "name": "Supplier",
       "url": "https://open.spotify.com/track/1ah2uXf2PFjLpSupcf1jG3"
@@ -136396,6 +136432,28 @@
       "duration_ms": 233266,
       "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
       "url": "https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/4HvqEmvY9MnZlL54ocnkE8"
+      },
+      "artists": [
+        {
+          "name": "Uri Nakayama",
+          "url": "https://open.spotify.com/artist/2sF48SGYclMSUiGNj8x34b"
+        },
+        {
+          "name": "\u5357\u52c7\u4ecb",
+          "url": "https://open.spotify.com/artist/4qse6oblCgJi8OEQ1WK05E"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282241,
+      "name": "\u30d7\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/3nS2X9u82BDbyuadKIzRT3"
     },
     {
       "album": {

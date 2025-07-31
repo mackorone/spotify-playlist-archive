@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 60185,
+  "num_followers": 60221,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 316919,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 316919,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Seconds",
         "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 172496,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196546,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 299000,
       "name": "BULLETS",
       "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
         }
       ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
     }
   ],
   "unique_name": "voltage",

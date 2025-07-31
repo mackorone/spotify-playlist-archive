@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 122432,
+  "num_followers": 122463,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-07-01 10:03:56",
       "album": {
+        "name": "Brahms: Complete Piano Music",
+        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 800000,
+      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
+      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
+    },
+    {
+      "added_at": "2025-07-01 10:03:56",
+      "album": {
         "name": "Brahms: Ein deutsches Requiem",
         "url": "https://open.spotify.com/album/3S030weAprKO8bXeLnpED3"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 684026,
       "name": "Ein deutsches Requiem, Op. 45: I. Selig sind, die da Leid tragen (Choir)",
       "url": "https://open.spotify.com/track/0PlyZVYZzBRr7mBEL9nkfi"
-    },
-    {
-      "added_at": "2025-07-01 10:03:56",
-      "album": {
-        "name": "Brahms: Complete Piano Music",
-        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 800000,
-      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
-      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
     },
     {
       "added_at": "2025-07-01 10:03:56",
@@ -699,7 +699,7 @@
     {
       "added_at": "2025-07-01 10:03:56",
       "album": {
-        "name": "Brahms: Symphony No. 3 / Haydn Variations",
+        "name": "Brahms: Symphony No. 3 - Haydn Variations",
         "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
       },
       "artists": [
@@ -987,7 +987,7 @@
     {
       "added_at": "2025-07-01 10:03:56",
       "album": {
-        "name": "Brahms: Symphony No. 3 / Haydn Variations",
+        "name": "Brahms: Symphony No. 3 - Haydn Variations",
         "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
       },
       "artists": [
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2025-07-01 10:03:56",
       "album": {
+        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Jeremy Denk",
+          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
+    },
+    {
+      "added_at": "2025-07-01 10:03:56",
+      "album": {
         "name": "Brahms: The Symphonies",
         "url": "https://open.spotify.com/album/0D8FPBeT77NdsjiwuSd103"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 563773,
       "name": "Academic Festival Overture, Op. 80",
       "url": "https://open.spotify.com/track/2luhnBAxsk3TYQa8yzP0Yz"
-    },
-    {
-      "added_at": "2025-07-01 10:03:56",
-      "album": {
-        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Jeremy Denk",
-          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
     },
     {
       "added_at": "2025-07-01 10:03:56",

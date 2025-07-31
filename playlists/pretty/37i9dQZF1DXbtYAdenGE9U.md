@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,511 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,864 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 23 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
 | 24 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 25 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
-| 26 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
-| 27 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
+| 26 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
+| 27 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
 | 28 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 29 | [Mystery Land](https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt) | [Y\-Traxx](https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT) | [Clubbin'spirit 2](https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht) | 4:01 |
 | 30 | [Greece 2000 \- Edit](https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:39 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 47 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
 | 48 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
 | 49 | [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 |
-| 50 | [Beautiful](https://open.spotify.com/track/5loz2QJNexqwK2jqEn1RF2) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Trance Top 1000 \- The Pioneers](https://open.spotify.com/album/12V7wbO3PZyHjcBymYzjTg) | 3:36 |
+| 50 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
 
 Snapshot ID: `Zp9+KwAAAAC3ASkKepCE6dvI+/4IuoXY`

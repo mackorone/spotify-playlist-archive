@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-189 songs - 10 hr 36 min
+190 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [No Jody for Me](https://open.spotify.com/track/76gDzIcSqbv1yBagYemuB2) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Bill Harvey Orchestra](https://open.spotify.com/artist/0HtnbKhdYVZBJmVcQcd7o2) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:46 | 2023-04-05 | 2023-09-26 |
 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 | 2022-08-05 |  |
 | [Partnership Blues](https://open.spotify.com/track/7qim9N7DJogtpRzT9hjlSD) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:40 | 2024-03-26 | 2024-03-28 |
+| [Partnership Blues](https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:40 | 2025-07-31 |  |
 | [Partnership Blues](https://open.spotify.com/track/7pqi5KNMRF2OgDZTpDpWzq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Joe Scott Orchestra](https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:42 | 2023-04-16 | 2023-05-17 |
 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 | 2022-08-05 |  |
 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/1mhHHEq4LG5QzlFwC6SokL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:35 | 2023-04-05 | 2023-04-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 649293,
+  "num_followers": 649464,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAABV2RgTeqmzkMzK13ZtJh00",
+  "snapshot_id": "aIgPAAAAAAAG/8uWlNW6KEu400bjcyh2",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Follow That Dream",
-      "url": "https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT"
+      "duration_ms": 111213,
+      "name": "Seven Tears",
+      "url": "https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 111213,
-      "name": "Seven Tears",
-      "url": "https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S"
+      "duration_ms": 233226,
+      "name": "Follow That Dream",
+      "url": "https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The List",
-        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 186226,
-      "name": "Sea Of Heartbreak",
-      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
+      "duration_ms": 390146,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 2024년 대한민국을 빛낸 팝 트랙들을 만나보세요! \(커버: Taylor Swift\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

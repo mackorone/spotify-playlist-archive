@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
@@ -5756,6 +5756,28 @@
       "duration_ms": 198019,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream (BLOND:ISH Remix)",
+        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191849,
+      "name": "Walking On A Dream - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "album": {

@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Ayoko Magmadali",
+        "url": "https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ayoko Magmadali",
+      "url": "https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2"
+    },
+    {
+      "album": {
         "name": "Ayos Lang",
         "url": "https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-31",
       "duration_ms": 219962,
       "name": "Exclusively",
       "url": "https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz"

@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Adventure Club",
+        "url": "https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2025-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83992,
+      "name": "WWIII Revisited",
+      "url": "https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf"
+    },
+    {
+      "album": {
         "name": "John Prine",
         "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },

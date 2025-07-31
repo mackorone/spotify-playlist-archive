@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27966,
+  "num_followers": 27965,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIa9gAAAAAD+e4xO4JN92AFyqfk5TnBD",
+  "snapshot_id": "aIgPAAAAAACDbdUWaTsy3EOBx3XIjeE+",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive: Refueled",
         "url": "https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 256941,
       "name": "Lights & Thunder - Darren Styles Remix",
       "url": "https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,

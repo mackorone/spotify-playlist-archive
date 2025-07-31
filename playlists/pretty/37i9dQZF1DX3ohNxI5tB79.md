@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,678 likes - 82 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,787 likes - 82 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 81 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 |
 | 82 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 |
 
-Snapshot ID: `AAAAAPvGljoPIFb3YEUhs2BbyT3Uua8s`
+Snapshot ID: `aHA4AAAAAADkAUnANISmURw4NljICZGT`

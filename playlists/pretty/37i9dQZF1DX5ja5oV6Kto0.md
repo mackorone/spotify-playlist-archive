@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,386 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,402 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Bomaye](https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1) | [Wondah](https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [WELCOME TO WONDAH:LAND](https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh) | 2:18 |
 | 80 | [iron sight \(feat\. Iver Rivers\)](https://open.spotify.com/track/324Buozu5QYGGRkzqNbdc9) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [iron sight \(feat\. Iver Rivers\)](https://open.spotify.com/album/6JA4FCXa1w3ouNcEyiun8B) | 3:16 |
 
-Snapshot ID: `aILJTgAAAADooVGFxrbmSnbCVTN2TU2c`
+Snapshot ID: `AAAAAN7WBPJ/CqeQ6xP+ugtNbXrtIVce`

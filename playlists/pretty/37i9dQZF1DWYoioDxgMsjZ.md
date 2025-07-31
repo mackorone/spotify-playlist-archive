@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,065 likes - 63 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,094 likes - 63 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 62 | [MONEY CAN'T BUY](https://open.spotify.com/track/2DxxlaZRW1ShN0B4fthZJ5) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:50 |
 | 63 | [bitch](https://open.spotify.com/track/56frwVSZrFB08jBrmt9ZQW) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [bitch](https://open.spotify.com/album/0Q58uvkt43jDJI7sAHZdFc) | 3:24 |
 
-Snapshot ID: `AAAAAMf5Ncwb7SjpCWaNVtY/e73gLZaG`
+Snapshot ID: `Z/09vwAAAAATi9eHV8YGKUHLE/wwgm01`

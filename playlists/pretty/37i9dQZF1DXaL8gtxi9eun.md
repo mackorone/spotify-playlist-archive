@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: نانسي عجرم
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,504 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,523 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 39 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 |
 | 40 | [Habibi El Adem](https://open.spotify.com/track/4ZBeKfRaClbgxPVM1CU3MP) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:00 |
 
-Snapshot ID: `aIIHjwAAAADZ9DyRAl/GQZQPO1xhUMPe`
+Snapshot ID: `AAAAAKS/OseioOTCvhf2EwvUv8SQ7UGp`

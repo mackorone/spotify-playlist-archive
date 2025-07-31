@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-96 songs - 6 hr 18 min
+97 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Barkha](https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP) | 4:21 | 2023-09-12 | 2024-04-19 |
 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 | 2024-03-28 |  |
 | [Barkha Bahaar](https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo) | [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g) | [Barkha Bahaar](https://open.spotify.com/album/3LA406x4e2QmWlasFedCAp) | 4:04 | 2023-08-22 |  |
+| [Barkha Ki Rut Aayi](https://open.spotify.com/track/7rZdTFbCznTBWeJ4Cpjy6j) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Dev Rathour](https://open.spotify.com/artist/3SgBJ7cDhZFNJ1dam2nA7n) | [Barkha Ki Rut Aayi](https://open.spotify.com/album/0NJeQ8sYvVU63EstMlPkFL) | 3:37 | 2025-07-30 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2023-05-09 |  |
 | [Beh Bhi Le](https://open.spotify.com/track/4WBbMC0lSXQ8uu1I3iG8NP) | [Priyansh Paliwal](https://open.spotify.com/artist/3wzlbHYttOCz2NLyovlfXX) | [Sunday](https://open.spotify.com/album/1FUMdT2QZWjOuM4r1Gp5FN) | 4:14 | 2023-05-09 |  |
 | [Bemausam Baarish](https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Bemausam Baarish](https://open.spotify.com/album/0xBbItufW99JKgkNiFG937) | 3:34 | 2024-06-25 |  |

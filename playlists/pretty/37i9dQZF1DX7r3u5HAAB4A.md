@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\.  Cover: Vybz Kartel and Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,583 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,756 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 7 | [Protocol](https://open.spotify.com/track/0o5lWtD85zCURUU1bXj7mQ) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
 | 8 | [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 |
 | 9 | [Born in Jamaica](https://open.spotify.com/track/5S7rhnNkFFfUcLWhsvv9L8) | [Friends Only](https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [MediSun](https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Born in Jamaica](https://open.spotify.com/album/3cjWNe9LWwJ9d2GLDFyGqb) | 4:04 |
-| 10 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/3GOr91sZcAFR8cUAXH66D0), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 |
+| 10 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 |
 | 11 | [Hot Gyal Anthem](https://open.spotify.com/track/1MCPPjy2vAVt4CwJjfg7gK) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:16 |
 | 12 | [Rich N Richer \- Raw](https://open.spotify.com/track/4sW8m27NH2o0PlctCResMv) | [Pablo YG](https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K) | [Rich N Richer \(Raw\)](https://open.spotify.com/album/4ah18uKOA9IrEF4P9ykKFU) | 3:27 |
 | 13 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 |
 | 100 | [Romantic \(with Masicka\)](https://open.spotify.com/track/2pMUyYmRRwom1SdYzBtE17) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Romantic \(with Masicka\)](https://open.spotify.com/album/6YjD4IDZsKPxWx7iFlV8L7) | 2:38 |
 
-Snapshot ID: `aIMBfgAAAABPiMSuDC8IS2lAvHRnWaJd`
+Snapshot ID: `AAAAAFjRjbjqEhNdyZ4WGaL+viDnkhRM`

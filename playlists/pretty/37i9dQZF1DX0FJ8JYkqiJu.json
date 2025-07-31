@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 410094,
+  "num_followers": 410143,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
-      },
-      "artists": [
-        {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
-        },
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 151025,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -1011,22 +991,22 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "Save My Soul",
-        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
+      "duration_ms": 151025,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -1047,6 +1027,26 @@
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
+        "name": "Save My Soul",
+        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
     },
     {
       "added_at": "2025-06-23 14:00:07",

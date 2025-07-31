@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 
 > Great food, good company and some soft music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,614 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,505 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 99 | [First Try](https://open.spotify.com/track/5V2tLRgrwtQjTrCxmYVLZ8) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Georgica Pond](https://open.spotify.com/album/7ijL8KF5a1FTAmXU8X33Y3) | 2:56 |
 | 100 | [High Hope](https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 4:11 |
 
-Snapshot ID: `Z+Ye3QAAAADWSbTIWapxGL8nEWbqCKKx`
+Snapshot ID: `AAAAAEsWlYwLSWBAgD72qa0fWQTCTPoq`

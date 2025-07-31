@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lola Young,  Drake & Central Cee, sombr, Luke Combs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,418,175 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,417,737 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [Life Behind Bars](https://open.spotify.com/track/2xa6tkIvKAtbjIirdxJXcd) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Life Behind Bars](https://open.spotify.com/album/35BIDAlQWIo5BV3VSTSB5j) | 2:45 |
 | 99 | [SAME DAY SERVICE](https://open.spotify.com/track/54TQ42U3wuYx0J2GbvFNwz) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [SAME DAY SERVICE](https://open.spotify.com/album/7C124gCMEQrwhvtT8s0Hfi) | 2:39 |
 
-Snapshot ID: `AAAAAOlvQbdHSrLJLm8bASeRYfP6BTGI`
+Snapshot ID: `aIPg4gAAAAAJhl5kdl81vTKW/Na461aT`

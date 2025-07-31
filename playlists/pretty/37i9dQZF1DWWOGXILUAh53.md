@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,626 likes - 118 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,748 likes - 118 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

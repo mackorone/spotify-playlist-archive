@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 71424,
+  "num_followers": 71435,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Surfers Paradise (Expanded)",
-        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "La Da Dee",
-      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Divinyls",
         "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 227640,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Surfers Paradise (Expanded)",
+        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 196786,
+      "name": "La Da Dee",
+      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209754,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Sound Of White",
         "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 256105,
       "name": "The Horses",
       "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209754,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -527,6 +527,38 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Resolution - EP",
+        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 256389,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Changa",
         "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
@@ -547,18 +579,34 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Resolution - EP",
-        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 256389,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -627,22 +675,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
       },
@@ -659,50 +691,34 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
       },
       "artists": [
         {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+      "duration_ms": 292466,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
     },
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+        "name": "Ivy & The Big Apples",
+        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
       },
       "artists": [
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "Spiderbait",
+          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
         }
       ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
-      },
-      "artists": [
-        {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+      "duration_ms": 111293,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -739,22 +755,6 @@
       "duration_ms": 229120,
       "name": "20 Good Reasons",
       "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
-      },
-      "artists": [
-        {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
-        }
-      ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Reprisal",
         "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 226350,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Take Me Over",
         "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 208121,
       "name": "Take Me Over",
       "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Unit",
+        "url": "https://open.spotify.com/album/1M9n4vCmOH4lbcHrpt21Qy"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator",
+          "url": "https://open.spotify.com/artist/6n3YUZcayLRuAunJUUelvz"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "! (The Song Formerly Known As)",
+      "url": "https://open.spotify.com/track/4AFCrbzvR3vLfekhABLjDU"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
       },
@@ -1123,42 +1139,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Perennial",
-        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Regular Touch",
-      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Ripcord (Australian Tour Edition)",
-        "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "On A Clear Night (Deluxe)",
         "url": "https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3"
       },
@@ -1171,6 +1151,22 @@
       "duration_ms": 231640,
       "name": "Steer",
       "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Regular Touch",
+      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
     }
   ],
   "unique_name": "Aussie Pop Classics",
