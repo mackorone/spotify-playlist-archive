@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOmSZqdaUEH.md) - [plain]
 
 > Listen to the soundtracks of Miss Night and Day\. \(낮과 밤이 다른 그녀의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,837 likes - 24 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,842 likes - 24 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Day & Night](https://open.spotify.com/track/4jmErvspZGl9kYKzUhXkME) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Miss Night and Day \(Original Television Soundtrack\)](https://open.spotify.com/album/3I83BQRPW9TIyvEgJGSMy4) | 3:20 |
 | 2 | [Stay](https://open.spotify.com/track/1b2IjQzK7jW0cKwZSZ4buN) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Miss Night and Day \(Original Television Soundtrack\)](https://open.spotify.com/album/2nZFm3bbJwr0rgbcG4ZFJW) | 3:59 |
-| 3 | [I Like That](https://open.spotify.com/track/4VrBwIRElcmaiwwSYx9ksk) | [JD1](https://open.spotify.com/artist/6y0LC7jdOFxVUG164nXZoI) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4kBtPy6AFSd7tdMpyCnEN4) | 3:21 |
+| 3 | [I Like That](https://open.spotify.com/track/4VrBwIRElcmaiwwSYx9ksk) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4kBtPy6AFSd7tdMpyCnEN4) | 3:21 |
 | 4 | [Lucky Charm](https://open.spotify.com/track/2Al2YIy0UvZOXJBm7xf4Bf) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3kHpmhoOVHOPE8m3AKlIJ9) | 3:09 |
 | 5 | [She's back](https://open.spotify.com/track/3FIMezfbs8ANGa6mGEveNI) | [THE VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [Miss Night and Day \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0FxGdOiuYg6Lq3IDEAe5Ky) | 3:23 |
 | 6 | [My Little Dream](https://open.spotify.com/track/31oMKy2r0wUY6VzirHvmvC) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Miss Night and Day \(Original Television Soundtrack\)](https://open.spotify.com/album/6Uhf8JKwijeRsnKplGBzce) | 3:26 |

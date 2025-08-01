@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 84193,
+  "num_followers": 84293,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABR4pNx0B3KSILugLXqXpEh",
+  "snapshot_id": "aIlggAAAAABVas8epO9k22mnwLI8W6P5",
   "tracks": [
     {
       "added_at": null,
@@ -1131,6 +1131,58 @@
       "duration_ms": 195324,
       "name": "Sigo na Sombra",
       "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonho das Esquinas",
+        "url": "https://open.spotify.com/album/7mdJzXUmc1DxpXTNpSQQO2"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Sonho das Esquinas",
+      "url": "https://open.spotify.com/track/4GvOLMwaQBdFyK9UyJNJok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KGL's",
+        "url": "https://open.spotify.com/album/2n1S05G2cL2rYo3egHTS5K"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 258782,
+      "name": "KGL's",
+      "url": "https://open.spotify.com/track/2P8SmEUI18LEdTBuOsT3TF"
     }
   ],
   "unique_name": "This Is BK",

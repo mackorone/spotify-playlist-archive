@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3krFAzyOjl0.md) - [plain]
 
 > BTS Festa를 기념하며 멤버들이 직접 뽑은 BTS 베스트 곡을 들어보세요! \(To celebrate BTS Festa, listen to the best BTS songs chosen by the members themselves!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,349 likes - 21 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,332 likes - 21 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3krFAzyOjl0.md) - [plain]
 | 20 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 21 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 |
 
-Snapshot ID: `aEtwxgAAAAAh8QAcFXil0nRVab8xyCX/`
+Snapshot ID: `AAAAADHxxu36RcVRv97l5u2ou1XsVnP8`

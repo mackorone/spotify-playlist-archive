@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 229,073 likes - 510 songs - 1 day 2 hr 18 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 229,065 likes - 510 songs - 1 day 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

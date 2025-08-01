@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 
 > Enjoy the Stray Kids Seoul world tour LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,688 likes - 36 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,267 likes - 36 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 | 35 | [I.N'S VOICE MEMO](https://open.spotify.com/track/3h5X5WfxL6sEZL10B7zJRN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids WORLD TOUR \[dominATE SEOUL\]](https://open.spotify.com/album/3003GnkqUGYkG0nmNRNu9o) | 0:10 |
 | 36 | [Hall of Fame](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:51 |
 
-Snapshot ID: `Zuf+kAAAAACNYeWLKmsth5bfEA2x7Sk8`
+Snapshot ID: `AAAAAPe6KpwoicF2l6LYxBtHzwZr0Mvi`

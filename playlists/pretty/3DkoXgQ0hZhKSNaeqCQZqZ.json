@@ -1,13 +1,141 @@
 {
   "description": "Made for furs, by furs.  New Twitter @FurryRadio",
-  "num_followers": 645,
+  "num_followers": 644,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADxapOy+bB0HCFrIbYwUlQIoG6v7ea",
+  "snapshot_id": "AAAD1LI7LvdeLnO0qAfrZbkub/N0wDdF",
   "tracks": [
+    {
+      "added_at": "2025-08-01 01:11:46",
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/76olX1Q3j5mumCBBeUEYyD"
+    },
+    {
+      "added_at": "2025-08-01 01:12:05",
+      "album": {
+        "name": "Four on the Floor (Find You)",
+        "url": "https://open.spotify.com/album/0hI2u6PJpcPV7ryd8lcEaf"
+      },
+      "artists": [
+        {
+          "name": "Friends Without Faces",
+          "url": "https://open.spotify.com/artist/2rBIhSqg9o2UCJizO5r3on"
+        }
+      ],
+      "duration_ms": 259009,
+      "name": "Four on the Floor (Find You)",
+      "url": "https://open.spotify.com/track/3AgA6iKpyh9P3ozPnDYCh5"
+    },
+    {
+      "added_at": "2025-08-01 01:14:42",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/4ZvOHUK6wHjlkKcSRnTKS0"
+      },
+      "artists": [
+        {
+          "name": "Keep it Together",
+          "url": "https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8"
+        }
+      ],
+      "duration_ms": 263478,
+      "name": "Navigator",
+      "url": "https://open.spotify.com/track/3amMWuBp10nWzaZiPafrBO"
+    },
+    {
+      "added_at": "2025-08-01 01:12:42",
+      "album": {
+        "name": "See This Day Come",
+        "url": "https://open.spotify.com/album/5IzQnzMlWwLsjYxdlKSw4y"
+      },
+      "artists": [
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "duration_ms": 176104,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/1BJ4cnNwfJx1N9TQ1V7EcW"
+    },
+    {
+      "added_at": "2025-08-01 01:13:00",
+      "album": {
+        "name": "mind trying?",
+        "url": "https://open.spotify.com/album/2t48vt1B4nTxo58ts0GVdU"
+      },
+      "artists": [
+        {
+          "name": "phimtown",
+          "url": "https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X"
+        },
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        },
+        {
+          "name": "deers",
+          "url": "https://open.spotify.com/artist/5RSAKrQ87ivLRrXMd5u8tJ"
+        }
+      ],
+      "duration_ms": 141529,
+      "name": "mind trying?",
+      "url": "https://open.spotify.com/track/0eT0jqUFBZDKIeZjyEqxkv"
+    },
+    {
+      "added_at": "2025-08-01 01:12:11",
+      "album": {
+        "name": "idgaf",
+        "url": "https://open.spotify.com/album/7w6kUDSS6P6Ke136L57YvS"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        },
+        {
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "it's embr",
+          "url": "https://open.spotify.com/artist/6AvVTu4rBOCKyLAeXxbFdH"
+        }
+      ],
+      "duration_ms": 170443,
+      "name": "idgaf",
+      "url": "https://open.spotify.com/track/1ZUpVM3IZrJesM9fb1Ik6F"
+    },
+    {
+      "added_at": "2025-07-25 20:40:32",
+      "album": {
+        "name": "junk",
+        "url": "https://open.spotify.com/album/0LDlUwMHU7FrhVpPFYAybu"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "junk",
+      "url": "https://open.spotify.com/track/0wHvcNpZpYHaBtGMBTwo0B"
+    },
     {
       "added_at": "2025-07-18 23:42:13",
       "album": {
@@ -29,82 +157,6 @@
       "url": "https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS"
     },
     {
-      "added_at": "2025-06-27 16:40:47",
-      "album": {
-        "name": "better start",
-        "url": "https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        },
-        {
-          "name": "chattybaxi",
-          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
-        }
-      ],
-      "duration_ms": 109649,
-      "name": "better start",
-      "url": "https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX"
-    },
-    {
-      "added_at": "2025-07-03 02:00:13",
-      "album": {
-        "name": "$USPICIOUSLY WEALTHY FURRIE$",
-        "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        },
-        {
-          "name": "lil fasty",
-          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
-        }
-      ],
-      "duration_ms": 91304,
-      "name": "BALENCIAGA DOGS",
-      "url": "https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320"
-    },
-    {
-      "added_at": "2025-06-16 02:33:42",
-      "album": {
-        "name": "ALL BITE NO BARK!",
-        "url": "https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        },
-        {
-          "name": "Dea_Pressed",
-          "url": "https://open.spotify.com/artist/5IHmBy1wo43rPzugHhEfWK"
-        }
-      ],
-      "duration_ms": 99455,
-      "name": "ALL BITE NO BARK!",
-      "url": "https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv"
-    },
-    {
-      "added_at": "2025-07-25 20:40:32",
-      "album": {
-        "name": "junk",
-        "url": "https://open.spotify.com/album/0LDlUwMHU7FrhVpPFYAybu"
-      },
-      "artists": [
-        {
-          "name": "fauxx",
-          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "junk",
-      "url": "https://open.spotify.com/track/0wHvcNpZpYHaBtGMBTwo0B"
-    },
-    {
       "added_at": "2025-07-29 19:08:21",
       "album": {
         "name": "HEAT",
@@ -119,42 +171,6 @@
       "duration_ms": 240017,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw"
-    },
-    {
-      "added_at": "2025-07-03 01:14:53",
-      "album": {
-        "name": "PINK N BLUE",
-        "url": "https://open.spotify.com/album/31kF1trWzpsoWQIvx5YQ5C"
-      },
-      "artists": [
-        {
-          "name": "Mawstar",
-          "url": "https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a"
-        },
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        }
-      ],
-      "duration_ms": 133871,
-      "name": "PINK N BLUE",
-      "url": "https://open.spotify.com/track/53XS33jnUZi1JOi2xEHTe4"
-    },
-    {
-      "added_at": "2025-07-24 02:55:48",
-      "album": {
-        "name": "$USPICIOUSLY WEALTHY FURRIE$",
-        "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        }
-      ],
-      "duration_ms": 135730,
-      "name": "i got hit by a range rover in fursuit",
-      "url": "https://open.spotify.com/track/4N6ZVRuGMdFyGH1g27x3oU"
     },
     {
       "added_at": "2025-07-17 23:08:29",
@@ -191,6 +207,26 @@
       "duration_ms": 120170,
       "name": "broke.exe",
       "url": "https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf"
+    },
+    {
+      "added_at": "2025-07-03 01:14:53",
+      "album": {
+        "name": "PINK N BLUE",
+        "url": "https://open.spotify.com/album/31kF1trWzpsoWQIvx5YQ5C"
+      },
+      "artists": [
+        {
+          "name": "Mawstar",
+          "url": "https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 133871,
+      "name": "PINK N BLUE",
+      "url": "https://open.spotify.com/track/53XS33jnUZi1JOi2xEHTe4"
     },
     {
       "added_at": "2025-06-27 03:27:02",
@@ -309,6 +345,22 @@
       "url": "https://open.spotify.com/track/5182eSwZytleUce3d5qbmA"
     },
     {
+      "added_at": "2025-07-24 02:55:48",
+      "album": {
+        "name": "$USPICIOUSLY WEALTHY FURRIE$",
+        "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 135730,
+      "name": "i got hit by a range rover in fursuit",
+      "url": "https://open.spotify.com/track/4N6ZVRuGMdFyGH1g27x3oU"
+    },
+    {
       "added_at": "2025-06-05 00:37:51",
       "album": {
         "name": "run amok!",
@@ -375,6 +427,26 @@
       "duration_ms": 132083,
       "name": "I DONT WANNA KNOW",
       "url": "https://open.spotify.com/track/266Pwgq4t80Ra48KUeL3jd"
+    },
+    {
+      "added_at": "2025-06-27 16:40:47",
+      "album": {
+        "name": "better start",
+        "url": "https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "chattybaxi",
+          "url": "https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj"
+        }
+      ],
+      "duration_ms": 109649,
+      "name": "better start",
+      "url": "https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX"
     },
     {
       "added_at": "2025-05-20 06:07:48",
@@ -451,6 +523,26 @@
       "duration_ms": 156000,
       "name": "Imn\u00edoch",
       "url": "https://open.spotify.com/track/7efo4RmYcdwxLiChZHDVjt"
+    },
+    {
+      "added_at": "2025-07-03 02:00:13",
+      "album": {
+        "name": "$USPICIOUSLY WEALTHY FURRIE$",
+        "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        }
+      ],
+      "duration_ms": 91304,
+      "name": "BALENCIAGA DOGS",
+      "url": "https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320"
     },
     {
       "added_at": "2025-04-16 17:21:52",
@@ -807,6 +899,26 @@
       "duration_ms": 205732,
       "name": "talk my shit",
       "url": "https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw"
+    },
+    {
+      "added_at": "2025-06-16 02:33:42",
+      "album": {
+        "name": "ALL BITE NO BARK!",
+        "url": "https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "Dea_Pressed",
+          "url": "https://open.spotify.com/artist/5IHmBy1wo43rPzugHhEfWK"
+        }
+      ],
+      "duration_ms": 99455,
+      "name": "ALL BITE NO BARK!",
+      "url": "https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv"
     },
     {
       "added_at": "2025-03-07 21:45:49",

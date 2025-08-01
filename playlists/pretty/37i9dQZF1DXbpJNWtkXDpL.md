@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,671 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,695 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 31 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
 | 32 | [PANAMIUR](https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [SEX\-TEX](https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS) | 2:51 |
 | 33 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
-| 34 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
-| 35 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |
+| 34 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |
+| 35 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
 | 36 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
 | 37 | [Un Error](https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr) | [Monte Carlo](https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K) | [Un Error](https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b) | 3:59 |
 | 38 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 72 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
 | 73 | [PECAR O MORIR](https://open.spotify.com/track/3IszEykw0GCI400DKnNiLU) | [Khash](https://open.spotify.com/artist/6SczbkyOyIxq2fO30TO6eb), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH), [IGWT](https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE) | [PECAR O MORIR](https://open.spotify.com/album/2ygx4LSExZk8R0fLHyHdXk) | 5:04 |
 | 74 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
-| 75 | [lady on my body!](https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74) | [lady on my body!](https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1) | 2:23 |
+| 75 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
 
 Snapshot ID: `aF4zegAAAAD756WF9N/aLy1LG2jS2gUN`

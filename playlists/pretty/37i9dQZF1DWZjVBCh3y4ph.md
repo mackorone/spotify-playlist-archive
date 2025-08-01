@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : LÉA CHURROS
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,277 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,327 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Malin](https://open.spotify.com/track/1K2GYTdC5izc5ccZ1joDM2) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Malin](https://open.spotify.com/album/18HpPvMadrNskTcePF4ZVY) | 2:27 |
 | 40 | [Toxic](https://open.spotify.com/track/4mu20BQcDwqTRwIjXi7LgX) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Toxic](https://open.spotify.com/album/6vTkMnhW0kmJFZQeNbwcLU) | 3:05 |
 
-Snapshot ID: `aIKs/QAAAABG7w62EFl9aSNVw7PTNfux`
+Snapshot ID: `AAAAAKLnVjrBCe4Nabw7s183HqAY5wGI`

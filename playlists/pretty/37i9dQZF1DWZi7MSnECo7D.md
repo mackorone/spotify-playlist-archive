@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: YMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,942 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,838 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Caco](https://open.spotify.com/track/0DhW5Qsf3PBbIz5EfG619L) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Caco](https://open.spotify.com/album/2OBDrtPglyBYXsW7ss1WLk) | 3:06 |
 | 80 | [Parati](https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [Parati](https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV) | 2:46 |
 
-Snapshot ID: `AAAAAJ8TXLj872TriyXKJJgCod4wYDit`
+Snapshot ID: `aIQF2wAAAAAkJjACvpwRyHHFRHNc0Lmy`

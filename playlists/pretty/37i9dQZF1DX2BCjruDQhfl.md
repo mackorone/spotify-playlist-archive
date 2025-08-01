@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving feelings\. Cover: CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,261 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,260 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [+31621301535, it’s me!](https://open.spotify.com/track/1TTLUl9soGs2aQXKcWgKpO) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [+31621301535, it’s me!](https://open.spotify.com/album/2Q8BsPhS5JMCvvpN1SXkNS) | 2:16 |
 | 100 | [Green Flags](https://open.spotify.com/track/44sRZttowhlCIYjpSqG1px) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Green Flags](https://open.spotify.com/album/7pvabLAmCchfK2RGG1xjEo) | 2:21 |
 
-Snapshot ID: `aHlyigAAAADb3XUnxSwDXc9ar6NJWApm`
+Snapshot ID: `AAAAAByPKMa7YgmfKGr6UFJVb654W85Y`

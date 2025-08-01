@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Songwriters and storytellers \ud83d\udcda Cover: Billie Marten",
+  "description": "Songwriters and storytellers \ud83d\udcda Cover: Pedro Santos",
   "name": "Common Thread",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 184134,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/6NrhdHt3Pv5xMYxdbJ6GSX"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 167096,
       "name": "Complete Fool",
       "url": "https://open.spotify.com/track/0Qa3BREh37wpMM2vFAZehc"
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Hasti's Reverie",
+        "url": "https://open.spotify.com/album/17y1X7CxiDSCLKeUYSYqMv"
+      },
+      "artists": [
+        {
+          "name": "Hasti",
+          "url": "https://open.spotify.com/artist/50azamEJoiIaePsYqC09fU"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221517,
+      "name": "Dive Into You",
+      "url": "https://open.spotify.com/track/1OdepkuTLJoj4af0EyoZJG"
+    },
+    {
+      "album": {
         "name": "Listen to this when you buy a house",
         "url": "https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv"
       },
@@ -1576,6 +1594,28 @@
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY"
+      },
+      "artists": [
+        {
+          "name": "Gary Barlow",
+          "url": "https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205811,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9"
     },
     {
       "album": {
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 200780,
       "name": "Feeling It All",
       "url": "https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC"
@@ -2571,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Guinness",
+        "url": "https://open.spotify.com/album/5c8ZIRrCpsMJlz6B1v5sWa"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163725,
+      "name": "Guinness",
+      "url": "https://open.spotify.com/track/69wHfWFQD8Mkbwj4nrtyMI"
+    },
+    {
+      "album": {
         "name": "Guy For That",
         "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
       },
@@ -2784,7 +2842,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 247304,
       "name": "High Hope",
       "url": "https://open.spotify.com/track/58BJtGjMyGZHZhFltXR4Zg"
@@ -3018,7 +3076,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
@@ -3651,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "Lady In Red",
+        "url": "https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155604,
+      "name": "Lady In Red",
+      "url": "https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3"
+    },
+    {
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
       },
@@ -3972,7 +4048,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 194734,
       "name": "Looking Out For You",
       "url": "https://open.spotify.com/track/4VpF2FVYmwP4CuFBIf4Pvn"
@@ -5007,6 +5083,28 @@
     },
     {
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
+    },
+    {
+      "album": {
         "name": "Pages",
         "url": "https://open.spotify.com/album/6V7zu8B3xRHgIPWulWmIaH"
       },
@@ -5246,7 +5344,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 215000,
       "name": "Pretty Tough",
       "url": "https://open.spotify.com/track/0d8rPhY14S26jLAz2TM1wh"
@@ -5304,7 +5402,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 242571,
       "name": "PVC Divide (feat. Anais Mitchell)",
       "url": "https://open.spotify.com/track/0A52dkDrfK9vH2o0wA9KoA"
@@ -5434,6 +5532,24 @@
       "duration_ms": 151800,
       "name": "River Of Tears",
       "url": "https://open.spotify.com/track/4sC2H6ja1JalHAiPnR4gBA"
+    },
+    {
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe"
+      },
+      "artists": [
+        {
+          "name": "Sophia Grover",
+          "url": "https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255477,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx"
     },
     {
       "album": {
@@ -6093,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "Song That I Sing",
+        "url": "https://open.spotify.com/album/4ve29uplr8eRg4MOHR4I9H"
+      },
+      "artists": [
+        {
+          "name": "Billy Reekie",
+          "url": "https://open.spotify.com/artist/4HtYFOtukrRd7RPkTqUAVr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177100,
+      "name": "Song That I Sing",
+      "url": "https://open.spotify.com/track/5FYz0KlyvUxKx5cbfkJiwJ"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -6472,6 +6606,24 @@
       "duration_ms": 173000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+    },
+    {
+      "album": {
+        "name": "Sweet Teeth",
+        "url": "https://open.spotify.com/album/08AABFfqUjf1ciLuvg6uyb"
+      },
+      "artists": [
+        {
+          "name": "Theo Lear",
+          "url": "https://open.spotify.com/artist/40ywafLS6QHUEmssWuTkxG"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177618,
+      "name": "Sweet Teeth",
+      "url": "https://open.spotify.com/track/4cc4PxIF6eBP5EPNC3KYdI"
     },
     {
       "album": {
@@ -7755,6 +7907,42 @@
     },
     {
       "album": {
+        "name": "where she goes",
+        "url": "https://open.spotify.com/album/3eM5UVO7vAaPVqrsyaNPRD"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246690,
+      "name": "Where She Goes",
+      "url": "https://open.spotify.com/track/4G6ZTfgQa1FKPRhHmcUcsz"
+    },
+    {
+      "album": {
+        "name": "Who Made You This Sweet?",
+        "url": "https://open.spotify.com/album/3LUlVGkfE2c75dzK9wtSXG"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Who Made You This Sweet?",
+      "url": "https://open.spotify.com/track/1f8tVpxHWlJQEVku0as7Fk"
+    },
+    {
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/0VasOZnJBnlDCluO8MpdjW"
       },
@@ -7882,7 +8070,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 221441,
       "name": "Wolf River",
       "url": "https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty"
@@ -8062,7 +8250,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 165011,
       "name": "Your Villain",
       "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"

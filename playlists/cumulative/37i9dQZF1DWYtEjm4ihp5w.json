@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Bjouj",
+        "url": "https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Bjouj",
+      "url": "https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg"
+    },
+    {
+      "album": {
         "name": "BlackBerry",
         "url": "https://open.spotify.com/album/6WJfe5N7rppndgC0Hz007S"
       },
@@ -7732,7 +7750,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 200909,
       "name": "We9tna",
       "url": "https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua"

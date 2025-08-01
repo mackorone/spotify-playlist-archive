@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Coeur maladroit " de Marine est le Grand Hit de la semaine.
+> "Viens on essaie " de Vitaa et Julien Doré est le Grand Hit de la semaine.
 
 265 songs - 13 hr 37 min
 

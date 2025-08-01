@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Avolia
 
-255 songs - 20 hr 14 min
+257 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,11 +231,13 @@
 | [Suratan](https://open.spotify.com/track/7rEx000N7r1YF095T1195J) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA), [Risa Amel](https://open.spotify.com/artist/6pqO787uECZjC2ZfLOi9QU) | [Suratan](https://open.spotify.com/album/3MaaepFhcUUuHPmSAq3IUD) | 5:10 | 2024-10-04 |  |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
 | [Syair Bidadari](https://open.spotify.com/track/1HcovJlkDKYmC8XFS6yT2k) | [LitaLy](https://open.spotify.com/artist/0GaVYWWQgbhglhWmMphflr) | [Syair Bidadari](https://open.spotify.com/album/3St0I5wMX7cCcuz2tqgk1d) | 4:29 | 2024-03-22 | 2024-09-27 |
+| [Tak Halu Lagi](https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tak Halu Lagi](https://open.spotify.com/album/1sknQvj8wY6k2dJJ0JIY3L) | 4:07 | 2025-07-31 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 | 2024-02-16 |
 | [Tak Punya Hati](https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Tak Punya Hati](https://open.spotify.com/album/1s4YQT0dv9lhPJWjd3hA3s) | 5:46 | 2023-11-03 |  |
 | [Tanda Bahaya Cinta](https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Tanda Bahaya Cinta](https://open.spotify.com/album/44lB9hri6xlXug8Pt2TyW7) | 3:14 | 2024-10-31 |  |
+| [Tanpa Ikatan](https://open.spotify.com/track/4jKKKP0iVOior0OPF57nl7) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Tanpa Ikatan](https://open.spotify.com/album/0wfhiLLZ6P7VjDiQLe4G0j) | 4:34 | 2025-07-31 |  |
 | [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 | 2024-05-03 |
 | [Tanyakan Pada Hatimu](https://open.spotify.com/track/5dZhfSfgBFoftFV5agpTuj) | [Nazia Marwiana](https://open.spotify.com/artist/7g39o49fJ4Ku91kiBVmaCW) | [Tanyakan Pada Hatimu](https://open.spotify.com/album/641QUCL8LNngbYoKUDbavO) | 5:40 | 2025-03-07 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-08-23 | 2023-02-05 |

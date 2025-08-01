@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Wet Iguanas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,199 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,210 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [Patina o muere](https://open.spotify.com/track/3ImytZV861J2kUmf7E0OPD) | [Bisagra](https://open.spotify.com/artist/0KJYbxHD69vP6pMQRJSN0q) | [Patina o muere](https://open.spotify.com/album/3nAukObP7qdShUzX6yWvjv) | 3:22 |
 | 49 | [A 120](https://open.spotify.com/track/0fpF6bnnBXwajQ8eCeQGzC) | [Casablanca](https://open.spotify.com/artist/4p5YmSzDVhTtZ0ucLthqKt) | [A 120](https://open.spotify.com/album/6xhcrqSwElDM2jeNOpKMEZ) | 2:32 |
 
-Snapshot ID: `aIlEeAAAAADx/gpxzxV/erORXC4du36V`
+Snapshot ID: `AAAAAK78D5hI0gyxxIbcttpCVrNUuLeq`

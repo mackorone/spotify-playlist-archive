@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 167167,
       "name": "amor verdadero",
       "url": "https://open.spotify.com/track/4r6sfS4gS6EerIsx3oSKez"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -1620,10 +1638,28 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "album": {
+        "name": "Cuando Estamos T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159342,
+      "name": "Cuando Estamos T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "album": {
@@ -2199,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "El Despertador",
+        "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "El Despertador",
+      "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
+    },
+    {
+      "album": {
         "name": "El Jefe",
         "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
       },
@@ -2334,7 +2392,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 173877,
       "name": "Ella o Yo",
       "url": "https://open.spotify.com/track/2MtiFgU6hWIMaPS52h2CCu"
@@ -2908,7 +2966,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 175204,
       "name": "Hay Un Cuento - Margarita x Yami Safdie",
       "url": "https://open.spotify.com/track/0X8BbvGhHINKM9tiJOtTkC"
@@ -4269,12 +4327,12 @@
         },
         {
           "name": "TINI",
-          "url": "https://open.spotify.com/artist/7f57bgAVIYPXI6ykF3BSqa"
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
@@ -5514,7 +5572,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 132290,
       "name": "OOPS!",
       "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
@@ -8312,7 +8370,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172363,
       "name": "voltaje",
       "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"

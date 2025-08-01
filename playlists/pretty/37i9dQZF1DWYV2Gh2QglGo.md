@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,476 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,477 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 72 | [7 Words](https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [7 Words](https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv) | 3:27 |
 | 73 | [How Do You Miss Me \(feat\. Alexandra Kay\)](https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do You Miss Me](https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7) | 3:02 |
 
-Snapshot ID: `aIMBnwAAAABbSxHoDDdmgYvIVDUcn70B`
+Snapshot ID: `aIMBnwAAAAAfTsulG027VR1UXoKFqVjL`

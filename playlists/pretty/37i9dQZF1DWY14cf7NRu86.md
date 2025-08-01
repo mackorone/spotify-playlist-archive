@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,640 likes - 62 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,639 likes - 62 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 61 | [O Christmas Tree](https://open.spotify.com/track/2zrUWjXE1h826NNsjpHkAi) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Gift of Christmas](https://open.spotify.com/album/0m9caU6q70zseOKEY2AVAe) | 3:24 |
 | 62 | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/track/0SxrBl4M5EeHaC1esNhaRk) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/album/7luz8tQ7C1faPXAhVXsGiB) | 4:53 |
 
-Snapshot ID: `Z0AP0AAAAADOXWcRMOueRckIdRn3JkNq`
+Snapshot ID: `Z0AP0AAAAABFqvIsDS+ou3LrFwKKrn5d`

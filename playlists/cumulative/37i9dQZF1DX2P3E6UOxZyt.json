@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u516c\u9928\u9752\u5c11\u5e74 (GGteens)",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u6e38\u5b87\u6f7c (Eileen Yo)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 143745,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/7C3Frt7RteNGcXnz6Cfr1r"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 291159,
       "name": "I Miss You When I'm Drunk",
       "url": "https://open.spotify.com/track/6HWSeol2q4chCBFtizV1yZ"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 230801,
       "name": "MESS'AGE",
       "url": "https://open.spotify.com/track/1hUN7k3bDt9LDSksOxMK99"
@@ -3885,6 +3885,28 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/342Y9p3btNALaNHKQXPBRJ"
+      },
+      "artists": [
+        {
+          "name": "PPlin \u6797\u8283\u9038",
+          "url": "https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw"
+        },
+        {
+          "name": "YangCh!ll",
+          "url": "https://open.spotify.com/artist/5gpsXJhnRgH7JiGpJYHIw2"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3wkfFsCQzsxGBbLISJUGHV"
+    },
+    {
+      "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/6lEf40SnNDQRuC2a6myp5O"
       },
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 129440,
       "name": "Rotator (200708)",
       "url": "https://open.spotify.com/track/2lgafirWBgHZLbSwrelsgL"
@@ -4358,6 +4380,28 @@
       "duration_ms": 177618,
       "name": "Sun (feat. Shi Shi)",
       "url": "https://open.spotify.com/track/24P6Riz2uzN00k2mVdWYdV"
+    },
+    {
+      "album": {
+        "name": "Fxxk Sleep",
+        "url": "https://open.spotify.com/album/30ZQ9RxY3lf0FgYFDH4vCD"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        },
+        {
+          "name": "BG8LOCC",
+          "url": "https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "SUPA HERO (feat. BG8LOCC)",
+      "url": "https://open.spotify.com/track/0FbQzSm6pHy98Dse2VQXZA"
     },
     {
       "album": {
@@ -11682,7 +11726,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 185602,
       "name": "\u7559\u4e0d\u4f4f",
       "url": "https://open.spotify.com/track/0wXlUJbnnjsvSeWzXwaaVo"
@@ -12866,7 +12910,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 245825,
       "name": "\u8ca0\u6975\u5148\u751f",
       "url": "https://open.spotify.com/track/3gGMlG1KD0QzLYMGDxb0jq"
@@ -13954,7 +13998,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 267624,
       "name": "\u98db\u9ce5 - Live",
       "url": "https://open.spotify.com/track/5r9nAwvDhTuyboRkHCSVNP"

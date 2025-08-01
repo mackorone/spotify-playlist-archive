@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 | 12 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 |
 | 13 | [Ep\. 53: Jon Bellion](https://open.spotify.com/episode/6pawr1zxBuM143LEKyPTsW) | [And The Writer Is...with Ross Golan](https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk) | [And The Writer Is...with Ross Golan](https://open.spotify.com/album/26gzyiPD2ix1VaO1fHDKCk) | 1:23:48 |
 | 14 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 |
-| 15 | [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:55:46 |
+| 15 | [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:33 |
 | 16 | [Plastic](https://open.spotify.com/track/3wFnBRnYgpdoBQyXl3NxoH) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:16 |
 | 17 | [Jaden Smith](https://open.spotify.com/episode/7rzHpSNNGZiTAzH6udUCe7) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb) | 40:09 |
 | 18 | [dropout \(w/ blackbear\)](https://open.spotify.com/track/1hV0Ue00iyNCZvb1n0VyGf) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dropout \(w/ blackbear\)](https://open.spotify.com/album/5hxBw9Le7T09nRIDXoRbei) | 2:46 |

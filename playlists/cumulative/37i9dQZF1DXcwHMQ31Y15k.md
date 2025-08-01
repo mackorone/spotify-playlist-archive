@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora, OMWAWES
 
-498 songs - 1 day 17 hr 39 min
+499 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 | 2024-04-26 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t) | 5:46 | 2024-10-04 |  |
 | [KASETYANJATI \- Live](https://open.spotify.com/track/3rO70kUcS7nVoSx9TXCns4) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [KASETYANJATI \(Live\)](https://open.spotify.com/album/1QJIUyegfBZnXGDafI8sh8) | 6:46 | 2025-05-22 |  |
+| [Katresnan Sejati \- Live](https://open.spotify.com/track/4zT6Ie7ddFzyTNxWw0f32q) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Icing Tanaka](https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B) | [Katresnan Sejati \(Live\)](https://open.spotify.com/album/4AiMMAY3nrjcU4lA8tJM5U) | 6:08 | 2025-07-31 |  |
 | [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 | 2025-02-28 |
 | [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 | 2024-06-14 |
 | [Kawitaning Sinawang](https://open.spotify.com/track/4ucL4cmsyrFHuPBeNCEIDi) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Icing Tanaka](https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B) | [Kawitaning Sinawang](https://open.spotify.com/album/4bD96mWbnzDwzKh54n0Gul) | 6:30 | 2025-07-10 |  |

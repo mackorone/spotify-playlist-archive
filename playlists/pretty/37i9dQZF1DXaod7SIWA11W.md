@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Stepz
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,019 likes - 74 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,046 likes - 74 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Impossible](https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Impossible](https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55) | 3:14 |
 | 74 | [Prosper](https://open.spotify.com/track/5d3ORNibUzn5VjhHgTt1pQ) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Prosper](https://open.spotify.com/album/6ZmOIEJLVTp2xlCpE7Vwed) | 2:50 |
 
-Snapshot ID: `aHECzwAAAAAzB51YoXbnQmXsFtCXkZMf`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

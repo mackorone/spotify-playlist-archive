@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-986 songs - 2 day 2 hr 25 min
+987 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [This Moment \(Your Life\)](https://open.spotify.com/track/6YHSvNNmbEou5hH2piEQQm) | [Insimon](https://open.spotify.com/artist/3V6knpZsEfTqtbpwpkgnHB) | [This Moment \(Your Life\)](https://open.spotify.com/album/5OCJoeV2q8Pbb3f0sUOtOz) | 3:28 | 2025-06-06 |  |
 | [This Trip](https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [This Trip](https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9) | 2:58 | 2024-10-11 | 2024-10-25 |
 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-25 | 2023-12-14 |
+| [Tipsy](https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Tipsy](https://open.spotify.com/album/3IyGkzK36EXUIivyJ8dzeN) | 2:47 | 2025-07-31 |  |
 | [To The Night \- Radio Edit](https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ) | [Seb Todd](https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv), [MVNGO](https://open.spotify.com/artist/3zeNUoJwbse1JSnImySe1U) | [To The Night \(Radio Edit\)](https://open.spotify.com/album/1b4ohggKMxKLBlfmU31h1y) | 4:05 | 2023-04-14 | 2023-04-28 |
 | [Toca](https://open.spotify.com/track/1g40bI57FQ8RCPdouvNabI) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Toca](https://open.spotify.com/album/4JsT3W6bSQfI2yRRDCtyai) | 3:09 | 2024-12-20 |  |
 | [Todo Mucho](https://open.spotify.com/track/4pwdzHpMiNzU3g0fFt8jQe) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Todo Mucho](https://open.spotify.com/album/5zKot9CdUYrXl13CLN1cI1) | 2:57 | 2023-10-20 | 2024-09-26 |

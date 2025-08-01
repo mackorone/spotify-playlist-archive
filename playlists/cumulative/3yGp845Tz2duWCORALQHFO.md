@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,504 songs - 7 day 22 hr 32 min
+3,506 songs - 7 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Catharsis Drop](https://open.spotify.com/track/6mepi6kdvSCnMamhmmKkw5) | [ECLYP](https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7) | [Catharsis Drop](https://open.spotify.com/album/51vr7OqTvx99EeVoheBKDg) | 2:29 | 2025-03-25 | 2025-03-29 |
 | [Cause We're Going out Tonight](https://open.spotify.com/track/6NeqlLHE0Pb5JXNgHd8DwQ) | [woofa kid](https://open.spotify.com/artist/1P8C6OBgxKD1Ehm5q6gaJH), [Clara Marie](https://open.spotify.com/artist/2DUzjq1Byw7HMlBOUWzcGV), [Paul Mile](https://open.spotify.com/artist/2nqCxcbdYKFqqKaKWIWZ2u) | [Cause We're Going out Tonight](https://open.spotify.com/album/4C8ocoTAy5luMANvnLU2Ab) | 3:21 | 2025-02-21 | 2025-03-01 |
 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-11 | 2024-10-22 |
+| [CEILINGS](https://open.spotify.com/track/6L7FfJ1dVoyMAk0P7g1sGS) | [NoBueno](https://open.spotify.com/artist/1UKsmmTIgU6YAibaDtnV1U), [Shaaye](https://open.spotify.com/artist/5H8BN7O47mCSpMIQCHAHij), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [CEILINGS](https://open.spotify.com/album/0S7xDuiOmuhlJ0QAefh8bm) | 3:04 | 2025-07-31 |  |
 | [Celebrate](https://open.spotify.com/track/67BQGSouTl01SuJGOJgc5R) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Celebrate](https://open.spotify.com/album/1f6xOwZ7ih7wHt5eF9Do89) | 2:53 | 2024-10-21 | 2024-10-26 |
 | [Celeste](https://open.spotify.com/track/752zVBaA1LL8glTSAE4NFF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Celeste](https://open.spotify.com/album/2tVjIqXhXzuAvvUrth1sHZ) | 3:58 | 2024-08-30 | 2024-09-06 |
 | [Chain Reaction](https://open.spotify.com/track/2hdIFvip184lMcscOKUxpe) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Chain Reaction](https://open.spotify.com/album/5kpwiveJpNJoB9gkZLgzzV) | 3:07 | 2024-11-08 | 2024-11-16 |
@@ -882,6 +883,7 @@
 | [Endlessly](https://open.spotify.com/track/787exNTy7tL6Y38Y5oAHpk) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Endlessly](https://open.spotify.com/album/2crHSXJ5hjF1rNG2THfLmj) | 3:18 | 2025-01-23 | 2025-02-01 |
 | [Endlessly](https://open.spotify.com/track/3bNhADLlg39BLUpxNldqJN) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Endlessly](https://open.spotify.com/album/7KskIzlPgqCEyLNuzZIpbg) | 2:53 | 2024-09-12 | 2024-09-21 |
 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 | 2024-07-12 | 2024-07-19 |
+| [Energy](https://open.spotify.com/track/0F6eUZqP3BQrhqt3hbTmyI) | [Mala'kai](https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5) | [Energy](https://open.spotify.com/album/50lZwbAbwH04tQ9Dc8M5gR) | 3:13 | 2025-07-31 |  |
 | [Energy](https://open.spotify.com/track/1PyJuE9ZMWStB6ZuAFim4v) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Energy](https://open.spotify.com/album/0hu8VW9z7vITG4xzsvL0uo) | 3:23 | 2025-06-13 | 2025-06-21 |
 | [Enjoy the Night](https://open.spotify.com/track/5LRMIjcqMYaeRFyRCkrOme) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Enjoy the Night](https://open.spotify.com/album/4V2JSNicC3ifIMIFQPb1Ie) | 2:50 | 2024-12-19 | 2025-01-04 |
 | [Enjoy the Silence](https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Enjoy the Silence](https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs) | 3:29 | 2024-07-12 | 2024-07-19 |

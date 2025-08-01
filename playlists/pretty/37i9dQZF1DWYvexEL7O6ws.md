@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,718 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,708 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Instinct \(feat\. MadeinTYO\)](https://open.spotify.com/track/49VzL5oBsUICN7U34T98b9) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Nocturnal](https://open.spotify.com/album/6qQ53ChF4TLjNxw0X83obV) | 2:54 |
 | 100 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/3q6TQTEbiLNv3RfNQfPgo3) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/5t3AooZ5peKSKltkjr12Qm) | 3:46 |
 
-Snapshot ID: `AAAAAGiiBqSbYKlH7czBR3TLhGm3XPQP`
+Snapshot ID: `aIOyIQAAAAClTuUgrmGE5748xT3uRluT`

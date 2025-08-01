@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 먼데이키즈 & 이이경\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,522 songs - 4 day 2 hr 43 min
+1,524 songs - 4 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Blue night song](https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Blue night song](https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB) | 3:45 | 2023-04-14 | 2023-08-25 |
 | [Blue Rain](https://open.spotify.com/track/0yJcEYL12KrFvcM7Wlk59r) | [Ok Joo Hyun](https://open.spotify.com/artist/2e88kBLGROab1vqnuT4Gp5) | [Blue Rain](https://open.spotify.com/album/5Ud5PMfYFoa4bqye6MaNHx) | 4:25 | 2025-05-26 |  |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-06-18 | 2022-09-06 |
-| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 |  |
+| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 | 2025-08-01 |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-14 | 2022-07-08 |
 | [Bouquet](https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p) | [Tia](https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Bouquet](https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK) | 3:29 | 2024-01-05 | 2024-02-16 |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2022-01-17 | 2022-04-04 |
@@ -421,6 +421,7 @@
 | [Goodbye](https://open.spotify.com/track/1OiEPqyXySjkNUI1tJh6Co) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 3](https://open.spotify.com/album/44MwTsm5qtduvhuPc8HfQt) | 3:54 | 2023-03-08 | 2023-07-08 |
 | [Goodbye](https://open.spotify.com/track/3QQyaBhRNcDmqpWRssT7dh) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Goodbye](https://open.spotify.com/album/7AVPWq0bdemQcflSSHMfBx) | 4:48 | 2023-05-05 | 2023-05-16 |
 | [Goodbye \(2023\)](https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8) | [Park Pil kyu](https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na) | [Goodbye \(2023\)](https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ) | 3:52 | 2023-11-15 | 2024-05-01 |
+| [Goodbye in gold](https://open.spotify.com/track/7DDPlbJZZYGo9Z50R4mwNQ) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Goodbye in gold](https://open.spotify.com/album/7vKZ7yUoCbJCjNZqeCclWl) | 4:01 | 2025-07-31 |  |
 | [Goodbye My Love](https://open.spotify.com/track/0IFi9g7p5XzLKGFwtgev4Q) | [JaeHan](https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv) | [Love Interference 2024 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/2cNrKU2J12ZseuDWWpbZyi) | 3:35 | 2024-09-02 | 2024-12-06 |
 | [Goodbye the days I loved](https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Bravo, My Life OST Part.13](https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3) | 3:46 | 2022-07-07 | 2022-08-02 |
 | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/track/6qD8OvBNgiIZ7faV9zlgok) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/album/7rbY1TxXwT3JUEefNPSZS4) | 4:25 | 2022-12-26 | 2023-02-25 |
@@ -823,6 +824,7 @@
 | [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-02-14 | 2023-03-28 |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-08-18 | 2022-12-27 |
 | [Mi Camino](https://open.spotify.com/track/7GL7HvIR0PdbvSFC6WjkbC) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Mi Camino](https://open.spotify.com/album/3ZLUQVjLHCyOE73MEwEvBX) | 4:18 | 2023-02-24 | 2023-05-16 |
+| [Midnight Dream](https://open.spotify.com/track/2qtAI8NFuO6BpeKH31hRMB) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Midnight Dream](https://open.spotify.com/album/5HgMcSAn98UphBdKWG94Pi) | 3:10 | 2025-07-31 |  |
 | [Mind Warning](https://open.spotify.com/track/5vozeavVd0Cqmd1uFL3wQm) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1sO4Z6uq4I2rxojS8p4Ser) | 3:49 | 2022-03-07 | 2022-07-04 |
 | [Miracle](https://open.spotify.com/track/7JESDGry6nSUKKCiBzHfWP) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [The Interest of Love \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2mT5nSexIVqGxhzxts4Wza) | 4:23 | 2023-02-14 | 2023-06-23 |
 | [Miracle](https://open.spotify.com/track/1YlRoSQJk4X87A5qujM7Uq) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Miracle](https://open.spotify.com/album/1fv8Fets8de0cbRrj3p3sX) | 3:56 | 2023-01-20 | 2023-03-28 |
@@ -1448,7 +1450,7 @@
 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 | 2022-07-07 | 2022-09-06 |
 | [Your Scent](https://open.spotify.com/track/5JkCCSFsdCBVuGeAxtHENA) | [DAWON](https://open.spotify.com/artist/10DwbIlSkX9pJo4B3vUGrk) | [My 20th Twenty \(Original Webdrama Sountrack, Pt\. 4\)](https://open.spotify.com/album/1afCTiDGAOw0H6e19PZmkm) | 3:44 | 2023-07-07 | 2023-10-17 |
 | [Your Smiling Face](https://open.spotify.com/track/53xZlMoSVGa4qRxFsahgdX) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Your Smiling Face](https://open.spotify.com/album/1Ug94rAL8WZ9NKskK6bL3R) | 5:32 | 2022-10-14 | 2022-12-28 |
-| [Your Song](https://open.spotify.com/track/1N5rUYMdA1uXm2nNV7JnCW) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Your Song \| THE LIVE ALBUM](https://open.spotify.com/album/0oQV1St7Yna7a9KMss8BR9) | 4:25 | 2025-04-25 |  |
+| [Your Song](https://open.spotify.com/track/1N5rUYMdA1uXm2nNV7JnCW) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Your Song \| THE LIVE ALBUM](https://open.spotify.com/album/0oQV1St7Yna7a9KMss8BR9) | 4:25 | 2025-04-25 | 2025-08-01 |
 | [Your Word](https://open.spotify.com/track/4Nfd8DComTbLZtpfEdxncz) | [Soul String](https://open.spotify.com/artist/54z59bEWoWxdKRsj6zrNUL), [Onyu Shin](https://open.spotify.com/artist/1mXAdMcEdy8yUbumb3dulk) | [Soul String Project Part 2 : 2023 February](https://open.spotify.com/album/5e7qEO4TMybiJbkqHC5YDM) | 4:48 | 2023-02-24 | 2023-06-23 |
 | [You’re the best of me](https://open.spotify.com/track/7uhDJuHhtfKwSM7TWNnZ8E) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [You’re the best of me](https://open.spotify.com/album/4F43zvJZ28xKAfvow1Hxlp) | 4:07 | 2022-03-24 | 2022-04-19 |
 | [zero gravity](https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [zero gravity](https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71) | 4:25 | 2022-08-18 | 2022-12-27 |

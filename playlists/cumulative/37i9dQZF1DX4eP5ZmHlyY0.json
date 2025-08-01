@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 209009,
       "name": "BANANA",
       "url": "https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 270026,
       "name": "BOSS IN THE BUILDING",
       "url": "https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 239293,
       "name": "Change Over",
       "url": "https://open.spotify.com/track/2JRfZUbcIRazDW1ks6rXjD"
@@ -4356,6 +4356,24 @@
       "duration_ms": 200824,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/1UGkTP9bmeLABz5TIeLwiz"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138377,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1H6SLuE3e50BS0V8Na1XzQ"
     },
     {
       "album": {
@@ -10086,7 +10104,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 215667,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD"
@@ -11680,6 +11698,24 @@
       "duration_ms": 227413,
       "name": "\u4e16\u754c\u3092\u660e\u308b\u304f\u7167\u3089\u3057\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW"
+    },
+    {
+      "album": {
+        "name": "\u4e21\u7247\u60f3\u3044",
+        "url": "https://open.spotify.com/album/0N8vRd5AcdsyifTccX4abX"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "\u4e21\u7247\u60f3\u3044",
+      "url": "https://open.spotify.com/track/1UMIpUFDRaNmTMMu1br8gL"
     },
     {
       "album": {

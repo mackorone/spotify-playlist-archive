@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1488452,
+  "num_followers": 1488414,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "\u6ce2\u7d0b",
         "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -627,30 +627,6 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Warm Flicker (Uevo & Noflik Remix)",
-        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
-      },
-      "artists": [
-        {
-          "name": "rocomoco",
-          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 136774,
-      "name": "Warm Flicker - Uevo & Noflik Remix",
-      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -683,6 +659,30 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "Warm Flicker (Uevo & Noflik Remix)",
+        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
+      },
+      "artists": [
+        {
+          "name": "rocomoco",
+          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 136774,
+      "name": "Warm Flicker - Uevo & Noflik Remix",
+      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "Sakura Bloom",
         "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -887,38 +887,18 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Busy Bird",
-        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
       },
       "artists": [
         {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        },
-        {
-          "name": "Mirror Box",
-          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
         }
       ],
-      "duration_ms": 130964,
-      "name": "Busy Bird",
-      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -939,6 +919,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -955,18 +951,38 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+        "name": "Busy Bird",
+        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
       "artists": [
         {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        },
+        {
+          "name": "Mirror Box",
+          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
         }
       ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
+      "duration_ms": 130964,
+      "name": "Busy Bird",
+      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -1003,22 +1019,6 @@
       "duration_ms": 228750,
       "name": "Space Orgazm",
       "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -1163,6 +1143,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "michi",
         "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
       },
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+        "name": "Baby, It's Over",
+        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
       "artists": [
         {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
         }
       ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+      "duration_ms": 148561,
+      "name": "Baby, It's Over",
+      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 126730,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
         "name": "Reminders",
         "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
-        "name": "Cloud9",
-        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 126730,
-      "name": "Cloud9",
-      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
     },
     {
       "added_at": "2025-07-11 08:04:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-07-11 08:04:50",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
-      },
-      "artists": [
-        {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
-    },
-    {
-      "added_at": "2025-07-11 08:04:50",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 165189,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
+    },
+    {
+      "added_at": "2025-07-11 08:04:50",
+      "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
     },
     {
       "added_at": "2025-07-11 08:04:50",

@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 349818,
+  "num_followers": 350026,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
         "name": "Usurper",
         "url": "https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 215275,
       "name": "Usurper",
       "url": "https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "SHALLOW",
-      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "added_at": "2025-06-20 04:00:31",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
-        "name": "System Of A Down (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+        "name": "i want the light to swallow me whole",
+        "url": "https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+      "duration_ms": 218784,
+      "name": "i want the light to swallow me whole",
+      "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
     }
   ],
   "unique_name": "ALLURE",

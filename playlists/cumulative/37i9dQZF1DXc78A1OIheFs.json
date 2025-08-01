@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 142000,
       "name": "distance",
       "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
@@ -2782,6 +2782,24 @@
       "duration_ms": 231033,
       "name": "LightBulb",
       "url": "https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57"
+    },
+    {
+      "album": {
+        "name": "Live for Today",
+        "url": "https://open.spotify.com/album/61PPrmUOtqag77bDSCCsug"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185002,
+      "name": "Live for Today",
+      "url": "https://open.spotify.com/track/6q1LvlxEIVSV65xkUPJOPz"
     },
     {
       "album": {
@@ -5278,6 +5296,24 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+    },
+    {
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "album": {

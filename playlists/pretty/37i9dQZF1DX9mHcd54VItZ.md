@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: FREDDY L
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,038 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,043 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 46 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 47 | [Empty Your Heart](https://open.spotify.com/track/1o2r0EFOYM2SLdPD82w1kR) | [AC/ES](https://open.spotify.com/artist/4DGkZBLTWioZXNVcw8nXOK), [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE), [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [Empty Your Heart](https://open.spotify.com/album/1b5Ago18mBBceUUhj14Gx2) | 2:21 |
 | 48 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
-| 49 | [Vernietig My](https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e) | [Noa Milan](https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH) | [Vernietig My](https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe) | 3:44 |
-| 50 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
+| 49 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
+| 50 | [Vernietig My](https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e) | [Noa Milan](https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH) | [Vernietig My](https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe) | 3:44 |
 
 Snapshot ID: `aIjlIgAAAACKCE+8Kyjwru4N+tVBGVVX`

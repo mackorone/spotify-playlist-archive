@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Chloe Parché
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,415 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,419 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Love It All](https://open.spotify.com/track/0VmSA1TjN3OL6nx59Hm9oH) | [BoysnLove](https://open.spotify.com/artist/5q5jP9QfCGVv45XES8YLJx) | [Love It All](https://open.spotify.com/album/53K8OACNwmvsucKRkkCIBm) | 3:59 |
 | 100 | [You Can't Please Everybody All Of The Time](https://open.spotify.com/track/3w0nHdkJCXIFFN2d3lxnkP) | [Quality Used Cars](https://open.spotify.com/artist/3E6OqTqiCpUvb8NbAw0OEm) | [You Can't Please Everybody All Of The Time](https://open.spotify.com/album/6ZkxIZ8nKdHxosoivxoJd5) | 4:48 |
 
-Snapshot ID: `aIjT8wAAAAAgzAClWRem5bdLn3XVjMu3`
+Snapshot ID: `AAAAAGODHt4BU5gFbbbrnAyfdRrKoSJH`

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: AKASAKI
 
-1,331 songs - 3 day 15 hr 29 min
+1,332 songs - 3 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-09 | 2024-01-17 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
 | [Horizon](https://open.spotify.com/track/2UeeixjhUudFsmKTU1jEXl) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Horizon](https://open.spotify.com/album/6R0xlPxbRThYm3Xc3teGNF) | 4:01 | 2023-08-29 | 2023-09-06 |
+| [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-07-29 |  |
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2022-05-10 | 2023-05-10 |
 | [Hyakka Ranman](https://open.spotify.com/track/5EqIj8sY7MmlUyfLi0363q) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [SCARECROWS](https://open.spotify.com/album/5XexNvd10X2sV8fDr2EOw2) | 4:17 | 2023-09-26 | 2023-10-04 |
 | [Hyper Vacation](https://open.spotify.com/track/5dUg5ysqf9UIErEZKUQFpF) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Hyper Vacation](https://open.spotify.com/album/4Y6C0DexG8y8SCarKrhANy) | 2:08 | 2023-08-08 | 2023-08-23 |
@@ -913,7 +914,7 @@
 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 | 2025-06-03 |  |
 | [エッサフォッサ](https://open.spotify.com/track/0Us98qR9hodEUjrik1cwBc) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [エッサフォッサ](https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N) | 4:49 | 2022-05-10 | 2022-06-05 |
 | [エバーグリーン](https://open.spotify.com/track/45QV763OHEY1m97VCFbzql) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [エバーグリーン](https://open.spotify.com/album/4UZQBNrKfv4S59Eg7VR4jd) | 4:13 | 2022-05-19 | 2022-07-25 |
-| [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 | 2024-04-03 |  |
+| [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 | 2024-04-03 | 2025-08-01 |
 | [エロイーズ](https://open.spotify.com/track/008UMp36siAtPubqLsV9ef) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [エロイーズ](https://open.spotify.com/album/5THXTAFk2nRmYJwSHvPY6I) | 4:06 | 2022-05-19 | 2022-05-25 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-13 |  |
 | [オートクチュール](https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [オートクチュール](https://open.spotify.com/album/4pG489P1bIuHFYLpDmkowT) | 3:17 | 2022-05-12 | 2022-07-24 |

@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 9m88 x Phum Viphurit
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mukio \(張牧喬\)
 
-463 songs - 1 day 3 hr 51 min
+464 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Akirameyou](https://open.spotify.com/track/09IixZAgXmL1FT1ujQbzhY) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk), [Sora Satoh](https://open.spotify.com/artist/3JrRIRDZ53fQxe3mlu2TiT) | [Akirameyou](https://open.spotify.com/album/4VKiDuCaGTHv2wgoL01pDC) | 4:10 | 2024-12-05 | 2025-01-03 |
 | [Alexis](https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [Alexis](https://open.spotify.com/album/77h7uZNa1mhsB3tOJ7aCWJ) | 2:16 | 2024-03-15 | 2024-05-24 |
 | [All I Know](https://open.spotify.com/track/2TDK3J9sqhU6UMlkmMX0wz) | [Ray Hou](https://open.spotify.com/artist/19A8GRUBh001nRwAaOuoe2) | [All I Know](https://open.spotify.com/album/5QrifpN1wLUUfdyehjWNtH) | 3:13 | 2025-03-28 |  |
-| [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 | 2024-02-29 |  |
+| [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 | 2024-02-29 | 2025-08-01 |
 | [All Right](https://open.spotify.com/track/6QisFwVX3ub7juPflH7638) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [All Right](https://open.spotify.com/album/7n7zEjg2Q4L666oluUD95F) | 3:08 | 2024-02-01 | 2024-02-23 |
 | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/track/738fLdRMGkwJ5Wo5gL4bx7) | [The Tic Tac](https://open.spotify.com/artist/2mqVECX61mIhYXSldVRfWj) | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/album/6hMczqzv22QOtajxafoMHV) | 3:32 | 2024-01-25 | 2024-03-22 |
 | [andale](https://open.spotify.com/track/6knkWNw6xJA1AMKqtMBd29) | [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [andale](https://open.spotify.com/album/7dtZvyBAw1Tg1FbsKh6a5C) | 3:05 | 2024-04-04 | 2024-04-26 |
@@ -47,6 +47,7 @@
 | [Black Beauty 黑美人](https://open.spotify.com/track/4dShg2Q6ADM69PsO2u3bBq) | [Kivi](https://open.spotify.com/artist/4HJXLLMYyBtnb8KfkNPhnA) | [分水嶺 Padiyudr](https://open.spotify.com/album/3jQfrUDrc8edQTOQPMxTQp) | 5:06 | 2024-06-13 | 2024-07-01 |
 | [BLEED IT](https://open.spotify.com/track/3whltYELqdlgrJVyRX6PcL) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [BLEED IT](https://open.spotify.com/album/1JQO0ZpPREtAPcub97Knz0) | 2:32 | 2024-02-29 | 2024-03-15 |
 | [Blue Jeans](https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS) | 4:45 | 2024-03-14 | 2024-04-05 |
+| [Blue Lagoon](https://open.spotify.com/track/6yaiTEYSegDkxctBD6tBjO) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [Blue Lagoon](https://open.spotify.com/album/5WXPbyOGHLw9mbc1c7tCHq) | 4:11 | 2025-07-31 |  |
 | [BOOOOOORING](https://open.spotify.com/track/3dgYymSziHmlg3CmLBdDep) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/0q0nXa8pk81ziTjnOFU4aZ) | 2:56 | 2024-08-22 | 2024-09-13 |
 | [bowling \-《此時此刻》第三集片尾曲](https://open.spotify.com/track/7dwBbELnlh0D1Qf0tc418g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [bowling \-《此時此刻》第三集片尾曲](https://open.spotify.com/album/33Jgdxqgf0PUf1VvWXo28O) | 2:56 | 2025-02-27 | 2025-03-07 |
 | [Broken Moon \(feat\. Rima Zeidan\)](https://open.spotify.com/track/3tQRwhKP2oYVMVD09VcpOX) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [瑞瑪席丹Rima Zeidan](https://open.spotify.com/artist/2MgVvPbOvVEPWIjbgXl4fS) | [Broken Moon](https://open.spotify.com/album/3BVH42PRBfLCgUL6bh9Tdg) | 4:33 | 2025-01-23 | 2025-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,458 likes - 256 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,453 likes - 256 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 255 | [Angels \(Glory To God\)](https://open.spotify.com/track/2Z10kVEtDJwjJsdJmKRxNi) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/2GYpoWJkp7M5q87410tEbb) | 3:43 |
 | 256 | [It's Christmas](https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joy To The World // It's Christmas](https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2) | 4:55 |
 
-Snapshot ID: `AAAAAEfn9iBTdEnjjWrpeD5gdKM5Xp8k`
+Snapshot ID: `Z2movwAAAAANHDrggVZihpvoEXwK9xdk`

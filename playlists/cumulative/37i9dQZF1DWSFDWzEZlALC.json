@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: RAUM27, SOFFIE",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kasi, antonius",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 211973,
       "name": "17. Juli 1989",
       "url": "https://open.spotify.com/track/6S0TLeKgZ34PLBF7vbFcJP"
@@ -1468,6 +1468,28 @@
       "duration_ms": 159391,
       "name": "Alles Schon Gesehen (Mailand, Bayern, St. Tropez)",
       "url": "https://open.spotify.com/track/7p1ao45cANh4zv4AH4MAKI"
+    },
+    {
+      "album": {
+        "name": "Alles Taugt nichts",
+        "url": "https://open.spotify.com/album/7GAusjxH7mALhKBHifb5to"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        },
+        {
+          "name": "Pablo Rochat",
+          "url": "https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158757,
+      "name": "Alles Taugt Nichts",
+      "url": "https://open.spotify.com/track/03vbbI64syEGj2Q3e2Ytbg"
     },
     {
       "album": {
@@ -3860,7 +3882,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 140723,
       "name": "Coming of Age in der Dystopie",
       "url": "https://open.spotify.com/track/6XH8yM6T1Re1e0OBGlGi8Y"
@@ -4200,6 +4222,24 @@
       "duration_ms": 184762,
       "name": "Das Ende der Welt",
       "url": "https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9"
+    },
+    {
+      "album": {
+        "name": "Das Gl\u00fcck geh\u00f6rt Versagern",
+        "url": "https://open.spotify.com/album/5NiqrjXmfY2OwAhdNJ9fV5"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208443,
+      "name": "Das Gl\u00fcck geh\u00f6rt Versagern",
+      "url": "https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl"
     },
     {
       "album": {
@@ -7747,6 +7787,28 @@
     },
     {
       "album": {
+        "name": "f\u00fchl ich",
+        "url": "https://open.spotify.com/album/2KGB64iAGJezOLVQfpj7FA"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "f\u00fchl ich",
+      "url": "https://open.spotify.com/track/1YaNZ0YiRArV4k8akieibd"
+    },
+    {
+      "album": {
         "name": "F\u00fchl mich gut",
         "url": "https://open.spotify.com/album/291SQWRSNHQReYTMPDOIZU"
       },
@@ -9544,7 +9606,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 208026,
       "name": "Heimweh (mit ENNIO)",
       "url": "https://open.spotify.com/track/3Vza3OooLHGSIlc51d2Ivm"
@@ -9864,7 +9926,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 174500,
       "name": "hinterdenkulissen",
       "url": "https://open.spotify.com/track/7edYRamBeVYK9mTYpTsWiO"
@@ -10478,6 +10540,24 @@
       "duration_ms": 138782,
       "name": "ich mach mich (regardless)",
       "url": "https://open.spotify.com/track/5LY20b84kLnv5CxFlbadxf"
+    },
+    {
+      "album": {
+        "name": "Ich nehm die Sonne mit",
+        "url": "https://open.spotify.com/album/4HBIImyViKdxKae8JzvlUQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Ich nehm die Sonne mit",
+      "url": "https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj"
     },
     {
       "album": {
@@ -11166,7 +11246,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 240871,
       "name": "ismiregal",
       "url": "https://open.spotify.com/track/6tnnQ7zSdahtnfOYc4X7fX"
@@ -12716,6 +12796,28 @@
       "duration_ms": 147600,
       "name": "K\u00f6nigin der Nacht",
       "url": "https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm"
+    },
+    {
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/5xgoUKZpPZ4Va5rKNZdq4r"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        },
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/1JKg6fNYI2MvettB4UoV4q"
     },
     {
       "album": {
@@ -19614,7 +19716,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 183133,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl"
@@ -19770,6 +19872,24 @@
       "duration_ms": 144500,
       "name": "Space Age",
       "url": "https://open.spotify.com/track/5XyN6Z8dX6b6dtZHK9FCcv"
+    },
+    {
+      "album": {
+        "name": "Spaced Out",
+        "url": "https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I"
+      },
+      "artists": [
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237613,
+      "name": "Spaced Out",
+      "url": "https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR"
     },
     {
       "album": {
@@ -20464,7 +20584,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 168711,
       "name": "Tanktop in wei\u00df",
       "url": "https://open.spotify.com/track/1QO6A6YsufugovuDMGnJPf"
@@ -22548,7 +22668,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 194875,
       "name": "Wachstumsschmerzen",
       "url": "https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8"
@@ -23455,6 +23575,24 @@
     },
     {
       "album": {
+        "name": "Wenn ich liebe",
+        "url": "https://open.spotify.com/album/5PHxeu5spcZ0OOUpkUyuVt"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147345,
+      "name": "Wenn ich liebe",
+      "url": "https://open.spotify.com/track/4JfN8G1QuLf2u6rTvuA4S1"
+    },
+    {
+      "album": {
         "name": "Wenn Ich Reich Bin (Geht's Mir Gut)",
         "url": "https://open.spotify.com/album/4WIeplY4ykhdVxaop2yhK9"
       },
@@ -23746,7 +23884,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 169373,
       "name": "wie wir uns verlieren",
       "url": "https://open.spotify.com/track/44q6ciob0fFJJFl87lmchb"
@@ -24237,6 +24375,24 @@
     },
     {
       "album": {
+        "name": "Zeig mir",
+        "url": "https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Zeig mir",
+      "url": "https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI"
       },
@@ -24524,6 +24680,24 @@
       "duration_ms": 156441,
       "name": "Zu viel / nicht genug",
       "url": "https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5"
+    },
+    {
+      "album": {
+        "name": "Zucker",
+        "url": "https://open.spotify.com/album/5ulXOHFVmyihtb9nPTqHaw"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154856,
+      "name": "Zucker",
+      "url": "https://open.spotify.com/track/0HvpJwN4OaztkY5BJPg04N"
     },
     {
       "album": {

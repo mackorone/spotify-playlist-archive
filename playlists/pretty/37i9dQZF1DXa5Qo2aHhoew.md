@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5Qo2aHhoew.md) - [plain]
 
 > Go auf with music from and inspired by the new Original series Pitch Perfect: Bumper in Berlin, streaming only on <a href="https://www.peacocktv.com/stream\-tv/pitch\-perfect\-bumper\-in\-berlin">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,776 likes - 35 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,779 likes - 35 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5Qo2aHhoew.md) - [plain]
 | 34 | [World Championship Finale 1 \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/4HiuFDvd4PA5nZ0DyBLCLd) | [Das Sound Machine](https://open.spotify.com/artist/3OIHrPeryKmEnrOHCh0x7a) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 2:01 |
 | 35 | [Car Show \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/7GR28L303tw1rDCoBtQReR) | [Das Sound Machine](https://open.spotify.com/artist/3OIHrPeryKmEnrOHCh0x7a) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:47 |
 
-Snapshot ID: `Zf30AgAAAAA6B/IeMcGpe6umfp+yxQcY`
+Snapshot ID: `Zf30AgAAAAAvID7taLObcJitSXEseP3A`

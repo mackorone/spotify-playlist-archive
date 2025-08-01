@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-522 songs - 1 day 5 hr 30 min
+523 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Algo en tu pelo](https://open.spotify.com/track/3qHbaEymZjOjdbgFtK7hsi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Vero Gerez](https://open.spotify.com/artist/0UemIiCuqRl3L6vQAPO00H) | [Algo en tu pelo](https://open.spotify.com/album/66bkgOlfrpSqXQJ2NoK9tl) | 3:30 | 2022-01-07 | 2022-07-29 |
 | [Alma](https://open.spotify.com/track/5RggnhC0wezlETdsLBFMUE) | [Berni](https://open.spotify.com/artist/4Eim1AfnmiItMvlUeAHrax), [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR) | [Raíz Despierta](https://open.spotify.com/album/38K7u9akDvXYaEtkENoBqH) | 3:36 | 2022-05-06 | 2022-05-11 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-03 | 2024-08-23 |
+| [Amantes de Verano](https://open.spotify.com/track/0BMhACYj9pzKMITFkoiWNu) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Amantes de Verano](https://open.spotify.com/album/0PtEEdYs1H9af26VTdyLH2) | 4:05 | 2025-07-31 |  |
 | [Amarrados](https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tanta Mentira](https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f) | 3:13 | 2022-01-07 | 2023-03-03 |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-23 | 2023-08-31 |
 | [Amigos](https://open.spotify.com/track/6a5vbABXHEmTbxXWqwmtRa) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amigos](https://open.spotify.com/album/278YtS4MBG442HPw7PVir5) | 3:08 | 2025-04-04 |  |
@@ -167,7 +168,7 @@
 | [El Amor No Existe](https://open.spotify.com/track/3yof8FdDj1Gk0QRqjrJWxd) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:17 | 2022-01-07 | 2023-04-29 |
 | [El Beso](https://open.spotify.com/track/638RCwvucTFj33BeWrHXVF) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [El Beso](https://open.spotify.com/album/3GGkEkURaOYMY6njqqG5Rv) | 3:29 | 2022-04-01 | 2022-07-25 |
 | [El Bosque \(feat\. Denise Rosenthal\)](https://open.spotify.com/track/0EiUUq1jHdNG8qyq0A6K7j) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [El Bosque \(feat\. Denise Rosenthal\)](https://open.spotify.com/album/5HjJQ4EMvTmqxpPztKoC1o) | 3:06 | 2022-04-01 | 2022-05-27 |
-| [El Chiste](https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG), [Feli Colina](https://open.spotify.com/artist/2G9jPhQNaBTzbtSV4x1Mc2) | [El Chiste](https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv) | 3:35 | 2023-10-05 |  |
+| [El Chiste](https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG), [Feli Colina](https://open.spotify.com/artist/2G9jPhQNaBTzbtSV4x1Mc2) | [El Chiste](https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv) | 3:35 | 2023-10-05 | 2025-08-01 |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2022-01-07 | 2023-10-06 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2023-10-05 |  |
 | [Empate](https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Empate](https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg) | 2:58 | 2022-06-03 | 2022-06-18 |

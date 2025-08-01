@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Xam\u00e3",
+  "description": "boom bap renasce todo dia. Foto: Parteum",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -2468,6 +2468,32 @@
       "duration_ms": 134400,
       "name": "Camisa Dez",
       "url": "https://open.spotify.com/track/21ykQ4fCQGGImQuWIOGWh3"
+    },
+    {
+      "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183376,
+      "name": "Canto Alto",
+      "url": "https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama"
     },
     {
       "album": {
@@ -5713,6 +5739,32 @@
     },
     {
       "album": {
+        "name": "FOGO",
+        "url": "https://open.spotify.com/album/4Q9fFL7lxlNly2T5cxOAfY"
+      },
+      "artists": [
+        {
+          "name": "TiaGuinn",
+          "url": "https://open.spotify.com/artist/2kuYQG9Ag9EKlu25ziQKbX"
+        },
+        {
+          "name": "SOMOS",
+          "url": "https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP"
+        },
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277612,
+      "name": "FOGO",
+      "url": "https://open.spotify.com/track/3vSRCbDMUbj8O9V9YVszSm"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Me Leve a Mal",
         "url": "https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1"
       },
@@ -6052,6 +6104,24 @@
       "duration_ms": 181463,
       "name": "F\u00e9rias da Metr\u00f3pole",
       "url": "https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U"
+    },
+    {
+      "album": {
+        "name": "Racioc\u00ednio (EXTRA)",
+        "url": "https://open.spotify.com/album/4TIXtKqNpkt0KhSIT5wuEY"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180956,
+      "name": "F\u00f3rmula '25",
+      "url": "https://open.spotify.com/track/4aB4M7qoti1mt4fkxXM1MO"
     },
     {
       "album": {
@@ -7021,6 +7091,28 @@
     },
     {
       "album": {
+        "name": "Quebra-Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/76ApD6aQLhmB9txcrISCiq"
+      },
+      "artists": [
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339200,
+      "name": "Jogo Passageiro",
+      "url": "https://open.spotify.com/track/7icsSED3fiYtNV3h9RY8LF"
+    },
+    {
+      "album": {
         "name": "Jovem Mist\u00e9rio",
         "url": "https://open.spotify.com/album/13VFnzZOjPAeh7mud6qWVg"
       },
@@ -7040,7 +7132,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 128256,
       "name": "Jovem Mist\u00e9rio",
       "url": "https://open.spotify.com/track/11ve5lDIJ5pbiukvTLhniU"
@@ -7462,7 +7554,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 121652,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/3tjpwPnJJIWZeZS5UoG0EM"
@@ -7818,7 +7910,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172173,
       "name": "Luzes",
       "url": "https://open.spotify.com/track/55VrUUuVZVaqQJ4gjPt5y3"
@@ -11588,7 +11680,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 195310,
       "name": "QUAL FOI",
       "url": "https://open.spotify.com/track/4crsG5vF7S6pKL3li89TNP"
@@ -12690,7 +12782,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 132588,
       "name": "Saia da Cyclone",
       "url": "https://open.spotify.com/track/59j6VSMKwlkVeGi0wJQaa3"

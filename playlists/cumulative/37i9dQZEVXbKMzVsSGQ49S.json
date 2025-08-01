@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 169655,
       "name": "Aldrei Toppa\u00f0",
       "url": "https://open.spotify.com/track/7teFuwH2migyw406oQEEWW"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -41737,6 +41737,28 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IQKGkAnpXcXkvJKyj1yvM"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209248,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2jM6zqj9nOrMac175qUesR"
+    },
+    {
+      "album": {
         "name": "Sou Baiana",
         "url": "https://open.spotify.com/album/2DMwzpbbhllY9aqZvwGZSJ"
       },
@@ -44822,7 +44844,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -49595,6 +49617,32 @@
     },
     {
       "album": {
+        "name": "Vildi Bara Segja",
+        "url": "https://open.spotify.com/album/4SO8Qt2v6DV9D2sGoQx9n4"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "Vildi Bara Segja",
+      "url": "https://open.spotify.com/track/6eT593LOWtnVYyfb9QeGHE"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/4Yema5Ss16IhCe4OvFVb3f"
       },
@@ -49944,7 +49992,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 277266,
       "name": "Vor \u00ed Vaglask\u00f3gi",
       "url": "https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib"
@@ -50584,7 +50632,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
@@ -51014,7 +51062,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
@@ -51678,7 +51726,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 210813,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
@@ -54858,7 +54906,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

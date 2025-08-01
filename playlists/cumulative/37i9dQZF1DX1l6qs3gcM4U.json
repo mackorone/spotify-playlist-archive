@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Afro Connexion,\tNelson Freitas, Twenty Fingers, Messias Maricoa",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: William Araujo ",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Bia",
+        "url": "https://open.spotify.com/album/0YorR7XzlIH3CftiINKp2A"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        },
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273925,
+      "name": "Bia",
+      "url": "https://open.spotify.com/track/5jYvNdB6bbptDAttYl7vtx"
+    },
+    {
+      "album": {
         "name": "Bibi",
         "url": "https://open.spotify.com/album/4Fb7cUqSG9NhR7iq1YYcyl"
       },
@@ -1788,7 +1810,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 208421,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/4xV1VhlFg0DYR9RD2yjv7f"
@@ -2878,7 +2900,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 160000,
       "name": "Djam Sabia",
       "url": "https://open.spotify.com/track/2qfK9CTPmheyeCoFr22KuN"
@@ -5572,7 +5594,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 174342,
       "name": "Marilia Mendon\u00e7a",
       "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
@@ -7237,6 +7259,28 @@
     },
     {
       "album": {
+        "name": "ON\u00c7A",
+        "url": "https://open.spotify.com/album/28Jc0FYJEynwpAhhAa2bv3"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Johnny Ramos",
+          "url": "https://open.spotify.com/artist/24KbJf8MZdpYJdttrbRcBO"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "On\u00e7a",
+      "url": "https://open.spotify.com/track/4m1dcL5CQJKgXmiEJZho4o"
+    },
+    {
+      "album": {
         "name": "OQA?",
         "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
       },
@@ -7516,7 +7560,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 200016,
       "name": "Peekaboo",
       "url": "https://open.spotify.com/track/4gqeGC50dOeeJ0wTPswYRw"

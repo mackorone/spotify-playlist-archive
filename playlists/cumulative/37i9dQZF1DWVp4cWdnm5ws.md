@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2025\. Cover: Zae
 
-276 songs - 16 hr 29 min
+279 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Good Night!](https://open.spotify.com/track/73nS8UbqUKGMzs8wVXQuZo) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [YSANYGO](https://open.spotify.com/album/77um4x3wuFmwHkYx4G3X8i) | 3:47 | 2024-04-02 | 2025-03-28 |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-04-13 | 2024-04-03 |
 | [Habang Buhay](https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Habang Buhay](https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS) | 4:04 | 2021-11-25 | 2022-03-25 |
+| [Hala](https://open.spotify.com/track/1BhfBWHDty1Ic0E1EjU826) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Hala](https://open.spotify.com/album/3yEgEq1DwEWwt6KZZ9JJ5C) | 3:51 | 2025-08-01 |  |
 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 | 2023-04-13 | 2024-04-03 |
 | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/track/1n94XVEMS40MCW52AyLGDs) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/album/6tNvMkhgMHVnKMgk5FdCvU) | 4:40 | 2021-11-25 | 2022-03-25 |
 | [Hara](https://open.spotify.com/track/7w92fQPnMISlyjKdkgnBjs) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Hara](https://open.spotify.com/album/79vrG3mCNVQaV5oQLPf1fr) | 3:29 | 2022-08-12 | 2022-12-01 |
@@ -106,6 +107,7 @@
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-04-02 | 2025-03-28 |
 | [Horizon](https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Horizon](https://open.spotify.com/album/2HvwHLj6sjOuyrZE4vG0fe) | 3:13 | 2024-04-02 | 2025-03-28 |
 | [HOYA](https://open.spotify.com/track/0vPTT7SlWuA9CzlvqU0xmT) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [HOYA](https://open.spotify.com/album/2pw6arWClaSTngogFXPz13) | 3:15 | 2021-11-25 | 2022-03-25 |
+| [HU$$](https://open.spotify.com/track/46GSqzkjGkGndIi5ZFJH5O) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [HU$$](https://open.spotify.com/album/0uPolw7itxHskTKq9PKE4B) | 1:48 | 2025-08-01 |  |
 | [Hue](https://open.spotify.com/track/58uGxLvKGorVzU2VbilKk6) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:52 | 2021-11-25 | 2022-03-25 |
 | [Huli](https://open.spotify.com/track/3fWRjcmyiuRIodbyHH2c7A) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Huli](https://open.spotify.com/album/0ER3BPTPVNeIEh6MN9H3Lf) | 4:24 | 2022-08-26 | 2022-12-01 |
 | [Huwag Muna Tayong Umuwi](https://open.spotify.com/track/7haQq014RoahMX6spW4z1z) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:57 | 2024-04-02 | 2025-03-28 |
@@ -155,6 +157,7 @@
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2023-04-14 |
 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 | 2025-03-28 |
 | [Mariposa](https://open.spotify.com/track/0j452wGGiFFZzGzWWa4cqq) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA), [DB Tha Girl](https://open.spotify.com/artist/557z0T9CAn8BAPaTAZpDaG) | [Mariposa](https://open.spotify.com/album/6dSj3xF4g0MqpNAF7QBeAk) | 3:51 | 2021-11-25 | 2022-03-25 |
+| [Maulan](https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Maulan](https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ) | 3:59 | 2025-08-01 |  |
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-29 | 2025-03-28 |

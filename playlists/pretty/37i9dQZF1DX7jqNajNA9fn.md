@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jqNajNA9fn.md) - [plain]
 
 > <a href="spotify:artist:5W10uJRsbt9bROJDKoI1Wn">Moses Sumney</a> takes us back to the sound of 1993\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,755 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,793 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jqNajNA9fn.md) - [plain]
 | 26 | [Dreamlover](https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:53 |
 | 27 | [Without You](https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:35 |
 
-Snapshot ID: `ZpiTQAAAAABgfTY9eRroiJj+x5Iihfs6`
+Snapshot ID: `AAAAADuy/RjX9D0PJEx5j9awsAQkzIBy`

@@ -1190,8 +1190,8 @@
           "url": "https://open.spotify.com/artist/7uFqQrxHbkJcmh2s0kVuwF"
         },
         {
-          "name": "Philadelphia Concerto Soloists, members",
-          "url": "https://open.spotify.com/artist/0M23CsYwvYe5CxTZ5xvbde"
+          "name": "Philadelphia Concerto Soloists",
+          "url": "https://open.spotify.com/artist/6txMMbuhrixsRG1Sx7VzOv"
         },
         {
           "name": "Joseph Flummerfelt",
@@ -1345,40 +1345,6 @@
     },
     {
       "album": {
-        "name": "Christmas with The Westminster Choir",
-        "url": "https://open.spotify.com/album/2ELYsBTEhoUNSJGSChxwoh"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Westminster Choir",
-          "url": "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
-        },
-        {
-          "name": "Daniel Beckwith",
-          "url": "https://open.spotify.com/artist/7uFqQrxHbkJcmh2s0kVuwF"
-        },
-        {
-          "name": "Philadelphia Concerto Soloists, members",
-          "url": "https://open.spotify.com/artist/0M23CsYwvYe5CxTZ5xvbde"
-        },
-        {
-          "name": "Joseph Flummerfelt",
-          "url": "https://open.spotify.com/artist/5ZpmI3HbJwJV06Ql5g9B5z"
-        }
-      ],
-      "date_added": "2020-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154933,
-      "name": "Festgesang, MWV D4, \"Gutenberg-Kantate\": No. 2. (adap. W.H. Cummings as Hark! The Herald Angels Sing)",
-      "url": "https://open.spotify.com/track/16djCJhHKYQBHtfIybAyKv"
-    },
-    {
-      "album": {
         "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT"
       },
@@ -1526,10 +1492,6 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Louis Woodruff",
-          "url": "https://open.spotify.com/artist/4HkgYGQ7ONmmV8wCFXxp5F"
-        },
-        {
           "name": "Westminster Choir",
           "url": "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
         },
@@ -1538,8 +1500,8 @@
           "url": "https://open.spotify.com/artist/5X1iZnI53CrchPJTHKhdWB"
         },
         {
-          "name": "Philadelphia Concerto Soloists, members",
-          "url": "https://open.spotify.com/artist/0M23CsYwvYe5CxTZ5xvbde"
+          "name": "Philadelphia Concerto Soloists",
+          "url": "https://open.spotify.com/artist/6txMMbuhrixsRG1Sx7VzOv"
         },
         {
           "name": "Joseph Flummerfelt",
@@ -1550,7 +1512,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 106440,
-      "name": "Good King Wenceslas (arr. L. Woodruff)",
+      "name": "Good King Wenceslas (Arr. L. Woodruff)",
       "url": "https://open.spotify.com/track/5vZ8var6An9q8GdEVxmGKt"
     },
     {
@@ -1582,6 +1544,40 @@
       "duration_ms": 185986,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/1T6a4HHRB8rrniDad4hIj2"
+    },
+    {
+      "album": {
+        "name": "Christmas with The Westminster Choir",
+        "url": "https://open.spotify.com/album/2ELYsBTEhoUNSJGSChxwoh"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Westminster Choir",
+          "url": "https://open.spotify.com/artist/7bOkvwxa2SjdbvMvNawSMZ"
+        },
+        {
+          "name": "Daniel Beckwith",
+          "url": "https://open.spotify.com/artist/7uFqQrxHbkJcmh2s0kVuwF"
+        },
+        {
+          "name": "Philadelphia Concerto Soloists",
+          "url": "https://open.spotify.com/artist/6txMMbuhrixsRG1Sx7VzOv"
+        },
+        {
+          "name": "Joseph Flummerfelt",
+          "url": "https://open.spotify.com/artist/5ZpmI3HbJwJV06Ql5g9B5z"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Hark! The Herald Angels Sing: Festgesang, MWV D4, \"Gutenberg-Kantate\": No. 2, (adap. W.H. Cummings as Hark! The Herald Angels Sing) [Arr. W.J. Cummings]",
+      "url": "https://open.spotify.com/track/16djCJhHKYQBHtfIybAyKv"
     },
     {
       "album": {
@@ -2356,7 +2352,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134133,
-      "name": "Lo how a rose e'er blooming (Es ist ein Ros' entsprungen): Lo, how a Rose e'er blooming",
+      "name": "Lo How a Rose E'er Blooming",
       "url": "https://open.spotify.com/track/6szODYl48fqUUruLDd1mWi"
     },
     {
@@ -4086,23 +4082,23 @@
           "url": "https://open.spotify.com/artist/4oT37QcUiBMJWyciCoeraO"
         },
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         },
         {
           "name": "Cambridge Orchestra",
           "url": "https://open.spotify.com/artist/5ik7dyLIwdHHSIlS4sjzCB"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 302800,
-      "name": "We Three Kings of Orient Are (arr. J. Rutter): Three kings of Orient",
+      "name": "We Three Kings of Orient Are (Arr. J. Rutter)",
       "url": "https://open.spotify.com/track/6M3OFxe8Za62DTNWG79pGc"
     },
     {

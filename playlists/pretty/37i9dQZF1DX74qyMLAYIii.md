@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 
 > Psicodélica, eléctrica y amazónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,281 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 | 8 | [Ladrón de Amor](https://open.spotify.com/track/6kycDnFWUswg74CpQeQKuq) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Indiscutibles](https://open.spotify.com/album/7tve9cI7yaK1V9xaOoyZQs) | 3:27 |
 | 9 | [Sirena del Amor](https://open.spotify.com/track/2M2XcpyTWQ61MY9vvDnE23) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Inicios: Primeros Volúmenes](https://open.spotify.com/album/63wHyPT8g4yOIRO0Ark89k) | 3:04 |
 | 10 | [Lobos al Escape](https://open.spotify.com/track/34TwJIqDRJTAxsslSU8ywh) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:35 |
-| 11 | [El Cervecero](https://open.spotify.com/track/7pzEx4nNYGhTrGdcA3KBnA) | [Armonía 10 de Walther Lozada](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primerísimos Éxitos](https://open.spotify.com/album/4j8lryIFj5M5yhoGq9y8LE) | 3:54 |
+| 11 | [El Cervecero](https://open.spotify.com/track/7pzEx4nNYGhTrGdcA3KBnA) | [Armonía 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primerísimos Éxitos](https://open.spotify.com/album/4j8lryIFj5M5yhoGq9y8LE) | 3:54 |
 | 12 | [Ese Amargo Amor](https://open.spotify.com/track/3EWAO463RADpLzRt3h11Vz) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:10 |
 | 13 | [Mi Morena Rebelde](https://open.spotify.com/track/11rUmPNHulEG9r6gH6LAWG) | [Eusebio y Su Banjo](https://open.spotify.com/artist/5G55RqgMHhqeLN9fGvBJXY) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 3:29 |
 | 14 | [Antahuara](https://open.spotify.com/track/5KWhCMSUX1pdcngvVtAD0U) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 | 49 | [Carioco](https://open.spotify.com/track/3ScwGZNPtTz2WsaKRZm5HD) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [Arre Caballito](https://open.spotify.com/album/3kt1UzXlyClz59T9M03FqJ) | 2:59 |
 | 50 | [El Mondonguito](https://open.spotify.com/track/4KHpvWmOW9lKXGvUm0kkNX) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [Arre Caballito](https://open.spotify.com/album/3kt1UzXlyClz59T9M03FqJ) | 2:17 |
 
-Snapshot ID: `aCtkFQAAAACsSpEBjR53VywkxYRBNZJc`
+Snapshot ID: `AAAAAM6NANLHgkqMjQxT/b1RQ/LDsEkU`

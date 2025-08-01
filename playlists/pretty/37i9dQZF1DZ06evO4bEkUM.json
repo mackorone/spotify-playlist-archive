@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 942163,
+  "num_followers": 942301,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAB2I079aRQtB0vkXnV/oAXu",
+  "snapshot_id": "aIlggAAAAABSM8xRz3nzmOYI4u3+EYcn",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Club",
-        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 208094,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling (Deluxe)",
         "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225034,
       "name": "O Star",
       "url": "https://open.spotify.com/track/3lwOABYgvKcKcgbxSWRMv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Club",
+        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 208094,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Club",
-        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "In the Mourning",
-      "url": "https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling (Deluxe)",
         "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 269718,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/5kdWRrbFpKOzvwyZa6GH9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Club",
+        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "In the Mourning",
+      "url": "https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg"
     },
     {
       "added_at": null,

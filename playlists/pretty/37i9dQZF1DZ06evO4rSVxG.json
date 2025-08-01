@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAAV0l2hDT5YgbI8rcHTykGr",
+  "snapshot_id": "aIlggAAAAAADpxnAmMaXuqbxaa0Giatl",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray Ray",
-        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 258813,
-      "name": "Rifle Love",
-      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -287,18 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "Ray Ray",
+        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
       },
       "artists": [
         {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+      "duration_ms": 258813,
+      "name": "Rifle Love",
+      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
     },
     {
       "added_at": null,
@@ -396,15 +396,15 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 337000,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
+      "duration_ms": 342266,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 278706,
-      "name": "Sky's The Limit",
-      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
+      "duration_ms": 255133,
+      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
+      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
     },
     {
       "added_at": null,
@@ -460,9 +460,25 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 342266,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
+      "duration_ms": 337000,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "Sky's The Limit",
+      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
     },
     {
       "added_at": null,
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 255133,
-      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
-      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
+      "duration_ms": 321800,
+      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
+      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 321800,
-      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
-      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 346226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
+      "duration_ms": 285133,
+      "name": "Born Not To Know",
+      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 285133,
-      "name": "Born Not To Know",
-      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
+      "duration_ms": 346226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
     }
   ],
   "unique_name": "This Is Tony! Toni! Ton\u00e9!",

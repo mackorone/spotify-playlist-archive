@@ -3383,6 +3383,32 @@
     },
     {
       "album": {
+        "name": "Head Rock",
+        "url": "https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Head Rock",
+      "url": "https://open.spotify.com/track/2qs6tpFeTo3BFmc86Y0Y6Q"
+    },
+    {
+      "album": {
         "name": "Heads or Tails",
         "url": "https://open.spotify.com/album/2Vwyw648RQRBunjOXcG6oW"
       },
@@ -9604,7 +9630,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 183165,
       "name": "YA BODY",
       "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"

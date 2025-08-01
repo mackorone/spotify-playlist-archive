@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 34855,
+  "num_followers": 34868,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAAfAOkdGzK9cinv8xTdwph4",
+  "snapshot_id": "aIlggAAAAADOU/tQgn4pvrc2CszV0PaO",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 148373,
       "name": "Victim of Reality",
       "url": "https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "No Reason Why - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179626,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "No Reason Why - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
     },
     {
       "added_at": null,

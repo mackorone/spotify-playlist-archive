@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Boaventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,561 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,547 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Conjunto do Paris](https://open.spotify.com/track/38tRjaqubA8aWXkaXGzQIg) | [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Conjunto do Paris](https://open.spotify.com/album/3aJgUny17AJwSIwp3GcCKE) | 2:38 |
 | 75 | [Teatro](https://open.spotify.com/track/12CAvEo7vhP2AoBwgaqmK1) | [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Teatro](https://open.spotify.com/album/4mhqiIx34WcviohB5GNx7a) | 2:13 |
 
-Snapshot ID: `aHm4ywAAAADDzcOuwBCYlmwwmTssYJTS`
+Snapshot ID: `AAAAAFzLn7chIRW2p+26N4/cfcy/fPuv`

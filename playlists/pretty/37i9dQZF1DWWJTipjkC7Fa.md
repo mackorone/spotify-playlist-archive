@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,031 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,044 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 59 | [Fall with You](https://open.spotify.com/track/7lYiZOy2syi7UwS2XEpmeM) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Fall with You](https://open.spotify.com/album/1iJtv8bQksRPjchfn4mRqk) | 3:13 |
 | 60 | [Light Up the Sky \(Skylar's Song\)](https://open.spotify.com/track/4mpfRdBiUiWABpJcHgCMnB) | [Brian H\. Kim](https://open.spotify.com/artist/6AWougHufUYuAil1drF6MB), [Corey Fogelmanis](https://open.spotify.com/artist/5YC2obH1ww4IH0o0zDA7m9) | [My Life with the Walter Boys \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4o4dY3Am1MVqFzdS8cCqEe) | 2:05 |
 
-Snapshot ID: `AAAAAHz349U84AcsqFqOA/MXjz95aAZp`
+Snapshot ID: `ZXNxfwAAAAAwj+4o8S8hSuos/hepyEJW`

@@ -1,13 +1,33 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Tissa Biani",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Deborah Hanna",
   "num_followers": 40798,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIJmqgAAAAC3c7fJ7B7Ei0gfrSTBb7pi",
+  "snapshot_id": "aIuhygAAAACsmBDLsL5PwYZyNbBM30xE",
   "tracks": [
+    {
+      "added_at": "2025-07-31 17:03:06",
+      "album": {
+        "name": "Panggil Saja Hanna",
+        "url": "https://open.spotify.com/album/6PmNwvDjjpY5QCOFdtaOYO"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        },
+        {
+          "name": "Krisna Trias",
+          "url": "https://open.spotify.com/artist/14uIEY2id29DkY0FzZWuM0"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Nyaman Terbuka",
+      "url": "https://open.spotify.com/track/7tXTwcHhAmo76d6F7upe1A"
+    },
     {
       "added_at": "2025-07-24 17:00:26",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Janeth Valenzuela
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,170 likes - 96 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,178 likes - 96 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 22 | [Contigo](https://open.spotify.com/track/7mMrcObHozrz7pJZQyQ4yI) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Contigo](https://open.spotify.com/album/6qo7MJeVYESrUSJeRPuRjq) | 3:12 |
 | 23 | [Mujer De Piedra](https://open.spotify.com/track/0PoS4YxvlnJ5cjiDY23xbq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Mujer De Piedra](https://open.spotify.com/album/1ZmARcKTx2aAdFHL8I8nDj) | 2:13 |
 | 24 | [Quiero Saber](https://open.spotify.com/track/3PiFXbN47mvHYI9GLjKntI) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Quiero Saber](https://open.spotify.com/album/2SpqrSrqggJFD2ptzMGGGv) | 3:42 |
-| 25 | [Y Si Te Vas](https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y Si Te Vas](https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL) | 2:57 |
+| 25 | [Y SI TE VAS](https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y SI TE VAS](https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL) | 2:57 |
 | 26 | [DÉJAME](https://open.spotify.com/track/4w0CDJpq3UYndHYU4M62hF) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [DÉJAME](https://open.spotify.com/album/553CRKsB6IRwZFBpLeFImA) | 2:30 |
 | 27 | [Sin Ti](https://open.spotify.com/track/1BdQq1ZbYNBjFbOr2Ba4Vl) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Sin Ti](https://open.spotify.com/album/5MTAaPDOD022PhQ9gL7idc) | 2:56 |
 | 28 | [Crayolas](https://open.spotify.com/track/60Ml0zxh31kWAVYh7nEZb3) | [Manzana For Life](https://open.spotify.com/artist/4lLZY8V5ioycz7OF4pPPrJ), [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Crayolas](https://open.spotify.com/album/0D9DlAaf1QaO0kF36eFLAj) | 2:36 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 60 | [Pum Pim Pam](https://open.spotify.com/track/0oWVPRSFyO8sJRx1G31w5U) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Pum Pim Pam](https://open.spotify.com/album/2sO1RmZB7suZTdhFXjOTYF) | 2:01 |
 | 61 | [Los Porros](https://open.spotify.com/track/6ZMrcVHRBmD3ICTIRKbtYK) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Los Porros](https://open.spotify.com/album/5rKpjDbXY9JmVEspfZclGk) | 4:05 |
 | 62 | [7 Vidas](https://open.spotify.com/track/3A812cOvQBpJSDmyxZBNSv) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [7 Vidas](https://open.spotify.com/album/5snLyN1KQSnDi8c7zXsdYo) | 3:23 |
-| 63 | [Chill Guys](https://open.spotify.com/track/13k4isgcfcynqAnCdZ4CUh) | [Grupo RYE](https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv) | [Chill Guys](https://open.spotify.com/album/6Jhzm2zjaJQ5PpwbU286NK) | 2:56 |
+| 63 | [Chill Guys](https://open.spotify.com/track/13k4isgcfcynqAnCdZ4CUh) | [Grupo RYE](https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv) | [Chill Guys](https://open.spotify.com/album/6Jhzm2zjaJQ5PpwbU286NK) | 2:57 |
 | 64 | [Gracias x Nada](https://open.spotify.com/track/6MP13L8qGStvVIBt5wYcye) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Gracias x Nada](https://open.spotify.com/album/1a7bm3u52egSvOna7VmuHa) | 3:13 |
 | 65 | [Sin Voz](https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Sin Voz](https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw) | 4:15 |
 | 66 | [Buenos Corridos](https://open.spotify.com/track/5a4v8K3csLQa5PweXvg48u) | [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [Buenos Corridos](https://open.spotify.com/album/5WpBqFnoHIOmxwTUmujWlv) | 2:26 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 95 | [FUNERAL](https://open.spotify.com/track/6rxbNI6XdvYMxwr9kGvc3Q) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [FUNERAL](https://open.spotify.com/album/0b6nvl9mgW5BjTJtkaP3Tu) | 2:46 |
 | 96 | [Te Vas](https://open.spotify.com/track/78VvnSI0Xe6Lu9t6KZFNCC) | [Diana Araujo](https://open.spotify.com/artist/2gddhtroO8YVORZShAjf2O) | [Te Vas](https://open.spotify.com/album/0t8J2Qp5zxPiPT26SKJKKM) | 3:16 |
 
-Snapshot ID: `aIMhRAAAAABJknsF9D4J4WXNrjMyRWcY`
+Snapshot ID: `AAAAALJBRbPvFuo4f30gMV5ixSmNVPhF`

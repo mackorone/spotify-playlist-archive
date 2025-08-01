@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Synthesis",
+        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57560,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/4Kmipg6Y3gfA5UIS8MVUt9"
+    },
+    {
+      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },

@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: MALIQ & D'Essentials
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Budi Doremi
 
-441 songs - 1 day 4 hr 48 min
+442 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-01-26 | 2024-12-06 |
 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-07-18 | 2025-02-14 |
 | [Penyangkalan \- Acoustic](https://open.spotify.com/track/3TMzUKhjdK2ZVkcrNX6dXG) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan \- Acoustic](https://open.spotify.com/album/51qLRfAQjut38kkv6gSPUv) | 3:57 | 2024-11-14 | 2025-02-14 |
+| [Percik Kecil](https://open.spotify.com/track/6CsSNFkQVVuQjRQMrzyDzq) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC), [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Percik Kecil](https://open.spotify.com/album/3TrKCx9c3yJ7iD7NsIDRAC) | 3:49 | 2025-07-31 |  |
 | [Percuma](https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf), [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Percuma](https://open.spotify.com/album/1enR50jqoFl1yz75axX2sF) | 4:07 | 2025-06-26 |  |
 | [Perisai](https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Perisai](https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ) | 4:00 | 2024-03-01 | 2024-03-29 |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-21 |  |

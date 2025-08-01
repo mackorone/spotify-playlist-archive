@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-911 songs - 2 day 12 hr 1 min
+912 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [DND](https://open.spotify.com/track/4dmyhFotHSwyVsKCbvekEU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/6Qlte9o32U238sw3gElTtF) | 3:25 | 2023-12-12 | 2024-01-10 |
 | [Do you remember](https://open.spotify.com/track/3CPSBqZ58PQVzKnbwHBzsn) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Do you remember](https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW) | 5:08 | 2022-06-21 | 2022-07-18 |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-11-10 | 2024-04-19 |
-| [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 | 2024-09-25 |  |
+| [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 | 2024-09-25 | 2025-08-01 |
 | [Document](https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/0klLVAweT1Pxea8gSFxvW2) | 4:35 | 2023-03-28 | 2023-04-19 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 | 2023-08-07 |
 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:45 | 2022-05-24 |  |
@@ -181,6 +181,7 @@
 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 | 2023-08-16 |
 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 | 2022-05-28 | 2023-04-05 |
 | [Fly By Day](https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:33 | 2023-07-18 |  |
+| [Fly By Day feat\. JU!iE](https://open.spotify.com/track/6lf526fjTu6uSodMWM2f25) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [Fly By Day feat\. JU!iE](https://open.spotify.com/album/2P2wW01AXfJBEeXrbsp6WC) | 4:58 | 2025-07-22 |  |
 | [FLYIN' HIGH](https://open.spotify.com/track/6cAacP2EjcuRkV2BhxlCuz) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [FLYIN' HIGH](https://open.spotify.com/album/0hWOXUnD7eBL8GNEFfLnQ0) | 4:37 | 2023-12-19 | 2024-01-10 |
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 | 2023-07-20 |
 | [Friday Night TYO](https://open.spotify.com/track/0JbjX9KO5VN2cqsSCGwd8u) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [INTERWEAVE 02](https://open.spotify.com/album/2ujuanUjHgl8sDGvipTmq3) | 3:52 | 2022-05-28 | 2022-07-04 |

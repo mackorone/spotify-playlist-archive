@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Maya Amolo
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Hidah Watiri
 
-279 songs - 15 hr 40 min
+280 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Goodbye](https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU) | [Shanki Austine](https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM), [Bee Muziki](https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j) | [Beginning EP](https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa) | 3:22 | 2024-11-07 | 2025-01-17 |
 | [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-29 |  |
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 | 2024-05-04 |
+| [Hale](https://open.spotify.com/track/3eGBctTtCpO4qr7SxCJPdW) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Hale](https://open.spotify.com/album/60dvHw4f6N9YnMocVWY1Cx) | 3:35 | 2025-08-01 |  |
 | [Hamu](https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Musings](https://open.spotify.com/album/4tP74evyRsApusUxzoOlij) | 3:57 | 2025-05-15 |  |
 | [Happy](https://open.spotify.com/track/6mfOlusYuEHqUjYRh5msRB) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [The Proverbial Kiki](https://open.spotify.com/artist/2kF0bcJNoJm8d21xlnAGT8) | [Happy](https://open.spotify.com/album/50yMpW5GhzhpZhBZ0mqDu3) | 3:50 | 2024-11-21 | 2025-07-18 |
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 | 2024-06-28 |
@@ -164,7 +165,7 @@
 | [My Everything](https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:51 | 2021-12-28 | 2025-02-21 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-03-23 | 2024-02-16 |
 | [My Love Belongs to You](https://open.spotify.com/track/32znzBnjFs06EEgMzyUINd) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Super Ego](https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6) | 3:33 | 2021-12-28 | 2022-04-29 |
-| [MY PARADISE](https://open.spotify.com/track/0zaaOmQNIyaU0OsuCdMfrh) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [MY PARADISE](https://open.spotify.com/album/4DxciRnocZWISKKc1EGlB3) | 2:54 | 2024-06-06 |  |
+| [MY PARADISE](https://open.spotify.com/track/0zaaOmQNIyaU0OsuCdMfrh) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [MY PARADISE](https://open.spotify.com/album/4DxciRnocZWISKKc1EGlB3) | 2:54 | 2024-06-06 | 2025-08-01 |
 | [Múrío Wa Wendo](https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo) | [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Múrío Wa Wendo](https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n) | 3:13 | 2024-01-11 | 2024-05-24 |
 | [Naito](https://open.spotify.com/track/4JPzKp3IgIlaVEMSbGc73o) | [Pascal Tokodi](https://open.spotify.com/artist/7FSouRkvmGBxGx66a6Z4x3) | [Naito](https://open.spotify.com/album/4tjEfXK9eENmcOkZkLLFKT) | 2:53 | 2021-12-28 | 2022-03-25 |
 | [Nakupenda Bado](https://open.spotify.com/track/3T2HZ4MqS2AVxtuCTXJZ3B) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Hayawi Hayawi](https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK) | 3:25 | 2021-12-28 | 2022-07-08 |

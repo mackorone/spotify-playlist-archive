@@ -4,7 +4,7 @@
 
 > 
 
-7,553 songs - 19 day 13 hr 22 min
+7,556 songs - 19 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1691,6 +1691,7 @@
 | [Empanadas](https://open.spotify.com/track/60VOmWCHNsIIRZQ7zVezYB) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:08 | 2025-07-25 |  |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2025-02-03 |  |
 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 | 2025-01-03 |  |
+| [emulation \(mode:totonee\)](https://open.spotify.com/track/5XUB5h1kZcFrgLa9RZda3Y) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [emulation](https://open.spotify.com/album/0OQwd9OkjGYKjYk4QCJYDB) | 3:54 | 2025-07-31 |  |
 | [Encore](https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:10 | 2025-01-03 |  |
 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 | 2025-01-03 |  |
 | [End of Me](https://open.spotify.com/track/0R4si8EvKFD5PgGyKJXUx5) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Common Courtesy](https://open.spotify.com/album/1NllrdYrRGnzaOEgMOifMB) | 3:57 | 2025-01-03 |  |
@@ -3219,6 +3220,7 @@
 | [Last love](https://open.spotify.com/track/0agr7eGYaRxSdJZ6JrHpGv) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Promise](https://open.spotify.com/album/5teS918UxfihkdCYzHIwde) | 4:12 | 2025-01-15 |  |
 | [Last Memory](https://open.spotify.com/track/1fvCggAYrW0VtCljtqv4h2) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 2:42 | 2025-01-15 |  |
 | [LAST STARDUST](https://open.spotify.com/track/2pOaHLgMESOP6merlAQ82b) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Dawn](https://open.spotify.com/album/02PbCYtNC7z16HVYLsWwQr) | 5:18 | 2024-12-05 |  |
+| [Last Summer](https://open.spotify.com/track/0TrEqlX6NlAI0ghmvlqRSJ) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Last Summer](https://open.spotify.com/album/3uWez8TbuS3tEyT5Mirf0W) | 4:05 | 2025-07-31 |  |
 | [Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 3:55 | 2025-04-20 |  |
 | [Last Surprise](https://open.spotify.com/track/66sLnZyVStXL8ry3GxcDqd) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5』オリジナル・サウンドトラック](https://open.spotify.com/album/23R5mT3eEeFXjsJYxvzC74) | 3:55 | 2025-01-04 |  |
 | [Last Train At 25 O'clock](https://open.spotify.com/track/3VPBPBZKxQu3bqeuzz8gRm) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 4:23 | 2025-01-03 |  |
@@ -5399,6 +5401,7 @@
 | [Still Here](https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:09 | 2025-01-03 |  |
 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 | 2025-01-03 |  |
 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/5PXpiAqtsLRlTUlAoeZeYP) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 3:53 | 2025-01-03 |  |
+| [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2025-07-31 |  |
 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 | 2025-01-04 |  |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2025-01-04 |  |
 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 | 2025-01-24 |  |

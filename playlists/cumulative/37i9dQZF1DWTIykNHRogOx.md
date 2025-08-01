@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
 
-201 songs - 11 hr 4 min
+203 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 | 2025-05-22 |  |
 | [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 | 2025-02-14 |
 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 | 2024-11-21 | 2025-04-18 |
+| [Des éclats dans les nuages](https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Des éclats dans les nuages](https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE) | 2:42 | 2025-07-31 |  |
 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 | 2025-04-17 |  |
 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 | 2025-06-12 |  |
 | [Disparaître \- Version piano](https://open.spotify.com/track/0oLPNB6Aw1WapxGdtxWUXu) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [romān](https://open.spotify.com/artist/7ot2qoHpkZwyqiot2Mwtbz) | [Disparaître \(Version piano\)](https://open.spotify.com/album/23dB4MqyzNPISBwC7MVsO6) | 3:07 | 2025-05-15 |  |
@@ -100,12 +101,12 @@
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 | 2025-05-16 |
 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 |  |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
-| [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 |  |
+| [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 | 2025-08-01 |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 | 2025-01-10 |
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-27 | 2024-10-04 |
 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 | 2025-06-19 |  |
 | [Le mauvais garçon](https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [Le mauvais garçon](https://open.spotify.com/album/0bixY4p5CCGmoO8Btr9676) | 3:07 | 2024-12-05 | 2025-04-25 |
-| [Le rivage](https://open.spotify.com/track/0NAAqdRd9ZJhFCk6fm4IXF) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Le rivage](https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9) | 2:35 | 2025-03-13 |  |
+| [Le rivage](https://open.spotify.com/track/0NAAqdRd9ZJhFCk6fm4IXF) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Le rivage](https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9) | 2:35 | 2025-03-13 | 2025-08-01 |
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 | 2024-11-08 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-11-14 | 2025-01-11 |
 | [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 | 2025-03-27 |  |
@@ -137,6 +138,7 @@
 | [Manteau chagrin](https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Manteau chagrin](https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY) | 4:13 | 2025-05-29 |  |
 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 | 2025-01-24 |
 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 | 2025-07-17 |  |
+| [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 |  |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |

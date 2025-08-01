@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Natanael Cano & Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,093 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,096 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Sport+ RMX](https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sport+ RMX](https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L) | 3:39 |
 | 100 | [RZR](https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [RZR](https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg) | 2:53 |
 
-Snapshot ID: `AAAAAKT8nzAsnT3uAnDaOe1n1lMdjPh1`
+Snapshot ID: `aIMBeAAAAADG3f4ZzVoEiXLSkQ7wpa7e`

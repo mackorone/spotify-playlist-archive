@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Braxton Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,064 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,027 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Hotel Clara](https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Lytmus](https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9), [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO) | [Hotel Clara](https://open.spotify.com/album/0royvZusJQXJnXqHJGKQyW) | 3:23 |
 | 100 | [Flyways](https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big III](https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1) | 4:03 |
 
-Snapshot ID: `aINjQAAAAAA9TXj3DmLz41PAWrxZk+Rr`
+Snapshot ID: `AAAAAEaDlQE+WKRxLACSjULXs+X4PUUp`

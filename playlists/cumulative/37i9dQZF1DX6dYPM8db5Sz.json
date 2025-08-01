@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb?si=tmVe5xSYSgyTvre5VSp3LA\">Tame Impala</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH?si=88B7MbDAQPGfAo5vgqnDjQ\">Chezile</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 292882,
       "name": "Ain't Quite Right (unresolved)",
       "url": "https://open.spotify.com/track/0GGzlOymjqX36JgsXMDXLm"
@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0xcniT3xXVki46sid5O30B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0Ui8brfTyqFr1QZceQxtGP"
+    },
+    {
+      "album": {
         "name": "Belle \u00c9poque",
         "url": "https://open.spotify.com/album/0eTcUaVWRcC0xwD9z26g2g"
       },
@@ -2356,6 +2374,24 @@
       "duration_ms": 202321,
       "name": "Better Alone",
       "url": "https://open.spotify.com/track/4gFVJHLYoexmEdwS6g1YTv"
+    },
+    {
+      "album": {
+        "name": "Better Believe It",
+        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142892,
+      "name": "Better Believe It",
+      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
     },
     {
       "album": {
@@ -2580,6 +2616,24 @@
       "duration_ms": 209812,
       "name": "Black Out Baby",
       "url": "https://open.spotify.com/track/6zh4KcGIZcHJ24wSiBq5eZ"
+    },
+    {
+      "album": {
+        "name": "If Not Winter",
+        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265293,
+      "name": "Black swan",
+      "url": "https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE"
     },
     {
       "album": {
@@ -7111,6 +7165,28 @@
     },
     {
       "album": {
+        "name": "Favor - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7lRzvykyqAtgrjnypx2Usy"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165902,
+      "name": "Favor - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7mfNHi6BFeZoKUiylX45tl"
+    },
+    {
+      "album": {
         "name": "Heaving",
         "url": "https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT"
       },
@@ -8117,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "Glum",
+        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193131,
+      "name": "Glum",
+      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
+    },
+    {
+      "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/3LPuPizj5umG0kBu3dse5a"
       },
@@ -8784,7 +8878,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 159000,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/2AUoty8MHDURP9auksY0Js"
@@ -9552,7 +9646,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
@@ -12962,7 +13056,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -13194,7 +13288,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 273361,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF"
@@ -13516,6 +13610,24 @@
       "duration_ms": 296226,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/23QVH6eCYp7JOACnWmXn6c"
+    },
+    {
+      "album": {
+        "name": "Mirtazapine",
+        "url": "https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204336,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
     },
     {
       "album": {
@@ -18276,7 +18388,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 300000,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/6omZ70eLDHV7b49sCWGIaC"
@@ -19754,6 +19866,24 @@
       "duration_ms": 251986,
       "name": "Summer's Our Forever Now",
       "url": "https://open.spotify.com/track/4pYKl8eS6DC4sNg5lzb8p1"
+    },
+    {
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "album": {
@@ -23806,7 +23936,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 155480,
       "name": "Willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"

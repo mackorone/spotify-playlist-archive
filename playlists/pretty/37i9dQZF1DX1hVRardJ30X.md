@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Eslabon Armado, Eladio Carrion & Omar Courtz, De La Rose LATIN MAFIA & Omar Apollo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,837 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,842 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

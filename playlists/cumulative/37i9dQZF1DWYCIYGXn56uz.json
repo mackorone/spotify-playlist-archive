@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 190752,
       "name": "ATTIMO ETERNO",
       "url": "https://open.spotify.com/track/4EytknnS0JlIu0ReBfdTiL"
@@ -6933,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "LA SCELTA MIGLIORE",
+        "url": "https://open.spotify.com/album/2yGOeuOJxpi2VUYuABdGqT"
+      },
+      "artists": [
+        {
+          "name": "Sinomine",
+          "url": "https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127942,
+      "name": "LA SCELTA MIGLIORE",
+      "url": "https://open.spotify.com/track/05GF1uj3i2yxc3fN7dF09j"
+    },
+    {
+      "album": {
         "name": "La Storia Della Nostra Vita",
         "url": "https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp"
       },
@@ -7556,6 +7574,32 @@
       "duration_ms": 226464,
       "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac"
+    },
+    {
+      "album": {
+        "name": "MA CHE IDEA RMX",
+        "url": "https://open.spotify.com/album/3wUrUcYjwY1uLfvB0bHC4e"
+      },
+      "artists": [
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+        },
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        },
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177035,
+      "name": "MA CHE IDEA RMX",
+      "url": "https://open.spotify.com/track/3NX8uz8ollJtkfa5IQczm1"
     },
     {
       "album": {
@@ -11396,7 +11440,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 152192,
       "name": "RESTA",
       "url": "https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj"

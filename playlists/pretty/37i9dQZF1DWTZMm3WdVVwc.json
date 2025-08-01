@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 24975,
+  "num_followers": 24974,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "wizard",
-        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
-      },
-      "artists": [
-        {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "\u307e\u3063\u3057\u308d",
-      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "12 hugs (like butterflies)",
         "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "snow moon",
-        "url": "https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm"
+        "name": "wizard",
+        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
       },
       "artists": [
         {
-          "name": "Ryosuke Yamada",
-          "url": "https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q"
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
         }
       ],
-      "duration_ms": 232618,
-      "name": "snow moon",
-      "url": "https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c"
+      "duration_ms": 237200,
+      "name": "\u307e\u3063\u3057\u308d",
+      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -791,6 +775,22 @@
       "duration_ms": 163143,
       "name": "\u30e1\u30eb\u30c8",
       "url": "https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "snow moon",
+        "url": "https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Yamada",
+          "url": "https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q"
+        }
+      ],
+      "duration_ms": 232618,
+      "name": "snow moon",
+      "url": "https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
-        "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
-      "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "Liebe vor der T\u00fcr",
         "url": "https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180803,
       "name": "Liebe vor der T\u00fcr",
       "url": "https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+        "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+      "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
-        }
-      ],
-      "duration_ms": 241175,
-      "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "HOME EP",
         "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 272894,
       "name": "\u611b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "duration_ms": 241175,
+      "name": "\u30d6\u30fc\u30d3\u30fc\u30fb\u30d7\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u706b\u9b45\u87f2",
-        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
+        "name": "Stateless feat. YonYon",
+        "url": "https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Gotch",
+          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
         }
       ],
-      "duration_ms": 190553,
-      "name": "\u706b\u9b45\u87f2",
-      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
+      "duration_ms": 211447,
+      "name": "Stateless feat. YonYon",
+      "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
     }
   ],
   "unique_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",

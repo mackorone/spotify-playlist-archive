@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de AQUA VS.",
+  "description": "La casa del trap chileno al mando de ITHAN NY.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 280135,
       "name": "Fifty Fifty",
       "url": "https://open.spotify.com/track/5B84PuLYzNjHvfy5EpgsfW"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 247015,
       "name": "Fondo de Bikini",
       "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
@@ -3165,6 +3165,28 @@
     },
     {
       "album": {
+        "name": "MAFIA",
+        "url": "https://open.spotify.com/album/0lCQaVXZtBrLRzcVXcVFkq"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "MAFIA",
+      "url": "https://open.spotify.com/track/5ZB98EqhewrRokr2mN5BmJ"
+    },
+    {
+      "album": {
         "name": "Mafia Chilena: NEWYORK GABANA",
         "url": "https://open.spotify.com/album/3koKjQhDGFhnic9KXMsmn0"
       },
@@ -3650,7 +3672,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 232320,
       "name": "Mi Trap",
       "url": "https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x"
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 222093,
       "name": "Misiones (Remix) (feat. Duki)",
       "url": "https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0"
@@ -3944,10 +3966,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 252212,
       "name": "My Blood Remix (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
+    },
+    {
+      "album": {
+        "name": "M\u00eda Bebe",
+        "url": "https://open.spotify.com/album/332kDr954naSpxByBjHUKO"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168846,
+      "name": "M\u00cdA BB",
+      "url": "https://open.spotify.com/track/3IEGlUhFgcLDnn1SBsWLbu"
     },
     {
       "album": {
@@ -4435,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "PEACEMAKER",
+        "url": "https://open.spotify.com/album/2SKJl2r3PcfXr343iUYaeq"
+      },
+      "artists": [
+        {
+          "name": "Makoli",
+          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111991,
+      "name": "PEACEMAKER",
+      "url": "https://open.spotify.com/track/5qIUWzY7J22UO2ara3Q2rK"
+    },
+    {
+      "album": {
         "name": "Peleamo/xingamo",
         "url": "https://open.spotify.com/album/62a14TYUk9tNASfAV6XUnQ"
       },
@@ -4490,7 +4548,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 239412,
       "name": "Perco Con Mari",
       "url": "https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i"
@@ -5760,7 +5818,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 176031,
       "name": "To' Tu Size",
       "url": "https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ"
@@ -6351,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "vip",
+        "url": "https://open.spotify.com/album/0KlXt29e64ZtHtSfL2uQKT"
+      },
+      "artists": [
+        {
+          "name": "soffyy",
+          "url": "https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "vip",
+      "url": "https://open.spotify.com/track/22jvPPoGnLfFkMQ10c7BcG"
+    },
+    {
+      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/6kMcHwptVqA1bJdj8plMZn"
       },
@@ -6428,7 +6504,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 183050,
       "name": "Vivo Como Quiero",
       "url": "https://open.spotify.com/track/4Zop3VgmXAkUXqzNZqqOzn"

@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-108 songs - 5 hr 48 min
+109 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
 | [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-23 |  |
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
+| [hedgehog](https://open.spotify.com/track/2SxA30by4pd5qe3l51w1C2) | [Gem i](https://open.spotify.com/artist/0y5WRR0mZAba6oEEquKe6p) | [HEDGEHOG](https://open.spotify.com/album/6ufwHevkTE4KoHoPttcsVq) | 3:02 | 2025-07-31 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
 | [Homebody](https://open.spotify.com/track/6N2d5ik13stTUx3aMLuKUH) | [6Allmy Sunshine](https://open.spotify.com/artist/554mb4DkPmrRGhpVz7o0Rr) | [Homebody](https://open.spotify.com/album/0hgcL8aqYqpe2EpWO5YwyF) | 3:44 | 2025-07-02 |  |
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |

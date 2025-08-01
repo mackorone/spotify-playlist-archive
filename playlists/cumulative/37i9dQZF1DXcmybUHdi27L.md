@@ -4,7 +4,7 @@
 
 > This summer? We outside 🥂
 
-247 songs - 13 hr 28 min
+248 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 | 2025-04-07 |  |
 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 | 2025-04-07 |  |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2023-05-15 | 2024-04-03 |
-| [Sombrero](https://open.spotify.com/track/01dsepEeU7FMaograsxHzs) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:36 | 2025-06-12 |  |
+| [Sombrero](https://open.spotify.com/track/01dsepEeU7FMaograsxHzs) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:36 | 2025-06-12 | 2025-08-01 |
 | [Somewhere Wonderful](https://open.spotify.com/track/3xQhWWFce9rJcEWvALEUDP) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9) | [Kingman](https://open.spotify.com/album/3OPDO0rb57drLa7W96bmE7) | 3:13 | 2025-05-16 | 2025-06-13 |
 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 | 2024-05-03 | 2025-04-08 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2023-05-15 | 2024-05-04 |
@@ -223,6 +223,7 @@
 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 | 2023-05-15 | 2024-04-03 |
 | [Time Today](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:16 | 2023-05-15 | 2024-04-19 |
 | [Titanium](https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 2:07 | 2023-05-15 | 2024-04-26 |
+| [Too Many Gyal](https://open.spotify.com/track/3r0rGo4TblXrpK804La3xP) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Too Many Gyal](https://open.spotify.com/album/3cr5sebIdeiREEiWAoaKhg) | 2:24 | 2025-07-31 |  |
 | [Too Many Man \- Heartless Crew Mix](https://open.spotify.com/track/43b7DSKlru215aldFo7lGN) | [Boy Better Know](https://open.spotify.com/artist/180XcSBai6RDpuElMcKk2v), [Heartless Crew](https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV) | [Too Many Man \(Remixes\)](https://open.spotify.com/album/2RoeIZjBGD55D25DtcfCru) | 3:21 | 2024-05-03 | 2025-04-08 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2024-04-02 | 2024-05-04 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-05-15 | 2023-06-08 |

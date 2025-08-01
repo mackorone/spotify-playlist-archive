@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 195254,
       "name": "8 \u0e02\u0e49\u0e2d",
       "url": "https://open.spotify.com/track/5KvMZsN0unhI1Qe9wHIlCB"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 161160,
       "name": "ONE STAR",
       "url": "https://open.spotify.com/track/2H6HrrZzc2jtjS2Td4RHIf"
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 180000,
       "name": "RIDE WITH ME",
       "url": "https://open.spotify.com/track/798yb35ZKyUan4x4eihHr8"
@@ -5247,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e04\u0e49\u0e32\u0e1a",
+        "url": "https://open.spotify.com/album/3uKpT2NY42XvergFV1OsD3"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193417,
+      "name": "Satin",
+      "url": "https://open.spotify.com/track/0Eqm1msB6wpMo9PgMOsAIx"
+    },
+    {
+      "album": {
         "name": "Saturn (feat. SIMON)",
         "url": "https://open.spotify.com/album/5a2Vnl3BORnCv06Be5GTHd"
       },
@@ -5394,6 +5412,28 @@
       "duration_ms": 197932,
       "name": "Shall We",
       "url": "https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB"
+    },
+    {
+      "album": {
+        "name": "LAST SUPPER - SIDE B",
+        "url": "https://open.spotify.com/album/7Cwg28QVPHraLvr0Z4mn3h"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157033,
+      "name": "SHE IS TOTALLY OUT OF MY LEAGUE (feat. Z9)",
+      "url": "https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM"
     },
     {
       "album": {
@@ -6470,6 +6510,24 @@
       "duration_ms": 182250,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/3r50J5xgHfBsOztFfG9C9k"
+    },
+    {
+      "album": {
+        "name": "WHO I AM",
+        "url": "https://open.spotify.com/album/4DFgZsOROrcNvpbm2Ymliy"
+      },
+      "artists": [
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "WHO I AM",
+      "url": "https://open.spotify.com/track/1q1FN8EUNzhaEx5CSPkZzn"
     },
     {
       "album": {
@@ -7750,7 +7808,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 197647,
       "name": "\u0e04\u0e33\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/66hMeagJVQVjvf295ggudK"
@@ -7768,7 +7826,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 181111,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e31\u0e07",
       "url": "https://open.spotify.com/track/4p80SmD1IRClEHo3RtK2Yk"
@@ -9632,6 +9690,32 @@
       "duration_ms": 225000,
       "name": "\u0e1d\u0e31\u0e19\u0e23\u0e49\u0e32\u0e22\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
       "url": "https://open.spotify.com/track/4ziJihqFJIstKkS39OrOSh"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+        "url": "https://open.spotify.com/album/47Ym1CxnLXUN40au3otFsv"
+      },
+      "artists": [
+        {
+          "name": "GMM SAUCE",
+          "url": "https://open.spotify.com/artist/34YSv6clI2QEv4BTT9s1Z8"
+        },
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
+      "url": "https://open.spotify.com/track/4psph4gNDqUnGvBSq6UwwE"
     },
     {
       "album": {
@@ -12888,7 +12972,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 171093,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/4xOFLtbauANPP5wXKwzApD"
@@ -13213,6 +13297,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d\u0e23\u0e34\u0e21\u0e17\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/2Mw2KGfwToMAzcs30HwofJ"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192305,
+      "name": "\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d\u0e23\u0e34\u0e21\u0e17\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/37stxIhwiGSImtao0VmHWJ"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
         "url": "https://open.spotify.com/album/46MZtx23GrBcu6tatFcsaN"
       },
@@ -13328,6 +13430,24 @@
       "duration_ms": 198000,
       "name": "\u0e41\u0e02\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e40\u0e0a\u0e34\u0e0d",
       "url": "https://open.spotify.com/track/43zAOwpvxOLah65nZfybxZ"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e1b\u0e2b\u0e21\u0e39",
+        "url": "https://open.spotify.com/album/3Q8a0TOwiAcpY13PFl8t2m"
+      },
+      "artists": [
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "\u0e41\u0e04\u0e1b\u0e2b\u0e21\u0e39",
+      "url": "https://open.spotify.com/track/5vPkVHgDPJY11j62plGUoD"
     },
     {
       "album": {

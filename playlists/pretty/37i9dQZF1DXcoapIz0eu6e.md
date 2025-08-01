@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 
 > The world is a stage\. Listen to the music from Joker and Joker: Folie à Deux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,527 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,530 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 | 61 | [Spanish Flea](https://open.spotify.com/track/0yCBa43NQmzcKXCOjJewMx) | [Ray Davies and His Button Down Brass](https://open.spotify.com/artist/4Hw9daXRWbbhZMs65xuyV7) | [Whipped Cream: The Funky Trumpet of Ray Davies & His Button Down Brass](https://open.spotify.com/album/43HWAPvaISrPVhBOt6BzFB) | 2:02 |
 | 62 | [White Room](https://open.spotify.com/track/7g6j2SGvsvcUi6OLD9Qe1o) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/15yy77Dkncl1KA91ZDSkYp) | 4:58 |
 | 63 | [Laughing](https://open.spotify.com/track/5aJ0GLNlCwl3VUtIPHMLLX) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The Best Of The Guess Who](https://open.spotify.com/album/3pMKq24IfepNoAm9nMxwxQ) | 2:41 |
-| 64 | [Modern Times \(E\. Powell and D\. Raksin for orchestra\): The Night Watchmen \- Skating \- Intruders](https://open.spotify.com/track/4HNYVOS0R6esVJFmUKNmDg) | [David Raksin](https://open.spotify.com/artist/1dR9JRsUlvNqySZqpfb5oe), [Charlie Chaplin](https://open.spotify.com/artist/6AmG7SNdlV9boPZ7dFVnLY), [Edward Powell](https://open.spotify.com/artist/2SFk0jNESJzSp5pFctXva1), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Timothy Brock](https://open.spotify.com/artist/6EYiaA2B2wYtAXhlmdW9mw) | [Modern Times \(Score Restoration by Timothy Brock\)](https://open.spotify.com/album/4V0atTZf6pQipbXBISXrxo) | 7:55 |
+| 64 | [The Night Watchmen / Skating / Intruders \(Orch\. E\. Powell & D\. Raksin\)](https://open.spotify.com/track/4HNYVOS0R6esVJFmUKNmDg) | [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Timothy Brock](https://open.spotify.com/artist/6EYiaA2B2wYtAXhlmdW9mw) | [Modern Times \(Score Restoration by Timothy Brock\)](https://open.spotify.com/album/4V0atTZf6pQipbXBISXrxo) | 7:55 |
 | 65 | [Hoyt's Office](https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:24 |
 | 66 | [Defeated Clown](https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:39 |
 | 67 | [Following Sophie](https://open.spotify.com/track/3iX22wD2o9YQLvkXOPUHgx) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:33 |

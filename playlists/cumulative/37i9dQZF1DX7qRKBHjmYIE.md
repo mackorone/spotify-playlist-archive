@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con LATIN MAFIA & Omar Apollo.
 
-901 songs - 2 day 0 hr 35 min
+902 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/album/4SzytRlNQR4JBqTth6MD9j) | 2:57 | 2024-08-30 | 2024-09-24 |
 | [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 | 2024-10-25 | 2025-02-02 |
 | [Creature \(Perfect\)](https://open.spotify.com/track/2emF1fcXtygEDeOgHvUArs) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:31 | 2022-05-25 | 2023-02-17 |
+| [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 | 2025-07-25 |  |
 | [cruz](https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [cruz](https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U) | 4:04 | 2025-02-28 | 2025-05-31 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2022-02-11 | 2022-06-03 |
 | [Cuando la cosa no me va buena](https://open.spotify.com/track/57vf6m5VOQDsQkNzVPaot5) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:24 | 2023-05-05 | 2023-05-20 |
@@ -482,7 +483,7 @@
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-23 |  |
 | [Mama Guela](https://open.spotify.com/track/7KuMbaHElNFVt7Lw4aHFOZ) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/3IVWzxhlPX3gqR1B4734en) | 2:36 | 2023-09-29 | 2023-10-14 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/35rRaw5fX2QGUqhmpAmfor) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/album/02U7QUnz3HGzH2NRSsfUUt) | 2:17 | 2024-06-07 | 2024-08-17 |
-| [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-08-16 |  |
+| [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-08-16 | 2025-08-01 |
 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 | 2024-04-12 | 2024-07-27 |
 | [MANY NIGHTS](https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [MANY NIGHTS](https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV) | 2:39 | 2024-04-12 | 2024-06-01 |
 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 | 2023-03-08 | 2023-04-17 |

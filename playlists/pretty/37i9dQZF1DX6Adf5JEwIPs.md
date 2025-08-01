@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Reynaldos de la Sierra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,349 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,360 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 64 | [ENQLADO](https://open.spotify.com/track/49Ba4Xut516R9L6Fw1YjB0) | [Miguel Martinez](https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl) | [ENQLADO](https://open.spotify.com/album/475tzxodw2WBSIzj6nLdpB) | 2:20 |
 | 65 | [Solterito](https://open.spotify.com/track/2xQbtIT030xx1dKADCkkqs) | [Axel Ojeda](https://open.spotify.com/artist/5wzvImQPy7ZwU9MGRHz9Rf) | [Solterito](https://open.spotify.com/album/1o4NLlqlzyFcirDa7gPkVD) | 2:20 |
 
-Snapshot ID: `AAAAAG7WRFxS92kLW6IkFgbq8pJY09Pa`
+Snapshot ID: `aIMYQAAAAADzeIb92QftleZ+ue/kvzsn`

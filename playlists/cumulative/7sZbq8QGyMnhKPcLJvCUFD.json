@@ -4077,6 +4077,32 @@
     },
     {
       "album": {
+        "name": "echoes",
+        "url": "https://open.spotify.com/album/0MLFgtfHN6QmNGZGPx8Owp"
+      },
+      "artists": [
+        {
+          "name": "criticaleye",
+          "url": "https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr"
+        },
+        {
+          "name": "SHIRO",
+          "url": "https://open.spotify.com/artist/44y7O50xAJlIfvCL66L4nb"
+        },
+        {
+          "name": "dolshi",
+          "url": "https://open.spotify.com/artist/0cUZenB8aVwqMmzxb4WgCj"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198572,
+      "name": "echoes",
+      "url": "https://open.spotify.com/track/0g8D4TwKmyZF6w0Y8sSG2j"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z"
       },

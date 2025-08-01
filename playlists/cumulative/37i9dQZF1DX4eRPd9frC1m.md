@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-433 songs - 23 hr 22 min
+434 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Harsh](https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Harsh](https://open.spotify.com/album/6uuJWGvPodKtM29QgZBoNu) | 3:56 | 2022-02-04 | 2022-07-29 |
 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 | 2024-07-12 | 2025-01-19 |
 | [Head Banger](https://open.spotify.com/track/6QxZiw8PpWCH1w5Hg3233x) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Head Banger](https://open.spotify.com/album/4nzDinBKYwN8dWjlq4P9uj) | 2:48 | 2025-05-16 | 2025-07-19 |
+| [Head Rock](https://open.spotify.com/track/2qs6tpFeTo3BFmc86Y0Y6Q) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Head Rock](https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC) | 3:33 | 2025-07-25 |  |
 | [Heads Or Tails](https://open.spotify.com/track/2o5GJ6ODpzswofGKNI2ZYv) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Heads or Tails](https://open.spotify.com/album/2Vwyw648RQRBunjOXcG6oW) | 3:47 | 2021-11-19 | 2022-01-08 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-05-26 | 2024-12-21 |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2021-11-19 | 2022-08-27 |
@@ -438,7 +439,7 @@
 | [Work It Out](https://open.spotify.com/track/5qKVcFWolHOWPupR077TbN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Work It Out](https://open.spotify.com/album/7sRKw8p1KMkgshzawKTzVb) | 3:57 | 2021-11-19 | 2022-01-08 |
 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 | 2021-11-19 | 2024-05-26 |
 | [Wut](https://open.spotify.com/track/4hwwtwovfaxKZNXP0BAhvY) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Wut](https://open.spotify.com/album/1oE6EFbJyDVxCRwKVfaIBl) | 2:36 | 2021-11-19 | 2022-01-08 |
-| [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-20 |  |
+| [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-20 | 2025-08-01 |
 | [Your Fault](https://open.spotify.com/track/2HRNRdM9n5CvcMYkvqPpI8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Your Fault](https://open.spotify.com/album/02i9hRnqpmp5N1KfGWRFQP) | 5:14 | 2021-11-19 | 2022-01-08 |
 | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c) | 4:44 | 2023-12-15 |  |
 

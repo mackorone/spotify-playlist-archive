@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,922 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,143 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 89 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 90 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
 | 91 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
-| 92 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
-| 93 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
+| 92 | [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 |
+| 93 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
 | 94 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
-| 95 | [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 |
-| 96 | [Bololo](https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Bololo](https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV) | 2:57 |
-| 97 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
+| 95 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
+| 96 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
+| 97 | [Bololo](https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Bololo](https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV) | 2:57 |
 | 98 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
 | 99 | [Secreto de Amor \- La Noche](https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Secreto de Amor \(La Noche\)](https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY) | 4:31 |
-| 100 | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH) | 2:38 |
+| 100 | [Quema Quema](https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Quema Quema](https://open.spotify.com/album/7G5sNykeQyN6A5AViRTEDL) | 2:53 |
 
 Snapshot ID: `aIMBdQAAAABPec4eDSVQO8mse0adqW+O`

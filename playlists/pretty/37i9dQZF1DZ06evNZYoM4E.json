@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107022,
+  "num_followers": 107032,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAD7A9ylvrLfu4iYf/AQgEvz",
+  "snapshot_id": "aIlggAAAAADZ0DtSwx+lT+2nFVtOTulm",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Been Loving You Too Long",
         "url": "https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 181849,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     },
     {
       "added_at": null,

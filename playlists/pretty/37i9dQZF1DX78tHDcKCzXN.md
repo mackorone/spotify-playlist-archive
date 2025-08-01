@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > To the world, this is NCT! This is NCT 127!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,008 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,016 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 104 | [Switch \- Bonus Track](https://open.spotify.com/track/2xL2yWZsd3cvEk4heGkctC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [SR15B](https://open.spotify.com/artist/1zhkYR8PTdyZhOlJGmPv5e) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:04 |
 | 105 | [FOOL](https://open.spotify.com/track/085EZsV0o3LO2nhK1htRKy) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 2:41 |
 
-Snapshot ID: `aCNCfAAAAABYcDHa0k3Yyvn20Tr6mpdl`
+Snapshot ID: `AAAAAFHV/aHJ3XWQZ+juUZ4hJl130g37`

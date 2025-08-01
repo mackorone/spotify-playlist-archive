@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,127 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,069 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [<3CDMX](https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [<3CDMX](https://open.spotify.com/album/4GA4fEf2DfMVAoJ60eE151) | 3:04 |
 | 50 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
 
-Snapshot ID: `aIMBeAAAAABh4d5SLP8UB2qsynIJ2fYm`
+Snapshot ID: `AAAAAPi4Sk34VhpzZBGpNJACaeGo+boa`

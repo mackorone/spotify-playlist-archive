@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmZJhCzQOPD.md) - [plain]
 
 > Funky and lush\. This is Philly Soul which laid the groundwork for disco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,505 likes - 51 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,596 likes - 51 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

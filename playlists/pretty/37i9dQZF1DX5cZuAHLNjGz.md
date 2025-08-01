@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,996 likes - 101 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,348 likes - 101 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Chit Ni Lagda](https://open.spotify.com/track/3hezpjo4jzOc9PjuIxpDRX) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Nostalgia](https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm) | 4:06 |
 | 101 | [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 |
 
-Snapshot ID: `aINxGAAAAADRUA8gZ+9P0+2dFmQZ3yHr`
+Snapshot ID: `AAAAAH9oAJ8obSF9W/5a2Ze16G6ugSlI`

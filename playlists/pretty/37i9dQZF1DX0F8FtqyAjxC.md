@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,139 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,145 likes - 69 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 11 | [Stop Fantasy](https://open.spotify.com/track/2XV72ZpIs4BNeS01fvv3IG) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Stop Fantasy](https://open.spotify.com/album/0axq81rYvDadJCtOgcjbix) | 4:02 |
 | 12 | [I Don't Want You Back \- Radio Mix](https://open.spotify.com/track/1kGWup2OZMbwMqDF67Koex) | [Ramona Brooks](https://open.spotify.com/artist/5Cahebgy60NokCUF6zwFEY) | [I Don't Want You Back \(Radio Mix\)](https://open.spotify.com/album/0RYjsZMEHNITPKUtWOzikL) | 4:48 |
 | 13 | [I Got a Big Bee](https://open.spotify.com/track/3mX1ZBW9TXkfuVPhiGsxRM) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 7:48 |
-| 14 | [drive ME crazy!](https://open.spotify.com/track/3NhMjhxVby5rlXvjBhCbrU) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 3:49 |
+| 14 | [drive ME crazy!](https://open.spotify.com/track/3NhMjhxVby5rlXvjBhCbrU) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 3:49 |
 | 15 | [If There is No Question \(Soul Clap's Wild, but not Crazy Mix\)](https://open.spotify.com/track/3shj8YULEPp6yV3yQlaywQ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 7:18 |
 | 16 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 17 | [Just Can't Get Enough \- Choo Choo's Main Vocal Mix](https://open.spotify.com/track/0Qf8nrEBqysJ34iBO0H0Z2) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Just Can't Get Enough](https://open.spotify.com/album/1WkPeDtN4FPZcz31I6ClBP) | 10:37 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 68 | [Say You Wanna](https://open.spotify.com/track/3EAPDEgbg6d0DTttRo8kdI) | [Howard Johnson](https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt) | [Keepin' Love New](https://open.spotify.com/album/3IMEhRbxKkn0sMfCJlyrdN) | 4:36 |
 | 69 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/3DIe90xqHuUDtyuapTwCAR) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [S.O.S.](https://open.spotify.com/album/7DhDuhhalViRMA628XKnQS) | 7:40 |
 
-Snapshot ID: `AAAAAM8UnXXSoHYOmDUIv/Oy99LUSRGK`
+Snapshot ID: `aINe+wAAAACc4y6HcqPhBSfHm09KgyNh`

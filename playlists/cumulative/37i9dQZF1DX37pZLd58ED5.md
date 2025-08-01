@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-242 songs - 12 hr 46 min
+243 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 | 2023-06-15 | 2023-07-14 |
 | [Fragile](https://open.spotify.com/track/3WsO4fOOc2Yr6oTP7CYa4j) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 2:26 | 2023-11-17 |  |
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-13 | 2023-05-26 |
-| [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2025-04-24 |  |
+| [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2025-04-24 | 2025-08-01 |
 | [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 | 2022-09-30 |
 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 | 2023-04-06 | 2024-07-05 |
 | [High](https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [High](https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY) | 2:49 | 2024-07-04 | 2024-08-23 |
@@ -185,6 +185,7 @@
 | [OPERE D'ARTE](https://open.spotify.com/track/7cTaoABhLlX9897oA8iDM1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [OPERE D'ARTE](https://open.spotify.com/album/5FLiWV44eBDiBF6V9VAJKm) | 2:22 | 2025-06-19 | 2025-07-04 |
 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 | 2025-06-26 |  |
 | [orfani\. \(con Izi\)](https://open.spotify.com/track/6Ju42BlJ12IxdmexBwIFek) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 3:13 | 2025-05-22 | 2025-06-20 |
+| [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 | 2025-07-31 |  |
 | [Outro \(Non Piango Più\)](https://open.spotify.com/track/05FqJW1j1cIb04S7iDDTBn) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:19 | 2024-03-29 | 2024-04-09 |
 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 | 2025-01-13 | 2025-03-28 |
 | [PARANOIA](https://open.spotify.com/track/4reJhriuxVQ3bl1YmstMen) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:46 | 2025-04-10 |  |

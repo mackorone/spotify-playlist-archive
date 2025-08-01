@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: for King & Country, KB, and Steven Malcolm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,558 likes - 368 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,576 likes - 368 songs - 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -377,4 +377,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 367 | [I'll Be Ok](https://open.spotify.com/track/1lD9t61KMIQXCtg5mfokZO) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [I'll Be Ok](https://open.spotify.com/album/6Rp65x5xdaJXMAlHHf9frx) | 2:25 |
 | 368 | [Amen](https://open.spotify.com/track/0wMYjUmXR2psuSRvPjvMfe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Amen](https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY) | 3:08 |
 
-Snapshot ID: `aHnG3QAAAAAFnFIXSoPR0vGzFNi7M7sT`
+Snapshot ID: `AAAAAK+ldwz6FbHQzaSDcKsMX8aLUAu7`

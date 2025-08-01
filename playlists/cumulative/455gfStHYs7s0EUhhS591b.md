@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-203 songs - 12 hr 6 min
+204 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/0c3KFOak4y9EmKfyEyL88X) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/6L6QXfF9GkmcmohMXNPyCb) | 2:49 | 2025-07-18 |  |
 | [Redlight](https://open.spotify.com/track/2D15yebXDnUhavk5tBcRGs) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Metamorphoze](https://open.spotify.com/album/7cGmjoJiTfhkrZbdEX9j7s) | 3:19 | 2025-06-19 |  |
 | [Reliquia \- German Brigante Radio Edit](https://open.spotify.com/track/17qNEAUYgyRsfiQ1Loy2Ku) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Paji](https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ) | [Entourage \(Remixed\)](https://open.spotify.com/album/1VQ6JoAWmjo2EZqcm5i0vz) | 3:29 | 2025-06-19 |  |
+| [Resource \- ReChill](https://open.spotify.com/track/4s5HHU7R2gIwDAXSb50LFY) | [Re:Locate](https://open.spotify.com/artist/6xCpROdQDyjULgekyUtW3u), [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Armada Lounge, Vol\. 5 \(The Best Downtempo Songs For Your Listening Pleasure\)](https://open.spotify.com/album/1ageCsoBRZ9zOYgtdmN2SX) | 3:41 | 2025-08-01 |  |
 | [Rhea \- Chillout Mix](https://open.spotify.com/track/5OlKORlfA8OT4gbxeXpfxt) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Neptune Project](https://open.spotify.com/artist/3G0VlbwfjmeZO33pyp09IY) | [Unfold](https://open.spotify.com/album/6wsKImQnKlNQEKoK6nbJGf) | 2:31 | 2025-06-19 |  |
 | [Ritual](https://open.spotify.com/track/0KXMlfLPxY8bWv93FhBYve) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:08 | 2025-06-19 |  |
 | [Rosaires \- Chill Out Mix](https://open.spotify.com/track/5cRRdBYpzTx5BsIioqi62c) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h) | [The Chill Out](https://open.spotify.com/album/7iuN6L1BhulqayAqKmDT22) | 3:54 | 2025-07-18 |  |

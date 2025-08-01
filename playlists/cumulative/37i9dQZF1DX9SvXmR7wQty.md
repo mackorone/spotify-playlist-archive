@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Blynk
 
-3,428 songs - 7 day 13 hr 11 min
+3,429 songs - 7 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Asile](https://open.spotify.com/track/2NyPOysuU4rxvCwEml54S5) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Asile](https://open.spotify.com/album/3JzfNJQ3aDaAW8bDVRCe1A) | 3:07 | 2022-09-16 | 2022-10-01 |
 | [Assez](https://open.spotify.com/track/5hrH684BbTPqroB72VNj6K) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3), [thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Assez](https://open.spotify.com/album/7szuOdDjQ15GtquBV2p7nO) | 3:08 | 2025-07-11 | 2025-07-19 |
 | [Assez apparemment](https://open.spotify.com/track/6JTRk6GYn7gRbT9Y2685bM) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Assez apparemment](https://open.spotify.com/album/3Kls15tj6Ltq13J4VgZtDc) | 3:29 | 2022-11-11 | 2022-11-26 |
-| [Assimile](https://open.spotify.com/track/7702drWPEIEBFoFbEenCLx) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Assimile](https://open.spotify.com/album/3Acy5qBjhvSz5AvZorkPwM) | 3:23 | 2025-06-20 |  |
+| [Assimile](https://open.spotify.com/track/7702drWPEIEBFoFbEenCLx) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Assimile](https://open.spotify.com/album/3Acy5qBjhvSz5AvZorkPwM) | 3:23 | 2025-06-20 | 2025-08-01 |
 | [Astral 2000](https://open.spotify.com/track/26LSlSxdrPdcojpYKs1wR8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/7raqxVD0vtAh0AfT1NxewF) | 3:07 | 2024-09-20 | 2024-09-28 |
 | [Astronef](https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 2:41 | 2022-04-01 | 2022-04-16 |
 | [Atari](https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Atari](https://open.spotify.com/album/6qUMwUVNpa89Xyi2YskqN7) | 2:26 | 2024-09-20 | 2024-09-28 |
@@ -2962,6 +2962,7 @@
 | [Suspens](https://open.spotify.com/track/2AjwRb6sbTZLgsqbdPebd5) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Suspens](https://open.spotify.com/album/46B7Uw97E93BgaBrEtGOiF) | 2:17 | 2022-04-15 | 2022-04-29 |
 | [Suzo](https://open.spotify.com/track/2glj45hn2LLax92N1ZazCm) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Suzo](https://open.spotify.com/album/1yF28aeYaYrPwNWrOKwDIp) | 4:08 | 2025-02-07 | 2025-02-15 |
 | [SVP ne pas toucher](https://open.spotify.com/track/7gj9Ra0vqKOKXnQPwueomW) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [SVP ne pas toucher](https://open.spotify.com/album/1CQyIelMHO9Q9iKz65IIJj) | 3:27 | 2025-05-15 | 2025-05-24 |
+| [Swipe](https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Swipe](https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1) | 2:34 | 2025-07-25 |  |
 | [Switch](https://open.spotify.com/track/7GUejjd4dDfIZxu5Ai13kl) | [Black Taboo](https://open.spotify.com/artist/7l3tJokhtkXbhiV0af1Q0t) | [Switch](https://open.spotify.com/album/1gNkVddKxLceErP9uTLJPp) | 2:27 | 2022-08-26 | 2022-09-03 |
 | [Switch Up](https://open.spotify.com/track/0I6VYa1ciWvg2HFJqJoXMm) | [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Switch Up](https://open.spotify.com/album/5z2vhjGLROaL8HWRmfmjRP) | 3:02 | 2024-08-30 | 2024-09-07 |
 | [Sécu](https://open.spotify.com/track/4gKK7isWbSb9c0C7i5jsKv) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Glish](https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln) | 3:18 | 2022-10-28 | 2022-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 
 > Music from the world of Sinners, now in theaters\. Curated by Ryan Coogler and Ludwig Göransson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,690 likes - 71 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,904 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 70 | [I've Seen Enough of This Place](https://open.spotify.com/track/1SM05AwO0Meh0xicU6LDds) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 1:35 |
 | 71 | [Free For A Day \(feat\. Miles Caton\)](https://open.spotify.com/track/4yb0s7A7GKpIXrw404GWin) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:55 |
 
-Snapshot ID: `aExz5AAAAACBSH0ia1AZfexlYkvKiMZS`
+Snapshot ID: `AAAAADYz/t4a1t+/uW3ctDcl5AjU3v7E`

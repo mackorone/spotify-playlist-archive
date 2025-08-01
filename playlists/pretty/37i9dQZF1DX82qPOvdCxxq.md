@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: LIN D \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,792 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,824 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 98 | [Praise Anyway](https://open.spotify.com/track/1ntzrtmpNf4HdwdUkXUw6D) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0), [Jonathan Stamper](https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA) | [Praise Anyway](https://open.spotify.com/album/6sHwTOrSXuoYYHd4NFVeWD) | 4:58 |
 | 99 | [Thank God for You](https://open.spotify.com/track/0h64NthkyK9bTEGeNIMUP0) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS), [Sons of David](https://open.spotify.com/artist/0G6USkLTqbeFmfA199Psbh) | [Thank God for You](https://open.spotify.com/album/77Pl3q3WqTRs7zAUTFQQiH) | 3:47 |
 
-Snapshot ID: `aImY2gAAAACPJg7yco61DWLyf6o9pOQl`
+Snapshot ID: `AAAAAMbSY7ckdsydD1mAfqMFjp2VLMG8`

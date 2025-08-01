@@ -2,9 +2,9 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa emma & matilda.
 
-869 songs - 2 day 4 hr 20 min
+870 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [Your Home](https://open.spotify.com/track/1zhAUIQiyRNetn2VplgrCK) | [BENN](https://open.spotify.com/artist/39ChlVzK2W25FHJ6x8wZIv) | [Your Home](https://open.spotify.com/album/2Zv66c4EpgsbPC8LwyMauT) | 3:33 | 2025-02-27 | 2025-03-28 |
 | [Ystävyys, lempi ja rakkaus \(Friendship, Love and Passion\)](https://open.spotify.com/track/2iq63Y4rT6VH94mPhrbiXY) | [Enkel](https://open.spotify.com/artist/2rEjfqgJONyIRuJfDu8Lmj) | [Ystävyys, lempi ja rakkaus \(Friendship, Love and Passion\)](https://open.spotify.com/album/0un0vqp9xFkhC3CVKuecm9) | 3:23 | 2025-06-12 |  |
 | [Zverynasin talo](https://open.spotify.com/track/237HQpakANNf7J3DuEJrM9) | [Essi Leppänen systeemi](https://open.spotify.com/artist/7I0TKDeLxXhDLxdiIsaiOI) | [Zverynasin talo](https://open.spotify.com/album/3st6Yh536V4CrADctQYhym) | 3:57 | 2024-09-19 | 2024-10-18 |
+| [Äiti](https://open.spotify.com/track/1Rlo6dI4vCzTrUof9Uwubi) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Äiti](https://open.spotify.com/album/79xAh76HFEpaZLXMkql5rc) | 2:39 | 2025-07-31 |  |
 | [Älä lähde](https://open.spotify.com/track/35RpuBTc5VbOEgU8Q5fGz0) | [Demonisisarukset](https://open.spotify.com/artist/6yZvwqhXDWBuuwKcggX8vK), [Piehingin PRKL](https://open.spotify.com/artist/6V2Zc2keqVg4AsrL0AJbL1) | [Älä lähde](https://open.spotify.com/album/5Oo86AeS0R59hFuaTabiUh) | 3:50 | 2025-06-19 | 2025-06-27 |
 | [Älä mee](https://open.spotify.com/track/0sUAHX8x5rX8lEHOMMn6xo) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [Älä mee](https://open.spotify.com/album/0E1rPmkj8jfpBXHoeDTAuy) | 3:21 | 2024-11-28 | 2025-02-07 |
 | [Älä mee discoon](https://open.spotify.com/track/0yAwO1KvaNlLzs70ngu0xH) | [Ajanjakaja](https://open.spotify.com/artist/4n7qrc9Kc1cgtYJsGR8nuU) | [Älä mee discoon](https://open.spotify.com/album/0rhiF0u4LBMbPbem84hDkN) | 3:14 | 2025-01-23 | 2025-02-28 |

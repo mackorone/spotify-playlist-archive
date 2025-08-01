@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Georgia Harmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,560 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,552 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Apple Core](https://open.spotify.com/track/6HwIFbN3NHHq4uU9wCRKnp) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Apple Core](https://open.spotify.com/album/5kWl6GBEG82T4bZtlPxTJZ) | 2:44 |
 | 100 | [Unlike Anything](https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:46 |
 
-Snapshot ID: `aIeGAwAAAAD1zsAYYOG2z7Ld12sLkEqu`
+Snapshot ID: `AAAAAH0++tppreo2ydVCyD3BXEWIkvG8`

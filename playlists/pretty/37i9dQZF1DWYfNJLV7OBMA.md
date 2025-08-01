@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,335 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,343 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 61 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 |
 | 62 | [Riduman](https://open.spotify.com/track/5klU2ylrthOE30rFBhsrrx) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Riduman](https://open.spotify.com/album/7CaBdkfUnR9uPgWkF0GhBd) | 3:30 |
 
-Snapshot ID: `Zj36HwAAAAC9F7Bn632OE6cc3xnyaRMu`
+Snapshot ID: `AAAAABKDuPQuT4DjpsTWpTsheobSj8fs`

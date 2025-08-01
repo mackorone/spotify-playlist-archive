@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,456 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,454 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 46 | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE) | 2:44 |
 | 47 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
 | 48 | [Paint The Town Blue \(Bloodpop Remix\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1je4F9zMDWbrYhvvzOaXsB) | [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Paint The Town Blue \(BloodPop Remix\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3pNj0EY1p6xNPOODxyDuQp) | 1:53 |
-| 49 | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu) | 2:41 |
-| 50 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
+| 49 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
+| 50 | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu) | 2:41 |
 
-Snapshot ID: `aIgPAAAAAADDgkIzn1w8nM9ptLyqZ2rV`
+Snapshot ID: `aIlggAAAAAARL8UGg8yLbPdFk5ZCZQKT`

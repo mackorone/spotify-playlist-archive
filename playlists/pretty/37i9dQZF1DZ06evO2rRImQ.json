@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 201191,
+  "num_followers": 201208,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABAPM4WnGUsKOcouOZjRC/j",
+  "snapshot_id": "aIlggAAAAADkeMmJ9yd8aEqwPZXaUWmW",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "Ni El Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+        "name": "Canto Para Ti",
+        "url": "https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 169958,
-      "name": "Ni El Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
+      "duration_ms": 150651,
+      "name": "Experto En Fracasos (Contando Penas)",
+      "url": "https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canto Para Ti",
-        "url": "https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK"
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 150651,
-      "name": "Experto En Fracasos (Contando Penas)",
-      "url": "https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv"
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+        "name": "Canto Para Ti",
+        "url": "https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+      "duration_ms": 222528,
+      "name": "Llorar, Llorar",
+      "url": "https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 174413,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Para Ti",
-        "url": "https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Llorar, Llorar",
-      "url": "https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Prometas",
-        "url": "https://open.spotify.com/album/6QRykp1loczkZa2ite7dlm"
+        "name": "Tu Abandono, Vol. 4",
+        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 146626,
-      "name": "No Me Prometas",
-      "url": "https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1"
+      "duration_ms": 185579,
+      "name": "Al Ver Que Te Vas",
+      "url": "https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Abandono, Vol. 4",
-        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
+        "name": "No Me Prometas",
+        "url": "https://open.spotify.com/album/6QRykp1loczkZa2ite7dlm"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 185579,
-      "name": "Al Ver Que Te Vas",
-      "url": "https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU"
+      "duration_ms": 146626,
+      "name": "No Me Prometas",
+      "url": "https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1"
     },
     {
       "added_at": null,

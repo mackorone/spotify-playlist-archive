@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Darkovibes
 
-789 songs - 1 day 16 hr 1 min
+790 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,11 +790,12 @@
 | [YENTE](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [YENTE](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 | 2025-01-17 |  |
 | [Yesu](https://open.spotify.com/track/20a7Vi2E3huh83U2FwT6hW) | [Alhaji Bull](https://open.spotify.com/artist/6kSEocure6XDB5TaHsCmHh), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Yesu](https://open.spotify.com/album/7FtVWBnm7FXUdYt3TL6RLG) | 3:52 | 2025-02-21 | 2025-03-01 |
 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 | 2024-08-09 |  |
+| [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-08-01 |  |
 | [Yipi Yoo](https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Yipi Yoo](https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2) | 2:36 | 2025-02-28 |  |
 | [Yonah](https://open.spotify.com/track/42cJ1ouSw3VBHmc4fAoN5P) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Young and Strong](https://open.spotify.com/album/4xgqK0qn1J4SjALftJX9Jb) | 3:05 | 2023-07-28 | 2023-09-29 |
 | [Yopoo](https://open.spotify.com/track/6CSieS8sgMugwPVBuWDZCW) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Yopoo](https://open.spotify.com/album/5ROl4zJAfAliilCB8UD8DO) | 3:25 | 2024-07-26 | 2024-09-20 |
 | [You I Dey Want](https://open.spotify.com/track/5Qxh7UMHuGBir9bmzSbz3e) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz) | [You I Dey Want](https://open.spotify.com/album/5SJLul2HCz9tPMmJUj51iY) | 2:32 | 2023-08-17 | 2023-09-10 |
-| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-23 |  |
+| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-23 | 2025-08-01 |
 | [Zombie](https://open.spotify.com/track/3L2kpYSJnXqqz9vKnpQ6Xw) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Zombie](https://open.spotify.com/album/0r8KRuOOKTuiDnjsZw0rYn) | 2:44 | 2022-06-24 | 2024-02-03 |
 | [Zongo](https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Sasco Gh](https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT) | [Zongo](https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV) | 3:10 | 2024-02-02 | 2024-03-08 |
 

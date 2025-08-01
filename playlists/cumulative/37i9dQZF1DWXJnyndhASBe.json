@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kizo, Kaz Ba\u0142agane, Young Igi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172666,
       "name": "Czarny kot",
       "url": "https://open.spotify.com/track/5yjmqRLJ5dlSnFDRKTkFlZ"
@@ -13718,7 +13718,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 153402,
       "name": "R\u00f3\u017cowe Diamenty",
       "url": "https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL"
@@ -14691,6 +14691,36 @@
     },
     {
       "album": {
+        "name": "SUV BOOMER",
+        "url": "https://open.spotify.com/album/0wXtPGY6dhQQQ8hOdGMUlS"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "SUV BOOMER",
+      "url": "https://open.spotify.com/track/5wV89EJha4eOcOdzp17I2Z"
+    },
+    {
+      "album": {
         "name": "szary blok",
         "url": "https://open.spotify.com/album/5KJUjKdVJwKPDpVfXIOm3u"
       },
@@ -15660,7 +15690,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 164923,
       "name": "Ups zn\u00f3w",
       "url": "https://open.spotify.com/track/4fS5wTH5jFdQxGuBcbaCeF"
@@ -16545,6 +16575,24 @@
     },
     {
       "album": {
+        "name": "WSZYSTKIE FAJNE",
+        "url": "https://open.spotify.com/album/0XZ7IJdU1d2SI8CIVgs02Q"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159207,
+      "name": "WSZYSTKIE FAJNE",
+      "url": "https://open.spotify.com/track/79msc4MejGngvS6UgvWtvR"
+    },
+    {
+      "album": {
         "name": "wszystkie noce s\u0105 samotne",
         "url": "https://open.spotify.com/album/41o2ggAHblUdciDnLf8lUI"
       },
@@ -16638,6 +16686,44 @@
       "duration_ms": 136615,
       "name": "Wszystko warte tego, o co walczymy",
       "url": "https://open.spotify.com/track/5qNhd1NgA9KXpDWJm2I6Uj"
+    },
+    {
+      "album": {
+        "name": "WUNDER-BAUM",
+        "url": "https://open.spotify.com/album/1jIx6Xx2VrTN7qXESFsGlW"
+      },
+      "artists": [
+        {
+          "name": "STXWGN",
+          "url": "https://open.spotify.com/artist/4GEPWSvO1INcR3CRPC708v"
+        },
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        },
+        {
+          "name": "Nader",
+          "url": "https://open.spotify.com/artist/2NDvgN51zyJ7gT5yOUFeVh"
+        },
+        {
+          "name": "Marcco",
+          "url": "https://open.spotify.com/artist/01LohHbYXUX5karZ2BDTZe"
+        },
+        {
+          "name": "Lisek",
+          "url": "https://open.spotify.com/artist/6NLNdYvnVRWIDdiOBY26fX"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "WUNDER-BAUM",
+      "url": "https://open.spotify.com/track/1lJML592NAqz5sfEUSoCbl"
     },
     {
       "album": {

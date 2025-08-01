@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 112375,
+  "num_followers": 112442,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "RITUAL",
-        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Vylana",
-          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
         }
       ],
-      "duration_ms": 461056,
-      "name": "part ii - palace / illusion",
-      "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -503,18 +499,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
         }
       ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+      "duration_ms": 461056,
+      "name": "part ii - palace / illusion",
+      "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -867,38 +867,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 52808,
-      "name": "Mirror bridge",
-      "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Eagle 12'",
-        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Eagle 12'",
-      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Into The Glare",
         "url": "https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG"
       },
@@ -919,6 +887,38 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 52808,
+      "name": "Mirror bridge",
+      "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Canone Infinito Xtended",
         "url": "https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "T\u1ebft 41",
-        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319554,
-      "name": "Gi\u00f3",
-      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 267236,
       "name": "Frames",
       "url": "https://open.spotify.com/track/78Njj9j4LsV2aMvJnka8FG"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "T\u1ebft 41",
+        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319554,
+      "name": "Gi\u00f3",
+      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Meaning's Edge",
-        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 405468,
-      "name": "Frekm, Pt. 1",
-      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "The Greater Wings",
         "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 175664,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "My Heart, My Beloved",
-        "url": "https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa"
-      },
-      "artists": [
-        {
-          "name": "awakened souls",
-          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
-        }
-      ],
-      "duration_ms": 262367,
-      "name": "Valleys and Peaks",
-      "url": "https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "My Heart, My Beloved",
+        "url": "https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "awakened souls",
+          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
         }
       ],
-      "duration_ms": 424170,
-      "name": "Psychic Geography",
-      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+      "duration_ms": 262367,
+      "name": "Valleys and Peaks",
+      "url": "https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Tintswalo / Falling",
-        "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
-      },
-      "artists": [
-        {
-          "name": "Ad Harmonium",
-          "url": "https://open.spotify.com/artist/1g7VyJCBjTqlrvaUwvvlJl"
-        }
-      ],
-      "duration_ms": 209563,
-      "name": "Tintswalo",
-      "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 139184,
       "name": "Heterodina",
       "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Tintswalo / Falling",
+        "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
+      },
+      "artists": [
+        {
+          "name": "Ad Harmonium",
+          "url": "https://open.spotify.com/artist/1g7VyJCBjTqlrvaUwvvlJl"
+        }
+      ],
+      "duration_ms": 209563,
+      "name": "Tintswalo",
+      "url": "https://open.spotify.com/track/1eAY1UPhUCXUiKsP5RXopE"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Power Down the Heart",
         "url": "https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab"
       },
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Kumquat",
-        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "Kumquat",
-      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 109937,
-      "name": "3eee",
-      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Alyosha Lying",
         "url": "https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh"
       },
@@ -1471,26 +1455,6 @@
       "duration_ms": 179500,
       "name": "Alyosha Lying",
       "url": "https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1511,6 +1475,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 109937,
+      "name": "3eee",
+      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "The Night",
         "url": "https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 162360,
       "name": "Through The Glass",
       "url": "https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Shizumu - Ambient Mix",
+      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Joy Paradox (Reimagined)",
         "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
       },
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+        "name": "Dostrotime",
+        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
       },
       "artists": [
         {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
         }
       ],
-      "duration_ms": 204955,
-      "name": "Shizumu - Ambient Mix",
-      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+      "duration_ms": 227736,
+      "name": "Heliobat",
+      "url": "https://open.spotify.com/track/00hrine247guDPYb1jSBKg"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1783,22 +1799,6 @@
       "duration_ms": 334589,
       "name": "Ray",
       "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Dostrotime",
-        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 227736,
-      "name": "Heliobat",
-      "url": "https://open.spotify.com/track/00hrine247guDPYb1jSBKg"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Music to Watch Seeds Grow By 003: Graintable (Blue Flax)",
-        "url": "https://open.spotify.com/album/7Biwp91nueC53JYdwbDk0a"
-      },
-      "artists": [
-        {
-          "name": "Graintable",
-          "url": "https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG"
-        }
-      ],
-      "duration_ms": 262645,
-      "name": "Netsuke From The Garden",
-      "url": "https://open.spotify.com/track/7yDZCtUYyBC1dglmHKIsby"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Migratory",
         "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
       },
@@ -1907,18 +1891,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "QQQQ",
-        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
+        "name": "Music to Watch Seeds Grow By 003: Graintable (Blue Flax)",
+        "url": "https://open.spotify.com/album/7Biwp91nueC53JYdwbDk0a"
       },
       "artists": [
         {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Graintable",
+          "url": "https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG"
         }
       ],
-      "duration_ms": 256579,
-      "name": "COMBAT",
-      "url": "https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs"
+      "duration_ms": 262645,
+      "name": "Netsuke From The Garden",
+      "url": "https://open.spotify.com/track/7yDZCtUYyBC1dglmHKIsby"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1943,18 +1927,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Afrodisia",
-        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+        "name": "QQQQ",
+        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 540340,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
+      "duration_ms": 256579,
+      "name": "COMBAT",
+      "url": "https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -1975,6 +1959,22 @@
       "duration_ms": 152500,
       "name": "Worms In",
       "url": "https://open.spotify.com/track/2cb4G4H8rJ5JqueU6hr25X"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Afrodisia",
+        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 540340,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
-      },
-      "artists": [
-        {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Doff",
-      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "HYbr:ID Ectopia Field 1",
         "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 245407,
       "name": "HYbr:ID Ectopia Field 1",
       "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 517307,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "AMB001-008",
         "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 363353,
       "name": "AMB001",
       "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Pantone 6",
-        "url": "https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8"
-      },
-      "artists": [
-        {
-          "name": "To Rococo Rot",
-          "url": "https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a"
-        }
-      ],
-      "duration_ms": 241930,
-      "name": "Pantone 6",
-      "url": "https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Camina",
-        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+        "name": "Pantone 6",
+        "url": "https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8"
       },
       "artists": [
         {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+          "name": "To Rococo Rot",
+          "url": "https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a"
         }
       ],
-      "duration_ms": 517307,
-      "name": "Camina",
-      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+      "duration_ms": 241930,
+      "name": "Pantone 6",
+      "url": "https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Beautification Technologies",
-        "url": "https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu"
-      },
-      "artists": [
-        {
-          "name": "Qasim Naqvi",
-          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
-        }
-      ],
-      "duration_ms": 293889,
-      "name": "Beautification Technologies",
-      "url": "https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Kinder der Sonne (From \"Komplizen\")",
         "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
       },
@@ -2307,18 +2291,34 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Mind Over Matter",
-        "url": "https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC"
+        "name": "Beautification Technologies",
+        "url": "https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu"
       },
       "artists": [
         {
-          "name": "Arborra",
-          "url": "https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK"
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
         }
       ],
-      "duration_ms": 164385,
-      "name": "Where In The World",
-      "url": "https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7"
+      "duration_ms": 293889,
+      "name": "Beautification Technologies",
+      "url": "https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
+        "name": "Falling but Not Alone",
+        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 600028,
+      "name": "Hang in There, Baby!",
+      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC"
+      },
+      "artists": [
+        {
+          "name": "Arborra",
+          "url": "https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK"
+        }
+      ],
+      "duration_ms": 164385,
+      "name": "Where In The World",
+      "url": "https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "What Is Not Strange?",
         "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
       },
@@ -2375,22 +2391,6 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
-        "name": "Undulations and Aberrations",
-        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
-      },
-      "artists": [
-        {
-          "name": "Drew McDowall",
-          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
-        }
-      ],
-      "duration_ms": 413755,
-      "name": "VCDB",
-      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
         "name": "Sit Down and Play",
         "url": "https://open.spotify.com/album/4Jm4KmC1D5D2alu1CdnxNm"
       },
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Undulations and Aberrations",
+        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
+      },
+      "artists": [
+        {
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        }
+      ],
+      "duration_ms": 413755,
+      "name": "VCDB",
+      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Statik",
         "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 273788,
       "name": "System Verse",
       "url": "https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Falling but Not Alone",
-        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 600028,
-      "name": "Hang in There, Baby!",
-      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2025-07-25 16:29:21",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2025-07-25 16:29:21",
       "album": {
+        "name": "Without Mind: Identify",
+        "url": "https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 528000,
+      "name": "Become Am",
+      "url": "https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf"
+    },
+    {
+      "added_at": "2025-07-25 16:29:21",
+      "album": {
         "name": "Sumerian Green",
         "url": "https://open.spotify.com/album/5cEjLVwvdg1uf5L6b6xb7d"
       },
@@ -2555,22 +2571,6 @@
       "duration_ms": 457142,
       "name": "Inner",
       "url": "https://open.spotify.com/track/7omwQPvmvqy339NsVmic2Z"
-    },
-    {
-      "added_at": "2025-07-25 16:29:21",
-      "album": {
-        "name": "Without Mind: Identify",
-        "url": "https://open.spotify.com/album/6Er30wsjYbX5CN0Znbe1vj"
-      },
-      "artists": [
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        }
-      ],
-      "duration_ms": 528000,
-      "name": "Become Am",
-      "url": "https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf"
     },
     {
       "added_at": "2025-07-25 16:29:21",

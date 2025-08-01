@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > Stray Kids World Tour 『dominATE JAPAN』静岡エコパスタジアム公演でのセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,921 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,913 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 30 | [Chk Chk Boom \(Festival Version\)](https://open.spotify.com/track/0pvWPyB7T0auonNDeNmyVa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:33 |
 | 31 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
 
-Snapshot ID: `aEhIkAAAAAD+vl366Ex+q9/jmfZYvYyn`
+Snapshot ID: `AAAAAAWxNDSSYjqnB+z61luXJK+u7qcO`

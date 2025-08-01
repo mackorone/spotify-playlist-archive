@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: AKASAKI",
-  "num_followers": 298819,
+  "num_followers": 298862,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -427,8 +427,8 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
-        "url": "https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl"
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 259877,
-      "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
-      "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -643,8 +643,8 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+        "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+        "url": "https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
+      "duration_ms": 259877,
+      "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+      "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 207368,
-      "name": "\u3068\u3082\u306b",
-      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
         "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u8cdc\u7269",
-        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 288323,
-      "name": "\u8cdc\u7269",
-      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "\u8d70\u308cSAKAMOTO",
+        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 205984,
+      "name": "\u8d70\u308cSAKAMOTO",
+      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u8d70\u308cSAKAMOTO",
-        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+        "name": "\u8cdc\u7269",
+        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 205984,
-      "name": "\u8d70\u308cSAKAMOTO",
-      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
+      "duration_ms": 288323,
+      "name": "\u8cdc\u7269",
+      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u6625\u306e\u5d50",
-        "url": "https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 275446,
-      "name": "\u6625\u306e\u5d50",
-      "url": "https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "\u6625\u306e\u5d50",
+        "url": "https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 275446,
+      "name": "\u6625\u306e\u5d50",
+      "url": "https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u307e\u306a\u3056\u3057",
-        "url": "https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 258159,
-      "name": "\u307e\u306a\u3056\u3057",
-      "url": "https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
         "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 261497,
       "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
       "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "\u307e\u306a\u3056\u3057",
+        "url": "https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 258159,
+      "name": "\u307e\u306a\u3056\u3057",
+      "url": "https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "HUGs",
+        "url": "https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "duration_ms": 333283,
+      "name": "HUGs",
+      "url": "https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "EPIPHANY",
         "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
         "url": "https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Magic Number",
-        "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
       "artists": [
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
-      "duration_ms": 207213,
-      "name": "\u30a8\u30de",
-      "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     }
   ],
   "unique_name": "Big in Japan",

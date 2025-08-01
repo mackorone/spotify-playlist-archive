@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 564317,
+  "num_followers": 564457,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -503,42 +503,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Hallucinating Love",
-        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 210994,
-      "name": "Peace Talk",
-      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -559,6 +523,42 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Radio Kono",
         "url": "https://open.spotify.com/album/0y4mMWuvF0LJM8CISh7Rlo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216133,
       "name": "N\u00famero Uno",
       "url": "https://open.spotify.com/track/00N4vBEKB9txG2InXMscNu"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+        "name": "The Adventures Of Masta Splinta",
+        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Intalekt",
+          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
         }
       ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+      "duration_ms": 221086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1147,6 +1147,22 @@
       "duration_ms": 197600,
       "name": "SMT",
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1179,22 +1195,6 @@
       "duration_ms": 253733,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "The Adventures Of Masta Splinta",
-        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
-      },
-      "artists": [
-        {
-          "name": "Intalekt",
-          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
-        }
-      ],
-      "duration_ms": 221086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "Fuse",
         "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Virtual U",
-        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "A-Game",
         "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "pop songs 2020",
         "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
       },
@@ -1607,22 +1627,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/3Y4qFR4ZgsG0DpafssdIlH"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "James Alexander Bright",
+          "url": "https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC"
         },
         {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 228786,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+      "duration_ms": 233000,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1647,22 +1667,18 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/3Y4qFR4ZgsG0DpafssdIlH"
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
       },
       "artists": [
         {
-          "name": "James Alexander Bright",
-          "url": "https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC"
-        },
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1679,22 +1695,6 @@
       "duration_ms": 148461,
       "name": "Saturday Yawning",
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Love Potion",
-        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Potion",
-      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2025-05-16 06:00:17",

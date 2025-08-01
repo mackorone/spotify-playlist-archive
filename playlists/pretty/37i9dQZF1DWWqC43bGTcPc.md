@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張遠
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,232 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,324 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [致遠方的思念信](https://open.spotify.com/track/0rhHnW81Z25YbxMR05mFVS) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [致遠方的思念信](https://open.spotify.com/album/4ej0umdkwoOOaEidKiOV9n) | 3:37 |
 | 50 | [反覆拉扯](https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [反覆拉扯](https://open.spotify.com/album/00ZZJIk8UrLsl1cS0GHB0E) | 2:56 |
 
-Snapshot ID: `AAAAAB4jjLiXUMG0AhHpwPYSa/PvgNe4`
+Snapshot ID: `aIeekwAAAADprYDWhvR8BxJwgKH+N3Wd`

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Alessandra Amoroso e Serena Brancale sulla cover della playlist più grande in Italia 🏆
+> Samurai Jay sulla cover della playlist più grande in Italia 🏆
 
 228 songs - 11 hr 44 min
 

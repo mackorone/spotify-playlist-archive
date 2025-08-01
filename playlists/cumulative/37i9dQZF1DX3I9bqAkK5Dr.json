@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 200500,
       "name": "Badlove",
       "url": "https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 182345,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/15GOzlmMKxRZ5cQT9uVxoI"
@@ -2654,6 +2654,28 @@
       "duration_ms": 224000,
       "name": "Kannullo Kala - Manoharam",
       "url": "https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh"
+    },
+    {
+      "album": {
+        "name": "Kannulo Nuvve",
+        "url": "https://open.spotify.com/album/02wFfZWhVQ1UFFBuSH9Je9"
+      },
+      "artists": [
+        {
+          "name": "Manish Kumar",
+          "url": "https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW"
+        },
+        {
+          "name": "Vyshu Maya",
+          "url": "https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310879,
+      "name": "Kannulo Nuvve",
+      "url": "https://open.spotify.com/track/3ty8y4qnDUivIoBWSc3ggK"
     },
     {
       "album": {
@@ -6518,7 +6540,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 242500,
       "name": "Seethakaalam Vennellona",
       "url": "https://open.spotify.com/track/4MdCVBPBmBsc4sGXWbh0aj"

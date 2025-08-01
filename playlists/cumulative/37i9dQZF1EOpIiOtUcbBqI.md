@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 7 hr 6 min
+21 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2020-11-27 |  |
 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 | 2020-11-27 |  |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2020-11-27 |  |
-| [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:55:46 | 2020-11-27 |  |
+| [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:33 | 2020-11-27 |  |
 | [The New BTS Album is Finally Here! Map Of The Soul: Persona Outsold](https://open.spotify.com/episode/6l68X8Yh89rardUmtodbCl) | [BTS AF](https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp) | [BTS AF](https://open.spotify.com/album/5qvChm9pa8rv5ne8Zh9Ewp) | 13:59 | 2020-11-27 |  |
 | [Twice is Love](https://open.spotify.com/episode/10wmKba9ZiYqvC9hVg7WwG) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/show/3PVkEesfbyNHwjnqx0KYCA) | [Kpopcast: for the best sounds & ideas in Kpop](https://open.spotify.com/album/3PVkEesfbyNHwjnqx0KYCA) | 40:33 | 2020-11-27 |  |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |

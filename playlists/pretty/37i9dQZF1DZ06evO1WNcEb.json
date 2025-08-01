@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66878,
+  "num_followers": 66876,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAACOTClPPNFiEzHjTxB/EB7w",
+  "snapshot_id": "aIlggAAAAADdSZsnucaoa2FfsJyP4zNU",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 329248,
-      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 459662,
       "name": "Nunca Pare De Lutar",
       "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 329248,
+      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
     },
     {
       "added_at": null,

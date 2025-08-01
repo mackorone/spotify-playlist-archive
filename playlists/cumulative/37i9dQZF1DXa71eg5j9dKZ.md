@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Jamie xx
+> The home for alternative electronic music\. Cover: Tame Impala
 
 1,234 songs - 3 day 12 hr 11 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 126 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 127 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 124 | [Alone Time](https://open.spotify.com/track/3ZgNv7ryyi9YmiO0fAdSYd) | [Maye Slade](https://open.spotify.com/artist/0LhtCvcnRtsqx4CRdkvM8l) | [Alone Time](https://open.spotify.com/album/0ozVscoswQ0TBGRhtABHwx) | 2:29 |
 | 125 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 126 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
+| 127 | [Jadugarni](https://open.spotify.com/track/2X4nY0nU2qVxEN8nMTFCOq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:17 |
 
-Snapshot ID: `Ab4MUgAAAAA3JFSg/MYcL0otrFiGhntk`
+Snapshot ID: `Ab4R3gAAAAAJWiFZGvEjkvD0DY5JJUUm`

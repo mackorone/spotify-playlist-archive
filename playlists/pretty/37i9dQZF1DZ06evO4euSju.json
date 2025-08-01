@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAAHsavdizZRD/TZ4JT1WZSQ",
+  "snapshot_id": "aIlggAAAAADdVd6mrZMWbh/yPco/O0Al",
   "tracks": [
     {
       "added_at": null,
@@ -282,11 +282,19 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Fear Before The March Of Flames",
+          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
+        },
+        {
+          "name": "David Marion",
+          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 235565,
+      "name": "Cigarette Two Step",
+      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
       "added_at": null,
@@ -346,19 +354,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Fear Before The March Of Flames",
-          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
-        },
-        {
-          "name": "David Marion",
-          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Cigarette Two Step",
-      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

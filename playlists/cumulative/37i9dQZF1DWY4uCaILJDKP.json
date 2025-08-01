@@ -1537,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "\u300c\u751f\u307e\u308c\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u300dfrom \u30b1\u30fc\u30ad\u306e\uff37\uff21",
+        "url": "https://open.spotify.com/album/5vGedLIfjjiwo0xj35Yzvj"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u4e0a\u4fe1\u4e94",
+          "url": "https://open.spotify.com/artist/3hGKXtli9pf9f1qDulUfFM"
+        },
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        },
+        {
+          "name": "HYADAIN",
+          "url": "https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "\u300c\u751f\u307e\u308c\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u300dfrom \u30b1\u30fc\u30ad\u306e\uff37\uff21",
+      "url": "https://open.spotify.com/track/74cFU5SRwAeSrGebCvoip5"
+    },
+    {
+      "album": {
         "name": "NEW GAME",
         "url": "https://open.spotify.com/album/2nRkRzNoquQZLmmAsVHDqS"
       },

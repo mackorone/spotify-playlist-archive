@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,508 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,530 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Dil Diyan Gallan \(Unplugged\)](https://open.spotify.com/track/1As58Rpu8oZtLDAeVFHVyq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tiger Zinda Hai](https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc) | 4:03 |
 | 50 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
 
-Snapshot ID: `AAAAAAlhcnZabvoChAhqk7R9gs21HRU/`
+Snapshot ID: `aIdWLgAAAADbLDCb3x5AlFjo73Lah9IQ`

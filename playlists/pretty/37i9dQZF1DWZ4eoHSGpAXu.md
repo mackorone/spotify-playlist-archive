@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,987 likes - 65 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,148 likes - 65 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 64 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 |
 | 65 | [Enough \(Live\)](https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [All Things New \(Live\)](https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv) | 5:35 |
 
-Snapshot ID: `aIMNVQAAAAAUx/AALa5ftH2ljnDjQCnu`
+Snapshot ID: `AAAAALiCysXQLgsp5ucE2F73AfwmrqoS`

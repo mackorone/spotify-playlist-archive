@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: AFROJACK, Martin Garrix, David Guetta, Amél
 
-593 songs - 1 day 5 hr 7 min
+594 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 | 2024-10-31 | 2024-11-23 |
 | [Through the Night](https://open.spotify.com/track/1c4Np5YSKDMp0feU8unOyr) | [Joey McCrilley](https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Through the Night](https://open.spotify.com/album/7ED0vJ10TrJXLAdfnX14Is) | 2:55 | 2024-07-26 | 2024-08-02 |
 | [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-09-27 | 2024-10-18 |
+| [Tipsy](https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Tipsy](https://open.spotify.com/album/3IyGkzK36EXUIivyJ8dzeN) | 2:47 | 2025-07-31 |  |
 | [TKM](https://open.spotify.com/track/0KESlOROu9lFyAOHiuvr1N) | [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy), [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [TKM](https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf) | 2:33 | 2025-01-30 | 2025-05-31 |
 | [Toccata](https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Toccata](https://open.spotify.com/album/3H53Y8XFX5XdomiCJ31Wzu) | 2:59 | 2024-10-03 | 2024-10-18 |
 | [Together As One](https://open.spotify.com/track/13lbO5MJLJmH7BErGkZ547) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Together As One](https://open.spotify.com/album/1WxEl8f2I1olihI8k6IC9x) | 2:45 | 2025-05-08 | 2025-05-31 |

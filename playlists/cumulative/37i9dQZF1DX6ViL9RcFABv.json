@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Arag\u00e3o, Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Mickael Carreira,\tAnselmo Ralph, Tony Carreira, Toy",
   "name": "Pop PT",
   "tracks": [
     {
@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 142788,
       "name": "bilhete na garrafa",
       "url": "https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP"
@@ -3436,6 +3436,28 @@
       "duration_ms": 172782,
       "name": "Mudaste a Minha Vida",
       "url": "https://open.spotify.com/track/3qlbMBzLg3YlQiX5jTttwJ"
+    },
+    {
+      "album": {
+        "name": "Mulher dos teus sonhos (2 Pares de Botas)",
+        "url": "https://open.spotify.com/album/3xx2IGEhLpZbaYbM1C2Pqc"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        },
+        {
+          "name": "Joana Almeirante",
+          "url": "https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "Mulher dos teus sonhos (2 Pares de Botas)",
+      "url": "https://open.spotify.com/track/1Mb0AmcqnwconT7HAcH9Th"
     },
     {
       "album": {

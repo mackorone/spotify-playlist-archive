@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Aragão, Mariana Pereira
+> Uma playlist de pura alma pop! Foto: Mickael Carreira,	Anselmo Ralph, Tony Carreira, Toy
 
-291 songs - 15 hr 26 min
+292 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [AURA](https://open.spotify.com/track/6M9QkeLsircEIi26YOE9eE) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [AURA](https://open.spotify.com/album/5ipBcRzBFolwsA8zp1UfWz) | 3:05 | 2025-06-19 |  |
 | [aYe!](https://open.spotify.com/track/62yfxuFCib7HogrJpw5uCQ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [all i see is blur](https://open.spotify.com/album/3aiEy0lTISo7SQ50Hu9JCQ) | 2:44 | 2024-09-26 | 2024-11-22 |
 | [Beijo](https://open.spotify.com/track/3303s19agScDaCsPYdCu7i) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd), [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu) | [Beijo](https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw) | 3:29 | 2025-07-03 |  |
-| [bilhete na garrafa](https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [bilhete na garrafa](https://open.spotify.com/album/66E2SDh51iVq64oot5dxpc) | 2:22 | 2025-04-24 |  |
+| [bilhete na garrafa](https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [bilhete na garrafa](https://open.spotify.com/album/66E2SDh51iVq64oot5dxpc) | 2:22 | 2025-04-24 | 2025-08-01 |
 | [Boca Louca](https://open.spotify.com/track/3on5wwXaYBWMqV5bhP78So) | [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Boca Louca](https://open.spotify.com/album/0duEgRKsX4UfXOoF9bqMiG) | 2:52 | 2025-03-07 | 2025-05-09 |
 | [Bom Dia](https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Bom Dia](https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX) | 3:15 | 2024-09-19 | 2025-03-14 |
 | [Bom Peixe](https://open.spotify.com/track/3wpwFciDgazzQA6F6VWiNE) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Bom Peixe](https://open.spotify.com/album/3LG6YxuHUJ203MMXt8G5GL) | 3:08 | 2025-06-26 |  |
@@ -179,6 +179,7 @@
 | [Modo Auto\-Piloto](https://open.spotify.com/track/3ykuhBzBU4CBWh6wEb2Nt1) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Modo Auto\-Piloto](https://open.spotify.com/album/5oigX6lMEiruRpxSuuPljl) | 3:17 | 2024-06-27 | 2024-09-13 |
 | [Mudar A Canção](https://open.spotify.com/track/7mqB9kLgxTuG3ACCOyNJtI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Carlão](https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA), [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulo de Carvalho](https://open.spotify.com/artist/7KZq6Dnxz9nVtLg45UMGEJ), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Simone de Oliveira](https://open.spotify.com/artist/6RNXZUrWCDL7SK75TkFStj) | [Mudar A Canção](https://open.spotify.com/album/7hwcdnuYalAEqFbLGYGFKl) | 3:07 | 2024-12-13 | 2025-06-20 |
 | [Mudaste a Minha Vida](https://open.spotify.com/track/3qlbMBzLg3YlQiX5jTttwJ) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Mudaste a Minha Vida](https://open.spotify.com/album/3muBiyn9oG7WgS5PLgqH5u) | 2:52 | 2025-04-17 | 2025-07-18 |
+| [Mulher dos teus sonhos \(2 Pares de Botas\)](https://open.spotify.com/track/1Mb0AmcqnwconT7HAcH9Th) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Mulher dos teus sonhos \(2 Pares de Botas\)](https://open.spotify.com/album/3xx2IGEhLpZbaYbM1C2Pqc) | 2:46 | 2025-07-31 |  |
 | [Mundo](https://open.spotify.com/track/43yXbcpBsYN9GzeDHA4QN8) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [Mundo](https://open.spotify.com/album/3HiWFaA0Rr3pp4PKDjfGzD) | 2:30 | 2025-04-17 | 2025-05-02 |
 | [Mãe](https://open.spotify.com/track/7nPsaDN1eYi7QFslaVDSDY) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Canções Bonitas em Português Vol\. I](https://open.spotify.com/album/5L8p4ZsuhyPnoav0zmjW4B) | 3:45 | 2024-06-27 | 2025-02-14 |
 | [Na Escola](https://open.spotify.com/track/4gKnmJl100iarWltT3dtyc) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Na Escola](https://open.spotify.com/album/4zfmpREr5skUcctg0j1XUp) | 4:26 | 2024-06-27 | 2025-02-14 |

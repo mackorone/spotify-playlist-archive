@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-297 songs - 17 hr 7 min
+299 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/track/1ZMshhKYdUJO50NwWqiJqF) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/album/2vCLkO9163xJNUrQr0xizl) | 3:17 | 2024-05-20 | 2024-11-08 |
 | [Caviar Candles](https://open.spotify.com/track/7lEo9BK11xnUGDeJgHG9uh) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Caviar Candles](https://open.spotify.com/album/4NpJt9BY48vMtOuc12DELp) | 3:11 | 2024-05-20 | 2024-11-08 |
 | [Changed Unchained](https://open.spotify.com/track/024mAy6lQ1jk4QiPFiK5Hc) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Changed Unchained](https://open.spotify.com/album/4FJ5dbXgxv6KlC5ISy9Ahd) | 3:44 | 2024-09-12 | 2024-11-08 |
-| [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 | 2024-11-28 |  |
+| [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 | 2024-11-28 | 2025-08-01 |
 | [Chaotic](https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Chaotic](https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk) | 3:14 | 2025-01-09 | 2025-04-04 |
 | [Cherry Pie](https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Cherry Pie](https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1) | 4:09 | 2024-09-12 | 2024-11-08 |
 | [Circling the City](https://open.spotify.com/track/7b6X8K150JyakOpe61ULc2) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Circling the City](https://open.spotify.com/album/6sGfZDOIcyYMQRdXdFbytn) | 2:48 | 2024-05-20 | 2024-11-08 |
@@ -76,7 +76,7 @@
 | [Devil on My Shoulder](https://open.spotify.com/track/4wvmUZPz5PsY5hpLnmbVE3) | [Ruby Coley](https://open.spotify.com/artist/4QKS6VswhaObVg1qiUZSer) | [Devil on My Shoulder](https://open.spotify.com/album/0XHuwO41dbc8KzCS2TKT9Z) | 3:27 | 2024-05-20 | 2024-11-08 |
 | [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 | 2024-12-05 | 2025-02-21 |
 | [Distance](https://open.spotify.com/track/37iubkt9ZLMvMpXby6ZXKY) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Distance](https://open.spotify.com/album/1k1JRpGWhKAeExQwbjDYVK) | 4:36 | 2024-05-20 | 2024-11-08 |
-| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 |  |
+| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 | 2025-08-01 |
 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 | 2024-05-20 | 2024-11-08 |
 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-17 |  |
@@ -154,6 +154,7 @@
 | [Light](https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Light](https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI) | 3:41 | 2024-09-26 | 2025-01-31 |
 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 | 2024-12-05 |  |
 | [LightBulb](https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57) | [Ladi6](https://open.spotify.com/artist/6zZvfMW6XSPQcIeIdjHccY) | [LightBulb](https://open.spotify.com/album/2o10K3y7a0yF1wwbKvFyIu) | 3:51 | 2025-05-01 | 2025-06-16 |
+| [Live for Today](https://open.spotify.com/track/6q1LvlxEIVSV65xkUPJOPz) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Live for Today](https://open.spotify.com/album/61PPrmUOtqag77bDSCCsug) | 3:05 | 2025-07-31 |  |
 | [Live It Up \(with The Green\)](https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Caleb Keolanui](https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk) | [Live It Up \(with The Green\)](https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA) | 4:00 | 2025-07-17 |  |
 | [Loline](https://open.spotify.com/track/0oo9cY4TGyFZ06mp4PmYhv) | [The Bats](https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW) | [Loline](https://open.spotify.com/album/6ApXM9SJJDq9eu2jEqIm0x) | 4:55 | 2025-04-03 | 2025-04-25 |
 | [Long Way To Go](https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu) | [Nik Brinkman](https://open.spotify.com/artist/5gI4KPyP30hO56IyyBpC3O) | [Long Way To Go](https://open.spotify.com/album/7BJl1tH4gp1egCQdD5pQIh) | 2:56 | 2025-01-09 | 2025-01-24 |
@@ -284,6 +285,7 @@
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |
 | [Unchained](https://open.spotify.com/track/2JI6dU3fpanCwPMDDzX79K) | [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Not Your Cupid](https://open.spotify.com/album/48Ccju0seSWWB3ybbrVn6I) | 3:58 | 2024-05-20 | 2024-11-08 |
 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 |  |
+| [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 | 2025-07-31 |  |
 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 | 2025-07-03 |  |
 | [Verrans Corner](https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Leith Sye Towers](https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq) | [Verrans Corner](https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj) | 3:22 | 2025-01-30 | 2025-05-29 |
 | [VILLAIN](https://open.spotify.com/track/36ucHCqd276PZFIXqjeZfN) | [Venice Qin](https://open.spotify.com/artist/1w6QttbP1dpScDOCGGvecW) | [ALIEN](https://open.spotify.com/album/0ezYkmaL0BjqvqPw6sVWAY) | 3:31 | 2024-05-20 | 2024-11-08 |

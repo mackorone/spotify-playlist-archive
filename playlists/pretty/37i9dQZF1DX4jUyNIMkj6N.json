@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 219077,
+  "num_followers": 219078,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-07-03 22:00:31",
       "album": {
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+      },
+      "artists": [
+        {
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+        }
+      ],
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
+    },
+    {
+      "added_at": "2025-07-03 22:00:31",
+      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2025-07-03 22:00:31",
       "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
-    },
-    {
-      "added_at": "2025-07-03 22:00:31",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-07-03 22:00:31",
       "album": {
-        "name": "Feels like That",
-        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
       "artists": [
         {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 216955,
-      "name": "Feels like That",
-      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     }
   ],
   "unique_name": "Nordic Folk",

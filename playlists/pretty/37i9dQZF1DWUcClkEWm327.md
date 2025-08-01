@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 
 > ディズニーの名曲をオルゴール・サウンドで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,101 likes - 132 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,104 likes - 132 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 | 131 | [He's a Tramp \- Orgel Version](https://open.spotify.com/track/48Z4YqAJYIgpnPurZighwV) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 3:08 |
 | 132 | [Vuelie \- Orgel Version](https://open.spotify.com/track/6NeOHQhfz2v2r01jGVH2AX) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 2:09 |
 
-Snapshot ID: `aGeIygAAAAAkbHNdvDFLItqB2hs+8jvl`
+Snapshot ID: `AAAAAHcZPHr6HpCX9MlsGwWbzGEEQRYL`

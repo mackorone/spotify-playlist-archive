@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,121 songs - 5 day 11 hr 21 min
+2,122 songs - 5 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-07-28 | 2022-09-07 |
 | [no man's world](https://open.spotify.com/track/0npLIMzLVGzRlzTKuyq48u) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [no man's world](https://open.spotify.com/album/5WDwjIJ4FnIOpsOsoZnm12) | 4:18 | 2025-07-10 |  |
 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 | 2025-03-11 | 2025-04-16 |
-| [No Problem! from your future self.【Toi\-san wants to enjoy her youth! ED】](https://open.spotify.com/track/61u5AqcgGXWnetQS8XluYH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [No Problem! from your future self.【Toi\-san wants to enjoy her youth! ED】](https://open.spotify.com/album/5cH24pziEh8vQkY1BNynD6) | 3:47 | 2025-07-24 |  |
+| [No Problem! from your future self.【Toi\-san wants to enjoy her youth! ED】](https://open.spotify.com/track/61u5AqcgGXWnetQS8XluYH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [No Problem! from your future self.【Toi\-san wants to enjoy her youth! ED】](https://open.spotify.com/album/5cH24pziEh8vQkY1BNynD6) | 3:47 | 2025-07-24 | 2025-08-01 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-28 | 2022-07-08 |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-11 | 2024-07-24 |
 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 | 2022-10-06 | 2023-01-11 |
@@ -966,6 +966,7 @@
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-28 | 2024-07-03 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 | 2023-11-29 |
 | [SPECIALZ \- from CrosSing](https://open.spotify.com/track/7fvRgpi0x48ZTKtmfVJQwB) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [SPECIALZ \- from CrosSing](https://open.spotify.com/album/3SGoA60WYQJP9dhLgqMfOX) | 3:54 | 2024-09-10 | 2024-10-02 |
+| [Spice](https://open.spotify.com/track/7IemHKAr4Ga39K64iddBY7) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Spice](https://open.spotify.com/album/5X5xnoYq5CP7n26JBOkhSB) | 4:34 | 2025-07-31 |  |
 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-07-11 | 2023-10-08 |
 | [Stand by Me](https://open.spotify.com/track/0OoQhyGwEwOGKk96J6nJ3R) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Stand by Me](https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs) | 3:28 | 2023-01-10 | 2023-03-08 |
 | [Star Parade](https://open.spotify.com/track/3HJ4LKYkpkwChkLicMLu4M) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [Star Parade](https://open.spotify.com/album/1S6Hu4rVelpdgfAJfbevZF) | 3:35 | 2025-01-11 | 2025-04-16 |

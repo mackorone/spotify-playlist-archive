@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷  Un Verano y Olivia Wald
+> y nada más que pop ✨✨✨<br/>📷  Paz Carrara
 
-363 songs - 19 hr 31 min
+364 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-10-23 | 2024-05-06 |
 | [Ay!](https://open.spotify.com/track/6QHXNpWsOKagtV3scwkaoQ) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Ay!](https://open.spotify.com/album/4g4VfRvjKDjOXyeTXHX1uO) | 2:55 | 2024-08-23 | 2024-09-07 |
 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2023-10-23 |  |
-| [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 | 2023-10-23 |  |
+| [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 | 2023-10-23 | 2025-08-01 |
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2023-07-14 | 2023-10-24 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 | 2023-12-15 | 2024-10-26 |
@@ -366,6 +366,7 @@
 | [X 1 BESO](https://open.spotify.com/track/0UIFSnGr4sr2ft6ecOoajk) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [X 1 BESO](https://open.spotify.com/album/4rtHVJGOLT8JgKUTWlxnzl) | 2:48 | 2025-02-14 | 2025-02-22 |
 | [Ya](https://open.spotify.com/track/6c4XFuLYURQLv5cUudNit3) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ), [Ocasional Talento](https://open.spotify.com/artist/5IeI26Ct0ocZiLgzvQw5Mt) | [Ya](https://open.spotify.com/album/4rawn4G6JS1SnPrfZiiBx5) | 2:21 | 2023-07-14 | 2023-10-24 |
 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 | 2023-11-10 | 2024-02-11 |
+| [Ya no quiero hacerlo](https://open.spotify.com/track/4RaO99GEOpnxO8gG686vTA) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ya no quiero hacerlo](https://open.spotify.com/album/2vaBK9RJxI8SNYO6UNON5m) | 2:50 | 2025-08-01 |  |
 | [¿Cuánto Tiempo?](https://open.spotify.com/track/2KPJZGGDiU4AXImDydkP3s) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [¿Cuánto Tiempo?](https://open.spotify.com/album/5mgaOULjcVaPxLFLKvVDFn) | 2:45 | 2024-09-13 | 2024-10-05 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-05 |  |
 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 | 2024-11-15 |  |

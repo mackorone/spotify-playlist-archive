@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27256,
+  "num_followers": 27261,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAB+mTScPyrKL4XmYBEI8Suu",
+  "snapshot_id": "aIlggAAAAAD95CjaufAgW6awCvFF3Gwz",
   "tracks": [
     {
       "added_at": null,
@@ -538,15 +538,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -618,11 +614,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Hope is Hard to Kill (feat. KB)",
+        "url": "https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "My Hope is Hard to Kill (feat. KB)",
+      "url": "https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Belong",
         "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 225621,
       "name": "Another Win",
       "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Hope is Hard to Kill (feat. KB)",
-        "url": "https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr"
-      },
-      "artists": [
-        {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "My Hope is Hard to Kill (feat. KB)",
-      "url": "https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL"
     },
     {
       "added_at": null,

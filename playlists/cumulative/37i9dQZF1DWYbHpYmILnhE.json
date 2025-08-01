@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 164678,
       "name": "Apapa",
       "url": "https://open.spotify.com/track/67K9m0tdDtJFrynVmVIbGn"
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Celeb",
+        "url": "https://open.spotify.com/album/3selQU4OLhLuwQ2ELcomGt"
+      },
+      "artists": [
+        {
+          "name": "Ambode",
+          "url": "https://open.spotify.com/artist/331D4hntVY174My9tSpe7Q"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108595,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/7Cc1pvOLmw6YGdPtt6S5cs"
+    },
+    {
+      "album": {
         "name": "Never Stop Vol. 1",
         "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
       },
@@ -322,6 +340,24 @@
       "duration_ms": 152842,
       "name": "Champagne Showers",
       "url": "https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE"
+    },
+    {
+      "album": {
+        "name": "Cook Am",
+        "url": "https://open.spotify.com/album/53q75yUL8e430MaixPemmQ"
+      },
+      "artists": [
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135156,
+      "name": "Cook Am",
+      "url": "https://open.spotify.com/track/0AXTVrKCqLurcWjXbSvHTj"
     },
     {
       "album": {
@@ -524,7 +560,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 122174,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7haHK4WoOPfg9VzkuYT7L8"
@@ -1365,6 +1401,32 @@
     },
     {
       "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/3DtAkrbLRw3e9Kt0beJhWb"
+      },
+      "artists": [
+        {
+          "name": "Chop Life Crew",
+          "url": "https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/235MhpP1xfwHFFmJnfue2c"
+    },
+    {
+      "album": {
         "name": "Normal Day",
         "url": "https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE"
       },
@@ -1832,7 +1894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 116839,
       "name": "Receipts",
       "url": "https://open.spotify.com/track/1pfvwzTRFBlnzL882eqcVu"

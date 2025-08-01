@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Little Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,946 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,977 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 49 | [Good Rockin Tonight](https://open.spotify.com/track/2k87zh87uA132TS9ENMpsw) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Presenting Roy Brown](https://open.spotify.com/album/4qP4SvX9u1r5hk3sxtmGYl) | 3:36 |
 | 50 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 
-Snapshot ID: `AAAAAMgUhMbjaI/XRSU4nR0tSQpjdojs`
+Snapshot ID: `Z6EFhgAAAABJ3wMIRfFRQF03lXr7MLrr`

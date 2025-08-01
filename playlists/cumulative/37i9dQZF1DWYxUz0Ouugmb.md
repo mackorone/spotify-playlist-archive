@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Tissa Biani
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Deborah Hanna
 
-280 songs - 18 hr 12 min
+281 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Nirwana](https://open.spotify.com/track/20LfDnXnQRhSS5pMndgAhs) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Nirwana](https://open.spotify.com/album/1llIHceabDiod8engkABuL) | 3:35 | 2025-04-15 |  |
 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 | 2023-06-16 | 2024-03-29 |
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-06-22 | 2024-03-29 |
+| [Nyaman Terbuka](https://open.spotify.com/track/7tXTwcHhAmo76d6F7upe1A) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Krisna Trias](https://open.spotify.com/artist/14uIEY2id29DkY0FzZWuM0) | [Panggil Saja Hanna](https://open.spotify.com/album/6PmNwvDjjpY5QCOFdtaOYO) | 3:28 | 2025-07-31 |  |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 | 2024-03-29 |
 | [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 | 2025-05-08 |  |

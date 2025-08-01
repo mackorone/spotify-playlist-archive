@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UuzUke94Zy.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! \(미팅룸 참가 라인업의 베스트 곡들을 들으며 다가오는 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 33 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 33 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UuzUke94Zy.md) - [plain]
 | 32 | [Meeting Room Interview – Spotify Editor’s View on chiyoonhae](https://open.spotify.com/episode/6qJDtWCNtOgeNZUhf1vSms) | [MEETING ROOM 미팅룸](https://open.spotify.com/show/1g7nNXYtkVvqW4BpZPiGxg) | [MEETING ROOM 미팅룸](https://open.spotify.com/album/1g7nNXYtkVvqW4BpZPiGxg) | 19:01 |
 | 33 | [Meeting Room Interview – Spotify Editor’s View on Samui](https://open.spotify.com/episode/2KivG8AU316z9oTXIF8wyz) | [MEETING ROOM 미팅룸](https://open.spotify.com/show/1g7nNXYtkVvqW4BpZPiGxg) | [MEETING ROOM 미팅룸](https://open.spotify.com/album/1g7nNXYtkVvqW4BpZPiGxg) | 26:23 |
 
-Snapshot ID: `aHoOkwAAAAC2vRJyKMGXLlG7XjuhzQax`
+Snapshot ID: `aHoOkwAAAAD0NxJTVUiYgk76vlFf70tZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: TTSSFU
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,977 likes - 120 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,017 likes - 120 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

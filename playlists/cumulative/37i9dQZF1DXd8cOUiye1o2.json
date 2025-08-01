@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Falling in love never sounded more beautiful than 'Bas Ek Dhadak'! Listen now. Cover: Dhadak 2",
+  "description": "Feel the love, feel the music & groove to the beats of Aavan Jaavan from WAR 2. Listen now!",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -128,6 +128,36 @@
       "duration_ms": 222103,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/6pYnbhBCBI0nSqXFeqmZJu"
+    },
+    {
+      "album": {
+        "name": "Aavan Jaavan (From \"WAR 2\")",
+        "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "Aavan Jaavan (From \"WAR 2\")",
+      "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
     },
     {
       "album": {
@@ -268,7 +298,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 151826,
       "name": "Baari Baari",
       "url": "https://open.spotify.com/track/3JzOgUOqUKgkWwlb7rpg1J"
@@ -1127,6 +1157,32 @@
     },
     {
       "album": {
+        "name": "Gori",
+        "url": "https://open.spotify.com/album/0jrV9pyuxDtUBjcKvjWsfj"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Gori",
+      "url": "https://open.spotify.com/track/1T7gg2gjy2wS0PHApXDsES"
+    },
+    {
+      "album": {
         "name": "Haaniya",
         "url": "https://open.spotify.com/album/6y6urc9ONRjVs4xiW7Jm9b"
       },
@@ -1150,7 +1206,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 188037,
       "name": "Haaniya",
       "url": "https://open.spotify.com/track/6usB8w6q62tom1OqRk8LEX"
@@ -1458,10 +1514,32 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 243380,
       "name": "Ishq Ya Tharak (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/6gPiWTRBdOzS8szv8gFjwf"
+    },
+    {
+      "album": {
+        "name": "Jaane Jaan",
+        "url": "https://open.spotify.com/album/2l5aION6UUUALhTC2se9qy"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131100,
+      "name": "Jaane Jaan",
+      "url": "https://open.spotify.com/track/2OiKYKxP9blvUyP2tDGO8r"
     },
     {
       "album": {
@@ -1842,7 +1920,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 216585,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n"
@@ -1894,7 +1972,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 190135,
       "name": "Maahi Mereya",
       "url": "https://open.spotify.com/track/5LcXyhSx0YgSNlYu9CVHWK"
@@ -2201,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "Naadaani",
+        "url": "https://open.spotify.com/album/7um0giE1r9FRuboEWF48j0"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244405,
+      "name": "Naadaani",
+      "url": "https://open.spotify.com/track/0QNBk6UmE2uOUNdEsGpe7R"
+    },
+    {
+      "album": {
         "name": "Naamumkin (From \"Maalik\")",
         "url": "https://open.spotify.com/album/1D6CU8k7QQ2tbbEYK2vwys"
       },
@@ -2224,7 +2324,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 224571,
       "name": "Naamumkin (From \"Maalik\")",
       "url": "https://open.spotify.com/track/2dEHuZUBxNoxxGM31WvkOb"
@@ -2701,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "RED PILL",
+        "url": "https://open.spotify.com/album/5wVp5f4E2j6uVU62HWTkZl"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "RED PILL",
+      "url": "https://open.spotify.com/track/31kpp32NUZoyOHTofbQWHS"
+    },
+    {
+      "album": {
         "name": "Saajan Ghar Aaja",
         "url": "https://open.spotify.com/album/0M6KQUOeTGvXmBVK94MNfF"
       },
@@ -3034,7 +3152,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 134500,
       "name": "Sigh - Royal Stag Packaged Drinking Water Boombox",
       "url": "https://open.spotify.com/track/4JEnQiIzCnhnwWVothdBIY"
@@ -3467,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Tootay",
+        "url": "https://open.spotify.com/album/490IlXwyYJctauX9KyTjRC"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188830,
+      "name": "Tootay",
+      "url": "https://open.spotify.com/track/6liPuxu4mdKY7vNH7bEIAG"
+    },
+    {
+      "album": {
         "name": "Toote Dhaage",
         "url": "https://open.spotify.com/album/5p31sYHxxGox82E6jCAfcC"
       },
@@ -3516,6 +3652,32 @@
       "duration_ms": 191707,
       "name": "Tu Kahan",
       "url": "https://open.spotify.com/track/4tpKd1XEwougZnXrfwwSr3"
+    },
+    {
+      "album": {
+        "name": "Tu Meri Dhadak Hai (From \"Dhadak 2\")",
+        "url": "https://open.spotify.com/album/5IAE0VIJD8bdzpOYLBP2Kr"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301928,
+      "name": "Tu Meri Dhadak Hai - From \"Dhadak 2\"",
+      "url": "https://open.spotify.com/track/2zB9rx9QW4TsKyWjz6F2wD"
     },
     {
       "album": {

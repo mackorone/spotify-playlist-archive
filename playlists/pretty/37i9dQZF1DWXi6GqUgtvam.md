@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,782 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,832 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 16 | [Ciaccona \(I\)](https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg) | [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...](https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e) | 3:52 |
 | 17 | [Saltarello I & II](https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp) | [Giacomo Gorzanis](https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3), [Marc Lewon](https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV) | [Bis an der Welt ihr Ende](https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd) | 3:24 |
 | 18 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
-| 19 | [Lute Sonata in F Minor \[Augsburg manuscript\]: I\. Affettuoso](https://open.spotify.com/track/7LMjfpcFS1zbFf10GAIILB) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Robert Barto](https://open.spotify.com/artist/2CnMgd69h3tuIxd875biVF) | [Hagen: The Augsburg Manuscript Music for Lute](https://open.spotify.com/album/4KnKIzBvsnu4IiyPVGUbS5) | 3:32 |
+| 19 | [Lute Sonata in F Minor \(Augsburg manuscript\): I\. Affettuoso](https://open.spotify.com/track/7LMjfpcFS1zbFf10GAIILB) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Robert Barto](https://open.spotify.com/artist/2CnMgd69h3tuIxd875biVF) | [Hagen: The Augsburg Manuscript Music for Lute](https://open.spotify.com/album/4KnKIzBvsnu4IiyPVGUbS5) | 3:32 |
 | 20 | [Greensleeves](https://open.spotify.com/track/6CcnQUkdGVmHjIUG6JCLRm) | [John Johnson](https://open.spotify.com/artist/3xYtiAZeJwvtLBQuPpjTll), [Anthony Rooley](https://open.spotify.com/artist/19l99CiXKRvs1wgXuxCpv6), [James Tyler](https://open.spotify.com/artist/2GmmkFnq13lWOyIMUF6AnY) | [My Lute Awakes](https://open.spotify.com/album/2lpMRX8I7FyiQO0ogCFVOQ) | 3:58 |
 | 21 | [Ein Schottisch Tanz](https://open.spotify.com/track/2AZPcBbu7HTfffRG5xSQeR) | [William Brade](https://open.spotify.com/artist/72CceCzVMQDJriXo0JCn0h), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Musica Nova](https://open.spotify.com/album/6xBs7zg7UmEmjUm7H4LEKJ) | 2:56 |
 | 22 | [Fantasia \- Instrumental](https://open.spotify.com/track/3hYHCMkZG7ImrgChQi5PwU) | [Alonso Mudarra](https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [NPR Milestones of the Millennium: The Renaissance in Music](https://open.spotify.com/album/3Q8GxkzDXMIBtynAbYnqdO) | 1:34 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: BLACKPINK
+> The best tracks from the world of music\. Cover: Tenxi, Suisei, Jemsii
 
 377 songs - 21 hr 24 min
 

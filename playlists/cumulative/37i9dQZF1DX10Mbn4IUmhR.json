@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your frequency for today's hottest pop tracks via ZA Cover: <a href=\"https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p?si=QubocrZrRTyWcG344k4g_A\">Giift</a>",
+  "description": "Your frequency for today's hottest pop tracks via ZA Cover: <a href=\"https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=IrkB2-i8SnicIqN9IfQjYw\">Will Linley</a>",
   "name": "pop fm",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 225523,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/1UXa2qZ0LOuMP6ye1hwHCV"
+    },
+    {
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/10y9Atalz3pIYGO6lXuY2G"
+      },
+      "artists": [
+        {
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/09HiYan6S3nJ2RNwwsA9H7"
     },
     {
       "album": {
@@ -914,7 +932,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 184406,
       "name": "be a bitch",
       "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 138108,
       "name": "Beautiful Strangers",
       "url": "https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 162203,
       "name": "Dame Un Grrr - Jason Derulo Version",
       "url": "https://open.spotify.com/track/6UXPN9iOtrRPcXSUCRtlZt"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 211719,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
@@ -3306,10 +3324,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 100920,
       "name": "first date",
       "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t"
     },
     {
       "album": {
@@ -3346,6 +3382,28 @@
       "duration_ms": 122880,
       "name": "flutter~",
       "url": "https://open.spotify.com/track/02zTUJnYzY6vBM3kQ8RR5X"
+    },
+    {
+      "album": {
+        "name": "Follow Excitement!",
+        "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
+      },
+      "artists": [
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148746,
+      "name": "Follow Excitement!",
+      "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
     },
     {
       "album": {
@@ -5299,6 +5357,46 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.U (feat. hannah bahng)",
+        "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199923,
+      "name": "L.O.V.E.U (feat. hannah bahng)",
+      "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
+    },
+    {
+      "album": {
+        "name": "Lady In Red",
+        "url": "https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155604,
+      "name": "Lady In Red",
+      "url": "https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD"
       },
@@ -5390,6 +5488,24 @@
       "duration_ms": 213456,
       "name": "Learn To Love (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Kadek",
+          "url": "https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9"
     },
     {
       "album": {
@@ -5672,6 +5788,24 @@
       "duration_ms": 154297,
       "name": "Love in Real Life",
       "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
+    },
+    {
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260778,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
     },
     {
       "album": {
@@ -6124,6 +6258,24 @@
       "duration_ms": 182376,
       "name": "MIRROR MIRROR",
       "url": "https://open.spotify.com/track/2zGBJQgpVMYf2LOS3pWwOb"
+    },
+    {
+      "album": {
+        "name": "Misfire",
+        "url": "https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "Misfire",
+      "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
     },
     {
       "album": {
@@ -6812,7 +6964,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 173606,
       "name": "One Call Away (Acoustic)",
       "url": "https://open.spotify.com/track/6xCDYNLoXQmbFpZJpKk5dK"
@@ -8799,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "sunday morning",
+        "url": "https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140085,
+      "name": "sunday morning",
+      "url": "https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG"
+    },
+    {
+      "album": {
         "name": "Romantica",
         "url": "https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc"
       },
@@ -9154,7 +9324,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 161188,
       "name": "Tell Me More",
       "url": "https://open.spotify.com/track/3Bh2LsZIwxBp0Zi1ImmFiR"
@@ -9176,6 +9346,24 @@
       "duration_ms": 185600,
       "name": "Tell Me The Name",
       "url": "https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT"
+    },
+    {
+      "album": {
+        "name": "tension",
+        "url": "https://open.spotify.com/album/5LU2gjfuSIb0ZMsmMUwLnz"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160489,
+      "name": "tension",
+      "url": "https://open.spotify.com/track/4chclSZyG4YneO4T1MnVAF"
     },
     {
       "album": {
@@ -9399,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
+    },
+    {
+      "album": {
         "name": "the place i use to hide",
         "url": "https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z"
       },
@@ -9436,6 +9642,42 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115319,
+      "name": "Therapy & Yoga",
+      "url": "https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ"
     },
     {
       "album": {

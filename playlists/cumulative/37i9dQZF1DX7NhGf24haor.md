@@ -4,7 +4,7 @@
 
 > Weekly new Hardstyle releases! Cover: Dual Damage
 
-1,605 songs - 3 day 12 hr 57 min
+1,606 songs - 3 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1362,6 +1362,7 @@
 | [The Lick](https://open.spotify.com/track/7bY6xvJiSTlGzA8ru6Qal7) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [The Lick](https://open.spotify.com/album/2KZccWQWo126r8EZbNPS8Q) | 2:41 | 2024-05-31 | 2024-09-14 |
 | [The Light](https://open.spotify.com/track/5UPrayer3S1fV6hGEN1RVa) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [The Light](https://open.spotify.com/album/3z0yCqptabHnxTY3ZrpP2N) | 3:37 | 2024-12-20 | 2025-01-11 |
 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-12-08 | 2022-12-16 |
+| [The Lost Gods](https://open.spotify.com/track/1Cwazy3Zp1jJDmqlXBoYaN) | [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z), [A\-RIZE](https://open.spotify.com/artist/5AtGLnu8GxRajsCHRxGdOh) | [The Lost Gods](https://open.spotify.com/album/4vhQkZhAnam8fkKs0VXX0H) | 4:14 | 2025-07-17 |  |
 | [The Lottery \(feat\. Hazel\)](https://open.spotify.com/track/590kCpKaMnleCJTEQovLZS) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [The Lottery \(feat\. Hazel\)](https://open.spotify.com/album/0XyorD6llHOavL0RpRuzkL) | 2:34 | 2022-12-08 | 2023-01-27 |
 | [The Maya](https://open.spotify.com/track/1z6rsOOxkp2cqfXmPWIvZH) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [The Maya](https://open.spotify.com/album/5L8u4f7eEcUu4RMKZjU5uA) | 2:51 | 2022-12-08 | 2023-02-24 |
 | [The Maze \(2K19\)](https://open.spotify.com/track/4G90OIPM33JW4HLioF5lR5) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz) | [The Maze \(2K19\)](https://open.spotify.com/album/77eGVGNmqEHZINJWHwWt3p) | 2:26 | 2025-07-17 |  |

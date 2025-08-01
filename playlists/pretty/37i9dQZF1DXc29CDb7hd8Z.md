@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,652 likes - 140 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,651 likes - 140 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 128 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 |
 | 129 | [Spark](https://open.spotify.com/track/79Ga5G6Prf9gdZTBdpKsfr) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4wF8vOTtUdUzSDuRVf0B5V) | 4:24 |
 | 130 | [Underwater Dream](https://open.spotify.com/track/0hrK04TVD8yVaLqCL6Y2a7) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Underwater Dream / Entendre](https://open.spotify.com/album/6ihO3F4qHTaNcyxkygM8OG) | 4:02 |
-| 131 | [8 Memories in Watercolor: No\. 7\. Floating Clouds](https://open.spotify.com/track/6YGfqwcBzKwGgDnyfINTgB) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Warren Lee](https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh) | [Touches & Traces](https://open.spotify.com/album/07lcKgwOWK1SC43nTl2AbW) | 2:26 |
+| 131 | [8 Memories in Watercolor: No\. 7, Floating Clouds \(2002 Revised Version\)](https://open.spotify.com/track/6YGfqwcBzKwGgDnyfINTgB) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Warren Lee](https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh) | [Touches & Traces](https://open.spotify.com/album/07lcKgwOWK1SC43nTl2AbW) | 2:26 |
 | 132 | [Livingston](https://open.spotify.com/track/0l5EqGqQE0UWtPgwYirEub) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [Livingston](https://open.spotify.com/album/00eiQoJymYBMemVaETrkV2) | 2:25 |
 | 133 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 134 | [Melting Heart](https://open.spotify.com/track/1bzMAgjZkfkMjOsjGJpkcp) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Quiet Piano Improvisations, Vol\. 2](https://open.spotify.com/album/4EjYCjwwAVGDGt4wwPgqXd) | 5:02 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 139 | [River Flows In You \- Original](https://open.spotify.com/track/47ZWr1Nb0PUgmKgyg5JkgO) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(Yiruma Piano Collection\)](https://open.spotify.com/album/7mQySyLxOukXItkdPBs90U) | 3:05 |
 | 140 | [India Song \(piano\)](https://open.spotify.com/track/1oqrEcuxbzibmFx8Ebn4Z6) | [Carlos D'Alessio](https://open.spotify.com/artist/5tj60o8qX6VLwdc9zaVvqF) | [India Song et autres musiques de films](https://open.spotify.com/album/1ZVLjN4opMPA2pFyHs63Fs) | 2:46 |
 
-Snapshot ID: `Z7NCVAAAAAC0PHP65FDJie5HwUE7Hphp`
+Snapshot ID: `AAAAAB6G+3OjfqOO3+w8DlRY1QbEdD5q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Recayd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,848 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,860 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [Me Deixe Leve](https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:54 |
 | 5 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 6 | [Alhamdulillah](https://open.spotify.com/track/3MFh3OMYE5895AjHAdGWkK) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [L\. Abner](https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL) | [Alhamdulillah](https://open.spotify.com/album/76QHYTSZxop4CeClYuj3mb) | 1:58 |
-| 7 | [Entrelinhas 2](https://open.spotify.com/track/6Ie9WFB8BlalfwxvLtB3LE) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:33 |
+| 7 | [Entrelinhas 2](https://open.spotify.com/track/6Ie9WFB8BlalfwxvLtB3LE) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:33 |
 | 8 | [Hiperfoco](https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:20 |
 | 9 | [Bala](https://open.spotify.com/track/6cuVMT669LLP4AfocnkZMQ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Bala](https://open.spotify.com/album/22iyjQK3XfR0zudflmq6XO) | 3:15 |
 | 10 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Surf](https://open.spotify.com/track/1bKAAk7flDIrFcCZyhw8qO) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [Surf](https://open.spotify.com/album/1pH6OY9IYNusyWnrVFer7z) | 2:49 |
 | 75 | [BACKSTAGE](https://open.spotify.com/track/1AmlPcx7qZSxXBhpIf2ppm) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [BACKSTAGE](https://open.spotify.com/album/1xnH2MyPBNWTHtOt9a10Sk) | 1:47 |
 
-Snapshot ID: `aILzTQAAAAC/uiVfDyivU8FDlc0JF6hM`
+Snapshot ID: `AAAAAPRaqHvyDfaz7fpUv5V4NwOKDQaW`

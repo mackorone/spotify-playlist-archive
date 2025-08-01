@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABzmZk6GcvPz2fo1kHLKBcZ",
+  "snapshot_id": "aIlggAAAAAD60RKqI28vyFNwPv+3XzPr",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+        "name": "Complicated (feat. Heights)",
+        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
+      "duration_ms": 212399,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
     },
     {
       "added_at": null,
@@ -536,15 +540,15 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 213426,
+      "name": "Young (Belane)",
+      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Care EP",
-        "url": "https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk"
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
       "artists": [
         {
@@ -552,29 +556,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 245925,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Complicated (feat. Heights)",
-        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 212399,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Care EP",
+        "url": "https://open.spotify.com/album/5vWXHtJ5HbfIBKzwQv0wqk"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 245925,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 213426,
-      "name": "Young (Belane)",
-      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
       "duration_ms": 188936,
       "name": "Waste Away - Demo",
       "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So No One Told You Life Was Gonna Be This Way",
+        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 152341,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK"
     },
     {
       "added_at": null,
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Gum",
-      "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     }
   ],
   "unique_name": "This Is The XCERTS",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Luccas Carlos",
-  "num_followers": 437785,
+  "num_followers": 437768,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
+        "name": "moletom",
+        "url": "https://open.spotify.com/album/1i9PuPdCZEBNBfl6Qlgu0h"
+      },
+      "artists": [
+        {
+          "name": "QuatroK",
+          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "moletom",
+      "url": "https://open.spotify.com/track/0GxdPmnAgKLTohbouoZ3vk"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -347,6 +363,22 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -383,38 +415,6 @@
       "duration_ms": 145602,
       "name": "Um Doce, Uma Flor",
       "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
-        "name": "moletom",
-        "url": "https://open.spotify.com/album/1i9PuPdCZEBNBfl6Qlgu0h"
-      },
-      "artists": [
-        {
-          "name": "QuatroK",
-          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "moletom",
-      "url": "https://open.spotify.com/track/0GxdPmnAgKLTohbouoZ3vk"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "Viver de Carinho",
-        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Viver de Carinho",
-      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 221961,
       "name": "MINHA J\u00d3IA",
       "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -707,18 +707,22 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+        "name": "Todas as Saudades",
+        "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
         }
       ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
+      "duration_ms": 173294,
+      "name": "Desperd\u00edcio",
+      "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -755,22 +759,18 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "Todas as Saudades",
-        "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
         }
       ],
-      "duration_ms": 173294,
-      "name": "Desperd\u00edcio",
-      "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+        "name": "\u00c1udios Antigos",
+        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
       },
       "artists": [
         {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+      "duration_ms": 204731,
+      "name": "\u00c1udios Antigos",
+      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
         "name": "P E R T O",
         "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 155205,
       "name": "N\u00e3o Presta",
       "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
-        "name": "\u00c1udios Antigos",
-        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 204731,
-      "name": "\u00c1udios Antigos",
-      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
-        "name": "G\u00e9rbera + Na Proa da Saudade",
-        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Na Proa da Saudade",
-      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 152450,
       "name": "NEM SE O MUNDO ACABAR",
       "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
+        "name": "G\u00e9rbera + Na Proa da Saudade",
+        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Na Proa da Saudade",
+      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
     },
     {
       "added_at": "2025-07-25 20:21:45",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-07-25 20:21:45",
       "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2025-07-25 20:21:45",
+      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
-    },
-    {
-      "added_at": "2025-07-25 20:21:45",
-      "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
     },
     {
       "added_at": "2025-07-25 20:21:45",

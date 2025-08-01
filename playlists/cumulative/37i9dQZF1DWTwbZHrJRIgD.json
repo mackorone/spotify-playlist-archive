@@ -211,6 +211,36 @@
     },
     {
       "album": {
+        "name": "Aavan Jaavan (From \"WAR 2\")",
+        "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "Aavan Jaavan (From \"WAR 2\")",
+      "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
+    },
+    {
+      "album": {
         "name": "Aayi Nai (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc"
       },
@@ -3950,7 +3980,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 194653,
       "name": "Maan Meri Jaan",
       "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"

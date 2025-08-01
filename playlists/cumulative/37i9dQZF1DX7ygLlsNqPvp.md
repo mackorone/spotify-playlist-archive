@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-252 songs - 12 hr 40 min
+253 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Donkomi \- Remix](https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Last Days Are Dangerous](https://open.spotify.com/album/6euaF0PPbfuSgNNa7znaOm) | 3:44 | 2023-11-24 | 2024-01-05 |
 | [Drip \- Remix](https://open.spotify.com/track/6yedhXWR8yd2H47VejP23C) | [Gambo](https://open.spotify.com/artist/4neYBnBpddvie2eAxU7p20), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [1Mb](https://open.spotify.com/album/1OoTv336eyujX9fkneitdN) | 3:15 | 2024-06-28 | 2024-07-07 |
 | [Duna Agbo](https://open.spotify.com/track/0JVS2gEkmnfBw4m63hl8H0) | [Kev & Grenade](https://open.spotify.com/artist/1yOEo7wlLHYqSL3yHYnEc6), [KevTheTopic](https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z), [Nana Grenade](https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K) | [Duna Agbo](https://open.spotify.com/album/33UbxfKSBd5QEOo9pW60xm) | 3:31 | 2024-10-04 | 2024-11-09 |
-| [Eboso](https://open.spotify.com/track/4iZ2QhJBTMr6sjGdxlFuAD) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Eboso](https://open.spotify.com/album/6x8tAgAC4x0iY7o7vpyU2Y) | 2:24 | 2025-03-21 |  |
+| [Eboso](https://open.spotify.com/track/4iZ2QhJBTMr6sjGdxlFuAD) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Eboso](https://open.spotify.com/album/6x8tAgAC4x0iY7o7vpyU2Y) | 2:24 | 2025-03-21 | 2025-08-01 |
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2022-06-09 | 2024-02-03 |
 | [Eye Clear](https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Da Yanney](https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP) | [Eye Clear](https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z) | 1:46 | 2024-07-19 | 2025-01-31 |
 | [Faith](https://open.spotify.com/track/5kF0VDA972ETRkY1Y8v5wH) | [Bosoma](https://open.spotify.com/artist/2OdIbvMTCaQqc1QnhLDSAT) | [Faith](https://open.spotify.com/album/2GC40qAxNSE8RM4jQ5OhFJ) | 2:45 | 2025-02-14 | 2025-02-22 |
@@ -257,6 +257,7 @@
 | [YEDIN](https://open.spotify.com/track/6rdL3EDLxPR4Tq8WJIJ5xC) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [YEDIN](https://open.spotify.com/album/31qXzB7kKOSW6ItiKDN8YA) | 3:10 | 2024-07-19 |  |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2023-01-14 |
 | [Yesu](https://open.spotify.com/track/20a7Vi2E3huh83U2FwT6hW) | [Alhaji Bull](https://open.spotify.com/artist/6kSEocure6XDB5TaHsCmHh), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Yesu](https://open.spotify.com/album/7FtVWBnm7FXUdYt3TL6RLG) | 3:52 | 2025-02-21 | 2025-02-28 |
+| [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-08-01 |  |
 | [Yipi Yoo](https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Yipi Yoo](https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2) | 2:36 | 2025-02-28 |  |
 | [Yopoo](https://open.spotify.com/track/6CSieS8sgMugwPVBuWDZCW) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Yopoo](https://open.spotify.com/album/5ROl4zJAfAliilCB8UD8DO) | 3:25 | 2024-07-26 | 2024-09-28 |
 | [Zongo](https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Sasco Gh](https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT) | [Zongo](https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV) | 3:10 | 2024-02-02 | 2024-03-01 |

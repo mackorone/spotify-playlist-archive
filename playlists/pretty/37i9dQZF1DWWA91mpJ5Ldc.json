@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 135018,
+  "num_followers": 135048,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -167,42 +167,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -223,6 +187,42 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Garota do Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 172618,
-      "name": "Garota do Fant\u00e1stico",
-      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -423,22 +407,18 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "SAGRADO, Vol 2",
-        "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
+        "name": "Garota do Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 222834,
-      "name": "Coisas do Amor (Me Chama)",
-      "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+      "duration_ms": 172618,
+      "name": "Garota do Fant\u00e1stico",
+      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -455,6 +435,26 @@
       "duration_ms": 174361,
       "name": "Mais de N\u00f3s",
       "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "SAGRADO, Vol 2",
+        "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 222834,
+      "name": "Coisas do Amor (Me Chama)",
+      "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
     },
     {
       "added_at": "2025-07-25 17:46:23",

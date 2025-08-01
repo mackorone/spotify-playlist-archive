@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Samurai Jay in cover
+> I brani italiani che abbiamo on repeat  🔁  Noemi e Rocco Hunt in cover
 
 345 songs - 17 hr 34 min
 

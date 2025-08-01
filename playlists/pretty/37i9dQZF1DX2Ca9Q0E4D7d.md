@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,139 likes - 68 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,190 likes - 68 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 67 | [Changing Motion Beta \(54hz\-76hz\)](https://open.spotify.com/track/0ck0NTsKapZeeFxYS1sGPs) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Changing Motion Beta \(54hz\-76hz\)](https://open.spotify.com/album/0X5dUbmVeEt9454fyvRiQL) | 2:40 |
 | 68 | [Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/7j3vvNlU8fl0VNrwHTzd73) | [Sonic Lab](https://open.spotify.com/artist/0UJY3iGsud9VYG9W3MmTYS) | [Sonic Lab](https://open.spotify.com/album/3gkY3lXfjzHTnNifNDjQuL) | 3:20 |
 
-Snapshot ID: `AAAAADPSURlG4s4OP3rHno+O29aIPZB6`
+Snapshot ID: `aHehfgAAAAD+/Y3RqCTmBk5oCm+R4r7g`

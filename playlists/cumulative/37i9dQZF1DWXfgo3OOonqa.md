@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,976 songs - 3 day 12 hr 53 min
+1,979 songs - 3 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Bland Banditer](https://open.spotify.com/track/1J5ES79cOICsM2VNGIZzak) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Bland Banditer](https://open.spotify.com/album/2pvlDls9V2EyYpVA1RBn3X) | 2:47 | 2023-05-18 | 2023-07-07 |
 | [Blessed](https://open.spotify.com/track/5oU7uvacEa6PBClfzFMYRf) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Blessed](https://open.spotify.com/album/6Vf0LVUtEDZhrqgci0GoTy) | 2:27 | 2022-06-17 | 2022-07-22 |
 | [Blessing](https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2) | [Blessing](https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7) | 2:11 | 2022-10-27 | 2023-01-06 |
+| [BLESSING](https://open.spotify.com/track/6vx3VrDIdZQPiER9hsv0mp) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [BLESSING](https://open.spotify.com/album/2y3qiVZIyoaz067l0L3FJG) | 2:24 | 2025-07-31 |  |
 | [Blessings på mig](https://open.spotify.com/track/7pnErcnkduct3tjG396PvC) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Blessings på mig](https://open.spotify.com/album/4WU98agei3uJj9KRNjIRwJ) | 3:09 | 2023-07-27 | 2023-09-08 |
 | [Bli nånting](https://open.spotify.com/track/23u2D3a9rcHqZOKvnuaS6J) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bli nånting](https://open.spotify.com/album/0s8rBLM2MMwvHSt9YDsH1u) | 2:32 | 2021-12-16 | 2022-01-26 |
 | [BLICKA TILLBAKA](https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [BLICKA TILLBAKA](https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9) | 2:48 | 2022-09-15 | 2022-11-12 |
@@ -341,6 +342,7 @@
 | [Ca Va](https://open.spotify.com/track/2rLLw6DD88EnLrRfVk0fhu) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ca Va/Pa](https://open.spotify.com/album/0YqOBA39Otp1yUfrTqGRPo) | 2:36 | 2022-06-17 | 2022-07-08 |
 | [Cali Kush](https://open.spotify.com/track/3qVwBk3tRBfPfd652EZo8Q) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:32 | 2023-04-19 | 2023-05-12 |
 | [CALIENTE](https://open.spotify.com/track/2iPESJih98OZhiXW7JWrj3) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [CALIENTE](https://open.spotify.com/album/6qMxCZITDre61qWKQPcTPu) | 2:00 | 2024-09-19 | 2025-01-24 |
+| [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 | 2025-07-31 |  |
 | [CALLE \- European Remix](https://open.spotify.com/track/0gEnMyJPPdJRukTFH1VMM7) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [CALLE \(European Remix\)](https://open.spotify.com/album/6owGe6E3ZblC1ztBJqmJ2y) | 5:36 | 2023-08-17 | 2023-09-15 |
 | [CALMA](https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [CALMA](https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk) | 2:00 | 2024-05-16 | 2025-01-17 |
 | [CAMARO](https://open.spotify.com/track/4f1bPWI0d6ZfKX5gNsLaxw) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [CAMARO](https://open.spotify.com/album/7w8GmU1ZOcKMgyQE2cZWRA) | 2:31 | 2022-11-04 | 2022-11-25 |
@@ -1400,6 +1402,7 @@
 | [PIMPIN](https://open.spotify.com/track/3M2C3j5l4w85oVQWjbhpkp) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [PIMPIN](https://open.spotify.com/album/4m5WQV2hDW3cwxAwF52DkB) | 2:15 | 2025-06-26 |  |
 | [PINK PANTHER](https://open.spotify.com/track/5stW94lVp9FLXKrSG6uNpx) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Nordik Beatz](https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD) | [PINK PANTHER](https://open.spotify.com/album/57kHLcSSXDQmwC0WTlnqda) | 2:53 | 2023-03-09 | 2023-05-05 |
 | [Pinocchio](https://open.spotify.com/track/0NvdqkFGbvPiH1CcHxx1Q9) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Pinocchio](https://open.spotify.com/album/0pqDgDEzkxCGqU8h0tBP5V) | 1:58 | 2025-06-26 |  |
+| [pippi](https://open.spotify.com/track/6hLpSP9SCZW9KmripG2oEN) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [pippi](https://open.spotify.com/album/2LhAKI5zXiRdKmLkUpegxk) | 2:23 | 2025-07-31 |  |
 | [PIRANHA](https://open.spotify.com/track/6FyruFwg9WTt2yBcABwPHU) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [PIRANHA](https://open.spotify.com/album/2kUQnYp9fnHILpVXWmFj6r) | 2:22 | 2025-05-01 | 2025-07-25 |
 | [PJÄSER](https://open.spotify.com/track/4AIAXSmPdsEjVcr9xdO6BI) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H), [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h) | [PJÄSER](https://open.spotify.com/album/7u4mm0qQlIoWzt2cyPZdX9) | 3:21 | 2022-04-28 | 2022-06-10 |
 | [Platsen](https://open.spotify.com/track/2WLSkmxXfc78plQDoNUiGx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Platsen](https://open.spotify.com/album/2uQbGKfLFdOnXeRoQnJ7rE) | 2:08 | 2022-01-27 | 2022-03-18 |

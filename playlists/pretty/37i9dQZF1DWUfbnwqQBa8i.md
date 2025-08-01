@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from Classical New Releases in 2024\. Cover: Mao Fujita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,395 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 | 74 | [And Some Will Fall \- Edit](https://open.spotify.com/track/3zhI27rwuBWsh1LX4a1UF9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [In A Landscape](https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24) | 4:11 |
 | 75 | [Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 "Actus tragicus": No\. 2, Chöre, Arioso und Aria\. "Gottes Zeit ist die allerbeste Zeit" \(Arr\. Kurtág for Piano 4\-Hands\)](https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Four Hands](https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa) | 2:20 |
 
-Snapshot ID: `AAAAACBaUTMSLoSENgUOs/oD9ivTn2Bv`
+Snapshot ID: `Z1BHxAAAAAAIr0qE1xcey62FEuX9emDq`

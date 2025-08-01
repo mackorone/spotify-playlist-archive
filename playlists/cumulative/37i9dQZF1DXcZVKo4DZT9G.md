@@ -4,7 +4,7 @@
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! ©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
-42 songs - 2 hr 38 min
+43 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 | 2023-07-30 | 2023-08-05 |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 | 2023-08-03 | 2024-08-02 |
 | [『映画クレヨンしんちゃん オラたちの恐竜日記』まもなく公開](https://open.spotify.com/track/1BAOUzRIDTpKpHIlPN6cRW) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『映画クレヨンしんちゃん オラたちの恐竜日記』まもなく公開](https://open.spotify.com/album/41rYSLyAovZPf6ImIh8ltn) | 0:42 | 2024-08-01 | 2024-08-09 |
-| [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/track/0xZ89MpY6uDBPWtcpy1sLf) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/album/53WKC2r54uBatB4eF6OG2Z) | 0:46 | 2024-08-08 |  |
+| [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/track/0xZ89MpY6uDBPWtcpy1sLf) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/album/53WKC2r54uBatB4eF6OG2Z) | 0:46 | 2024-08-08 | 2025-08-01 |
 | [ありの歌](https://open.spotify.com/track/5AoL1SV17GvfEpXrhxaGbb) | [Yanawaraba](https://open.spotify.com/artist/26fgUj6cT6YrmPCc4Ey3e3) | [結\~ベスト&コラボレーション\~/ベスト盤](https://open.spotify.com/album/33QyXOCv3TF3N9o6gaLain) | 2:27 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4HVzTENSxdLPwbvnX5acod) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/0ivMGCmbCGMG3WeDLjUayS) | 4:40 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4yM0EWM14ST6g7rmuOfWue) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/34uGoAPw10Krk7VV1sQ2Qt) | 4:40 | 2023-07-30 | 2024-04-19 |
@@ -35,6 +35,7 @@
 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 | 2023-07-30 |  |
 | [キミに100パーセント](https://open.spotify.com/track/3BPnFpAL02Bos8EoTLnO9R) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 3:20 | 2023-07-30 |  |
 | [ギガアイシテル](https://open.spotify.com/track/51tqiwLXYtYvgO0da3Zx5L) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ) | [ギガアイシテル](https://open.spotify.com/album/77A8FNWXvzTmJk0IqbJXsS) | 4:04 | 2023-07-30 |  |
+| [スパイス](https://open.spotify.com/track/1wotgHglpJRCf5aRFQpn9X) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [スパイス](https://open.spotify.com/album/1JEeiw5l60mhnZCk8AtSEA) | 4:34 | 2025-08-01 |  |
 | [スーパースター](https://open.spotify.com/track/7gArgBSGWsiFrcfZGVBGTg) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [スーパースター](https://open.spotify.com/album/4sxtaTQ2QeWnzgtvWiTOfd) | 3:42 | 2023-07-30 |  |
 | [ハピハピ](https://open.spotify.com/track/4ecUBWw0u8FF7gB6JE53a0) | [Becky](https://open.spotify.com/artist/5zeStppuiuAdHTVpcH2o9C) | [心の星](https://open.spotify.com/album/6a6nqYDtUPQ6MIEsdAeYl9) | 3:16 | 2023-07-30 |  |
 | [ハルノヒ](https://open.spotify.com/track/7GYGVDPbi0zQUBIkuOPAY0) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハルノヒ](https://open.spotify.com/album/5tyY60vM88GlZb3uyQDie7) | 5:26 | 2023-08-03 |  |

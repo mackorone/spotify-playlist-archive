@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Angela Torres",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Emilia.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 193734,
       "name": "100 mil metros",
       "url": "https://open.spotify.com/track/6Q9VND5KYebjLjGTnK5qgh"
@@ -3749,6 +3749,28 @@
     },
     {
       "album": {
+        "name": "INFINITOS COMO EL MAR",
+        "url": "https://open.spotify.com/album/22s9FE5YBqxukxNlmxu7M1"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209686,
+      "name": "INFINITOS COMO EL MAR",
+      "url": "https://open.spotify.com/track/2asUhQ9DDNtVinkQ095Rhm"
+    },
+    {
+      "album": {
         "name": "Inmaduros",
         "url": "https://open.spotify.com/album/60LIgomrMxTo2n9b5Y3wK8"
       },
@@ -3946,7 +3968,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 126315,
       "name": "KHE CALOR",
       "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
@@ -6754,6 +6776,24 @@
       "duration_ms": 221053,
       "name": "Perfecta (Versi\u00f3n 2023)",
       "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
+    },
+    {
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
     },
     {
       "album": {

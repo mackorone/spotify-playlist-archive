@@ -16905,6 +16905,24 @@
     },
     {
       "album": {
+        "name": "YIMAY\u0190",
+        "url": "https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170856,
+      "name": "YIMAY\u0190",
+      "url": "https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7"
+    },
+    {
+      "album": {
         "name": "Yipi Yoo",
         "url": "https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2"
       },
@@ -17004,7 +17022,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"

@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Melodies",
+        "url": "https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306493,
+      "name": "Cosmic Echos",
+      "url": "https://open.spotify.com/track/4HuigiKKmUOzZCLkJ7aZXJ"
+    },
+    {
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
@@ -2669,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
+    },
+    {
+      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A"
       },
@@ -2734,10 +2770,28 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 210313,
       "name": "Keep Walkin'",
       "url": "https://open.spotify.com/track/2wDdtIewggQNN3pLuFPVkF"
+    },
+    {
+      "album": {
+        "name": "Keep Walkin'",
+        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210313,
+      "name": "Keep Walkin'",
+      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
     },
     {
       "album": {
@@ -3754,7 +3808,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"

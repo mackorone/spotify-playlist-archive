@@ -1,12 +1,12 @@
 {
   "description": "New music from Tyler, The Creator, Drake and Offset.",
-  "num_followers": 15992455,
+  "num_followers": 15990641,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKcTnsjlsPBkfh1ae7txfJDrCZwa",
+  "snapshot_id": "AAAAAGVr0jOhHG8mfKr8b2VEbPKfEPYO",
   "tracks": [
     {
       "added_at": "2025-07-28 18:53:19",
@@ -169,6 +169,34 @@
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
+      "added_at": "2025-07-31 04:00:24",
+      "album": {
+        "name": "Only Built 4 Cuban Linx...",
+        "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
+      "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
+    },
+    {
       "added_at": "2025-07-28 18:53:19",
       "album": {
         "name": "Let God Sort Em Out",
@@ -182,6 +210,10 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
           "name": "Pusha T",

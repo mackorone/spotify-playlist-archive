@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 9m88 x Phum Viphurit",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mukio (\u5f35\u7267\u55ac)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172998,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C"
@@ -744,6 +744,24 @@
       "duration_ms": 285089,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV"
+    },
+    {
+      "album": {
+        "name": "Blue Lagoon",
+        "url": "https://open.spotify.com/album/5WXPbyOGHLw9mbc1c7tCHq"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u7267\u55ac",
+          "url": "https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/6yaiTEYSegDkxctBD6tBjO"
     },
     {
       "album": {

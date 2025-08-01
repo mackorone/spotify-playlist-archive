@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,956 likes - 48 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,984 likes - 48 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 29 | [Menuet in G minor HWV 434/4](https://open.spotify.com/track/7xvK3BbE1vDxRThN7SgNB6) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Daria van den Bercken](https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9) | [Handel: Suites for Keyboard](https://open.spotify.com/album/6LqqS3DzmG7EuHPSu3TVxQ) | 3:47 |
 | 30 | [Naive Music: No\. 2, Nocturne](https://open.spotify.com/track/1D1PqVxn8ZzeMA66T7mS1o) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/5YKfDffKCC2f5vmeljPWv2) | 2:35 |
 | 31 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
-| 32 | [Continuum: I](https://open.spotify.com/track/2UjDFvb4aXggDerBtphpq1) | [Jane Antonia Cornish](https://open.spotify.com/artist/7krLA5PivFoG56wnlFHJRy), [Decoda](https://open.spotify.com/artist/5jExU1Kr51WCC5CjqGyhoM) | [Jane Antonia Cornish: Continuum](https://open.spotify.com/album/00aapTRofsjksAH1poSRrj) | 7:24 |
+| 32 | [Continuum I](https://open.spotify.com/track/2UjDFvb4aXggDerBtphpq1) | [Jane Antonia Cornish](https://open.spotify.com/artist/7krLA5PivFoG56wnlFHJRy), [Decoda](https://open.spotify.com/artist/5jExU1Kr51WCC5CjqGyhoM) | [Jane Antonia Cornish: Continuum](https://open.spotify.com/album/00aapTRofsjksAH1poSRrj) | 7:24 |
 | 33 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/3LArRyjSFrKpn36eKMiTeh) | [George Nascimento](https://open.spotify.com/artist/2hfcG7JOmq4zs2rkrM5L7u) | [Relaxing Classical Piano](https://open.spotify.com/album/0c9Gu8sIJ3EHmXRuKKUfD1) | 3:15 |
 | 34 | [Piano Concerto in G Major, M\. 83: II\. Adagio assai](https://open.spotify.com/track/77KgZT5YH762Lh1pSuDYvs) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Simone Dinnerstein](https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [MDR Leipzig Radio Symphony Orchestra](https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ) | [Broadway\-Lafayette](https://open.spotify.com/album/21aXJ5uvtnGNF2LgHg0TjV) | 9:48 |
 | 35 | [Curious](https://open.spotify.com/track/6ljcjizmdPBfA8ltCtpqzb) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [A Different Forest](https://open.spotify.com/album/61GocYuQdVJWZpI1dkcYCb) | 3:30 |

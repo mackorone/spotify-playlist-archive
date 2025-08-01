@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1271,6 +1271,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB"
       },
@@ -1618,7 +1652,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -4234,10 +4268,40 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 195639,
       "name": "\u0e04\u0e07\u0e14\u0e35\u0e16\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e02\u0e32 (Desire)",
       "url": "https://open.spotify.com/track/3nvn1t6aZ4ocg4tqxxVtBn"
+    },
+    {
+      "album": {
+        "name": "Fate \u03a9mega",
+        "url": "https://open.spotify.com/album/1vnKkFW0EK0ihTX5Z912ca"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "\u0e1e\u0e07\u0e28\u0e4c \u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07",
+          "url": "https://open.spotify.com/artist/5qNjSZ0y0Z9qqP1DFC5fnc"
+        },
+        {
+          "name": "\u0e1b\u0e39\u0e48\u0e08\u0e4b\u0e32\u0e19 \u0e25\u0e2d\u0e07\u0e44\u0e21\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/23YWwPEvaO5HLqEMgiUXJa"
+        },
+        {
+          "name": "Lamyai Haitongkam",
+          "url": "https://open.spotify.com/artist/2JERRcsJmtVhbc9uTH7h4t"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263013,
+      "name": "\u0e04\u0e19\u0e08\u0e23\u0e34\u0e07\u0e43\u0e08 (feat. \u0e1e\u0e07\u0e28\u0e4c \u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07, \u0e1b\u0e39\u0e48\u0e08\u0e4b\u0e32\u0e19 \u0e25\u0e2d\u0e07\u0e44\u0e21\u0e04\u0e4c & Lamyai Haitongkam)",
+      "url": "https://open.spotify.com/track/3PRRNMQUjnFbZhvtPd37F3"
     },
     {
       "album": {
@@ -5189,6 +5253,28 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e37\u0e48\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e37\u0e21 (Wasted)",
+        "url": "https://open.spotify.com/album/6iXYUaarDAnZH5j9rJwtSA"
+      },
+      "artists": [
+        {
+          "name": "MEAN Band",
+          "url": "https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG"
+        },
+        {
+          "name": "Zeal",
+          "url": "https://open.spotify.com/artist/6f1tNwK04d6t8jFSOXGvrY"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256049,
+      "name": "\u0e14\u0e37\u0e48\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e37\u0e21 (Wasted)",
+      "url": "https://open.spotify.com/track/1RqIK2jRjU8IrscMQnHZ20"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e39\u0e21\u0e35\u0e44\u0e23 (DO ME RIGHT)",
         "url": "https://open.spotify.com/album/4A5ylS0UkAv23sj1Xa4IHI"
       },
@@ -5582,6 +5668,24 @@
       "duration_ms": 236062,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e01\u0e32\u0e23\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e21\u0e35\u0e09\u0e31\u0e19\u0e04\u0e2d\u0e22\u0e0b\u0e31\u0e1e\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e2a\u0e21\u0e2d",
+        "url": "https://open.spotify.com/album/4w8jrwZXcPv7fol2mFi91A"
+      },
+      "artists": [
+        {
+          "name": "FULL",
+          "url": "https://open.spotify.com/artist/33qb8ygOiyswUe29Dv5FRE"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "\u0e17\u0e38\u0e01\u0e01\u0e32\u0e23\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e21\u0e35\u0e09\u0e31\u0e19\u0e04\u0e2d\u0e22\u0e0b\u0e31\u0e1e\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e2a\u0e21\u0e2d",
+      "url": "https://open.spotify.com/track/4U38O9pdKGcqKwnoo500pg"
     },
     {
       "album": {
@@ -7320,7 +7424,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 232890,
       "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08\u0e17\u0e34\u0e49\u0e07 (boys just wanna be boys) - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e40\u0e08\u0e41\u0e1b\u0e19",
       "url": "https://open.spotify.com/track/19olaj8Ee2wkdH0pEszTBW"
@@ -8328,7 +8432,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 243904,
       "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e42\u0e25\u0e01\u0e08\u0e30\u0e1e\u0e31\u0e07 (Just Realized)",
       "url": "https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,486 songs - 19 day 9 hr 48 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,489 songs - 19 day 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7494,5 +7494,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7484 | [プリズム](https://open.spotify.com/track/3nS2X9u82BDbyuadKIzRT3) | [Uri Nakayama](https://open.spotify.com/artist/2sF48SGYclMSUiGNj8x34b), [南勇介](https://open.spotify.com/artist/4qse6oblCgJi8OEQ1WK05E) | [プリズム](https://open.spotify.com/album/4HvqEmvY9MnZlL54ocnkE8) | 4:42 |
 | 7485 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 |
 | 7486 | [Hello, Anxiety](https://open.spotify.com/track/1ZseaIKt19broBzze3F8hz) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Hello, Anxiety](https://open.spotify.com/album/40squs3MkwvdLQI8FJ9A6p) | 4:24 |
+| 7487 | [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 |
+| 7488 | [emulation \(mode:totonee\)](https://open.spotify.com/track/5XUB5h1kZcFrgLa9RZda3Y) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [emulation](https://open.spotify.com/album/0OQwd9OkjGYKjYk4QCJYDB) | 3:54 |
+| 7489 | [Last Summer](https://open.spotify.com/track/0TrEqlX6NlAI0ghmvlqRSJ) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Last Summer](https://open.spotify.com/album/3uWez8TbuS3tEyT5Mirf0W) | 4:05 |
 
-Snapshot ID: `AAAICswuCwFecns/dI5ngF1YFEa7IIHe`
+Snapshot ID: `AAAIDVTLO4sWLIHVr/qfcg5P4r4SjkKX`

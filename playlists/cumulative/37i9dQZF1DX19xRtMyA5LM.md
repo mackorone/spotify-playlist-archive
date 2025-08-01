@@ -2,7 +2,7 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: SMIB
+> De beste tracks in WS❗️Cover: Esko & Jack
 
 65 songs - 3 hr 1 min
 

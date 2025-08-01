@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,811 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,850 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/5EGjNgoJxZakg7oLhrnKGE) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Cheese \(feat\. Manaka\)](https://open.spotify.com/album/1kmXaI6erGYphtNxdGkmGI) | 2:45 |
 | 60 | [Rouge540 \(feat\. Kohjiya\)](https://open.spotify.com/track/2CW9hvXcfr7R0oxjB5VIaJ) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 3:08 |
 
-Snapshot ID: `aIjiCAAAAACJNlpRqa0EW39y2RvD1gbg`
+Snapshot ID: `AAAAADmbkVbBAtDDgAkRwkh+6rUNvsd5`

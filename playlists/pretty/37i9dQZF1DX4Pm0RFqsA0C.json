@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 7572,
+  "num_followers": 7583,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
-      },
-      "artists": [
-        {
-          "name": "\ucd5c\uc7ac\ud6c8",
-          "url": "https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
-      "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "SHOO. EUGENE. SEA - The 2nd Album",
         "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 216133,
       "name": "\ub108\ub97c \uc0ac\ub791\ud574",
       "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
+      },
+      "artists": [
+        {
+          "name": "\ucd5c\uc7ac\ud6c8",
+          "url": "https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
+      "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Break up With Her",
-      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Eight Times Begin Again",
         "url": "https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189701,
       "name": "\ud604\uba85\ud55c \uc120\ud0dd",
       "url": "https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Break up With Her",
+      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "VOICE MAIL",
+        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "\ud3c9\uc0dd",
+      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
@@ -847,6 +863,22 @@
       "duration_ms": 207693,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -867,22 +899,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "VOICE MAIL",
-        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 217417,
-      "name": "\ud3c9\uc0dd",
-      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 211426,
       "name": "Now",
       "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 193280,
       "name": "\uc0c8",
       "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "\ub108",
+        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "\uc904\ub798",
+      "url": "https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\uc2e0\ud574\ucca0",
         "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ub108",
-        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
+        "name": "Suprise Party Collection",
+        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
       },
       "artists": [
         {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
         }
       ],
-      "duration_ms": 222920,
-      "name": "\uc904\ub798",
-      "url": "https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR"
+      "duration_ms": 265377,
+      "name": "Baekjeonmupae",
+      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1283,22 +1299,6 @@
       "duration_ms": 237706,
       "name": "Hunch",
       "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
-      },
-      "artists": [
-        {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Baekjeonmupae",
-      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
     },
     {
       "added_at": "2024-04-04 20:06:12",

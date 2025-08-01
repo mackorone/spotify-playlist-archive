@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-243 songs - 1 day 8 hr 17 min
+244 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [HOSANNA WORSHIP \- LIVE](https://open.spotify.com/track/4Asm8IIFNfcV3tOsbBCZQ6) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [HOSANNA WORSHIP \(LIVE\)](https://open.spotify.com/album/2fDU0leYnl2rlfPFor0K1a) | 8:48 | 2025-04-11 | 2025-05-09 |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-20 |
 | [I Believe \- Live](https://open.spotify.com/track/08AX9RgUhQFXw3zhE27SE8) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [I Believe \(Live\)](https://open.spotify.com/album/7osnuQho9iApFDA1WRCLOB) | 6:13 | 2024-11-15 | 2025-01-17 |
+| [I Decree \- Live](https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [I Decree \(Live\)](https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli) | 6:06 | 2025-08-01 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-02-23 |  |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2024-02-23 |  |
 | [I Need You \- Live](https://open.spotify.com/track/0YyTm2zoM1hOlcUDNBXE2Z) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [DreySongz](https://open.spotify.com/artist/6hTvRU851v5ocXtb3MBstp) | [No Bounds: The Album](https://open.spotify.com/album/6tRTPgUwjuN50FTUBVtHFn) | 10:34 | 2024-11-29 | 2025-02-28 |
@@ -205,7 +206,7 @@
 | [The Birthing \- Live](https://open.spotify.com/track/43WCDcOYP52dUGtbivUhZa) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [The Birthing \(Live\)](https://open.spotify.com/album/0BKj2PB1oyXMqTY0LyP7fK) | 6:08 | 2024-06-21 | 2024-11-15 |
 | [The Greater One \- Live](https://open.spotify.com/track/4flFxEhEkewMqbCGSA3BFE) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [The Greater One \(Live\)](https://open.spotify.com/album/5vf9ZhUKJgaUM4QmOalVdg) | 5:43 | 2025-04-11 | 2025-05-09 |
 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 | 2024-02-23 | 2024-11-22 |
-| [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 | 2025-06-13 |  |
+| [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 | 2025-06-13 | 2025-08-01 |
 | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/track/6Su3RQXSE6EM0Y7yjP2ZdB) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Favour oke](https://open.spotify.com/artist/0qf4ZwhKZa94xhVHi1n1RJ), [Divine Dambo](https://open.spotify.com/artist/1O08svmPNmRwqRTwD6SBD1) | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/album/5zIhyUluaJE2VEOTW95ofy) | 4:14 | 2024-08-23 | 2024-11-22 |
 | [The Whole Earth Will See \(A.K.A\. America Will See\) \- Live](https://open.spotify.com/track/5K5MC4N7ssLISfrZxsR77c) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [The Whole Earth Will See \(A.K.A\. America Will See\) \[Live\]](https://open.spotify.com/album/5KQVYUBgdMMJHinwxwN9h2) | 5:48 | 2024-07-26 | 2024-11-15 |
 | [There Is No One Like You \- Live](https://open.spotify.com/track/7F8lQye04abqZZGij3meR6) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [There Is No One Like You \(Live\)](https://open.spotify.com/album/6AyUiJe2Lac5IV8Q9hpanp) | 9:07 | 2024-12-27 | 2025-02-28 |

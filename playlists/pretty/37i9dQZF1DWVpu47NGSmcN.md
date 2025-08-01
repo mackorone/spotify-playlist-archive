@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Meiska
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,222 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,219 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
 | 50 | [Cukup Aku](https://open.spotify.com/track/5Jgh4Lp2Fa0HZC1tQOZ2iD) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Cukup Aku](https://open.spotify.com/album/2AFAPvoVwDhqCytQeaux2d) | 4:14 |
 
-Snapshot ID: `aGQUNQAAAACqoXU+U9iA1q9msF7hjDNf`
+Snapshot ID: `AAAAAMHAQ62ZfnkYlyC90k8O4kp2puo/`

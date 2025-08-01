@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sonia Stein",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hania",
   "name": "up next",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 219000,
       "name": "a mo\u017ce?",
       "url": "https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 191184,
       "name": "By\u0142o Min\u0119\u0142o",
       "url": "https://open.spotify.com/track/14kyTL37LotnttqD7X4rqS"
@@ -1596,6 +1596,28 @@
       "duration_ms": 151978,
       "name": "co ty na to?",
       "url": "https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A"
+    },
+    {
+      "album": {
+        "name": "Co za stan",
+        "url": "https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        },
+        {
+          "name": "BRASSERS",
+          "url": "https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Co za stan",
+      "url": "https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC"
     },
     {
       "album": {
@@ -2648,7 +2670,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 173032,
       "name": "Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
       "url": "https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK"
@@ -3862,6 +3884,28 @@
       "duration_ms": 170322,
       "name": "Kolejny Marzec",
       "url": "https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ"
+    },
+    {
+      "album": {
+        "name": "Kompleks Boga",
+        "url": "https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "Szymon Pa\u0142yz",
+          "url": "https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187041,
+      "name": "Kompleks Boga",
+      "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
     },
     {
       "album": {
@@ -5430,6 +5474,28 @@
       "duration_ms": 139821,
       "name": "Nasze lato",
       "url": "https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz"
+    },
+    {
+      "album": {
+        "name": "Nedospane No\u010de",
+        "url": "https://open.spotify.com/album/2OYQW9zMfJSsExgHaWG5dl"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nedospane No\u010de",
+      "url": "https://open.spotify.com/track/7cpiRNXghkaToeZhjMBEoB"
     },
     {
       "album": {
@@ -7628,7 +7694,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 191346,
       "name": "SALTY",
       "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
@@ -7668,6 +7734,24 @@
       "duration_ms": 204902,
       "name": "Sansewierie",
       "url": "https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf"
+    },
+    {
+      "album": {
+        "name": "Seans",
+        "url": "https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219341,
+      "name": "Seans",
+      "url": "https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> faccianuvola, portaci a ballare in <s>primavera</s> estate 🤍
+> C'è qualcosa di grande tra noi e Coez quest'estate ♥‿♥
 
 346 songs - 18 hr 18 min
 

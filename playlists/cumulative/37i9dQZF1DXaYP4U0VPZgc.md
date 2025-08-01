@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-133 songs - 10 hr 6 min
+134 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [angel gate](https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 5:28 | 2022-02-28 |  |
 | [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 | 2023-05-07 | 2024-02-05 |
 | [battle of the shadows](https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [TVアニメ『プリンセス・プリンシパル』オリジナルサウンドトラック「Sound of Foggy London」](https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd) | 3:11 | 2022-02-28 |  |
+| [black rose](https://open.spotify.com/track/47kdai36PQumrONogtXZ39) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [EMIKO](https://open.spotify.com/artist/15K4qWVKoncutEQLppWpj0) | [black rose](https://open.spotify.com/album/21B2UJWG5Y87rjaMAMR9fx) | 4:27 | 2025-08-01 |  |
 | [blaze](https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:03 | 2022-02-28 | 2024-04-19 |
 | [blaze](https://open.spotify.com/track/0NHBMe6nMazA4OwrKELlMX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [blaze](https://open.spotify.com/album/364oSGKKNq5HysFQf3e8pA) | 4:03 | 2022-02-28 |  |
 | [brace up and run!](https://open.spotify.com/track/3StEf16wKvy3VN2k4bb3mH) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 2:32 | 2025-06-28 |  |
@@ -74,7 +75,7 @@
 | [the route of the sun](https://open.spotify.com/track/2z4VRUyZDQI2IYXtzSZZwf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:10 | 2022-02-28 | 2024-04-19 |
 | [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2022-02-28 | 2023-04-15 |
 | [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 | 2022-02-28 | 2024-04-19 |
-| [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK１](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 | 2022-02-28 |  |
+| [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK１](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 | 2022-02-28 | 2025-08-01 |
 | [the world](https://open.spotify.com/track/03wGNAgIlaNUfGOLB8lpcA) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [30th Anniversary Early BEST Collection for Soundtrack](https://open.spotify.com/album/59JBJQI8lO2ltdMWICPdFe) | 5:05 | 2023-12-05 | 2023-12-11 |
 | [the world](https://open.spotify.com/track/5ourOhuQqokWZq7DUcLFtq) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [30th Anniversary Early BEST Collection for Soundtrack](https://open.spotify.com/album/5jEm26kCNc88uMSb8aJfAT) | 5:05 | 2024-01-23 |  |
 | [to the beginning](https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL) | 4:16 | 2022-02-28 |  |

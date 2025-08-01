@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 504918,
+  "num_followers": 505202,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAACSgIPY0pMLaiFAH9T2AHDr",
+  "snapshot_id": "aIlggAAAAADGoy/o69qlB/+Dwl7uj66o",
   "tracks": [
     {
       "added_at": null,
@@ -759,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Lo Que Viene",
-        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 200608,
-      "name": "No Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -811,6 +779,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 200608,
+      "name": "No Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No",
         "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 168087,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Yo Fuera Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
-        }
-      ],
-      "duration_ms": 179201,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 126307,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Yo Fuera Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        }
+      ],
+      "duration_ms": 179201,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
     },
     {
       "added_at": null,

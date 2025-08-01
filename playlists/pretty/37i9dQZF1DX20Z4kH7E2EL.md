@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,053 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,056 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [New New New \- Avicii Remix Extended](https://open.spotify.com/track/5m4O02rJ02ykO6IkN7bdTE) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Vybrate](https://open.spotify.com/artist/0ksCgIZvnTRqDOIIiU1Z2C), [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Makedah](https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [New New New \(Remixes\)](https://open.spotify.com/album/4c7dJxNppVLaH1geKo7FXe) | 8:13 |
 | 80 | [Best Believe](https://open.spotify.com/track/4mt55zXhF2IyLbVhvsOLAb) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Best Believe](https://open.spotify.com/album/2dm5OZS7bL1YCrX2lJZz0H) | 2:59 |
 
-Snapshot ID: `AAAAAM0+bYD2Ywd503frLpRQ9G600Ic7`
+Snapshot ID: `aIOb8wAAAABllgzTGlO8W879LtAFBJo1`

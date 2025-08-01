@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,992 songs - 1 day 16 hr 19 min
+1,993 songs - 1 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1555,6 +1555,7 @@
 | [Slowly Together](https://open.spotify.com/track/7MzzrqnpPWctRTlNLce6ns) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Slowly Together](https://open.spotify.com/album/3ZXfLK6ZAACeIsInxUL5Ud) | 1:00 | 2025-02-10 |  |
 | [Slumber](https://open.spotify.com/track/0EZ1BHJvhPlcnzl6gLpw0e) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Slumber](https://open.spotify.com/album/0UhvtjDrbBxOuMvaunnn7d) | 1:00 | 2024-03-06 |  |
 | [Slumber \- Ambient Cello Version](https://open.spotify.com/track/20slThEtB4bYaQE40c6eak) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Slumber \(Ambient Cello Version\)](https://open.spotify.com/album/53gQeFi2HrFWcVZeFDVLws) | 1:00 | 2024-03-06 |  |
+| [Small](https://open.spotify.com/track/6NHlahgBGbi1AGMkECuuik) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Small](https://open.spotify.com/album/1tkh36UVXqGCmZWSO4qWer) | 1:00 | 2025-07-31 |  |
 | [Small Universe](https://open.spotify.com/track/6U731lD2iPMgsZZ0Q0NxCZ) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:07 | 2022-01-12 |  |
 | [Smiling From Afar](https://open.spotify.com/track/23z8pasmq2XiiBlpxsiWJo) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
 | [So Delightful](https://open.spotify.com/track/0sM3aHTn3r15u0hYEurSxX) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soul Path](https://open.spotify.com/album/0PUgfkmtxNZ4KFNYkVfksT) | 1:04 | 2024-02-09 | 2024-02-13 |

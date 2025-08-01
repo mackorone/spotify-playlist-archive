@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-379 songs - 23 hr 51 min
+380 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Mizhikal](https://open.spotify.com/track/343mJaVSEOGCPzQi2liO5c) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Sebesteena](https://open.spotify.com/artist/2vhFiDb28NHjV4m5ozmeNV) | [Mizhikal](https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY) | 3:14 | 2022-08-01 | 2023-07-29 |
 | [Mizhikalal](https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA) | [Nishad jain](https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC), [Aswin GS](https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa), [Anoop Devadas](https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR) | [Mizhikalal](https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe) | 4:14 | 2023-07-10 | 2023-07-28 |
 | [Mohabbat \- Love with Pride](https://open.spotify.com/track/5V5KX1hSWUxIvwR6Fa6Dwn) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Mohabbat \- Love with Pride](https://open.spotify.com/album/7yGFU0a91t5w56SPBMjLA2) | 3:46 | 2023-07-27 | 2024-02-15 |
+| [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 | 2025-07-31 |  |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 | 2023-07-28 |
 | [Moula Mere](https://open.spotify.com/track/4BosVT8DgK8TYcjpWjbgYs) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Ramees.km](https://open.spotify.com/artist/4YU2FQMxkTQ6aEHwkSV2Z7), [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy) | [Moula Mere](https://open.spotify.com/album/7vC74xe0DHiQeEk0lldKh8) | 4:12 | 2024-04-30 | 2024-11-05 |
 | [Mounam](https://open.spotify.com/track/7FwzgH11q5eScAHu29yyZ0) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Denna Ann Jacob](https://open.spotify.com/artist/1r76R0g2wnNCFtsUnyGa0r) | [Mounam](https://open.spotify.com/album/7cfUJevx9LomCq3gs866P7) | 3:13 | 2024-10-08 | 2025-05-31 |
@@ -277,7 +278,7 @@
 | [Pathiye/Falling](https://open.spotify.com/track/1Mh74FahzlJmLRVGVAbc6N) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Pathiye/Falling](https://open.spotify.com/album/5P3Kev3f1FftOvEVVsOjwV) | 2:41 | 2025-03-11 | 2025-05-31 |
 | [Pattam](https://open.spotify.com/track/1lpFHQZpVa4HmlVuAkd5zZ) | [Ashwin Bhaskar](https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF) | [Pattam](https://open.spotify.com/album/0yw12ah0RmYSYVZqObKylg) | 3:10 | 2024-05-13 | 2024-08-29 |
 | [Pedaapadu](https://open.spotify.com/track/1nKI5BwE9csyWW6TRBfuNC) | [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF) | [Pedaapadu](https://open.spotify.com/album/3kUo1B56MLgCmk6g1anyT7) | 1:20 | 2025-03-17 | 2025-05-24 |
-| [Peruvazhi](https://open.spotify.com/track/2L1bYuqy92C0ZN2HfOopKg) | [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu), [Shybin Kuriakose](https://open.spotify.com/artist/6Eb8yt7BTItNh2cwGsvL9Z) | [Maalayogam](https://open.spotify.com/album/0rpW5cp5RBxg7csxdB1blB) | 2:13 | 2025-06-29 |  |
+| [Peruvazhi](https://open.spotify.com/track/2L1bYuqy92C0ZN2HfOopKg) | [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu), [Shybin Kuriakose](https://open.spotify.com/artist/6Eb8yt7BTItNh2cwGsvL9Z) | [Maalayogam](https://open.spotify.com/album/0rpW5cp5RBxg7csxdB1blB) | 2:13 | 2025-06-29 | 2025-08-01 |
 | [Pilleranu](https://open.spotify.com/track/0yf1E6IHDdHb3iDeJseptM) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 5:35 | 2024-01-15 | 2024-04-19 |
 | [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 | 2024-06-29 |
 | [Pollapp](https://open.spotify.com/track/27WmCqNjk8RYei7YVR9poC) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m) | [Pollapp](https://open.spotify.com/album/3FTQgre662MoJ6t3WnFYf3) | 3:21 | 2025-07-25 |  |

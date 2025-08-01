@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,276 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,477 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 99 | [I'm Not In Love](https://open.spotify.com/track/6B9hL79uAga4MbKPHlTEJ6) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [I'm Not In Love](https://open.spotify.com/album/7zQrgdNXkKwGUV0d1XjVkF) | 2:43 |
 | 100 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
 
-Snapshot ID: `AAAAAEugOrzswktVVR6SItHFHQwiNl4L`
+Snapshot ID: `aHYLngAAAAAtjiuf9JOOeXnwin9MBKI4`

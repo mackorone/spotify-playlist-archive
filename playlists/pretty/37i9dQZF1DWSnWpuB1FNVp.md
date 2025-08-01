@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnWpuB1FNVp.md) - [plain]
 
 > Barack and Michelle Obama's favorite songs from summer 2019!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,010 likes - 44 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,016 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnWpuB1FNVp.md) - [plain]
 | 43 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 |
 | 44 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
 
-Snapshot ID: `ZLrwDgAAAAA7ycPTxpu4K9Gn+tQi8iCq`
+Snapshot ID: `AAAAAAlQZ6B6eX04nhEQGlkInT8b+4u5`

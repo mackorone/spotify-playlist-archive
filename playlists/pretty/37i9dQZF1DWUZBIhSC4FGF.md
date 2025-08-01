@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,643 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,848 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 52 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 |
 | 53 | [76k](https://open.spotify.com/track/6NbMq76XHUqt23syNf3lhJ) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [1960](https://open.spotify.com/album/20V7AioNpLxsYcxYv53lrV) | 3:06 |
 | 54 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 |
-| 55 | [Cappuccino Lovely: No\. 2\. Milk](https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 4:49 |
+| 55 | [Cappuccino Lovely: No\. 2, Milk](https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 4:49 |
 | 56 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 |
 | 57 | [Mystic Journe](https://open.spotify.com/track/2jEmGsN0by6lQLOTlrVGWM) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [Mystic Journe](https://open.spotify.com/album/25z5pYbT9YsXcDAoubpfcj) | 1:55 |
 | 58 | [Mindful Savanna](https://open.spotify.com/track/1MTAXqMjy1sQwe2gVgL7om) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:21 |

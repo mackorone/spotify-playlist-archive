@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Afra x Sefo
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Poizi x Murat Boz
 
 185 songs - 9 hr 16 min
 

@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: AFROJACK, Martin Garrix, David Guetta, Amél
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Pickle
 
-1,802 songs - 3 day 14 hr 20 min
+1,803 songs - 3 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1626,6 +1626,7 @@
 | [Time Machine](https://open.spotify.com/track/6jl8gDM9NRcK59MflJP0Qg) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r) | [Time Machine](https://open.spotify.com/album/761EmE26ty1yb1nD9UQSVz) | 2:31 | 2024-01-26 | 2024-02-10 |
 | [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-09-27 | 2024-10-18 |
 | [TIPSY](https://open.spotify.com/track/3m7bVh7Piw5MTQibIK8KM1) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [TIPSY](https://open.spotify.com/album/0mXgqYGXwlCQtcYZORLygx) | 2:53 | 2023-09-15 | 2023-12-14 |
+| [Tipsy](https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Tipsy](https://open.spotify.com/album/3IyGkzK36EXUIivyJ8dzeN) | 2:47 | 2025-07-31 |  |
 | [TKM](https://open.spotify.com/track/0KESlOROu9lFyAOHiuvr1N) | [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy), [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [TKM](https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf) | 2:33 | 2025-01-30 | 2025-04-19 |
 | [To The Edge](https://open.spotify.com/track/5locnXN3gjFhKzUaqBEZEk) | [Martin Eriksson](https://open.spotify.com/artist/3bL6gd5DCdIrBccQXlBTH2) | [To The Edge](https://open.spotify.com/album/4L9J6pGgnFvCcUUmcsTl5H) | 2:35 | 2022-07-22 | 2022-08-06 |
 | [To The Left To The Right](https://open.spotify.com/track/1ukSIcoQr0KbqozkX8MxKH) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [To The Left To The Right](https://open.spotify.com/album/2Red7qgHIqwJdQcg3CTt0F) | 2:24 | 2023-02-24 | 2023-03-04 |

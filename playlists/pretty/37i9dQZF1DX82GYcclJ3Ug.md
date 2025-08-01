@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,530 likes - 124 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,538 likes - 124 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Honestly](https://open.spotify.com/track/3GZwRP4WxeKomaDxggYmru) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Honestly](https://open.spotify.com/album/4BTHoodeoCBEsYHD9DrTgW) | 3:38 |
 | 124 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 |
 
-Snapshot ID: `AAAAADRWKwoBvKVpNTfcWgNNHrWuXmbE`
+Snapshot ID: `aIMBaAAAAAC4uluFpM72cHXpYSreH90g`

@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Makosa",
+        "url": "https://open.spotify.com/album/45FeNg0wBaRYc7xnvtBLwa"
+      },
+      "artists": [
+        {
+          "name": "Obby Alpha",
+          "url": "https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Makosa",
+      "url": "https://open.spotify.com/track/4YRX9ycv7brEgOEiGKjxJT"
+    },
+    {
+      "album": {
         "name": "Malaika x Bien",
         "url": "https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3"
       },

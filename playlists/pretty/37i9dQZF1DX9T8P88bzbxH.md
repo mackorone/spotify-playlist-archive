@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Thirsty? Jay Park’s bringing the smoothest setlist\. Cover: Jay Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,619 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,610 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 39 | [DNA Remix](https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [365LIT](https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Choo](https://open.spotify.com/artist/6hAqtKCaOISAG24LhlNqdr), [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [DNA Remix](https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA) | 6:50 |
 | 40 | [The Purge](https://open.spotify.com/track/3gGyzpBLb7pqOw5oC47QaV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:41 |
 
-Snapshot ID: `aHSpHAAAAAAT2cL28L/X+U5rOhcB3V94`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

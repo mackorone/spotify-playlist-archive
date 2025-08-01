@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-657 songs - 1 day 8 hr 45 min
+661 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ekana](https://open.spotify.com/track/35zQA4ZcPpUv1CX5JSPCIF) | [Nasri](https://open.spotify.com/artist/7acOpaL3oIdFw8NugTqMJm) | [Ekana](https://open.spotify.com/album/6vLBltWNU8MI9NqDID036W) | 2:08 | 2024-07-02 | 2024-07-12 |
 | [El Yksinäinen Uta Saa](https://open.spotify.com/track/11OJGSUnnOxXdPQWoO6f75) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [El Yksinäinen Uta Saa](https://open.spotify.com/album/6zKjK0lprcTBkGcV2wPePI) | 3:47 | 2024-10-17 | 2024-10-25 |
 | [Elina](https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Elina](https://open.spotify.com/album/0TXSaiioO53QlKnuePS0Zt) | 2:48 | 2024-10-24 | 2025-01-03 |
+| [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 | 2025-07-31 |  |
 | [Elämä on](https://open.spotify.com/track/1amuQc6v9xWbgsdq4YyaMe) | [Katri Ylander](https://open.spotify.com/artist/3mg3tHkrHDJfSoZnslKvI2) | [Elämä on](https://open.spotify.com/album/46LJKnbmDWdvMiVlDQdAVn) | 2:49 | 2025-05-08 | 2025-06-20 |
 | [Elämä on elämää \- Vain elämää kausi 15](https://open.spotify.com/track/2bAQDFfY2LblZuJFHcxWMt) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Elämä on elämää \(Vain elämää kausi 15\)](https://open.spotify.com/album/591ixr7AzUaiUssI0mhwZX) | 3:09 | 2024-11-07 | 2024-11-15 |
 | [Elämää](https://open.spotify.com/track/5m0k08yKvP86Es3VB6Eglc) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Paha maa](https://open.spotify.com/album/3eEACvL4jEhDbbjHIh5fvx) | 2:36 | 2024-10-17 | 2024-11-08 |
@@ -129,6 +130,7 @@
 | [Hautaa mut](https://open.spotify.com/track/51G3X9QoWDBZlo8xXlSz6R) | [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [10](https://open.spotify.com/album/0J33R8PPa79fcIGvtZ0fgS) | 3:46 | 2025-03-27 | 2025-04-11 |
 | [Hei hei ja hyvästi](https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Hei hei ja hyvästi](https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb) | 2:28 | 2025-01-02 | 2025-01-31 |
 | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4) | 2:47 | 2024-08-29 | 2024-09-13 |
+| [Helpompaa](https://open.spotify.com/track/32bnxGecUeJzzVazFQqX3l) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Helpompaa](https://open.spotify.com/album/2DW2DNECnPTWeEuSSj2IIi) | 2:30 | 2025-07-31 |  |
 | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo) | [AikaPoliisi](https://open.spotify.com/artist/2k8fCxI9Og8jLjsYmotd7J) | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw) | 3:45 | 2025-05-01 |  |
 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 | 2025-01-09 | 2025-05-30 |
 | [Hopeareunus](https://open.spotify.com/track/3hAsDXGDuNmfFCq6wLW7lu) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A) | [Hopeareunus](https://open.spotify.com/album/2H6aL1K5b39h0Znc1IGTA0) | 2:46 | 2025-06-19 | 2025-07-04 |
@@ -185,6 +187,7 @@
 | [Järvi](https://open.spotify.com/track/1VU75DWLqlY0htSemLfXHL) | [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Järvi](https://open.spotify.com/album/0kOrPGaGgTqMmQh8Et3IPG) | 3:01 | 2024-07-02 | 2024-08-30 |
 | [Jätä mut](https://open.spotify.com/track/4uzfJQ2P4m9fClDGixOTUx) | [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Jätä mut](https://open.spotify.com/album/0EhOeNcSFPOFwHCWeE4R36) | 3:28 | 2025-01-09 | 2025-02-07 |
 | [Jää mun viereen](https://open.spotify.com/track/7I4B447EyCUwweN5BcMdZ7) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Jää mun viereen](https://open.spotify.com/album/25QooaLdcPOC8dAUAmn8pN) | 2:47 | 2025-06-26 |  |
+| [Jäässä \(Pam Pam\)](https://open.spotify.com/track/2na4yaqFENakhLILLS2vx6) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Jäässä \(Pam Pam\)](https://open.spotify.com/album/6koxF5lvaXPEAH4WiH16Q2) | 2:58 | 2025-07-31 |  |
 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 | 2025-03-06 | 2025-04-18 |
 | [Kahden kodin välissä](https://open.spotify.com/track/0WmEqqcDxWSuwAVCQXcNpw) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Kahden kodin välissä](https://open.spotify.com/album/4VlMThUaPVmk7gyuuUMWh6) | 3:06 | 2024-11-21 | 2025-01-03 |
 | [Kahden sydämen törmäys](https://open.spotify.com/track/0euUqu9VKnJANjO33EG9CT) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kahden sydämen törmäys](https://open.spotify.com/album/6grirshEGLT9DRl5yxy7XC) | 3:40 | 2024-09-26 | 2024-10-25 |
@@ -382,6 +385,7 @@
 | [Nuori & kuolematon](https://open.spotify.com/track/2atByJ9SAhyxRncHVEcJqs) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Nuori & kuolematon](https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc) | 2:33 | 2025-02-13 | 2025-04-04 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-06 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/5syJf0eS8aOziKeSFe4APG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:32 | 2024-10-17 | 2024-11-29 |
+| [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 | 2025-07-31 |  |
 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 | 2025-02-14 |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 | 2024-09-06 |
 | [Odota Remix](https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq) | [Aikakone](https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv), [niinja](https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7) | [Odota Remix](https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe) | 3:01 | 2024-12-26 | 2025-01-10 |

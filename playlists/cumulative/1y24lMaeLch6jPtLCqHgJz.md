@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-418 songs - 21 hr 6 min
+419 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Louder](https://open.spotify.com/track/4vP7e9z9WyRngJN4jzdm1S) | [Adaptiv](https://open.spotify.com/artist/6IPc2gsAni4QtYNmv1U6nc) | [Louder](https://open.spotify.com/album/1o5bJELjp4AgP0zDK3H8XM) | 2:38 | 2024-04-18 | 2024-11-30 |
 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2023-06-02 |  |
 | [Lullaby](https://open.spotify.com/track/0xzFqTmhALsq6baVbkXJYD) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Lullaby](https://open.spotify.com/album/3fDTN7pmhdXaLmmA3TCavM) | 3:09 | 2025-02-20 | 2025-03-13 |
+| [Make You Dance](https://open.spotify.com/track/5gHGLBWGSaBVvHT88VktRf) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Make You Dance](https://open.spotify.com/album/2OJL1a3IENdAKYHYfoCRNW) | 3:17 | 2025-07-31 |  |
 | [MAKI](https://open.spotify.com/track/6A307UCF6uSDhc6nFv3rB4) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5GcKpNowan68GzPLcW1WKX) | 3:20 | 2022-07-29 | 2022-09-10 |
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 | 2023-07-14 |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 | 2022-10-15 |

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Kai Bosch
+> Discover your new favourite artists from UK&IE\. Cover: Elliot Schooling
 
-321 songs - 17 hr 17 min
+322 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Loud](https://open.spotify.com/track/3eTH67em8ZO5qzbv3w0w1L) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/1cRWqwiwrA2cVSXbyysn94) | 4:00 | 2024-01-19 | 2024-04-19 |
 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-14 |  |
 | [Love Me \(feat\. Eldé\)](https://open.spotify.com/track/5vyRcWC2wMZKtXo4vQwotg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Eldé](https://open.spotify.com/artist/75PJwM8YidQKbJyGQwPQIA) | [Love Me](https://open.spotify.com/album/2OT9MytCtXGf4r91rsabT5) | 3:47 | 2023-09-07 |  |
+| [Love Stance](https://open.spotify.com/track/4tzPJX7BGhCPuAV2zjJ7fU) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu) | [Love On](https://open.spotify.com/album/76m8G5GNFwilDWPvfk7gNJ) | 3:04 | 2025-07-31 |  |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-05-30 |  |
 | [lvl 1 \- HOME ALONE](https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 1 \- HOME ALONE](https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN) | 3:30 | 2025-02-07 |  |
 | [Mademoiselle](https://open.spotify.com/track/6MGLQRKop0hKfWkeyln5p7) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle), [Chris Kabs](https://open.spotify.com/artist/1cFEPWsvZm4bwiBcoqELG9) | [Mademoiselle](https://open.spotify.com/album/000JMiqsaAikfjgWrBUJ1a) | 3:25 | 2022-02-18 |  |

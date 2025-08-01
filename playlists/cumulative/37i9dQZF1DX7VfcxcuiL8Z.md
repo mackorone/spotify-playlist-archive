@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Nine Inch Nails
+> The best in new rock\. Cover: NO CIGAR
 
-414 songs - 1 day 0 hr 16 min
+417 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-03 | 2025-01-17 |
 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 | 2025-05-29 |  |
 | [Miracle Cure](https://open.spotify.com/track/4HOLiNS1zFkQwpD2yOedva) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [Miracle Cure](https://open.spotify.com/album/5RwMhK86S8IDvIwWKX7y8y) | 3:00 | 2025-04-10 | 2025-07-25 |
+| [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:24 | 2025-07-31 |  |
 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-04-09 | 2024-09-13 |
 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 | 2024-11-22 |
 | [My Blood](https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [My Blood](https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf) | 4:05 | 2025-01-09 | 2025-05-02 |
@@ -324,8 +325,9 @@
 | [Spezial](https://open.spotify.com/track/0Co5koTVt517q1N5J9BNiM) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [The Terrys](https://open.spotify.com/album/68b5a3uX42PXw7Dpv5yGsl) | 2:35 | 2025-07-24 |  |
 | [Spiraling](https://open.spotify.com/track/4tpCyzL8x2avZAlywYVpIE) | [Liam Finn](https://open.spotify.com/artist/76x0C9paLCrLEiGSVVcC1m) | [Spiraling](https://open.spotify.com/album/0gId1JNOOK6JZqPOM4KVdP) | 2:42 | 2024-06-20 | 2024-08-09 |
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-04-09 | 2024-09-06 |
+| [Star Child](https://open.spotify.com/track/1WxWi7a1JfrLnJPxhYHgbp) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [Star Child](https://open.spotify.com/album/2FHZFt9MXy4rtuBbmiwotd) | 3:06 | 2025-07-31 |  |
 | [Starlight](https://open.spotify.com/track/5LURruNldb6rn0sABAw4qJ) | [The Superjesus](https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd) | [The Superjesus](https://open.spotify.com/album/3RivF2UJ1HOqWa3XH6dulG) | 5:19 | 2025-03-20 | 2025-06-20 |
-| [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 | 2025-05-22 |  |
+| [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 | 2025-05-22 | 2025-08-01 |
 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:26 | 2024-11-15 | 2025-04-11 |
 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 | 2025-07-17 |  |
 | [Strange Place](https://open.spotify.com/track/0mz5SWYPnVLjReRyOB5ItI) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [Strange Place](https://open.spotify.com/album/4RejF2vhT7y1NwE080Hy0i) | 2:50 | 2025-06-26 |  |
@@ -342,7 +344,7 @@
 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 | 2024-10-10 | 2025-07-11 |
 | [Taught by Experts](https://open.spotify.com/track/6uY90KiItyiy7Zh9v1pZLa) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Taught by Experts](https://open.spotify.com/album/0scNkybavk92Oy52wopl8l) | 3:01 | 2024-08-01 | 2024-10-18 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2024-12-13 |
-| [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 |  |
+| [That's What You Do For Love](https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [That's What You Do For Love](https://open.spotify.com/album/1eJIgChtTpPU9PruenGRNo) | 5:24 | 2025-05-29 | 2025-08-01 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-08-09 |
 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-24 | 2025-03-21 |
 | [The Boys](https://open.spotify.com/track/6FTChvJuNl0PN4hPgeH0F0) | [Porpoise Spit](https://open.spotify.com/artist/6WGOUJ693ivV5Dfkb9Ld4c) | [The Boys](https://open.spotify.com/album/6eJTGE9ERT9wvWg8HZhZ7a) | 4:23 | 2025-07-24 |  |
@@ -382,6 +384,7 @@
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-23 | 2024-10-11 |
 | [Unborn](https://open.spotify.com/track/5czWYoKZkuXWzOzmZhVYtp) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [SURFACING](https://open.spotify.com/album/2BxES4GiO5LdChisskcSde) | 4:25 | 2024-05-02 | 2024-07-05 |
 | [under the knife](https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:58 | 2025-04-03 | 2025-05-09 |
+| [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 | 2025-07-31 |  |
 | [Unknown Pretenders](https://open.spotify.com/track/1qGcw1IcdXdL0Y9IEKWOKb) | [Grinspoon](https://open.spotify.com/artist/04qi4CymYf3E50Mt2na4QS) | [Unknown Pretenders](https://open.spotify.com/album/287d8ZNc3zrDVEIcxejd0i) | 2:40 | 2024-05-23 | 2024-12-13 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-05-02 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
@@ -419,7 +422,7 @@
 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-06 | 2024-09-20 |
 | [You've Got To Move](https://open.spotify.com/track/19jIWKn3jNaSA2yOQ0NU86) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [You’ve Got To Move](https://open.spotify.com/album/3vv2MqJbLfepSWf5UDZVj8) | 3:51 | 2024-07-25 | 2024-10-25 |
 | [you.](https://open.spotify.com/track/3HkmLtVDkA5Tn6rdqfCe3I) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [you.](https://open.spotify.com/album/3PMrXih711ERK2OKSSHepA) | 3:48 | 2025-01-09 | 2025-04-18 |
-| [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 |  |
+| [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-08 | 2025-08-01 |
 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 | 2024-10-31 | 2025-04-18 |
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 |  |
 

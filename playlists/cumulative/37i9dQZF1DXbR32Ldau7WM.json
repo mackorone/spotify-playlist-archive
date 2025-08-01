@@ -4889,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "HUGs",
+        "url": "https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333283,
+      "name": "HUGs",
+      "url": "https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk"
+    },
+    {
+      "album": {
         "name": "AXIS",
         "url": "https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ"
       },
@@ -16754,7 +16772,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 207213,
       "name": "\u30a8\u30de",
       "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"

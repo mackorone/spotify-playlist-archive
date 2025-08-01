@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Coolie
 
-229 songs - 13 hr 30 min
+230 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 | 2022-11-07 | 2025-01-10 |
 | [Rise Of Dragon \- From "Dragon"](https://open.spotify.com/track/2SD9x7M7leWlQr2JCm0iH4) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Rise Of Dragon \(From "Dragon"\)](https://open.spotify.com/album/2JkTGGPdTG0V4MnkCfNN4i) | 3:30 | 2025-01-02 | 2025-06-04 |
 | [Rum Bum Bum \- From "Coffee With Kadhal"](https://open.spotify.com/track/2cbiTkaQ6x1Di9x0EwKI6x) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Rum Bum Bum \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/3NvfKBLQsepovjmw6NuwWK) | 4:55 | 2022-07-04 | 2022-08-30 |
+| [Salambala \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sai Abhyankar](https://open.spotify.com/artist/0IGkkVaduIES5pHPo2y5k8), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Salambala \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG) | 3:27 | 2025-07-31 |  |
 | [Sangu Chakkara Kannu \(From "Enjoy"\)](https://open.spotify.com/track/50b8l1C34UXaqa6gImVwPa) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [K M Rayan](https://open.spotify.com/artist/0BBW3nUjf3qYlK90OaGKfi), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Sangu Chakkara Kannu \(From "Enjoy"\)](https://open.spotify.com/album/4pygkPavZYaA3pwq34zZBk) | 3:23 | 2022-12-05 | 2023-02-07 |
 | [Sawadeeka](https://open.spotify.com/track/6rBVElfdgf9wk6R1G3gl5o) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 3:24 | 2025-06-03 |  |
 | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT) | 3:24 | 2024-12-27 | 2025-06-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,931 likes - 48 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,955 likes - 48 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 47 | [Sukendleleni](https://open.spotify.com/track/1lKqP0GH6cZ6zMtmUTJWs5) | [Jobe London](https://open.spotify.com/artist/7lMfBtLu5FaWha78wCKYr2), [Mphow69](https://open.spotify.com/artist/6wljvhU443QTMWgw4rReMt), [Kamo Manje](https://open.spotify.com/artist/7CP3RpIhl1E6hLMni69i9u) | [Sukendleleni](https://open.spotify.com/album/75ssx7aJEUSqR2uzXL9jAq) | 6:54 |
 | 48 | [Wetsalang \(feat\. Ricky Lenyora & Vaal Nation\)](https://open.spotify.com/track/5CfQt2O77JvrkV4eoTdI94) | [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ricky Lenyora](https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ), [Vaal Nation](https://open.spotify.com/artist/4SEAtCDp17mFVg7esfkUiW) | [The Konka Mixtape : Sweet & Dust](https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f) | 4:34 |
 
-Snapshot ID: `AAAAAHLECnakNjoDcAQ7GP4sEuFZdTQR`
+Snapshot ID: `Z23uIQAAAABFm5W+MzjhkMjPcCYFxzJF`

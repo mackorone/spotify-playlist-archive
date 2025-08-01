@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 689123,
+  "num_followers": 689203,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAACbHQjuzflttDi1zcrKRsyI",
+  "snapshot_id": "aIlggAAAAABynZSe/qoJPoK5jSVCwVeb",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 321173,
+      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
+      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -647,22 +671,6 @@
       "duration_ms": 289560,
       "name": "Vogue - Edit",
       "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -699,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Veronica Electronica",
         "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
       },
@@ -708,17 +732,13 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+          "name": "Peter Rauhofer",
+          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
         }
       ],
-      "duration_ms": 321173,
-      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
-      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
+      "duration_ms": 314066,
+      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
+      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
     },
     {
       "added_at": null,
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Veronica Electronica",
-        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Peter Rauhofer",
-          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
-      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 241600,
       "name": "Dress You Up",
       "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Victor Calderone",
+          "url": "https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Sky Fits Heaven - Victor Calderone New Edit",
+      "url": "https://open.spotify.com/track/6tiOODXMVOZ4pDtvhnaTEn"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Veronica Electronica",
-        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Victor Calderone",
-          "url": "https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Sky Fits Heaven - Victor Calderone New Edit",
-      "url": "https://open.spotify.com/track/6tiOODXMVOZ4pDtvhnaTEn"
     }
   ],
   "unique_name": "This Is Madonna",

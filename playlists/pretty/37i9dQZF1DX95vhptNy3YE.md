@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Bela Maria e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,111 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,090 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 18 | [Medley de Igaratá 4](https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:59 |
 | 19 | [Avançando Muito](https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [beira.wav](https://open.spotify.com/artist/5hqyBZU3Hdg0HfT5VUURTB) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 4:11 |
 | 20 | [Já É \- Ao Vivo Em Brasília](https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Já É \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3) | 3:27 |
-| 21 | [Trajetória / Caminho Sem Amor / Ela](https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando](https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK) | 5:01 |
-| 22 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 21 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 22 | [Trajetória / Caminho Sem Amor / Ela](https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando](https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK) | 5:01 |
 | 23 | [NOITE PERFEITA](https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:48 |
 | 24 | [FEBRE](https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:58 |
 | 25 | [Quando Você Ligou](https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb) | [Quando Você Ligou](https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh) | 3:09 |

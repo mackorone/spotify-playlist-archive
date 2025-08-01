@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-21 songs - 9 hr 25 min
+21 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2020-11-27 |  |
 | [Norah Jones](https://open.spotify.com/episode/6Db8HyyK2vMteKwVoC1Bej) | [Anna Faris Is Unqualified](https://open.spotify.com/show/6ubUV2saxlMsNlrjK0oLqV) | [Anna Faris Is Unqualified](https://open.spotify.com/album/6ubUV2saxlMsNlrjK0oLqV) | 1:22:08 | 2020-11-27 |  |
 | [Season 1 Mike On Much: Jason Mraz \(\#123\)](https://open.spotify.com/episode/52Egi5VmJStEPEtNMSwb59) | [The Best Hang Podcast](https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2) | [The Best Hang Podcast](https://open.spotify.com/album/5jZSR5YDg2WzSkvo5fFYO2) | 1:08:52 | 2020-11-27 |  |
-| [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:56:11 | 2020-11-27 |  |
+| [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:58 | 2020-11-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:39 | 2020-11-27 |  |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |
 | [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 30:19 | 2020-11-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "In loving memory of the legendary Bra Feya Faku. ",
-  "num_followers": 11461,
+  "num_followers": 11465,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 418730,
+      "name": "Clarion Call",
+      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "When We Love",
         "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 338800,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "In The Wake",
-        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 418730,
-      "name": "Clarion Call",
-      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "Healing Palms",
-        "url": "https://open.spotify.com/album/2GExZE0oMZt8jL808N9CMw"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Baloyi",
-          "url": "https://open.spotify.com/artist/1jix0ggd0EXvBNUwgLa2vS"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/617puW9UmDJhalpAwbcenP"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "Bela Bela (Live Studio)",
         "url": "https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 398173,
       "name": "Bela Bela - Live Studio",
       "url": "https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "Healing Palms",
+        "url": "https://open.spotify.com/album/2GExZE0oMZt8jL808N9CMw"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Baloyi",
+          "url": "https://open.spotify.com/artist/1jix0ggd0EXvBNUwgLa2vS"
+        }
+      ],
+      "duration_ms": 291520,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/617puW9UmDJhalpAwbcenP"
     },
     {
       "added_at": "2025-06-24 13:36:01",

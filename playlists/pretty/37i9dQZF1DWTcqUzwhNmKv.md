@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Dayseeker are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586,274 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586,454 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 |
 | 80 | [Incinerate](https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Incinerate](https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj) | 3:07 |
 
-Snapshot ID: `aIM3OwAAAAA10wj6m8ae9xDWqQJtwi3u`
+Snapshot ID: `AAAAALC1EAea5i2fFn06FOGwoUC4b4/i`

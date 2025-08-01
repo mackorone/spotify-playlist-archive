@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Smolasty",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Carla Fernandes",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 187563,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/4wf072znJkTL5cIWXfVME7"
@@ -3932,6 +3932,28 @@
       "duration_ms": 225550,
       "name": "Komary",
       "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
+    },
+    {
+      "album": {
+        "name": "Kompleks Boga",
+        "url": "https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "Szymon Pa\u0142yz",
+          "url": "https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187041,
+      "name": "Kompleks Boga",
+      "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
     },
     {
       "album": {
@@ -8270,7 +8292,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 189554,
       "name": "sam na \u015bwiecie",
       "url": "https://open.spotify.com/track/21ls6f3Hx3C60odiucKf5E"
@@ -10456,6 +10478,24 @@
       "duration_ms": 172790,
       "name": "Wszystko mi jedno",
       "url": "https://open.spotify.com/track/0iPxTaRsRpdwsEujK2lTzs"
+    },
+    {
+      "album": {
+        "name": "Wszystko to co mam",
+        "url": "https://open.spotify.com/album/2tlCWe1CyjyFeSdsGiQml4"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Wszystko to co mam",
+      "url": "https://open.spotify.com/track/3Kh416a8JnWNMdB8lGpnbH"
     },
     {
       "album": {

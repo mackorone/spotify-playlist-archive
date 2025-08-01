@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Soft Bait",
+  "description": "The best new music from the wide world of punk. Cover: IDLES",
   "name": "All New Punk",
   "tracks": [
     {
@@ -756,6 +756,24 @@
       "duration_ms": 319440,
       "name": "6 In The Morning",
       "url": "https://open.spotify.com/track/1iL1mld9Q9YZgIVQCVJ0JB"
+    },
+    {
+      "album": {
+        "name": "6SPEED",
+        "url": "https://open.spotify.com/album/2ENDgbxygyyv5GEYDq4EEt"
+      },
+      "artists": [
+        {
+          "name": "Rematch",
+          "url": "https://open.spotify.com/artist/73X2UotmQQ1n1nD0iFONZm"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "6SPEED",
+      "url": "https://open.spotify.com/track/50YqXG4WbLBYndkE7wPztt"
     },
     {
       "album": {
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 173791,
       "name": "And a Big Load",
       "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 144008,
       "name": "BRAVADO",
       "url": "https://open.spotify.com/track/0Gy4toq4M4ILrgAuD6kJmK"
@@ -8217,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
+    },
+    {
+      "album": {
         "name": "Please Don't Think About Tomorrow",
         "url": "https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U"
       },
@@ -9816,7 +9852,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 194491,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
@@ -12928,7 +12964,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 189924,
       "name": "Eastern Street Kids",
       "url": "https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp"
@@ -14613,6 +14649,24 @@
     },
     {
       "album": {
+        "name": "FEVEREATEN",
+        "url": "https://open.spotify.com/album/4wunBLhO4A7vHDAo6gmiiK"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265429,
+      "name": "FEVEREATEN",
+      "url": "https://open.spotify.com/track/07vgtbLvGFM4bdJGMVaKkI"
+    },
+    {
+      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/0uG568JEwPF9ka223nxL66"
       },
@@ -15688,6 +15742,24 @@
       "duration_ms": 101331,
       "name": "FUCK IT",
       "url": "https://open.spotify.com/track/2Is4tyLJBje47RfovPmrbd"
+    },
+    {
+      "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/0W3SSzSp5WvMmV6SuZ61lF"
+      },
+      "artists": [
+        {
+          "name": "Dick Move",
+          "url": "https://open.spotify.com/artist/4y32anHRxQ5DXUQYomokdU"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/3zg6JtNNQdsxNgdeo4gGF8"
     },
     {
       "album": {
@@ -16768,6 +16840,24 @@
       "duration_ms": 187144,
       "name": "Go To Hell (feat. Yours Truly)",
       "url": "https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf"
+    },
+    {
+      "album": {
+        "name": "God Loves, Man Kills",
+        "url": "https://open.spotify.com/album/0ocA1OcCvP6h2x5tgQoEvO"
+      },
+      "artists": [
+        {
+          "name": "CLOBBER",
+          "url": "https://open.spotify.com/artist/48YxiC97XwVnDlK995fMJ5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150274,
+      "name": "God Loves, Man Kills",
+      "url": "https://open.spotify.com/track/1qR5vnuD2LDiHSuxz0Hasa"
     },
     {
       "album": {
@@ -18330,7 +18420,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 111237,
       "name": "Headcrusher",
       "url": "https://open.spotify.com/track/1RjG2epXceAYiUHG5tA7Oe"
@@ -19500,7 +19590,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 120558,
       "name": "hug me",
       "url": "https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1"
@@ -20070,7 +20160,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 179647,
       "name": "I Hate My Collarbones",
       "url": "https://open.spotify.com/track/1JlBjta6QkMgP1o70KkhCm"
@@ -20496,6 +20586,24 @@
       "duration_ms": 231750,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/0uJZw0muh53X2xfjuCVvAh"
+    },
+    {
+      "album": {
+        "name": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
+        "url": "https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126168,
+      "name": "I Steal What I Want",
+      "url": "https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi"
     },
     {
       "album": {
@@ -22200,7 +22308,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 126976,
       "name": "James Bay's Hat",
       "url": "https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq"
@@ -30591,6 +30699,24 @@
     },
     {
       "album": {
+        "name": "Optical Delusions",
+        "url": "https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74839,
+      "name": "Optical Delusions",
+      "url": "https://open.spotify.com/track/11w3cYXVjPxqyvxBUr4tUH"
+    },
+    {
+      "album": {
         "name": "Option to Nothing",
         "url": "https://open.spotify.com/album/1K3fRWYf05g6d9EIXk7Vjn"
       },
@@ -30732,6 +30858,24 @@
       "duration_ms": 159715,
       "name": "Ordinaire",
       "url": "https://open.spotify.com/track/5XOU00eDPnL8N67wD1h6RP"
+    },
+    {
+      "album": {
+        "name": "Organoid",
+        "url": "https://open.spotify.com/album/5vG9Z3KsWkOQQixrLN3gj5"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190105,
+      "name": "Organoid",
+      "url": "https://open.spotify.com/track/0XS58SNTPt7cKi6JVQDF7n"
     },
     {
       "album": {
@@ -32356,7 +32500,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 191559,
       "name": "Portland Town",
       "url": "https://open.spotify.com/track/7E4aZVu9Cn2lLej99qoUId"
@@ -32468,6 +32612,24 @@
       "duration_ms": 179775,
       "name": "Power",
       "url": "https://open.spotify.com/track/0sg8OUgbxnOqBJ0ZFFTDxr"
+    },
+    {
+      "album": {
+        "name": "Pray To That",
+        "url": "https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186727,
+      "name": "Pray To That",
+      "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
     },
     {
       "album": {
@@ -33410,6 +33572,28 @@
       "duration_ms": 218319,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4t2UN0fnbOyWc3cDb5OF1S"
+    },
+    {
+      "album": {
+        "name": "Rabbit Run (From the \"Caught Stealing\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dA8X01ZBLGjM8g8rThf3h"
+      },
+      "artists": [
+        {
+          "name": "Caught Stealing Movie",
+          "url": "https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Rabbit Run (From the \"Caught Stealing\" Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/3prI01KDvDe7nNLlZ8UF85"
     },
     {
       "album": {
@@ -35878,7 +36062,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 195865,
       "name": "Sense of Humor",
       "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
@@ -40072,7 +40256,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 129328,
       "name": "sycophant",
       "url": "https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb"
@@ -42018,6 +42202,24 @@
       "duration_ms": 136614,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/110hKiS5JjkomSeVMPGkRJ"
+    },
+    {
+      "album": {
+        "name": "The Lovers",
+        "url": "https://open.spotify.com/album/7mHWcf7Vve9BxsEmOfP8iq"
+      },
+      "artists": [
+        {
+          "name": "Cro\u00edthe",
+          "url": "https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "The Lovers",
+      "url": "https://open.spotify.com/track/6LqdSUFNR0H2CwWBVHgUut"
     },
     {
       "album": {
@@ -45688,7 +45890,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 174392,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/4PX2d8yYSEeg3CfvLlStdW"
@@ -47438,6 +47640,24 @@
       "duration_ms": 230500,
       "name": "World Of Wonder",
       "url": "https://open.spotify.com/track/19lfArN96qKhhyrwLB1FP1"
+    },
+    {
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/30KzCEYBLddV1CwUkrZ8QB"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154195,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/5JRBK1plBVnpBvvmqoFj9I"
     },
     {
       "album": {

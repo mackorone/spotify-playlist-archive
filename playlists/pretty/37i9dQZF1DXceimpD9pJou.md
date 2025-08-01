@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Seth Condrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,808 likes - 99 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,836 likes - 99 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [dónde estás???](https://open.spotify.com/track/4cJubuQkWDMntiLtsJ1Jfl) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [dónde estás???](https://open.spotify.com/album/5Det7ZIv3O9FPT4U1ZB7b5) | 2:41 |
 | 99 | [12 AM](https://open.spotify.com/track/2WMqAU1ACbqXaa1rm47vSA) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [12 AM](https://open.spotify.com/album/23r576RlEpPLMkM9MXerNS) | 2:03 |
 
-Snapshot ID: `aIMCewAAAAC1LXfxbcX/0tGd61W5JG+m`
+Snapshot ID: `AAAAAJuMKumSJq4tXjJQD9W5A5YEQlrz`

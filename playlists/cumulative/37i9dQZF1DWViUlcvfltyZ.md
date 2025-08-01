@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 The Zen Circus in cover
+> Rock, indie e punk dall'Italia 🎸 Umarell \(e una bicicletta ¯\\\_\(ツ\)\_/¯ \) in cover
 
-1,580 songs - 3 day 15 hr 37 min
+1,582 songs - 3 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Ancora Ancora Ancora](https://open.spotify.com/track/2TSQgk5ZZ0Zu7a9u3axHi8) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Ancora Ancora Ancora](https://open.spotify.com/album/0Qhl6dWiwnMCRZHNjolqE0) | 2:03 | 2025-07-17 |  |
 | [Anima](https://open.spotify.com/track/6FlqnN8TCxJcxKV7ICdrxQ) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Anima](https://open.spotify.com/album/5uBEgtnON3mPiRzTaytXQa) | 2:36 | 2024-09-26 | 2024-11-01 |
 | [Anima](https://open.spotify.com/track/3WXoaGK59MFJqZUlnvTmt1) | [Red Blood Hands](https://open.spotify.com/artist/7bobN8Di0s5mnX3Vtkoo50) | [Per sempre..\. e poi ancora](https://open.spotify.com/album/209gRRGUJi4x8XG4iXentc) | 3:05 | 2024-10-03 | 2024-11-08 |
-| [Animale](https://open.spotify.com/track/3aDIEuDjPC6ZQH6A9eo6Rk) | [I Melt](https://open.spotify.com/artist/68YsEdffZtrs58PasAPAdi) | [Animale](https://open.spotify.com/album/510rGpMWmSBVJPNaBewhHw) | 1:36 | 2025-06-19 |  |
+| [Animale](https://open.spotify.com/track/3aDIEuDjPC6ZQH6A9eo6Rk) | [I Melt](https://open.spotify.com/artist/68YsEdffZtrs58PasAPAdi) | [Animale](https://open.spotify.com/album/510rGpMWmSBVJPNaBewhHw) | 1:36 | 2025-06-19 | 2025-08-01 |
 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 | 2023-05-18 | 2023-09-01 |
 | [Animali Selvatici](https://open.spotify.com/track/2EyQhiXyZm2hywIhBiGJXh) | [Atlante](https://open.spotify.com/artist/0xLBGvXZZt5vhuTOtqXrvY) | [Poi Rinascere](https://open.spotify.com/album/1oVxcC4VykAK4QSRVKUwFo) | 2:37 | 2024-10-24 | 2024-11-29 |
 | [Anime e Ket4mina](https://open.spotify.com/track/7AO5aUZ8O6nV9CkRLeCUoE) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Anime e Ket4mina](https://open.spotify.com/album/6Oxx6ouLaX1sZKP8rOmkNW) | 3:32 | 2025-03-13 |  |
@@ -200,6 +200,7 @@
 | [buio/luce](https://open.spotify.com/track/5Igi6TYXJt8hrEenbqZtMT) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [buio/luce](https://open.spotify.com/album/21gbCfIeS5qpxTIa6vpbTn) | 1:54 | 2024-06-06 | 2024-07-05 |
 | [Bulma](https://open.spotify.com/track/3Zo1U4KNLUIIP3OlgZApPc) | [Garda 1990](https://open.spotify.com/artist/05uhPVxB57fPfp234c3lSC), [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Bulma](https://open.spotify.com/album/1TDDVYkg5RoJmuq7Ef7kIa) | 2:32 | 2025-03-18 | 2025-06-13 |
 | [Bureaucracy Apocalypse](https://open.spotify.com/track/3PcdEROHFmkaVzQLnlhNao) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Small Talk](https://open.spotify.com/album/66AjMxQjNL85pbYBV4fFL8) | 2:02 | 2023-11-02 | 2023-12-01 |
+| [burn down everything](https://open.spotify.com/track/4O9gHHOl9rpHtasRdFBFxd) | [Orbit Service](https://open.spotify.com/artist/1Ebw2dMuB90FgMsddepveL) | [burn down everything](https://open.spotify.com/album/0trlZIP1RAv04237302ppf) | 4:24 | 2025-07-31 |  |
 | [Burning Ghosts](https://open.spotify.com/track/48IufOhSXwv0kqfMTtf3Zb) | [Neko At Stella](https://open.spotify.com/artist/3Yu9iL8NwGYNAImxIOmXsV) | [Into The Wasteland](https://open.spotify.com/album/27yte31W3LX5FODvj2DDTO) | 4:44 | 2025-04-03 | 2025-05-16 |
 | [Burrone](https://open.spotify.com/track/1NaD3BZ3iokShwJjmRAvFz) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Burrone](https://open.spotify.com/album/4JyFlh34wPSfiPDJVrYAmf) | 3:02 | 2023-11-23 | 2024-02-23 |
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |
@@ -648,7 +649,7 @@
 | [il cielo è così terso](https://open.spotify.com/track/6rfBdgPdwHSXhqcGrQDHkA) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Ortensie Comete](https://open.spotify.com/album/7AWANKuqSdNSYro8EbisWz) | 4:26 | 2025-05-22 | 2025-07-04 |
 | [Il colore si perde](https://open.spotify.com/track/6BCi9E6yGSjQb4y49dPPQE) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Il colore si perde](https://open.spotify.com/album/2bYOG0a6yL1qZYrtnNIcgX) | 3:36 | 2023-04-06 | 2023-04-21 |
 | [Il desiderio che mi frega](https://open.spotify.com/track/3RAtWzNMmlfMmSNc5jJBVk) | [VIADELLIRONIA](https://open.spotify.com/artist/63Zd398yJf6aBfR9x6cHzN) | [Il desiderio che mi frega](https://open.spotify.com/album/0hjcrGPcrYGwtFhpaE6mhZ) | 3:34 | 2023-04-20 | 2023-05-05 |
-| [IL FANTASMA](https://open.spotify.com/track/5GHXpgAkQOTYwyt6o99Jfp) | [Captain Quentin](https://open.spotify.com/artist/7IMh6BewwMs6j7dYkkTjFm), [Max Collini](https://open.spotify.com/artist/3tOrLl8dmGYZyrAfid0Gqd) | [QUATTRO](https://open.spotify.com/album/6qJcWI2d8ngvgjRRrRpMw4) | 3:04 | 2025-06-26 |  |
+| [IL FANTASMA](https://open.spotify.com/track/5GHXpgAkQOTYwyt6o99Jfp) | [Captain Quentin](https://open.spotify.com/artist/7IMh6BewwMs6j7dYkkTjFm), [Max Collini](https://open.spotify.com/artist/3tOrLl8dmGYZyrAfid0Gqd) | [QUATTRO](https://open.spotify.com/album/6qJcWI2d8ngvgjRRrRpMw4) | 3:04 | 2025-06-26 | 2025-08-01 |
 | [Il fondo](https://open.spotify.com/track/6g5CAiaaix2QymjbdrWb4v) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT) | [Il fondo](https://open.spotify.com/album/1V8RFgIucDguNn7nIpqBsi) | 2:09 | 2023-02-02 | 2023-03-10 |
 | [Il kiwi australe](https://open.spotify.com/track/153l4lmTyCjtnJ6g7U81bt) | [i fatti di cronaca](https://open.spotify.com/artist/2RPNEoCi1zdHe2sKD9WKeI) | [Il kiwi australe](https://open.spotify.com/album/2EUOcnCHnVu8rF4AoRQ6Dz) | 3:11 | 2024-12-19 | 2025-05-30 |
 | [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 | 2022-09-20 |
@@ -1128,6 +1129,7 @@
 | [Posso Tenerti Con Me](https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Posso Tenerti Con Me](https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ) | 3:09 | 2022-11-24 | 2023-03-10 |
 | [Post Punk](https://open.spotify.com/track/32whoVKitdwAyuzAJmK3X1) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Post Punk](https://open.spotify.com/album/3rGqUnqIsG0tHWTvbqv30Y) | 2:32 | 2024-10-10 | 2025-01-03 |
 | [POVERI DIAVOLI](https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [POVERI DIAVOLI](https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q) | 3:16 | 2022-05-09 | 2022-06-03 |
+| [POVERO CORAGGIO](https://open.spotify.com/track/0rCLarJ8osSoxjOP8Ae6xp) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [POVERO CORAGGIO & CARTA VETRATA](https://open.spotify.com/album/2HWfrSfKZ26i2YSDgY8yEu) | 4:01 | 2025-07-31 |  |
 | [Practical Magic](https://open.spotify.com/track/7oHOCMEmkntfn5HKuM7b4h) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [Practical Magic](https://open.spotify.com/album/6akTNWvMrw3wHr9mO6kpt7) | 2:53 | 2024-01-18 | 2024-03-22 |
 | [Preda](https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Preda](https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A) | 5:28 | 2023-03-02 | 2023-05-10 |
 | [Prendersi Cura](https://open.spotify.com/track/3bhZr2G5pFb6cGXPhPGHMM) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Prendersi Cura](https://open.spotify.com/album/2ZhbjoC4zcBdaQ6cnj1maP) | 4:30 | 2024-05-16 | 2024-08-09 |

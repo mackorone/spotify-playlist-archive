@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "HEDGEHOG",
+        "url": "https://open.spotify.com/album/6ufwHevkTE4KoHoPttcsVq"
+      },
+      "artists": [
+        {
+          "name": "Gem i",
+          "url": "https://open.spotify.com/artist/0y5WRR0mZAba6oEEquKe6p"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "hedgehog",
+      "url": "https://open.spotify.com/track/2SxA30by4pd5qe3l51w1C2"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD"
       },

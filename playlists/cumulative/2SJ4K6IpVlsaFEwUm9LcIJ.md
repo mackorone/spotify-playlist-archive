@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-671 songs - 1 day 15 hr 12 min
+672 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
 | [No usa](https://open.spotify.com/track/4WAWDgOppVnkZmlPMZ4CXO) | [ROSSER ELECTRONICS](https://open.spotify.com/artist/6AkTcHrBBdPSDqrC5ZUl7O) | [This time it'll work](https://open.spotify.com/album/1rageEi7EsiawKmzmySfhV) | 3:14 | 2025-04-27 | 2025-07-04 |
 | [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 | 2024-10-02 | 2024-11-14 |
+| [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 | 2025-07-31 |  |
 | [None But Shining Hours](https://open.spotify.com/track/5kHCk2CS3RURF57SUqU1Xt) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 2:43 | 2024-04-25 | 2024-05-16 |
 | [Nothing Stays the Same](https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [The Menace](https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9) | 2:44 | 2024-01-13 | 2024-03-10 |
 | [Now Run](https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Now Run](https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb) | 2:45 | 2024-09-30 | 2024-10-02 |

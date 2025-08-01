@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,541 likes - 150 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,584 likes - 150 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 150 | [ghost in the flesh](https://open.spotify.com/track/46eaJ7saGguB0WfBJS04D9) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [ghost in the flesh](https://open.spotify.com/album/0SMJ11BJlIFC7KBjwNaRqr) | 2:56 |
 
-Snapshot ID: `aHCMVQAAAAC2NwpYw4TRAbomJTsyzmcC`
+Snapshot ID: `AAAAAHwxTcENkK0O07dqYbDy2tVMbx4y`

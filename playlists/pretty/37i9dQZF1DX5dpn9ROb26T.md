@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 
 > Our editors' top picks for the best pop songs of the year\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,878 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,890 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 | 74 | [Kissing In the Cold](https://open.spotify.com/track/61CTVokB7PPa8cZ1aqDwhl) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:54 |
 | 75 | [John and Jonathan](https://open.spotify.com/track/04b2mpXXNWDlOlRNYJNX3I) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:22 |
 
-Snapshot ID: `AAAAAGJIX1R7+YzA5AYjR4WNVGQfNpaV`
+Snapshot ID: `Z1BHxAAAAAA3I/Mj7xh5RAUfoZkGtNlF`

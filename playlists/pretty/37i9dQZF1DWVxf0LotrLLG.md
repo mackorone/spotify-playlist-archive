@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,703 likes - 285 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,717 likes - 285 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,4 +294,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 284 | [CIEGO SORDO MUDO](https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:16 |
 | 285 | [RED FLAG](https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:22 |
 
-Snapshot ID: `aHnG2AAAAACusLNeuLU2KO5Kr5d256cQ`
+Snapshot ID: `AAAAAF4ai3JeqdgauW1CE/vBkcIiIquP`

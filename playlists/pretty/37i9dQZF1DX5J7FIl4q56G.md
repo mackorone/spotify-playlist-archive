@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Caskets
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,247 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,367 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [Bring Back the Guillotine](https://open.spotify.com/track/5tL0FZEJBwtmUAlegAvKxI) | [Sunken State](https://open.spotify.com/artist/49224p0ptI8BQrj0Wt2Ra4) | [Hunting Ghosts, Finding Demons](https://open.spotify.com/album/0Dbj4qDn7Hsmbi7IKT8Wph) | 3:14 |
 | 100 | [Sleeping In The Cold Below](https://open.spotify.com/track/78PEVPSlk7xnAOZk3kmPi2) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Emma Young](https://open.spotify.com/artist/6UI5plKidg5tHYIpWetu2s) | [Sleeping In The Cold Below](https://open.spotify.com/album/1pIWVr7GRl37AHPEobwY5C) | 4:08 |
 
-Snapshot ID: `aIW7RQAAAAD9ys+VmfDdRgcC0UuuB5CS`
+Snapshot ID: `AAAAAPGQDK4iIDAAobkrUN340FqitCNu`

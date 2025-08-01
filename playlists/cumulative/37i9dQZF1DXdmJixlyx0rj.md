@@ -2,7 +2,7 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Yves\)
+> New & best K\-Electronic music is here\. \(Cover: Silly Silky\(실리실키\)\)
 
 253 songs - 14 hr 26 min
 
@@ -22,7 +22,7 @@
 | [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-08 |  |
 | [64 \(Florentino Remix\)](https://open.spotify.com/track/6WsErFNYCU0VRGxQpLQIxR) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [THE RMXS: VOL\. 1](https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW) | 4:13 | 2024-04-18 | 2024-06-29 |
 | [90's Love \- SQUAR Remix](https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [SQUAR](https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 2:41 | 2024-04-05 | 2024-06-29 |
-| [??? \(ODD\)](https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB) | [Ki:XÉ](https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v) | [??? \(ODD\)](https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k) | 2:40 | 2025-05-20 |  |
+| [??? \(ODD\)](https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB) | [Ki:XÉ](https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v) | [??? \(ODD\)](https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k) | 2:40 | 2025-05-20 | 2025-08-01 |
 | [@\_@](https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI) | 2:07 | 2024-04-05 | 2024-06-29 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2024-06-28 |  |
 | [Algorithm \(IMLAY Remix\)](https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [\[Algorithm \(Remixes\)\]](https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0) | 2:28 | 2024-09-24 | 2025-05-07 |
@@ -250,7 +250,7 @@
 | [White cat](https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [White cat](https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ) | 3:22 | 2025-07-24 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2024-04-05 | 2024-06-29 |
 | [WITH U](https://open.spotify.com/track/6g3vu8wRbKNNGPooas2Rxw) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [BLUE MOON](https://open.spotify.com/album/5xI7NZB5pRtZVNaAzlBQhe) | 2:26 | 2024-06-28 | 2024-07-06 |
-| [Without You \(Alok Remix\) \(Radio Edit\)](https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:33 | 2024-06-28 | 2025-07-31 |
+| [Without You \(Alok Remix\) \(Radio Edit\)](https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:33 | 2024-06-28 |  |
 | [WONDERLAND \- SEAN OH's Skrt Mix](https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [SEAN OH](https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:18 | 2024-06-28 |  |
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-07 | 2024-06-29 |
 | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog) | 2:45 | 2024-06-13 | 2024-06-29 |

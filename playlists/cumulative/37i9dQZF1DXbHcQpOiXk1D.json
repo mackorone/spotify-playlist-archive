@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 296168,
       "name": "31. Bleep (01)",
       "url": "https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU"
@@ -1140,6 +1140,24 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
+    },
+    {
+      "album": {
+        "name": "balance",
+        "url": "https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk"
+      },
+      "artists": [
+        {
+          "name": "cktrl",
+          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174537,
+      "name": "balance",
+      "url": "https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu"
     },
     {
       "album": {
@@ -9320,7 +9338,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 277106,
       "name": "Old Friend; The Sea",
       "url": "https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp"
@@ -13552,6 +13570,40 @@
       "duration_ms": 190434,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7wmxYveZmT2lKIDrFopVfz"
+    },
+    {
+      "album": {
+        "name": "Truncate",
+        "url": "https://open.spotify.com/album/2YkuVOn59NReTSf2k1IwlU"
+      },
+      "artists": [
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "SFJ",
+          "url": "https://open.spotify.com/artist/1GliBW2AkFjOngDIpVCYpd"
+        },
+        {
+          "name": "Alexis Taylor",
+          "url": "https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX"
+        },
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        },
+        {
+          "name": "David Bardon",
+          "url": "https://open.spotify.com/artist/1z6qmzbLveW989mKinmUXt"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233919,
+      "name": "Truncate",
+      "url": "https://open.spotify.com/track/4iGPmEcxDlz1xRkssfjvg3"
     },
     {
       "album": {

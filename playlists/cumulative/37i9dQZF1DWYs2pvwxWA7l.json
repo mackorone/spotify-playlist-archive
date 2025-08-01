@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Tyla & Wizkid",
+  "description": "The hottest Afropop records on the planet.  Cover: Fido ",
   "name": "Afropop",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 214419,
       "name": "Asali Mbichi",
       "url": "https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf"
@@ -5084,7 +5084,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 122232,
       "name": "GOING",
       "url": "https://open.spotify.com/track/3K40ExNdW7OLgTsDKAtJaC"
@@ -5649,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Olayemi",
+        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200526,
+      "name": "I miss you die",
+      "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
+    },
+    {
+      "album": {
         "name": "I No Be God",
         "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
       },
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 159292,
       "name": "Lavida Loca (feat. Lasmid)",
       "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
@@ -8570,7 +8588,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 155164,
       "name": "Mukutu",
       "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
@@ -9454,6 +9472,28 @@
       "duration_ms": 160508,
       "name": "OMN",
       "url": "https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz"
+    },
+    {
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "album": {

@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Genera\u021bia mea",
+        "url": "https://open.spotify.com/album/2rYv1a1EsZxc61CaeuvFX1"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Genera\u021bia mea",
+      "url": "https://open.spotify.com/track/5IJ1Ts3lnUzzY6CXzaKGbc"
+    },
+    {
+      "album": {
         "name": "RADIOFONIC",
         "url": "https://open.spotify.com/album/28TjBMndTDtdBNWHbgtcbL"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
+      },
+      "artists": [
+        {
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
+    },
+    {
+      "album": {
         "name": "MUZEU",
         "url": "https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy"
       },
@@ -2448,6 +2484,28 @@
       "duration_ms": 196000,
       "name": "Ochii",
       "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
+    },
+    {
+      "album": {
+        "name": "Ochii care nu se v\u0103d",
+        "url": "https://open.spotify.com/album/5p8fQCvnHnXHlnyvRH0QrJ"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        },
+        {
+          "name": "GINIA",
+          "url": "https://open.spotify.com/artist/1giHQkT7XkpCarE8kyA6DL"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150101,
+      "name": "Ochii care nu se v\u0103d",
+      "url": "https://open.spotify.com/track/40VQXiJYyLIsqOZvBTmLDd"
     },
     {
       "album": {
@@ -2648,7 +2706,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 152000,
       "name": "Poate",
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
@@ -2976,7 +3034,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 228884,
       "name": "Shot",
       "url": "https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx"

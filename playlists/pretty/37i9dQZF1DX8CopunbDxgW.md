@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Tame Impala enters their dance era 🏆 it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,198 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,150 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [You'll Come Around](https://open.spotify.com/track/3djxXHSYegfcifFHNhGoP9) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [You'll Come Around](https://open.spotify.com/album/1d3NVTfey783BopKFmoUVv) | 3:38 |
 | 100 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 |
 
-Snapshot ID: `AAAAAGqTjVg3xad+u/HFx75JdogaXmKA`
+Snapshot ID: `aIO0rgAAAACQbwJOWRyMRTos+32Zu9jR`

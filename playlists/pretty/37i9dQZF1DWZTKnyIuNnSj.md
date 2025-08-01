@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTKnyIuNnSj.md) - [plain]
 
 > Listen to the soundtracks of The Nice Guy\. \(착한 사나이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064 likes - 21 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560 likes - 21 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTKnyIuNnSj.md) - [plain]
 | 20 | [Break the Darkness \- Instrumental](https://open.spotify.com/track/2znRjXLG2DRXfXlHRPIyCS) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7EZ037QS2kd1q1hX0smKHh) | 4:49 |
 | 21 | [Love used to be \- Instrumental](https://open.spotify.com/track/0jydYGYVKKLqDrkOSSE7Zv) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2xJZOBir2b23lqpNRX2eSA) | 3:45 |
 
-Snapshot ID: `AAAAAEPAGNqjYv/8BFxR/WkLgVwTYt3s`
+Snapshot ID: `aIiNsQAAAADtOX8W4cthO2wGNKgobasu`

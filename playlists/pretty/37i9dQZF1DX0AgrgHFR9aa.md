@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Dosseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,422 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,425 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [Rhodium, Vol.2](https://open.spotify.com/track/2NAJz4KgZhkYHXbcwKUliQ) | [Tchiki'O](https://open.spotify.com/artist/7neh9ofjSOEUjCF1m6s8nu), [HEMO](https://open.spotify.com/artist/3hjk8GC36SyPEb8jXo3Y6T) | [Rhodium, Vol.2](https://open.spotify.com/album/5lhnhmHmEdnnL88ekHrFGU) | 2:55 |
 | 40 | [MAYBACH CIEL ÉTOILÉ](https://open.spotify.com/track/0EFn08LOiT5yDbX4mTUWV9) | [Yovo](https://open.spotify.com/artist/4fAuopyFMCGVhStrYsvbev), [PAPI TeddyBear](https://open.spotify.com/artist/5FlUQWvr6Iwcfz4NZOQOT9), [DIOGENES](https://open.spotify.com/artist/48t2YjpsPcibI7QVTTMli2) | [CHEVAL DE TROIE vol 1](https://open.spotify.com/album/0pJ3dx9f4JJs9N1dqyep6h) | 3:08 |
 
-Snapshot ID: `aHlyewAAAAAipvkiBcmXRgOaNqAwytHE`
+Snapshot ID: `AAAAAFNCASyuR6kB4OpmWsgCOSKHH5Su`

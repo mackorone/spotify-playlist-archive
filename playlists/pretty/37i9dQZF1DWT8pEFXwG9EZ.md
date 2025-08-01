@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,703 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,751 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 56 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
 | 57 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
 | 58 | [Love Theme \(From "Chinatown"\)](https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Kenny Kirkland](https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Jazz in Film](https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs) | 8:23 |
-| 59 | [Everybody Loves My Baby](https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:08 |
-| 60 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
+| 59 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
+| 60 | [Everybody Loves My Baby](https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:08 |
 | 61 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
 | 62 | [You Made Me Love You](https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 3:01 |
 | 63 | [That's Amore](https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I) | [Harry Warren](https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 3:06 |

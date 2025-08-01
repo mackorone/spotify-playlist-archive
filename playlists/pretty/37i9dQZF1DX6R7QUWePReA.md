@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1970 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,406,258 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,406,025 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 62 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
 | 63 | ['Zat You, Santa Claus? \- Single Version](https://open.spotify.com/track/0SD2UtunDGrX7OIElVr87B) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:40 |
 | 64 | [Twelve Days Of Christmas \- Single Version](https://open.spotify.com/track/4Zo33RKIwOIiVsZZtXsKU4) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas](https://open.spotify.com/album/5rNiENfjWN3m9HE9XwBjvi) | 3:24 |
-| 65 | [The Nutcracker, Op\. 71: Act II Tableau 3: Variation 2: Dance of the Sugar\-Plum Fairy](https://open.spotify.com/track/3C4JNyv2NAT72xm0cDKl0v) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Russian National Orchestra](https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Tchaikovsky: The Nutcracker](https://open.spotify.com/album/6g8mVkQHQOEczebvw6egrR) | 2:21 |
+| 65 | [The Nutcracker, Op\. 71, TH 14, Act II: No\. 14c, Var\. II\. Dance of the Sugar\-Plum Fairy](https://open.spotify.com/track/3C4JNyv2NAT72xm0cDKl0v) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Russian National Orchestra](https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Tchaikovsky: The Nutcracker, Op\. 71, TH 14](https://open.spotify.com/album/6g8mVkQHQOEczebvw6egrR) | 2:21 |
 | 66 | [Hark! The Herald Angels Sing/It Came Upon A Midnight Clear \- Medley / Remastered 2006](https://open.spotify.com/track/4BgkhT5HythXhIBqU2WvhX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:06 |
 | 67 | [O Holy Night](https://open.spotify.com/track/2aQkTUbJUHk3F6nMipZLbz) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Twelve Songs Of Christmas](https://open.spotify.com/album/6IICcthNyUNV4bdJlm8Idi) | 4:50 |
 | 68 | [The Christmas List](https://open.spotify.com/track/2Vfm43BaQcTY55P6R9WvRe) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:39 |

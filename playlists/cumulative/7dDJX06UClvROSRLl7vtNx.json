@@ -6317,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Golden Eyes",
+        "url": "https://open.spotify.com/album/1poZOBBtGKQH1hW976vu70"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145799,
+      "name": "Golden Eyes",
+      "url": "https://open.spotify.com/track/0AMxXIMgpqxlON8MDmVR5i"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/2bBd0JDFKOoy55VRnr5Lmm"
       },

@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 145750,
       "name": "Attacco di Panico",
       "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 174549,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "DREAM TEAM",
+        "url": "https://open.spotify.com/album/4f2NMh0b3DDamlQBG8y4rn"
+      },
+      "artists": [
+        {
+          "name": "Ormai",
+          "url": "https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127861,
+      "name": "DREAM TEAM",
+      "url": "https://open.spotify.com/track/6JjrIPXVVhMho0V3VJFazt"
+    },
+    {
+      "album": {
         "name": "Due anni fa",
         "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
@@ -2459,6 +2477,28 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Incredibile (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
+    },
+    {
+      "album": {
         "name": "Indelebile",
         "url": "https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9"
       },
@@ -2634,7 +2674,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 123461,
       "name": "l'effetto finisce",
       "url": "https://open.spotify.com/track/2RAEvL5pOV0l7G0wRrF3AI"
@@ -2722,6 +2762,24 @@
       "duration_ms": 126000,
       "name": "La stella pi\u00f9 bella di sempre",
       "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
+    },
+    {
+      "album": {
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144671,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/58Z81LreWvl772tymig5fd"
     },
     {
       "album": {
@@ -3988,7 +4046,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 213818,
       "name": "Palude 4",
       "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
@@ -4218,6 +4276,24 @@
       "duration_ms": 210322,
       "name": "personal",
       "url": "https://open.spotify.com/track/0iBWJzv9EysEh3wahsnPa8"
+    },
+    {
+      "album": {
+        "name": "Piangere a 90",
+        "url": "https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155532,
+      "name": "Piangere a 90",
+      "url": "https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes"
     },
     {
       "album": {
@@ -4788,7 +4864,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 109357,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
@@ -4854,6 +4930,24 @@
       "duration_ms": 199053,
       "name": "Rottami",
       "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
+    },
+    {
+      "album": {
+        "name": "Roxy",
+        "url": "https://open.spotify.com/album/5pVUuOG6dceWnegWnzHSEu"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Roxy",
+      "url": "https://open.spotify.com/track/35cqJaPUn4LhonAtI3VyvX"
     },
     {
       "album": {
@@ -5250,6 +5344,24 @@
       "duration_ms": 131162,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG"
+    },
+    {
+      "album": {
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
     },
     {
       "album": {
@@ -5956,6 +6068,24 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "album": {
+        "name": "un giorno in pi\u00f9",
+        "url": "https://open.spotify.com/album/56ajWofOOf4XhVw6nJ7cQj"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161574,
+      "name": "un giorno in pi\u00f9",
+      "url": "https://open.spotify.com/track/45ardAYQus7bUH97kN5gA3"
     },
     {
       "album": {

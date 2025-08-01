@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oU49YwtXI2.md) - [plain]
 
 > Queen Bey's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,741,733 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741,841 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oU49YwtXI2.md) - [plain]
 | 69 | [Shining \(feat\. Beyoncé & JAY\-Z\)](https://open.spotify.com/track/3OoZagIW3YK8vjt0ws6NOI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:43 |
 | 70 | [AMEN](https://open.spotify.com/track/3ly60iOVqcsdtlMhQ8FcE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:25 |
 
-Snapshot ID: `aC3kawAAAADpj8TbUnp6J3m7oKP7D1aW`
+Snapshot ID: `AAAAAEy65SzAaIeAuFNzm0azSafVac88`

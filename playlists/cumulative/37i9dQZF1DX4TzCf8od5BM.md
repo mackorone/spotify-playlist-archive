@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-226 songs - 5 hr 54 min
+227 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always in My Heart](https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 1:06 | 2023-08-18 |  |
 | [Anything](https://open.spotify.com/track/4gc9W0J7k7QUX5mJ2m2Sfc) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 2:44 | 2022-03-18 |  |
 | [Ariel \(Theme Song\) \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Jr\. Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 | 2024-05-10 |  |
+| [Armor Up \- From "Disney Jr\. Music: Iron Man and His Awesome Friends"](https://open.spotify.com/track/7qik2aUJsoBwzm3RPRj734) | [Iron Man and His Awesome Friends \- Cast](https://open.spotify.com/artist/3ylI4nEWPYHtPIKYAPZyWw), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Armor Up \(From "Disney Jr\. Music: Iron Man and His Awesome Friends"\)](https://open.spotify.com/album/4RTZNmRRisslkNpZlZlntk) | 2:32 | 2025-07-31 |  |
 | [Baa, Baa, Black Sheep](https://open.spotify.com/track/0FQWQYmTACpK6y7LdFDzzJ) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:24 | 2022-03-18 | 2023-11-23 |
 | [Baboons!](https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:05 | 2022-03-18 |  |
 | [Baby Bath Time](https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:52 | 2022-03-18 |  |

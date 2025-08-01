@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Inbal Comedi
 
-339 songs - 18 hr 35 min
+340 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Cariñito](https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW) | [Cariñito](https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW) | 3:13 | 2022-05-20 | 2023-07-08 |
 | [Carretera Austral](https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Carretera Austral](https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg) | 4:24 | 2024-10-11 |  |
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-05-20 | 2024-10-18 |
+| [Casa \- Reversión](https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:08 | 2025-08-01 |  |
 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 | 2023-07-07 | 2023-08-30 |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 | 2024-09-27 |
 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 | 2022-05-20 | 2022-11-12 |
@@ -100,7 +101,7 @@
 | [De Haber Sabido](https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:08 | 2025-04-21 |  |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 |  |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-19 | 2023-06-24 |
-| [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 |  |
+| [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-11 | 2025-08-01 |
 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 | 2025-07-25 |  |
 | [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 | 2025-07-18 |
 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 | 2023-07-07 |  |

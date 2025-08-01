@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: un muerto mas
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,660 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,657 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 114 | [FRESH](https://open.spotify.com/track/44goxeEbeHVBMVyX5GKWIa) | [GATITAS VEGANAS](https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28), [Gordo Larvo](https://open.spotify.com/artist/0xXkM0BNmY1NZeruflUzng) | [FRESH](https://open.spotify.com/album/3mVMYocHzvOhcpN6rGj2PJ) | 2:33 |
 | 115 | [VITAMINA](https://open.spotify.com/track/0cMsEyxgy6MnRqSiHEwzEw) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Mila Farrás](https://open.spotify.com/artist/21sVrELHqNyzqOV5o5nCuV) | [VITAMINA](https://open.spotify.com/album/7uUMDNvPNnHpVjRf11taOJ) | 2:17 |
 
-Snapshot ID: `aILzTQAAAAAG5waczYxM/8iZrxWMRE/O`
+Snapshot ID: `aILzTQAAAADKC1Te9GTGvm5z/VjDPWk+`

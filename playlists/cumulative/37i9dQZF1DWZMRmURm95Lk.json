@@ -10493,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "Santosubito/Rubik",
+        "url": "https://open.spotify.com/album/460j2qXDyJTel5aqN7Og5j"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279815,
+      "name": "Santosubito/Rubik",
+      "url": "https://open.spotify.com/track/5Cy6JEcPV3Q9BYhDTpWF8Y"
+    },
+    {
+      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -12506,7 +12524,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,515 likes - 107 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,517 likes - 107 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 106 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
 | 107 | [REM Sleep](https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu), [Mathieu Age](https://open.spotify.com/artist/3Tpl85KNhzEMzSqoeajHY5), [Alice Greenwood](https://open.spotify.com/artist/4z0E6tp6hqbAUKz8UhoLkT) | [Fast Asleep 💤](https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw) | 4:27 |
 
-Snapshot ID: `aGUE/wAAAABBEfk5xWxSKULtrCMxuwgC`
+Snapshot ID: `aIsYYgAAAABhvMTFTZK8G6tA2GprOdW8`

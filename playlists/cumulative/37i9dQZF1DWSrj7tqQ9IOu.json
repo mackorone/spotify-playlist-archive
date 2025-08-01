@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Miel de Montagne",
+  "description": "The best French indie tracks right now. Cover : TheFrenchKris",
   "name": "Made in France",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 230356,
       "name": "Aidono",
       "url": "https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg"
+    },
+    {
+      "album": {
+        "name": "All Along (Tout ce que tu veux)",
+        "url": "https://open.spotify.com/album/602ktSRBGVxn3wkZ7WjwAF"
+      },
+      "artists": [
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "All Along (Tout ce que tu veux)",
+      "url": "https://open.spotify.com/track/6uTcNVzvzHythOZ2BKsBiR"
     },
     {
       "album": {
@@ -9336,7 +9354,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 150309,
       "name": "Recto verso",
       "url": "https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI"
@@ -9578,7 +9596,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 199620,
       "name": "Romy",
       "url": "https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg"
@@ -10454,7 +10472,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 214736,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/502dJfwWwiTbmwviMxieIL"

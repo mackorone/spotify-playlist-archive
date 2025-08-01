@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: ddbb\) \(Meet the emerging talents of Korea!\)
 
-1,585 songs - 3 day 17 hr 6 min
+1,586 songs - 3 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,6 +684,7 @@
 | [In the end we break up again](https://open.spotify.com/track/7wIXKUKydFAekfmkY4dr9y) | [RAN](https://open.spotify.com/artist/3C7ohflntJsa9KFY5GBim1) | [Bravo, My Life OST Part.10](https://open.spotify.com/album/6McBvDgGynQuviMva7QoU4) | 3:49 | 2022-06-09 | 2022-06-19 |
 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 | 2024-02-01 | 2025-01-21 |
 | [In The Rain](https://open.spotify.com/track/1vyPrGqBCve587nS5x142B) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [Rain In Tequila](https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW) | 3:16 | 2022-09-29 | 2022-12-01 |
+| [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 | 2025-07-31 |  |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-03-21 | 2024-08-02 |
 | [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-09 |  |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-06-01 | 2024-01-03 |
@@ -945,7 +946,7 @@
 | [Nonsense \(feat\. Jiyoungssi\)](https://open.spotify.com/track/2o7K5e6fdsmGzw6Dmjy8Pf) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Jiyoungssi](https://open.spotify.com/artist/6VTNQV8TtMRkfPlNHEQ2ft) | [Nonsense \(feat\. Jiyoungssi\)](https://open.spotify.com/album/2ClstM12FmHaU42tEYWHCX) | 3:10 | 2024-07-03 | 2024-09-20 |
 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 | 2022-07-04 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-07-05 |
-| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-16 |  |
+| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-16 | 2025-08-01 |
 | [not ours](https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5) | [adore](https://open.spotify.com/artist/599aVifFb724ktGNGaYRRA) | [closed eyes, daytime dreams](https://open.spotify.com/album/25iVJ5J32T4whC2NrE4VSl) | 4:25 | 2023-05-01 | 2023-06-02 |
 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 | 2023-07-27 | 2024-01-05 |
 | [Not That Girl](https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Not That Girl](https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50) | 3:38 | 2025-02-14 | 2025-05-23 |

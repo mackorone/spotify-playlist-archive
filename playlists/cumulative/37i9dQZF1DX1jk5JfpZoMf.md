@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-311 songs - 15 hr 18 min
+312 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 | 2023-06-16 |  |
 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Key Humphrey](https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 | 2023-06-16 |  |
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2023-06-16 |  |
-| [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 | 2023-06-16 |  |
+| [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 | 2023-06-16 | 2025-08-01 |
 | [Mindful Rain](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [Dreamy Drops](https://open.spotify.com/artist/6Ml1Yweh4BCb2qGIi9NGp2) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:48 | 2023-06-16 |  |
 | [Misty Nights](https://open.spotify.com/track/1VoWakyWCQffi9kJLE8E9e) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rain Flood](https://open.spotify.com/album/7ICJo8n9KU5LyLwivs02CE) | 3:36 | 2023-06-16 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2023-06-16 |  |
@@ -178,6 +178,7 @@
 | [Rain](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [New Sounds Of Nature](https://open.spotify.com/artist/5U4BDAMefQlcNIp9OaEbQa) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 | 2023-06-16 |  |
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2023-06-16 |  |
 | [Rain All Around Us](https://open.spotify.com/track/0OCLkr4GJ0GqRBicgCwLoz) | [When Nature Calls](https://open.spotify.com/artist/7Euiup1JV21sbXrHKASylJ) | [Natural Rainfall](https://open.spotify.com/album/7dxHDE5BM5YjM3zRPCz88G) | 2:54 | 2023-06-16 |  |
+| [Rain Calm](https://open.spotify.com/track/0Hg0yv07sax49cPaxZyz2M) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain Calm](https://open.spotify.com/album/1xbUv6JJb3Wrq43W42Xtbn) | 2:43 | 2025-07-24 |  |
 | [Rain Chatter](https://open.spotify.com/track/5ICtYJwGeJrmBX4AX8nXpq) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain Chatter](https://open.spotify.com/album/3Rjzg5Rllf3BrHOjEnxdzQ) | 2:56 | 2024-03-21 |  |
 | [Rain Clappering on the Porch](https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 3:15 | 2023-06-16 | 2025-07-25 |
 | [Rain Coming Down](https://open.spotify.com/track/34f5y8LWDL5sSJKkSHqMr5) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:12 | 2023-06-16 |  |

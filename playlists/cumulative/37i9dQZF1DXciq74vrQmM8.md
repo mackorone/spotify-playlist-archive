@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. nova twins
+> welcome to our universe ft\. cody frost
 
-1,164 songs - 2 day 9 hr 1 min
+1,170 songs - 2 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 | 2023-11-11 |
 | [DEAD FLOWERS](https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DEAD FLOWERS](https://open.spotify.com/album/1RKvRWHyVw3UIfQVuIjcuJ) | 5:01 | 2021-12-27 | 2022-01-19 |
 | [DEAD SPACE](https://open.spotify.com/track/3YAgiHn9ESXhCpWgwXzJzH) | [YUNG REAPER](https://open.spotify.com/artist/1eU7zALoDM13x8Rv7vmtPX) | [DEAD SPACE](https://open.spotify.com/album/7pEFnk0NCKnJ5BhtMdaREf) | 2:33 | 2023-07-27 | 2023-09-15 |
-| [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-22 |  |
+| [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-22 | 2025-08-01 |
 | [DEADGIRL](https://open.spotify.com/track/6w9KSSd0rKHAgaRInGJXxW) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/03VMKQT0OKB5m2xhDJVeWc) | 4:10 | 2022-05-19 | 2022-09-23 |
 | [deadweight](https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [deadweight](https://open.spotify.com/album/0A10OGdu6vkcW6eybVwZhO) | 1:25 | 2024-10-03 | 2025-01-24 |
 | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp) | 2:02 | 2023-06-08 | 2023-10-24 |
@@ -404,6 +404,7 @@
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-04 | 2022-09-23 |
 | [Fukstar](https://open.spotify.com/track/2sPZty2EZFubLWq43vnO2P) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Fukstar](https://open.spotify.com/album/6Onj8WCbrAt8xD9z21W7H6) | 3:36 | 2022-07-07 | 2022-09-09 |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2025-05-02 |
+| [FUZZY](https://open.spotify.com/track/1IiYgvdDQG43aofgWbjd55) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [FUZZY](https://open.spotify.com/album/0VzlkrKtL7DJNa4Vc9Imu3) | 2:32 | 2025-07-31 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-22 | 2023-01-27 |
 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 | 2022-11-25 |
 | [Gaslight!](https://open.spotify.com/track/1rCdmjQUxxdvcCY92D7UiR) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [I Can't Sleep](https://open.spotify.com/album/4CtZxt0ZarugeixV9FfR2g) | 2:45 | 2024-05-28 | 2024-06-07 |
@@ -496,6 +497,7 @@
 | [High Voltage Anxiety](https://open.spotify.com/track/6AQwb0d5wgyNQEwIpsjd4y) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [High Voltage Anxiety](https://open.spotify.com/album/3KfGy5Pp106mG5wgdaMX8b) | 3:40 | 2024-11-29 | 2025-05-02 |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 | 2022-11-11 |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-01-20 |
+| [HOLLOWMAN TING](https://open.spotify.com/track/0rCHNHRd93LgnFXNrj1cJ3) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [HOLLOWMAN TING](https://open.spotify.com/album/6jGd3b9hTP2carBrxXVtln) | 3:08 | 2025-07-31 |  |
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-04 | 2023-05-20 |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [home](https://open.spotify.com/track/6pixU90MXVyWlSDVRnBaTz) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [home](https://open.spotify.com/album/0q6V6tvUZmYaxP4LuddxWU) | 2:48 | 2023-05-18 | 2023-05-26 |
@@ -748,6 +750,7 @@
 | [Nadi](https://open.spotify.com/track/6tlJe47ByWS9zs1op6cHfB) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Nadi](https://open.spotify.com/album/3wPfyer3cgvYnj9fAvIzMK) | 3:07 | 2025-05-01 |  |
 | [Napalm](https://open.spotify.com/track/2Smp3Fk79CMuvll4TBm999) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 2:30 | 2023-03-08 | 2023-03-09 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2022-04-01 |
+| [NATURAL SELECTION](https://open.spotify.com/track/3xzIJWhbEOf0fiQezTP9hu) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [NATURAL SELECTION](https://open.spotify.com/album/1SSCqPLzK3FU8j2EDMszhS) | 3:32 | 2025-07-31 |  |
 | [naughty AI](https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [naughty AI](https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY) | 2:39 | 2025-01-24 | 2025-04-04 |
 | [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 | 2025-02-28 | 2025-04-18 |
 | [neggy](https://open.spotify.com/track/5rGEXrrxrx9tax69jK5uR4) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [neggy](https://open.spotify.com/album/5tUeZZk64jK7EWDkvmbSN7) | 2:10 | 2024-06-06 | 2024-08-16 |
@@ -840,6 +843,7 @@
 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 | 2023-05-25 | 2023-07-07 |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-19 | 2022-04-29 |
 | [POWERPLAY](https://open.spotify.com/track/2UaUNUtIQ3bHW56GXdiJmt) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [POWERPLAY](https://open.spotify.com/album/3a06J2Qkcs3aFaAKzwzpxD) | 2:37 | 2025-01-24 | 2025-04-18 |
+| [Precious](https://open.spotify.com/track/0OpFhPOLqkODyYQXoeGwEh) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Precious](https://open.spotify.com/album/6U1cUaSzcC7lb1IiKPm6rS) | 3:28 | 2025-07-31 |  |
 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-05 | 2024-08-16 |
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 | 2022-06-10 |
 | [pretty little naive puppet](https://open.spotify.com/track/24KZC6qSdTkSg9R6ZQe7oI) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [pretty little naive puppet](https://open.spotify.com/album/5zUmv3zMD8aZ0vcwsOYpmP) | 3:37 | 2024-04-05 | 2024-06-28 |
@@ -1008,6 +1012,7 @@
 | [tenfold](https://open.spotify.com/track/7LGr6z6GtpmSDnemncbfkw) | [Sophie Hunter](https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf) | [\(go!\)](https://open.spotify.com/album/6ZhhQuBsNZJWKzXN1vVh8Y) | 2:15 | 2025-04-10 | 2025-07-11 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-13 | 2024-02-23 |
 | [Territory of Your Heart](https://open.spotify.com/track/3w4OafKQZXziSa9KcRRqwl) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Territory of Your Heart](https://open.spotify.com/album/0OiMIJaH1n6DUe53OD80Mq) | 3:24 | 2024-08-15 | 2025-03-07 |
+| [Tether](https://open.spotify.com/track/2akKwtzbOE4FDpByVeu1B1) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Crown of My Spirit](https://open.spotify.com/album/2EOuo5rVfUImfbIzu8X9BE) | 3:52 | 2025-07-31 |  |
 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 | 2024-09-05 | 2025-06-20 |
 | [that b\*tch don't even kno my name...](https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [that b\*tch don't even kno my name...](https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU) | 2:18 | 2024-03-29 | 2024-09-27 |
 | [THE ANGEL IN THE SOUND](https://open.spotify.com/track/645X2TEySTA8mWUZOSp3VL) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [THE ANGEL IN THE SOUND](https://open.spotify.com/album/06h9yuZQNJYeLfe83CHRZY) | 3:18 | 2024-01-05 | 2024-02-02 |
@@ -1068,7 +1073,7 @@
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-27 | 2023-09-15 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2023-02-24 |
 | [UH OH!](https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [UH OH!](https://open.spotify.com/album/00dZyIEC3bXTvPqjQ6qAfP) | 1:30 | 2022-03-31 | 2022-09-23 |
-| [Ultraviolence](https://open.spotify.com/track/1bNFfAUi6nogL22y8BsxND) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [Ultraviolence](https://open.spotify.com/album/0M7IxfAZOEW9cyvxxR6s5Z) | 2:46 | 2025-04-10 |  |
+| [Ultraviolence](https://open.spotify.com/track/1bNFfAUi6nogL22y8BsxND) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [Ultraviolence](https://open.spotify.com/album/0M7IxfAZOEW9cyvxxR6s5Z) | 2:46 | 2025-04-10 | 2025-08-01 |
 | [Uncle Fred](https://open.spotify.com/track/7tVc2fhAogS0Yo5zsPSh66) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Uncle Fred](https://open.spotify.com/album/3xYFDIJYP3Lk2zwjmV1AyA) | 2:11 | 2024-04-18 | 2024-07-12 |
 | [under \(feat\. phem\)](https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [under \(feat\. phem\)](https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM) | 2:17 | 2023-09-14 | 2023-12-16 |
 | [Under The Table](https://open.spotify.com/track/6B5NoqyeXRjS3tfq8MZNcy) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/6xQxmSMnt7HM7toUWaSyYz) | 2:13 | 2024-11-15 | 2025-05-02 |
@@ -1098,6 +1103,7 @@
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 | 2025-05-16 |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-08-05 |
+| [Want It](https://open.spotify.com/track/03kl31ZkWyNhMnhFVBRRSz) | [Rahul.mp3](https://open.spotify.com/artist/3Y3lcQULVuy43NluZDkr1N) | [Want It](https://open.spotify.com/album/2029MRuYZndypKEE70tK0R) | 3:03 | 2025-07-31 |  |
 | [War Zone Urchin](https://open.spotify.com/track/5A3uPfOAuxTIXU9QFFsKqp) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 4:04 | 2022-07-19 | 2022-10-14 |
 | [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 | 2022-09-15 | 2023-03-03 |
 | [Was I Ever Alone?](https://open.spotify.com/track/4BDQ6qmjENrdu4G18xfTuU) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [TWST0002 \(Off\-World\)](https://open.spotify.com/album/6OUbgFiB8b7YbFFE7AZFEh) | 3:50 | 2023-12-08 | 2024-03-29 |

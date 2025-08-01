@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: Rokudenashi",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: Vaundy",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 217999,
       "name": "Cosmic Commotion",
       "url": "https://open.spotify.com/track/2IT4ByX4xO9m7TlSuyNKNv"
@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260778,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
+    },
+    {
+      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8"
       },
@@ -7718,7 +7736,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 168157,
       "name": "Sugar Free Venom feat. Kesha",
       "url": "https://open.spotify.com/track/5f89Fv9EdAoSeH0BH6oC7q"
@@ -9606,7 +9624,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 162399,
       "name": "\u304b\u308b\u30ac\u30ebEveryday!!",
       "url": "https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e"
@@ -10938,6 +10956,24 @@
       "duration_ms": 229134,
       "name": "\u30ae\u30df\u30c1\u30e7\u30b3\uff01\uff01",
       "url": "https://open.spotify.com/track/6phW442kV1QOslVbdOQ3aT"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30eb\u30c6\u30a3 - Guilty",
+        "url": "https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "\u30ae\u30eb\u30c6\u30a3 - Guilty",
+      "url": "https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc"
     },
     {
       "album": {
@@ -14022,7 +14058,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"

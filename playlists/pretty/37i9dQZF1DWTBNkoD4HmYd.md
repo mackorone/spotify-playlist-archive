@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,140 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,277 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 | 65 | [Bassoon Concerto in C Major, RV 473: I\. Allegro](https://open.spotify.com/track/63fLm1fW6spUdRgF6jqpBK) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Tamás Benkócs](https://open.spotify.com/artist/4SbTCBiK9lv5x0sUKNQG1B), [Nicolaus Esterhazy Sinfonia](https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z), [Béla Drahos](https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz) | [Vivaldi, A.: Bassoon Concertos \(Complete\), Vol\. 5](https://open.spotify.com/album/7IifSQMujYbVVIKwgDfcTh) | 3:32 |
 | 66 | [Vivaldi \- Concerto in D Major "Grosso Mogul" RV 208: II Recitativo: Grave](https://open.spotify.com/track/4aDDrg0VaoijdLEa8PdCl3) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Viktoria Mullova](https://open.spotify.com/artist/1Ru2MsKaiEbw3TPXeEelQq), [Il Giardino Armonico](https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq), [Giovanni Antonini](https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW) | [Vivaldi 5 Violin Concertos](https://open.spotify.com/album/7etHxO42n1LT4GiAlPGp1O) | 2:25 |
 
-Snapshot ID: `aGKrxAAAAAC9PWKgPB00NDtzAxSI7oZc`
+Snapshot ID: `AAAAADa4DuJWrn2+1W2FuSHc7/chD5EG`

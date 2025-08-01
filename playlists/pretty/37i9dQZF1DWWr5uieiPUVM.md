@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,829 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,915 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 27 | [Desabafo 2](https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Desabafo 2](https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9) | 2:30 |
 | 28 | [Mistérios](https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Mistérios](https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH) | 2:16 |
 | 29 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |
-| 30 | [PARTY](https://open.spotify.com/track/4Q0j8IUJaSxNROmna9IWWX) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Del Jay](https://open.spotify.com/artist/65m0g6XjsnSYsalksAnkz8), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 3:52 |
+| 30 | [PARTY](https://open.spotify.com/track/4Q0j8IUJaSxNROmna9IWWX) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [Del Jay](https://open.spotify.com/artist/65m0g6XjsnSYsalksAnkz8) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 3:52 |
 | 31 | [Quando o Álcool Entra na Sua Mente](https://open.spotify.com/track/2sniIfWH6USYPLYuJk5igA) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Quando o Álcool Entra na Sua Mente](https://open.spotify.com/album/3izLrhzByhA49ZLmNsDNPV) | 3:02 |
 | 32 | [Mente Além](https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:22 |
 | 33 | [3x0](https://open.spotify.com/track/5KPKnW5GafjDwGu3VF2uKH) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Sem Riscos Sem Ganhos](https://open.spotify.com/album/4KGLnSRzR27KFPOKsBFr2J) | 2:14 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Tango \(feat\. Veigh & Niink\)](https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:44 |
 | 55 | [Avançando Muito](https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [beira.wav](https://open.spotify.com/artist/5hqyBZU3Hdg0HfT5VUURTB) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 4:11 |
 
-Snapshot ID: `AAAAALWJXDGwUCTTZaFGdpj+6B5eTLK/`
+Snapshot ID: `aILzSAAAAADFhEVOo32Oz9K4PU7sR3ub`

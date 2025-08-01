@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-244 songs - 14 hr 52 min
+245 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Fool to love \(feat\. RIPLEY\)](https://open.spotify.com/track/4wHCW3I1Q6DO2oKVsK0ZYV) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 2:44 | 2022-07-22 | 2022-08-03 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-20 | 2022-07-05 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-09-05 |  |
-| [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 | 2022-06-20 |  |
+| [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 | 2022-06-20 | 2025-08-01 |
 | [Full Moon](https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 4:34 | 2022-06-29 | 2022-07-20 |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-13 | 2022-08-14 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2022-06-20 | 2022-07-05 |
@@ -164,6 +164,7 @@
 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 | 2022-08-13 |  |
 | [Rain \(feat\. Aden, Kebee\)](https://open.spotify.com/track/3aoXrvOYq3QFOe4bHWUCz1) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Kebee](https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt) | [Rain \(feat\. Aden, Kebee\)](https://open.spotify.com/album/1wYcAlWBTHaGjKPK7KUWJs) | 3:18 | 2022-06-20 | 2022-07-23 |
 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 | 2022-08-13 |  |
+| [Rain Calling](https://open.spotify.com/track/5IHO4Qlm9COqAyNY0txojx) | [Band Oyster](https://open.spotify.com/artist/6srjyToknvIumliRxxTRmc) | [Rain Calling](https://open.spotify.com/album/1RhJsHVXMTNJSQ9rQMkfp3) | 4:22 | 2025-07-31 |  |
 | [Rain Drop](https://open.spotify.com/track/3Xm3i2teDnfh3L99wAPqcb) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:25 | 2022-06-20 | 2022-07-29 |
 | [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 | 2022-07-22 | 2024-04-11 |
 | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Lee Na Eun](https://open.spotify.com/artist/4zTGygjPjB8OiETW8jnsGN) | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/album/4WcaWGK3EVqLMZ8lHGXwNj) | 3:23 | 2022-06-20 | 2022-07-28 |

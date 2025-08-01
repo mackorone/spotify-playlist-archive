@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-492 songs - 2 day 1 hr 32 min
+493 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Firefly](https://open.spotify.com/track/4bKJlLA8hJZyuxzsyI3PfT) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:10 | 2020-04-18 | 2020-09-26 |
 | [Flood](https://open.spotify.com/track/1o5xfwWuhS4oe7zgZdQTPy) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Cycles](https://open.spotify.com/album/1arG7wuAlcDNaXD8let4Et) | 5:42 | 2020-10-09 | 2021-01-15 |
 | [Flou](https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [Mirage](https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h) | 6:25 | 2019-08-02\* | 2023-02-01 |
-| [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 | 2020-09-26 |  |
+| [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 | 2020-09-26 | 2025-08-01 |
 | [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-23 |  |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2024-09-20 | 2025-07-26 |
 | [Forever \(feat\. Malou & Yuna\) \- MEDUZA Remix](https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[MEDUZA Remix\]](https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp) | 2:41 | 2025-01-10 |  |
@@ -234,6 +234,7 @@
 | [Kotosis](https://open.spotify.com/track/2eXznFTqDfPzXnplvl1is5) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Sarkis Mikael](https://open.spotify.com/artist/5bdaeSGBTGVLdu1oC2qIMl), [Juandros](https://open.spotify.com/artist/34tjnA6Wfgotxy9B3FQaEk) | [Grain of Life](https://open.spotify.com/album/3vGBaof9Le3GLWPpUTN5cg) | 6:15 | 2020-11-05 | 2022-07-24 |
 | [Kwenzenjani](https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw) | [REKERE](https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD) | 7:45 | 2023-02-17 | 2024-07-23 |
 | [Kyra](https://open.spotify.com/track/5mVsfYRumGlHONrZVx8hbe) | [Danito & Athina](https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o) | [Kyra](https://open.spotify.com/album/6hEUUxnpFB82Lttumtep24) | 7:37 | 2019-08-02\* | 2021-05-26 |
+| [La China](https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [La China](https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2) | 4:23 | 2025-07-25 |  |
 | [La Isla \- Radio Version](https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro) | [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [Eribertho Cruz](https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb) | [La Isla](https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0) | 3:13 | 2022-09-09 |  |
 | [La Sombra Del Viento](https://open.spotify.com/track/5FPfXjdeNVD7HxyDnszG3K) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [La Sombra Del Viento](https://open.spotify.com/album/2dUvFMlr8HfWMxxwFCFJfe) | 7:14 | 2022-04-04 | 2022-04-21 |
 | [Last Night \(Korolova Remix\)](https://open.spotify.com/track/6cg1PezjpVSRsRa7f9SnIP) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Last Night \(Korolova Remix\)](https://open.spotify.com/album/1xcEl66LnB3qYVJrkIf4Mf) | 2:57 | 2025-01-10 |  |

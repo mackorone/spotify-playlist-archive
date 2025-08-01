@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlucjkX5Dv.md) - [plain]
 
 > The songs that inspired Ronaldinho in the 2000s\. Handpicked by the Brazilian and Barça legend himself!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,097 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,108 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Coisa de Pele](https://open.spotify.com/track/1gSOBwv1QSq6SsEQ2EzT9h) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Coisa de Pele](https://open.spotify.com/album/3je8h1kMqaCq1TNaSvT02c) | 3:24 |
 | 2 | [Supra Sumo Do Amor](https://open.spotify.com/track/7KoOkj2LKFWmnhXxco7pIs) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Sensações](https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p) | 3:29 |
 | 3 | [Smile](https://open.spotify.com/track/2hzKxuc2LwqMnkoVRMkV0B) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:38 |
-| 4 | [Sem Abuso \- Ao Vivo](https://open.spotify.com/track/7yDjFcO9qsgnSKD5Cpo6jg) | [Art Popular](https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA) | [Ao Vivo Sem Abuso](https://open.spotify.com/album/0lsnBQYX1ZlvWIQPm1o8RX) | 3:37 |
+| 4 | [Sem Abuso \- Ao Vivo](https://open.spotify.com/track/7yDjFcO9qsgnSKD5Cpo6jg) | [Art Popular](https://open.spotify.com/artist/5WBDSQqRHLYAwSIYP81Qe3) | [Ao Vivo Sem Abuso](https://open.spotify.com/album/0lsnBQYX1ZlvWIQPm1o8RX) | 3:37 |
 | 5 | [Já Virou Rotina](https://open.spotify.com/track/1IznNmvD48Wn4L6VJxYuQn) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Festa no Quintal, Vol\. 02](https://open.spotify.com/album/3qszCqBK9QmSoRcwDw2asi) | 3:09 |
 | 6 | [Jogo de Sedução](https://open.spotify.com/track/6c5NXo0r611h0gBb55CFDa) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Novos Tempos](https://open.spotify.com/album/3t90OdRaE71QuHR2Ypf7E2) | 4:34 |
 | 7 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |

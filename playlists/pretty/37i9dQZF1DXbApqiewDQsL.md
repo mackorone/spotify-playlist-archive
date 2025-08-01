@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Eduardo Laguna
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,020 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,037 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 9 | [Francia](https://open.spotify.com/track/6fVyC6eqAVFxYG8Jd0eGVZ) | [Cesar Zazueta](https://open.spotify.com/artist/11wKys5M4JN6NWofFvBcHI) | [Francia](https://open.spotify.com/album/5Tw6OXywctFdA5wbHIngxj) | 3:17 |
 | 10 | [Presiento](https://open.spotify.com/track/4EcEX2Y958odLYw7BgMZXK) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Presiento](https://open.spotify.com/album/5rxwbEV0FTIpqA0uoxop7X) | 2:34 |
 | 11 | [Ice Spice](https://open.spotify.com/track/2PLlbkjeVYHswL6JaiHYnF) | [CHINO FLY](https://open.spotify.com/artist/7qqKb1Ouzps5rVIfk1EmZq) | [Ice Spice](https://open.spotify.com/album/701HUPqmeQHMyyVoogHrQB) | 3:01 |
-| 12 | [Chill Guys](https://open.spotify.com/track/13k4isgcfcynqAnCdZ4CUh) | [Grupo RYE](https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv) | [Chill Guys](https://open.spotify.com/album/6Jhzm2zjaJQ5PpwbU286NK) | 2:56 |
+| 12 | [Chill Guys](https://open.spotify.com/track/13k4isgcfcynqAnCdZ4CUh) | [Grupo RYE](https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv) | [Chill Guys](https://open.spotify.com/album/6Jhzm2zjaJQ5PpwbU286NK) | 2:57 |
 | 13 | [Pa Que Me Enamoraste](https://open.spotify.com/track/6AOFkX8hYO2PdkZqlzlIdc) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b) | [Pa Que Me Enamoraste](https://open.spotify.com/album/0OeV2b0nBxeVqoAH8fqGsO) | 3:00 |
 | 14 | [Bye Boy](https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bye Boy](https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc) | 2:58 |
 | 15 | [Underwater](https://open.spotify.com/track/1Nz9cnI9DsDS3OkET29oM8) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Underwater](https://open.spotify.com/album/023pEjKfHVmdDgBoq4CmUB) | 2:41 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 256363,
       "name": "1987",
       "url": "https://open.spotify.com/track/5xKPYDrSEwyRRtlxEOi0lQ"
+    },
+    {
+      "album": {
+        "name": "224 (11 Version)",
+        "url": "https://open.spotify.com/album/2eG7Z6GaUfqwHmk3VKLkgU"
+      },
+      "artists": [
+        {
+          "name": "2HOUSES PROJECT",
+          "url": "https://open.spotify.com/artist/59441Mw94CYRyVUHX0Bc9H"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "224 - 11 Version",
+      "url": "https://open.spotify.com/track/3n5MLDvuUqHv9szooWnr2B"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 299454,
       "name": "Colorcon Wink",
       "url": "https://open.spotify.com/track/3OU1ssBavzW8bUI7levAdI"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 234285,
       "name": "TRUST ISSUES (\u0e44\u0e27\u0e49\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27)",
       "url": "https://open.spotify.com/track/6TLLoXCwSdWC34nd2sxltS"
@@ -11970,6 +11988,28 @@
       "duration_ms": 192989,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2a\u0e2d\u0e07 (Love Tone)",
       "url": "https://open.spotify.com/track/5IeEEXL1vAeavccMOooYCF"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (LOVE ECHO)",
+        "url": "https://open.spotify.com/album/4fmcsQoMPWIhWmRCuiqGPy"
+      },
+      "artists": [
+        {
+          "name": "William Jakrapatr",
+          "url": "https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ"
+        },
+        {
+          "name": "Est Supha",
+          "url": "https://open.spotify.com/artist/1Huc366KRzo3Y1GWnnuFLO"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (LOVE ECHO)",
+      "url": "https://open.spotify.com/track/4xPzuOR3R6nMejvmgvVsVe"
     },
     {
       "album": {

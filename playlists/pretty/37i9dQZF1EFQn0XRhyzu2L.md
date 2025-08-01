@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,352 likes - 511 songs - 1 day 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,353 likes - 511 songs - 1 day 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,4 +520,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 510 | [A Pink Lady Strikes Back](https://open.spotify.com/track/7oC6aniTH48y5rG3QL49k1) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:42 |
 | 511 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `Ab4MZgAAAAD3gLTWZI92BgICz/kupDAS`
+Snapshot ID: `Ab4R8gAAAAD27eB5FMwbrnqsSwd6p+Cz`

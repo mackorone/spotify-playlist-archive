@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 760814,
+  "num_followers": 760958,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,26 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Conv\u00e9nceme",
-        "url": "https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO"
+        "name": "Fama de Diabla",
+        "url": "https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1"
       },
       "artists": [
         {
           "name": "La K'onga",
           "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         }
       ],
-      "duration_ms": 190045,
-      "name": "Conv\u00e9nceme",
-      "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
+      "duration_ms": 208979,
+      "name": "Fama de Diabla",
+      "url": "https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -899,26 +907,18 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Fama de Diabla",
-        "url": "https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1"
+        "name": "Conv\u00e9nceme",
+        "url": "https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO"
       },
       "artists": [
         {
           "name": "La K'onga",
           "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         }
       ],
-      "duration_ms": 208979,
-      "name": "Fama de Diabla",
-      "url": "https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd"
+      "duration_ms": 190045,
+      "name": "Conv\u00e9nceme",
+      "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "No Puedo Fingirlo",
-        "url": "https://open.spotify.com/album/300aT1T1b5w3BVlKnwxSDB"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "No Puedo Fingirlo",
-      "url": "https://open.spotify.com/track/1OEZzIyMUzSU8ZZc9C6OdD"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "A veces, a besos",
         "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 198277,
       "name": "A veces, a besos",
       "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "No Puedo Fingirlo",
+        "url": "https://open.spotify.com/album/300aT1T1b5w3BVlKnwxSDB"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "No Puedo Fingirlo",
+      "url": "https://open.spotify.com/track/1OEZzIyMUzSU8ZZc9C6OdD"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "En la piel",
-        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 310099,
-      "name": "Te hubieras ido antes - En Vivo",
-      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "A Lo Largo Y A Lo Ancho",
         "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 230586,
       "name": "Tu Vas a Volar",
       "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "En la piel",
+        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 310099,
+      "name": "Te hubieras ido antes - En Vivo",
+      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Tu Amante En Secreto",
         "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 224680,
       "name": "Piensa en M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
         "name": "JULIETA & ROMEO (En Vivo)",
         "url": "https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 163468,
       "name": "JULIETA & ROMEO (En Vivo)",
       "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Yo Era - Pero Me Acuerdo De T\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4RkTc8DAPGZYYti4LcE0ij"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 343880,
       "name": "Yo Era - Pero Me Acuerdo De T\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/3uwBpXEHtJXkGRxJXs32Qf"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Fuiste Mala / Si Una Vez",
-        "url": "https://open.spotify.com/album/75tr89NLHOSlOK05XPSFqH"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 206297,
-      "name": "Fuiste Mala / Si Una Vez",
-      "url": "https://open.spotify.com/track/5hFMovaf58nqk7WkMQ2PSi"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Con el Coraz\u00f3n en la Mano",
         "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
       },
@@ -1815,6 +1795,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
         "name": "\u00bfQui\u00e9n te dijo?",
         "url": "https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn"
       },
@@ -1831,22 +1827,6 @@
       "duration_ms": 165546,
       "name": "\u00bfQui\u00e9n te dijo?",
       "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
-        {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
-        }
-      ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1879,6 +1859,26 @@
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Fuiste Mala / Si Una Vez",
+        "url": "https://open.spotify.com/album/75tr89NLHOSlOK05XPSFqH"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 206297,
+      "name": "Fuiste Mala / Si Una Vez",
+      "url": "https://open.spotify.com/track/5hFMovaf58nqk7WkMQ2PSi"
     },
     {
       "added_at": "2025-07-25 03:00:27",

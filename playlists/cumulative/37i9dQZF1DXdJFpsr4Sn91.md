@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit.
 
-837 songs - 1 day 17 hr 42 min
+841 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Eka tai toka](https://open.spotify.com/track/0BsizkduSdj2b90uAk8Sat) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Eka tai toka](https://open.spotify.com/album/6TK9Qr42ghbH7LVWxfxqf6) | 2:38 | 2024-07-02 | 2024-07-19 |
 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 | 2024-08-22 | 2024-10-25 |
 | [Elina](https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Elina](https://open.spotify.com/album/0TXSaiioO53QlKnuePS0Zt) | 2:48 | 2024-10-24 | 2024-12-13 |
+| [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 | 2025-08-01 |  |
 | [Elämää](https://open.spotify.com/track/5m0k08yKvP86Es3VB6Eglc) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Paha maa](https://open.spotify.com/album/3eEACvL4jEhDbbjHIh5fvx) | 2:36 | 2024-10-17 | 2024-11-08 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-03 | 2024-10-25 |
 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 | 2024-09-14 | 2024-12-03 |
@@ -242,6 +243,7 @@
 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-07 | 2024-11-29 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-11 |
 | [Hei hei ja hyvästi](https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Hei hei ja hyvästi](https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb) | 2:28 | 2025-01-02 | 2025-01-17 |
+| [Helpompaa](https://open.spotify.com/track/32bnxGecUeJzzVazFQqX3l) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Helpompaa](https://open.spotify.com/album/2DW2DNECnPTWeEuSSj2IIi) | 2:30 | 2025-08-01 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-05-09 |
 | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo) | [AikaPoliisi](https://open.spotify.com/artist/2k8fCxI9Og8jLjsYmotd7J) | [Herkkukauppa \(Bam Tsiki Tsiki\)](https://open.spotify.com/album/02AAVxfdMqurVFDJMXTmCw) | 3:45 | 2025-05-18 | 2025-06-27 |
 | [Hideaway](https://open.spotify.com/track/0vPFKYTI6VNFhGTnyaa3SS) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hideaway](https://open.spotify.com/album/1IxVW2BhEB9qUdwe3rzMBF) | 3:23 | 2024-07-18 | 2024-08-02 |
@@ -512,6 +514,7 @@
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2024-12-06 |
 | [Nuori & kuolematon](https://open.spotify.com/track/2atByJ9SAhyxRncHVEcJqs) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Nuori & kuolematon](https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc) | 2:33 | 2025-02-13 | 2025-03-28 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-13 |
+| [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 | 2025-08-01 |  |
 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 | 2025-01-31 |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 | 2024-09-06 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-26 | 2024-08-08 |
@@ -724,6 +727,7 @@
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-02 | 2024-07-12 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-04-11 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-09-05 | 2024-11-08 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-09-20 |
 | [Tilanne vaatii](https://open.spotify.com/track/6T2IVIG3RGB7ImxV9pglP8) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Tilanne vaatii](https://open.spotify.com/album/6UF8RIXjESZLMQFcsjIuLs) | 2:47 | 2025-06-26 | 2025-07-04 |
 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 | 2025-01-09 | 2025-02-14 |

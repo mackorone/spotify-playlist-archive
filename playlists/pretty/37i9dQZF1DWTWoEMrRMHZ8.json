@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Chico",
-  "num_followers": 351231,
+  "num_followers": 351278,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
         "name": "JV30 Tour, Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 268364,
       "name": "S\u00f3 Quem Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
-        "name": "Garota do Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 172618,
-      "name": "Garota do Fant\u00e1stico",
-      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
         "name": "Prud\u00eancia - Praga",
         "url": "https://open.spotify.com/album/0qUA4PLjTdr9F67xgJKdBZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 198250,
       "name": "Praga",
       "url": "https://open.spotify.com/track/4mVF0VWZ8mS2gqSoed5V2c"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
+        "name": "Garota do Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 172618,
+      "name": "Garota do Fant\u00e1stico",
+      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
-        "name": "FOI NO S\u00c3O JO\u00c3O",
-        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 189589,
-      "name": "FOI NO S\u00c3O JO\u00c3O",
-      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -759,6 +739,22 @@
       "duration_ms": 181128,
       "name": "Seduzir",
       "url": "https://open.spotify.com/track/6VL85SJM9lbFDPYT7MuSEj"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -783,18 +779,22 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+        "name": "FOI NO S\u00c3O JO\u00c3O",
+        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
       "artists": [
         {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+      "duration_ms": 189589,
+      "name": "FOI NO S\u00c3O JO\u00c3O",
+      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
         "name": "Eu Vivendo Nossa Vida",
         "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
+        "name": "Meu Verbo",
+        "url": "https://open.spotify.com/album/2C2Qd5fMLanudlepIChQxY"
+      },
+      "artists": [
+        {
+          "name": "Verbo Gentileza",
+          "url": "https://open.spotify.com/artist/7l3tk5FkJrV14JQcmKiz6V"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 199387,
+      "name": "Meu Verbo",
+      "url": "https://open.spotify.com/track/3qR9mwf0BeT8OlPEMVz5GN"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -1159,22 +1179,6 @@
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
-        "name": "segredo",
-        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 192555,
-      "name": "segredo",
-      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
-        "name": "Meu Verbo",
-        "url": "https://open.spotify.com/album/2C2Qd5fMLanudlepIChQxY"
+        "name": "segredo",
+        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
       },
       "artists": [
         {
-          "name": "Verbo Gentileza",
-          "url": "https://open.spotify.com/artist/7l3tk5FkJrV14JQcmKiz6V"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 199387,
-      "name": "Meu Verbo",
-      "url": "https://open.spotify.com/track/3qR9mwf0BeT8OlPEMVz5GN"
+      "duration_ms": 192555,
+      "name": "segredo",
+      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
     },
     {
       "added_at": "2025-07-25 17:45:42",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-07-25 17:45:42",
       "album": {
+        "name": "Revoada Baile Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7vSvc8RQvutXmWSXBgcUaN"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 191064,
+      "name": "Eu e o Tempo",
+      "url": "https://open.spotify.com/track/3vl8RDpkJycgqd2bVNFJMX"
+    },
+    {
+      "added_at": "2025-07-25 17:45:42",
+      "album": {
         "name": "Ao Persistirem os Sintomas",
         "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 215173,
       "name": "Balan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
-    },
-    {
-      "added_at": "2025-07-25 17:45:42",
-      "album": {
-        "name": "Revoada Baile Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7vSvc8RQvutXmWSXBgcUaN"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 194508,
-      "name": "Eu e o Tempo",
-      "url": "https://open.spotify.com/track/3vl8RDpkJycgqd2bVNFJMX"
     },
     {
       "added_at": "2025-07-25 17:45:42",

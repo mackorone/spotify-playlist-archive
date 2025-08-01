@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,156 likes - 41 songs - 2 hr 46 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,159 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 39 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 |
 | 40 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
 | 41 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
+| 42 | [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 |
 
-Snapshot ID: `AAAM3oJwxieQP9+llczZXK0Nn9PEiMaS`
+Snapshot ID: `AAAM4MPdwsQ6kc5jw5IYluNL4X9bJdau`

@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Bekkeria in cover.
+> Rap napoletano e il meglio della scena campana\. Im Envy in cover.
 
 504 songs - 23 hr 6 min
 

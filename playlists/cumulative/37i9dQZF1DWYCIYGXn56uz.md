@@ -4,7 +4,7 @@
 
 > 💫giovane💫pop💫z💫 Cover: Olly
 
-798 songs - 1 day 12 hr 59 min
+800 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-06-30 |
 | [Assurdo](https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Assurdo](https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h) | 3:01 | 2024-01-04 | 2024-03-15 |
 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
-| [ATTIMO ETERNO](https://open.spotify.com/track/4EytknnS0JlIu0ReBfdTiL) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [ATTIMO ETERNO](https://open.spotify.com/album/1XuEaRhoLulcMpDumTpJzR) | 3:10 | 2025-06-19 |  |
+| [ATTIMO ETERNO](https://open.spotify.com/track/4EytknnS0JlIu0ReBfdTiL) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [ATTIMO ETERNO](https://open.spotify.com/album/1XuEaRhoLulcMpDumTpJzR) | 3:10 | 2025-06-19 | 2025-08-01 |
 | [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-07 | 2024-04-12 |
 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 | 2025-04-17 |  |
 | [Autogol](https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Autogol](https://open.spotify.com/album/3YBhgpFuwuRf0APuD4Ff2M) | 2:34 | 2023-11-23 | 2023-12-13 |
@@ -366,6 +366,7 @@
 | [La parte più bella di me \- RMX](https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/4EwMpauuV16OuTohtrb4Zd) | 2:15 | 2023-10-19 | 2023-10-27 |
 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 | 2023-10-12 | 2024-03-15 |
 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 | 2024-02-07 | 2024-07-12 |
+| [LA SCELTA MIGLIORE](https://open.spotify.com/track/05GF1uj3i2yxc3fN7dF09j) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [LA SCELTA MIGLIORE](https://open.spotify.com/album/2yGOeuOJxpi2VUYuABdGqT) | 2:07 | 2025-07-31 |  |
 | [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2025-01-02 | 2025-01-24 |
 | [La Storia Più Triste Del Mondo](https://open.spotify.com/track/4FeBQvfSqo5YxuUKKDGW30) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [La Storia Più Triste Del Mondo](https://open.spotify.com/album/7HLFnEr0FHVK4UvNdaSV3T) | 2:56 | 2024-05-09 | 2024-06-28 |
 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 | 2024-05-16 | 2024-10-04 |
@@ -399,6 +400,7 @@
 | [LUNATICA](https://open.spotify.com/track/44hgUkuHgSkLfF3MpAJgYC) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [LUNATICA](https://open.spotify.com/album/4v4ZPUnw9s9MWZjTVHtPo5) | 2:37 | 2023-03-23 | 2023-04-14 |
 | [L’ANTIDOTO](https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [L’ANTIDOTO](https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q) | 2:28 | 2025-03-20 |  |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-05-16 | 2024-06-21 |
+| [MA CHE IDEA RMX](https://open.spotify.com/track/3NX8uz8ollJtkfa5IQczm1) | [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA RMX](https://open.spotify.com/album/3wUrUcYjwY1uLfvB0bHC4e) | 2:57 | 2025-07-31 |  |
 | [MA TU CI PENSI A ME?](https://open.spotify.com/track/6LvtUulxb6zQpOzXaq4tc8) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [MA TU CI PENSI A ME?](https://open.spotify.com/album/1i4Cwr875BKs1pFbGqYlDJ) | 2:57 | 2024-06-13 | 2024-07-19 |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-03-23 | 2023-05-05 |
 | [MADRID](https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [MADRID](https://open.spotify.com/album/6W1uDUWHc2fI4hlTI9HCxo) | 2:34 | 2024-11-14 | 2025-05-16 |
@@ -600,7 +602,7 @@
 | [Respiro](https://open.spotify.com/track/7cTnsIBQc7zNDHGtGwBMib) | [Giotto](https://open.spotify.com/artist/3G7ixdSivLML142Kk1clmM) | [Respiro](https://open.spotify.com/album/2XnryXyltzx6kPeUmk1fLM) | 2:10 | 2025-07-24 |  |
 | [RESPIRO](https://open.spotify.com/track/40k5DDJ6MCmjB58rz4Na5y) | [Jr Stit](https://open.spotify.com/artist/1sNV30IxwL2qIKcZgx7fvj), [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [RESPIRO](https://open.spotify.com/album/1K5PeaNlS2oK2op7ZK9IxT) | 2:51 | 2025-07-24 |  |
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-05-31 | 2024-07-05 |
-| [RESTA](https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [RESTA](https://open.spotify.com/album/789pMbMUOcAWVLvI1xvIjG) | 2:32 | 2025-06-19 |  |
+| [RESTA](https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [RESTA](https://open.spotify.com/album/789pMbMUOcAWVLvI1xvIjG) | 2:32 | 2025-06-19 | 2025-08-01 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 | 2023-09-22 |
 | [Ricchezza](https://open.spotify.com/track/0uKeTxLRjaRjnaggnYlxzl) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [Ricchezza](https://open.spotify.com/album/2NUXQ9xiroThHs1Cz6Hqe4) | 2:18 | 2024-06-13 | 2024-06-28 |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |

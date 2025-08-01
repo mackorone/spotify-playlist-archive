@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,092 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,074 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Rabbit Hole](https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU) | [FLEUR ROUGE](https://open.spotify.com/artist/0ffRuel3oov8h1yxqyZLVY) | [Wish You The Worst](https://open.spotify.com/album/1SbbDPa5Z8O7xWDHQIXdgy) | 2:57 |
 | 50 | [Like No One's Watching](https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Like No One's Watching](https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3) | 3:16 |
 
-Snapshot ID: `aIO7IwAAAABy59KjN+CXSekfhYRsKfJN`
+Snapshot ID: `AAAAAGNJdKFrBjRQs4DAVCbCB1e0mZ/d`

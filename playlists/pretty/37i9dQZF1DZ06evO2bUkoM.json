@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAAEq43+TvaU8ssDcrRX2k4M",
+  "snapshot_id": "aIlggAAAAABlscPaTZOXkNhLMobp1zOC",
   "tracks": [
     {
       "added_at": null,
@@ -299,42 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Wanna Be Missed",
-      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taste So Good (The Cann Song)",
         "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
       },
@@ -359,6 +323,42 @@
       "duration_ms": 155975,
       "name": "Taste So Good (The Cann Song)",
       "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
     },
     {
       "added_at": null,

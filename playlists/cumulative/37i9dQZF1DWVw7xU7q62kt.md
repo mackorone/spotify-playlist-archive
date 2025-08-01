@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-584 songs - 1 day 2 hr 12 min
+585 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [And Just Keep Playing](https://open.spotify.com/track/6bvI6NfhE9iFQ0hPx8mTVi) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [And Just Keep Playing](https://open.spotify.com/album/129XBUfdwfMBd7pB7eqEh8) | 2:46 | 2024-09-13 | 2024-12-17 |
 | [Angels Speak](https://open.spotify.com/track/3rpnDxCVthm3sJO6lYbBMC) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Angels Speak](https://open.spotify.com/album/0VDwxs0VjERbqSlTsKZTdf) | 3:55 | 2025-03-03 | 2025-03-08 |
 | [Annie's Tune](https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Annie's Tune](https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP) | 4:23 | 2023-08-22 | 2024-09-18 |
-| [Antares](https://open.spotify.com/track/4GV8qeSomnFN2IPYqmOYwF) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Antares](https://open.spotify.com/album/1DKDUP5mxJ7MoW3IhhFhxw) | 2:01 | 2024-10-11 |  |
+| [Antares](https://open.spotify.com/track/4GV8qeSomnFN2IPYqmOYwF) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Antares](https://open.spotify.com/album/1DKDUP5mxJ7MoW3IhhFhxw) | 2:01 | 2024-10-11 | 2025-08-01 |
 | [Anthem](https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Anthem](https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei) | 6:03 | 2025-03-14 | 2025-03-29 |
 | [Antidot](https://open.spotify.com/track/6uYJzgNsiy1JdP0SdOxwkh) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Antidot](https://open.spotify.com/album/0b3GckTAQH8frqpmi2mqgA) | 2:10 | 2024-09-27 |  |
 | [Around The Block](https://open.spotify.com/track/7vxDJbm2nnrPEK7IdxK4JW) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [VLADKO](https://open.spotify.com/artist/6ftomcXSADOmmYxdiIdZZq) | [Around The Block](https://open.spotify.com/album/4JF2SChe0CKXwiW2Lu72N6) | 2:12 | 2025-04-04 |  |
@@ -405,6 +405,7 @@
 | [Profondeurs](https://open.spotify.com/track/0u7gu9IVPuIwZaY89I0dTF) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Profondeurs](https://open.spotify.com/album/3uV2Qo5LNX3oBf9Wl88DFK) | 2:09 | 2025-07-18 |  |
 | [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 | 2025-05-17 |
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 |  |
+| [Quenched](https://open.spotify.com/track/709yRH5Fy1wkdCvG9ZPve2) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Quenched](https://open.spotify.com/album/51gh7HSGiVQAxIOi1kFitN) | 1:52 | 2025-07-25 |  |
 | [Radiant](https://open.spotify.com/track/5IFbLsAWhTGTvcxbDmBc3x) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Radiant](https://open.spotify.com/album/5u67NxPdoFshAfqbqApE3h) | 2:00 | 2025-05-09 | 2025-05-17 |
 | [Raindrops \(Keep Falling\)](https://open.spotify.com/track/1alxM3iJBdPqLdrYI2K4Qi) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Raindrops \(Keep Falling\)](https://open.spotify.com/album/0lz3hiloBN4Iws4YivBxHT) | 2:13 | 2025-06-13 | 2025-07-05 |
 | [Real Time](https://open.spotify.com/track/4gThNpAAjtg0ZAS7QM172H) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Real Time](https://open.spotify.com/album/7Hc6aC2dJBrfPUwXyvKZnt) | 2:13 | 2025-06-06 | 2025-07-05 |

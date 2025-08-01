@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b5\u30cb\u30fc\u30c7\u30a4\u30fb\u30b5\u30fc\u30d3\u30b9 Sunny Day Service",
-  "num_followers": 64090,
+  "num_followers": 64107,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,38 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "Stand up",
+        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Stand up",
+      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "\u77f3\u306e\u7cf8",
+        "url": "https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA"
+      },
+      "artists": [
+        {
+          "name": "kanekoayano",
+          "url": "https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c"
+        }
+      ],
+      "duration_ms": 187025,
+      "name": "\u96e3\u3057\u3044",
+      "url": "https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie"
       },
@@ -659,38 +691,6 @@
       "duration_ms": 195108,
       "name": "\u30de\u30a4\u30eb feat.Gotch",
       "url": "https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "Stand up",
-        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
-      },
-      "artists": [
-        {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Stand up",
-      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "\u77f3\u306e\u7cf8",
-        "url": "https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA"
-      },
-      "artists": [
-        {
-          "name": "kanekoayano",
-          "url": "https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c"
-        }
-      ],
-      "duration_ms": 187025,
-      "name": "\u96e3\u3057\u3044",
-      "url": "https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "LUMINOUS",
-        "url": "https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "\u65b0\u3057\u3044summer",
-      "url": "https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "MOVE MOVE",
         "url": "https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 216368,
       "name": "MOVE MOVE",
       "url": "https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "\u65b0\u3057\u3044summer",
+      "url": "https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "TIME SLIP",
+        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 268060,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "Let it Out",
         "url": "https://open.spotify.com/album/6EhX0X2emIWJMXJK21hHqC"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "TIME SLIP",
-        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+        "name": "sekisei inko",
+        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
       },
       "artists": [
         {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
         }
       ],
-      "duration_ms": 268060,
-      "name": "PERFECT",
-      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+      "duration_ms": 207745,
+      "name": "sekisei inko",
+      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -899,18 +915,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "sekisei inko",
-        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
+        "name": "eeny meeny",
+        "url": "https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX"
       },
       "artists": [
         {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
         }
       ],
-      "duration_ms": 207745,
-      "name": "sekisei inko",
-      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
+      "duration_ms": 256458,
+      "name": "eeny meeny",
+      "url": "https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -931,26 +951,6 @@
       "duration_ms": 249876,
       "name": "Blur",
       "url": "https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "eeny meeny",
-        "url": "https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX"
-      },
-      "artists": [
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 256458,
-      "name": "eeny meeny",
-      "url": "https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "\u8292\u679c",
-        "url": "https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY"
-      },
-      "artists": [
-        {
-          "name": "Summer Eye",
-          "url": "https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "\u8292\u679c",
-      "url": "https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "WINDSDAY",
         "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 185094,
       "name": "WINDSDAY",
       "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "\u8292\u679c",
+        "url": "https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY"
+      },
+      "artists": [
+        {
+          "name": "Summer Eye",
+          "url": "https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "\u8292\u679c",
+      "url": "https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Hatch Meets June",
-        "url": "https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Hatch Meets June",
-      "url": "https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "Johnny\uff06Ayako",
         "url": "https://open.spotify.com/album/6gdxQrEByPbQWC4RePGqWJ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 147822,
       "name": "Johnny\uff06Ayako",
       "url": "https://open.spotify.com/track/3noH09WtyT45nrha4YoaAs"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "Hatch Meets June",
+        "url": "https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Hatch Meets June",
+      "url": "https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "1985",
-        "url": "https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM"
-      },
-      "artists": [
-        {
-          "name": "ART-SCHOOL",
-          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
-        }
-      ],
-      "duration_ms": 200481,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "\u5e78\u798f\u306e\u57f9\u990a",
         "url": "https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 175714,
       "name": "\u5e78\u798f\u306e\u57f9\u990a",
       "url": "https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "1985",
+        "url": "https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "duration_ms": 200481,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW"
     },
     {
       "added_at": "2025-07-29 15:00:27",

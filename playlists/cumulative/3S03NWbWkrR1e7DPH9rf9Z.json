@@ -2435,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Make You Dance",
+        "url": "https://open.spotify.com/album/2OJL1a3IENdAKYHYfoCRNW"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Make You Dance",
+      "url": "https://open.spotify.com/track/5gHGLBWGSaBVvHT88VktRf"
+    },
+    {
+      "album": {
         "name": "Mammoth",
         "url": "https://open.spotify.com/album/40SVwGAc7XMY9qWQ2doyfN"
       },

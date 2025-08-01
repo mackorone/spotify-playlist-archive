@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: Cristian D
 
-91 songs - 4 hr 18 min
+92 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2025-07-17 |  |
 | [Carrousel](https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Carrousel](https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt) | 2:10 | 2025-07-17 |  |
 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 | 2025-07-17 |  |
-| [CARXXX \(feat\. Idaly\)](https://open.spotify.com/track/7gr3oQwnO34jl8d9NeLiiA) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [CARXXX \(feat\. Idaly\)](https://open.spotify.com/album/1X4XCmgE1y1yVp3DKxKxCD) | 2:57 | 2025-07-17 |  |
+| [CARXXX \(feat\. Idaly\)](https://open.spotify.com/track/7gr3oQwnO34jl8d9NeLiiA) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [CARXXX \(feat\. Idaly\)](https://open.spotify.com/album/1X4XCmgE1y1yVp3DKxKxCD) | 2:57 | 2025-07-17 | 2025-08-01 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2025-07-17 |  |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2025-07-17 |  |
 | [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2025-07-17 |  |
@@ -99,5 +99,6 @@
 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2025-07-17 |  |
 | [Your Season](https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Your Season](https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy) | 2:32 | 2025-07-17 |  |
 | [Zonder Mij](https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Zonder Mij](https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3) | 3:23 | 2025-07-17 |  |
+| [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 | 2025-07-17 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

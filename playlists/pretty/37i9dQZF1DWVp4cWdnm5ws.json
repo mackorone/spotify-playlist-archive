@@ -1,13 +1,61 @@
 {
   "description": "Discover new artists on the horizon this 2025. Cover: Zae\n",
-  "num_followers": 134272,
+  "num_followers": 134282,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnuZwAAAACpahWBH0dtR4hLcp9FB5LQ",
+  "snapshot_id": "aIwRkgAAAACFlWHLyztVj9hsgFoo3fHz",
   "tracks": [
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Hala",
+        "url": "https://open.spotify.com/album/3yEgEq1DwEWwt6KZZ9JJ5C"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "duration_ms": 231204,
+      "name": "Hala",
+      "url": "https://open.spotify.com/track/1BhfBWHDty1Ic0E1EjU826"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Maulan",
+        "url": "https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "duration_ms": 239968,
+      "name": "Maulan",
+      "url": "https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "HU$$",
+        "url": "https://open.spotify.com/album/0uPolw7itxHskTKq9PKE4B"
+      },
+      "artists": [
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "duration_ms": 108891,
+      "name": "HU$$",
+      "url": "https://open.spotify.com/track/46GSqzkjGkGndIi5ZFJH5O"
+    },
     {
       "added_at": "2025-07-18 06:49:11",
       "album": {

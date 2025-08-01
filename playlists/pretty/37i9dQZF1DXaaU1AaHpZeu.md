@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con KORDELYA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,928 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,871 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 50 | [Dejar de pensarte](https://open.spotify.com/track/6DrmYhmZ8KJqUlsN8M4TFz) | [Koi No Yokani](https://open.spotify.com/artist/0HmvasS3WEgZ11kXZ3lHmt), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dejar de pensarte](https://open.spotify.com/album/2HhuWz1Y4vU038klhRot3p) | 2:49 |
 | 51 | [caes](https://open.spotify.com/track/2bHpSUZPumpAcHUlmTG7uO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [caes](https://open.spotify.com/album/4h7Wk5QHojnLW3mfIkyD7y) | 3:49 |
 
-Snapshot ID: `aIMdhAAAAADvo5TxAG4iMiNRwRejVUam`
+Snapshot ID: `AAAAAPVPWuMlLm6uLv7nPZnGU6TFv6WX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFqEFWXePNks.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFqEFWXePNks.md) - [plain]
 | 9 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 |
 | 10 | [Marshmello going full sell out mode ! \| Episode 102](https://open.spotify.com/episode/3fG5X0EI70EEoUtNOa0ryu) | [FreaKBeatS EDM podcast](https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf) | [FreaKBeatS EDM podcast](https://open.spotify.com/album/6nkFEdeDqxuXG1DPZqP7sf) | 14:05 |
 | 11 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
-| 12 | [The Day Shawn Mendes Got Us Coffee](https://open.spotify.com/episode/5pWtoXAwJaEjaLeDOase95) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:58:19 |
+| 12 | [The Day Shawn Mendes Got Us Coffee](https://open.spotify.com/episode/5pWtoXAwJaEjaLeDOase95) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:04:04 |
 | 13 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 |
 | 14 | [Halsey Explains It All: Inside Her New Album and Much More](https://open.spotify.com/episode/6X1gAVoQastrlSDWndPfQs) | [Rolling Stone Music Now](https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx) | [Rolling Stone Music Now](https://open.spotify.com/album/0jCfnXfdYhwIM2I4x7SxZx) | 50:11 |
 | 15 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |

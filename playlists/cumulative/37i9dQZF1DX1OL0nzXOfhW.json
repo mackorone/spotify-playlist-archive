@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover:  Billy Choi",
+  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover:  Gordon Flanders",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 239978,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I"
+    },
+    {
+      "album": {
+        "name": "Better Than Romance",
+        "url": "https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F"
+      },
+      "artists": [
+        {
+          "name": "risy",
+          "url": "https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200070,
+      "name": "Better Than Romance",
+      "url": "https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP"
     },
     {
       "album": {
@@ -4195,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "\u6b4c\u9813\u82b1\u5712",
+        "url": "https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "\u6b4c\u9813\u82b1\u5712",
+      "url": "https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5"
+    },
+    {
+      "album": {
         "name": "\u689f",
         "url": "https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e"
       },
@@ -4550,7 +4586,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 170546,
       "name": "\u78b0\u89f8\u5728\u5f4c\u7559\u4e4b\u969b -\u300a\u57cb\u73ed\u4f5c\u6a02III\u300b\u4f5c\u54c1",
       "url": "https://open.spotify.com/track/4M9w4TevyNaIInZzVr1BUo"

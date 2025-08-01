@@ -11725,6 +11725,24 @@
     },
     {
       "album": {
+        "name": "Tipsy",
+        "url": "https://open.spotify.com/album/3IyGkzK36EXUIivyJ8dzeN"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO"
+    },
+    {
+      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf"
       },

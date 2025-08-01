@@ -4,7 +4,7 @@
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 19 min
+74 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Mídia](https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [Mídia](https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ) | 3:53 | 2024-08-08 |  |
 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 | 2023-09-18 |  |
 | [Novinha Gostosa](https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Novinha Gostosa](https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG) | 2:29 | 2023-09-18 | 2025-03-02 |
-| [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 | 2023-09-18 |  |
+| [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 | 2023-09-18 | 2025-08-01 |
+| [O Chamado](https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Nova Era](https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT) | 3:26 | 2025-08-01 |  |
 | [Ordem do Mano](https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Ordem do Mano](https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF) | 3:15 | 2024-02-08 |  |
 | [Os Coringas do Flamengo](https://open.spotify.com/track/4rXfZWzgv6L4IoZ23bdkal) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Os Coringas do Flamengo](https://open.spotify.com/album/0YvThXdoFZVq3K435DQ2HM) | 2:52 | 2023-09-18 | 2025-03-02 |
 | [Pesadão](https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:49 | 2023-09-18 |  |

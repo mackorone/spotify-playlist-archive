@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 71852,
+  "num_followers": 71858,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAAsCmnBBY82tSLpz18JOFp6",
+  "snapshot_id": "aIlggAAAAACBiz3Iiqxr3L0fBcXNyKIQ",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Tu Voz (with Lila Downs)",
+      "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' que Sientas Lo Que Siento",
         "url": "https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 190893,
       "name": "No Me Amenaces (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Tu Voz (with Lila Downs)",
-      "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frida (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
         "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 231506,
       "name": "La Barca (with Lila Downs)",
       "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coraz\u00f3n - Live From Mexico: Live It To Believe It",
         "url": "https://open.spotify.com/album/5Pf54lJ07uRn4dqJYS7Fhp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 315000,
       "name": "Una Noche en N\u00e1poles (feat. Lila Downs, Ni\u00f1a Pastori & Soledad) - Live",
       "url": "https://open.spotify.com/track/6SqV8sX6cfQ7ZK48uVhI6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,

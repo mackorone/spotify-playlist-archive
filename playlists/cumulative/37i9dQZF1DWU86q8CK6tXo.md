@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-1,930 songs - 4 day 8 hr 27 min
+1,931 songs - 4 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [girls \(feat\. phem\)](https://open.spotify.com/track/2zIxK13yUttVriKeFu4cE9) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [searching for nirvana](https://open.spotify.com/album/1M1PKj1f22TovEZmC6yKel) | 2:06 | 2021-12-01 | 2022-01-06 |
 | [GIRLS GIRLS GIRLS](https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/1ZHkFJ13emPD3qYZVOGMqx) | 2:57 | 2023-10-06 | 2023-11-09 |
 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 | 2024-09-03 | 2024-10-02 |
-| [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 | 2025-07-01 |  |
+| [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 | 2025-07-01 | 2025-08-01 |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-10-07 | 2022-11-03 |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/7G5BQ47NKi7AoKvFzP3ouA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:15 | 2025-04-22 | 2025-05-28 |
 | [Girls Need Love](https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 2:20 | 2025-03-05 | 2025-03-19 |
@@ -1106,6 +1106,7 @@
 | [Mirror Mirror](https://open.spotify.com/track/5wPtqoXt8zNzahGo8ddVBz) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Mirror Mirror](https://open.spotify.com/album/2piO0gBC50BNPmipi0ngdg) | 3:28 | 2023-02-01 | 2023-03-02 |
 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 | 2024-06-01 | 2024-08-02 |
 | [Misfit](https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Misfit](https://open.spotify.com/album/67szcbtvGILfdqgbg6MpNc) | 2:26 | 2021-12-01 | 2022-01-06 |
+| [Misfit](https://open.spotify.com/track/4gD5XuSoA8DqpY1oikxBhl) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wild Child](https://open.spotify.com/album/7xYvqJyefvpXWdsG9hUlCC) | 3:04 | 2025-07-01 |  |
 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 | 2022-02-02 | 2022-03-09 |
 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 | 2024-05-01 | 2024-06-01 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-03-01 | 2024-04-02 |

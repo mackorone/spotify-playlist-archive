@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,935 likes - 62 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,952 likes - 62 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 59 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 60 | [Funk On You \- Emanuel Satie Remix](https://open.spotify.com/track/0Lk9z1UllXakNKXfY4YVj4) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Funk On You \(Remixes\)](https://open.spotify.com/album/4ZWSLRYnTZ1hpVCZLLVhc1) | 3:22 |
 | 61 | [Dance Of The Desert](https://open.spotify.com/track/3gizZUKArzqyQs5MhghCbW) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Dance Of The Desert](https://open.spotify.com/album/2dI4CM2NWgI2sbe63rndYX) | 4:04 |
-| 62 | [Full Moon In Amazon](https://open.spotify.com/track/7uv3Lyl27dwNmWKsHvbelj) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj), [Orkun Bozdemir](https://open.spotify.com/artist/4uez5EaJsFAhGEf5dqiuDA) | [Full Moon In Amazon / Oracle](https://open.spotify.com/album/4oGgZ0V8sR0ZfTAZ77aWc1) | 5:40 |
+| 62 | [Full Moon In Amazon](https://open.spotify.com/track/7uv3Lyl27dwNmWKsHvbelj) | [Orkun Bozdemir](https://open.spotify.com/artist/4uez5EaJsFAhGEf5dqiuDA), [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Full Moon In Amazon / Oracle](https://open.spotify.com/album/4oGgZ0V8sR0ZfTAZ77aWc1) | 5:40 |
 
 Snapshot ID: `aHTlfQAAAAA+H25j7cPlEGsuGmOnq8pU`

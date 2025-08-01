@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 110238,
+  "num_followers": 110280,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
       },
       "artists": [
         {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         },
         {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
         }
       ],
-      "duration_ms": 440440,
-      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -219,22 +215,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
       },
       "artists": [
         {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
         },
         {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
+      "duration_ms": 440440,
+      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "Stained-Glass Morning",
-      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 512466,
       "name": "Canyon Sunrise",
       "url": "https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Stained-Glass Morning",
+      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
+      },
+      "artists": [
+        {
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        },
+        {
+          "name": "Jan Akkerman",
+          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
+        }
+      ],
+      "duration_ms": 720426,
+      "name": "Silmarillion",
+      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 348880,
       "name": "Arrival - Remastered",
       "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        },
-        {
-          "name": "Jan Akkerman",
-          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
-        }
-      ],
-      "duration_ms": 720426,
-      "name": "Silmarillion",
-      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Boreale - Remastered",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Lydglimt",
         "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 189146,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Boreale - Remastered",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1041569,
-      "name": "Pagnifico - Remastered",
-      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Schoener, Eberhard: Meditation",
         "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 1049000,
       "name": "Meditation: I. Part I",
       "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
     },
     {
       "added_at": "2023-08-18 14:02:54",

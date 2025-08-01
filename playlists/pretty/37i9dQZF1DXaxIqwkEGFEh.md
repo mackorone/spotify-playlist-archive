@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,862 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,911 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Chicken](https://open.spotify.com/track/6fqzZqYPeKPtzrl6Fp1WT4) | [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Chicken](https://open.spotify.com/album/09sFKMpWQlPhOH4AGDXQlX) | 2:05 |
 | 100 | [FOOT SOLDIERS](https://open.spotify.com/track/2MjMV7Z1X9lvZ00SUbH6dr) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:25 |
 
-Snapshot ID: `aIMBdQAAAACMtUy3+fYznCQ2tg+2UL1E`
+Snapshot ID: `AAAAAAHzdARgyZh2ZXF8Aimh5MWkY7vk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuracak şarkılar\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,034 likes - 57 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,246 likes - 57 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

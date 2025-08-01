@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Luke Combs",
+  "description": "The cream of today's country crop. Cover: HARDY",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+    },
+    {
+      "album": {
         "name": "Boys From The Country",
         "url": "https://open.spotify.com/album/0o1OWTIV5TM3nOaKuiuYNA"
       },
@@ -3048,6 +3066,24 @@
       "duration_ms": 130369,
       "name": "Chevrolet You Down",
       "url": "https://open.spotify.com/track/1bEF4ojUgK7iI3TZtcXLID"
+    },
+    {
+      "album": {
+        "name": "Chevy Silverado",
+        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221698,
+      "name": "Chevy Silverado",
+      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
     },
     {
       "album": {
@@ -7582,7 +7618,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
@@ -10318,7 +10354,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 242477,
       "name": "Man Of His Word",
       "url": "https://open.spotify.com/track/7Ea6jWtb0dC4rWySB39iqM"
@@ -10812,6 +10848,24 @@
       "duration_ms": 211843,
       "name": "MUSCLE MEMORY",
       "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+    },
+    {
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224108,
+      "name": "Music for the Soul",
+      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
       "album": {
@@ -15765,6 +15819,24 @@
     },
     {
       "album": {
+        "name": "The Easy Part",
+        "url": "https://open.spotify.com/album/6igHTjBIaZOADFFNEsRMh3"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "The Easy Part",
+      "url": "https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL"
+    },
+    {
+      "album": {
         "name": "The Girl I Knew",
         "url": "https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P"
       },
@@ -17670,7 +17742,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 176366,
       "name": "WHERE YOU BEEN",
       "url": "https://open.spotify.com/track/26kFs0e2PJjeJQDJeljHnt"

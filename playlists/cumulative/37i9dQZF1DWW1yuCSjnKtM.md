@@ -2,7 +2,7 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> hand\-picked and hot right now 📈 cover: The Lionesses !!!
+> hand\-picked and hot right now 📈 cover: Denon Reed
 
 557 songs - 1 day 6 hr 12 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,459 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,460 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 34 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 |
 | 35 | [i love you \(feat\. Sunnie\)](https://open.spotify.com/track/6VrVB3BNd0zflmgs3CODCK) | [Bae Young Gyoung](https://open.spotify.com/artist/5T1eiImBYOtJSQkXBdZ3fn), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [you my blue](https://open.spotify.com/album/03oEcO2FMxiJJPU9ZfT1dc) | 3:07 |
 | 36 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 |
-| 37 | [Angel's Hair](https://open.spotify.com/track/39ouEmqGOKJZ1V5kQkgu1x) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Handwritten Letter](https://open.spotify.com/album/0IaMQAr3gsbhclrpLFfcOi) | 3:46 |
+| 37 | [Angel's Hair](https://open.spotify.com/track/39ouEmqGOKJZ1V5kQkgu1x) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Handwritten Letter](https://open.spotify.com/album/0IaMQAr3gsbhclrpLFfcOi) | 3:46 |
 | 38 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
 | 39 | [Rest in Peace Mama \(feat\. Beta\)](https://open.spotify.com/track/1N58DOjMdM0lZknbb7e5pC) | [Ohwon Lee](https://open.spotify.com/artist/6d9jgnRY6xA2PQUNZ8Rxfz), [Beta](https://open.spotify.com/artist/6Qhj2IvvWhPa0OgHHruMRL) | [Rest in Peace Mama \(feat\. Beta\)](https://open.spotify.com/album/0pQP9tKyQGWIOpVVqsd6wn) | 3:41 |
 | 40 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 |

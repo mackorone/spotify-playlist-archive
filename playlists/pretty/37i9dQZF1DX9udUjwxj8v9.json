@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153009,
+  "num_followers": 153011,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Ax\u00e9 Bahia",
+        "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
+      },
+      "artists": [
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "A Luz De Tieta",
+      "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "A M\u00fasica do Olodum",
         "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 306520,
       "name": "Dorival",
       "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Ax\u00e9 Bahia",
-        "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
-      },
-      "artists": [
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "A Luz De Tieta",
-      "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
     },
     {
       "added_at": "2025-07-11 03:00:07",

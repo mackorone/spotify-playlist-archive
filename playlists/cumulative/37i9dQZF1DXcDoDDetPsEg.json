@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Gabzy",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Rema",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "All Over the World (with Protoje)",
+        "url": "https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171685,
+      "name": "All Over the World (with Protoje)",
+      "url": "https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw"
+    },
+    {
+      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 169926,
       "name": "Anansi",
       "url": "https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns"
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 242962,
       "name": "Angel in Disguise - Spotify Singles",
       "url": "https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf"
@@ -2574,7 +2596,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 162863,
       "name": "Balanced",
       "url": "https://open.spotify.com/track/75AHRXDdMcA0rWnBHULsL2"
@@ -5032,6 +5054,10 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
           "name": "Pusha T",
           "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
@@ -6462,6 +6488,24 @@
       "duration_ms": 161739,
       "name": "Curious",
       "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+    },
+    {
+      "album": {
+        "name": "CUT KNUCKLES",
+        "url": "https://open.spotify.com/album/1bYbhlDpNCP7lwHDIa8mBv"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135583,
+      "name": "CUT KNUCKLES",
+      "url": "https://open.spotify.com/track/3o53Nz7ReyvVXSfwOStWQB"
     },
     {
       "album": {
@@ -12439,6 +12483,28 @@
     },
     {
       "album": {
+        "name": "High End Fashion",
+        "url": "https://open.spotify.com/album/0305fmUZMhziojoiZ2ZTc2"
+      },
+      "artists": [
+        {
+          "name": "Asco",
+          "url": "https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "High End Fashion",
+      "url": "https://open.spotify.com/track/0RleUkCUxQ8X1JMhiXmVSf"
+    },
+    {
+      "album": {
         "name": "High Profile (feat. Rimzee)",
         "url": "https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS"
       },
@@ -12804,7 +12870,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 149624,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
@@ -12870,7 +12936,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 248586,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O"
@@ -15253,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "KELEBU",
+        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172069,
+      "name": "KELEBU",
+      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
+    },
+    {
+      "album": {
         "name": "Kese (Dance)",
         "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
       },
@@ -16535,6 +16619,28 @@
     },
     {
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/7zPMfQjOYiKTxPYfsCSTBA"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Slingerz",
+          "url": "https://open.spotify.com/artist/41wkbhhTA7FvYZoP8tK4eC"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/3SceH9TmhQZdjEnqDSuh2Z"
+    },
+    {
+      "album": {
         "name": "Local (feat. Headie One & Bandokay)",
         "url": "https://open.spotify.com/album/7dY5WIrbyWvtzvHQQxZQXo"
       },
@@ -16976,7 +17082,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 145325,
       "name": "Love Me Now",
       "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
@@ -20818,6 +20924,28 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "album": {
@@ -28821,6 +28949,24 @@
     },
     {
       "album": {
+        "name": "Too Many Gyal",
+        "url": "https://open.spotify.com/album/3cr5sebIdeiREEiWAoaKhg"
+      },
+      "artists": [
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Too Many Gyal",
+      "url": "https://open.spotify.com/track/3r0rGo4TblXrpK804La3xP"
+    },
+    {
+      "album": {
         "name": "Too Many Lies",
         "url": "https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71"
       },
@@ -29510,7 +29656,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 171764,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/16Nhlh4ZAU6MpCwNuSEF7M"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Remy Bond
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,104 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,665 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 100 | [Together As One](https://open.spotify.com/track/3SLTZSEbCF8e0icnuOO8lv) | [as1one](https://open.spotify.com/artist/4GSOOZ1ohoVKnlHyryv3DH) | [Together As One](https://open.spotify.com/album/2gGzaAUVXxN0ucTY9Gj6JU) | 3:11 |
 
-Snapshot ID: `aIPaHQAAAAD3+rPJrq2i3Z0Ep4ZFJ474`
+Snapshot ID: `aIPaHQAAAAA50o/k81xz0v50v4ZvT+lH`

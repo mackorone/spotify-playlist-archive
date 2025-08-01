@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 180845,
       "name": "Canela Pura",
       "url": "https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi"
@@ -3839,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
+    },
+    {
+      "album": {
         "name": "Puzzles",
         "url": "https://open.spotify.com/album/7zt1IVvV0GFNeDOKPDKsKI"
       },
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 234347,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C"
@@ -9752,7 +9770,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 228684,
       "name": "I Can\u2019t Escape Myself",
       "url": "https://open.spotify.com/track/729AUIPyZhlZsBiGj3598Y"
@@ -12873,6 +12891,28 @@
     },
     {
       "album": {
+        "name": "Love Is You",
+        "url": "https://open.spotify.com/album/1io7KBvdnSpjhBic3o4odI"
+      },
+      "artists": [
+        {
+          "name": "Teenager",
+          "url": "https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB"
+        },
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Love is You",
+      "url": "https://open.spotify.com/track/0WHEKqZVlekhcbRYrCiSkR"
+    },
+    {
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -13536,7 +13576,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 256459,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/32QNmvZ1mHPUGQ7SiR3uDv"
@@ -15515,6 +15555,28 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0whsMMavHPlWZiWO4uipZH"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "mei anima",
+          "url": "https://open.spotify.com/artist/3094owiC8qRlWKgip3Y85A"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3eYZL4ZmfvqJdGGVWOdTcv"
+    },
+    {
+      "album": {
         "name": "Nowhere Game",
         "url": "https://open.spotify.com/album/3JZkS9acXygfFkIpMhi7o1"
       },
@@ -15718,6 +15780,24 @@
       "duration_ms": 264220,
       "name": "Off And On",
       "url": "https://open.spotify.com/track/2t0RlrKuzerkIeujXbRS4l"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL",
+        "url": "https://open.spotify.com/album/6Pme4FuAUb2k8DYFvj2w8T"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201065,
+      "name": "OFFICIAL",
+      "url": "https://open.spotify.com/track/2vMswl0k27GdVQ6M2MdrAS"
     },
     {
       "album": {
@@ -16290,7 +16370,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 178938,
       "name": "PARAMOUNT",
       "url": "https://open.spotify.com/track/1moNN6nYfTaO8Inwz8yTX0"
@@ -17949,6 +18029,24 @@
     },
     {
       "album": {
+        "name": "Schadenfreude",
+        "url": "https://open.spotify.com/album/0qskyEfjJIN5mWYVuecFlt"
+      },
+      "artists": [
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210727,
+      "name": "Schadenfreude",
+      "url": "https://open.spotify.com/track/4LJongQE1uZKP5GOJ1nFDw"
+    },
+    {
+      "album": {
         "name": "Sciall\u00e0",
         "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
       },
@@ -18338,6 +18436,24 @@
       "duration_ms": 219080,
       "name": "Shadow Of Love",
       "url": "https://open.spotify.com/track/5vpWgoN0ekCvFitRUw9cZO"
+    },
+    {
+      "album": {
+        "name": "Shake Me Down",
+        "url": "https://open.spotify.com/album/16S6tmVTLjRnfzJSskXFGP"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "Shake Me Down",
+      "url": "https://open.spotify.com/track/0wzHx71gdoviBlRDMLMwkj"
     },
     {
       "album": {
@@ -19271,6 +19387,28 @@
     },
     {
       "album": {
+        "name": "Sorry I'm Late, I Didn't Want To Come (Roosevelt Remix)",
+        "url": "https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287445,
+      "name": "Sorry I'm Late, I Didn't Want To Come - Roosevelt Remix",
+      "url": "https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV"
+    },
+    {
+      "album": {
         "name": "Fuzzy Fantasy",
         "url": "https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH"
       },
@@ -19827,6 +19965,24 @@
     },
     {
       "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
+    },
+    {
+      "album": {
         "name": "Mixed Signals EP",
         "url": "https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi"
       },
@@ -20100,7 +20256,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 282389,
       "name": "swim",
       "url": "https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H"
@@ -20879,6 +21035,32 @@
     },
     {
       "album": {
+        "name": "The Fun Of It (Gus alt-J Remix)",
+        "url": "https://open.spotify.com/album/73KE9Qj4IgacHCLR2D1PwT"
+      },
+      "artists": [
+        {
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+        },
+        {
+          "name": "Andreya Casablanca",
+          "url": "https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa"
+        },
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254690,
+      "name": "The Fun Of It - Gus alt-J Remix",
+      "url": "https://open.spotify.com/track/5brPcG7uOWhA4JA9a7JV4d"
+    },
+    {
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -20938,7 +21120,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 227493,
       "name": "The Hero",
       "url": "https://open.spotify.com/track/3xbaK6kS0rpmFnP1rFFZ6H"
@@ -24190,7 +24372,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
@@ -24346,7 +24528,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 199680,
       "name": "Your River",
       "url": "https://open.spotify.com/track/3cNZ8hIsqbFYbkcKQPQK5R"

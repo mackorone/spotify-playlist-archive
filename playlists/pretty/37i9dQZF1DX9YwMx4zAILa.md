@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Shai Gilgeous\-Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,995 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,037 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 | 50 | [Walk In Wardrobe](https://open.spotify.com/track/0P6BV6kf3gQ28Wr0PBJ2dS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:18 |
 | 51 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
 
-Snapshot ID: `aFHe1wAAAADlNMHcTl2RDthMTOM4roAc`
+Snapshot ID: `AAAAABiylYaZWYWf7LUs5u0RlzGc1cKw`

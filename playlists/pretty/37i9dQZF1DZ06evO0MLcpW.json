@@ -1,12 +1,12 @@
 {
   "description": "This is Aventura. The essential tracks, all in one playlist.",
-  "num_followers": 640888,
+  "num_followers": 641000,
   "original_name": "This Is Aventura",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAA+q7NKlxvggKeRA2bEbB/L",
+  "snapshot_id": "aIlggAAAAABrmr6CkjMgoD/w95oL0MyK",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
       "artists": [
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+      "duration_ms": 253773,
+      "name": "Jos\u00e9",
+      "url": "https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
       },
       "artists": [
-        {
-          "name": "Miri Ben-Ari",
-          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
-        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 253773,
-      "name": "Jos\u00e9",
-      "url": "https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me"
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": null,

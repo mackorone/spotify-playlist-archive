@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Menino Bonito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169654,
+      "name": "Menino Bonito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+    },
+    {
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 193918,
       "name": "VELHO FUSCA",
       "url": "https://open.spotify.com/track/1IFicsz0Ii1BAOnpnAfd96"

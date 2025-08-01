@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Daniel Caesar",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: lovlaine",
   "name": "mood. ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 196500,
       "name": "(Not Your) Cup Of Tea",
       "url": "https://open.spotify.com/track/5z8xhGNPcxNdvhjX09VlYP"
+    },
+    {
+      "album": {
+        "name": "(un)Folded",
+        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "(un)Folded",
+      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
     },
     {
       "album": {
@@ -1648,6 +1666,24 @@
       "duration_ms": 267857,
       "name": "Baby I Know",
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+    },
+    {
+      "album": {
+        "name": "Baby July",
+        "url": "https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199163,
+      "name": "Baby July",
+      "url": "https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX"
     },
     {
       "album": {
@@ -3852,7 +3888,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 195303,
       "name": "ch\u01a1i \u0111i",
       "url": "https://open.spotify.com/track/25Ah1AFy9GsZNDvmOcMFhz"
@@ -7089,6 +7125,28 @@
     },
     {
       "album": {
+        "name": "feels like a dream",
+        "url": "https://open.spotify.com/album/51LPFTwJslXk6yGVD7KZwy"
+      },
+      "artists": [
+        {
+          "name": "URMINE",
+          "url": "https://open.spotify.com/artist/7KMkGU2lhRyeOhJrlng5oO"
+        },
+        {
+          "name": "MIN4RI",
+          "url": "https://open.spotify.com/artist/1rqUM1JCAEbrqUjXf3plBn"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190595,
+      "name": "feels like a dream",
+      "url": "https://open.spotify.com/track/0oLmN8dlGYVmd1Y47eVua6"
+    },
+    {
+      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX"
       },
@@ -8356,6 +8414,28 @@
       "duration_ms": 185939,
       "name": "GOLIATH",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241603,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY"
     },
     {
       "album": {
@@ -12623,6 +12703,24 @@
     },
     {
       "album": {
+        "name": "limbo",
+        "url": "https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "limbo",
+      "url": "https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd"
+    },
+    {
+      "album": {
         "name": "LITTLE MISS LOVELY",
         "url": "https://open.spotify.com/album/3SKPj0OEHqnjCKeSoQLvsB"
       },
@@ -14706,7 +14804,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 238615,
       "name": "My Little Ginger",
       "url": "https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr"
@@ -16350,6 +16448,24 @@
       "duration_ms": 180341,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/0I6I6yRkVnw0f0QhLR2jOn"
+    },
+    {
+      "album": {
+        "name": "Out of Your League",
+        "url": "https://open.spotify.com/album/4NaHEYNnmseOhol6LVfir0"
+      },
+      "artists": [
+        {
+          "name": "Jules Aurora",
+          "url": "https://open.spotify.com/artist/205CbtBaTjs0pxHmv232EC"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Out of Your League",
+      "url": "https://open.spotify.com/track/3RzBfRdIYY7QsSwqltKl3E"
     },
     {
       "album": {
@@ -18856,7 +18972,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 165847,
       "name": "Scrambled",
       "url": "https://open.spotify.com/track/3AsDKr7TVje8TfY3fhyj6J"
@@ -24297,6 +24413,24 @@
     },
     {
       "album": {
+        "name": "What's Missing",
+        "url": "https://open.spotify.com/album/6eLWoOBAbaSKsfFLyrH3ua"
+      },
+      "artists": [
+        {
+          "name": "Sam Lin",
+          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "What's Missing",
+      "url": "https://open.spotify.com/track/7lCq6nIlJmLG1wZNHetonu"
+    },
+    {
+      "album": {
         "name": "WHAT'S THE USE?",
         "url": "https://open.spotify.com/album/6R7FnFtp5jaXgthNMOJO6R"
       },
@@ -24840,7 +24974,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 150255,
       "name": "Why Is She Still Here?",
       "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
@@ -25622,6 +25756,24 @@
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "album": {
+        "name": "Yours Or Mine",
+        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230977,
+      "name": "Yours Or Mine",
+      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
     },
     {
       "album": {

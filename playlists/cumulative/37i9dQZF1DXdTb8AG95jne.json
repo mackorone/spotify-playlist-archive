@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Silica Gel (\uc2e4\ub9ac\uce74\uac94)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: KARDI) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 196697,
       "name": "Asphalt",
       "url": "https://open.spotify.com/track/4QlN9AltbOXYUzuzTBkTWf"
@@ -4384,7 +4384,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 100458,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/5VDnC1AlVGbl3GOILIWozM"
@@ -5666,6 +5666,28 @@
       "duration_ms": 187946,
       "name": "friend to lover",
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
+    },
+    {
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/4jrRojsd64ncV7ZTFNsFgh"
+      },
+      "artists": [
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        },
+        {
+          "name": "CHORDA",
+          "url": "https://open.spotify.com/artist/3E9ovz1xrxaxVWoQusuX1V"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/0Lb26oeDQ8P2x0Lw296F3r"
     },
     {
       "album": {
@@ -8029,6 +8051,24 @@
     },
     {
       "album": {
+        "name": "In The Waves",
+        "url": "https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH"
+      },
+      "artists": [
+        {
+          "name": "YeonJeong",
+          "url": "https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228035,
+      "name": "In The Waves",
+      "url": "https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf"
+    },
+    {
+      "album": {
         "name": "In This Morning",
         "url": "https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs"
       },
@@ -10348,7 +10388,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 360360,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/2DmSpel2RpctQjgHHWif0v"
@@ -10966,7 +11006,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 199962,
       "name": "New Rock",
       "url": "https://open.spotify.com/track/5pkowV2jopPcQzYApEiBpf"
@@ -11118,6 +11158,24 @@
       "duration_ms": 249272,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/1Qyx5qvWDPToF4h5pJjory"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0AL9ujUjDLk219ukEZ15xc"
     },
     {
       "album": {
@@ -12742,6 +12800,24 @@
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
+    },
+    {
+      "album": {
+        "name": "Rain Calling",
+        "url": "https://open.spotify.com/album/1RhJsHVXMTNJSQ9rQMkfp3"
+      },
+      "artists": [
+        {
+          "name": "Band Oyster",
+          "url": "https://open.spotify.com/artist/6srjyToknvIumliRxxTRmc"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Rain Calling",
+      "url": "https://open.spotify.com/track/5IHO4Qlm9COqAyNY0txojx"
     },
     {
       "album": {
@@ -15407,6 +15483,24 @@
     },
     {
       "album": {
+        "name": "Summer Vacation Edition",
+        "url": "https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Sunshine comedy club",
+      "url": "https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB"
+    },
+    {
+      "album": {
         "name": "SUNspot",
         "url": "https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h"
       },
@@ -15674,7 +15768,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 20170,
       "name": "Take Over by Silica Gel",
       "url": "https://open.spotify.com/track/2umMPFIrznerq1OgMjz0MW"
@@ -18011,6 +18105,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
       },
@@ -18914,7 +19026,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 285352,
       "name": "\ub9c8\uc74c\uc744 \ub458 \uacf3",
       "url": "https://open.spotify.com/track/1SUnk9bPmbiXYQZuorR4qE"

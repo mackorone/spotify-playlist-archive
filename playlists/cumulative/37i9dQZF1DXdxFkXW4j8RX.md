@@ -2,9 +2,9 @@
 
 ### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 
-> La casa de lxs MC's\. Foto: Como Asesinar a Felipes.
+> La casa de lxs MC's\. Foto: Pablo Chill\-E y Spiff TV.
 
-247 songs - 14 hr 2 min
+248 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Champurria \(Mestizo \- Mestiza\)](https://open.spotify.com/track/5JQSEd9TCQjv3QhWJji5lQ) | [Luanko](https://open.spotify.com/artist/7J7cHGJ6KfcK5diHzt78k4) | [Champurria \(Mestizo \- Mestiza\)](https://open.spotify.com/album/1Dw7LcmouwJyN2KIS4sjhD) | 3:41 | 2022-01-06 | 2023-03-11 |
 | [Cienfuegos](https://open.spotify.com/track/0lFy22vazKGMQrqxq2N9mT) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Fuero interno](https://open.spotify.com/album/1YJaB1qUlNdUwEnWsJEcXJ) | 3:34 | 2022-01-06 |  |
 | [Coge Aquí](https://open.spotify.com/track/3fgWR0CJJcotDaHG8hbW7v) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Coge Aquí](https://open.spotify.com/album/56jiRmNtrESiyXkWMPxx8T) | 4:00 | 2022-01-06 | 2023-07-15 |
+| [Como Huele](https://open.spotify.com/track/42bc3CpCMNo7TTiicv3YMD) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Como Huele](https://open.spotify.com/album/2gu9WZaTJLMsNHxyVE7fSW) | 2:44 | 2025-08-01 |  |
 | [Como Jugando](https://open.spotify.com/track/530yhZ0aVyIZUgoMPsKfmm) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [Como Jugando](https://open.spotify.com/album/42lloDnBU8P91X5rltouFu) | 3:04 | 2022-01-06 | 2023-12-14 |
 | [Con Los Míos](https://open.spotify.com/track/5q4rPwdGOq6DE3aCCKwTrm) | [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW) | [Con Los Míos](https://open.spotify.com/album/4095ecH5JpqXW3YvtiM3Dd) | 2:26 | 2024-12-13 |  |
 | [Cream Gang](https://open.spotify.com/track/6o7D7sZO7hyDfSPuijpaom) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Dj Jotakao](https://open.spotify.com/artist/3Hk4tl2exeutcaIkvdymN1), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Cream Gang](https://open.spotify.com/album/4TsM7p9sjJ7hfdW0FbJQwt) | 3:10 | 2025-05-09 |  |

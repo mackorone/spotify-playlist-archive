@@ -1,13 +1,177 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Solace Out The Door",
-  "num_followers": 185619,
+  "num_followers": 185666,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aILwcwAAAADmlub2wWpJ94Uem6Snaq2h",
+  "snapshot_id": "aIwRkgAAAACvEUdetlKY9hGcOb8kJTFG",
   "tracks": [
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Umaaligid",
+        "url": "https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd"
+      },
+      "artists": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 220884,
+      "name": "Umaaligid",
+      "url": "https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Naguguluhan",
+        "url": "https://open.spotify.com/album/1lDPsstoNpXWJB2iylCTIk"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 231153,
+      "name": "Naguguluhan",
+      "url": "https://open.spotify.com/track/31FVAqbnQyl75EXunOj9P2"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Ayaw Baya",
+        "url": "https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Ayaw Baya",
+      "url": "https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Paalam",
+        "url": "https://open.spotify.com/album/7CvsophvuVbMMJFypr0Jvh"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Paalam",
+      "url": "https://open.spotify.com/track/1L65j5OIL9A43znUyUjc5F"
+    },
+    {
+      "added_at": "2025-07-25 02:48:19",
+      "album": {
+        "name": "Oras Makina",
+        "url": "https://open.spotify.com/album/3KtZ4DY9M97qZhZLbIbgO0"
+      },
+      "artists": [
+        {
+          "name": "Solace Out The Door",
+          "url": "https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c"
+        }
+      ],
+      "duration_ms": 207250,
+      "name": "Oras Makina",
+      "url": "https://open.spotify.com/track/6xlECypWfYEQ1iRf9EctIN"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Maulan",
+        "url": "https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "duration_ms": 239968,
+      "name": "Maulan",
+      "url": "https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Hala",
+        "url": "https://open.spotify.com/album/3yEgEq1DwEWwt6KZZ9JJ5C"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "duration_ms": 231204,
+      "name": "Hala",
+      "url": "https://open.spotify.com/track/1BhfBWHDty1Ic0E1EjU826"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Sabihin Lang (Kung Ayaw Mo)",
+        "url": "https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "duration_ms": 211658,
+      "name": "Sabihin Lang (Kung Ayaw Mo)",
+      "url": "https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Misfire",
+        "url": "https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Misfire",
+      "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
+    },
+    {
+      "added_at": "2025-08-01 01:00:02",
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/58sYRua7cGvoT6MgwIzd8F"
+      },
+      "artists": [
+        {
+          "name": "ONSE",
+          "url": "https://open.spotify.com/artist/6k0cB0PRw6pUa351Cr72Ix"
+        }
+      ],
+      "duration_ms": 208073,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/34ftCMquXUGlSVFrbNmlvB"
+    },
     {
       "added_at": "2025-07-25 02:48:19",
       "album": {
@@ -75,22 +239,6 @@
       "duration_ms": 252500,
       "name": "Ano Ba Talaga Tayo? (feat. Janine Berdin)",
       "url": "https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8"
-    },
-    {
-      "added_at": "2025-07-25 02:48:19",
-      "album": {
-        "name": "Oras Makina",
-        "url": "https://open.spotify.com/album/3KtZ4DY9M97qZhZLbIbgO0"
-      },
-      "artists": [
-        {
-          "name": "Solace Out The Door",
-          "url": "https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c"
-        }
-      ],
-      "duration_ms": 207250,
-      "name": "Oras Makina",
-      "url": "https://open.spotify.com/track/6xlECypWfYEQ1iRf9EctIN"
     },
     {
       "added_at": "2025-07-25 02:48:19",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAADyTHO7Fev0NR2Y9PonwV3M",
+  "snapshot_id": "aIlggAAAAADubYCRPQnECwFGMt9tPSrG",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 190200,
       "name": "Guillotines in Arbour Park",
       "url": "https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tassie",
-        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Passed the Break",
-      "url": "https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO"
     }
   ],
   "unique_name": "This Is Luca Brasi",

@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 308403,
+  "num_followers": 308515,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAADu6cxIeGcCzpGKXG6g0CvT",
+  "snapshot_id": "aIlggAAAAACPVhOvenvDaQRqnbEIVfCs",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 154751,
+      "name": "DISCOVERY",
+      "url": "https://open.spotify.com/track/1FdjZ2MUFy1wj9cULYN1Ux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 228529,
+      "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
+      "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -527,6 +575,30 @@
       "duration_ms": 135384,
       "name": "A Meu Favor",
       "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "IbraBeats",
+          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
     },
     {
       "added_at": null,
@@ -599,78 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "IbraBeats",
-          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAOS DLX",
-        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 154751,
-      "name": "DISCOVERY",
-      "url": "https://open.spotify.com/track/1FdjZ2MUFy1wj9cULYN1Ux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 228529,
-      "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
-      "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
@@ -684,9 +684,33 @@
           "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 296122,
-      "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
+      "duration_ms": 256997,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 183376,
+      "name": "Canto Alto",
+      "url": "https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama"
     },
     {
       "added_at": null,
@@ -735,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Daniel Shadow",
-          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 183376,
-      "name": "Canto Alto",
-      "url": "https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 256997,
-      "name": "Invicto",
-      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Qualywav1",
+          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "TUDO DE NOVO",
+      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
@@ -1095,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Cidinho",
-          "url": "https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7"
-        }
-      ],
-      "duration_ms": 276491,
-      "name": "Chefe do Crime Perfeito",
-      "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrela do Rap",
         "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
       },
@@ -1131,6 +1135,26 @@
       "duration_ms": 172800,
       "name": "Distante",
       "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cidinho",
+          "url": "https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7"
+        }
+      ],
+      "duration_ms": 276491,
+      "name": "Chefe do Crime Perfeito",
+      "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
     },
     {
       "added_at": null,
@@ -1155,26 +1179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAOS DLX",
-        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Qualywav1",
-          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
-        },
-        {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        },
+        {
+          "name": "Johnny Monteiro",
+          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
         }
       ],
-      "duration_ms": 225391,
-      "name": "TUDO DE NOVO",
-      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
+      "duration_ms": 182082,
+      "name": "Absolvido Por Deus",
+      "url": "https://open.spotify.com/track/0L675GDLyMsuNN4XVon4b8"
     },
     {
       "added_at": null,
@@ -1207,30 +1231,6 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        },
-        {
-          "name": "Johnny Monteiro",
-          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
-        }
-      ],
-      "duration_ms": 182082,
-      "name": "Absolvido Por Deus",
-      "url": "https://open.spotify.com/track/0L675GDLyMsuNN4XVon4b8"
     },
     {
       "added_at": null,

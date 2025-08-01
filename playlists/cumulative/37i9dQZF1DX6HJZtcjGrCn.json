@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: Noiserv, Surma",
+  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: Chappell Roan ",
   "name": "Ver\u00e3o Indie",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 210552,
       "name": "7 dias",
       "url": "https://open.spotify.com/track/3todR6e3uhzaqY2Guq4Qjo"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
@@ -998,6 +998,24 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+    },
+    {
+      "album": {
+        "name": "chasing for your love",
+        "url": "https://open.spotify.com/album/1YZ0BnVfqQcALUv7A8lFlk"
+      },
+      "artists": [
+        {
+          "name": "Mariana Tereso",
+          "url": "https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "chasing for your love",
+      "url": "https://open.spotify.com/track/78cntQQPWupxTJIfsGsarD"
     },
     {
       "album": {
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 170454,
       "name": "DIVAGAR",
       "url": "https://open.spotify.com/track/624r0HNNdqxnakN9DJv6lz"
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 245681,
       "name": "do raso ao fundo",
       "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
@@ -3849,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "O Vento e o Mar",
+        "url": "https://open.spotify.com/album/2tjc8lSrbACuaYbptPa8Dx"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "O Vento e o Mar",
+      "url": "https://open.spotify.com/track/7pVALuou51vVKI4Chhf8eq"
+    },
+    {
+      "album": {
         "name": "Off Guard",
         "url": "https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX"
       },
@@ -5170,6 +5206,24 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,945 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,960 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [Si No Es Muy Tarde \- Versión Cuarteto \- En Vivo](https://open.spotify.com/track/2CA90OaChbXSogYGJJsfcr) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si No Es Muy Tarde \- Versión Cuarteto \(En Vivo\)](https://open.spotify.com/album/57h1QBTv4UCjBz6uhf7BYE) | 3:43 |
 | 100 | [Sin Cadenas](https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sin Cadenas](https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU) | 3:31 |
 
-Snapshot ID: `aIOshQAAAAB6V3rspmMECuVSgGw/FoAp`
+Snapshot ID: `AAAAAMfjwkWv1+uBCNACRO8tCJcOhL7z`

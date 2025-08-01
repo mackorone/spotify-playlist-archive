@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJg6O1Go53ik.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJg6O1Go53ik.md) - [plain]
 | 2 | [Hey Brother](https://open.spotify.com/track/4RXpgGM7A4Hg7cFBoH5KyF) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:15 |
 | 3 | [Happy 30th Birthday Avicii; 8th Sept\. 2019 \| Episode 123](https://open.spotify.com/episode/4xkB9jPWfWNuk1CfcTuH2x) | [FreaKBeatS EDM podcast](https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf) | [FreaKBeatS EDM podcast](https://open.spotify.com/album/6nkFEdeDqxuXG1DPZqP7sf) | 17:27 |
 | 4 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
-| 5 | [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:56:11 |
+| 5 | [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:58 |
 | 6 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
 | 7 | [\#67 \- Pink \- Missundaztood](https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:31:16 |
 | 8 | [Be OK](https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |

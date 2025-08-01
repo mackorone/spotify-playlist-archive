@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah, Avolia",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -4183,6 +4183,28 @@
     },
     {
       "album": {
+        "name": "Tak Halu Lagi",
+        "url": "https://open.spotify.com/album/1sknQvj8wY6k2dJJ0JIY3L"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Avolia",
+          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247789,
+      "name": "Tak Halu Lagi",
+      "url": "https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH"
+    },
+    {
+      "album": {
         "name": "Tak Ikhlasno",
         "url": "https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY"
       },
@@ -4270,6 +4292,24 @@
       "duration_ms": 194284,
       "name": "Tanda Bahaya Cinta",
       "url": "https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k"
+    },
+    {
+      "album": {
+        "name": "Tanpa Ikatan",
+        "url": "https://open.spotify.com/album/0wfhiLLZ6P7VjDiQLe4G0j"
+      },
+      "artists": [
+        {
+          "name": "Aprilian",
+          "url": "https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "Tanpa Ikatan",
+      "url": "https://open.spotify.com/track/4jKKKP0iVOior0OPF57nl7"
     },
     {
       "album": {

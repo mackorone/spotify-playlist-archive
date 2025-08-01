@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV?si=kFhV6iyIQECznS2XFlFFjQ">Ntencane</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC?si=\_LoElR0\-Q3C6RrYnQvpzCg">Navigator Gcwensa</a>
 
-252 songs - 20 hr 4 min
+253 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Emanonini](https://open.spotify.com/track/4lwzWQYvRqYFI1lzilvYnt) | [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM) | [Emanonini](https://open.spotify.com/album/6ZG7EuXof1YjMSOZdt427Y) | 4:24 | 2024-06-27 | 2024-09-21 |
 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 | 2023-01-30 |  |
 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 | 2019-09-24 | 2023-02-17 |
+| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:17 | 2025-08-01 |  |
 | [Endumisweni](https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/46cbUWGAf5JyhnxL31znQQ) | 4:25 | 2018-09-25 | 2022-07-29 |
 | [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 | 2022-10-14 |
 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 | 2018-09-25 | 2023-02-01 |
@@ -198,7 +199,7 @@
 | [Sigubha umtswarelo](https://open.spotify.com/track/0ISd317cewsI9VNU1GIaAv) | [Omaganga](https://open.spotify.com/artist/4pQoIvQXOr2HRQdOgwoJya) | [Sigubha umtswarelo](https://open.spotify.com/album/28Xfemnw5d0mRMuJShtvK1) | 6:19 | 2023-06-15 | 2023-11-08 |
 | [Sikhokha Njalo](https://open.spotify.com/track/3C2Tft3NEV550RHHG7UqFS) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Sikhokha Njalo](https://open.spotify.com/album/2qwRr5I8KMzkiPDuc2eLYU) | 4:17 | 2020-08-28 | 2022-11-14 |
 | [Sikhokha Njalo](https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Sikhokha Njalo](https://open.spotify.com/album/5ysSoX3cp4ZJE0pHykOfop) | 4:17 | 2020-08-28 | 2022-09-25 |
-| [SILENT TREATMENT](https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [SILENT TREATMENT](https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh) | 4:07 | 2024-12-06 |  |
+| [SILENT TREATMENT](https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [SILENT TREATMENT](https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh) | 4:07 | 2024-12-06 | 2025-08-01 |
 | [Sivimbe Ngezansi](https://open.spotify.com/track/0E9zAYeAuiwVIRmniGitu9) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Obama](https://open.spotify.com/album/0oy6u4YpIINdn6uwHoT2sA) | 4:50 | 2018-09-25 | 2022-07-29 |
 | [Sivimbe Ngezansi](https://open.spotify.com/track/4bsPPar6qAk3a920nvHeT5) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Obama](https://open.spotify.com/album/7AMJ6O9ZYdfTO1dcHVuqit) | 4:50 | 2018-09-25 | 2022-09-25 |
 | [Sivimbe Ngezansi](https://open.spotify.com/track/4dxLmBonYXWLoTHOResIM4) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Obama](https://open.spotify.com/album/6vQGG2hOdBoASn6JrWeWFQ) | 4:50 | 2018-09-25 | 2023-02-17 |

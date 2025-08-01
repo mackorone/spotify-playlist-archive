@@ -570,7 +570,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 311161,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 447623,
       "name": "Sleeping Giant",
       "url": "https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g"
@@ -3819,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe"
+    },
+    {
+      "album": {
         "name": "War Room Worship, Pt. 4",
         "url": "https://open.spotify.com/album/2hZvzNbOJWmtp8ufg9U26j"
       },
@@ -3834,6 +3856,28 @@
       "duration_ms": 594102,
       "name": "War Room Worship, Pt. 4",
       "url": "https://open.spotify.com/track/64XhCvtsgCAJbOWxsUe5Wh"
+    },
+    {
+      "album": {
+        "name": "WHATEVER (TO YOUR GLORY)",
+        "url": "https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386382,
+      "name": "WHATEVER (TO YOUR GLORY)",
+      "url": "https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO"
     },
     {
       "album": {

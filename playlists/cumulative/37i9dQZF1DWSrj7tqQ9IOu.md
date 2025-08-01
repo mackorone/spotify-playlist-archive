@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Miel de Montagne
+> The best French indie tracks right now\. Cover : TheFrenchKris
 
-675 songs - 1 day 12 hr 27 min
+676 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Afterglow](https://open.spotify.com/track/6oHCMqfwWEs5Vr8Y3gQVbT) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn) | [Afterglow](https://open.spotify.com/album/5HHo3qAB3gfUGScbvB6iXr) | 2:51 | 2024-12-12 | 2025-02-21 |
 | [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 | 2024-01-18 | 2024-06-14 |
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-11-10 | 2023-01-20 |
+| [All Along \(Tout ce que tu veux\)](https://open.spotify.com/track/6uTcNVzvzHythOZ2BKsBiR) | [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All Along \(Tout ce que tu veux\)](https://open.spotify.com/album/602ktSRBGVxn3wkZ7WjwAF) | 3:07 | 2025-07-31 |  |
 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-14 | 2024-01-26 |
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 | 2022-04-22 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-07 | 2022-10-14 |
@@ -498,7 +499,7 @@
 | [Ready Baby](https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Ready Baby](https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT) | 3:19 | 2023-06-22 | 2024-02-09 |
 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-08 | 2023-02-03 |
 | [Reconnection](https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Reconnection](https://open.spotify.com/album/19rAn3kxCoqkzXzOwfxF8q) | 2:47 | 2023-03-02 | 2023-06-23 |
-| [Recto verso](https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Recto verso](https://open.spotify.com/album/2BapqsOrRlxAuClk4i2xte) | 2:30 | 2025-06-05 | 2025-07-18 |
+| [Recto verso](https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Recto verso](https://open.spotify.com/album/2BapqsOrRlxAuClk4i2xte) | 2:30 | 2025-06-05 |  |
 | [Reign](https://open.spotify.com/track/6JaXNHTlkipu1s6Il8l4eZ) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Cinematic](https://open.spotify.com/album/5fHLNq6EDhTzLWQI752ll1) | 3:05 | 2023-09-28 | 2024-04-05 |
 | [Reine de coeur](https://open.spotify.com/track/4ijiy4rTznlodLjywA9coq) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Reine de coeur](https://open.spotify.com/album/1MjzVUab8UODANWJwzLJIy) | 3:40 | 2025-07-24 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
@@ -511,7 +512,7 @@
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-12 | 2025-03-21 |
 | [Romantisme](https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Romantisme](https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl) | 3:49 | 2024-04-04 | 2024-10-04 |
-| [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 | 2025-06-19 |  |
+| [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 | 2025-06-19 | 2025-08-01 |
 | [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 | 2024-02-23 | 2024-09-20 |
 | [Sacha](https://open.spotify.com/track/4Iw28yS7pa8k4pcMF9R3YR) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 3:11 | 2024-04-04 | 2024-05-03 |
 | [Sailing To Paradise](https://open.spotify.com/track/4umZOehq0E93U3F2fNmIS1) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Sailing To Paradise](https://open.spotify.com/album/7zx6X6YRVTt7ImovPNgzIJ) | 2:12 | 2025-06-12 | 2025-07-25 |
@@ -557,7 +558,7 @@
 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 | 2023-06-01 | 2024-02-16 |
 | [Stay](https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Stay](https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU) | 3:29 | 2022-10-13 | 2023-01-20 |
 | [Stay Tonight](https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Stay Tonight](https://open.spotify.com/album/5FmKYqoVguD3KLINAfW9sn) | 2:41 | 2023-12-14 | 2024-04-12 |
-| [Stolen Dance](https://open.spotify.com/track/502dJfwWwiTbmwviMxieIL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Stolen Dance](https://open.spotify.com/album/6VkRQLIih9vsX5QyPukzXQ) | 3:34 | 2025-05-22 |  |
+| [Stolen Dance](https://open.spotify.com/track/502dJfwWwiTbmwviMxieIL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Stolen Dance](https://open.spotify.com/album/6VkRQLIih9vsX5QyPukzXQ) | 3:34 | 2025-05-22 | 2025-08-01 |
 | [Storytelling](https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Storytelling](https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r) | 4:18 | 2024-09-19 |  |
 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 | 2022-04-14 | 2022-06-03 |
 | [Sucré Salé](https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:42 | 2024-07-04 | 2025-05-09 |

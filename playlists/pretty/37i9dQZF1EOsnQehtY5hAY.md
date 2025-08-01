@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsnQehtY5hAY.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsnQehtY5hAY.md) - [plain]
 | 6 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 |
 | 7 | [Billie Eilish Talks Coachella, Touring & Injuries](https://open.spotify.com/episode/05BgRjhTQML42IiehDWD56) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 55:25 |
 | 8 | [Grenade](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:42 |
-| 9 | [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:56:11 |
+| 9 | [The Day Bruno Mars Called](https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:58 |
 | 10 | [I'll Be There](https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Always in Between \(Deluxe\)](https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN) | 3:14 |
 | 11 | [Jess Glynne Talks Brit Awards & Her Album Always In Between \| The Hit Takeover With Joey Groth](https://open.spotify.com/episode/0CB9ncT8dHLMcmZa8oxKVH) | [The Hit Takeover With Joey Groth](https://open.spotify.com/show/3juS0g5O3vQzSkqfxRlepP) | [The Hit Takeover With Joey Groth](https://open.spotify.com/album/3juS0g5O3vQzSkqfxRlepP) | 13:39 |
 | 12 | [Mirror](https://open.spotify.com/track/2hxWNzVB1LPieCA9dU6k0P) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:20 |

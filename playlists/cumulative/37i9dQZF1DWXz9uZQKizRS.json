@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Lor",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Zuta",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "Lanquidities",
+        "url": "https://open.spotify.com/album/06xICI8lmluFmgk8hSb8xu"
+      },
+      "artists": [
+        {
+          "name": "Ola Budzy\u0144ska",
+          "url": "https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6"
+        },
+        {
+          "name": "Patryk Banach",
+          "url": "https://open.spotify.com/artist/7nfIem0wrLFT4hO5Q5s6EL"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112161,
+      "name": "1:50",
+      "url": "https://open.spotify.com/track/3PzFwg4zuxiwD9BkZIrCnb"
+    },
+    {
+      "album": {
         "name": "HOBBY",
         "url": "https://open.spotify.com/album/5BoHSEZEZn6A1l3xA6zhPm"
       },
@@ -230,7 +252,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 207586,
       "name": "3 kr\u00f3tkie, 3 d\u0142ugie, 3 kr\u00f3tkie",
       "url": "https://open.spotify.com/track/1CkUzP8Bk74163JqhNPMWt"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 164869,
       "name": "bar",
       "url": "https://open.spotify.com/track/2bQ13mtxi4q94lETwm3rln"
@@ -2461,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "Co za stan",
+        "url": "https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        },
+        {
+          "name": "BRASSERS",
+          "url": "https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Co za stan",
+      "url": "https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC"
+    },
+    {
+      "album": {
         "name": "Co Ze Mn\u0105",
         "url": "https://open.spotify.com/album/6ttrJhwHzWoEWQD4Zn8LxT"
       },
@@ -2930,6 +2974,24 @@
       "duration_ms": 266453,
       "name": "Decision",
       "url": "https://open.spotify.com/track/1EmDi8X1q2vwLVQ3mcKNVt"
+    },
+    {
+      "album": {
+        "name": "jeszcze 5 minut",
+        "url": "https://open.spotify.com/album/3BKTL0NRQTPz47X1UErxKM"
+      },
+      "artists": [
+        {
+          "name": "Senny",
+          "url": "https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153425,
+      "name": "demo domu",
+      "url": "https://open.spotify.com/track/6sO57kTvfR2uKUhkN1FHIK"
     },
     {
       "album": {
@@ -3485,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Drugi raz prze\u017cywam swoj\u0105 \u015bmier\u0107",
+        "url": "https://open.spotify.com/album/6DQPjEYQsCSu8mFmBArGyC"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270779,
+      "name": "Drugi raz prze\u017cywam swoj\u0105 \u015bmier\u0107",
+      "url": "https://open.spotify.com/track/0dUY8G41RuKvuJBLK0GGHF"
+    },
+    {
+      "album": {
         "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
         "url": "https://open.spotify.com/album/3BHMi7fHjXFmQsTFx6DviT"
       },
@@ -3514,7 +3594,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 180000,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER"
@@ -3814,10 +3894,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 191875,
       "name": "Eliksir",
       "url": "https://open.spotify.com/track/4duIrUxTf6EpXcCqZm8gVa"
+    },
+    {
+      "album": {
+        "name": "Elwira",
+        "url": "https://open.spotify.com/album/18Kq16OLk0HZA8urFd8LLQ"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214472,
+      "name": "Elwira",
+      "url": "https://open.spotify.com/track/2pyMjnzW5ntHvKxoEndAKp"
     },
     {
       "album": {
@@ -8363,6 +8461,24 @@
     },
     {
       "album": {
+        "name": "Moja bestia",
+        "url": "https://open.spotify.com/album/00196AZM3ZTvnXgh3WRN9I"
+      },
+      "artists": [
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281680,
+      "name": "Moja bestia",
+      "url": "https://open.spotify.com/track/11ABvurYaqvF6anaGLe4ys"
+    },
+    {
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -8502,7 +8618,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 168329,
       "name": "MOJA WINA",
       "url": "https://open.spotify.com/track/117KifGYCTOCz3lFev5urW"
@@ -9146,6 +9262,28 @@
       "duration_ms": 240000,
       "name": "Nazywam si\u0119 niebo (rework 10 lat albumu Pr\u0105d)",
       "url": "https://open.spotify.com/track/08yRQudHsDYsTdG3GsBccP"
+    },
+    {
+      "album": {
+        "name": "Nedospane No\u010de",
+        "url": "https://open.spotify.com/album/2OYQW9zMfJSsExgHaWG5dl"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nedospane No\u010de",
+      "url": "https://open.spotify.com/track/7cpiRNXghkaToeZhjMBEoB"
     },
     {
       "album": {
@@ -12902,7 +13040,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 185437,
       "name": "Ritz",
       "url": "https://open.spotify.com/track/3dtqAkNTYcmyInE9DgIkW1"
@@ -13040,7 +13178,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172332,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/4UITcoh4mQLg8tO7yaESei"
@@ -13254,6 +13392,24 @@
       "duration_ms": 205366,
       "name": "Scenariusze wszystkie z\u0142e",
       "url": "https://open.spotify.com/track/5VIoJhwhhx8JmIFBpVOCAG"
+    },
+    {
+      "album": {
+        "name": "Seans",
+        "url": "https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219341,
+      "name": "Seans",
+      "url": "https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT"
     },
     {
       "album": {
@@ -13492,7 +13648,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 189943,
       "name": "SIMSY",
       "url": "https://open.spotify.com/track/7nAUHGx8WeqetXMglHaENP"
@@ -15174,6 +15330,24 @@
       "duration_ms": 94344,
       "name": "to nie ty!",
       "url": "https://open.spotify.com/track/32JDRwUUTIC9wpNYdifUpE"
+    },
+    {
+      "album": {
+        "name": "To tylko gorszy dzie\u0144",
+        "url": "https://open.spotify.com/album/07HMbU4suaf1TEU4k39BAv"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119891,
+      "name": "To tylko gorszy dzie\u0144",
+      "url": "https://open.spotify.com/track/6zOw9FuYET97ah0DZ9EgxR"
     },
     {
       "album": {

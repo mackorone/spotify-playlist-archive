@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 163739,
+  "num_followers": 163771,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAAC/YkjTd2/E6D+2nD9c0MO1",
+  "snapshot_id": "aIlggAAAAAArrte2AIzp8UosuxL46fP3",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 133840,
-      "name": "Boot Hill - 1989 Version",
-      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live Alive",
         "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 277306,
       "name": "Willie The Wimp - Live",
       "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Shake 'N Bake",
-      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 144600,
       "name": "Wham",
       "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Shake 'N Bake",
+      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 335160,
-      "name": "I'm Leaving You (Commit A Crime) - Live",
-      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 348160,
       "name": "May I Have a Talk with You",
       "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
     },
     {
       "added_at": null,

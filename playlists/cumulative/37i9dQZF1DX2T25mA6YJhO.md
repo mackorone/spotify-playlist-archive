@@ -2,9 +2,9 @@
 
 ### [Rock 2025](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: HORROCRUX.
+> Súbete a la nueva ola del rock español\. Foto: Anabel Lee.
 
-438 songs - 22 hr 21 min
+439 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bats \- Bonus Track](https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:03 | 2024-10-04 | 2024-10-25 |
 | [BOCARRIBA](https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ) | [CANTEO!](https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis) | [BOCARRIBA](https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz) | 3:17 | 2025-01-23 | 2025-02-14 |
 | [Bolsas](https://open.spotify.com/track/7qrBjMQLyq04f4SNAAf1B5) | [Cabo Ventura](https://open.spotify.com/artist/5YWx6f5YHavV3E98NKzNP9) | [Bolsas](https://open.spotify.com/album/7lAYpqqrJca3zzO7lhcG4N) | 2:11 | 2025-06-12 | 2025-06-20 |
-| [Boston](https://open.spotify.com/track/7llrXhMFcbVZjhptqQeaIw) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Boston](https://open.spotify.com/album/7lxZi4GmUR9C2J3KoM4JEM) | 3:10 | 2025-07-10 | 2025-07-29 |
+| [Boston](https://open.spotify.com/track/7llrXhMFcbVZjhptqQeaIw) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Boston](https://open.spotify.com/album/7lxZi4GmUR9C2J3KoM4JEM) | 3:10 | 2025-07-10 |  |
 | [Bravo](https://open.spotify.com/track/16qvtKnS487O30LPpF3CiR) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Bravo](https://open.spotify.com/album/1JObf8Yr4RiYqteGM8IbIZ) | 3:09 | 2025-03-13 | 2025-04-11 |
 | [Brigitte](https://open.spotify.com/track/0QoBr11hbbxOcH5wntSrlL) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Brigitte](https://open.spotify.com/album/4m8R9GyWjTEFgz9NBR6L94) | 3:07 | 2025-03-20 | 2025-04-11 |
 | [Cada instante](https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH) | [Ártico](https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ) | [Cada instante](https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR) | 3:25 | 2024-08-15 | 2025-01-17 |
@@ -172,7 +172,7 @@
 | [Historia Triste](https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [DIRECTOS AL INFIERNO](https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP) | 2:02 | 2024-10-31 | 2025-03-28 |
 | [Historias que contar](https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Historias que contar](https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv) | 3:29 | 2025-04-10 |  |
 | [Hodeiak](https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx) | [Mirail](https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9) | [Hodeiak](https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR) | 3:54 | 2024-08-22 | 2024-09-13 |
-| [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 | 2024-09-05 |  |
+| [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 | 2024-09-05 | 2025-08-01 |
 | [Huellas](https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj) | [Yacaré](https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt) | [Huellas](https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF) | 2:27 | 2025-03-13 |  |
 | [Imaginación política](https://open.spotify.com/track/6wG01AZ6GnIEPNd1s9VBh8) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [Imaginación política](https://open.spotify.com/album/205R6tg1Own5Q9LAAE0lMA) | 3:24 | 2024-07-11 | 2024-08-02 |
 | [Insurrección](https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Insurrección](https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f) | 2:04 | 2024-11-21 |  |
@@ -298,7 +298,7 @@
 | [Palos y Piedras](https://open.spotify.com/track/49BUQqlGJ42mDQtJWyypxp) | [Bañaperros](https://open.spotify.com/artist/4Zbtr7GoFeQqg9iZkxaiIg) | [Palos y Piedras](https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE) | 3:48 | 2024-08-22 | 2024-09-20 |
 | [PARAR EL TIEMPO](https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S) | [Periferia](https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI) | [PARAR EL TIEMPO](https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB) | 3:17 | 2025-01-16 |  |
 | [Parkour](https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Parkour](https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8) | 3:04 | 2024-10-03 | 2025-02-07 |
-| [Paseo de vuelta](https://open.spotify.com/track/7yQVptuLX94BXU1tEvXBlK) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Paseo de vuelta](https://open.spotify.com/album/6PIfqmrG9VhqdNPYN8DrN7) | 3:47 | 2025-06-12 |  |
+| [Paseo de vuelta](https://open.spotify.com/track/7yQVptuLX94BXU1tEvXBlK) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Paseo de vuelta](https://open.spotify.com/album/6PIfqmrG9VhqdNPYN8DrN7) | 3:47 | 2025-06-12 | 2025-08-01 |
 | [Pastillas](https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Pastillas](https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs) | 2:30 | 2024-08-29 | 2025-03-09 |
 | [Patatas de chino](https://open.spotify.com/track/1zlTTbTEAhunokfJDAOUjT) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Patatas de chino](https://open.spotify.com/album/684ZvhyqUrLqIkFi3kSvBz) | 3:05 | 2025-07-03 |  |
 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 | 2024-06-27 | 2024-12-13 |
@@ -318,7 +318,7 @@
 | [Pongo filtros](https://open.spotify.com/track/13z2yALKjGaLPGgGZpCuoM) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [La misma p\*\*\* historia](https://open.spotify.com/album/189ooSG3BJ1fX7WSD1agtx) | 2:17 | 2025-03-20 | 2025-04-11 |
 | [Ponzano](https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ponzano](https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu) | 2:24 | 2024-09-05 | 2025-05-25 |
 | [Por si te pierdes](https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [Por si te pierdes](https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE) | 3:08 | 2024-08-08 | 2024-10-10 |
-| [por un momento](https://open.spotify.com/track/4bbhUyXzrmWaFiKdc9sytb) | [grima](https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj) | [por un momento](https://open.spotify.com/album/7uZQr7eK34WEWHQ45iCcLH) | 4:07 | 2025-07-03 | 2025-07-30 |
+| [por un momento](https://open.spotify.com/track/4bbhUyXzrmWaFiKdc9sytb) | [grima](https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj) | [por un momento](https://open.spotify.com/album/7uZQr7eK34WEWHQ45iCcLH) | 4:07 | 2025-07-03 |  |
 | [Porno](https://open.spotify.com/track/6VcbzRsGlWf3JKsKSykVaG) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Porno](https://open.spotify.com/album/2DRvZbUal4kRyTkW33jvoD) | 2:46 | 2024-06-27 | 2024-07-04 |
 | [Premonición](https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34) | [Capsula](https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd) | [Premonición](https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu) | 2:45 | 2024-07-04 | 2024-07-27 |
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2024-06-27 | 2024-12-13 |
@@ -346,6 +346,7 @@
 | [saliendo bien](https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB) | [Supermeganada](https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0) | [saliendo bien](https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP) | 3:04 | 2024-12-05 | 2025-01-24 |
 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 | 2024-07-25 | 2025-01-17 |
 | [Santas Pascuas](https://open.spotify.com/track/2tNFq8fnljBjfpbnF61As4) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Santas Pascuas](https://open.spotify.com/album/1uvsVK56FgVStxDCJGbCfg) | 2:16 | 2024-08-29 | 2024-09-06 |
+| [Segunda capa](https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv) | [Palo Domado](https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5) | [Segunda capa](https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3) | 2:49 | 2025-07-31 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 | 2025-07-17 |  |
 | [Si Me Pierdo](https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Si Me Pierdo](https://open.spotify.com/album/3MJbzjwIt0YuozGKQcTagl) | 3:19 | 2025-03-27 | 2025-07-25 |
 | [Si me quieres o si no](https://open.spotify.com/track/6UAcqX3SVd0rEJF7ki11Vd) | [The Killer Barbies](https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP) | [Si me quieres o si no](https://open.spotify.com/album/1RwmbDa7JJOzzr1FRwTQz4) | 2:55 | 2025-03-13 | 2025-05-30 |
@@ -358,7 +359,7 @@
 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 | 2024-06-27 | 2024-12-13 |
 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 | 2024-06-27 | 2024-12-06 |
 | [Solté tu mano](https://open.spotify.com/track/3aYwrgTEzIFHSEhXGIhzCm) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [Solté tu mano](https://open.spotify.com/album/4IYuQn7LFGeLqgnkhrFus4) | 2:46 | 2025-07-17 |  |
-| [Soy famoso](https://open.spotify.com/track/64Rm0bWMKDiYok9NrCHyT6) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Soy famoso](https://open.spotify.com/album/3bASx0hyaWMJUaqkzoEOU7) | 2:12 | 2025-07-03 |  |
+| [Soy famoso](https://open.spotify.com/track/64Rm0bWMKDiYok9NrCHyT6) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Soy famoso](https://open.spotify.com/album/3bASx0hyaWMJUaqkzoEOU7) | 2:12 | 2025-07-03 | 2025-08-01 |
 | [SOY UN PERRO](https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [EL CAMINO DEL DELULU](https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E) | 1:54 | 2024-10-17 | 2024-10-25 |
 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 | 2024-09-05 | 2024-09-27 |
 | [Subcampeón](https://open.spotify.com/track/4h6ByEnmpCr88TTFpMhyBo) | [Joaquín Fénix](https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg) | [Subcampeón](https://open.spotify.com/album/38hWqRtfW7CiwMImcvPuAg) | 2:31 | 2025-03-13 | 2025-03-21 |

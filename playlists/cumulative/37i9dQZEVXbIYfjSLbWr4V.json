@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/6Cou92zlMJIMHCInVfrVW4"
+      },
+      "artists": [
+        {
+          "name": "NEWLIGHTCHILD",
+          "url": "https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102631,
+      "name": "AGENT-PROVOCATEUR",
+      "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
+    },
+    {
+      "album": {
         "name": "ANGEL MAY CRY 2",
         "url": "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo"
       },
@@ -7766,7 +7784,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 186923,
       "name": "\u0412\u0418\u041f",
       "url": "https://open.spotify.com/track/3Wj0KTXBcXoaWrpLcb4qum"
@@ -7850,7 +7868,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 99681,
       "name": "\u0432\u043a\u043b\u0443\u0431\u0435",
       "url": "https://open.spotify.com/track/3jy14G6E0lcNdK9i6h4Uup"
@@ -8658,7 +8676,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 174344,
       "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
@@ -9168,6 +9186,24 @@
       "duration_ms": 171500,
       "name": "\u041a\u0438\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV"
+    },
+    {
+      "album": {
+        "name": "PAYCHECK",
+        "url": "https://open.spotify.com/album/6ZZtoqsZlMQKf1EooeK9RA"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185164,
+      "name": "\u041a\u043b\u0435\u043e\u043f\u0430\u0442\u0440\u0438",
+      "url": "https://open.spotify.com/track/5TEYAw98yTZlpsvIJc7wq8"
     },
     {
       "album": {
@@ -11064,7 +11100,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 246743,
       "name": "\u041f\u041e\u0420\u041d\u0425\u0410\u0411 \u041a\u0420\u0418\u0421\u041c\u0410\u0421 \u041a\u041b\u0410\u0411",
       "url": "https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw"
@@ -11220,7 +11256,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 173958,
       "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043b\u0430\u0441\u044c \u043c\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI"
@@ -11484,7 +11520,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 138512,
       "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0435 \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a"

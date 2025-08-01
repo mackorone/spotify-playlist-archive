@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Nine Inch Nails",
+  "description": "The best in new rock. Cover: NO CIGAR",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -3993,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Mirtazapine",
+        "url": "https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204336,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+    },
+    {
+      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -5797,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Star Child",
+        "url": "https://open.spotify.com/album/2FHZFt9MXy4rtuBbmiwotd"
+      },
+      "artists": [
+        {
+          "name": "The Smith Street Band",
+          "url": "https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Star Child",
+      "url": "https://open.spotify.com/track/1WxWi7a1JfrLnJPxhYHgbp"
+    },
+    {
+      "album": {
         "name": "The Superjesus",
         "url": "https://open.spotify.com/album/3RivF2UJ1HOqWa3XH6dulG"
       },
@@ -5826,7 +5862,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 255883,
       "name": "State Of Hawaii",
       "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
@@ -6132,7 +6168,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 324253,
       "name": "That's What You Do For Love",
       "url": "https://open.spotify.com/track/1Vt0rDoC3lqKOqdQtexxyo"
@@ -6849,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "album": {
         "name": "Unknown Pretenders",
         "url": "https://open.spotify.com/album/287d8ZNc3zrDVEIcxejd0i"
       },
@@ -7546,7 +7600,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ\">Benjamin Dube</a>",
+  "description": " <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ\">Xolly Mncwango</a> takes over the South African Gospel playlist as she records her next album at the Durban ICC on August 2nd and 3rd 2025. Enjoy!",
   "name": "South African Gospel",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 526068,
       "name": "Akekho Ofana Nawe",
       "url": "https://open.spotify.com/track/3NmAVMUD3d07TqpJCHtpGX"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 744959,
       "name": "Asikho Isikhali (Live)",
       "url": "https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 328360,
       "name": "Banaka Nako Ea Me E Haufi",
       "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
@@ -264,10 +264,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 300714,
       "name": "Bayazibuza",
       "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/59ZL9XX0LKdeXalmJqRX2y"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/3pGV2s007Sr9VPHYa28J9u"
     },
     {
       "album": {
@@ -282,7 +300,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 433640,
       "name": "Bhekani UJehova - Live",
       "url": "https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx"
@@ -304,10 +322,32 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 397850,
       "name": "Bina Moya Waka (Live)",
       "url": "https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ"
+    },
+    {
+      "album": {
+        "name": "Fouthwrite (Revised)",
+        "url": "https://open.spotify.com/album/6gN8AZ3APL6JCyyscQCv15"
+      },
+      "artists": [
+        {
+          "name": "Proverb",
+          "url": "https://open.spotify.com/artist/4IMxU8Ls3ifpIaWIuzedvT"
+        },
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Blessed & Highly Favored",
+      "url": "https://open.spotify.com/track/75C0UV5hYNVInVjvMO8bVy"
     },
     {
       "album": {
@@ -348,10 +388,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 655253,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143409,
+      "name": "Consistent God - Live At Cedarwoods of Sandton, 2023 / Reprise",
+      "url": "https://open.spotify.com/track/77o0qLD9RE8sLkpbaPECLO"
     },
     {
       "album": {
@@ -384,7 +442,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 528316,
       "name": "Dikgoro - Live",
       "url": "https://open.spotify.com/track/4Zn1bgOiW8pCJ5K9tCbIDd"
@@ -406,7 +464,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 568040,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7"
@@ -428,7 +486,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 396320,
       "name": "Ebenezer (feat. Yanga Sobetwa)",
       "url": "https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe"
@@ -450,7 +508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 376080,
       "name": "eJordan",
       "url": "https://open.spotify.com/track/5aZBAwCnBvjSgUJP8o1FGV"
@@ -476,7 +534,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 420160,
       "name": "Elshadai Adonai Medley (Live)",
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
@@ -494,10 +552,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 303439,
       "name": "Emmanuel - Recorded at Studio",
       "url": "https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN"
+    },
+    {
+      "album": {
+        "name": "Lindiwe",
+        "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336600,
+      "name": "Esandleni",
+      "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
     },
     {
       "album": {
@@ -512,7 +588,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI"
@@ -534,7 +610,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 383038,
       "name": "Esphambanweni",
       "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
@@ -552,7 +628,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 507973,
       "name": "Ewe Getsemane - Live",
       "url": "https://open.spotify.com/track/6h2aZSTOUOMtFWN9N8ynXX"
@@ -570,10 +646,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 346435,
       "name": "Ewe Jesu - Medley 1",
       "url": "https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV"
+    },
+    {
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/0dCLLNtrZbA5emKucTNesY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214388,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/5vyQZ75cMKTiB3ucxnLhjR"
     },
     {
       "album": {
@@ -625,6 +719,28 @@
     },
     {
       "album": {
+        "name": "God you keep on blessing me",
+        "url": "https://open.spotify.com/album/5a1M0zMLekpfSvFHRUFzNA"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "God you keep on blessing me",
+      "url": "https://open.spotify.com/track/4CG7S7iOYsp2lwAnpMFTNu"
+    },
+    {
+      "album": {
         "name": "Restored (Live)",
         "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
       },
@@ -636,7 +752,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni - Live",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
@@ -654,7 +770,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 336213,
       "name": "Hallelujah Nkateko (Lihle's Version) - Live",
       "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
@@ -672,10 +788,32 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 440000,
       "name": "He Still Can",
       "url": "https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn"
+    },
+    {
+      "album": {
+        "name": "Moya Movement",
+        "url": "https://open.spotify.com/album/1k7Juh1VvEk0tkqMjEQWTb"
+      },
+      "artists": [
+        {
+          "name": "Afrotraction",
+          "url": "https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3"
+        },
+        {
+          "name": "Neri Chawane",
+          "url": "https://open.spotify.com/artist/1dESwwsMir0Ouz3J1zIdGo"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "Heal Our Land",
+      "url": "https://open.spotify.com/track/4gLEl1YAPSvbZuiWPCIpep"
     },
     {
       "album": {
@@ -712,7 +850,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 370506,
       "name": "I Beat - Live",
       "url": "https://open.spotify.com/track/4clVVI4aSX59wlc3JfRTkh"
@@ -766,7 +904,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 325013,
       "name": "Igama Lakho - Live At Carnival City / 2024",
       "url": "https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT"
@@ -784,7 +922,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 393053,
       "name": "In This Place - Live At Carnival City, 2024",
       "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
@@ -802,7 +940,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 501417,
       "name": "Inceba - Live",
       "url": "https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa"
@@ -820,10 +958,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 502068,
       "name": "Interlude-Zulu Worship Medley Live",
       "url": "https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7"
+    },
+    {
+      "album": {
+        "name": "Manyan-nyan",
+        "url": "https://open.spotify.com/album/4cLXQxAwec5h5NlekHWxxZ"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347320,
+      "name": "Intliziyo",
+      "url": "https://open.spotify.com/track/0ZEDp3TQtDvQ28t5DKNTwa"
     },
     {
       "album": {
@@ -849,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "iNtwenhle",
+        "url": "https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn"
+      },
+      "artists": [
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        },
+        {
+          "name": "Kaelan DiJulio",
+          "url": "https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "iNtwenhle",
+      "url": "https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration, Vol. 16 (Live at Carnival City, 2012)",
         "url": "https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO"
       },
@@ -860,7 +1038,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 392813,
       "name": "Itshokwadi (Live at Carnival City, 2012)",
       "url": "https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb"
@@ -878,7 +1056,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 319334,
       "name": "iZono Zami",
       "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
@@ -900,7 +1078,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 488600,
       "name": "Jehova Retshepile - Live",
       "url": "https://open.spotify.com/track/3XzXAVjqEn9Sz3leK8I8YV"
@@ -918,7 +1096,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 458013,
       "name": "Jehovah Is Your Name (Live)",
       "url": "https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK"
@@ -961,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264440,
+      "name": "Jesu Ehlezi - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/14NahpJ61f9qLWV8AI39Pv"
+    },
+    {
+      "album": {
         "name": "Intimate Worship Season, Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E"
       },
@@ -976,7 +1172,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 419053,
       "name": "Jesu Ufik'ekuseni - Live",
       "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
@@ -994,7 +1190,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 580826,
       "name": "Jesu \u2018Lidwala",
       "url": "https://open.spotify.com/track/2LzE0NjnRkCnWUceB7bGiD"
@@ -1019,6 +1215,36 @@
     },
     {
       "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/0DrlDMHiJR1LVUGIVMQs8g"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Mr Shane SA",
+          "url": "https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Keep On Blessing Me",
+      "url": "https://open.spotify.com/track/0L3u3AoYEr91lbZZBiVKOa"
+    },
+    {
+      "album": {
         "name": "Khona Manje (Live)",
         "url": "https://open.spotify.com/album/65da7LjChvizDlebOaZnvw"
       },
@@ -1030,7 +1256,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 273097,
       "name": "Khona Manje - Live",
       "url": "https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk"
@@ -1052,7 +1278,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 427946,
       "name": "Khulul'Ugcobo - Live",
       "url": "https://open.spotify.com/track/4IhhLPlOJB57QSp3DRoke7"
@@ -1070,7 +1296,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 157000,
       "name": "Kubobonke Othixo - Live",
       "url": "https://open.spotify.com/track/6y6MKYvUGbGB90eKz0UUlu"
@@ -1088,7 +1314,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 509999,
       "name": "Kukhona Amadlelo",
       "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
@@ -1106,10 +1332,36 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
+    },
+    {
+      "album": {
+        "name": "Kusazokhanya",
+        "url": "https://open.spotify.com/album/0JWBN9d8sg35e8UNlQpNrr"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "Thabsie",
+          "url": "https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326856,
+      "name": "Kusazokhanya",
+      "url": "https://open.spotify.com/track/2t9eaAkI5Olwvm8kANT2bP"
     },
     {
       "album": {
@@ -1128,7 +1380,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 353619,
       "name": "Kuyobongwa Nama Qhawe",
       "url": "https://open.spotify.com/track/4lVDugm0rnnF8YIGNX1CAi"
@@ -1146,7 +1398,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 404875,
       "name": "Kuzohlatshelelwa",
       "url": "https://open.spotify.com/track/6ZNIVO8AGu1Pyhemi5LI1Y"
@@ -1164,7 +1416,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 274701,
       "name": "Lalela i'ndaba (Bafungile)",
       "url": "https://open.spotify.com/track/3nKOfpAL7uEq3yHrpt6HoX"
@@ -1182,10 +1434,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 309693,
       "name": "Lion of Judah - Live",
       "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
+    },
+    {
+      "album": {
+        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
+        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364272,
+      "name": "Liyabasebenzela - Live At Carnival City / 2024",
+      "url": "https://open.spotify.com/track/4sCtBxdr63DE34qrbAUMCB"
     },
     {
       "album": {
@@ -1200,7 +1470,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 150346,
       "name": "Lomhlengi Ungubani Na? - Live",
       "url": "https://open.spotify.com/track/4Uo5mvOjTFcoLG0MNGsawH"
@@ -1240,7 +1510,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 278886,
       "name": "Make a Way - Live",
       "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
@@ -1266,6 +1536,46 @@
       "duration_ms": 364800,
       "name": "Mawudunyiswe",
       "url": "https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4"
+    },
+    {
+      "album": {
+        "name": "UMvulo",
+        "url": "https://open.spotify.com/album/1kLI0vlggjDZT03AhIIaXY"
+      },
+      "artists": [
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        },
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268421,
+      "name": "Mazenzisa",
+      "url": "https://open.spotify.com/track/0JZGYzDT3Tf1Y6exnXxw8h"
+    },
+    {
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365453,
+      "name": "Mdumiseni - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/5SrG3eo5jz9D2ExtsnGr8L"
     },
     {
       "album": {
@@ -1302,7 +1612,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 301400,
       "name": "Mkhulumsebenzi",
       "url": "https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk"
@@ -1378,7 +1688,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 150820,
       "name": "Moya Wa Ka Reta Morena (Live)",
       "url": "https://open.spotify.com/track/7jqN9DIvOJvgclDMGYe7zn"
@@ -1396,7 +1706,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 516986,
       "name": "Moya Wami (Live)",
       "url": "https://open.spotify.com/track/4V47lua1XD4rnzvPLeR4JZ"
@@ -1414,7 +1724,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 309473,
       "name": "Moyongcwele",
       "url": "https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc"
@@ -1440,7 +1750,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 308210,
       "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
       "url": "https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ"
@@ -1462,7 +1772,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
@@ -1480,7 +1790,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 221232,
       "name": "Mvelinqangi",
       "url": "https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR"
@@ -1502,7 +1812,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 646407,
       "name": "Nang'Mthokozisi (Live)",
       "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
@@ -1527,6 +1837,56 @@
     },
     {
       "album": {
+        "name": "Ndikhokhele",
+        "url": "https://open.spotify.com/album/1kzvGdB69VUvZVu5X8KDwQ"
+      },
+      "artists": [
+        {
+          "name": "Jub Jub",
+          "url": "https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS"
+        },
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato"
+        },
+        {
+          "name": "Rebecca Malope",
+          "url": "https://open.spotify.com/artist/3AKDIFynpUHJKEZfiSJNw7"
+        },
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        },
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Tkinzy",
+          "url": "https://open.spotify.com/artist/1VXkGLSPJj5T0O5E8dNvdu"
+        },
+        {
+          "name": "Judith Sephuma",
+          "url": "https://open.spotify.com/artist/4UhNEvY4mAznOBZJkbXX8E"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        },
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319646,
+      "name": "Ndikhokhele",
+      "url": "https://open.spotify.com/track/55jci63pC1hQ3dJqsdZAbE"
+    },
+    {
+      "album": {
         "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD"
       },
@@ -1538,7 +1898,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 425920,
       "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f"
@@ -1556,10 +1916,36 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
+    },
+    {
+      "album": {
+        "name": "Ngi thembe wena",
+        "url": "https://open.spotify.com/album/43rjH0mQtE0fQuHboEZnY8"
+      },
+      "artists": [
+        {
+          "name": "Jub Jub",
+          "url": "https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS"
+        },
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        },
+        {
+          "name": "iComplete",
+          "url": "https://open.spotify.com/artist/3VDWqz3d7Cf7y19XUAdmpI"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238636,
+      "name": "Ngi thembe wena",
+      "url": "https://open.spotify.com/track/1QjeeYzBIlEmeijqRasJb0"
     },
     {
       "album": {
@@ -1582,7 +1968,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 345000,
       "name": "Ngidle",
       "url": "https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP"
@@ -1604,7 +1990,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 306729,
       "name": "Ngihambise Kahle",
       "url": "https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg"
@@ -1622,7 +2008,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 379000,
       "name": "Nginguthandiwe",
       "url": "https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J"
@@ -1644,7 +2030,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 505333,
       "name": "Nginobufakazi",
       "url": "https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY"
@@ -1662,7 +2048,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 239506,
       "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
@@ -1702,7 +2088,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 180119,
       "name": "Ngiyohlala (feat. Thami Mthabela)",
       "url": "https://open.spotify.com/track/1vk1AlStNzqLNvgi6vbNsK"
@@ -1738,7 +2124,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 461466,
       "name": "Ngobekezela",
       "url": "https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO"
@@ -1756,7 +2142,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 470600,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
@@ -1778,7 +2164,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 269253,
       "name": "Ntate Kemang - Live",
       "url": "https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd"
@@ -1800,7 +2186,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 573672,
       "name": "O a Ntwanela",
       "url": "https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a"
@@ -1818,7 +2204,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 484000,
       "name": "Ohlonishwayo",
       "url": "https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z"
@@ -1836,7 +2222,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 294653,
       "name": "Oska Ntsheba Wa Nnyatsa - Live",
       "url": "https://open.spotify.com/track/1hbQcA8MJScNJGPEGOeQDX"
@@ -1876,10 +2262,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 521844,
       "name": "Pela Hao / Jehovah o Lefika - Live",
       "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
+    },
+    {
+      "album": {
+        "name": "Moya Movement",
+        "url": "https://open.spotify.com/album/1k7Juh1VvEk0tkqMjEQWTb"
+      },
+      "artists": [
+        {
+          "name": "Afrotraction",
+          "url": "https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331937,
+      "name": "Philisa",
+      "url": "https://open.spotify.com/track/1sdWnOwub4AZKqwtzLd9Sb"
     },
     {
       "album": {
@@ -1894,7 +2298,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 231720,
       "name": "Phindukhulume - Live",
       "url": "https://open.spotify.com/track/0BiiuyivAWS0ipgH98pSto"
@@ -1912,7 +2316,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 473771,
       "name": "Praise Medley 2.0",
       "url": "https://open.spotify.com/track/1OCyrtQVxOCRHSGTxPAo27"
@@ -2076,10 +2480,32 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 1075857,
       "name": "South African Hymns Medley",
       "url": "https://open.spotify.com/track/2ISFvLQr4ids67oJbk82Wj"
+    },
+    {
+      "album": {
+        "name": "The GAP",
+        "url": "https://open.spotify.com/album/1xFLWxPqiYL71QWH9WRZqm"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "HLE",
+          "url": "https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Tana Moya",
+      "url": "https://open.spotify.com/track/0E5QvVarCGJgMNeKT4Z45t"
     },
     {
       "album": {
@@ -2138,7 +2564,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 234986,
       "name": "Thato Ya Hao - Live",
       "url": "https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW"
@@ -2178,7 +2604,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 399706,
       "name": "Ujesu Ulidwala",
       "url": "https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5"
@@ -2214,7 +2640,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
@@ -2232,7 +2658,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 309984,
       "name": "Ukuhlala Kuye - Live",
       "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
@@ -2250,7 +2676,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 385500,
       "name": "Ukuphila - Live",
       "url": "https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp"
@@ -2290,7 +2716,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 528037,
       "name": "Ukwenzile (Live)",
       "url": "https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r"
@@ -2334,7 +2760,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 256746,
       "name": "Ulwandle",
       "url": "https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ"
@@ -2352,7 +2778,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 272640,
       "name": "Umbhedesho - Live",
       "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
@@ -2374,6 +2800,24 @@
       "duration_ms": 507000,
       "name": "Umkhuleko We Bandla",
       "url": "https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe"
+    },
+    {
+      "album": {
+        "name": "Isibusiso Sami",
+        "url": "https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM"
+      },
+      "artists": [
+        {
+          "name": "Ndu Shezi",
+          "url": "https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324444,
+      "name": "Umthandazo wami",
+      "url": "https://open.spotify.com/track/1iYDZxJM6moHmluj8zBlB9"
     },
     {
       "album": {
@@ -2404,7 +2848,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 243840,
       "name": "Unamandla uMoya Oyingcwele",
       "url": "https://open.spotify.com/track/7IdwDsjgFKRiz6SAuMi0rC"
@@ -2465,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Uhambo II, Vol. 2",
+        "url": "https://open.spotify.com/album/79ivuCRDMWvhZ5NBKAT5fP"
+      },
+      "artists": [
+        {
+          "name": "Babo Ngcobo",
+          "url": "https://open.spotify.com/artist/7MU5IDCixrWz5MpkuNdJBk"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357642,
+      "name": "Usevele Wakuphinda Lokho",
+      "url": "https://open.spotify.com/track/0p6QXJJHQhyXqVnfWP3i4V"
+    },
+    {
+      "album": {
         "name": "Uthando Lukababa",
         "url": "https://open.spotify.com/album/0t5jvuMSjM0Ls6Dzq2gGzo"
       },
@@ -2480,6 +2942,24 @@
       "duration_ms": 221022,
       "name": "Uthando Lukababa",
       "url": "https://open.spotify.com/track/2SNJi1c3lzCHPvTvOf8B7f"
+    },
+    {
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366160,
+      "name": "Uthando Lukababa - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/3n8Kl5N8Hbd2emEXvlKrIM"
     },
     {
       "album": {
@@ -2548,7 +3028,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 370853,
       "name": "Uyalalelwa - Live",
       "url": "https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr"
@@ -2570,6 +3050,24 @@
       "duration_ms": 243388,
       "name": "Uyama Nomuntu",
       "url": "https://open.spotify.com/track/4rabhvTZ9eyQP2iY52wusH"
+    },
+    {
+      "album": {
+        "name": "Uyasondla (Live)",
+        "url": "https://open.spotify.com/album/44Rsvtg9tpi50cA3nS0Hm3"
+      },
+      "artists": [
+        {
+          "name": "Xolisa Kwinana",
+          "url": "https://open.spotify.com/artist/5E8frcTtta11QrEXhzCzGu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331821,
+      "name": "Uyasondla - Live",
+      "url": "https://open.spotify.com/track/1Xo4gYo5bwNSeZXatrJIxD"
     },
     {
       "album": {
@@ -2620,10 +3118,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 375693,
       "name": "Uzugcin'impilo Yam'",
       "url": "https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv"
+    },
+    {
+      "album": {
+        "name": "Shabach Shofar Chronicle (Live)",
+        "url": "https://open.spotify.com/album/4avAoS6zb64ol5JIhEONBF"
+      },
+      "artists": [
+        {
+          "name": "Zaza",
+          "url": "https://open.spotify.com/artist/6O8Kkn0PHWrihRNJnilQb7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428874,
+      "name": "Vava Voom - Live",
+      "url": "https://open.spotify.com/track/2hf9ddBbBCePTRdeZMdKPt"
     },
     {
       "album": {
@@ -2649,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Isibusiso Sami",
+        "url": "https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM"
+      },
+      "artists": [
+        {
+          "name": "Ndu Shezi",
+          "url": "https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235755,
+      "name": "Vila",
+      "url": "https://open.spotify.com/track/0q0CtkZkPZydb71wHzE7VH"
+    },
+    {
+      "album": {
         "name": "Wafika",
         "url": "https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo"
       },
@@ -2660,7 +3194,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 513718,
       "name": "Wafika",
       "url": "https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N"
@@ -2696,7 +3230,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 487650,
       "name": "Wakhazimula - Live",
       "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
@@ -2736,10 +3270,50 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 520882,
       "name": "Wangethula (Live)",
       "url": "https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW"
+    },
+    {
+      "album": {
+        "name": "The Grace Encounter, Vol. 1",
+        "url": "https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc"
+      },
+      "artists": [
+        {
+          "name": "Bucy Radebe",
+          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375758,
+      "name": "Wash'Umlilo",
+      "url": "https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC"
+    },
+    {
+      "album": {
+        "name": "We Need Revival (Medley) [Live]",
+        "url": "https://open.spotify.com/album/6dOtsPFsoEgXpdbNqaIYKW"
+      },
+      "artists": [
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        },
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 900820,
+      "name": "We Need Revival (Medley) [Live]",
+      "url": "https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV"
     },
     {
       "album": {
@@ -2754,7 +3328,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 518013,
       "name": "Wenzile - Live",
       "url": "https://open.spotify.com/track/2wQEpdV8eh06s1H5OSGhLv"
@@ -2798,7 +3372,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
@@ -2816,10 +3390,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+    },
+    {
+      "album": {
+        "name": "Ngumama",
+        "url": "https://open.spotify.com/album/3aVcedqj0IXKp136xu2YVZ"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306373,
+      "name": "Yibanathi",
+      "url": "https://open.spotify.com/track/5LzOe7x29UE0MtoeuAjJPk"
     },
     {
       "album": {
@@ -2846,6 +3442,24 @@
     {
       "album": {
         "name": "Ziphozenkosi",
+        "url": "https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292911,
+      "name": "Ziphozenkosi",
+      "url": "https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt"
+    },
+    {
+      "album": {
+        "name": "Ziphozenkosi",
         "url": "https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti"
       },
       "artists": [
@@ -2856,7 +3470,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 292937,
       "name": "Ziphozenkosi",
       "url": "https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww"
@@ -2874,7 +3488,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 390360,
       "name": "Zundikhaphe (Reprise) - Live",
       "url": "https://open.spotify.com/track/630wpqEFhX2z0UIHpYX1KN"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e8\u05d5\u05e2\u05d9 \u05e8\u05d9\u05e7",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 199600,
       "name": "Home",
       "url": "https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 198602,
       "name": "\u05d0\u05e4\u05e8\u05d5\u05e8\u05d9\u05e7",
       "url": "https://open.spotify.com/track/7agNJLn66STrmFnPuoPUtQ"
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/71SAJtipzdXFsVbyjVu1XU"
+      },
+      "artists": [
+        {
+          "name": "Sivan Talmor",
+          "url": "https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u05d4\u05d9\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/2S134v3mEUda2dxuzPMRHR"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
         "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
@@ -2991,6 +3009,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9 \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/5S13tY5gBiK0OD1B4fbdZq"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
+          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9 \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+      "url": "https://open.spotify.com/track/2CbXd9zc4SJB3GT1lY4sFl"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9-\u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9",
         "url": "https://open.spotify.com/album/7oZ69JODOCPiZbhN2mmDMg"
       },
@@ -3076,7 +3116,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 326979,
       "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
@@ -3850,7 +3890,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 177789,
       "name": "\u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d7\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/7kvLyVF0KjYpJAhjr7lKjM"
@@ -4213,6 +4253,32 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
+        "url": "https://open.spotify.com/album/3S11uzkgVR29uNb1mefSZs"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "\u05e8\u05d5\u05e2\u05d9 \u05d3\u05d5\u05e8\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/1qYmjyniKKhfp73s35QPq2"
+        },
+        {
+          "name": "Quami",
+          "url": "https://open.spotify.com/artist/0dfoFqLi3zwNrUy8Q0CjyB"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316206,
+      "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/6NQfMQ8TwaSOgxwoz4CBvu"
+    },
+    {
+      "album": {
         "name": "\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d4\u05d5\u05d1",
         "url": "https://open.spotify.com/album/6Z2xYbXLyl6n25jhfGqCiV"
       },
@@ -4224,7 +4290,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 187000,
       "name": "\u05de\u05d6\u05db\u05d9\u05e8\u05d4 \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9\u05ea",
       "url": "https://open.spotify.com/track/5yjtnWYFhvCbxS8eW8dDCI"
@@ -4552,6 +4618,24 @@
       "duration_ms": 265226,
       "name": "\u05e0\u05db\u05e0\u05e2 \u05dc\u05da",
       "url": "https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH"
+    },
+    {
+      "album": {
+        "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05d1\u05de\u05e7\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/1kngZS5T29ZJaBSs5kiuZY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05d1\u05de\u05e7\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/4wucsSEnug25nNbFKti9lm"
     },
     {
       "album": {
@@ -5196,6 +5280,24 @@
       "duration_ms": 195494,
       "name": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d9\u05e8 \u05d2\u05d3\u05d5\u05dc",
+        "url": "https://open.spotify.com/album/55vWronajRfBJTU2Dz3Pn5"
+      },
+      "artists": [
+        {
+          "name": "Anat Moshkovski",
+          "url": "https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "\u05e9\u05d9\u05e8 \u05d2\u05d3\u05d5\u05dc",
+      "url": "https://open.spotify.com/track/6mB1qSJZMD6iIF8SbTEQvD"
     },
     {
       "album": {

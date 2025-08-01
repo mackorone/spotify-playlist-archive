@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABYtlYerWZbXp7MPThf8QRk",
+  "snapshot_id": "aIlggAAAAACBg/Q50P3RbaBcr3PXOZhd",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shekinah (Live)",
+        "url": "https://open.spotify.com/album/6copG6KLyeYLmwS7t1mTaG"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 510941,
+      "name": "Shekinah - Live",
+      "url": "https://open.spotify.com/track/2IWoa4xlbEMsQDh5xjIbTw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
         "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 271266,
       "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
       "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shekinah (Live)",
-        "url": "https://open.spotify.com/album/6copG6KLyeYLmwS7t1mTaG"
-      },
-      "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 510941,
-      "name": "Shekinah - Live",
-      "url": "https://open.spotify.com/track/2IWoa4xlbEMsQDh5xjIbTw"
     },
     {
       "added_at": null,

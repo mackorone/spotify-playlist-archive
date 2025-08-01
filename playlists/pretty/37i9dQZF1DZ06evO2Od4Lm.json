@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 127942,
+  "num_followers": 127963,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABp04bDRN0IlinAgKHMsJS1",
+  "snapshot_id": "aIlggAAAAAAdeMOL35ENm6BZ8NW3e0Xi",
   "tracks": [
     {
       "added_at": null,
@@ -775,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 255721,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Size Too Small",
-      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Favorite Dream",
         "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 152644,
       "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
       "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Size Too Small",
+      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 255721,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
     },
     {
       "added_at": null,

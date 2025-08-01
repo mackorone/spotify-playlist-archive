@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-203 songs - 9 hr 57 min
+204 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 | 2025-07-04 |  |
 | [Lost My Breath](https://open.spotify.com/track/1SKBIqTkG9Bvmcad0KPv7d) | [Semblance Smile](https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f), [Krevix](https://open.spotify.com/artist/0rl745DzfLM1szxoEUT8F4) | [Lost My Breath](https://open.spotify.com/album/4XOaNnSz4gl2sRhsA135mF) | 2:27 | 2025-07-04 |  |
 | [Magalenha](https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Magalenha](https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ) | 2:32 | 2025-07-04 |  |
+| [Make You Dance](https://open.spotify.com/track/5gHGLBWGSaBVvHT88VktRf) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Make You Dance](https://open.spotify.com/album/2OJL1a3IENdAKYHYfoCRNW) | 3:17 | 2025-07-31 |  |
 | [Mammoth](https://open.spotify.com/track/58BVwReCtnJTLHRq0XOHCi) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Mammoth](https://open.spotify.com/album/40SVwGAc7XMY9qWQ2doyfN) | 5:32 | 2025-07-04 |  |
 | [Marvels](https://open.spotify.com/track/3SdEVa5G1BlOlMsUyKTXk7) | [PL4YFIELDS](https://open.spotify.com/artist/3mFkw8nB6EgE9f4kv2DAgs), [BENZ](https://open.spotify.com/artist/2xkJBCzOQ4hh1ByRAGZkfD) | [Marvels](https://open.spotify.com/album/6FcmDLN99gWsIQAFgLXDxo) | 2:47 | 2025-07-04 | 2025-07-31 |
 | [Memories](https://open.spotify.com/track/4T49o23TlFgm1AEEz4uIhM) | [Highup](https://open.spotify.com/artist/5vGy6auivb3qywR2zZQvU8), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Memories](https://open.spotify.com/album/0BQIqS7CzTfYAQY5H9DU5S) | 2:15 | 2025-07-04 |  |

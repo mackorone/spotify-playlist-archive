@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 43 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,293 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 41 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
 | 42 | [PASSE A RESPEITAR](https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [DJ Chernobyl](https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 1:54 |
 | 43 | [Sigo na Sombra](https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 |
+| 44 | [Sonho das Esquinas](https://open.spotify.com/track/4GvOLMwaQBdFyK9UyJNJok) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Sonho das Esquinas](https://open.spotify.com/album/7mdJzXUmc1DxpXTNpSQQO2) | 4:47 |
+| 45 | [KGL's](https://open.spotify.com/track/2P8SmEUI18LEdTBuOsT3TF) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [KGL's](https://open.spotify.com/album/2n1S05G2cL2rYo3egHTS5K) | 4:18 |
 
-Snapshot ID: `aIgPAAAAAABR4pNx0B3KSILugLXqXpEh`
+Snapshot ID: `aIlggAAAAABVas8epO9k22mnwLI8W6P5`

@@ -159,6 +159,28 @@
     },
     {
       "album": {
+        "name": "Acid Disco",
+        "url": "https://open.spotify.com/album/5iRKuvBRR6fIOX1pJuzsSa"
+      },
+      "artists": [
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        },
+        {
+          "name": "Kevu",
+          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Acid Disco",
+      "url": "https://open.spotify.com/track/2JKf4fQir0tbd8mBcrvJqE"
+    },
+    {
+      "album": {
         "name": "Acid Soul",
         "url": "https://open.spotify.com/album/53VfZ9loNDc0Y0jZ7Sn7iT"
       },
@@ -5446,7 +5468,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 172137,
       "name": "In The Music",
       "url": "https://open.spotify.com/track/43qQE9Qz16kLut0niBUNZb"

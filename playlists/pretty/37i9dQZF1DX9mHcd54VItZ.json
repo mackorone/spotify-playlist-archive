@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: FREDDY L",
-  "num_followers": 24038,
+  "num_followers": 24043,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-18 05:53:12",
       "album": {
-        "name": "Vernietig My",
-        "url": "https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe"
-      },
-      "artists": [
-        {
-          "name": "Noa Milan",
-          "url": "https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Vernietig My",
-      "url": "https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e"
-    },
-    {
-      "added_at": "2025-07-18 05:53:12",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207773,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
+    },
+    {
+      "added_at": "2025-07-18 05:53:12",
+      "album": {
+        "name": "Vernietig My",
+        "url": "https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe"
+      },
+      "artists": [
+        {
+          "name": "Noa Milan",
+          "url": "https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Vernietig My",
+      "url": "https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e"
     }
   ],
   "unique_name": "SA Rock ",

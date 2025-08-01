@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 63,974 likes - 50 songs - 3 hr 7 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 63,930 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 28 | [Hares On The Mountain \- Fast Version](https://open.spotify.com/track/7fYpgu9L54pKe0S63ETR3P) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Hares On The Mountain \(Fast Version\)](https://open.spotify.com/album/4Vg9ovhDTQJWBpPPTX2bKL) | 2:31 |
 | 29 | [Paradigm](https://open.spotify.com/track/4ufRAvwaZMK9H2LAB48mfW) | [Guedra Guedra](https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY) | [Paradigm](https://open.spotify.com/album/5i1p3DyXtuF7YoCa2zPXT2) | 3:43 |
 | 30 | [Disiniblud](https://open.spotify.com/track/4LSykUv5SkzyntmEmaBeNs) | [Disiniblud](https://open.spotify.com/artist/58yu67FLeWi0auMgHNfIHt), [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i) | [Disiniblud](https://open.spotify.com/album/2zbMcFQTxnQSqmHX6ZP182) | 3:52 |
-| 31 | [Prize Hunter](https://open.spotify.com/track/0i6NO624Vl6DPXW4h73gpe) | [Emma Pollock](https://open.spotify.com/artist/0CgHJ8bXtKvGVQepJEhTHK) | [Prize Hunter](https://open.spotify.com/album/5KglspDXhL0k6k2t9QsdTM) | 3:31 |
+| 31 | [Prize Hunter](https://open.spotify.com/track/0i6NO624Vl6DPXW4h73gpe) | [Emma Pollock](https://open.spotify.com/artist/0CgHJ8bXtKvGVQepJEhTHK), [Graeme Smillie](https://open.spotify.com/artist/4XClQxDYNXNrx6BeKViPbx), [Pete Harvey](https://open.spotify.com/artist/6G0RdGf4NVyFaIOhVKEUAW), [Paul Savage](https://open.spotify.com/artist/79pBnAbbtTviUmLDnQUmOu) | [Prize Hunter](https://open.spotify.com/album/5KglspDXhL0k6k2t9QsdTM) | 3:31 |
 | 32 | [Collected Mind](https://open.spotify.com/track/3CBGMibV2kAkJqMwI0kKGH) | [Velcrow](https://open.spotify.com/artist/6OfQXn3J0He2JEn3SUks8K) | [Collected Mind](https://open.spotify.com/album/1dmknOPTvA4fEWx3kjXKnX) | 4:14 |
 | 33 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |
 | 34 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |

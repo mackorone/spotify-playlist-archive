@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdlnITQ87tu.md) - [plain]
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 36 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 36 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdlnITQ87tu.md) - [plain]
 | 35 | [I Will Remember You \- Instrumental](https://open.spotify.com/track/1OEDvTq8S0ytFdl2CGJBvv) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 |
 | 36 | [I See You Like I See the Sun \- Instrumental](https://open.spotify.com/track/6BLhiaQyo2VeYJkxyOFnUC) | [Low\-end project](https://open.spotify.com/artist/5HECc7MQ1IoYk1H8MNrflW) | [Summer Strike, Pt\. 12 \(Original Soundtrack\)](https://open.spotify.com/album/1x1azzo9YyhTc65qCKfEar) | 3:06 |
 
-Snapshot ID: `aGZAIwAAAADvl4nZrnaZ0WLOyV13JgxG`
+Snapshot ID: `AAAAABFPc+EZc9TzTyf139SNvDUk7MSJ`

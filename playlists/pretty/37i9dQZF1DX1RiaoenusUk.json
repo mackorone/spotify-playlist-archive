@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33114,
+  "num_followers": 33130,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Angelitos",
-        "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
-      },
-      "artists": [
-        {
-          "name": "Carlota Urdiales",
-          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
-        },
-        {
-          "name": "Dano",
-          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Angelitos",
-      "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Needle in the Groove",
         "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 188730,
       "name": "Lev\u00e1ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Angelitos",
+        "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
+      },
+      "artists": [
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Angelitos",
+      "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 237106,
       "name": "Coconut Boogaloo",
       "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "RE$FRIADO",
-        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
-      },
-      "artists": [
-        {
-          "name": "Kiddo Toto",
-          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
-        },
-        {
-          "name": "Wirchi",
-          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Baila el Funk",
-      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Ready For Life",
         "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
       },
@@ -899,18 +879,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+        "name": "RE$FRIADO",
+        "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
       "artists": [
         {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+          "name": "Kiddo Toto",
+          "url": "https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6"
+        },
+        {
+          "name": "Wirchi",
+          "url": "https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1"
         }
       ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+      "duration_ms": 203506,
+      "name": "Baila el Funk",
+      "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -927,6 +911,22 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        }
-      ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Ac\u00e9rcame a Tu Piel",
         "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
       },
@@ -1267,6 +1235,38 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
+      },
+      "artists": [
+        {
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        }
+      ],
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1295,6 +1295,26 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Nada Ser\u00eda Igual",
+        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "Nada Ser\u00eda Igual",
+      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Nada Ser\u00eda Igual",
-        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
-      },
-      "artists": [
-        {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Motafonkas",
-          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "Nada Ser\u00eda Igual",
-      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1360,9 +1360,25 @@
           "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
         }
       ],
-      "duration_ms": 224864,
-      "name": "Back up in Flames",
-      "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+      },
+      "artists": [
+        {
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
-      },
-      "artists": [
-        {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
         }
       ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+      "duration_ms": 224864,
+      "name": "Back up in Flames",
+      "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Fiestas en las Nubes",
-        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
-      },
-      "artists": [
-        {
-          "name": "INTI GARCIA",
-          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Fiestas en las Nubes",
-      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
@@ -1511,46 +1495,6 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Miro donde miro",
-        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Veppo",
-          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
-        },
-        {
-          "name": "jjjuli\u00e1n",
-          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
-        },
-        {
-          "name": "Evan Bitz",
-          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
-        }
-      ],
-      "duration_ms": 175249,
-      "name": "Miro donde miro",
-      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1571,6 +1515,38 @@
       "duration_ms": 216249,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Fiestas en las Nubes",
+        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
+      },
+      "artists": [
+        {
+          "name": "INTI GARCIA",
+          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Fiestas en las Nubes",
+      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1603,6 +1579,30 @@
       "duration_ms": 232288,
       "name": "Espirituosa",
       "url": "https://open.spotify.com/track/0ZXJigvZPCAAOUnatrst9F"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Miro donde miro",
+        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Veppo",
+          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "duration_ms": 175249,
+      "name": "Miro donde miro",
+      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
     },
     {
       "added_at": "2025-07-04 11:50:10",

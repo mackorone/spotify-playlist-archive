@@ -1113,6 +1113,36 @@
     },
     {
       "album": {
+        "name": "Tamales",
+        "url": "https://open.spotify.com/album/7eVOlXJwA0yxfZqf42IdUH"
+      },
+      "artists": [
+        {
+          "name": "NAWF$IDEVOODO",
+          "url": "https://open.spotify.com/artist/3NYbLjNxvJObYSOsu2MA5S"
+        },
+        {
+          "name": "LTR",
+          "url": "https://open.spotify.com/artist/56rSgcGV0PamwI8ULtrt2I"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/0VkrHRdt8c84cyTMqCt9Af"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166793,
+      "name": "Tamales",
+      "url": "https://open.spotify.com/track/0QyWZSNSfw2cIkOi5DUz2U"
+    },
+    {
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
       },

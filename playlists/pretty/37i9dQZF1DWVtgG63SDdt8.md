@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,390 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,461 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [444](https://open.spotify.com/track/13guW1X33I82iJyez9u2OS) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [444](https://open.spotify.com/album/4J1fNs6tW4c8pAulsasoAK) | 2:56 |
 | 99 | [Wake Me Up](https://open.spotify.com/track/54cIR0H4ZykDay7XViCS47) | [Justin Gambino](https://open.spotify.com/artist/6hlIXwl3renjvnuITo9NH5) | [Just Like Jesus](https://open.spotify.com/album/1JpAKQDmxRSIM2QpMnITfL) | 3:32 |
 
-Snapshot ID: `aIO+wgAAAADWdW8M6SnVK3yMjX6/LV+1`
+Snapshot ID: `AAAAAF4ffRsdnS3P845pFP0cVl/+pIKv`

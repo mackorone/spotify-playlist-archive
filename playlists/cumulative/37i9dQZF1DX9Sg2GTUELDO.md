@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: moon tang
 
-531 songs - 1 day 7 hr 41 min
+534 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:50 | 2024-06-27 |  |
 | [Be with you](https://open.spotify.com/track/3oLmvdygvx8PCbbqUCt7Sl) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Be with you](https://open.spotify.com/album/4bC8Xd8IHkUfFkDf2jIbDQ) | 3:02 | 2024-08-08 |  |
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
+| [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 | 2025-07-31 |  |
 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 | 2024-11-28 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-04-17 |  |
@@ -139,6 +140,7 @@
 | [Only For Me](https://open.spotify.com/track/32nbQpvBnCDtXv59qchVdX) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Only For Me](https://open.spotify.com/album/4FkPEW0c45VA6ANisI3Wod) | 3:30 | 2024-06-27 |  |
 | [Out of the blue](https://open.spotify.com/track/5fJ9reRZCwq1ezsi9w4CdF) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Out of the blue](https://open.spotify.com/album/1GOtkuxH60AYTFKN1ul97u) | 3:26 | 2024-06-27 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2024-06-27 |  |
+| [POSH](https://open.spotify.com/track/4zNZ3wOmP7QDmA9W8DTfDi) | [Sumling 李芯駖](https://open.spotify.com/artist/3PS3bEACWBCBPRwfqsQBWg) | [POSH](https://open.spotify.com/album/0rW1LfKU2ZnpDYAtIjkGYO) | 2:59 | 2025-07-31 |  |
 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 | 2025-05-29 |  |
 | [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [VAL CHO](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
@@ -249,6 +251,7 @@
 | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/track/1ZDS8ZRWeRRbYXECjFELhp) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/album/7Kdd5etsuHT1NuRDByBEFD) | 3:42 | 2024-06-27 |  |
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2024-06-27 |  |
 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 | 2024-06-27 |  |
+| [公主不想努力了](https://open.spotify.com/track/0WMvn8mitLApwQANalt3RU) | [陳懿 Christy Chan Yi](https://open.spotify.com/artist/5D7tRtN81XKLxd4tW2NCPL) | [公主不想努力了](https://open.spotify.com/album/3Kn3eroUI6ScEeDP1hPuFG) | 3:41 | 2025-07-31 |  |
 | [公主抱](https://open.spotify.com/track/1x2wm1D5mqJ50xjCwnJTeU) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [公主抱](https://open.spotify.com/album/0txui9bU12kPbv0q43EKxO) | 3:10 | 2024-06-27 |  |
 | [公審法院](https://open.spotify.com/track/6ckM8jlHCubm0ad3DOz8hS) | [VAL CHO](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG), [Chloe Wong 黃筠兒](https://open.spotify.com/artist/2JLMtU26DC66HgEAq6TQY8), [Kilby Chan 超酸](https://open.spotify.com/artist/7MqXSsZ53ZvfcplaVcP43C) | [公審法院](https://open.spotify.com/album/66j7GnlvlEecqqpAKFHmny) | 3:38 | 2024-08-15 |  |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-06-27 |  |

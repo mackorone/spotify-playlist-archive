@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 946223,
+  "num_followers": 946206,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -1655,6 +1655,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Sentou e Gostou",
+        "url": "https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY"
+      },
+      "artists": [
+        {
+          "name": "MC JottaP\u00ea",
+          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
+        },
+        {
+          "name": "MC M10",
+          "url": "https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s"
+        },
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Sentou e Gostou",
+      "url": "https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Abusadamente",
         "url": "https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 187924,
       "name": "Bumbum Granada",
       "url": "https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Sentou e Gostou",
-        "url": "https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY"
-      },
-      "artists": [
-        {
-          "name": "MC JottaP\u00ea",
-          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
-        },
-        {
-          "name": "MC M10",
-          "url": "https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s"
-        },
-        {
-          "name": "DJ RD",
-          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Sentou e Gostou",
-      "url": "https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr"
     },
     {
       "added_at": "2023-06-26 14:06:50",

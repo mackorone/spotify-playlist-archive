@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > A true\-ish story based on a lie\. Listen to the music behind Apple Cider Vinegar, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,240 likes - 29 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,255 likes - 29 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 | 28 | [California \- Demo](https://open.spotify.com/track/1Yxx8Wn54LV6rfM31OCpc1) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [California](https://open.spotify.com/album/4AV0P37LvocbPNdEaimjfs) | 3:14 |
 | 29 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 
-Snapshot ID: `AAAAAAXr07kYwHzLnQR+zWINQgMTc3/y`
+Snapshot ID: `Z6lgpAAAAADSEMakezhXDH8ppe4HUaF+`

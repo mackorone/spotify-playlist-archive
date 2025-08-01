@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 6 hr 28 min
+20 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Steve Aoki](https://open.spotify.com/episode/69hN4xvtqXH7NmoQR02yvc) | [On with Mario Interviews](https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz) | [On with Mario Interviews](https://open.spotify.com/album/0yU4kEIGRodx3sgK99xnJz) | 28:17 | 2020-11-27 |  |
 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 | 2020-11-27 |  |
 | [The Chainsmokers I Full Interview](https://open.spotify.com/episode/47GmZm7FQP7Ej7p3i7a0NB) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 45:21 | 2020-11-27 |  |
-| [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 1:55:46 | 2020-11-27 |  |
+| [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:33 | 2020-11-27 |  |
 | [The New BTS Album is Finally Here! Map Of The Soul: Persona Outsold](https://open.spotify.com/episode/6l68X8Yh89rardUmtodbCl) | [BTS AF](https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp) | [BTS AF](https://open.spotify.com/album/5qvChm9pa8rv5ne8Zh9Ewp) | 13:59 | 2020-11-27 |  |
 | [Waste It On Me](https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:12 | 2020-11-27 |  |
 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/3Q6fRSTIz9AZLfmTMGNlxG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/album/3RRlQpHcnBStDiuVD88wtp) | 2:56 | 2020-11-27 |  |

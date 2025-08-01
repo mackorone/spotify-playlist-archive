@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,037 songs - 2 day 10 hr 11 min
+1,038 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Do Not Resist](https://open.spotify.com/track/4xvvHMshkQgGoDBCVXTSIa) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE) | [Do Not Resist](https://open.spotify.com/album/475crrYDMvhgxXYp91ffTa) | 3:32 | 2023-09-18 | 2024-01-11 |
 | [DO OR DIE](https://open.spotify.com/track/6nrDB1y3mQwgi1tHWJdr9X) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [DO OR DIE](https://open.spotify.com/album/3lgSlwvaCVzghqJQ1pR45n) | 2:44 | 2024-04-11 | 2024-07-03 |
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
+| [Don't Let Me Down](https://open.spotify.com/track/151rMxSRR29UZMAgcIxeRI) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Julienne By](https://open.spotify.com/artist/4aUyfJwzLfhVjBUIYmGsg5) | [Don't Let Me Down / Fade Away](https://open.spotify.com/album/3wlir7YSKanoErLGZDGg8k) | 3:38 | 2025-07-31 |  |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Don't Speak](https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Don't Speak](https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr) | 4:00 | 2024-04-01 | 2024-06-18 |
 | [Don't Stop](https://open.spotify.com/track/6FVi8am0wUrPVKte7uOhaj) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Don't Stop](https://open.spotify.com/album/6WPrb9Tj8DszFIUhnzjg2Y) | 2:51 | 2024-11-29 | 2025-03-08 |

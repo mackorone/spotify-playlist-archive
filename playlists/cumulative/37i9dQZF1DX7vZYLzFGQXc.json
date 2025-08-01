@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: \uae40\ud478\ub984 (KIM PUREUM)) (Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!) ",
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: ddbb) (Meet the emerging talents of Korea!) ",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -13005,6 +13005,24 @@
     },
     {
       "album": {
+        "name": "In The Waves",
+        "url": "https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH"
+      },
+      "artists": [
+        {
+          "name": "YeonJeong",
+          "url": "https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228035,
+      "name": "In The Waves",
+      "url": "https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf"
+    },
+    {
+      "album": {
         "name": "In This Morning",
         "url": "https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs"
       },
@@ -17990,7 +18008,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 224924,
       "name": "Not But Disco",
       "url": "https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc"

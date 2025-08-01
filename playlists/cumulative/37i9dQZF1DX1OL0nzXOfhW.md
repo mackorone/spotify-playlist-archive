@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Billy Choi
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Gordon Flanders
 
-265 songs - 15 hr 24 min
+267 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Another Sunny Day](https://open.spotify.com/track/1b53pbyMUzQHAIGwYClSjK) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:23 | 2023-04-13 | 2024-03-29 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-05-12 |
 | [Be Your Man](https://open.spotify.com/track/64reYNJXjQhPvvV4xqUw9I) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Be Your Man](https://open.spotify.com/album/5jtwRgJGrZGi1u9rMRnyK8) | 3:59 | 2024-12-19 | 2025-03-28 |
+| [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 | 2025-07-31 |  |
 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 | 2025-02-28 |
 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-04-17 |  |
 | [Break The Wall \(ViuTV 節目《公司逼我打籃球》主題曲\)](https://open.spotify.com/track/6F5wzLRCz2kuWutggrcoDc) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [Break The Wall \(ViuTV 節目《公司逼我打籃球》主題曲\)](https://open.spotify.com/album/4jg17kdCEglYysG24ZWTdc) | 3:35 | 2025-06-26 |  |
@@ -227,6 +228,7 @@
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 | 2023-04-14 |
 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 | 2023-05-11 | 2025-03-28 |
 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 | 2024-03-29 |
+| [歌頓花園](https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌頓花園](https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A) | 3:58 | 2025-07-31 |  |
 | [江湖](https://open.spotify.com/track/5ZgBfHfHeVhvN2t5myBaE3) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e) | 3:41 | 2023-12-28 | 2024-03-29 |
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 | 2024-01-05 |
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-03-28 | 2024-12-20 |
@@ -245,7 +247,7 @@
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 | 2023-04-14 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-03-28 | 2025-03-28 |
 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 | 2022-05-26 | 2023-04-14 |
-| [碰觸在彌留之際 \-《埋班作樂III》作品](https://open.spotify.com/track/4M9w4TevyNaIInZzVr1BUo) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [碰觸在彌留之際 \-《埋班作樂III》作品](https://open.spotify.com/album/2d2Uuk8vVA0OcXTmjHt0B1) | 2:50 | 2025-03-27 |  |
+| [碰觸在彌留之際 \-《埋班作樂III》作品](https://open.spotify.com/track/4M9w4TevyNaIInZzVr1BUo) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [碰觸在彌留之際 \-《埋班作樂III》作品](https://open.spotify.com/album/2d2Uuk8vVA0OcXTmjHt0B1) | 2:50 | 2025-03-27 | 2025-08-01 |
 | [神話](https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:33 | 2022-12-29 | 2023-04-14 |
 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 | 2023-09-15 | 2024-03-29 |
 | [粉筆](https://open.spotify.com/track/2lijgeNLFH4gFCnYJOvLuf) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [粉筆](https://open.spotify.com/album/5WUhJkRZ1DGisPpGvgvTH4) | 3:04 | 2024-03-28 | 2025-03-28 |

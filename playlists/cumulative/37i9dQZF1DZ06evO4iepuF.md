@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 |  |
+| [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 | 2025-08-01 |
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-12-14 |  |
 | [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 | 2025-02-16 |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-12-14 |  |
@@ -71,7 +71,7 @@
 | [mango girl](https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H) | [Draffish](https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [wish](https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg) | 1:27 | 2025-03-30 | 2025-04-12 |
 | [MAX LVL FIXATED!!](https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 | 2024-12-14 |  |
 | [METAL PIPE CORE](https://open.spotify.com/track/2Zm9axLuY8BY6REDeih0Da) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [METAL PIPE CORE](https://open.spotify.com/album/6x4XyWM4D8lo7WdjB4IbHY) | 1:44 | 2024-12-14 |  |
-| [microtonal ghost](https://open.spotify.com/track/6YAq0AsR5qLv38dAylq96b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [microtonal ghost](https://open.spotify.com/album/78k3fA3wgT4cNynmZE9Dpe) | 2:32 | 2024-12-14 | 2025-07-31 |
+| [microtonal ghost](https://open.spotify.com/track/6YAq0AsR5qLv38dAylq96b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [microtonal ghost](https://open.spotify.com/album/78k3fA3wgT4cNynmZE9Dpe) | 2:32 | 2024-12-14 |  |
 | [my wedding vows \(bandlab draft\)](https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [my wedding vows \(bandlab draft\)](https://open.spotify.com/album/4Kj2mizREDHrPPu4e7KSsg) | 1:51 | 2025-01-06 | 2025-03-23 |
 | [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2024-12-14 |  |
 | [no reception](https://open.spotify.com/track/4UMwxOfR9UMHRl6EOVnxBE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:46 | 2024-12-14 | 2025-07-31 |

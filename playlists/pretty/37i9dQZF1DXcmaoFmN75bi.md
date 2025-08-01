@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Billy Idol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,254 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,282 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 | 99 | [Band On The Run \- Underdubbed Mix](https://open.spotify.com/track/76nlqO22biwQTzHr194H2N) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Underdubbed Mix\)](https://open.spotify.com/album/391TZzS13fNdJ8Dk2AN0oO) | 5:17 |
 | 100 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 |
 
-Snapshot ID: `Z0CVfQAAAABKej79zKA2J1BGQ35PPqCv`
+Snapshot ID: `AAAAAE6Q2lM6froJiV2GP1/woANvtSf9`

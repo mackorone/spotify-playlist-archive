@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Richie Campbell entra na zona.
+> Waze & LEO2745 entram na zona.
 
-836 songs - 1 day 20 hr 9 min
+837 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-02-20 | 2024-03-01 |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 | 2023-05-27 |
 | [Eu Sei \#6](https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Eu Sei \#6](https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1) | 2:45 | 2024-04-11 | 2024-05-24 |
+| [Eu Vou Vencer](https://open.spotify.com/track/702bq8Ud8dIxysgrRvTqv0) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Eu Vou Vencer](https://open.spotify.com/album/2Q1ojLgXp6qbjmhEhonNeJ) | 4:17 | 2025-07-31 |  |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 | 2023-02-03 |
 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 | 2024-06-13 |  |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
@@ -514,7 +515,7 @@
 | [Naquela Base](https://open.spotify.com/track/0IJlFbvpFfcZvgcBHUoLkp) | [DJ Overule](https://open.spotify.com/artist/7G2Ifqc6GK5hnQOCEMF1Zo), [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Naquela Base](https://open.spotify.com/album/23Ya0t9be1qWCCcEhj43OH) | 3:06 | 2022-12-09 | 2023-01-20 |
 | [NARRATIVA](https://open.spotify.com/track/71CVtVEjK6GabQINOori0o) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [NARRATIVA](https://open.spotify.com/album/5J64x57j5IlPX5ewqHpgLk) | 2:56 | 2022-12-09 | 2023-01-13 |
 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 | 2023-02-17 | 2023-10-01 |
-| [ND1G](https://open.spotify.com/track/4bdSB2bELmZLPoKuLNJaOd) | [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw), [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [ND1G](https://open.spotify.com/album/4v21n1DOpmayHPbsULCx5l) | 2:25 | 2025-07-10 |  |
+| [ND1G](https://open.spotify.com/track/4bdSB2bELmZLPoKuLNJaOd) | [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw), [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [ND1G](https://open.spotify.com/album/4v21n1DOpmayHPbsULCx5l) | 2:25 | 2025-07-10 | 2025-08-01 |
 | [Nem Metade / Não Me Confundam](https://open.spotify.com/track/2d2avrshOdr9uZ5hGVAwmc) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Nem Metade / Não Me Confundam](https://open.spotify.com/album/3e4x4eIngHxvOuckHbMbv8) | 2:49 | 2025-01-24 | 2025-02-21 |
 | [Nha Dignidade](https://open.spotify.com/track/07K5k78EEhpkCpz5Jr5lwH) | [Rislene](https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR) | [Nha Dignidade](https://open.spotify.com/album/2EYTZLzRH9ZAiIv4RBlVVh) | 3:09 | 2024-11-15 | 2025-01-03 |
 | [Nha Primero Amor](https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Dareal General](https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg) | [Nha Primero Amor](https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0) | 3:33 | 2023-06-01 | 2023-06-23 |

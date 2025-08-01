@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 216912,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ"
@@ -2044,6 +2044,24 @@
       "duration_ms": 243716,
       "name": "Lean On Me - Live",
       "url": "https://open.spotify.com/track/0DnaqMnKR6MseDweMXedrm"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5Zy6ElTbp4KxZgBNsIof3B"
+      },
+      "artists": [
+        {
+          "name": "Ike Rivers",
+          "url": "https://open.spotify.com/artist/23GeF42nMJDi2JgoVtCBQi"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1zIL8IsEfk0qtK5RcUlXAa"
     },
     {
       "album": {
@@ -4561,6 +4579,32 @@
     },
     {
       "album": {
+        "name": "This Is Me, Thinking Out Loud...",
+        "url": "https://open.spotify.com/album/1MAq3lQX2tkx4TFdO5sQEU"
+      },
+      "artists": [
+        {
+          "name": "Adam Srae",
+          "url": "https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE"
+        },
+        {
+          "name": "Kidda X",
+          "url": "https://open.spotify.com/artist/5egalTdmPOZMftBz4n0nrC"
+        },
+        {
+          "name": "Chuks BK",
+          "url": "https://open.spotify.com/artist/6RKxYmaJnCRs01HNsj8JDS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "When I Am Home",
+      "url": "https://open.spotify.com/track/4egw8ZWUgQF7LfxPJCA7Nd"
+    },
+    {
+      "album": {
         "name": "Who Let Him In",
         "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
       },
@@ -4630,7 +4674,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 177272,
       "name": "With You in Mind",
       "url": "https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv"

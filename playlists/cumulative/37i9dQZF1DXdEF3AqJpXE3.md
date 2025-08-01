@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: BLACKPINK
+> The best tracks from the world of music\. Cover: Justin Bieber
 
 506 songs - 1 day 3 hr 22 min
 
@@ -173,7 +173,7 @@
 | [HAPPY MAN](https://open.spotify.com/track/0iq4tyrVjVfHHeOXYDMC8g) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [HAPPY MAN](https://open.spotify.com/album/5lBn1L7IijsEcWQ7nHbaI7) | 2:39 | 2024-12-25 | 2025-01-30 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-02 | 2024-10-30 |
-| [Here We Are](https://open.spotify.com/track/6msz8Hs2mXlTdTPNP9OLoU) | [NDPeeps](https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L), [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [Here We Are](https://open.spotify.com/album/0Bca9OP06eLcvAKNlEDNdi) | 4:00 | 2025-06-04 | 2025-07-03 |
+| [Here We Are](https://open.spotify.com/track/6msz8Hs2mXlTdTPNP9OLoU) | [NDPeeps](https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L), [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [Here We Are](https://open.spotify.com/album/0Bca9OP06eLcvAKNlEDNdi) | 4:00 | 2025-06-04 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-29 | 2024-06-26 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-27 | 2025-03-29 |
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-09-04 | 2024-10-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24157,
+  "num_followers": 24162,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAADoykzrUG+TDx9hwqYCAR+6",
+  "snapshot_id": "aIlggAAAAABhc1vp0u7lIaeTpnFT9XJ+",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+      "duration_ms": 237705,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 237705,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
+      "duration_ms": 268613,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 129745,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 195144,
       "name": "Crest of a Wave",
       "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 129745,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 84575,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 238510,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 84575,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr"
     },
     {
       "added_at": null,

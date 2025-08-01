@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリストを再現】2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催された国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,422 likes - 253 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,424 likes - 253 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

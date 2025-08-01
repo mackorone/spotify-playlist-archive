@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Jesse Welles
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,796 likes - 155 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,731 likes - 155 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 154 | [Country Kid](https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Country Kid](https://open.spotify.com/album/2sjMqp2bBoT0abDKJYavl1) | 3:33 |
 | 155 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 |
 
-Snapshot ID: `aIMBdwAAAABLLfSVukn8IAvaPFhOkp3X`
+Snapshot ID: `AAAAAHZV7RcgmvH/pRa1z4fy/r2v143E`

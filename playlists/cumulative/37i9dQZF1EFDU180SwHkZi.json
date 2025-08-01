@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137914,
+      "name": "Jadugarni",
+      "url": "https://open.spotify.com/track/2X4nY0nU2qVxEN8nMTFCOq"
+    },
+    {
+      "album": {
         "name": "january",
         "url": "https://open.spotify.com/album/0VGR9ywEKEl4vMgTvSVC5m"
       },

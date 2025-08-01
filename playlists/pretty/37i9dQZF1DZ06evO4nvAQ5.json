@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15647,
+  "num_followers": 15651,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAACu8FUSOUbhrrsHygjwUffv",
+  "snapshot_id": "aIlggAAAAAC19nT6nA3/wlKAnTj9UsgJ",
   "tracks": [
     {
       "added_at": null,
@@ -199,42 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -255,6 +219,42 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 205013,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -727,42 +743,6 @@
       "duration_ms": 188783,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 223393,
       "name": "Love's Close Around",
       "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -935,6 +919,42 @@
       "duration_ms": 230563,
       "name": "Mama Roots",
       "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205254,
+      "name": "Just You & Me",
+      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
     },
     {
       "added_at": null,
@@ -975,26 +995,6 @@
       "duration_ms": 215423,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205254,
-      "name": "Just You & Me",
-      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
     }
   ],
   "unique_name": "This Is J Boog",

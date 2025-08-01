@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 83095,
       "name": "Berleezy",
       "url": "https://open.spotify.com/track/7nrbrBaxgmg384sjxzHfSd"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2273,6 +2273,28 @@
     },
     {
       "album": {
+        "name": "China White",
+        "url": "https://open.spotify.com/album/48iUKf6Ci4Cs0aKeYA0HGC"
+      },
+      "artists": [
+        {
+          "name": "Hnic Pesh",
+          "url": "https://open.spotify.com/artist/1AVT1YTY1u4rEtd6wBpb2D"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "Cradle 2 the Grave",
+      "url": "https://open.spotify.com/track/07c5ywoMHO7BDQNNJL8Abl"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/44GXrK6L5e22b1JWvpelpd"
       },
@@ -2306,7 +2328,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 228340,
       "name": "Creed",
       "url": "https://open.spotify.com/track/7hPenGR0AKp8RgsuM01udu"
@@ -2787,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Doing Numbers",
+        "url": "https://open.spotify.com/album/09btR1tooSThyygi9gvClQ"
+      },
+      "artists": [
+        {
+          "name": "Pakk Supreme",
+          "url": "https://open.spotify.com/artist/2TxMyEaqhOtodftt7bZkU0"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219977,
+      "name": "Doing Numbers",
+      "url": "https://open.spotify.com/track/6VgVTTjarLHc5BDi982w5P"
+    },
+    {
+      "album": {
         "name": "Doing This for Me",
         "url": "https://open.spotify.com/album/6o8HkJagqMlsaQ5vp6hKWR"
       },
@@ -2860,7 +2900,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 305266,
       "name": "Don't F**k Wit Us",
       "url": "https://open.spotify.com/track/7lLVbMrxd8lRogUlKv4IZ8"
@@ -2954,6 +2994,28 @@
       "duration_ms": 122965,
       "name": "DP freestyle",
       "url": "https://open.spotify.com/track/32sZluTRMv3MFzWpyVCvM6"
+    },
+    {
+      "album": {
+        "name": "Dreaming of You",
+        "url": "https://open.spotify.com/album/60YngpWWzIawhW001OD2OM"
+      },
+      "artists": [
+        {
+          "name": "Yacoo D.B.H.S",
+          "url": "https://open.spotify.com/artist/2NQVvr9fm2LpNaGaAGMt0d"
+        },
+        {
+          "name": "Utamu",
+          "url": "https://open.spotify.com/artist/2aEA3dIXTd0A2ZpTLBUBeQ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223895,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/2hoxXT0l1aUpjEUHtnrH5R"
     },
     {
       "album": {
@@ -3320,7 +3382,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -4266,7 +4328,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -4820,7 +4882,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 131362,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1oPA8J9IytAMdaxnTYr903"
@@ -7620,7 +7682,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 119040,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/6PjU3fk35C41MZLHhjrE0c"
@@ -9654,7 +9716,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 177319,
       "name": "Space N Time",
       "url": "https://open.spotify.com/track/70bQbnJmEl8492pMI22thF"
@@ -10046,7 +10108,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 207504,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6xusUfCiFkFb91WXULdSly"
@@ -10162,7 +10224,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 170161,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/7J6cvXbqyl51I77IIv1fcM"
@@ -11017,6 +11079,28 @@
     },
     {
       "album": {
+        "name": "Tricks",
+        "url": "https://open.spotify.com/album/4mactRqVNmG2VIx3rEV9ec"
+      },
+      "artists": [
+        {
+          "name": "C.A.M.",
+          "url": "https://open.spotify.com/artist/0Jkq5X5HRimQuxQz4mfMFN"
+        },
+        {
+          "name": "Milli",
+          "url": "https://open.spotify.com/artist/7qQZ0PN3cysVmZIjRl9dE0"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Tricks",
+      "url": "https://open.spotify.com/track/5bgwHJ3av5aNAYOBOM4TwH"
+    },
+    {
+      "album": {
         "name": "Trifling Shit",
         "url": "https://open.spotify.com/album/0EBo5EsghEfxabzQd49WRS"
       },
@@ -11076,7 +11160,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 187924,
       "name": "Trump",
       "url": "https://open.spotify.com/track/0LmSBxjCw9VyZr91uaDdfb"
@@ -11826,7 +11910,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 225824,
       "name": "Whip Hard",
       "url": "https://open.spotify.com/track/7xTAIkcBGrbyI2KY56l7Jg"

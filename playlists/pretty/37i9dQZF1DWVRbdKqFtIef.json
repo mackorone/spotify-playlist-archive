@@ -1,13 +1,29 @@
 {
   "description": "This is Chappell Roan. The essential tracks all in one playlist. ",
-  "num_followers": 265754,
+  "num_followers": 266058,
   "original_name": "This is Chappell Roan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCto2wAAAADfGQUt+iUXWxh0Zb2YhZyO",
+  "snapshot_id": "aIwDlAAAAAAcLfv8kzBzGH21tueGjSEg",
   "tracks": [
+    {
+      "added_at": "2025-08-01 00:00:19",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
     {
       "added_at": "2025-05-19 17:22:35",
       "album": {
@@ -59,22 +75,6 @@
     {
       "added_at": "2025-05-19 17:22:35",
       "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-05-19 17:22:35",
-      "album": {
         "name": "Red Wine Supernova",
         "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "added_at": "2025-05-19 17:22:35",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-05-19 17:22:35",

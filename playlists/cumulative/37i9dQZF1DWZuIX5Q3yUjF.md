@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Ama Dee in cover della playlist dell'R&B italiano 🫀
+> Shablo in cover della playlist dell'R&B italiano 🫀
 
-865 songs - 1 day 18 hr 45 min
+866 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [mozzicone](https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [mozzicone](https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN) | 2:45 | 2024-04-12 | 2024-10-25 |
 | [MY LADY](https://open.spotify.com/track/4huOHlHNobk81EPRFehQ5R) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [MY LADY](https://open.spotify.com/album/084SssXdVjVDoBVApO1vTE) | 2:43 | 2024-06-20 | 2024-10-04 |
 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 | 2024-01-11 | 2024-04-16 |
+| [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/track/2cqHzyO2PpcTypROv6PkRz) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/album/03QfUQ2UG2bE9II9kQEuOI) | 3:00 | 2025-07-31 |  |
 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 | 2023-10-26 | 2023-12-15 |
 | [N'ata vot \(Perdono\)](https://open.spotify.com/track/37lmdEdm1GtJBZEK3Z5Xt6) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [N'ata vot \(Perdono\)](https://open.spotify.com/album/0Hr1MneqQzVojY96cu5sm7) | 2:35 | 2024-03-20 | 2024-04-16 |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
@@ -823,7 +824,7 @@
 | [Un altro giro](https://open.spotify.com/track/17MzhNVbLCBY0G19GjBV79) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Un altro giro](https://open.spotify.com/album/3K90ZmP4xzMIddScM0GEhu) | 2:31 | 2022-05-05 | 2022-06-10 |
 | [Un Attimo](https://open.spotify.com/track/2tXVODeQt2DPBbKuzzI6zz) | [Say it in Napulitan](https://open.spotify.com/artist/6vjrL1vLmYdxfQ2ctaUEV0), [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U) | [Napoli Stellata](https://open.spotify.com/album/1XvqDIcWE82u4BxsB8hZ8P) | 3:14 | 2025-07-03 |  |
 | [Un motivo per piangere](https://open.spotify.com/track/5cqk26EGS39jEEjrMRMjOP) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Un motivo per piangere](https://open.spotify.com/album/0aPaUV9hl1iDAXuueXDIYO) | 3:29 | 2023-11-30 | 2024-01-26 |
-| [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 | 2025-05-16 |  |
+| [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 | 2025-05-16 | 2025-08-01 |
 | [Un'altra festa](https://open.spotify.com/track/1KpgcZBATfN2xyoKcyj1TH) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Un'altra festa](https://open.spotify.com/album/0eYc4SuHZ26wkYQL0ygkDh) | 2:28 | 2023-09-28 | 2023-10-27 |
 | [UN'ALTRA NOTTE](https://open.spotify.com/track/3pGkGnlkqP1uFnYyzAEspn) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [UN'ALTRA NOTTE](https://open.spotify.com/album/0wxai2kIsKcmGlHvSXsPR3) | 2:58 | 2022-06-16 | 2023-02-24 |
 | [UNA FORMICA AL SOLE](https://open.spotify.com/track/462Ahs4m2ZGo76M6AfqZcw) | [Ticky B](https://open.spotify.com/artist/46hvAixyF8ZVEssLifxnHd), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [UNA FORMICA AL SOLE](https://open.spotify.com/album/2FDPrIYtni1WLSrIYAOTji) | 1:50 | 2025-07-24 |  |

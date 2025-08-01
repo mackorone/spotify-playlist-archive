@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Prince Husein
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Skyline
 
-435 songs - 1 day 1 hr 19 min
+441 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [At Least We Tried](https://open.spotify.com/track/4HevrR9k6qc3glD3q9Ru5O) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [At Least We Tried](https://open.spotify.com/album/39Udvsu01UpF8W4f2A9h2s) | 3:48 | 2024-10-03 | 2024-11-29 |
 | [Awaken](https://open.spotify.com/track/1ZUhjTuX9nbHLcFpiVQlwK) | [Abirama](https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq) | [Awaken](https://open.spotify.com/album/69UQdIw1QyoN5u04lnGCzh) | 4:10 | 2025-07-10 |  |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-13 | 2025-04-25 |
+| [Baby July](https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Baby July](https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y) | 3:19 | 2025-08-01 |  |
 | [back to you](https://open.spotify.com/track/4J3UeEeSNrMKYHCaaQy46a) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [back to you](https://open.spotify.com/album/1wyZWBOKXgjiYxc7IR1Ajs) | 3:33 | 2024-06-27 | 2024-08-10 |
 | [Back To You](https://open.spotify.com/track/2gglT6HrpQJhv4nU1fIZT3) | [Nowela Mikhelia](https://open.spotify.com/artist/4e53a3HRkUEiIAUnShZPSr) | [Back To You](https://open.spotify.com/album/4KZAzRq5qFNBFN0NGkFgNu) | 4:22 | 2024-10-24 | 2025-01-24 |
 | [Bad Bad](https://open.spotify.com/track/02XgMsdfJr6GjTD4sSPD8J) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [Bad Bad](https://open.spotify.com/album/5sQj4trXRrUSsGnAYD1Sk7) | 3:33 | 2025-04-17 | 2025-06-13 |
@@ -128,6 +129,7 @@
 | [Feenin' \- Andezzz Remix](https://open.spotify.com/track/19CfTZUocbSgUJrQGjgvPs) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7), [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd) | [Feenin'](https://open.spotify.com/album/4cZ5TWhsqDaZrU9c9cxuoC) | 4:52 | 2024-06-27 | 2024-07-24 |
 | [Figaro](https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6) | [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Figaro](https://open.spotify.com/album/3YqvLwy54tEMwiGwfTUFNh) | 2:48 | 2025-07-18 |  |
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-23 | 2025-01-18 |
+| [Fighter](https://open.spotify.com/track/0qG2qBOkGXPOplavjmTs9h) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Fighter](https://open.spotify.com/album/2KBqdVBjVrF5iFRznyxRGA) | 3:37 | 2025-08-01 |  |
 | [Fireworks Confession](https://open.spotify.com/track/6DbjCdCR60y635HtdLsuIR) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Fireworks Confession](https://open.spotify.com/album/0XKdbVCAIdwGWs3eoshy5B) | 3:13 | 2025-05-22 | 2025-06-13 |
 | [Flashlight](https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u) | [Precious Bloom](https://open.spotify.com/artist/6IFNsMUy9ZIPoITKCjMTMN) | [Flashlight](https://open.spotify.com/album/16670hpVDgDohewHKfthD6) | 7:07 | 2024-06-27 | 2024-09-27 |
 | [flower](https://open.spotify.com/track/7xgSBx3RaTvzW6qVWOauy8) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [flower](https://open.spotify.com/album/2WtQETY1JytUrqxLo6Ksy4) | 3:29 | 2024-06-27 | 2024-08-30 |
@@ -149,6 +151,7 @@
 | [Gentle Agreement](https://open.spotify.com/track/5qAMhRsnjUtrY6Y9XJEkk6) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Gentle Agreement](https://open.spotify.com/album/7F7VLs071GYrSmTEzqRjJ8) | 3:30 | 2024-07-25 | 2024-11-29 |
 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 | 2024-12-12 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-27 | 2025-01-24 |
+| [Give In](https://open.spotify.com/track/5kkxvrdYIrBB8iYZLehfnE) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [arise\*](https://open.spotify.com/album/4SOKYLLdHhxG7BlluQpgkz) | 4:33 | 2025-08-01 |  |
 | [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 | 2025-06-19 | 2025-07-18 |
 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 | 2025-02-13 | 2025-04-25 |
 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-15 | 2025-07-04 |
@@ -236,6 +239,7 @@
 | [Life Of The Party](https://open.spotify.com/track/6XPibXdca5CWY3Zz6iNSi2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Life Of The Party](https://open.spotify.com/album/1rOcdVbjMEfs5DBSVaBcQb) | 3:20 | 2024-11-07 | 2025-03-14 |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 |  |
 | [like an orchid / kembali \- Baila's Lullaby](https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [orchids \(lullabies\)](https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD) | 2:34 | 2025-07-10 |  |
+| [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 | 2025-08-01 |  |
 | [Limerence](https://open.spotify.com/track/3I4mVnT3eD1GkWtfopCPEa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [gazeng](https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo) | [Limerence](https://open.spotify.com/album/01w1dx6iPZ1e1Xhx4mr9zy) | 3:39 | 2025-07-18 |  |
 | [Little by Little](https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Midnight's Promises](https://open.spotify.com/album/7L8u8SoGZjEGBi9yFI0Cxo) | 3:20 | 2025-07-18 |  |
 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 | 2024-06-27 | 2025-01-24 |
@@ -318,6 +322,7 @@
 | [Promises](https://open.spotify.com/track/7FHqot8Yy6EPODzynaaB1g) | [Summerlane](https://open.spotify.com/artist/5qNRmCwvoxDRNP12wW3s0H) | [Promises](https://open.spotify.com/album/0rG5WxvivoCBRiKoWmgeoj) | 3:53 | 2025-06-26 |  |
 | [Pura Pura Bahagia \- Japanese Version](https://open.spotify.com/track/76r78vQ7H7SQkrNpRAL6ma) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Morning in Osaka](https://open.spotify.com/album/54ms2CNMhAc2Ssio38mxOC) | 3:42 | 2024-10-24 | 2025-01-24 |
 | [Purple Smoke](https://open.spotify.com/track/6g5plYKrCl7EgH0FOOuZvJ) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Purple Smoke](https://open.spotify.com/album/0d3rr9GiYnMtomwKUwIxEA) | 3:13 | 2024-12-12 | 2025-04-25 |
+| [real love](https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [real love](https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB) | 3:49 | 2025-08-01 |  |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2025-01-24 |
 | [Renaissance Man](https://open.spotify.com/track/3kkrXydZaaor24348eYbIp) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Renaissance Man](https://open.spotify.com/album/3fiZhTVA6QGTc7Xw0uSXom) | 2:22 | 2024-08-23 | 2024-11-29 |
 | [Reverie](https://open.spotify.com/track/3tEHmpoGjvi6FAcu0YGUNi) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [Reverie](https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi) | 2:53 | 2024-06-27 | 2024-07-27 |
@@ -366,6 +371,7 @@
 | [Sucks](https://open.spotify.com/track/1eJyzy33IN2JLkWMde4Yvc) | [Midnight Lobster](https://open.spotify.com/artist/1qIfVmeDHgmbWXVf3V0wxs) | [Sucks](https://open.spotify.com/album/1V0IbxCdhIrE1me8T9T01q) | 2:46 | 2024-06-27 | 2024-07-27 |
 | [Sugarpills](https://open.spotify.com/track/7MpD2YZbkP21oZNOkmBfct) | [Cvndy](https://open.spotify.com/artist/74WzFWbliZQYYtp8Vft4vU) | [Sugarpills](https://open.spotify.com/album/5rAwTVkWbun9dHeyAq5gnX) | 3:42 | 2024-08-09 | 2024-10-11 |
 | [Summer Blue](https://open.spotify.com/track/2x4U871UlUdjVtlLShDeHJ) | [Shakila Anjani](https://open.spotify.com/artist/0b7ktdXIZGmEH06i40rDek) | [Summer Blue](https://open.spotify.com/album/4aexuUAYbC9Xie2yD6GSjq) | 3:00 | 2024-09-05 | 2025-01-24 |
+| [Summer Rain](https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Same Old/Same New](https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji) | 4:27 | 2025-08-01 |  |
 | [Sunday](https://open.spotify.com/track/6bXUFU7a1Oivx4i4CZLxgt) | [Gabriel Prince](https://open.spotify.com/artist/16l5VqPQtbScYq3mi7wGxg) | [Sunday](https://open.spotify.com/album/3XwbOiOuzXmRip1hu3Mlu3) | 3:08 | 2024-07-11 | 2024-10-11 |
 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 | 2024-06-27 | 2024-09-27 |
 | [SUNDOWN](https://open.spotify.com/track/51mi7JDWRSeWGFeu0jyPBO) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [SUNDOWN](https://open.spotify.com/album/7rJNXl4AKE4LOQpG9LfV4h) | 2:36 | 2025-03-13 | 2025-05-09 |

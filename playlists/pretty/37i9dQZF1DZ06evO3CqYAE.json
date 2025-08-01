@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13193,
+  "num_followers": 13200,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIgPAAAAAABrkH55uRElpdbz4Gx+/J4E",
+  "snapshot_id": "aIlggAAAAADNc3xls+0jSoRTIRP3+K8L",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 220265,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 367158,
+      "name": "Bor Ekom",
+      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -627,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
@@ -636,9 +668,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 367158,
-      "name": "Bor Ekom",
-      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
+      "duration_ms": 264800,
+      "name": "Yesterday Today Forever",
+      "url": "https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB"
     },
     {
       "added_at": null,
@@ -652,15 +684,15 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 220265,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn"
+      "duration_ms": 613764,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
@@ -668,9 +700,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Yesterday Today Forever",
-      "url": "https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB"
+      "duration_ms": 346253,
+      "name": "Imenem",
+      "url": "https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf"
     },
     {
       "added_at": null,
@@ -695,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 346253,
-      "name": "Imenem",
-      "url": "https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 613764,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Belongs To Jesus",
-        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 256120,
-      "name": "Power Belongs To Jesus",
-      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+        "name": "Power Belongs To Jesus",
+        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 312980,
-      "name": "Only You Satisfy",
-      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+      "duration_ms": 256120,
+      "name": "Power Belongs To Jesus",
+      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
     },
     {
       "added_at": null,

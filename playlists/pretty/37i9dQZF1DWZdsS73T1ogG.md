@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: W Sound, Dei V & Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,960 likes - 180 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,928 likes - 180 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 179 | [Pal Pi](https://open.spotify.com/track/40WAmuMa00xGvCiiGNEIwu) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Pal Pi](https://open.spotify.com/album/35NuYcJ80ABPNpsn6FEIGF) | 2:47 |
 | 180 | [Parriba \(feat\. Trueno\)](https://open.spotify.com/track/5i20bm09NmO0XxrDLi2oeD) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Parriba \(feat\. Trueno\)](https://open.spotify.com/album/1yO3aW12O3F7cPnS2nJrCA) | 3:20 |
 
-Snapshot ID: `AAAAAHd2iO0ZAtc3b2BUoX0lG1p7fVTT`
+Snapshot ID: `aIMBdgAAAAB9PLvDsC9dYO8kbCcOXWgx`

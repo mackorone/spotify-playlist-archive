@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! ©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,541 likes - 31 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,557 likes - 31 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/track/0xZ89MpY6uDBPWtcpy1sLf) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『映画クレヨンしんちゃん オラたちの恐竜日記』大ヒット上映中](https://open.spotify.com/album/53WKC2r54uBatB4eF6OG2Z) | 0:46 |
+| 1 | [スパイス](https://open.spotify.com/track/1wotgHglpJRCf5aRFQpn9X) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [スパイス](https://open.spotify.com/album/1JEeiw5l60mhnZCk8AtSEA) | 4:34 |
 | 2 | [思い出をかけぬけて](https://open.spotify.com/track/6tJFjFarvig3AqDNqeH8Yy) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 3:51 |
 | 3 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
 | 4 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 30 | [Cry Baby](https://open.spotify.com/track/4wBRnMhL0N3wQQA37HdEza) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [Round About](https://open.spotify.com/album/6wOuP7POMHeiufkKd5O6SV) | 5:15 |
 | 31 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
-Snapshot ID: `Z5PDsQAAAABDalE+xg0+smjMw87uyiVE`
+Snapshot ID: `aIwWBQAAAACBWF2dPkj6hiPvu6/ZGLr9`

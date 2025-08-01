@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year\. Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,562 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,576 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 74 | [Live Your Best Life!](https://open.spotify.com/track/4ZHjviBE2GgiT3Rm7EIckq) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Live Your Best Life!](https://open.spotify.com/album/0jeBjEbd4hkP3KIrchWe01) | 4:07 |
 | 75 | [Love Me First](https://open.spotify.com/track/3bHZbFqc5iVMp3v60Aqlcp) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [Love Me First](https://open.spotify.com/album/5IcYOU3Ru8HLqcYRb8FecF) | 2:47 |
 
-Snapshot ID: `Z1khVAAAAADzmOq+dKv+eLVPZdWoRAnP`
+Snapshot ID: `AAAAAFwgs8Lq16cxpYjup4FqR9k++XS9`

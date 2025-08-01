@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Zlatan",
+  "description": "From the trenches. Through the streets.\nCover: Rema",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 158367,
       "name": "AKPOR - feat. ODUMODUBLVCK, Magnito & Portable",
       "url": "https://open.spotify.com/track/2phrffYY0zzvRTnMiy48tb"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 165066,
       "name": "E DON STILL ENTER",
       "url": "https://open.spotify.com/track/1rTtAqU8YnDyG86nuwuXyx"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 178000,
       "name": "Giddem",
       "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
@@ -3864,10 +3864,28 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
+    },
+    {
+      "album": {
+        "name": "KELEBU",
+        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172069,
+      "name": "KELEBU",
+      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
     },
     {
       "album": {
@@ -4412,6 +4430,24 @@
       "duration_ms": 212041,
       "name": "Ludo",
       "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
+    },
+    {
+      "album": {
+        "name": "Olayemi",
+        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Lungu",
+      "url": "https://open.spotify.com/track/0b0R4BqDDH1lHwh2fC3YWD"
     },
     {
       "album": {
@@ -7340,6 +7376,32 @@
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
+    },
+    {
+      "album": {
+        "name": "What Can We Do",
+        "url": "https://open.spotify.com/album/4X5CXmE3lpi3VutY4DZKPL"
+      },
+      "artists": [
+        {
+          "name": "Fitzy West",
+          "url": "https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr"
+        },
+        {
+          "name": "DMNVZ",
+          "url": "https://open.spotify.com/artist/5M93rRgh3HIMte2fBVCZBR"
+        },
+        {
+          "name": "Carl Nunes",
+          "url": "https://open.spotify.com/artist/4BkTFXaUWivBQa2UBqygbK"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "What Can We Do",
+      "url": "https://open.spotify.com/track/3m9hiplTCoIonDZfO2NIPB"
     },
     {
       "album": {

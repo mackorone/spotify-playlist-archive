@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-165 songs - 11 hr 8 min
+166 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [We Are DISH//](https://open.spotify.com/track/4zZ0ZCSzMOFAI8VdpsJZ0m) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [MAIN DISH](https://open.spotify.com/album/0Non0wr9XcV0FE8JZpovcH) | 4:00 | 2022-03-08 |  |
 | [We Go! \-On Your Mark\-](https://open.spotify.com/track/1LgsZldOk4HvHkFOTkK0zm) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [We Go!](https://open.spotify.com/album/5NRbYR1pRrwF4UVckWFFkJ) | 4:03 | 2022-07-12 | 2024-04-19 |
 | [WE GO! \-On Your Mark\-](https://open.spotify.com/track/72MZIq1tpgGSkdXBw2SehZ) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [WE GO!](https://open.spotify.com/album/4e8Oaxyrwq51auG19Arqfc) | 4:03 | 2022-03-08 |  |
+| [「生まれてくれてありがとう」from ケーキのＷＡ](https://open.spotify.com/track/74cFU5SRwAeSrGebCvoip5) | [村上信五](https://open.spotify.com/artist/3hGKXtli9pf9f1qDulUfFM), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [「生まれてくれてありがとう」from ケーキのＷＡ](https://open.spotify.com/album/5vGedLIfjjiwo0xj35Yzvj) | 2:02 | 2025-08-01 |  |
 | [あいのうた](https://open.spotify.com/track/6ut1zsOUJTRxrf2248QeRl) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [NEW GAME](https://open.spotify.com/album/2nRkRzNoquQZLmmAsVHDqS) | 4:04 | 2022-03-08 | 2025-02-05 |
 | [あっぱれ！馬鹿騒ぎ](https://open.spotify.com/track/3gANQpw7QXUwsOq7YxlqZm) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [あっぱれ！馬鹿騒ぎ](https://open.spotify.com/album/3pYdaRaH4pvd1JXIKMW21S) | 3:46 | 2023-05-16 |  |
 | [うどん](https://open.spotify.com/track/2JHaLhD9twCy1LYzHKRla5) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [one](https://open.spotify.com/album/4FobAj4g2Pr4RXJJQRexbp) | 3:45 | 2022-03-08 | 2025-02-05 |

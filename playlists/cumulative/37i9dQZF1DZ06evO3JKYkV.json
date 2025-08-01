@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "korg funk5 [London 19.08.2023]",
+      "url": "https://open.spotify.com/track/6PyTpWAkOCDhcsnT5ztjTX"
+    },
+    {
+      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
       },
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-01",
       "duration_ms": 298500,
       "name": "T16.5 MADMA with nastya [London 03.06.17]",
       "url": "https://open.spotify.com/track/5MufAej0CbuNjs7XJRzuvD"

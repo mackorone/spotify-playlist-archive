@@ -4,7 +4,7 @@
 
 > Cover: Valerieblud
 
-422 songs - 22 hr 15 min
+423 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 | 2024-10-02 | 2024-10-27 |
 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 | 2023-04-07 | 2024-01-26 |
 | [BIZZARE!!!](https://open.spotify.com/track/1LQNypuhK9eZQGMgHsTY27) | [BLUDINËRO](https://open.spotify.com/artist/4jzdkE8UNVOot8iHpU7QsD), [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [BIZZARE!!!](https://open.spotify.com/album/4IVGfwdkJJruJ8ZGMWQ4e8) | 3:26 | 2025-07-24 |  |
+| [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 | 2025-08-01 |  |
 | [BlackBerry](https://open.spotify.com/track/0HILtKSUfXinAWDnGSuJre) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [BlackBerry](https://open.spotify.com/album/6WJfe5N7rppndgC0Hz007S) | 2:33 | 2025-07-24 |  |
 | [BLACKLIST](https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [BLACKLIST](https://open.spotify.com/album/2wQW5jfshfC2TidcqSGYkr) | 2:52 | 2025-06-27 | 2025-07-25 |
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
@@ -402,7 +403,7 @@
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |
 | [Wayli](https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD) | 4:19 | 2024-10-09 | 2024-11-03 |
 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 | 2022-11-14 | 2023-12-17 |
-| [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 | 2024-10-02 |  |
+| [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 | 2024-10-02 | 2025-08-01 |
 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 | 2024-06-27 | 2024-10-03 |
 | [WELD LAADOUL](https://open.spotify.com/track/6Yu03XnLWHxvBPbu7tzYBe) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [WELD LAADOUL](https://open.spotify.com/album/6K7uE5ShRxDxz9UWFMxSLx) | 3:38 | 2023-10-26 | 2023-11-24 |
 | [WESH](https://open.spotify.com/track/0Buz2iIHI6LGIHznHONCUs) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [WESH](https://open.spotify.com/album/7yDqBatfcNY69YwvX2F2wQ) | 3:40 | 2024-02-02 | 2024-02-14 |

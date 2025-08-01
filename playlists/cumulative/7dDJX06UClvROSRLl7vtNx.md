@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-950 songs - 1 day 17 hr 13 min
+951 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Give You The Night](https://open.spotify.com/track/1Erd2ArVwvqmvQSZ1oj2zS) | [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU), [Bashment Yc](https://open.spotify.com/artist/4TJKZVZaype5bnSZYy66Q4), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB), [YEWON](https://open.spotify.com/artist/31LsEvoz8kkOblYwA2dfQc) | [Give You The Night](https://open.spotify.com/album/7uzaZzOinXcbO5GwupNwep) | 2:38 | 2024-07-30 | 2025-04-07 |
 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 | 2024-05-14 | 2024-07-31 |
 | [Go Your Own Way](https://open.spotify.com/track/6a2gAUujHlkvpsGQU9UK6s) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Go Your Own Way](https://open.spotify.com/album/2Val7NC59d1WfDC7T03ZTG) | 3:04 | 2024-10-08 | 2025-03-24 |
+| [Golden Eyes](https://open.spotify.com/track/0AMxXIMgpqxlON8MDmVR5i) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Golden Eyes](https://open.spotify.com/album/1poZOBBtGKQH1hW976vu70) | 2:25 | 2025-07-31 |  |
 | [Golden Hour](https://open.spotify.com/track/5hsOpbjgHD0dsFPLxxAAyM) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Golden Hour](https://open.spotify.com/album/2bBd0JDFKOoy55VRnr5Lmm) | 3:30 | 2025-04-25 |  |
 | [Golden Hour](https://open.spotify.com/track/0ZPzbrko3DYrApzqTpPKnm) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Golden Hour](https://open.spotify.com/album/5vX0p5w5SsiC4NYGQQMcVZ) | 1:55 | 2024-10-06 | 2024-11-25 |
 | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/track/4DuWtS1xpr6lftXRK5p7Iu) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/album/5lPVqHC8vuok9ugGsBxBu7) | 2:35 | 2023-09-22 | 2024-07-29 |

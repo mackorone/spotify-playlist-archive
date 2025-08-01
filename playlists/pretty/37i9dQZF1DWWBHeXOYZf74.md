@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Quadeca
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,499 likes - 185 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,471 likes - 185 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 184 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
 | 185 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `aIMCpwAAAACELCkIX/xSz4jMQ2iscDtm`
+Snapshot ID: `AAAAAK0HELAVNXrJrV7PfaxfEUA1ecU6`
