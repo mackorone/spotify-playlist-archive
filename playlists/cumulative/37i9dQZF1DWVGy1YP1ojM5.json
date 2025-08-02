@@ -591,6 +591,32 @@
     },
     {
       "album": {
+        "name": "NO HArD FEELINGS",
+        "url": "https://open.spotify.com/album/4QNno1ha0uOT41LYqdteGN"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        },
+        {
+          "name": "Nic Nac",
+          "url": "https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Barbados",
+      "url": "https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL"
       },
@@ -980,7 +1006,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 265760,
       "name": "Come See Me",
       "url": "https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF"

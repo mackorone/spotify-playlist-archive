@@ -4,7 +4,7 @@
 
 > 
 
-1,113 songs - 2 day 7 hr 57 min
+1,114 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,6 +954,7 @@
 | [Talk 2 God](https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:49 | 2024-03-28 | 2024-04-24 |
 | [Talk Shit Like a Preacher](https://open.spotify.com/track/2aR4gdgyCgacqHGqUZ91YS) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:12 | 2024-12-11 | 2025-05-21 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-12-01 | 2023-12-14 |
+| [Tape You](https://open.spotify.com/track/3REnVcPtMXDxR4g8sZ4QtM) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:51 | 2025-08-01 |  |
 | [TASTE](https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:50 | 2024-11-05 |  |
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 | 2023-04-24 |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 | 2023-12-14 |

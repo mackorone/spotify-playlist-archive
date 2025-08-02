@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373120,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/6XpAJgHhWlS58Ys7WNoIRh"
+    },
+    {
+      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"

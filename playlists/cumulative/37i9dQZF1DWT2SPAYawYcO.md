@@ -4,7 +4,7 @@
 
 > Brand new music from Hilltop Hoods, Chappell Roan, Emma Louise, Flume, NO CIGAR, Alison Wonderland + more
 
-9,683 songs - 21 day 21 hr 29 min
+9,686 songs - 21 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Accelerate](https://open.spotify.com/track/7JQ7Mik3DXoi6P5Oov4jSd) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Accelerate](https://open.spotify.com/album/5mVK8b9AOEAvEloVvDrH6K) | 3:21 | 2024-04-18 | 2024-04-26 |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-28 | 2024-04-05 |
 | [Access](https://open.spotify.com/track/0nRNCzIlq0GD3jzebBtaH9) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Access](https://open.spotify.com/album/1J0Flvsg1CTQ7P547kgUGU) | 2:31 | 2024-02-22 | 2024-03-01 |
+| [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/track/2rW9H7P0Nsq2K5AtNsNtam) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/album/3UAz8CcBdTCOilabW1AxNe) | 3:00 | 2025-08-01 |  |
 | [Accolade](https://open.spotify.com/track/08QfvEo1qUoLLczFK7VeU3) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Accolade](https://open.spotify.com/album/286mHJMHG1dAdc1Q9nXwAl) | 3:17 | 2025-06-05 | 2025-06-13 |
 | [Accomplice](https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Accomplice](https://open.spotify.com/album/6vPCMylSb8OVpdTj1VWwCb) | 4:43 | 2025-06-27 | 2025-07-04 |
 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 | 2025-05-29 | 2025-06-06 |
@@ -1357,6 +1358,7 @@
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-23 | 2023-06-30 |
 | [Butcher Shop](https://open.spotify.com/track/0C3K3A8USDkaI4mv7AIryb) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Butcher Shop](https://open.spotify.com/album/6O23FrFj880TG8CqVElyRn) | 3:44 | 2025-04-10 | 2025-04-18 |
 | [BUTTERFLIES](https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [BUTTERFLIES](https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW) | 2:56 | 2024-08-29 | 2024-09-06 |
+| [Butterflies \(Right Now\)](https://open.spotify.com/track/4q2QzhkICCUNDMTFevCu38) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:28 | 2025-08-01 |  |
 | [Butterflies \(with Green Velvet\)](https://open.spotify.com/track/0FzltX5P5EcptwLZh85UO1) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies \(with Green Velvet\)](https://open.spotify.com/album/2fJmzODMorOEHxq23FFtfV) | 2:49 | 2025-02-20 | 2025-02-28 |
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-20 | 2025-02-28 |
 | [BUTTERFLY KISSES](https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BUTTERFLY KISSES](https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM) | 2:02 | 2025-05-01 | 2025-05-09 |
@@ -8025,6 +8027,7 @@
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-02 |
 | [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 | 2024-07-18 | 2024-07-27 |
 | [Superstar Status](https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Superstar Status](https://open.spotify.com/album/3KNL12GpIKkM0Jt3zM6DDZ) | 2:56 | 2025-03-27 | 2025-04-04 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [Superweak](https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Superweak](https://open.spotify.com/album/0I61eHjNBR674kPzSdPWWt) | 2:55 | 2024-06-13 | 2024-06-21 |
 | [SUPPOSED TO BE LOVED \(feat\. Lil Baby, Future & Lil Uzi Vert\)](https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SUPPOSED TO BE LOVED](https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3) | 3:26 | 2023-08-10 | 2023-08-18 |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 | 2023-10-06 |

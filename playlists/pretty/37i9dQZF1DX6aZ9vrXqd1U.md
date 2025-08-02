@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,814 likes - 159 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,843 likes - 159 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 86 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 87 | [幾星霜の宇宙 \(feat\. ShishiGami\)](https://open.spotify.com/track/6AJ0Fd29hhxzgnOF3cl8h2) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | [「SDガンダム バトルアライアンス」テーマソング](https://open.spotify.com/album/4RKwUIOBPXwnD8GLDtpL5i) | 4:29 |
 | 88 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
-| 89 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
+| 89 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
 | 90 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 |
 | 91 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 |
 | 92 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 |

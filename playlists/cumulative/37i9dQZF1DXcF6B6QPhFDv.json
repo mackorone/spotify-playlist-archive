@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Petey USA",
+  "description": "Rock never dies. Cover: Hayley Williams",
   "name": "MARROW",
   "tracks": [
     {
@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "If Not Winter",
+        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265293,
+      "name": "Black swan",
+      "url": "https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE"
+    },
+    {
+      "album": {
         "name": "blame / how to exit a room",
         "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
       },
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 170337,
       "name": "CPR",
       "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 150697,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6OwmlsQSd6UC0woHmamOrM"
@@ -7709,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Jetpack",
+        "url": "https://open.spotify.com/album/7JbwufkcQArrCmSbgozL8X"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Jetpack",
+      "url": "https://open.spotify.com/track/11T2QXI2x5pD4CU6TxBaFn"
+    },
+    {
+      "album": {
         "name": "Julia's War",
         "url": "https://open.spotify.com/album/1in6Xa6DMOG9Q9X4P3DeJp"
       },
@@ -9715,6 +9751,24 @@
     },
     {
       "album": {
+        "name": "Mirtazapine",
+        "url": "https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204336,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+    },
+    {
+      "album": {
         "name": "Model Train Town",
         "url": "https://open.spotify.com/album/0qKvhhwA6wd5IpHNgofkwG"
       },
@@ -10956,6 +11010,24 @@
       "duration_ms": 209100,
       "name": "Oil & Water",
       "url": "https://open.spotify.com/track/3uM2nOFIxGDQkkPrMKvBMZ"
+    },
+    {
+      "album": {
+        "name": "OK OK OK OK",
+        "url": "https://open.spotify.com/album/2FfO47TVwFzlI7KtVMtsEW"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "OK OK OK OK",
+      "url": "https://open.spotify.com/track/1emDypCBCdJmAwLWpbYVBE"
     },
     {
       "album": {
@@ -12650,7 +12722,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 213500,
       "name": "resala - \u0631\u0633\u0627\u0644\u0629",
       "url": "https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l"
@@ -13160,7 +13232,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 181946,
       "name": "Save me now",
       "url": "https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah"
@@ -14510,7 +14582,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 232773,
       "name": "Stare At The Void",
       "url": "https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF"
@@ -17622,6 +17694,28 @@
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
+    },
+    {
+      "album": {
+        "name": "WE DONT COUNT",
+        "url": "https://open.spotify.com/album/1deGUuQqxvhUVoNJ2vdYzI"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        },
+        {
+          "name": "NINA",
+          "url": "https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "WE DONT COUNT",
+      "url": "https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW"
     },
     {
       "album": {

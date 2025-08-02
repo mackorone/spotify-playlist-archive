@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-408 songs - 1 day 0 hr 38 min
+409 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Every Heart In The Room](https://open.spotify.com/track/2mOl7hHENoE6P4VooQw7BK) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Down The Road Wherever \(Deluxe\)](https://open.spotify.com/album/50GCIDxmRhgriDpyzmV7qA) | 4:30 | 2020-10-17 | 2022-05-16 |
 | [Everything](https://open.spotify.com/track/1ff9rutkkpHQACXlA3Foy0) | [Jay Valera](https://open.spotify.com/artist/5ux7qJ1e8JF0RgygF6CTUD) | [Everything](https://open.spotify.com/album/3FESEE5NFGpl0bcMzaU9Bv) | 2:49 | 2020-10-17 | 2022-04-21 |
 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 | 2020-10-17 | 2022-07-29 |
-| [Eye to Eye](https://open.spotify.com/track/3VfelbVrLcwNu4b7ephZtd) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:22 | 2022-03-04 |  |
+| [Eye to Eye](https://open.spotify.com/track/3VfelbVrLcwNu4b7ephZtd) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:22 | 2022-03-04 | 2025-08-02 |
 | [Face in the Scene](https://open.spotify.com/track/1oSxWP7C3ChpUzAGicKX0N) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:05 | 2020-10-17 | 2022-04-20 |
 | [Faith You Might](https://open.spotify.com/track/6UUL6mVus7dn7sw5O6Zd7p) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Faith You Might / In Case I Don't Feel](https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT) | 4:12 | 2020-10-17 | 2022-07-29 |
 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-07-22 |
@@ -339,6 +339,7 @@
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2021-10-29 | 2022-07-29 |
 | [Someone](https://open.spotify.com/track/4GUNIph7cHEIfSKUdn7TaB) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Someone](https://open.spotify.com/album/5nZgnFLJ28nItazEit9DiL) | 2:48 | 2022-02-25 | 2023-05-06 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-04-22 |  |
+| [Somethin](https://open.spotify.com/track/0UrIpHECkxkxCvckR0PLRJ) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Somethin](https://open.spotify.com/album/4hFIICSyzNWKeDXHUAUkFI) | 3:16 | 2025-08-01 |  |
 | [Something Special](https://open.spotify.com/track/3H7pOWNQghEO1EKIcgnAsC) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 4:17 | 2022-01-28 | 2023-03-04 |
 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-05-31 |  |
 | [Static Feels](https://open.spotify.com/track/717JJIF2yw3dV3XaUr0w7c) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Static Feels](https://open.spotify.com/album/1Z0YVTppPlqx1eX1zkFqAD) | 2:57 | 2021-04-23 | 2022-07-29 |

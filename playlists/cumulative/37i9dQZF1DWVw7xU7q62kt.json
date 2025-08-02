@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 168000,
       "name": "Black Tea",
       "url": "https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL"
@@ -8348,7 +8348,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 129998,
       "name": "Profondeurs",
       "url": "https://open.spotify.com/track/0u7gu9IVPuIwZaY89I0dTF"
@@ -10956,7 +10956,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI"
@@ -11404,6 +11404,32 @@
       "duration_ms": 113620,
       "name": "Ueno Park",
       "url": "https://open.spotify.com/track/4APjKyfvWXd5C5Hltv2ELn"
+    },
+    {
+      "album": {
+        "name": "Ukiyo-E",
+        "url": "https://open.spotify.com/album/0QT5Dl76iqEJ9MAWQpbVtl"
+      },
+      "artists": [
+        {
+          "name": "Hicks",
+          "url": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
+        },
+        {
+          "name": "ARISU",
+          "url": "https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4"
+        },
+        {
+          "name": "kyu",
+          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Ukiyo-E",
+      "url": "https://open.spotify.com/track/7j1Ll3RgUkSQPqQVjats53"
     },
     {
       "album": {

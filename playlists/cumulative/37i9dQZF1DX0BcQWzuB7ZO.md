@@ -2,7 +2,7 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Disco Lines & Tinashe
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Fred again..
 
 473 songs - 1 day 0 hr 39 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Hudson Westbrook",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Gabby Barrett",
   "name": "New Boots",
   "tracks": [
     {
@@ -4773,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+    },
+    {
+      "album": {
         "name": "Bout Damn Time",
         "url": "https://open.spotify.com/album/1J2wZTAfjXKk44Xp0ISSi6"
       },
@@ -6336,7 +6354,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 204689,
       "name": "Can\u2019t Say No (feat. Ryan Hurd)",
       "url": "https://open.spotify.com/track/1jW0H4Z8RNle2j2Rup3x3k"
@@ -6354,7 +6372,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 184818,
       "name": "Car That Drove You Away",
       "url": "https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn"
@@ -6798,6 +6816,24 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "album": {
+        "name": "Chevy Silverado",
+        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221698,
+      "name": "Chevy Silverado",
+      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
     },
     {
       "album": {
@@ -7422,7 +7458,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 180000,
       "name": "Comin' In Cold",
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
@@ -8708,7 +8744,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
@@ -23368,7 +23404,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 192380,
       "name": "Keeps Me Sane",
       "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
@@ -24922,6 +24958,28 @@
       "duration_ms": 198173,
       "name": "Live With",
       "url": "https://open.spotify.com/track/7KXEovg7b9vUdLjaQm3zjq"
+    },
+    {
+      "album": {
+        "name": "Live Without (feat. Maddie & Tae)",
+        "url": "https://open.spotify.com/album/1xMGMVwsAAXZMXyET3YhD2"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192684,
+      "name": "Live Without (feat. Maddie & Tae)",
+      "url": "https://open.spotify.com/track/03WVsDa37QrOoZFmT64ngQ"
     },
     {
       "album": {
@@ -28300,6 +28358,24 @@
       "duration_ms": 211843,
       "name": "MUSCLE MEMORY",
       "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+    },
+    {
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224108,
+      "name": "Music for the Soul",
+      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
       "album": {
@@ -35656,7 +35732,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 210327,
       "name": "Sheltered",
       "url": "https://open.spotify.com/track/5H2ZtQSSTr7VRY6hbJ8Q9i"
@@ -37103,6 +37179,24 @@
     },
     {
       "album": {
+        "name": "Somebody Single",
+        "url": "https://open.spotify.com/album/4dsCBI4IOTvMmDOSbnCH6F"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Somebody Single",
+      "url": "https://open.spotify.com/track/0o9GNazjKvX09AIwKM8Td0"
+    },
+    {
+      "album": {
         "name": "Somebody's Daughter",
         "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
       },
@@ -37974,6 +38068,24 @@
       "duration_ms": 180133,
       "name": "Soundtrack to a Small Town Sundown",
       "url": "https://open.spotify.com/track/3PC2spBvaHmQzlQF2uw95N"
+    },
+    {
+      "album": {
+        "name": "South Of Sanity",
+        "url": "https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220726,
+      "name": "South Of Sanity",
+      "url": "https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384"
     },
     {
       "album": {
@@ -39046,6 +39158,24 @@
     {
       "album": {
         "name": "Strangers",
+        "url": "https://open.spotify.com/album/6iGjcG8s9EXTIDFK3oRVLM"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174681,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/71VQ7S0q1Nyjv0DeY2xhqI"
+    },
+    {
+      "album": {
+        "name": "Strangers",
         "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
       "artists": [
@@ -39474,7 +39604,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 188885,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
@@ -40622,6 +40752,24 @@
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "album": {
+        "name": "The Easy Part",
+        "url": "https://open.spotify.com/album/6igHTjBIaZOADFFNEsRMh3"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "The Easy Part",
+      "url": "https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL"
     },
     {
       "album": {
@@ -48122,7 +48270,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199400,
       "name": "You Ain't Gotta Die (To Be Dead To Me)",
       "url": "https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Hanumankind & Fred again..",
+  "description": "India's Rap Scene. Cover - DIVINE",
   "name": "RAP 91",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 183000,
       "name": "911 Porsche",
       "url": "https://open.spotify.com/track/05W6XiPHvftfTifU8PQ8mr"
+    },
+    {
+      "album": {
+        "name": "Aag",
+        "url": "https://open.spotify.com/album/6rjqQpDqcW3eOY1jgD3GEA"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161443,
+      "name": "Aag",
+      "url": "https://open.spotify.com/track/2ccfR07KexkfAyB0kTkj0p"
     },
     {
       "album": {
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Dubai Company",
+        "url": "https://open.spotify.com/album/6zesrJdInqftcOiyfF2Tdy"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189272,
+      "name": "Dubai Company",
+      "url": "https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT"
+    },
+    {
+      "album": {
         "name": "Dupatta Drill",
         "url": "https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD"
       },
@@ -3052,7 +3088,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 206015,
       "name": "Kaali Kaali Aankhein",
       "url": "https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU"
@@ -6534,7 +6570,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 154015,
       "name": "Villainous Freestyle",
       "url": "https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX"

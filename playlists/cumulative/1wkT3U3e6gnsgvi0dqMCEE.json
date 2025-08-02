@@ -2643,6 +2643,28 @@
     },
     {
       "album": {
+        "name": "LONELY AVENUE",
+        "url": "https://open.spotify.com/album/57t7JEyilKnh23rmBNRCCM"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "LONELY AVENUE (feat. Randy Newman)",
+      "url": "https://open.spotify.com/track/43fnovfvtK8e3PFuiYx2Wt"
+    },
+    {
+      "album": {
         "name": "Sea Change",
         "url": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy"
       },
@@ -4148,6 +4170,28 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "album": {
+        "name": "Stonehenge (with Elton John)",
+        "url": "https://open.spotify.com/album/1fPevorC3HgRtG3QA3xHpZ"
+      },
+      "artists": [
+        {
+          "name": "Spinal Tap",
+          "url": "https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274208,
+      "name": "Stonehenge (with Elton John)",
+      "url": "https://open.spotify.com/track/1atxmCIxBlFk4qhlbBXG4g"
     },
     {
       "album": {

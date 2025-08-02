@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Changes - 2009 Remaster",
       "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -7021,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "Country Girls Make Do",
+        "url": "https://open.spotify.com/album/2YLeWu4L74ILkNCrgPc8lW"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "Country Girls Make Do",
+      "url": "https://open.spotify.com/track/7wClmUpQfhOY24GVdSGXSd"
+    },
+    {
+      "album": {
         "name": "COUSINS",
         "url": "https://open.spotify.com/album/1P1NP87yCGzgliliMbSgYz"
       },
@@ -7036,6 +7054,24 @@
       "duration_ms": 151823,
       "name": "COUSINS",
       "url": "https://open.spotify.com/track/20fYUtTl5xpG8xXPZkU0yT"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "Covered in Chrome",
+      "url": "https://open.spotify.com/track/3aQ4lsLwgACSSp2vS5OzC9"
     },
     {
       "album": {
@@ -17528,7 +17564,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 192380,
       "name": "Keeps Me Sane",
       "url": "https://open.spotify.com/track/2btbEoXW6Vi2EI175dfrOE"
@@ -19294,7 +19330,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 223050,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
@@ -19526,6 +19562,24 @@
       "duration_ms": 175113,
       "name": "Loser, Baby",
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
+    },
+    {
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/6c8j9xTNn8Aay7WhbdqaHg"
+      },
+      "artists": [
+        {
+          "name": "NightCrawl",
+          "url": "https://open.spotify.com/artist/7HK5eMsJv8xiiQbaywSKab"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/4JWRos6zAz0GyBfCRoeC0C"
     },
     {
       "album": {
@@ -21872,7 +21926,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 223413,
       "name": "Morning Ride",
       "url": "https://open.spotify.com/track/3L1b8FSECnjZgs03oGZBMV"
@@ -22615,6 +22669,24 @@
     },
     {
       "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
+    },
+    {
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -22626,7 +22698,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 185694,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
@@ -23964,6 +24036,24 @@
       "duration_ms": 151520,
       "name": "One Call Away (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
+    },
+    {
+      "album": {
+        "name": "Moo, You Bloody Choir (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5weRHIv7WynyxZYcmbO7wK"
+      },
+      "artists": [
+        {
+          "name": "Augie March",
+          "url": "https://open.spotify.com/artist/0vntgse6gPZfthoW8kTTlR"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290266,
+      "name": "One Crowded Hour",
+      "url": "https://open.spotify.com/track/5gPL7XvlYmX922oyxscYH4"
     },
     {
       "album": {
@@ -26086,7 +26176,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -26108,7 +26198,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -31152,7 +31242,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 272377,
       "name": "Sweet Darlin'",
       "url": "https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV"
@@ -35218,7 +35308,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
@@ -36312,6 +36402,24 @@
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+    },
+    {
+      "album": {
+        "name": "WIFED A DIME",
+        "url": "https://open.spotify.com/album/0uDUPOGrhXkiHm9wIxOEQ8"
+      },
+      "artists": [
+        {
+          "name": "Teek4y",
+          "url": "https://open.spotify.com/artist/2OGoiZ2WwLyRZjo9dkY5nZ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147956,
+      "name": "WIFED A DIME",
+      "url": "https://open.spotify.com/track/5mYaVe9bEMwDQ3qihhFV2t"
     },
     {
       "album": {

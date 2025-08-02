@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 204462,
+  "num_followers": 204509,
   "original_name": "This Is Lefty Sm",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "aIlggAAAAAAUBXlBOVqPOaOU0CF/hFdB",
+  "snapshot_id": "aIqyAAAAAAC0coHB5QrE562fxTidCWB1",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Andar Risue\u00f1o",
-        "url": "https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pa' Andar Risue\u00f1o",
-      "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diganle",
         "url": "https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 195030,
       "name": "Diganle",
       "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Andar Risue\u00f1o",
+        "url": "https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pa' Andar Risue\u00f1o",
+      "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
     },
     {
       "added_at": null,
@@ -203,30 +203,6 @@
       "duration_ms": 202666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sientelo",
-        "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "Sientelo",
-      "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
     },
     {
       "added_at": null,
@@ -255,6 +231,30 @@
       "duration_ms": 219791,
       "name": "El Bais\u00f3n (feat. Toser One)",
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sientelo",
+        "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ingrata",
         "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 214471,
       "name": "Ingrata",
       "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
     },
     {
       "added_at": null,

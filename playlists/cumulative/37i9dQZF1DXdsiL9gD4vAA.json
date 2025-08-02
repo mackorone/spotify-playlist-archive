@@ -263,6 +263,32 @@
     },
     {
       "album": {
+        "name": "Ab Vo Baat Kahaan",
+        "url": "https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Sagar Dhote",
+          "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Ab Vo Baat Kahaan",
+      "url": "https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg"
+    },
+    {
+      "album": {
         "name": "Agar Talash Karun",
         "url": "https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6"
       },
@@ -2610,7 +2636,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 416640,
       "name": "Muddat Hui Hai",
       "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"

@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> DijahSB, Memblem and Melo Griffith got that big energy.
+> Drake's got that big energy.
 
-538 songs - 1 day 2 hr 39 min
+539 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [No Piano](https://open.spotify.com/track/39McKyxrkhiir6eaeAEDSc) | [NegoO](https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [No Piano](https://open.spotify.com/album/06p3p5ijx358wL4vMkK8re) | 2:43 | 2024-07-12 | 2024-09-14 |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2024-06-14 | 2025-01-01 |
 | [No Way](https://open.spotify.com/track/3sAWWeXWWA0FNIdAfm2CMO) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [No Way](https://open.spotify.com/album/3aPl0MMCVTdhLSFRiSNtx0) | 2:35 | 2025-06-13 |  |
-| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-14 |  |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-14 | 2025-08-02 |
 | [Normalized](https://open.spotify.com/track/56wi2umjhuhSd8hIwKtsd0) | [Bungalow Collect](https://open.spotify.com/artist/4JR4QR71dWswPhgIEeu8xJ) | [Normalized](https://open.spotify.com/album/0tU0rNgT7Bd5Ph2gYTbt4Y) | 2:56 | 2024-05-03 | 2024-05-18 |
 | [Normally \(feat\. NSG\)](https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Normally \(feat\. NSG\)](https://open.spotify.com/album/5ED2pTvFshAEdAru6rbhhs) | 2:44 | 2024-05-24 | 2024-07-06 |
 | [Not a Pretty Girl](https://open.spotify.com/track/7oL7jAZkNyolF1H15Fhlm1) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Not a Pretty Girl](https://open.spotify.com/album/1ccSKPr6kaNtnJkYPiwMRh) | 1:45 | 2025-03-28 |  |
@@ -477,6 +477,7 @@
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-02 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 | 2024-05-18 |
 | [Thinking A Lot](https://open.spotify.com/track/6R4i0xWUvB5gzkCRilxOPK) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Thinking A Lot](https://open.spotify.com/album/7HKAWbE7LhMLvWHHwWnpzY) | 2:44 | 2024-05-17 | 2024-06-22 |
+| [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 | 2025-08-01 |  |
 | [THROBBY](https://open.spotify.com/track/6ryBPn4MALM4IcZj9iPriQ) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [THROBBY](https://open.spotify.com/album/2V3S27WE1edWKHR8B6tZ0x) | 3:18 | 2024-09-13 | 2025-01-01 |
 | [Tiempo](https://open.spotify.com/track/6YPQytVOAeWWU4HiooOFoZ) | [Di\-Vincent](https://open.spotify.com/artist/6m75dmZElKg3Ji0HLEFyNv), [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx) | [Tiempo](https://open.spotify.com/album/01prUxpvHyLvBO8qhMnaou) | 2:04 | 2024-09-27 | 2025-01-25 |
 | [Tikila](https://open.spotify.com/track/0Jb08HeBg6jTkNuY2qQ3Z5) | [Farrah Fawx](https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy), [Zuzu Silk](https://open.spotify.com/artist/04BCKgFQYPrONAk85R7CeP), [baby.com](https://open.spotify.com/artist/4BGzGgdQdM6q3yCb6cNnzZ) | [Tikila](https://open.spotify.com/album/1oSwtJM1ozXRcTKQiPjM2C) | 2:47 | 2025-04-04 |  |

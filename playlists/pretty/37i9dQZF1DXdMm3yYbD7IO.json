@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 501931,
+  "num_followers": 502307,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Crush (Dance Mix)",
+      "url": "https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "A Tori Amos Collection: Tales of a Librarian",
         "url": "https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 227240,
       "name": "Professional Widow - Armand's Star Trunk Funk Mix",
       "url": "https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Paige",
-          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Crush (Dance Mix)",
-      "url": "https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT"
     },
     {
       "added_at": "2024-07-12 19:59:45",

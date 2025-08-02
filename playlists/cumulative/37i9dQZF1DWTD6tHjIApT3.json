@@ -39663,6 +39663,24 @@
     },
     {
       "album": {
+        "name": "\u307e\u3060\u77e5\u3089\u306a\u3044\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i"
+      },
+      "artists": [
+        {
+          "name": "Ms.OOJA",
+          "url": "https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp"
+        }
+      ],
+      "date_added": "2025-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209224,
+      "name": "\u307e\u3060\u77e5\u3089\u306a\u3044\u30b9\u30c8\u30fc\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1nWoECQI4VPMk6EjttmP1G"
+    },
+    {
+      "album": {
         "name": "Good Song Laboratory",
         "url": "https://open.spotify.com/album/6r0XlVSFysEYsJmEkVRHFD"
       },
@@ -54674,7 +54692,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 158751,
       "name": "\u6708\u306b\u9858\u3046",
       "url": "https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c"

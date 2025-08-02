@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Pickle",
-  "num_followers": 119980,
+  "num_followers": 119968,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
-    "name": "Spinnin\u2019 Records",
-    "url": "https://open.spotify.com/user/spinninrecordsofficial"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "AAAf7ESre0FmWS353zGGYCJZ8tTH9NCP",
+  "snapshot_id": "AAAf8X4FXESPOx9eAI1GPYCEXi5F/Tt7",
   "tracks": [
     {
       "added_at": "2025-07-31 15:30:48",
@@ -23,6 +23,22 @@
       "duration_ms": 167386,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO"
+    },
+    {
+      "added_at": "2025-08-01 09:45:24",
+      "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/4bzxJzWrTPEdPR6qnxNLss"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 279375,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/0YjNfE2XkrTc3qifvmayQg"
     },
     {
       "added_at": "2025-07-24 13:56:19",
@@ -51,6 +67,66 @@
       "duration_ms": 177049,
       "name": "Mussulo (feat. Doddy) [unfazed Remix]",
       "url": "https://open.spotify.com/track/4q79PsRndcpYTlRBd3PiKj"
+    },
+    {
+      "added_at": "2025-08-01 09:45:30",
+      "album": {
+        "name": "Drifting (Arodes Remix)",
+        "url": "https://open.spotify.com/album/5bbRJwFsL9GVfBW4PHFIlt"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Drifting (Arodes Remix)",
+      "url": "https://open.spotify.com/track/6Oy2VKOZ2sduYfNu7Eje3f"
+    },
+    {
+      "added_at": "2025-08-01 09:45:53",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/3VmVrZmL1QLvh6c9xa31YA"
+      },
+      "artists": [
+        {
+          "name": "Calum Kieran",
+          "url": "https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0yCRc41sbppSXJKGsQJ1mc"
+    },
+    {
+      "added_at": "2025-08-01 09:45:04",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/1gFX53ZapvQNA81fq0BIkG"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0vx4ez7mNKXuTLBNhrLbA6"
     },
     {
       "added_at": "2025-07-24 14:43:10",
@@ -91,6 +167,26 @@
       "duration_ms": 222022,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3cfjEkn8J26kUy2RsCQvDI"
+    },
+    {
+      "added_at": "2025-08-01 09:45:14",
+      "album": {
+        "name": "Wild Ride (Ryos Remix)",
+        "url": "https://open.spotify.com/album/1RJOptnhicG5FsZRzpT5YF"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Ryos",
+          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Wild Ride (Ryos Remix)",
+      "url": "https://open.spotify.com/track/0Qe6yEMaWsmynN3eTA9Bxd"
     },
     {
       "added_at": "2025-07-24 14:37:51",

@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "castles",
+        "url": "https://open.spotify.com/album/26dxoE2E0uXPs8zhlo7PxR"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "castles",
+      "url": "https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE"
+    },
+    {
+      "album": {
         "name": "DIMENTICARE IL MONDO",
         "url": "https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n"
       },
@@ -6438,7 +6460,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 149360,
       "name": "witchblades",
       "url": "https://open.spotify.com/track/57NsyEzmk0NT3NcOwuQT55"

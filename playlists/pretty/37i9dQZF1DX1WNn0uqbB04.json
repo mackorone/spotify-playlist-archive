@@ -1,6 +1,6 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87859,
+  "num_followers": 87861,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Tango On The Dance Floor",
-        "url": "https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94"
+        "name": "Mas Alla Del Sur",
+        "url": "https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F"
       },
       "artists": [
         {
-          "name": "bulevard tango club",
-          "url": "https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5"
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
         }
       ],
-      "duration_ms": 206480,
-      "name": "La Cumparsita",
-      "url": "https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7"
+      "duration_ms": 208625,
+      "name": "La Milonga",
+      "url": "https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Mas Alla Del Sur",
-        "url": "https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F"
+        "name": "Tango On The Dance Floor",
+        "url": "https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94"
       },
       "artists": [
         {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+          "name": "bulevard tango club",
+          "url": "https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5"
         }
       ],
-      "duration_ms": 208625,
-      "name": "La Milonga",
-      "url": "https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg"
+      "duration_ms": 206480,
+      "name": "La Cumparsita",
+      "url": "https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -355,6 +355,22 @@
       "duration_ms": 238236,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/1wJ8rjz2m9fv1X8TmKICWh"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
+        "name": "Milonguero",
+        "url": "https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        }
+      ],
+      "duration_ms": 170385,
+      "name": "Bahia Blanca",
+      "url": "https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -391,22 +407,6 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Madrugada En Backcelonia",
-        "url": "https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY"
-      },
-      "artists": [
-        {
-          "name": "San Telmo Lounge",
-          "url": "https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4"
-        }
-      ],
-      "duration_ms": 202004,
-      "name": "Hotel Victoria - original",
-      "url": "https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
         "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
       },
@@ -423,34 +423,18 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Milonguero",
-        "url": "https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g"
+        "name": "Madrugada En Backcelonia",
+        "url": "https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY"
       },
       "artists": [
         {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+          "name": "San Telmo Lounge",
+          "url": "https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4"
         }
       ],
-      "duration_ms": 170385,
-      "name": "Bahia Blanca",
-      "url": "https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
-        "name": "Di Meola Plays Piazzolla",
-        "url": "https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 375706,
-      "name": "Cafe 1930",
-      "url": "https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww"
+      "duration_ms": 202004,
+      "name": "Hotel Victoria - original",
+      "url": "https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -467,6 +451,22 @@
       "duration_ms": 233306,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
+        "name": "Di Meola Plays Piazzolla",
+        "url": "https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 375706,
+      "name": "Cafe 1930",
+      "url": "https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
-        "url": "https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Ra\u00fal Lavi\u00e9",
-          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "El Vino Triste",
-      "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
         "name": "\u0411\u0443\u0434\u0435\u043c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c (Listo Pa'Bailar [1])",
         "url": "https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 234351,
       "name": "\u0411\u0443\u0434\u0435\u043c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c - Listo Pa'Bailar [1]",
       "url": "https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
+        "name": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
+        "url": "https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Ra\u00fal Lavi\u00e9",
+          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "El Vino Triste",
+      "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Milongon",
+      "url": "https://open.spotify.com/track/3my9g8hSHnxMO6HiWu53qD"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
         "name": "Muchacha (ojos de papel)",
         "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 198944,
       "name": "Muchacha (ojos de papel)",
       "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY"
-      },
-      "artists": [
-        {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Milongon",
-      "url": "https://open.spotify.com/track/3my9g8hSHnxMO6HiWu53qD"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
+        "name": "Mlnga Club",
+        "url": "https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73"
+      },
+      "artists": [
+        {
+          "name": "MLNGA CLUB",
+          "url": "https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh"
+        }
+      ],
+      "duration_ms": 244076,
+      "name": "Sube Y Baja",
+      "url": "https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
         "name": "Oto\u00f1o",
         "url": "https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 263613,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
-        "name": "Mlnga Club",
-        "url": "https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73"
-      },
-      "artists": [
-        {
-          "name": "MLNGA CLUB",
-          "url": "https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh"
-        }
-      ],
-      "duration_ms": 244076,
-      "name": "Sube Y Baja",
-      "url": "https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Modo Tango",
-        "url": "https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Junior Lescano",
-          "url": "https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "La \u00daltima Copa",
-      "url": "https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
         "name": "BUENOS AIRES MOTEL",
         "url": "https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 153420,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
+        "name": "Modo Tango",
+        "url": "https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Junior Lescano",
+          "url": "https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
+        "name": "Incidental Tango",
+        "url": "https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Yumbera",
+      "url": "https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
         "name": "Oto\u00f1o",
         "url": "https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 245813,
       "name": "L\u00ednea D",
       "url": "https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P"
+    },
+    {
+      "added_at": "2025-06-20 13:16:04",
+      "album": {
+        "name": "Tanguera",
+        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
+      },
+      "artists": [
+        {
+          "name": "Diego Schissi Quinteto",
+          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "Tanguera",
+      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -979,38 +1011,6 @@
       "duration_ms": 259519,
       "name": "Mistela",
       "url": "https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
-        "name": "Incidental Tango",
-        "url": "https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg"
-      },
-      "artists": [
-        {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Yumbera",
-      "url": "https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1"
-    },
-    {
-      "added_at": "2025-06-20 13:16:04",
-      "album": {
-        "name": "Tanguera",
-        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
-      },
-      "artists": [
-        {
-          "name": "Diego Schissi Quinteto",
-          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Tanguera",
-      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
     },
     {
       "added_at": "2025-06-20 13:16:04",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-06-20 13:16:04",
       "album": {
-        "name": "Amor de Madrugada",
-        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
+        "name": "Amor de Tango",
+        "url": "https://open.spotify.com/album/0RaAYnwUyy8tuWEAxTXdJJ"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Lil\u00ed Gard\u00e9s",
+          "url": "https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c"
         }
       ],
-      "duration_ms": 131764,
-      "name": "Amor de Madrugada",
-      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
+      "duration_ms": 185898,
+      "name": "Amor de Tango",
+      "url": "https://open.spotify.com/track/1J4n9qgCWFUgWae1LqZUH6"
     }
   ],
   "unique_name": "Neo Tango",

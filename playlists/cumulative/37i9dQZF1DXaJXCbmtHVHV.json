@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA GO HOME",
+        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "DON'T WANNA GO HOME",
+      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
+    },
+    {
+      "album": {
         "name": "Mackenzie Carpenter",
         "url": "https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 179360,
       "name": "Finish This Drink",
       "url": "https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O"

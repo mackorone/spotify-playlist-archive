@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: W Sound, Dei V & Ovy On The Drums",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Rowma & CDobleta",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -636,6 +636,28 @@
       "duration_ms": 195683,
       "name": "2x1",
       "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
+    },
+    {
+      "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196015,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
     },
     {
       "album": {
@@ -1920,6 +1942,28 @@
       "duration_ms": 189842,
       "name": "Aguita",
       "url": "https://open.spotify.com/track/4RZvp2LCEIw7H6uDlH5lKc"
+    },
+    {
+      "album": {
+        "name": "Ah,Ah,Ah",
+        "url": "https://open.spotify.com/album/6gXjUcITnW6uXup9uJCsvB"
+      },
+      "artists": [
+        {
+          "name": "Fabriell",
+          "url": "https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6"
+        },
+        {
+          "name": "L-O-N",
+          "url": "https://open.spotify.com/artist/3nzfJeScfLaqasTrNn2QGj"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139178,
+      "name": "Ah,Ah,Ah",
+      "url": "https://open.spotify.com/track/2ye1Rzu6srXl8t99RFKB6W"
     },
     {
       "album": {
@@ -8101,6 +8145,28 @@
     },
     {
       "album": {
+        "name": "Como Huele",
+        "url": "https://open.spotify.com/album/2gu9WZaTJLMsNHxyVE7fSW"
+      },
+      "artists": [
+        {
+          "name": "Spiff TV",
+          "url": "https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "Como Huele",
+      "url": "https://open.spotify.com/track/42bc3CpCMNo7TTiicv3YMD"
+    },
+    {
+      "album": {
         "name": "Como Me Curo",
         "url": "https://open.spotify.com/album/00fJCU2hNs7Idb2JAH04hc"
       },
@@ -11454,6 +11520,28 @@
       "duration_ms": 134876,
       "name": "Doy",
       "url": "https://open.spotify.com/track/3BWXQED8aRj3yiaivu04ed"
+    },
+    {
+      "album": {
+        "name": "Drako Micro",
+        "url": "https://open.spotify.com/album/1Br5q2qNGbdieGTv4sWmer"
+      },
+      "artists": [
+        {
+          "name": "Rome LMN",
+          "url": "https://open.spotify.com/artist/0Q2SdTYqioFqrQTbawYHAS"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159293,
+      "name": "Drako Micro",
+      "url": "https://open.spotify.com/track/4bImobDSDH9CptVFC5REwZ"
     },
     {
       "album": {
@@ -15755,6 +15843,24 @@
     },
     {
       "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6t2xdyyDejftLNA8oXyPUs"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146108,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4b9EAgMh8KgTrICnIx7kM2"
+    },
+    {
+      "album": {
         "name": "GATITA SEPHORA",
         "url": "https://open.spotify.com/album/34MmK8rSmHUGk26m3nfA3t"
       },
@@ -15906,7 +16012,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 135019,
       "name": "Gen 2000",
       "url": "https://open.spotify.com/track/4yHxk9N0MIcQNjRICcsRV1"
@@ -21155,6 +21261,24 @@
     },
     {
       "album": {
+        "name": "Millo Gangster Club",
+        "url": "https://open.spotify.com/album/7Hh4GWH8UfNA2hgO6PbosD"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Llover Pa' Arriba",
+      "url": "https://open.spotify.com/track/5ToOLAZmfuJb7j1nt2byqs"
+    },
+    {
+      "album": {
         "name": "Llueve",
         "url": "https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD"
       },
@@ -23604,7 +23728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 156149,
       "name": "Me Persigue",
       "url": "https://open.spotify.com/track/1a7zYqeooTB9nUklUOMklT"
@@ -27375,6 +27499,24 @@
     },
     {
       "album": {
+        "name": "Noche Soltera",
+        "url": "https://open.spotify.com/album/4Tnd8GxUWU1EwnC0CBzrwi"
+      },
+      "artists": [
+        {
+          "name": "Sebas R",
+          "url": "https://open.spotify.com/artist/4cPU16HmYdEqsnrhZ06UjU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Noche Soltera",
+      "url": "https://open.spotify.com/track/6kMIR5MmC9Z6e5X1upcOzK"
+    },
+    {
+      "album": {
         "name": "NOCHES DE M\u00c1S",
         "url": "https://open.spotify.com/album/7KLwy8lR8NIK7VkUGpacU1"
       },
@@ -29420,7 +29562,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 167272,
       "name": "Pal Pi",
       "url": "https://open.spotify.com/track/40WAmuMa00xGvCiiGNEIwu"
@@ -29910,7 +30052,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 200412,
       "name": "Parriba (feat. Trueno)",
       "url": "https://open.spotify.com/track/5i20bm09NmO0XxrDLi2oeD"
@@ -30578,7 +30720,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 160230,
       "name": "PERI\u00d3DICO DE AYER",
       "url": "https://open.spotify.com/track/1r3S0V8bHW69ZaCtZjC9e7"
@@ -32454,7 +32596,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 174583,
       "name": "PUNTO 10",
       "url": "https://open.spotify.com/track/6GzAKyhmNjl2sEaJz1UYbg"
@@ -36867,6 +37009,28 @@
     },
     {
       "album": {
+        "name": "SOLITA",
+        "url": "https://open.spotify.com/album/5NG8dAO8PPVvT7629kbSan"
+      },
+      "artists": [
+        {
+          "name": "Rowma",
+          "url": "https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234303,
+      "name": "SOLITA",
+      "url": "https://open.spotify.com/track/4UlGHMxhmg4L1uqF6qZLAL"
+    },
+    {
+      "album": {
         "name": "Icy Hot",
         "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
       },
@@ -38034,6 +38198,24 @@
       "duration_ms": 180060,
       "name": "TAMO EN NOTA",
       "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
+    },
+    {
+      "album": {
+        "name": "Fine Pack Vol. 1",
+        "url": "https://open.spotify.com/album/2fTc0Fh5dcNJwh9WWmoyvI"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132655,
+      "name": "TAMOAQUI (Bonus Track)",
+      "url": "https://open.spotify.com/track/5JgZ37BTp9nVuXFUoRZHRv"
     },
     {
       "album": {
@@ -40846,7 +41028,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 180000,
       "name": "T\u00d3MALO CON CALMA",
       "url": "https://open.spotify.com/track/7gaMDMeDsdxh89Tm4H3XkC"
@@ -41202,7 +41384,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 158010,
       "name": "Un Trip",
       "url": "https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41"
@@ -43220,7 +43402,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 168071,
       "name": "XCLANA",
       "url": "https://open.spotify.com/track/4wlv3MSrlHVXpr6Z6zeK3T"

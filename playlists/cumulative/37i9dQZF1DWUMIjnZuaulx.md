@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Naomi Raine
 
-694 songs - 2 day 11 hr 17 min
+695 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 | 2025-05-23 |  |
 | [Double \- Live](https://open.spotify.com/track/0PxJd6rpPasL8Lhu98EWr1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Double \(Live\)](https://open.spotify.com/album/34WLAUHcSwO8kdWUIuGAFE) | 4:51 | 2025-01-10 | 2025-03-22 |
 | [Down At The Cross \- Live](https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Down At The Cross \(Live\)](https://open.spotify.com/album/2YpgSl5innS5tnnqLBekhn) | 3:58 | 2023-03-24 | 2023-08-26 |
-| [Ekwueme](https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [EKWUEME](https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy) | 9:45 | 2025-06-13 |  |
+| [Ekwueme](https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [EKWUEME](https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy) | 9:45 | 2025-06-13 | 2025-08-02 |
 | [El Shaddai](https://open.spotify.com/track/1HhdoW0N0SwJeq6m7SvME8) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Rodney Posey](https://open.spotify.com/artist/7fEq8LFbuLfmDMVfQDoZQr) | [El Shaddai](https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC) | 6:04 | 2025-04-04 | 2025-05-03 |
 | [Emmanuel, You Are Worthy \- Live](https://open.spotify.com/track/6lwmO3vmw1ok9jRS44WvVB) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Emmanuel, You Are Worthy](https://open.spotify.com/album/3LvgLk0irfEjTC0q8TO0t2) | 5:15 | 2023-11-17 | 2025-03-15 |
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
@@ -376,6 +376,7 @@
 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 | 2024-02-09 | 2024-04-19 |
 | [Love it All](https://open.spotify.com/track/6o31q8H6s4AnIGqw88kQ7N) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Dia Day](https://open.spotify.com/artist/1VlVqLddJC57GJqavMynQ6), [Dedani](https://open.spotify.com/artist/0nWi63z95UXZNmC3wurMfP) | [Love it All](https://open.spotify.com/album/46sVbAB7JHfIMLgAxu2eZs) | 3:17 | 2024-04-19 | 2025-01-11 |
 | [Love Me to Death](https://open.spotify.com/track/2F23ScUfmepIITJDZf3FgL) | [Thomas Ware](https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y) | [Love Me to Death](https://open.spotify.com/album/2vJv8qf2pB3qyVXCriwkkM) | 3:37 | 2022-02-25 | 2022-03-26 |
+| [Love Never Fails \- Live](https://open.spotify.com/track/4klUsEeJ6K1dmNOlZrHQnw) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Love Never Fails \(Live\)](https://open.spotify.com/album/2hjMD7VvnSBieDBoLcwB21) | 6:30 | 2025-08-01 |  |
 | [Made A Way](https://open.spotify.com/track/2Ksw9oPrXQbcemCq4t4oew) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Made A Way](https://open.spotify.com/album/3kENXjs8dh7VkOSdEHPWCK) | 3:57 | 2022-02-18 | 2022-12-03 |
 | [Made It Over \(Radio Edit\) \- Live](https://open.spotify.com/track/2er9IAfbXuRPvZ8TtHqDlf) | [Darius Twyman](https://open.spotify.com/artist/6XyPyNOdCFdhQeiXIr06T0) | [Made It Over \(Radio Edit\) \[Live\]](https://open.spotify.com/album/5S11WEgPEtWf6JOqLrNEPF) | 4:10 | 2023-06-02 | 2023-09-09 |
 | [Made New \(feat\. Madison Ryann Ward\) \- Live](https://open.spotify.com/track/6mfJKMNZwH8BLPBaD4L9nF) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [You Belong \(Live\)](https://open.spotify.com/album/4aesqG8k2g3YN5yBd3HdSq) | 7:34 | 2024-06-07 | 2025-06-21 |

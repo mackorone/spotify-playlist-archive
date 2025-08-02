@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-292 songs - 16 hr 44 min
+293 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Todas Esas Horas](https://open.spotify.com/track/3zw6zrVq38WqsxITYMEq5r) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Todas Esas Horas](https://open.spotify.com/album/0LY0umF9eeV9ZFhR9AKXPa) | 3:12 | 2023-06-30 |  |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-06-29 | 2023-04-29 |
 | [Tormenta](https://open.spotify.com/track/6wVfMfwjfAVlpLCsALHIIb) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [ROTOS](https://open.spotify.com/album/1d68YWhFsOs1jPHDryt8Id) | 2:20 | 2023-07-21 |  |
+| [TRADICIÓN](https://open.spotify.com/track/2dtyc8ClPtw9aB8hWXDq7J) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [TRADICIÓN](https://open.spotify.com/album/1Rc3Gw4gXqkyn32VXrjzjD) | 2:48 | 2025-08-01 |  |
 | [Tus Asuntos](https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:19 | 2022-07-19 | 2023-05-20 |
 | [Un demonio](https://open.spotify.com/track/0NwKbZrsXH5FqFQMFKeeDg) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Un demonio](https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax) | 1:12 | 2022-06-29 | 2022-07-20 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-06-29 | 2022-07-20 |

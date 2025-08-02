@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/2T4A5VKXZLhHuViMzHUI8e"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291839,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/6oroFQ0txm6f7BWicxT52n"
+    },
+    {
+      "album": {
         "name": "Angeles / Build A Man",
         "url": "https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr"
       },
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 180845,
       "name": "Canela Pura",
       "url": "https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi"
@@ -2939,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "I'm Your Lover (Only)",
+        "url": "https://open.spotify.com/album/5XQAEebkScnTFNtrHfi1sv"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224034,
+      "name": "I'm Your Lover (Only)",
+      "url": "https://open.spotify.com/track/6x9Hu7fMjHl3dA9VT2CPvQ"
+    },
+    {
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
       },
@@ -3164,7 +3200,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 144760,
       "name": "JUST FRIENDS",
       "url": "https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht"

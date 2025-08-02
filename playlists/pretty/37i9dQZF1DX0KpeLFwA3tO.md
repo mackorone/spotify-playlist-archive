@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,304 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,426 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [I Need Nothing](https://open.spotify.com/track/2iORQwf470Ev2JO0e82cXm) | [Native Sun](https://open.spotify.com/artist/4brVz68WvAaXknF2qhCjOm) | [I Need Nothing](https://open.spotify.com/album/4rWEyAanStCEIOiwjY37mE) | 3:06 |
 | 125 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
 
-Snapshot ID: `AAAAAC4ndpUn2NVbeSnxyvbDALBAu6RX`
+Snapshot ID: `aIv1ewAAAACLTnGYfEzcXrVZbJfIOqQR`

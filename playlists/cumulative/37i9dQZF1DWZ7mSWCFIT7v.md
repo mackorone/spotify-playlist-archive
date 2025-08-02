@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-446 songs - 1 day 11 hr 40 min
+447 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [I Don't Know If That's Just Dreaming](https://open.spotify.com/track/01pY3jX6Sqc4iEBgdHXXH1) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 5:16 | 2021-10-06 | 2025-07-17 |
 | [I Exist Inside This Machine](https://open.spotify.com/track/4H3bAliffBEGwr1tKkHheR) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Aneek Thapar](https://open.spotify.com/artist/7ib2ZAqoKc68C2Uks3aN24) | [I Exist Inside This Machine](https://open.spotify.com/album/73Id9hBvdlVdQnftlULeDn) | 5:02 | 2025-02-21 | 2025-07-24 |
 | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/track/7hPsHelRDnWPc5eu2EtLGL) | [That bb](https://open.spotify.com/artist/1EeNood6FrkpWHqrHUNMGF) | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/album/6j4Txn6EYXnKVJrza1pEhL) | 4:01 | 2025-06-09 |  |
+| [Image of You](https://open.spotify.com/track/3Q2NYGJZI7UIl7cXmr2BRQ) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [m.e.h.](https://open.spotify.com/artist/34qZFVOVlhAXCN4ZNB9CQQ) | [Image of You](https://open.spotify.com/album/2Q7U980j3l9ACcw4zRDeap) | 4:37 | 2025-08-01 |  |
 | [In Bloom](https://open.spotify.com/track/7hQO3fcbEBjl3gRW8XBch5) | [Frythm](https://open.spotify.com/artist/5swpeAJM1ZlRyAvDqBol9K), [Amy G\. Dala](https://open.spotify.com/artist/3vTLpbTjQ7E3o8pIHfCltD) | [Meraki](https://open.spotify.com/album/5ebn8HfgQHwsayoTMcdYVW) | 3:50 | 2025-07-16 |  |
 | [In My Heart \(July '19\)](https://open.spotify.com/track/0pRxvCua1jbNhUq1Q9PG7l) | [MP Productions](https://open.spotify.com/artist/2x47chxSUuKI2MFC9Ba27v) | [MP Productions \- EP 1](https://open.spotify.com/album/33HZlIyVavCfhDn2dUGIvK) | 4:44 | 2021-10-06 | 2025-07-17 |
 | [In The Dust Of This Planet](https://open.spotify.com/track/0EmAGiqo2X3fqeum0C09kb) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [In The Dust EP](https://open.spotify.com/album/7KwYM7xRAcmOA3yJ6Oo2qn) | 4:43 | 2021-10-06 | 2025-07-17 |
@@ -438,7 +439,7 @@
 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 |  |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |
 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-19 | 2025-06-07 |
-| [Xai](https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Xai](https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj) | 3:28 | 2025-04-04 |  |
+| [Xai](https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Xai](https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj) | 3:28 | 2025-04-04 | 2025-08-02 |
 | [Xid](https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg) | 3:41 | 2022-09-21 | 2022-12-22 |
 | [Xid](https://open.spotify.com/track/2vD0oQAzIDeOi00a6qhQYD) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/1ks8FnIe4D2JDPzMHBPW4k) | 3:41 | 2025-05-30 | 2025-07-17 |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2025-07-17 |

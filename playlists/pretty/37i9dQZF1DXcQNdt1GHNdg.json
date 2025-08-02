@@ -1,13 +1,33 @@
 {
   "description": "Pump up your adrenaline with Punjabi hits!",
-  "num_followers": 196786,
+  "num_followers": 196999,
   "original_name": "Punjabi Pump",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIrtrgAAAAA1vWTeOsCT9AqyggktX6hI",
+  "snapshot_id": "AAAAAKx1BKulEsuuuS8ZCruEEzJnUCP7",
   "tracks": [
+    {
+      "added_at": "2025-07-31 04:14:38",
+      "album": {
+        "name": "MF Gabhru!",
+        "url": "https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 200385,
+      "name": "MF Gabhru!",
+      "url": "https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3"
+    },
     {
       "added_at": "2025-07-31 04:14:38",
       "album": {

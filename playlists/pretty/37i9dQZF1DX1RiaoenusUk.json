@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33130,
+  "num_followers": 33139,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,30 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Ready For Life",
+        "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
+      },
+      "artists": [
+        {
+          "name": "Sonido Acido",
+          "url": "https://open.spotify.com/artist/6nquqVdlnGFPB43j5ugL48"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "Andres Nusser",
+          "url": "https://open.spotify.com/artist/6uXBoIeHFP5FNkQQ9y7OfH"
+        }
+      ],
+      "duration_ms": 227174,
+      "name": "Ready For Life",
+      "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -851,30 +875,6 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Ready For Life",
-        "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
-      },
-      "artists": [
-        {
-          "name": "Sonido Acido",
-          "url": "https://open.spotify.com/artist/6nquqVdlnGFPB43j5ugL48"
-        },
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
-        },
-        {
-          "name": "Andres Nusser",
-          "url": "https://open.spotify.com/artist/6uXBoIeHFP5FNkQQ9y7OfH"
-        }
-      ],
-      "duration_ms": 227174,
-      "name": "Ready For Life",
-      "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205374,
       "name": "Pret\u00e9rito Mujer",
       "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1499,22 +1519,34 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+        "name": "Espirituosa",
+        "url": "https://open.spotify.com/album/1Cra9uhCvkygaAvXq6qSmA"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+          "name": "Dedo de Mono",
+          "url": "https://open.spotify.com/artist/4LVzT0rjFYS40nppNUGyVn"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+      "duration_ms": 232288,
+      "name": "Espirituosa",
+      "url": "https://open.spotify.com/track/0ZXJigvZPCAAOUnatrst9F"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1547,38 +1579,6 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Espirituosa",
-        "url": "https://open.spotify.com/album/1Cra9uhCvkygaAvXq6qSmA"
-      },
-      "artists": [
-        {
-          "name": "Dedo de Mono",
-          "url": "https://open.spotify.com/artist/4LVzT0rjFYS40nppNUGyVn"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "Espirituosa",
-      "url": "https://open.spotify.com/track/0ZXJigvZPCAAOUnatrst9F"
     },
     {
       "added_at": "2025-07-04 11:50:10",

@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -13524,7 +13524,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -13542,7 +13542,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -16176,7 +16176,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -27908,7 +27908,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -31396,11 +31396,15 @@
         {
           "name": "FM95BL\u00d6",
           "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
         }
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 148628,
       "name": "M\u00e1var",
       "url": "https://open.spotify.com/track/6kzqyQTd2SOyMml8ikEZi5"
@@ -33046,7 +33050,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -49096,7 +49100,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 154808,
       "name": "UPPI",
       "url": "https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq"
@@ -49796,6 +49800,28 @@
       "duration_ms": 129960,
       "name": "Vivace E Leggero",
       "url": "https://open.spotify.com/track/67KTXN4Lc3BtN6AqFKwQVY"
+    },
+    {
+      "album": {
+        "name": "Vivo Vivo",
+        "url": "https://open.spotify.com/album/7j8DDLGeKZ8F8OEpLp5qze"
+      },
+      "artists": [
+        {
+          "name": "SOS Project",
+          "url": "https://open.spotify.com/artist/0w4yrd0nC4YeQtQH8RopW9"
+        },
+        {
+          "name": "U-Jean",
+          "url": "https://open.spotify.com/artist/5FTpdDUA9cksspPW5Ix78g"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Vivo Vivo",
+      "url": "https://open.spotify.com/track/1gBW5PE9gRM1rFAYAktlkW"
     },
     {
       "album": {
@@ -52704,7 +52730,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
@@ -53510,7 +53536,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
       "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
@@ -54374,7 +54400,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 269815,
       "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
       "url": "https://open.spotify.com/track/2lWTuFXXVJJ6VEBbXQqLkF"
@@ -54400,6 +54426,28 @@
       "duration_ms": 269815,
       "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
       "url": "https://open.spotify.com/track/6pe8fJYRy0V64s5BGGsDid"
+    },
+    {
+      "album": {
+        "name": "\u00dearft a\u00f0 vita",
+        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "\u00dearft a\u00f0 vita",
+      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
     },
     {
       "album": {
@@ -54722,7 +54770,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 205220,
       "name": "\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 B\u00ed\u00f0ur",
       "url": "https://open.spotify.com/track/7GOpB2lDCnBxd3yUEaOaXb"

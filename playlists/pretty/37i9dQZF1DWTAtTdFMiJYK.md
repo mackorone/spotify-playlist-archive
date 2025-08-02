@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mansa Jimmy
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,839 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,871 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
 | 75 | [Khubiyaan](https://open.spotify.com/track/6sfSrFpZNNojPIrq1xJvwQ) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Khubiyaan](https://open.spotify.com/album/0r4WTQ9bpYVNX9jDAeZYzA) | 2:52 |
 
-Snapshot ID: `aIcnSQAAAAAu1gltyv9jsmxYn72Gpv5A`
+Snapshot ID: `AAAAAB26DVJL6JYhhetd93WuSK3ZW4Ys`

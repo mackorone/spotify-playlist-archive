@@ -17631,6 +17631,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun (Bundle)",
+        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238807,
+      "name": "Midnight Sun - Live",
+      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
+    },
+    {
+      "album": {
         "name": "Head In The Clouds",
         "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
       },

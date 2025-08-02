@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 56475,
+  "num_followers": 56584,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Goud",
-        "url": "https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 202943,
-      "name": "Goud",
-      "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
         "name": "Jammer Dan",
         "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 185137,
       "name": "Jammer Dan",
       "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
+        "name": "Goud",
+        "url": "https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Goud",
+      "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -511,18 +511,26 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Waar Ga Je Heen",
-        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
+        "name": "Tussen Jou en Mij",
+        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
       },
       "artists": [
         {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Willem & Jan",
+          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
+        },
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Waar Ga Je Heen",
-      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
+      "duration_ms": 178708,
+      "name": "Tussen Jou en Mij",
+      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -551,26 +559,18 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Tussen Jou en Mij",
-        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
+        "name": "Waar Ga Je Heen",
+        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
       },
       "artists": [
         {
-          "name": "Willem & Jan",
-          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
-        },
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        },
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 178708,
-      "name": "Tussen Jou en Mij",
-      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
+      "duration_ms": 179400,
+      "name": "Waar Ga Je Heen",
+      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 141068,
-      "name": "Hotelschool",
-      "url": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 141068,
+      "name": "Hotelschool",
+      "url": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
     },
     {
       "added_at": "2025-07-01 06:09:26",

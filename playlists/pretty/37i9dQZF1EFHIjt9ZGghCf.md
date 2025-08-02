@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 137 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 137 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 119 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
 | 120 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
 | 121 | [Hidden Forest Spicy Trail Mix](https://open.spotify.com/track/1Q7Ed9mLOBmxHj3sZ8eJCh) | [LAEL](https://open.spotify.com/artist/6u0N8dav5uO0AdKr6l9EFp), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [My Grocery List \(EP\)](https://open.spotify.com/album/3coSLKO5HdvpgdXN18eSXY) | 2:39 |
-| 122 | [HOLLYWOOD](https://open.spotify.com/track/5DEGPKv1ZOuVsmLewXUCJq) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V), [Siri Worku](https://open.spotify.com/artist/10pLML8I8JsBxzEY4kmOWQ) | [HOLLYWOOD](https://open.spotify.com/album/1I100uS3CyoeJXEQ10Ioq1) | 3:13 |
-| 123 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
+| 122 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
+| 123 | [HOLLYWOOD](https://open.spotify.com/track/5DEGPKv1ZOuVsmLewXUCJq) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V), [Siri Worku](https://open.spotify.com/artist/10pLML8I8JsBxzEY4kmOWQ) | [HOLLYWOOD](https://open.spotify.com/album/1I100uS3CyoeJXEQ10Ioq1) | 3:13 |
 | 124 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 |
 | 125 | [A Better Word \- Live](https://open.spotify.com/track/6r3Mznc8z5AcSWJ2aJvIZF) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating](https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR) | 6:24 |
 | 126 | [Cold Outside](https://open.spotify.com/track/7DvyZPGqOg41haNQrlPUGO) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Cold Outside](https://open.spotify.com/album/7HcdCG3pd2TnJTuJE5HOGB) | 3:49 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 136 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 137 | [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 |
 
-Snapshot ID: `Ab4R8gAAAAAu6bIk+/fwYpEig43pMjqH`
+Snapshot ID: `Ab4XdAAAAAAsdSQXULl8HHEuL5dFxtte`

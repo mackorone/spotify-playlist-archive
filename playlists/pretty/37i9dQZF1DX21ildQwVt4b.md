@@ -16,4 +16,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 | 6 | [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 42:20 |
 | 7 | [Bonus: From the Vault: Sylvia Rivera & Marsha P\. Johnson, 1970](https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/album/1NlHk37Vo7HlGE1CFg8uGx) | 22:07 |
 
-Snapshot ID: `AAAAAE53CHAytCAw3lnUxax6LBh6DWqh`
+Snapshot ID: `ZIsQMQAAAADz3fIj++pue3WjH72iHT8f`

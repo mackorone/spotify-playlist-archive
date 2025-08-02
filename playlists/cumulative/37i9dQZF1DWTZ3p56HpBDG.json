@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of South Asian diaspora. Cover: Akshara",
+  "description": "Best of South Asian diaspora. Cover: REHMA",
   "name": "No Borders",
   "tracks": [
     {
@@ -1080,6 +1080,24 @@
       "duration_ms": 111467,
       "name": "Devil In A Dress",
       "url": "https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN"
+    },
+    {
+      "album": {
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/14ywsEGBi8AFhMhyOPNIQH"
+      },
+      "artists": [
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141598,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/67zZBmYZYYjX8c8kz27h7P"
     },
     {
       "album": {
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 197580,
       "name": "Kabool Na",
       "url": "https://open.spotify.com/track/3YremD1Bd3anXO6j4nQs9X"

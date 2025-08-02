@@ -1,13 +1,29 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 108119,
+  "num_followers": 108229,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH0ezQAAAAAtIXmugGdC0fWVqlzn6YPQ",
+  "snapshot_id": "AAAAACVOcZbruBecg65Jq6SZCwS+8i1g",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:26",
+      "album": {
+        "name": "Chasing Rainbows",
+        "url": "https://open.spotify.com/album/4dCcS4vZi4my5BVpcxkzec"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 183669,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm"
+    },
     {
       "added_at": "2025-07-20 16:52:29",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 145680,
       "name": "The Alphabet Jawn (feat. Last BeNeVoLeNcE)",
       "url": "https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya"
-    },
-    {
-      "added_at": "2025-07-20 16:52:29",
-      "album": {
-        "name": "Koala",
-        "url": "https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF"
-      },
-      "artists": [
-        {
-          "name": "Sumo's World",
-          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
-        }
-      ],
-      "duration_ms": 135022,
-      "name": "Koala",
-      "url": "https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS"
     },
     {
       "added_at": "2025-07-20 16:52:29",

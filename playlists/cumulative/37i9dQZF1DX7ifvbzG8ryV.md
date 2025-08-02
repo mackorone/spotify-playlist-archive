@@ -2,9 +2,9 @@
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"> Scissor Sisters </a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFP8Ixo8m8jnE">Ambré</a>
 
-161 songs - 8 hr 58 min
+164 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bad Religion](https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:55 | 2025-01-10 | 2025-04-05 |
 | [Bad Religion](https://open.spotify.com/track/6jy12gDerHRUSwiEhfs9C6) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 2:55 | 2024-06-04 | 2025-01-11 |
 | [Balatar](https://open.spotify.com/track/0aqEoIQ0xrhEAnjlbnqpXq) | [Tohi](https://open.spotify.com/artist/7pBXdJN9S9N9nNifjPixET), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Balatar](https://open.spotify.com/album/0hb6NypOR0JyX2s7bp8e5m) | 2:40 | 2025-03-07 | 2025-04-05 |
+| [band practice](https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Pulp](https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK) | 3:56 | 2025-08-01 |  |
 | [Basic Rich](https://open.spotify.com/track/71pYVCk6Y2Di0Ogb7UycrE) | [Matias Mora](https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb) | [Basic Rich](https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf) | 2:08 | 2024-03-27 | 2024-12-12 |
 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 | 2025-04-04 |  |
 | [Better Days](https://open.spotify.com/track/1Ioz7FzmEzvzWBsYp68k6z) | [Houston Kendrick](https://open.spotify.com/artist/2hnHKdQbmx3mjqgLOSna79) | [Small Infinity Reloaded](https://open.spotify.com/album/0lQUHK6DGgkTalkRgPBJ2t) | 2:57 | 2024-11-12 | 2025-04-05 |
@@ -55,7 +56,9 @@
 | [Don't Blink](https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Don't Blink](https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh) | 3:28 | 2025-05-01 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2025-04-04 |  |
 | [Dope](https://open.spotify.com/track/3d6Vw8ilzo2lft90F2FD4Y) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Are You Real?](https://open.spotify.com/album/7jiH53ruZb67gF8pvAXS9g) | 3:27 | 2025-03-07 | 2025-04-05 |
+| [Drake and Drive](https://open.spotify.com/track/7eh6esjOCkDkcYU31h6few) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 2:17 | 2025-08-01 |  |
 | [Drama Drama](https://open.spotify.com/track/6qQDrQDewRUDkjohl8q9cR) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Queer Rage](https://open.spotify.com/album/0FsJHNwVPMFzPgRceiEHGm) | 2:31 | 2025-04-04 | 2025-07-08 |
+| [ELEVATE \(ft\. Mack Keane\)](https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:33 | 2025-08-01 |  |
 | [Erika](https://open.spotify.com/track/3LZbjiwzmbsw67vPzAaqTF) | [Rosemary Joaquin](https://open.spotify.com/artist/5siWl4GNJu9rBMoexPD9R6) | [Erika](https://open.spotify.com/album/3tzAkArHxnx5ncFjKUTBSw) | 3:11 | 2025-06-04 | 2025-07-08 |
 | [Ever Really Ready](https://open.spotify.com/track/2kDR0xZhTNG3gp3ZgZPrdX) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Ever Really Ready](https://open.spotify.com/album/5riEm6AVnF7R7JgYWyj0H5) | 3:57 | 2025-05-01 | 2025-06-05 |
 | [Everglades](https://open.spotify.com/track/1NbOtqGrqZn57jryxVXeSn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Everglades](https://open.spotify.com/album/7cPOTKMqiMjvtYvmJXXEbB) | 3:43 | 2024-03-27 | 2025-01-11 |
@@ -90,7 +93,7 @@
 | [Isn’t That Life](https://open.spotify.com/track/1iIRaQjzWaDql3e52JNWU9) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [American Spirit: The Last Drag](https://open.spotify.com/album/5hSvIpAkDp9nH2ER2vUoXP) | 3:33 | 2025-05-01 |  |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-04-04 |  |
 | [JOYRIDE.](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE.](https://open.spotify.com/album/0k68jcBxrsqFzgvAVteo92) | 2:30 | 2025-04-04 |  |
-| [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-04-04 |  |
+| [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-04-04 | 2025-08-02 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-04-04 | 2025-05-02 |
 | [Let Them \(It's All Love\)](https://open.spotify.com/track/6YxYTXQN4trhMHSAFMj4iC) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:03 | 2024-03-27 | 2024-06-05 |
 | [Let's Have A Kiki](https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:49 | 2025-07-07 |  |
@@ -115,7 +118,7 @@
 | [One Time](https://open.spotify.com/track/0tWzCEYjVzFQtcGfMXuaWb) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [One Time](https://open.spotify.com/album/1IVfi5Dr68MXxiphQShO5p) | 4:22 | 2024-03-27 | 2024-12-12 |
 | [Only Lonely](https://open.spotify.com/track/310QXrjCNF3IAzquz1lS40) | [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [Tina Arena \(Greatest Hits & Interpretations\)](https://open.spotify.com/album/46uy7fPI5aTSeZ9gyuAg0t) | 3:27 | 2024-03-27 | 2025-02-08 |
 | [Only Sorry](https://open.spotify.com/track/1Kriq5ncfgGwoZ4evrIPC5) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Only Sorry](https://open.spotify.com/album/2a12VHkgSHMoPQP4jhVU3M) | 3:10 | 2024-03-27 | 2025-03-08 |
-| [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-04 |  |
+| [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-04 | 2025-08-02 |
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-04-04 |  |
 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 | 2025-06-04 |  |
 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-10-04 | 2025-04-05 |
@@ -134,7 +137,7 @@
 | [Scrambled Eggs](https://open.spotify.com/track/3BpU2XEMvN0XicImzJxLD7) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:46 | 2025-04-04 |  |
 | [Somewhere With You](https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:13 | 2024-03-27 | 2024-12-12 |
 | [Stay the Night](https://open.spotify.com/track/6rgEWdTQL1bybGVTGyIDsa) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Boy Untitled](https://open.spotify.com/artist/7C0ZlzfEYot9Iz0ENgFB8D) | [Stay the Night](https://open.spotify.com/album/1pIBJ8tLwf21r54A4c5OZ1) | 2:32 | 2024-03-27 | 2024-06-05 |
-| [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-04-04 |  |
+| [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-04-04 | 2025-08-02 |
 | [Sun Goes Down \- Edit](https://open.spotify.com/track/4o3fupxrJRng5gol1Fe5cZ) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:42 | 2024-03-27 | 2024-06-05 |
 | [Take My Phone Away](https://open.spotify.com/track/1jNZJUUMxhk6lgXqpDx0U0) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away \(Remixes\)](https://open.spotify.com/album/1yOClHJ4wbIE7HJd9ikrTR) | 2:26 | 2025-02-07 | 2025-04-05 |
 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 | 2025-07-07 |  |

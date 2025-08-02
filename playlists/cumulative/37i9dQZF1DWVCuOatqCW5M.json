@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from King, Juss, MixSingh and more. ",
+  "description": "Latest music from Tesher, Jonita Gandhi and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 203592,
       "name": "Ai No Imi",
       "url": "https://open.spotify.com/track/4ELNqZskpQv9jaPiW5WluZ"
@@ -5484,7 +5484,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 273922,
       "name": "Chale Jao",
       "url": "https://open.spotify.com/track/4O631eiqqkSGEDtk7R6GuQ"
@@ -8212,7 +8212,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 226575,
       "name": "Dilnasheen",
       "url": "https://open.spotify.com/track/5PEpNGJNBbnaPGusdbMSKB"
@@ -15475,6 +15475,24 @@
     },
     {
       "album": {
+        "name": "Kahani Meri",
+        "url": "https://open.spotify.com/album/08e8NYxLIuMzCcd6A1BFlV"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Kahani Meri",
+      "url": "https://open.spotify.com/track/2xNDg2ITRFMgdzQxb3cL8k"
+    },
+    {
+      "album": {
         "name": "Kahaniyan",
         "url": "https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4"
       },
@@ -17215,6 +17233,28 @@
     },
     {
       "album": {
+        "name": "kinaare",
+        "url": "https://open.spotify.com/album/3y51mLmOeoD68jxmMdAr4i"
+      },
+      "artists": [
+        {
+          "name": "Jai Karki",
+          "url": "https://open.spotify.com/artist/7BKQPpOZKMoCQl1tB3qXYg"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230357,
+      "name": "kinaare",
+      "url": "https://open.spotify.com/track/6oUfzXJGtzdjANU7Hx2FHY"
+    },
+    {
+      "album": {
         "name": "Kinare",
         "url": "https://open.spotify.com/album/000vAdbcpvtNr6AzYCK9UZ"
       },
@@ -17414,6 +17454,32 @@
       "duration_ms": 244845,
       "name": "Kitni Bechain Hoke",
       "url": "https://open.spotify.com/track/0aOfRjTDSuaNXRwvSH5t8X"
+    },
+    {
+      "album": {
+        "name": "Koi Koi Karda",
+        "url": "https://open.spotify.com/album/2t0gaEh2nupaTcQgvOhhxw"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Koi Koi Karda",
+      "url": "https://open.spotify.com/track/2tPrsY7PA8JMODNnkwsTkT"
     },
     {
       "album": {
@@ -21417,6 +21483,28 @@
     },
     {
       "album": {
+        "name": "Naadaani",
+        "url": "https://open.spotify.com/album/7um0giE1r9FRuboEWF48j0"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244405,
+      "name": "Naadaani",
+      "url": "https://open.spotify.com/track/0QNBk6UmE2uOUNdEsGpe7R"
+    },
+    {
+      "album": {
         "name": "Naal Tere",
         "url": "https://open.spotify.com/album/3mdxOU5iutIQTOhs9wnBee"
       },
@@ -23652,7 +23740,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 208800,
       "name": "Pehli Baarish",
       "url": "https://open.spotify.com/track/3tsZhGyF3SxUP93Y73LeoR"
@@ -24802,7 +24890,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 184347,
       "name": "Rang Hai Tu",
       "url": "https://open.spotify.com/track/36hIbn0WUKnN58ZBpYjhAv"
@@ -25042,6 +25130,24 @@
       "duration_ms": 279622,
       "name": "Re Mann | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/76Zh4KTrLcXUniOQkOIU1Y"
+    },
+    {
+      "album": {
+        "name": "RED PILL",
+        "url": "https://open.spotify.com/album/5wVp5f4E2j6uVU62HWTkZl"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "RED PILL",
+      "url": "https://open.spotify.com/track/31kpp32NUZoyOHTofbQWHS"
     },
     {
       "album": {
@@ -25878,6 +25984,32 @@
     {
       "album": {
         "name": "Saawariya",
+        "url": "https://open.spotify.com/album/0zymk7RXRxlMpTKms2Kai4"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225769,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/3C9OWjSbRuLL1HrWRzc4n6"
+    },
+    {
+      "album": {
+        "name": "Saawariya",
         "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
       },
       "artists": [
@@ -26656,7 +26788,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 224233,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/6Hi5Bdstr9U1dNClDfUrWM"
@@ -32941,6 +33073,28 @@
     },
     {
       "album": {
+        "name": "Ve Mundeya",
+        "url": "https://open.spotify.com/album/03op4wrOwbVjgVwgd9CmrU"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Ve Mundeya",
+      "url": "https://open.spotify.com/track/0fy4chw5hmSLs9HifZjGu0"
+    },
+    {
+      "album": {
         "name": "Unloved",
         "url": "https://open.spotify.com/album/77oy22SM00oHo503o1DsPN"
       },
@@ -33066,7 +33220,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 174374,
       "name": "Vichorra",
       "url": "https://open.spotify.com/track/4Oq6ReS6lMHCb5kgULJcN9"

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-410 songs - 18 hr 47 min
+411 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bøgda \- Remix](https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda \(Remix\)](https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7) | 2:51 | 2024-04-04 | 2025-02-21 |
 | [Bøgdamann](https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Bøgdamann](https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG) | 2:47 | 2023-03-09 | 2024-02-09 |
 | [Bøgdegutt](https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bøgdegutt](https://open.spotify.com/album/3gpPwHEgZWKbgb2WFyWMaa) | 2:40 | 2022-01-13 | 2022-07-27 |
+| [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 | 2025-07-31 |  |
 | [Che Casino](https://open.spotify.com/track/4PSC9tidDrwwtb9nMVM0Hv) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Che Casino](https://open.spotify.com/album/76X2ccF8LGeRfkxUwXPNLH) | 2:55 | 2021-12-16 | 2022-11-16 |
 | [CHUGGE \(Wine Not\)](https://open.spotify.com/track/2kJUjgNRaum4cuJgAQu51a) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [CHUGGE \(Wine Not\)](https://open.spotify.com/album/1IV0803HCb53c2UiktKIp5) | 3:13 | 2022-02-03 | 2022-06-18 |
 | [City Boy](https://open.spotify.com/track/0MzftibVXzOHofvzw6sqQ3) | [Hjulspinn](https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr) | [City Boy](https://open.spotify.com/album/2I6TGlH8cMneYC4m8zwA47) | 2:05 | 2022-07-21 | 2022-07-25 |
@@ -393,7 +394,7 @@
 | [Ut Mot Havet](https://open.spotify.com/track/2jYvJrImUB8qGjO9NFMovv) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Topp 20](https://open.spotify.com/album/74fANoXo8jn0M91Sx78vju) | 3:59 | 2022-03-24 | 2022-04-18 |
 | [Ut mot havet](https://open.spotify.com/track/5JsQ1vHwGkiJqi73JAiXzW) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Ut Mot Havet](https://open.spotify.com/album/0NXL1Qx0KovPcGLdfv8Vkg) | 4:02 | 2022-10-13 | 2022-10-16 |
 | [Ut å ragga](https://open.spotify.com/track/6QM2U3u5FleFGEYfTiBr4S) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Ut å ragga](https://open.spotify.com/album/11dB01KVK80k1PocJgvVDg) | 2:07 | 2021-12-16 | 2022-10-16 |
-| [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 | 2021-12-16 |  |
+| [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 | 2021-12-16 | 2025-08-02 |
 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-03-21 | 2024-08-16 |
 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 | 2021-12-16 | 2022-10-16 |
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |

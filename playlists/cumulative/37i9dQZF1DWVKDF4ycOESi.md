@@ -4,7 +4,7 @@
 
 > Nuovi brani di Chappell Roan, Rauw Alejandro, Danny Ocean, Saweetie e TWICE, d4vd e hannah bahng e molti altri.
 
-5,840 songs - 12 day 5 hr 36 min
+5,841 songs - 12 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3865,7 +3865,7 @@
 | [Ospiti](https://open.spotify.com/track/69RVljpUxLQpd17e9MblDy) | [Nularse](https://open.spotify.com/artist/2ZqgNoyBc3pgPQwq3Np6iH) | [Ospiti](https://open.spotify.com/album/2wubC8QDGARw1GA22PJlCw) | 3:41 | 2025-05-08 | 2025-05-16 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-05-02 | 2024-05-10 |
 | [OSSIDIANA](https://open.spotify.com/track/2ll9xrio2Xg0xoyDqDj8zX) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [JOSEPH](https://open.spotify.com/album/2bGQIcZXN3a4OwqLtIfCiW) | 2:46 | 2024-05-23 | 2024-06-01 |
-| [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 | 2025-08-01 |  |
+| [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9), [143 Kore](https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 | 2025-08-01 |  |
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-02 | 2024-05-10 |
 | [OTRA NOCHE](https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [OTRA NOCHE](https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT) | 3:44 | 2024-08-15 | 2024-08-23 |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-10 | 2024-10-18 |
@@ -5020,6 +5020,7 @@
 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-06-05 | 2025-06-13 |
 | [SUPERSEX \(feat\. Spender\)](https://open.spotify.com/track/2gDPoogKgwYJQ0FB9mWaed) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh), [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [SUPERSEX \(feat\. Spender\)](https://open.spotify.com/album/2TSj70pDYykZp31LGD0mf0) | 2:28 | 2024-06-13 | 2024-06-21 |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-22 | 2025-05-30 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Supposed To Be](https://open.spotify.com/track/6aZslWpHz7hrSim9QkZPR6) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Supposed To Be](https://open.spotify.com/album/5yTPT21sJDjRdbPdTVFJHg) | 3:11 | 2024-06-27 | 2024-07-05 |
 | [SURF](https://open.spotify.com/track/6Z1qoOUuyfNqSj55NB2kh6) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [SURF](https://open.spotify.com/album/3GQHmh7yszY4CdXLc6RwhS) | 3:26 | 2024-06-27 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XpDcTIjeli.md) - [plain]
 
 > Alleen beschikbaar met Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

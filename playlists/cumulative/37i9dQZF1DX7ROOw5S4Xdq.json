@@ -6161,24 +6161,6 @@
     },
     {
       "album": {
-        "name": "Bondade de Deus",
-        "url": "https://open.spotify.com/album/10eUgvi9JegRMcuio6kNLi"
-      },
-      "artists": [
-        {
-          "name": "Renascer Praise",
-          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
-        }
-      ],
-      "date_added": "2025-08-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 371209,
-      "name": "Bondade de Deus",
-      "url": "https://open.spotify.com/track/03aPuIf6qtM9QKQJO1hALs"
-    },
-    {
-      "album": {
         "name": "Bondade de Deus (feat. Marcos Almeida)",
         "url": "https://open.spotify.com/album/57pparGIrnrsY4J6DeH293"
       },
@@ -6234,6 +6216,24 @@
       "duration_ms": 328090,
       "name": "Bondade de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/5DkPcNMHv20ALWs5jHTFu7"
+    },
+    {
+      "album": {
+        "name": "Bondade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/10eUgvi9JegRMcuio6kNLi"
+      },
+      "artists": [
+        {
+          "name": "Renascer Praise",
+          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371209,
+      "name": "Bondade de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/03aPuIf6qtM9QKQJO1hALs"
     },
     {
       "album": {

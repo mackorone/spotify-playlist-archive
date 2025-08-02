@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Porter en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Arath Herce en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 197496,
       "name": "00:00",
       "url": "https://open.spotify.com/track/10w3SS3mZe9sRPbhZg4Vcc"
@@ -1878,6 +1878,24 @@
       "duration_ms": 253911,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/1rg5jQyjIOLDVY1pVIvAp2"
+    },
+    {
+      "album": {
+        "name": "Cielos de Cristal",
+        "url": "https://open.spotify.com/album/4BlC7PWIxFUtKWQ1gzGtGH"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226474,
+      "name": "Cielos de Cristal",
+      "url": "https://open.spotify.com/track/3IWT8f6lZRIoXQGtnuzhXK"
     },
     {
       "album": {
@@ -6183,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Vengo del Futuro y No Hay Futuro",
+        "url": "https://open.spotify.com/album/2PDUWv0wSYeaWorpbGpuIY"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/4hPdsiK5fBGBf93OVGLuep"
+    },
+    {
+      "album": {
         "name": "LFO (Lupe Finds Oliveros)",
         "url": "https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y"
       },
@@ -7951,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "Na Na Nothing",
+        "url": "https://open.spotify.com/album/35Cg2yupRua7J9burKKkf3"
+      },
+      "artists": [
+        {
+          "name": "Migrant Motel",
+          "url": "https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147744,
+      "name": "Na Na Nothing",
+      "url": "https://open.spotify.com/track/6tbLag7qfKzMotLboJPYmV"
+    },
+    {
+      "album": {
         "name": "Nada Es Real",
         "url": "https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd"
       },
@@ -9332,6 +9386,28 @@
       "duration_ms": 298174,
       "name": "Piel De Luna",
       "url": "https://open.spotify.com/track/57NtJwiDGoCgcXVs6yi16N"
+    },
+    {
+      "album": {
+        "name": "Pienso en ti",
+        "url": "https://open.spotify.com/album/4h80qLQeDA9vg5LmOAxYdW"
+      },
+      "artists": [
+        {
+          "name": "Los Flakos",
+          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+        },
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Pienso en ti",
+      "url": "https://open.spotify.com/track/16UpkkwrCOzFik6R2yrzch"
     },
     {
       "album": {
@@ -11916,7 +11992,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 195786,
       "name": "Um Doce",
       "url": "https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe"
@@ -12836,7 +12912,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 218666,
       "name": "\u00bfD\u00f3nde Est\u00e1s?",
       "url": "https://open.spotify.com/track/3J1LchQHZ160AXRsAt6okN"

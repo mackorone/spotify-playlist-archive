@@ -4,7 +4,7 @@
 
 > Chappell Roan, GIMS x La Mano 1.9 et Jul au top des nouveautés de la semaine !
 
-5,746 songs - 12 day 10 hr 26 min
+5,748 songs - 12 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4114,6 +4114,7 @@
 | [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 | 2025-07-24 | 2025-08-01 |
 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 | 2025-02-28 | 2025-03-07 |
 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 | 2024-08-15 | 2024-08-23 |
+| [Pretty Crew](https://open.spotify.com/track/3prnPj3VfcbdaFevDS5SRC) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Disaster Music](https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR) | [Pretty Crew](https://open.spotify.com/album/17zxJcwYuRxciXE6VsGHB3) | 3:06 | 2025-08-01 |  |
 | [Pretty Little Thing](https://open.spotify.com/track/4rHi4Tx5snrpF3ALRmfXa2) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [TASTE](https://open.spotify.com/album/5y1uvx7D6w53va4miNpuNy) | 3:50 | 2024-10-24 | 2024-11-01 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-15 | 2024-08-23 |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-24 | 2025-05-02 |
@@ -4852,6 +4853,7 @@
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-16 | 2024-05-24 |
 | [Supernova](https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Supernova](https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB) | 2:45 | 2024-09-05 | 2024-09-13 |
 | [Superplayer](https://open.spotify.com/track/03Z5aikKbRb2LpjXu9D28X) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Superplayer](https://open.spotify.com/album/23va1N5Haa74Pls2Q0OZET) | 2:48 | 2025-01-30 | 2025-02-07 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-08-08 | 2024-08-16 |
 | [Sur mon mind](https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sur mon mind](https://open.spotify.com/album/6sbBp80z1a92DzqJ7EgRd2) | 2:21 | 2025-05-30 | 2025-06-06 |
 | [Surf](https://open.spotify.com/track/2JCnq2ehglXJklyxd7zVCp) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Surf](https://open.spotify.com/album/6A9GRBUVGnmCEP6c54JjJh) | 2:29 | 2025-01-02 | 2025-01-10 |
@@ -4964,7 +4966,7 @@
 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 | 2025-05-22 | 2025-05-30 |
 | [TEMPO](https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [TEMPO](https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh) | 3:14 | 2025-01-30 | 2025-02-07 |
 | [Temporary Friend](https://open.spotify.com/track/4SFTCv3LmtzbFBppv0Akk9) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Temporary Friend](https://open.spotify.com/album/4hxxhKKV8ias1gln23lWsJ) | 3:02 | 2024-09-19 | 2024-09-27 |
-| [Temporary Lover ft\. Riovaz](https://open.spotify.com/track/1hlHcaLF6KGV58P7id8R1L) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Temporary Lover](https://open.spotify.com/album/0rSx6yjyx90xJyS8SWTOcm) | 3:06 | 2025-08-01 |  |
+| [Temporary Lover \(feat\. Riovaz\)](https://open.spotify.com/track/1hlHcaLF6KGV58P7id8R1L) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Temporary Lover](https://open.spotify.com/album/0rSx6yjyx90xJyS8SWTOcm) | 3:06 | 2025-08-01 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-07-25 | 2024-08-02 |
 | [Tempted](https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Tempted](https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6) | 2:56 | 2024-08-22 | 2024-08-30 |
 | [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 | 2025-01-02 | 2025-01-10 |

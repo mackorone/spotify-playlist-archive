@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uMGH4nKYHF.md) - [plain]
 
 > A selection from every Tony\-winning musical since 1947.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,325 likes - 76 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,326 likes - 76 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uMGH4nKYHF.md) - [plain]
 | 75 | [South Pacific \- Original Broadway Cast Recording: I'm Gonna Wash That Man Right Outa My Hair \- Voice](https://open.spotify.com/track/4aCY7htvmGUnriEz4Xb2uG) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw), [South Pacific Ensemble](https://open.spotify.com/artist/3VZyaOO5pR6ITz1QOusihP), [South Pacific Original Broadway Cast](https://open.spotify.com/artist/0KkeKaSOovAx8KC3SHRUrc), [Salvatore Dell'Isola](https://open.spotify.com/artist/1cCKEpMcRmdSbAejTgPgP3) | [South Pacific \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wPpi9Gv9lGtb15ptJKkZI) | 3:27 |
 | 76 | [Kiss Me, Kate: Another Op'nin, Another Show](https://open.spotify.com/track/159tQrB3yRt4PQERRpGBdM) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Annabelle Hill](https://open.spotify.com/artist/4kFYrYh9K8gbIOCNIcaaYC), [Kiss Me, Kate Ensemble](https://open.spotify.com/artist/1tCiBtSQ8AUSX6ty3LFL4C), [Pembroke Davenport](https://open.spotify.com/artist/4fdPrPKYcvauQeQEJFmX8S), [Original Broadway Cast Orchestra](https://open.spotify.com/artist/1r7rgWu1xhUhk11oCFjkFp) | [Kiss Me, Kate \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1GA4QFvo7fbJIboF2rQy4G) | 1:43 |
 
-Snapshot ID: `AAAAABCl89Miu4zeJJ0TVS/El1MVmLwB`
+Snapshot ID: `aEZQOAAAAABFjg0j+0RoxK7A9tv03Yta`

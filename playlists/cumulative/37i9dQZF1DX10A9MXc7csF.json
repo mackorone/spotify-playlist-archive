@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Janeth Valenzuela",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Los Primos del Este ",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "A Peso",
+        "url": "https://open.spotify.com/album/0oR3DhtQhFrBzu85muMDYI"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "A Peso",
+      "url": "https://open.spotify.com/track/2FpB6JGNUf52YCtMrLqvDy"
+    },
+    {
+      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
@@ -996,6 +1018,28 @@
       "duration_ms": 165395,
       "name": "Agradecido Estoy",
       "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
+    },
+    {
+      "album": {
+        "name": "Agua Y Aceite",
+        "url": "https://open.spotify.com/album/3KhNz9VGhRCFPqXQcuSccP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "Agua Y Aceite",
+      "url": "https://open.spotify.com/track/4Pc3MZc2ozA54Yqo8Zf1c7"
     },
     {
       "album": {
@@ -4105,6 +4149,28 @@
     },
     {
       "album": {
+        "name": "CATALOGADO",
+        "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127481,
+      "name": "CATALOGADO",
+      "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
+    },
+    {
+      "album": {
         "name": "CICLOTIMIA",
         "url": "https://open.spotify.com/album/4J3byXw5l2J8BlU0eFmydd"
       },
@@ -4632,7 +4698,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 166680,
       "name": "CLVH (with Julio Caesar)",
       "url": "https://open.spotify.com/track/2QfbYP9hHRBPQNGxE8QoPJ"
@@ -4900,7 +4966,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 198636,
       "name": "Con Bajo Perfil",
       "url": "https://open.spotify.com/track/1V5yzS1Y4dLiVPkXeJ5woJ"
@@ -8042,7 +8108,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 221092,
       "name": "El Humo Pa' Dentro",
       "url": "https://open.spotify.com/track/7FaMLZ2SYinWIrz3NqGjhh"
@@ -8686,6 +8752,28 @@
       "duration_ms": 185077,
       "name": "El Presunto",
       "url": "https://open.spotify.com/track/7treaj6CdIwBSNBYonnyyi"
+    },
+    {
+      "album": {
+        "name": "El Queso",
+        "url": "https://open.spotify.com/album/4nATRnXM5F8YaaYYdgfOFa"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156315,
+      "name": "El Queso",
+      "url": "https://open.spotify.com/track/6OYPOLCc7Vr2tVZN854s0q"
     },
     {
       "album": {
@@ -10766,7 +10854,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 225951,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/0dggN0Sep5Z9lTRiQwuDm1"
@@ -11262,6 +11350,32 @@
       "duration_ms": 181986,
       "name": "Gente Del Chapo - En Vivo",
       "url": "https://open.spotify.com/track/3WWZxFaHosVcLJ8PUoXGqN"
+    },
+    {
+      "album": {
+        "name": "GOETT (Remix)",
+        "url": "https://open.spotify.com/album/2GT1yiE2WHDUbxbkWWT5xV"
+      },
+      "artists": [
+        {
+          "name": "Manzana For Life",
+          "url": "https://open.spotify.com/artist/4lLZY8V5ioycz7OF4pPPrJ"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202778,
+      "name": "GOETT - Remix",
+      "url": "https://open.spotify.com/track/4GIfiMLXvfAqz2Srk2ZlRU"
     },
     {
       "album": {
@@ -13199,6 +13313,24 @@
     },
     {
       "album": {
+        "name": "La Primera Vez (Version Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1gEnLYLsmiTbhf0i8POu9P"
+      },
+      "artists": [
+        {
+          "name": "El Esparza",
+          "url": "https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178652,
+      "name": "La Primera Vez (Version Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7uNdIFP6ca3zfg5wuLdUDV"
+    },
+    {
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA"
       },
@@ -13446,6 +13578,24 @@
       "duration_ms": 206304,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
+    },
+    {
+      "album": {
+        "name": "Aqui Andamos De Nuevo (En Vivo)",
+        "url": "https://open.spotify.com/album/3kbuydBgiBWQAeH7UDsLtF"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Cota",
+          "url": "https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "La Verdad Cala - En Vivo",
+      "url": "https://open.spotify.com/track/1eSiIrelpnCTqxr9rhf6pq"
     },
     {
       "album": {
@@ -15001,6 +15151,28 @@
     },
     {
       "album": {
+        "name": "Malandrin",
+        "url": "https://open.spotify.com/album/1z8479vViQ5svBGirVpm40"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184847,
+      "name": "Malandrin",
+      "url": "https://open.spotify.com/track/3jRXaEb0C8Gz2w99Gvkmrg"
+    },
+    {
+      "album": {
         "name": "EVOLUXION",
         "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
       },
@@ -15164,7 +15336,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 255320,
       "name": "Mando 15",
       "url": "https://open.spotify.com/track/6jaaK01VdLoJeDOvDLqT0y"
@@ -16772,7 +16944,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 247551,
       "name": "Mirar Que Te Vas",
       "url": "https://open.spotify.com/track/2VLNxTDw9navilDsX6nNhL"
@@ -17751,6 +17923,24 @@
     },
     {
       "album": {
+        "name": "NDV",
+        "url": "https://open.spotify.com/album/6HloW5Effmuojij34hcnjt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187053,
+      "name": "NDV",
+      "url": "https://open.spotify.com/track/4YS9Bj2FoRqaJc7NTiLUQV"
+    },
+    {
+      "album": {
         "name": "Negro Como La Pantera",
         "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
       },
@@ -18092,7 +18282,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 176111,
       "name": "No Eramos Pobres",
       "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
@@ -18742,6 +18932,24 @@
       "duration_ms": 203750,
       "name": "No Te Haz De Olvidar",
       "url": "https://open.spotify.com/track/7ummdw5LjKXVOBlDZ5ihna"
+    },
+    {
+      "album": {
+        "name": "No Te Hubiera Besado",
+        "url": "https://open.spotify.com/album/2plPejGZIWWggruY0NizsL"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139894,
+      "name": "No Te Hubiera Besado",
+      "url": "https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM"
     },
     {
       "album": {
@@ -19846,6 +20054,24 @@
       "duration_ms": 240879,
       "name": "Paso En Culiacan (En Vivo)",
       "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/6LGShO5eNRwhcRC9qD2hs8"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205102,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/04XBgrCUFpffgpTIf92keL"
     },
     {
       "album": {
@@ -21082,7 +21308,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 121855,
       "name": "Pum Pim Pam",
       "url": "https://open.spotify.com/track/0oWVPRSFyO8sJRx1G31w5U"
@@ -21956,7 +22182,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 172285,
       "name": "QU\u00c9 BONITO",
       "url": "https://open.spotify.com/track/3hIGxxazPJentVcbwNuyvH"
@@ -25659,6 +25885,24 @@
     },
     {
       "album": {
+        "name": "Tres Leches",
+        "url": "https://open.spotify.com/album/54vcxSR9lwiIq3izGARFxl"
+      },
+      "artists": [
+        {
+          "name": "Alto C\u00f3digo",
+          "url": "https://open.spotify.com/artist/5mTPOQ9UrBKsQC6eQMFjYN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "Tres Leches",
+      "url": "https://open.spotify.com/track/0pY8HMPfPDn28FrYScsXmy"
+    },
+    {
+      "album": {
         "name": "Tres Rayas",
         "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
       },
@@ -26558,6 +26802,24 @@
       "duration_ms": 141500,
       "name": "Una Chevy",
       "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
+    },
+    {
+      "album": {
+        "name": "Una Copa",
+        "url": "https://open.spotify.com/album/0NwKc2sO6NN4bLyiMeQRty"
+      },
+      "artists": [
+        {
+          "name": "Danny Talavera",
+          "url": "https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182017,
+      "name": "Una Copa",
+      "url": "https://open.spotify.com/track/1cKn44SMAwQIY1OOh4XgCp"
     },
     {
       "album": {

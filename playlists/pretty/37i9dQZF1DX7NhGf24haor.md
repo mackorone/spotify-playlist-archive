@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,366 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,676 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 34 | [DOOMSDAY 4EVER](https://open.spotify.com/track/2poNhB4WFLrgRwL5tNsDm4) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [DOOMSDAY 4EVER](https://open.spotify.com/album/0ANjZsI5VG8bkQ3TazrcsC) | 3:12 |
 | 35 | [Inferno](https://open.spotify.com/track/5zPjoPyyqF86YPM29qPV1r) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Inferno](https://open.spotify.com/album/463iEJLT9QwSToEtjvpGgs) | 3:33 |
 | 36 | [In Your Face \- Hard Driver Rework](https://open.spotify.com/track/1N0hazmkXNh25V42cgSQzb) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [In Your Face \(Hard Driver Rework\)](https://open.spotify.com/album/0boYbEj78P7kNTNG6u8cHs) | 2:37 |
-| 37 | [Bass Kick](https://open.spotify.com/track/13j4sxihwBe8dB4gymf8WR) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Revive](https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC) | [Bass Kick](https://open.spotify.com/album/7Eae47aT6fZ8kDhwj94NZw) | 3:51 |
+| 37 | [Bass Kick](https://open.spotify.com/track/13j4sxihwBe8dB4gymf8WR) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [Bass Kick](https://open.spotify.com/album/7Eae47aT6fZ8kDhwj94NZw) | 3:51 |
 | 38 | [Azure](https://open.spotify.com/track/3Jzcgf80Lshsndut6VukxT) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [The RED Race 2025 EP](https://open.spotify.com/album/2qbiDYSBFDG2X8SeACHwQj) | 3:37 |
 | 39 | [Summertime Madness](https://open.spotify.com/track/0N5s2NtgNo7QpePVtYjK9i) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Summertime Madness](https://open.spotify.com/album/5RpWAFjjsMWSMLVAawiV6k) | 2:43 |
 | 40 | [Time To Push It \(Warrior Workout 2025 OST\)](https://open.spotify.com/track/28vqTPj9cgQK5AkY1sc06h) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Stephanie Magic](https://open.spotify.com/artist/2w0QuE4RsEmNa94PAKnIWN) | [Time To Push It \(Warrior Workout 2025 OST\)](https://open.spotify.com/album/2UatAB5bnYKMVYaHKYGTFl) | 4:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [Van God Los \- Official 2025 Kamping Kitsch Club Anthem](https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Kamping Kitsch Club Soundsystem](https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG), [Boerin Anna](https://open.spotify.com/artist/35DH30n3qCSB631m0Ea9X8) | [Van God Los \(Official 2025 Kamping Kitsch Club Anthem\)](https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL) | 2:45 |
 | 90 | [E\-Motion](https://open.spotify.com/track/3sRCl4cti4esxQK8Y19kXO) | [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO), [Subtraqx](https://open.spotify.com/artist/7jMo6kJUzpjKlwckoAeiVP) | [E\-Motion](https://open.spotify.com/album/7irY2slmlkaHpgbK9ACZpi) | 3:29 |
 
-Snapshot ID: `aHlyegAAAACqK8vpPeoxbcIh/XreL28m`
+Snapshot ID: `AAAAABr4lsI3m/v1Nd12UuZJd4YeR+rd`

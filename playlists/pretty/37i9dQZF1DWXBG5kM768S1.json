@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79547,
+  "num_followers": 79555,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Annen som du",
-        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
-      },
-      "artists": [
-        {
-          "name": "Trang F\u00f8dsel",
-          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
-        }
-      ],
-      "duration_ms": 217703,
-      "name": "Annen som du",
-      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 299333,
       "name": "Bru over m\u00f8rke b\u00f8lger",
       "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Annen som du",
+        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
+      },
+      "artists": [
+        {
+          "name": "Trang F\u00f8dsel",
+          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
+        }
+      ],
+      "duration_ms": 217703,
+      "name": "Annen som du",
+      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "K\u00e6m va du?",
-        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Togsang",
-      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Monumental",
         "url": "https://open.spotify.com/album/5LPLarBQIRrBlAYj47vPf9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 230306,
       "name": "Monumental",
       "url": "https://open.spotify.com/track/3IlGkwahrujXd52GYxzP17"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "K\u00e6m va du?",
+        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Togsang",
+      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "De aller beste fra Tre sm\u00e5 kinesere",
-        "url": "https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx"
-      },
-      "artists": [
-        {
-          "name": "Tre Sm\u00e5 Kinesere",
-          "url": "https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "D\u00f8rstokkmila",
-      "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Aldri i livet",
         "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Livstegn",
-        "url": "https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb"
+        "name": "De aller beste fra Tre sm\u00e5 kinesere",
+        "url": "https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx"
       },
       "artists": [
         {
-          "name": "Ola Bremnes",
-          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
+          "name": "Tre Sm\u00e5 Kinesere",
+          "url": "https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Mi Pia. Din Gutt.",
-      "url": "https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF"
+      "duration_ms": 171066,
+      "name": "D\u00f8rstokkmila",
+      "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -847,6 +831,22 @@
       "duration_ms": 263706,
       "name": "Ikke slipp",
       "url": "https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Livstegn",
+        "url": "https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb"
+      },
+      "artists": [
+        {
+          "name": "Ola Bremnes",
+          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Mi Pia. Din Gutt.",
+      "url": "https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF"
     }
   ],
   "unique_name": "Norske viser",

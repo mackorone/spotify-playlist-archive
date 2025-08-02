@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Anhony Santos
 
-425 songs - 1 day 1 hr 43 min
+426 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [La Mitad](https://open.spotify.com/track/6pfnwdRuf1uE45kI3X5qk0) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [La Mitad](https://open.spotify.com/album/2S6LVTA5vZwBZdh8kQZTQ3) | 2:42 | 2022-03-04 | 2022-09-03 |
 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 | 2023-05-26 | 2024-01-13 |
 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 | 2022-03-04 | 2022-09-03 |
+| [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 | 2025-08-01 |  |
 | [La Serpiente](https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Serpiente](https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv) | 4:15 | 2022-03-04 | 2022-03-26 |
 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 | 2022-09-09 | 2023-05-27 |
 | [La Última Vez](https://open.spotify.com/track/3kEzaHB3XXZP5bxBjvt06T) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:40 | 2022-09-02 | 2022-09-10 |
@@ -236,7 +237,7 @@
 | [Lotería](https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:36 | 2022-03-04 | 2022-07-29 |
 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 | 2023-03-10 | 2024-01-13 |
 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 | 2024-01-12 | 2024-02-24 |
-| [Maestria En Bachatera](https://open.spotify.com/track/1wxnhjFMrM48nfmvyFQIWI) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Maestria En Bachatera](https://open.spotify.com/album/4EN8ehNXlYi3eS3Ujpbvzb) | 2:21 | 2024-11-22 |  |
+| [Maestria En Bachatera](https://open.spotify.com/track/1wxnhjFMrM48nfmvyFQIWI) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Maestria En Bachatera](https://open.spotify.com/album/4EN8ehNXlYi3eS3Ujpbvzb) | 2:21 | 2024-11-22 | 2025-08-02 |
 | [Mala](https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Deluxe](https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Mala](https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Mala](https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s) | 3:24 | 2022-07-19 | 2022-09-03 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Me Bebí Tu Recuerdo](https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW) | 3:28 | 2024-05-24 | 2024-10-12 |

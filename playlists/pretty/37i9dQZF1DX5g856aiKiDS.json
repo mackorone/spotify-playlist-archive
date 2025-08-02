@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 509567,
+  "num_followers": 509596,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-07-28 04:30:44",
       "album": {
+        "name": "lost in you",
+        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "lost in you",
+      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
+    },
+    {
+      "added_at": "2025-07-28 04:30:44",
+      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
-    },
-    {
-      "added_at": "2025-07-28 04:30:44",
-      "album": {
-        "name": "lost in you",
-        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "lost in you",
-      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
     },
     {
       "added_at": "2025-07-28 04:30:44",

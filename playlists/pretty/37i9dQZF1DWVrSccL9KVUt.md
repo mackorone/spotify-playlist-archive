@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,906 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,928 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 74 | [You Will Make A Way](https://open.spotify.com/track/61jyAFUcAgEKBI55uCKkpT) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/58h82eRAsZRTYrwQDvgclN) | 6:11 |
 | 75 | [Resurrection Song \(Thank Jesus\)](https://open.spotify.com/track/3N5p2OvXNmNkw6GRB1H9w2) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Resurrection Song \(Thank Jesus\)](https://open.spotify.com/album/4XOJijWrehK8L2BX0vUTTa) | 3:26 |
 
-Snapshot ID: `aEhQ/QAAAAAhlgokppUS68H04B8JqpPn`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

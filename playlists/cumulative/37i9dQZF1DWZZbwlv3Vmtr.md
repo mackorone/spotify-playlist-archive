@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,053 songs - 1 day 16 hr 46 min
+1,056 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A short break](https://open.spotify.com/track/6i2DGyzis8BuUJRnzbill2) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [A short break](https://open.spotify.com/album/2dARGp3nfUoyTl8JaNuq8E) | 2:02 | 2022-04-15 | 2022-05-14 |
 | [A Walk In The Park](https://open.spotify.com/track/7pVrmqr17ArAKyXcJn7SCB) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [A Walk In The Park](https://open.spotify.com/album/2Gu0OnHJgCGB1cIC1PU1kp) | 2:26 | 2022-10-28 | 2025-07-10 |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-05-29 |  |
-| [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2023-09-08 |  |
+| [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2023-09-08 | 2025-08-02 |
 | [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 | 2025-07-01 |
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 | 2025-07-10 |
 | [advanced language](https://open.spotify.com/track/7dJll5i9wNnBRu15GFfinK) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [advanced language](https://open.spotify.com/album/1PfDudxJRdBjR7S47UMBDj) | 2:16 | 2024-07-12 | 2024-08-31 |
@@ -411,6 +411,7 @@
 | [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2022-09-16 | 2023-10-20 |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
+| [industrial revolution](https://open.spotify.com/track/3BqQdX1CO7lrCmqJ9HgQUc) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [industrial revolution](https://open.spotify.com/album/1WLilNxc6z5tubDILatlZz) | 1:31 | 2025-08-01 |  |
 | [Inferno](https://open.spotify.com/track/7yhBLgecoRdhwxAduh5nP6) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Inferno](https://open.spotify.com/album/6Exg2bc6K2xHVGYcvGFG45) | 2:31 | 2024-01-12 | 2024-04-13 |
 | [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 | 2024-01-05 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 | 2025-07-19 |
@@ -464,7 +465,7 @@
 | [lavish](https://open.spotify.com/track/7hTE9yYF9dlFv6w3Ybh8S8) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [lavish](https://open.spotify.com/album/0TvDOPs9zI1WqiqK5Hsbko) | 2:03 | 2025-06-13 |  |
 | [Layer 11](https://open.spotify.com/track/1bGs3t13EhRBFpsriAPTrS) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Layer 11](https://open.spotify.com/album/0s6MSC4PuCQqllrO6FjAaI) | 2:20 | 2022-11-25 | 2025-07-10 |
 | [Layovers](https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv) | [Shapes N Clouds](https://open.spotify.com/artist/1hzy68RXMgXkGADAtpTHBl), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Layovers](https://open.spotify.com/album/0IBctredI1PfDUiPFP3OkB) | 2:49 | 2022-08-05 | 2022-10-14 |
-| [lazy](https://open.spotify.com/track/3mGpooqbPt5GddbS6U5Azr) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [lazy](https://open.spotify.com/album/0M4szo3iu3uNN36UR81JWX) | 2:17 | 2025-06-07 |  |
+| [lazy](https://open.spotify.com/track/3mGpooqbPt5GddbS6U5Azr) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [lazy](https://open.spotify.com/album/0M4szo3iu3uNN36UR81JWX) | 2:17 | 2025-06-07 | 2025-08-02 |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-04-15 | 2022-07-08 |
 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2022-08-19 | 2023-09-11 |
 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 | 2025-07-10 |
@@ -495,6 +496,7 @@
 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 | 2024-09-27 |  |
 | [London Fog](https://open.spotify.com/track/0GPdHDsdp4G9I2kPYIF4bJ) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [London Fog](https://open.spotify.com/album/1VFSW0adOoY2V7VGxh0lws) | 2:28 | 2022-09-16 | 2024-09-14 |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-04-15 | 2022-09-09 |
+| [lonely nights](https://open.spotify.com/track/02oyJrGlvHQ4sf7obYMJJk) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [lonely nights](https://open.spotify.com/album/1jZbrN0GqWFnJ8xZXo5IcC) | 2:03 | 2025-08-01 |  |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 | 2022-09-03 |
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2022-04-15 | 2025-07-10 |
 | [love Downpitch](https://open.spotify.com/track/6QdtafpgMQ52rXcFh6zskk) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [love Downpitch](https://open.spotify.com/album/40WNLhEvWDTrMG4HSQvqJY) | 1:54 | 2022-08-05 | 2022-10-29 |
@@ -949,6 +951,7 @@
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 | 2025-07-01 |
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 | 2023-09-22 |
+| [told u](https://open.spotify.com/track/13k2LSUYUuJq25wh0rdI2C) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [told u](https://open.spotify.com/album/1nYrFvnnKzsyqyQupSabNA) | 2:23 | 2025-08-01 |  |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |
 | [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2022-11-11 | 2023-10-20 |
 | [Tough Night](https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Tough Night](https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ) | 1:47 | 2023-11-17 |  |
@@ -1042,7 +1045,7 @@
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2022-04-15 | 2022-09-17 |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2022-09-09 | 2023-10-06 |
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2022-04-15 | 2022-06-03 |
-| [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 |  |
+| [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 | 2025-08-02 |
 | [written for you](https://open.spotify.com/track/3Wuyp3U5WhAoUrK07YhWyE) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [written for you](https://open.spotify.com/album/0Fx4PimV6xoaZYf3gVCAnM) | 2:28 | 2023-04-03 | 2023-10-20 |
 | [wrong room?](https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [wrong room?](https://open.spotify.com/album/7uTtXbBmXvfr227RczFqtt) | 2:29 | 2022-04-15 | 2025-06-14 |
 | [Wun](https://open.spotify.com/track/1gE2YJrgu8jRfLENtC9Bjf) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Wun](https://open.spotify.com/album/6oqzhDL5OBYl86OIMKWeKd) | 4:00 | 2022-04-15 | 2022-07-08 |

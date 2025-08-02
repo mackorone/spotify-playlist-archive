@@ -2,9 +2,9 @@
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover: Akshara
+> Best of South Asian diaspora\. Cover: REHMA
 
-257 songs - 13 hr 21 min
+258 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 | 2024-01-12 |  |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-10-06 |  |
 | [Devil In A Dress](https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/37Hau8GSFmAPCUHBpyZC6Z) | 1:51 | 2022-11-17 | 2024-04-19 |
+| [DEVOTION](https://open.spotify.com/track/67zZBmYZYYjX8c8kz27h7P) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [DEVOTION](https://open.spotify.com/album/14ywsEGBi8AFhMhyOPNIQH) | 2:21 | 2025-08-01 |  |
 | [DhinDhinDha](https://open.spotify.com/track/7r6hQkgYOnzyzsDwXcL0Xb) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [DhinDhinDha](https://open.spotify.com/album/2VgY3yDRc05WbXNw5vyYKl) | 3:15 | 2024-12-28 |  |
 | [Dhoka Diya](https://open.spotify.com/track/6lRX3myTd5VaRfHINwJEQO) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Simran Kaur](https://open.spotify.com/artist/6JnaYkxzGPRqAJlO9tzCkW) | [Dhoka Diya](https://open.spotify.com/album/5RnoSfyJlKhTPWJ04UDuwP) | 3:13 | 2025-01-23 |  |
 | [Dial Tone](https://open.spotify.com/track/0qVcNNWJgSvVfc8JJFEHwe) | [Shumaq](https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao) | [Dial Tone](https://open.spotify.com/album/3OhVBRXfCax9dqmLvnxSNh) | 1:26 | 2025-01-23 |  |
@@ -127,7 +128,7 @@
 | [Jinni Marji](https://open.spotify.com/track/7I5hp0Iep9aSMldVmCKJND) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR), [K\. Deep](https://open.spotify.com/artist/5zwaQqMhmh6tFqRTb9uplE) | [Jinni Marji](https://open.spotify.com/album/3aw1kjDpe5EwmWooPmrx8K) | 3:30 | 2022-07-18 | 2022-10-07 |
 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5iIHoQxObmmmsLL4lbAaCp) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:45 | 2024-07-02 |  |
 | [Just for You](https://open.spotify.com/track/4yRCn5EqEVrcTbzfvulnSR) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Just for You](https://open.spotify.com/album/3uZqhyBi5NS2sK6Zs0tqYu) | 2:33 | 2021-11-10 | 2022-05-27 |
-| [Kabool Na](https://open.spotify.com/track/3YremD1Bd3anXO6j4nQs9X) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Kabool Na](https://open.spotify.com/album/0uTVX4YdKwQkl2lFI6Ap0b) | 3:17 | 2024-01-12 |  |
+| [Kabool Na](https://open.spotify.com/track/3YremD1Bd3anXO6j4nQs9X) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Kabool Na](https://open.spotify.com/album/0uTVX4YdKwQkl2lFI6Ap0b) | 3:17 | 2024-01-12 | 2025-08-02 |
 | [Kangna](https://open.spotify.com/track/50UXBm0uC2FaKKnOrreUDG) | [JJ Esko](https://open.spotify.com/artist/34UvVIz1pxvFOQZt3fHNSv), [Bilal Shahid](https://open.spotify.com/artist/3e1b5YHWfO80pDTVulRlLk) | [Kangna](https://open.spotify.com/album/3szsxekNdNTTwX4645paMR) | 2:44 | 2024-09-09 |  |
 | [Keno Ajo Mon](https://open.spotify.com/track/66zGznK1UBEVYK6pz0sDhU) | [Habib Wahid](https://open.spotify.com/artist/60jYUgQzKAtnJoXKGk1GNn), [Dola Faruque](https://open.spotify.com/artist/7sqS4QGVZ9nLtMuG55tJV5) | [Keno Ajo Mon](https://open.spotify.com/album/0EWfNbRyvtmisoahd59Q0V) | 4:52 | 2022-07-18 | 2022-10-07 |
 | [Kill Me Slowly](https://open.spotify.com/track/3ZgC8QbdvmjFSzAbz7DWFl) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Kill Me Slowly](https://open.spotify.com/album/0MpNjsQJ1xnfSs61rP92zH) | 3:03 | 2021-11-10 | 2022-07-19 |

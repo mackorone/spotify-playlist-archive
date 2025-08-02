@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Things just got a little more despicable\. Listen to the music from the Despicable Me and Minions movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,741 likes - 67 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,935 likes - 67 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 66 | [Bad Gru Rising](https://open.spotify.com/track/6AphsqeI4p0VLY3nELde2M) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Minions: The Rise of Gru \(Original Motion Picture Score\)](https://open.spotify.com/album/0KWKfLiKQKrnbNWRXt0TW7) | 0:39 |
 | 67 | [You Can't Always Get What You Want](https://open.spotify.com/track/1KWErEUnleqvT1Uz5YbsFn) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Minions: The Rise of Gru \(Original Motion Picture Score\)](https://open.spotify.com/album/0KWKfLiKQKrnbNWRXt0TW7) | 2:42 |
 
-Snapshot ID: `ZpgOWwAAAACGWY/175HYlmmny7I3B6pw`
+Snapshot ID: `AAAAAHsZubsx08fsbiBYC/LPUyEOMjv9`

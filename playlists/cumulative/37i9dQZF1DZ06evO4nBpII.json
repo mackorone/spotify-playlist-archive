@@ -672,6 +672,24 @@
     {
       "album": {
         "name": "Saviors (\u00e9dition de luxe)",
+        "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123464,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/3OTGZhc6EuE1XZ8849hHi2"
+    },
+    {
+      "album": {
+        "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
       },
       "artists": [
@@ -704,7 +722,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 129895,
       "name": "Fuck Off - FIDLAR Alt Mix",
       "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"

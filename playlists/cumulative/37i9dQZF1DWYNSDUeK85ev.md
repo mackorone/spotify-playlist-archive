@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-476 songs - 1 day 3 hr 56 min
+477 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Chinax](https://open.spotify.com/track/6CRs2uNFau0JRFOYzK7BKt) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Chinax](https://open.spotify.com/album/0YtoqxPTLkluYIIrSKJfeJ) | 5:49 | 2022-05-13 | 2022-07-25 |
 | [Chivirica](https://open.spotify.com/track/2PjgJI3BKInMWtAld4djDo) | [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Chivirica](https://open.spotify.com/album/32nbXySy5WkipuCl29LDUb) | 1:57 | 2022-06-07 | 2022-07-09 |
 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 | 2024-05-10 | 2025-01-24 |
-| [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2022-05-13 |  |
+| [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2022-05-13 | 2025-08-02 |
 | [Comerte Toda](https://open.spotify.com/track/6yrHcAjJj6Dz58dRBsOLWT) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:19 | 2022-06-17 | 2022-06-24 |
 | [Como Lo Quiebra](https://open.spotify.com/track/50JR8HkAmRFK45IFrBopEV) | [Bebo Yau](https://open.spotify.com/artist/4HYs5I0CClwVmNwr81pIBs) | [Como Lo Quiebra](https://open.spotify.com/album/7uStTerpaJn1Isd0HDudBS) | 2:56 | 2022-06-17 | 2022-06-30 |
 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 | 2022-07-22 | 2023-02-11 |
@@ -257,6 +257,7 @@
 | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV) | 6:06 | 2023-03-10 | 2023-04-25 |
 | [Mix Los Palmeras \(Fer Palacio Remix\) El Bombón/ El Embrujo/ Perra/ La Cola/ Llévame Contigo/ Qué Quiere La Chola/ Sabalero](https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr) | [Mix Los Palmeras \- \(Fer Palacio Remix\)](https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G) | 9:53 | 2023-06-09 | 2023-11-16 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2022-05-13 |  |
+| [Modo Cabron](https://open.spotify.com/track/4BusOfeyzn3RCklmdZEzIi) | [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo), [Griimpa](https://open.spotify.com/artist/0W04Nzt7yr7Lwiqqzuaq8e), [LukyFlow](https://open.spotify.com/artist/3Uf4H22vt9gxpTUjZqMUvl) | [Modo Cabron](https://open.spotify.com/album/0gaf6PG9FRslNcTiPSCb8W) | 2:08 | 2025-08-01 |  |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2022-06-13 |  |
 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 | 2022-05-13 | 2025-06-20 |
 | [MUJERON](https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M) | [Reggi El Autentico](https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6) | [MUJERON](https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv) | 2:38 | 2025-06-27 |  |

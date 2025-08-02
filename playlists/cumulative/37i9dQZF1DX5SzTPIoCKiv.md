@@ -4,11 +4,12 @@
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Chris Tomlin
 
-284 songs - 18 hr 34 min
+285 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Love](https://open.spotify.com/track/0L8zR080QMU9x9SySCQUG5) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [inhale \(exhale\)](https://open.spotify.com/album/1fAi86dBU46L6ep8Vyn0cD) | 3:04 | 2021-10-15 | 2022-07-29 |
+| [A Thousand Times](https://open.spotify.com/track/1hmvM542L5jSQ6ZJjB7jTc) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Where The Joy Is](https://open.spotify.com/album/4zuIzG6tqt3ovxM1BC5Yyc) | 3:39 | 2025-08-01 |  |
 | [Ain't It Like Jesus](https://open.spotify.com/track/038fnqu6RuZPYmA0ukWJ27) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Ain't It Like Jesus](https://open.spotify.com/album/51baTdxVQbQozXA3le4rhd) | 3:15 | 2021-10-15 | 2022-07-23 |
 | [Ain't No Grave](https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t), [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [Ain't No Grave](https://open.spotify.com/album/2pIhMmn9JMn3qbfODX7WAb) | 5:07 | 2021-10-15 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2024-06-21 | 2024-11-30 |
@@ -52,7 +53,7 @@
 | [Come Jesus Come \- Radio Version](https://open.spotify.com/track/5SUQktBU6pgsvPSgG3uiLA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come \(Radio Version\)](https://open.spotify.com/album/7GOKgIxyfzPwmUyF1Mxjec) | 4:12 | 2025-05-02 |  |
 | [Come To the Table](https://open.spotify.com/track/1Y5YioVHxFvkyGlryt0x6O) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different](https://open.spotify.com/album/0qkC3g81DvOqLeUkKlICMF) | 4:15 | 2021-10-15 | 2024-11-23 |
 | [Come To the Table](https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 4:15 | 2021-10-15 | 2024-04-19 |
-| [Come What May](https://open.spotify.com/track/5zpuYdCR4Tmm7zv6wYgqMK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Come What May](https://open.spotify.com/album/3skjNvlGvAQwauNzv217yy) | 3:21 | 2021-10-15 |  |
+| [Come What May](https://open.spotify.com/track/5zpuYdCR4Tmm7zv6wYgqMK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Come What May](https://open.spotify.com/album/3skjNvlGvAQwauNzv217yy) | 3:21 | 2021-10-15 | 2025-08-02 |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2021-10-15 | 2022-07-17 |
 | [Confidence](https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:01 | 2021-10-15 | 2024-06-22 |
 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 | 2021-10-15 | 2024-11-30 |

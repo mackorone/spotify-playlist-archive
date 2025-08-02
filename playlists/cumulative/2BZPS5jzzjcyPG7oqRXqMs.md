@@ -4,7 +4,7 @@
 
 > Christian Soundtracks \(Movie + TV\) 2025 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
-326 songs - 20 hr 55 min
+327 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Through Heaven's Eyes](https://open.spotify.com/track/12DGqnxsrprq9TLVwtl90W) | [Gary Wilmot](https://open.spotify.com/artist/6l8s7sfUUtKQo7ZSo2y59P), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 3:17 | 2024-01-18 |  |
 | [Too Many Times](https://open.spotify.com/track/30IZvy8ndqVCUMohvLhcQu) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Too Many Times](https://open.spotify.com/album/3Pj5a3zsv1vJF9TYmXpUQR) | 3:25 | 2022-02-17 | 2022-08-27 |
 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-03-24 | 2024-01-19 |
+| [Triumphal Entry](https://open.spotify.com/track/0xRACuxFjErA1PJ0JwE7Mo) | [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2), [Dan Haseltine](https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1), [Matthew S\. Nelson](https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE) | [The Chosen: Season Five \(Original Series Soundtrack\)](https://open.spotify.com/album/0IlbLdGd38AXfZCUuVjyCX) | 7:32 | 2025-08-01 |  |
 | [Trouble](https://open.spotify.com/track/4sOaU6KbxN1uYeX3qNBjHH) | [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2), [Matthew S\. Nelson](https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE), [Dan Haseltine](https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1) | [The Chosen: Season One \(Original Series Soundtrack\)](https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh) | 1:20 | 2024-01-18 | 2024-01-20 |
 | [Trouble \(Extended Version\)](https://open.spotify.com/track/0KpigcKnKsCuQYxp54PgdM) | [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2), [The Lower Saints](https://open.spotify.com/artist/4kmBZ1zliEXWmrndZ3LjjE) | [The Chosen: Season Two \(Original Series Soundtrack\)](https://open.spotify.com/album/1PfprQflBixsM7k0SR7qko) | 3:31 | 2024-01-18 |  |
 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 | 2022-02-17 | 2022-08-27 |

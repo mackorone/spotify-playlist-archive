@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Arere (From \"Premistunnaa\")",
+        "url": "https://open.spotify.com/album/3S5VJ2CbJYYMHBJt54GH4j"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Arere (From \"Premistunnaa\")",
+      "url": "https://open.spotify.com/track/2wCxSEPz5IXC6olGd3mNf0"
+    },
+    {
+      "album": {
         "name": "Asathoma Sadgamaya (From \"Pathala Bhairavi\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5ykWon1Do8KXWSza1ANaFL"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 241496,
       "name": "Hey Naa Chandamama Nuvve Baava",
       "url": "https://open.spotify.com/track/7C6J2U0P8NmfaDTGZGvwsU"

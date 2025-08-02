@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-302 songs - 18 hr 54 min
+303 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-01-24 | 2023-01-04 |
 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:45 | 2022-09-21 |  |
 | [Blue On Black \(feat\. Kenny Wayne Shepherd, Brantley Gilbert & Brian May\)](https://open.spotify.com/track/3lwpE0SEaQV5DWNjqMtYEk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3) | [Blue On Black \(feat\. Kenny Wayne Shepherd, Brantley Gilbert & Brian May\)](https://open.spotify.com/album/5CmhQvNnH3x3xObNLccLxh) | 4:34 | 2021-08-20 | 2023-01-04 |
+| [Blue Sky Mystery \(feat\. Filter\)](https://open.spotify.com/track/72gBNYH0KolUEsjBC6RZeU) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Blue Sky Mystery \(feat\. Filter\)](https://open.spotify.com/album/6gUkP7xvWusAPr1VmHPGJB) | 3:14 | 2025-08-01 |  |
 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2021-11-16 |  |
 | [Bones Exposed](https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 4:15 | 2022-01-24 | 2024-04-10 |
 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 | 2022-01-25 |  |

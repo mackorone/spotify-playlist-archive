@@ -1,13 +1,65 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:3Y10boYzeuFCJ4Qgp53w6o\"> Scissor Sisters </a>",
-  "num_followers": 4148,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFP8Ixo8m8jnE\">Ambr\u00e9</a>",
+  "num_followers": 4163,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T",
+  "snapshot_id": "aIw72gAAAADkGC9GhJEa6oKolm/roCuP",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:26",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "band practice",
+      "url": "https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly"
+    },
+    {
+      "added_at": "2025-08-01 04:00:26",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 137841,
+      "name": "Drake and Drive",
+      "url": "https://open.spotify.com/track/7eh6esjOCkDkcYU31h6few"
+    },
+    {
+      "added_at": "2025-08-01 04:00:26",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "ELEVATE (ft. Mack Keane)",
+      "url": "https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me"
+    },
     {
       "added_at": "2025-07-07 14:46:28",
       "album": {
@@ -807,54 +859,6 @@
       "duration_ms": 183821,
       "name": "Good Dream",
       "url": "https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV"
-    },
-    {
-      "added_at": "2025-04-04 04:00:26",
-      "album": {
-        "name": "Strobe Lights",
-        "url": "https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF"
-      },
-      "artists": [
-        {
-          "name": "Red Sebastian",
-          "url": "https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Strobe Lights",
-      "url": "https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV"
-    },
-    {
-      "added_at": "2025-04-04 04:00:26",
-      "album": {
-        "name": "Overdue",
-        "url": "https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ"
-      },
-      "artists": [
-        {
-          "name": "RENE",
-          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Overdue",
-      "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:26",
-      "album": {
-        "name": "Kiss Kiss Goodbye",
-        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
-      },
-      "artists": [
-        {
-          "name": "ADONXS",
-          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Kiss Kiss Goodbye",
-      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
     }
   ],
   "unique_name": "GLOW Songwriters",

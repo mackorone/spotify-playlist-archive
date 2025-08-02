@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "Music from Disney Starlight",
+        "url": "https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jedha",
+          "url": "https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC"
+        },
+        {
+          "name": "Tim Heintz",
+          "url": "https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/668nh735jn48EkkpXlDA03"
+    },
+    {
+      "album": {
         "name": "Frozen: The Broadway Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4"
       },

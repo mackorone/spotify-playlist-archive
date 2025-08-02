@@ -4,29 +4,19 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,893 likes - 20 songs - 1 hr 6 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,896 likes - 10 songs - 32 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
-| 2 | [My Heart \(Is Full Of Love\)](https://open.spotify.com/track/1eRJrKnLTiEypVEhN9fRPJ) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Union](https://open.spotify.com/album/0cTaflAQAHx4Z0ZmtchnvY) | 3:11 |
-| 3 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 |
-| 4 | [I'm Not Hungry Anymore](https://open.spotify.com/track/39YRKP6Q3biShH4vjQs8pg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Froot \(10 Year Anniversary Edition\)](https://open.spotify.com/album/0IXVdprkb9tOZ66t6dvqV5) | 4:05 |
-| 5 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 |
-| 6 | [The Minute You Go](https://open.spotify.com/track/29AVqRsGs7tYtvctjMaqP2) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [The Minute You Go](https://open.spotify.com/album/4YF2nZHAZXHI3AfLJrZvdO) | 3:19 |
-| 7 | [WHITE TIGER](https://open.spotify.com/track/1XeigXO4X2lJUTBbe3dHIn) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [ROCKR ROOM](https://open.spotify.com/album/0rH1ZkVSYhO1zEiok2qYJ5) | 2:56 |
-| 8 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
-| 9 | [Summer of Love](https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Summer of Love](https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC) | 3:23 |
-| 10 | [Famous](https://open.spotify.com/track/1qSDm6v6QILrMaIbzFTjnb) | [Keenan Smits](https://open.spotify.com/artist/0eB9PRMcxxiUCKlwnMkWr7) | [Famous](https://open.spotify.com/album/3MTaJnTtAuyvpnWQWNBWJz) | 2:32 |
-| 11 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 12 | [Devil In Disguise](https://open.spotify.com/track/63LiFwXnspFyyK1erNyb0e) | [LLL](https://open.spotify.com/artist/13FoW33FvNgCJZf7KMbOoz) | [Devil In Disguise](https://open.spotify.com/album/3LcEc8tepT9lPZJMQfhGjl) | 2:21 |
-| 13 | [Sweet n' Low](https://open.spotify.com/track/1OG3R8TE8KMIIjXFQBxRic) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Sweet n' Low](https://open.spotify.com/album/20DAgaZMBGBBIbdUbfStci) | 2:57 |
-| 14 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
-| 15 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
-| 16 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
-| 17 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
-| 18 | [LIKE U](https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [LIKE U](https://open.spotify.com/album/4BME1fpCdQrJeeKu8dD1np) | 2:25 |
-| 19 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
-| 20 | [enough](https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [SIDEQUEST](https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD) | 2:58 |
+| 1 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 |
+| 2 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
+| 3 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 |
+| 4 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 5 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
+| 6 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
+| 7 | [Everything Changes \(But I Won't\) \(ft\. Shygirl & Casey MQ\)](https://open.spotify.com/track/60Jqns1ivZYGsupZATGbXv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [Everything Changes \(But I Won't\) \(ft\. Shygirl & Casey MQ\)](https://open.spotify.com/album/5uK8jgBCw1slqIixAJwdYh) | 3:55 |
+| 8 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 |
+| 9 | [More](https://open.spotify.com/track/79aYvOC7g1gyS9i2Jwm3uU) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More](https://open.spotify.com/album/0HcKFOUOM5DUcICjAdxhp7) | 2:38 |
+| 10 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 |
 
-Snapshot ID: `AAALaM1aUNhjd3mT56na/N1lE2g05pIY`
+Snapshot ID: `AAALa+mV6jpOC6x+Y4Oir0iFNGdt5Ic4`

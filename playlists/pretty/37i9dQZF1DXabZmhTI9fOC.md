@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,706 likes - 219 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,716 likes - 219 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 218 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 219 | [Make Me Feel \- EDX Dubai Skyline Remix](https://open.spotify.com/track/2m7QTaFkY4n1EEqZyVvAPe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Make Me Feel \(EDX Dubai Skyline Remix\)](https://open.spotify.com/album/6Bp12kD2uGgjtq2g7CWQaW) | 3:25 |
 
-Snapshot ID: `AAAAAKsZ3osnmpzRacoXLqx140NwlDBO`
+Snapshot ID: `aHW2JAAAAADCNtUUPW1fPmrNrPapKGho`

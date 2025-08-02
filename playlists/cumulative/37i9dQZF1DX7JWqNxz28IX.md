@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-333 songs - 15 hr 6 min
+334 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Buio](https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Buio](https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q) | 2:22 | 2025-02-07 | 2025-04-11 |
 | [Bullshit](https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Bullshit](https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI) | 2:10 | 2023-06-14 | 2023-09-30 |
 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 | 2023-01-20 |  |
+| [castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [castles](https://open.spotify.com/album/26dxoE2E0uXPs8zhlo7PxR) | 2:24 | 2025-07-31 |  |
 | [Cattivi ragazzi per bene](https://open.spotify.com/track/6Rscz9jgGiI6A3lc7XNRZK) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [DIMENTICARE IL MONDO](https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n) | 2:48 | 2025-02-07 | 2025-07-12 |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 | 2022-12-09 |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-08 |  |
@@ -335,7 +336,7 @@
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2024-01-19 | 2025-03-22 |
 | [white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/2tLt6wYVuseWCe6IwDSlTm) | 2:12 | 2025-07-11 |  |
 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 | 2022-04-21 |  |
-| [witchblades](https://open.spotify.com/track/57NsyEzmk0NT3NcOwuQT55) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [CASTLES II](https://open.spotify.com/album/3XoCzKMQ3rOk06y6u0GWCZ) | 2:29 | 2025-07-11 |  |
+| [witchblades](https://open.spotify.com/track/57NsyEzmk0NT3NcOwuQT55) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [CASTLES II](https://open.spotify.com/album/3XoCzKMQ3rOk06y6u0GWCZ) | 2:29 | 2025-07-11 | 2025-08-02 |
 | [x dimenticarti](https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [x dimenticarti](https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu) | 2:16 | 2022-06-02 | 2022-12-15 |
 | [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 | 2022-09-08 | 2025-07-12 |
 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 | 2022-04-21 |  |

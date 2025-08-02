@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Spada
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,574 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,797 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 18 | [ROLLERCOASTER](https://open.spotify.com/track/71Qaa8eznI1P5e3bsuXkgP) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [ROLLERCOASTER](https://open.spotify.com/album/6XaRN0Z5WGMZyRwVxYsU6g) | 3:37 |
 | 19 | [Elevate](https://open.spotify.com/track/1uleW3FHUtKRIfsXkSMkOU) | [Atric](https://open.spotify.com/artist/5JGnzT3iv4izDNPbH8cUj3), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Elevate](https://open.spotify.com/album/1haSkIvyPkHfd0rcSg2TxA) | 3:02 |
 | 20 | [I‘m still here](https://open.spotify.com/track/7tQx0xVAppO7fWVQ61qopb) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp) | [I‘m still here](https://open.spotify.com/album/5T0k1apL1XDQ0sBHNrfHFX) | 6:06 |
-| 21 | [Ninety \- Two](https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Ninety \- Two](https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10) | 4:59 |
+| 21 | [NINETY \- TWO](https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [NINETY \- TWO](https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10) | 4:59 |
 | 22 | [toldmyself](https://open.spotify.com/track/1b7A3YbtGZQFTPCp4jAkfq) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [toldmyself](https://open.spotify.com/album/5vKr08XyzXsSyFNBS6X1am) | 4:18 |
 | 23 | [Nirvana](https://open.spotify.com/track/5gQixO5IwCq4oY4aO5DLma) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Nirvana](https://open.spotify.com/album/1v59TdZcTGNF3bhAjfwI3H) | 6:58 |
 | 24 | [Ayoo \- Short Version](https://open.spotify.com/track/30zRvWidtb0qDXPRehCqIM) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ayoo](https://open.spotify.com/album/0A39f9tHR1TB6vRd4KskNc) | 4:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 | 90 | [Last](https://open.spotify.com/track/4NL0Dww7e7rQxNFgf2FRga) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Universe Pt\. I](https://open.spotify.com/album/4G6y4BkFm8nCuuIQi5GUpP) | 3:13 |
 
-Snapshot ID: `aIvngAAAAADfqtKUcb4oPAG6KVTe/bO0`
+Snapshot ID: `AAAAAIKJLW6U1Nx9xZL/5IK99ns16ZLA`

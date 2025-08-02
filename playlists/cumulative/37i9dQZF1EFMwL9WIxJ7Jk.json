@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Thank You (Deluxe)",
+        "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/0uWvOSAF7HHTof2lwM9Ws9"
+    },
+    {
+      "album": {
         "name": "Hurt Me (From \"Songland\")",
         "url": "https://open.spotify.com/album/4YP60BnlLCXFtfKun5GBje"
       },

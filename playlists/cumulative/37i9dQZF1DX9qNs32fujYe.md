@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
 
-1,102 songs - 3 day 8 hr 22 min
+1,104 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |
 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 | 2022-08-19 | 2023-03-11 |
-| [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 | 2024-06-21 |  |
+| [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 | 2024-06-21 | 2025-08-02 |
 | [Hangman's Night \(feat\. Dominum\)](https://open.spotify.com/track/4OEqIh1lLFUXvmnzLPpSfO) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9) | [Hangman's Night](https://open.spotify.com/album/0hJn68LUWohM7Sj7bgtiHV) | 3:48 | 2025-07-04 |  |
 | [Hard Habit](https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [The Name Lives On](https://open.spotify.com/album/4GklZdIbTbc8ArDurfTCT6) | 3:40 | 2023-05-05 | 2023-10-07 |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 | 2023-03-11 |
@@ -579,7 +579,7 @@
 | [Metal Is for Everyone](https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master of Light](https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W) | 4:52 | 2022-07-08 | 2024-04-19 |
 | [Metal Supremacia](https://open.spotify.com/track/0xPYFEuqIQM9WQ2IIIq6Qf) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Nostalgia](https://open.spotify.com/album/6fK73XeJneVXkMMuYHLXJG) | 2:53 | 2023-05-05 | 2023-05-13 |
 | [Midnight Bells](https://open.spotify.com/track/7msGMGvVPC1bM40OSfCSSL) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Midnight Bells](https://open.spotify.com/album/50KHCM271IC4nZmnP5v8Bq) | 4:17 | 2022-01-21 | 2022-06-21 |
-| [Midnight Messiah](https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Midnight Messiah](https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP) | 7:58 | 2025-01-31 |  |
+| [Midnight Messiah](https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Midnight Messiah](https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP) | 7:58 | 2025-01-31 | 2025-08-02 |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-08-20 |
 | [Midwinter Calls](https://open.spotify.com/track/6rnE3rORv6kUDLoFlgNrq4) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Midwinter Calls](https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h) | 5:06 | 2022-03-25 | 2022-07-29 |
 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 | 2022-09-23 | 2022-10-07 |
@@ -790,6 +790,7 @@
 | [Seeking Vengeance](https://open.spotify.com/track/1ptwp6FZif8vg2J6nf3rGQ) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Seeking Vengeance](https://open.spotify.com/album/2Zj3krONew6sdbKcfq9k7u) | 5:22 | 2024-05-03 | 2024-06-26 |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-08 |  |
 | [Sermons of the Sinner](https://open.spotify.com/track/1t31VXgKUO3TvxXKz9OO8q) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Sermons of the Sinner](https://open.spotify.com/album/5M3iDNGrwaF8emK4COEgdM) | 5:25 | 2021-12-17 | 2022-06-19 |
+| [Serpent On The Cross](https://open.spotify.com/track/01wpesgkbK6NLPhEnSJYFd) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Serpent On The Cross](https://open.spotify.com/album/6opi057QpBE2HPSUKLNhpE) | 6:13 | 2025-08-01 |  |
 | [Serpentine](https://open.spotify.com/track/7Ljmzd9qsvXBEKLtHuqpWn) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Serpentine](https://open.spotify.com/album/1qIMvM6njipAAzCGemCdlv) | 4:16 | 2021-12-17 | 2022-05-25 |
 | [Seven Headed Whore](https://open.spotify.com/track/1hMe8GvsGxd2Z442FDVg5Y) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Incorruptible](https://open.spotify.com/album/7jdSTiR96uRP2BsetUSLKB) | 3:00 | 2022-01-14 | 2024-05-03 |
 | [Shadowminds](https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Shadowminds](https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc) | 3:53 | 2021-12-17 | 2022-01-22 |
@@ -889,6 +890,7 @@
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |
 | [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2024-04-19 |
 | [Tears of a Mandrake](https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Monuments](https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa) | 7:14 | 2021-12-17 | 2022-04-21 |
+| [Tears of Fire](https://open.spotify.com/track/3dLign14FMWFrqUf6HYXQq) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Tears Of Fire](https://open.spotify.com/album/0pIqvJbxMhliccVA99Au5Y) | 5:04 | 2025-08-01 |  |
 | [Tears of the Dragon \- 2025 Reimagined Version](https://open.spotify.com/track/1lG0H7zj17dnckJtANNX6A) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [More Balls to Picasso](https://open.spotify.com/album/01fx7s6x1cHsu7pPuM31B8) | 6:26 | 2025-07-25 |  |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-04-25 | 2025-06-07 |
 | [Temples And Towers](https://open.spotify.com/track/6jNJY9mDWROqXDJmU6AXnj) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh) | [We Are The Night \(Japan Edition\)](https://open.spotify.com/album/62M2HHDi2MgWE9e2eyUgwX) | 5:37 | 2022-01-07 | 2022-04-18 |

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  ONSE Artwork: Isu Kim
 
-3,494 songs - 8 day 12 hr 37 min
+3,495 songs - 8 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3197,6 +3197,7 @@
 | [True](https://open.spotify.com/track/5fe6A5ekVXnPzmBp2SzYby) | [Jericho Streegan](https://open.spotify.com/artist/50ddy0bVuy8U6cyezElGP7) | [True](https://open.spotify.com/album/3322BLW9dNAQxagQEumOHX) | 3:47 | 2023-02-09 | 2023-02-24 |
 | [TRUE RELIGION](https://open.spotify.com/track/41HU2aLluwIOuHM2GfhmLI) | [Wolbsgvng](https://open.spotify.com/artist/2XHpjkMhIJP373b5WVwKvM) | [TRUE RELIGION](https://open.spotify.com/album/40QpFn8IlK6SK18RtppHgw) | 2:18 | 2024-08-15 | 2024-09-20 |
 | [Trust](https://open.spotify.com/track/2BGVkX3mVS4bIoH43jupjY) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Trust](https://open.spotify.com/album/0gLZjk2jlHVQOPORfj9jh9) | 2:59 | 2022-08-11 | 2023-01-13 |
+| [TRUST](https://open.spotify.com/track/1yKWFw4Obusu9HkzZM2GPp) | [kzda](https://open.spotify.com/artist/4gNGrJh3teSfwQQu0dPtjH) | [TRUST](https://open.spotify.com/album/1HfbuJlUdaLJdJHt0rkWMY) | 1:57 | 2025-07-31 |  |
 | [Truth](https://open.spotify.com/track/4IXDjMZgsmonWwRDXtjP6w) | [Eloisa](https://open.spotify.com/artist/5mDsFqB6IM7KUbrk9pOZEF) | [Truth](https://open.spotify.com/album/1nLGUM2e0ZuT6Mh9jw6i8x) | 3:55 | 2023-08-31 | 2023-09-22 |
 | [truthfully \(i love you more than you love me\)](https://open.spotify.com/track/27TE2KZx5XAvvcqXHGO2tt) | [jiofu](https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU) | [truthfully \(i love you more than you love me\)](https://open.spotify.com/album/4uIFs8oYHXMFMKz3AKxzgc) | 3:02 | 2025-07-10 |  |
 | [Try Again](https://open.spotify.com/track/4TsEFvLadJ4HM1zhBr0Nl3) | [Meg Ruiz](https://open.spotify.com/artist/7wWYbs3ZjtEM83TFUjkXCR) | [Try Again](https://open.spotify.com/album/3XKuTz0Lbl2fDZSlG570iD) | 4:54 | 2023-07-20 | 2023-08-11 |

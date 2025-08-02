@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 10434657,
+  "num_followers": 10440190,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIPQ7AAAAACaSyNF3HgD6EHtGZu5h1uH",
+  "snapshot_id": "aIzz7wAAAACVje2QyhiCxxkufkao7AuH",
   "tracks": [
     {
       "added_at": "2025-05-30 16:13:27",
@@ -77,30 +77,6 @@
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
-      "added_at": "2025-07-25 18:46:04",
-      "album": {
-        "name": "MONTAGEM XONADA",
-        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
-      },
-      "artists": [
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        },
-        {
-          "name": "DJ Javi26",
-          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
-        }
-      ],
-      "duration_ms": 75682,
-      "name": "MONTAGEM XONADA",
-      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
-    },
-    {
       "added_at": "2025-04-25 14:06:35",
       "album": {
         "name": "MONTAGEM BAIL\u00c3O",
@@ -139,6 +115,30 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "added_at": "2025-07-25 18:46:04",
+      "album": {
+        "name": "MONTAGEM XONADA",
+        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "DJ Javi26",
+          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
+        }
+      ],
+      "duration_ms": 75682,
+      "name": "MONTAGEM XONADA",
+      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -201,58 +201,6 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2024-10-04 13:19:49",
-      "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
-    },
-    {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
       "added_at": "2025-07-14 17:03:16",
       "album": {
         "name": "MENTE M\u00c1",
@@ -271,6 +219,22 @@
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
+    },
+    {
+      "added_at": "2024-10-04 13:19:49",
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -293,20 +257,60 @@
       "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
-      "added_at": "2024-04-26 14:45:00",
+      "added_at": "2025-07-25 18:46:04",
       "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
       "artists": [
         {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
         }
       ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
+    },
+    {
+      "added_at": "2024-03-29 15:57:27",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2024-07-05 13:50:01",
@@ -369,6 +373,22 @@
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
     },
     {
+      "added_at": "2024-04-26 14:45:00",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
       "added_at": "2024-09-20 15:04:16",
       "album": {
         "name": "VAPO NO SETOR",
@@ -425,26 +445,6 @@
       "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
     },
     {
-      "added_at": "2024-02-09 15:25:18",
-      "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
       "added_at": "2024-03-22 16:01:00",
       "album": {
         "name": "CUTE DEPRESSED",
@@ -459,54 +459,6 @@
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2024-05-17 14:03:55",
-      "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
-      },
-      "artists": [
-        {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
-        }
-      ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-05-20 10:12:52",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2025-07-25 18:46:04",
@@ -581,6 +533,74 @@
       "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
+      "added_at": "2024-05-17 14:03:55",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-05-20 10:12:52",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2024-02-09 15:25:18",
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
       "added_at": "2025-03-21 14:02:34",
       "album": {
         "name": "SPACE!",
@@ -635,6 +655,38 @@
       "duration_ms": 120796,
       "name": "hypnotic - super slowed",
       "url": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
+    },
+    {
+      "added_at": "2025-05-23 14:25:30",
+      "album": {
+        "name": "OLHA MENSAGEM",
+        "url": "https://open.spotify.com/album/6L63sOxoncxwRrf2ktyudM"
+      },
+      "artists": [
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "KGJ",
+          "url": "https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM"
+        }
+      ],
+      "duration_ms": 100714,
+      "name": "OLHA MENSAGEM",
+      "url": "https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG"
     },
     {
       "added_at": "2024-04-12 15:41:29",
@@ -713,26 +765,6 @@
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
-      },
-      "artists": [
-        {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        }
-      ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
-    },
-    {
       "added_at": "2024-07-12 15:05:31",
       "album": {
         "name": "NEXT!",
@@ -795,6 +827,26 @@
       "duration_ms": 132961,
       "name": "MONTAGEM GREEN RENITCH V1 - Edit Version",
       "url": "https://open.spotify.com/track/2Y0u2PBWkjyZXwNqbdfpV1"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -885,6 +937,26 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
+      "added_at": "2025-08-01 17:05:50",
+      "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
+    },
+    {
       "added_at": "2023-10-20 10:30:53",
       "album": {
         "name": "Memphis Cult Vol. 6",
@@ -907,26 +979,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
-    },
-    {
-      "added_at": "2025-07-25 18:46:04",
-      "album": {
-        "name": "CLIMA LINDO",
-        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
-      },
-      "artists": [
-        {
-          "name": "GXMZ",
-          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
-        },
-        {
-          "name": "Repsaj",
-          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
-        }
-      ],
-      "duration_ms": 81995,
-      "name": "CLIMA LINDO - SLOWED",
-      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
     },
     {
       "added_at": "2025-02-07 17:17:30",
@@ -955,38 +1007,6 @@
       "duration_ms": 113161,
       "name": "SLAVA FUNK!",
       "url": "https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme"
-    },
-    {
-      "added_at": "2025-05-23 14:25:30",
-      "album": {
-        "name": "OLHA MENSAGEM",
-        "url": "https://open.spotify.com/album/6L63sOxoncxwRrf2ktyudM"
-      },
-      "artists": [
-        {
-          "name": "SEKIMANE",
-          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "NXGHT!",
-          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "KGJ",
-          "url": "https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM"
-        }
-      ],
-      "duration_ms": 100714,
-      "name": "OLHA MENSAGEM",
-      "url": "https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG"
     },
     {
       "added_at": "2024-10-11 19:53:38",
@@ -1237,24 +1257,24 @@
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
-      "added_at": "2025-07-14 17:03:16",
+      "added_at": "2025-08-01 17:05:50",
       "album": {
-        "name": "Montagem Bandido",
-        "url": "https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy"
+        "name": "Montagem Supersonic",
+        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
       "artists": [
         {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
         },
         {
-          "name": "Itamar Mc",
-          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
         }
       ],
-      "duration_ms": 97606,
-      "name": "Montagem Bandido - Slowed",
-      "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
+      "duration_ms": 87816,
+      "name": "Montagem Supersonic",
+      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -1775,34 +1795,6 @@
       "duration_ms": 170650,
       "name": "MONTAGEM ALUCINANTE",
       "url": "https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF"
-    },
-    {
-      "added_at": "2024-10-04 13:19:49",
-      "album": {
-        "name": "Montagem Melodia Explosiva",
-        "url": "https://open.spotify.com/album/3D2j7JQjj9Kjc8sOfikmV6"
-      },
-      "artists": [
-        {
-          "name": "Vermillion",
-          "url": "https://open.spotify.com/artist/1PvcWjADPMezv8CTyJO9Uk"
-        },
-        {
-          "name": "ICEDMANE",
-          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
-        },
-        {
-          "name": "DYSMANE",
-          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
-        },
-        {
-          "name": "Mc Dido",
-          "url": "https://open.spotify.com/artist/3AbeBDqk7IsG1JZEWVVcpY"
-        }
-      ],
-      "duration_ms": 104347,
-      "name": "Montagem Melodia Explosiva - Slowed",
-      "url": "https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ"
     },
     {
       "added_at": "2024-08-16 14:23:00",

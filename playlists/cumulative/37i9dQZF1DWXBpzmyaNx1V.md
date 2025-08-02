@@ -4,7 +4,7 @@
 
 > Nos vemos en el Primer Gran Festival de Bandemia, 2 de agosto del 2025 en la CDMX.
 
-217 songs - 14 hr 39 min
+221 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,10 @@
 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 | 2022-03-13 | 2024-02-17 |
 | [East Hastings](https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 17:58 | 2024-02-16 | 2024-06-06 |
 | [Easy](https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Crux](https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7) | 4:02 | 2024-02-16 | 2024-06-06 |
+| [el cerezo](https://open.spotify.com/track/24TcFfXeG36el9nTHOszFQ) | [delirio](https://open.spotify.com/artist/0gZVXdOxxMVdChiaOe25Yo) | [guácharo](https://open.spotify.com/album/0Mr1EYUVCgnr55LJ3DNoUk) | 3:23 | 2025-08-01 |  |
 | [El Cuarto Blu](https://open.spotify.com/track/6mOMbkHuMwcVctGFet37nh) | [Jaxho](https://open.spotify.com/artist/0KEOYaMwjec0pNYa19P8Gt) | [El Cuarto Blu](https://open.spotify.com/album/6cvPEsuwdbUdPPXGA4NPwf) | 3:35 | 2025-05-21 |  |
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 4:24 | 2022-03-13 | 2024-01-12 |
+| [El Ruido Inmersivo De Los Sueños](https://open.spotify.com/track/5E8XpnrXWS5AVLEUhKr4Av) | [El Ruido Inmersivo de los Sueños](https://open.spotify.com/artist/377Ar7C6GQX6YexaDLUMMV) | [Voluntad Ultravioleta](https://open.spotify.com/album/4R4PUigrs4sfijx7VQbLE3) | 3:34 | 2025-08-01 |  |
 | [El Suspiro Cambia Todo](https://open.spotify.com/track/3RRUvBHPA4app6us7MVLEg) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Aprender a Ser](https://open.spotify.com/album/0CsgEPsAa8G8CJNS0WikEr) | 2:34 | 2025-05-21 |  |
 | [Electricide](https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Electricide B/W Chalice](https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P) | 3:36 | 2024-06-06 | 2025-05-22 |
 | [Elegy for Love](https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Melodi](https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9) | 3:37 | 2022-03-13 | 2024-01-26 |
@@ -116,6 +118,7 @@
 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 | 2024-06-06 | 2025-05-22 |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2024-06-06 | 2025-05-22 |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2022-03-13 | 2024-02-17 |
+| [La Noche Total](https://open.spotify.com/track/37KqGemvDUg1rivcor7rfM) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Soy Piedra](https://open.spotify.com/album/1kVZJm79gp8Hi5mFozt056) | 3:03 | 2025-08-01 |  |
 | [la piedad](https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 3:38 | 2025-05-21 |  |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 | 2024-02-16 | 2024-06-06 |
 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 | 2024-02-16 | 2024-06-06 |
@@ -188,6 +191,7 @@
 | [Soundcheck](https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:56 | 2024-02-16 | 2024-06-06 |
 | [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 | 2023-04-11 | 2024-02-17 |
 | [Storm](https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 22:32 | 2024-02-16 | 2024-06-06 |
+| [Suaves son los Días](https://open.spotify.com/track/0JPkblKLTFG46NfkTZ78yw) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [No para siempre](https://open.spotify.com/artist/2oxeLuG3ieRRYlHqQjqixS), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [LLAMAS LLAMAS LLAMAS](https://open.spotify.com/album/7Mn2CIZeX1NrvgHRnQshJR) | 3:21 | 2025-08-01 |  |
 | [Suena Como Japonés](https://open.spotify.com/track/6NF9VYsbCVDF7uzWMkFCpr) | [Leoguzpe](https://open.spotify.com/artist/3SV1EoAVjqKN9NLG33UPhc) | [que rico es ver llover y no mojarse](https://open.spotify.com/album/79S9rt1NxXOvC2kWZ0H05h) | 2:13 | 2025-05-21 |  |
 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-05-21 |  |
 | [sulky baby](https://open.spotify.com/track/2Euwbryh21DOB5zEH0WT4P) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:38 | 2024-02-16 | 2024-06-06 |

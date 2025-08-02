@@ -1355,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "Heaven On Their Minds (From \"Jesus Christ Superstar\")",
+        "url": "https://open.spotify.com/album/6687vPzMwbsV1rvrxHdhNw"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275669,
+      "name": "Heaven On Their Minds (From \"Jesus Christ Superstar\")",
+      "url": "https://open.spotify.com/track/6r4lOUxdfgYO9MjJsiXwzP"
+    },
+    {
+      "album": {
         "name": "The Book Of Mormon (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
       },
@@ -3300,7 +3322,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 369706,
       "name": "Raise You Up / Just Be",
       "url": "https://open.spotify.com/track/7wPKI3MoEixp4m36JYbmQf"

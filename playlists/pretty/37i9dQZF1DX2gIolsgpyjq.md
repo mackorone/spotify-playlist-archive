@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,388 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,400 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More](https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [More](https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF) | 2:21 |
 | 2 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
-| 3 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Elma](https://open.spotify.com/artist/7HDNms3tNyYRGZjGrf8tzW) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
+| 3 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
 | 4 | [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 |
 | 5 | [Taste For You](https://open.spotify.com/track/1JQsbWWUYg3GH4nmv6YQus) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Taste For You](https://open.spotify.com/album/7lvwrHcxTUZyeEy7TjGwwQ) | 3:29 |
 | 6 | [Watershed](https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/5DD63LXBQgk9mfD7V0euLs) | 2:41 |

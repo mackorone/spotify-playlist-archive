@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Bino Rideaux\n",
+  "description": "Holdin' it down for the westside. Cover: Peysoh\n",
   "name": "Westside",
   "tracks": [
     {
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "4 A NECKLACE",
+        "url": "https://open.spotify.com/album/5EdwOt2TzQZoQRrp00xtUx"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "4 A NECKLACE",
+      "url": "https://open.spotify.com/track/2tDZ7yyQalD8f3a3C0ly9r"
+    },
+    {
+      "album": {
         "name": "4 shots of your body",
         "url": "https://open.spotify.com/album/5GkMdI5xaRbEJ0z1ROhg58"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 152000,
       "name": "7HR DRIVE",
       "url": "https://open.spotify.com/track/7wZjYlRCZ80rExiryIsNxo"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 143595,
       "name": "ALLAT",
       "url": "https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 118582,
       "name": "Alone In My Thoughts",
       "url": "https://open.spotify.com/track/1z01TZFYJhuQNnuSAfTfRA"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 170028,
       "name": "B's Up (feat. Jay Rock) - Remix",
       "url": "https://open.spotify.com/track/1FcKQsH3C73Bwxx68M0tyQ"
@@ -2340,6 +2358,28 @@
       "duration_ms": 185806,
       "name": "Bakc 2 Bakc (feat. EBK Jaaybo)",
       "url": "https://open.spotify.com/track/2Xp4O5Cpr0nPfhkoGhKdcV"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/350n8u0BcgUu1jeJjVfANS"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        },
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Bakc 2 Bakc (feat. EBK Jaaybo)",
+      "url": "https://open.spotify.com/track/5MSf6XnNL6xE4vy2z9bNyK"
     },
     {
       "album": {
@@ -2910,7 +2950,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
@@ -3364,6 +3404,32 @@
       "duration_ms": 199245,
       "name": "Bogus (feat. BlueBucksClan)",
       "url": "https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt"
+    },
+    {
+      "album": {
+        "name": "Boogers",
+        "url": "https://open.spotify.com/album/5Ior3bY4eASDI0EIESY2PZ"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Yung Chowder",
+          "url": "https://open.spotify.com/artist/3hFHPjnorEtJWR6GSPwqQg"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Boogers",
+      "url": "https://open.spotify.com/track/01TGQm38hHRbkTizSIaZxb"
     },
     {
       "album": {
@@ -8767,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "I AM SUMMER",
+        "url": "https://open.spotify.com/album/1SxxyrLBJGDo5BZiIbr6Cg"
+      },
+      "artists": [
+        {
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "For the win",
+      "url": "https://open.spotify.com/track/13pK7n8qNPmyTHUYi6Rve6"
+    },
+    {
+      "album": {
         "name": "Forever On That",
         "url": "https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP"
       },
@@ -10916,6 +11000,24 @@
       "duration_ms": 148656,
       "name": "Had To Make It",
       "url": "https://open.spotify.com/track/1M4NvJMwto2EtgrJPmtzif"
+    },
+    {
+      "album": {
+        "name": "Hadju",
+        "url": "https://open.spotify.com/album/0H91S2e4amzMxtmqBo2YcR"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Hadju",
+      "url": "https://open.spotify.com/track/67boR1qcg0tmLQDcWntTqX"
     },
     {
       "album": {
@@ -14166,7 +14268,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 189440,
       "name": "Let Me Breathe",
       "url": "https://open.spotify.com/track/44Q04DYwgDgTeDVS9buda4"
@@ -14804,7 +14906,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 169769,
       "name": "Limo Tint",
       "url": "https://open.spotify.com/track/49s38F1tL46gPeVTtxwtVK"
@@ -15336,6 +15438,28 @@
       "duration_ms": 166608,
       "name": "Love Yo Weapons",
       "url": "https://open.spotify.com/track/1xGAvLWjyg2L71Qq9ZowIP"
+    },
+    {
+      "album": {
+        "name": "LOVERS OR FRIENDS",
+        "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "LOVERS OR FRIENDS",
+      "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
     },
     {
       "album": {
@@ -20029,6 +20153,24 @@
     },
     {
       "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162708,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
+    },
+    {
+      "album": {
         "name": "THE AM3RICAN DREAM",
         "url": "https://open.spotify.com/album/2xBItDzZvDaihgU9xYnzXO"
       },
@@ -20462,7 +20604,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 132934,
       "name": "Real Nigga Privileges",
       "url": "https://open.spotify.com/track/3oXg6qugKPENGpAVb2C6u3"
@@ -26487,6 +26629,28 @@
     },
     {
       "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/4ofayh5ykOEekd7Ei1SyH9"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126048,
+      "name": "Vamonos",
+      "url": "https://open.spotify.com/track/0OAmeNsVSFh8Eh2Nuq2cId"
+    },
+    {
+      "album": {
         "name": "Veeze Flow",
         "url": "https://open.spotify.com/album/2M36WwK6vYtYmNFLj5VqpS"
       },
@@ -26826,6 +26990,28 @@
       "duration_ms": 120058,
       "name": "Watch Out For The Riders",
       "url": "https://open.spotify.com/track/6zImt7ZGTqj6gvZJLf5RrP"
+    },
+    {
+      "album": {
+        "name": "Don't Kross Tha Bone",
+        "url": "https://open.spotify.com/album/0dDbOD1gn2Qzb9oNKRYjQX"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127393,
+      "name": "Watch Yo Bitch",
+      "url": "https://open.spotify.com/track/3w0LnYesNxC8dYDTz2Vx3P"
     },
     {
       "album": {
@@ -27914,7 +28100,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 268032,
       "name": "\u00c9touff\u00e9e",
       "url": "https://open.spotify.com/track/592A3x9nMXoL3Ay5rKgSwW"

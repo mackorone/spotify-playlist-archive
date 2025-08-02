@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Braxton Cook",
+  "description": "New jazz for open minds. Cover: Jonathan Blake",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -7297,6 +7297,28 @@
     },
     {
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/0sy3PmsjBbTj9LdBnSnDJE"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196898,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/1OYmAuQqcCYYNc3LEHCUb2"
+    },
+    {
+      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0nzrCEvCwzoIATAolMF3dz"
       },
@@ -11329,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2p3KGXc6czsMrF51X10TvH"
+      },
+      "artists": [
+        {
+          "name": "Temporary Blessings",
+          "url": "https://open.spotify.com/artist/3Bc1Mef9W58CrRMP2sLYMC"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284708,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/0B7PurtV8TP8W0PXVvYseF"
+    },
+    {
+      "album": {
         "name": "Fear Not",
         "url": "https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL"
       },
@@ -13054,6 +13094,28 @@
       "duration_ms": 206397,
       "name": "Get Lit",
       "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
+    },
+    {
+      "album": {
+        "name": "Getting Along",
+        "url": "https://open.spotify.com/album/1soVgeWYuM2FFsGCYlDc3T"
+      },
+      "artists": [
+        {
+          "name": "Jerry Bergonzi",
+          "url": "https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ"
+        },
+        {
+          "name": "Phil Grenadier",
+          "url": "https://open.spotify.com/artist/5HBOuDCsSNfCRxVDLmpA9R"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215964,
+      "name": "Getting Along",
+      "url": "https://open.spotify.com/track/64UwHxn7CUVj0mBqnirbxy"
     },
     {
       "album": {
@@ -18041,6 +18103,24 @@
     },
     {
       "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/6pNvKc4xjL5Rr1gPGhLEF8"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414813,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/6W6FC9qD55MkGPWbFSaLLm"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Chaos",
         "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
       },
@@ -21908,7 +21988,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
@@ -23080,7 +23160,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 121000,
       "name": "Not Everyone Can Go",
       "url": "https://open.spotify.com/track/0psSWzzcR5Iec2ggqtUv9Q"
@@ -24314,7 +24394,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199495,
       "name": "Openness",
       "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
@@ -31974,7 +32054,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 258946,
       "name": "Taka",
       "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"

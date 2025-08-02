@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-197 songs - 8 hr 52 min
+198 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Black Momentum](https://open.spotify.com/track/1fFwJVPH6fBqUGlL8qlKDf) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Black Momentum](https://open.spotify.com/album/42zOsFDYX5OgsMC7W4m5Fz) | 2:30 | 2025-02-26 | 2025-06-15 |
 | [Black Noise](https://open.spotify.com/track/0Be0z5LBqoFKnPFa7zv0Tn) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:30 | 2023-03-10 | 2023-04-22 |
 | [Black Noise \(Loopable no fade\)](https://open.spotify.com/track/6c8PjsRLXSwxSBTASmDDXg) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Best Black Noise For Sleep, Study and Focus \(Loopable\)](https://open.spotify.com/album/5YCaIYFdzvCcJzUGJKPpgj) | 2:22 | 2025-02-26 |  |
-| [Black Noise \(LP 83hz\)](https://open.spotify.com/track/3U4nVSlAR6yNlAF0UwZcYd) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Black Noise Vol\. 1](https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx) | 2:30 | 2023-04-21 |  |
+| [Black Noise \(LP 83hz\)](https://open.spotify.com/track/3U4nVSlAR6yNlAF0UwZcYd) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Black Noise Vol\. 1](https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx) | 2:30 | 2023-04-21 | 2025-08-02 |
 | [Black Noise \- Relaxation](https://open.spotify.com/track/2LJK4Tr9BY9qz2N9vMtJLx) | [LBE Sound Factory](https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc) | [Soothing Black Noise](https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc) | 2:15 | 2023-04-21 | 2023-10-20 |
 | [Black Noise 200 Hz](https://open.spotify.com/track/5RtVe2D7d22mJHoWyeUs7t) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:10 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Atmosphere](https://open.spotify.com/track/7BptRteRhIc7S6uUE4Yd8K) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Loopable](https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun) | [Black Noise Loopable](https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ) | 1:35 | 2023-03-10 | 2023-04-22 |
@@ -88,6 +88,7 @@
 | [Coal Whispers](https://open.spotify.com/track/2l3sVtG5YjEIVqCgU82Vcn) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Coal Whispers](https://open.spotify.com/album/6n96ZPOecgJMDFd7IDUwxK) | 5:37 | 2025-04-09 | 2025-07-29 |
 | [Comforting Black Noise](https://open.spotify.com/track/7s44WtrdDiebaITSSgBDTD) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 3:12 | 2023-03-31 |  |
 | [Controlled Black Noise](https://open.spotify.com/track/6iRwQfjkbm2FHrnv6XOM3w) | [Sleep Liquids](https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC) | [Black Noise EP 2](https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga) | 2:26 | 2023-06-01 |  |
+| [Cosmic Black Noise](https://open.spotify.com/track/10MiUOVQdOxjUp0QaDYyXk) | [Haworth in White](https://open.spotify.com/artist/6Z8jsYd7S1YwIhn72j9xqK) | [Cosmic Black Noise](https://open.spotify.com/album/5vBHXgHGaFcW39t7tvMsw8) | 3:37 | 2025-04-09 |  |
 | [Cosy Black Noise](https://open.spotify.com/track/09ws3AFzlKocLXqU1i493W) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 2:49 | 2023-03-31 |  |
 | [Dark Black Noise](https://open.spotify.com/track/4N5LpmosYeCKkhICcNSYYV) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:16 | 2023-04-21 | 2023-08-12 |
 | [Dark Black Noise](https://open.spotify.com/track/6fKY0nJXLdIvYGQyumBQlV) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Smoothed Black Noise](https://open.spotify.com/album/0nAxr67oWTfgKVhIzTxpNM) | 2:26 | 2023-04-21 |  |

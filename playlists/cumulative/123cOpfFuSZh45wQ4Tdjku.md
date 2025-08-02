@@ -4,7 +4,7 @@
 
 > mostly furry
 
-402 songs - 19 hr 43 min
+403 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [leave a message](https://open.spotify.com/track/5rFpVMxL7bhnEUP6JpXjDZ) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [leave a message](https://open.spotify.com/album/4klHExXZnN4V1ccK4nju1Q) | 1:32 | 2024-05-13 |  |
 | [Leave u GONE](https://open.spotify.com/track/6nNw8rUbBk94o0CpUGye0F) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:42 | 2025-03-28 |  |
 | [Let's Be Catboys!](https://open.spotify.com/track/12tt9MGylwUGBAyaVp4IyF) | [Winchifrost](https://open.spotify.com/artist/1D95PX0z0Pi7DlMml1vCle) | [Let's Be Catboys!](https://open.spotify.com/album/6tuX50VejC52AFuPdwVU6k) | 4:17 | 2024-08-17 |  |
+| [Lethargy](https://open.spotify.com/track/4T3RLke3YI75XFdzM5ZEb1) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Lethargy](https://open.spotify.com/album/7LLBrYfDCga2X10lmLPBek) | 4:24 | 2025-08-01 |  |
 | [Light](https://open.spotify.com/track/1QmCTxRddtJ2Hrn502bume) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Light](https://open.spotify.com/album/1URLKSGOw08tFUxH4GeKR0) | 3:37 | 2025-04-24 |  |
 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 | 2025-04-03 |  |
 | [Lion Chase](https://open.spotify.com/track/50u7TEWP1pOa9MtNPKfybg) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:51 | 2024-12-24 |  |

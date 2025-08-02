@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: DJ Premier",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 311480,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 236413,
       "name": "Boom",
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 250360,
       "name": "Extra, Extra!! - Radio Edit",
       "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 188630,
       "name": "F.A.Y.B.A.N.",
       "url": "https://open.spotify.com/track/3AoEnlrURQTCYvNVFqSXQo"
@@ -1038,6 +1038,32 @@
       "duration_ms": 115826,
       "name": "Fancy Clown",
       "url": "https://open.spotify.com/track/1YgDGKyKhFlimPw3mLavPG"
+    },
+    {
+      "album": {
+        "name": "The Magnificent / Beat Generation",
+        "url": "https://open.spotify.com/album/1yTx8UFW6xaNQrkAQQ6MOC"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        },
+        {
+          "name": "Pauly Ymaz",
+          "url": "https://open.spotify.com/artist/1DZ4Id03HYsTfcN7NqAtBS"
+        },
+        {
+          "name": "Baby Blak",
+          "url": "https://open.spotify.com/artist/581JxgGYNqwk7jYPYswyTP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "For Da Love of Da Game",
+      "url": "https://open.spotify.com/track/3foFOqlXGU5TvRP4yr4CcM"
     },
     {
       "album": {
@@ -1100,7 +1126,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 311040,
       "name": "Fortfied Live",
       "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
@@ -1154,7 +1180,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -1234,6 +1260,24 @@
       "duration_ms": 254746,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/546IPb3Ibo63aXZgHTO00C"
+    },
+    {
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC"
     },
     {
       "album": {
@@ -2614,7 +2658,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "The Red",
       "url": "https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA"
@@ -2798,7 +2842,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"

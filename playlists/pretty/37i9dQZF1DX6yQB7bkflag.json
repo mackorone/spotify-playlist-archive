@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Christian Bautista, Raisa",
-  "num_followers": 117879,
+  "num_followers": 117881,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIvsPAAAAAByQ+fVaWlHQ3+t0Ph32RIk",
+  "snapshot_id": "aIxJ5QAAAADnFpk4BhWwIndRUL2pjZwt",
   "tracks": [
     {
       "added_at": "2025-07-31 22:20:44",
@@ -495,6 +495,26 @@
     {
       "added_at": "2025-07-31 22:20:44",
       "album": {
+        "name": "superstars",
+        "url": "https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 144348,
+      "name": "superstars",
+      "url": "https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj"
+    },
+    {
+      "added_at": "2025-07-31 22:20:44",
+      "album": {
         "name": "Jalan, Pulang",
         "url": "https://open.spotify.com/album/5p8fWLTb6EF1VyKigzsKP1"
       },
@@ -889,7 +909,7 @@
         },
         {
           "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "url": "https://open.spotify.com/artist/0h9yqGVohKpPxKmjNKWEoH"
         }
       ],
       "duration_ms": 223250,
@@ -1947,22 +1967,6 @@
       "duration_ms": 183284,
       "name": "I Can\u2019t Lose",
       "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
-    },
-    {
-      "added_at": "2025-07-31 22:20:44",
-      "album": {
-        "name": "Nyaman",
-        "url": "https://open.spotify.com/album/5FNfJXs969ISWp9k70jrNz"
-      },
-      "artists": [
-        {
-          "name": "Agatha Chelsea",
-          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
-        }
-      ],
-      "duration_ms": 204275,
-      "name": "Nyaman",
-      "url": "https://open.spotify.com/track/03336qCYmxdKLltmhFB6Tu"
     },
     {
       "added_at": "2025-07-31 22:20:44",

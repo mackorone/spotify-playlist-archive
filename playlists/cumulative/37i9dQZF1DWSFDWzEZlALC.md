@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-1,329 songs - 2 day 14 hr 39 min
+1,330 songs - 2 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [meinen die uns](https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [meinen die uns](https://open.spotify.com/album/0tJ2DBgAhFaeE3AgTLYNaU) | 2:48 | 2024-04-25 | 2024-10-18 |
 | [Melodie](https://open.spotify.com/track/6Z5Kq7xT88uqXdMbAnjRkU) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Melodie](https://open.spotify.com/album/5cdyJ1tVGqxoig3I1uTrAd) | 3:10 | 2025-03-28 | 2025-04-25 |
 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 | 2023-10-05 | 2024-02-09 |
+| [Mephisto](https://open.spotify.com/track/04txXxnX14crWZJZz59Srm) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Mephisto](https://open.spotify.com/album/6vtQXepQ7lMJJ2Bz9uOYDp) | 4:05 | 2025-08-01 |  |
 | [merlin](https://open.spotify.com/track/6TcQYJZ8mK6hxtEoNlSUdn) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [merlin](https://open.spotify.com/album/59QwZKgRyCtQEM0O5vnrhj) | 3:29 | 2024-02-08 | 2024-03-08 |
 | [Messe/Deutz](https://open.spotify.com/track/23MqkXvC9FQTDfMM8cjcoW) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Messe/Deutz](https://open.spotify.com/album/5sw2A8pbeB3dY5ZJJ6Iq33) | 3:47 | 2024-05-09 | 2024-05-24 |
 | [MIESES LEBEN / WOLKEN \(feat\. Haiyti\)](https://open.spotify.com/track/3AShbFYptVC7fa0yjehClF) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [MIESES LEBEN / WOLKEN \(feat\. Haiyti\)](https://open.spotify.com/album/7dQJSvxjsFTyccNHvbsRQ5) | 3:03 | 2023-02-13 | 2024-02-16 |
@@ -799,7 +800,7 @@
 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 | 2023-08-10 | 2023-10-20 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 | 2024-06-21 |
 | [monogame liebe](https://open.spotify.com/track/4ZVhSSeY27owXp3cpZCm7r) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [monogame liebe](https://open.spotify.com/album/70pAG7npnWIwOD6COFkcxk) | 2:15 | 2024-04-25 | 2024-07-05 |
-| [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 | 2025-06-26 |  |
+| [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 | 2025-06-26 | 2025-08-02 |
 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 | 2024-12-05 | 2025-03-01 |
 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 | 2024-12-05 | 2025-04-04 |
 | [Morgentau](https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardäre & Verlierer](https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy) | 2:43 | 2023-12-14 | 2024-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,099 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,288 likes - 101 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,21 +108,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 98 | [虹](https://open.spotify.com/track/3IUdYajBRj0yxocr7g4aIh) | [Shinkuhorou](https://open.spotify.com/artist/36j8FR7Fnl9a0nzuxKDh8a) | [虹](https://open.spotify.com/album/37jL6H0JK2bP9Slc71zAyy) | 4:17 |
 | 99 | [FLAME](https://open.spotify.com/track/1XkkG40CmsqoCaLrClQ4ge) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [サイショの恋〜モテたくて〜 / FLAME コンプリートパック](https://open.spotify.com/album/4qrz9EzuvXuZexqvRUjBoQ) | 4:05 |
 | 100 | [Never Change](https://open.spotify.com/track/5NGWulc0W5ctrG8RSDcnoW) | [Shun](https://open.spotify.com/artist/6ABqgb5JlYqaJTFAAXT5Zh), [Lyu:Lyu](https://open.spotify.com/artist/5OTd1gn18a8R4OYOlWoyqR) | [Never Change](https://open.spotify.com/album/1E7xQ77ULUmFLVweG1eAt4) | 4:06 |
-| 101 | [だめだめだ](https://open.spotify.com/track/4hX3xOHTGLlD9VGgaXaanc) | [Shiori Tomita](https://open.spotify.com/artist/14Cri8mWjsUVwvFiX2fuKQ) | [だめだめだ](https://open.spotify.com/album/4aA8Wz4l5c7BN039LyiUGn) | 3:57 |
-| 102 | [Spinning World](https://open.spotify.com/track/57yivIXUOhohU4vCiTqk0Z) | [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [Spinning World](https://open.spotify.com/album/7xHzrLT6wrM9LDlyE0edzx) | 3:53 |
-| 103 | [言葉のいらない約束](https://open.spotify.com/track/7vDGFLBidTeTuyf98W7Ldx) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [sana](https://open.spotify.com/artist/7ui2RoF4OYUgPGX937n5xQ) | [言葉のいらない約束 / 暁月夜\-アカツキヅクヨ\-](https://open.spotify.com/album/3PS3QIl78MBZDchMT8W0DA) | 4:13 |
-| 104 | [虹の空](https://open.spotify.com/track/1ugw9zRE5ufC6AA2YriY52) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [虹の空](https://open.spotify.com/album/4R8P6rKkqSlwJgIairXN5x) | 4:07 |
-| 105 | [トラブルメイカー](https://open.spotify.com/track/7kEFyP8uYvvK8gmTnV2WG6) | [KANIKAPILA](https://open.spotify.com/artist/4bedfsHRUZwNxKY8ybWekd) | [トラブルメイカー](https://open.spotify.com/album/1899GVOWcTJL3rRV8o5Lqx) | 4:04 |
-| 106 | [そんな君、こんな僕](https://open.spotify.com/track/6UNWa5YS4G0rJkisF4quAW) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [そんな君、こんな僕](https://open.spotify.com/album/1H8RzwNWOHOtDyFR4VEyew) | 4:48 |
-| 107 | [ピノとアメリ](https://open.spotify.com/track/7FU7YMyvkTUmzg7lAZdAhU) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ピノとアメリ](https://open.spotify.com/album/4oLcoI947dNZ2m4qhmJBqU) | 4:33 |
-| 108 | [旅立ちの唄](https://open.spotify.com/track/2uwemnWSqSTlurgPTuG5Vn) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [旅立ちの唄](https://open.spotify.com/album/2JPWO6LZguL45Vh3dSPEsl) | 3:27 |
-| 109 | [絶絶](https://open.spotify.com/track/1oifj4ZzYNNDvkM9mByhsM) | [Swimy](https://open.spotify.com/artist/2sUEUvyOBblaAJdcHnlLXV) | [絶絶ep](https://open.spotify.com/album/2IXNMAhPmymjYfZZDQPnOP) | 3:19 |
-| 110 | [Lie\-Lie\-Lie](https://open.spotify.com/track/3VjwnpyaDRKtwE8Py6GOQt) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [Lie\-Lie\-Lie](https://open.spotify.com/album/1rNjYE0bTbhulTIfTWlSpD) | 3:46 |
-| 111 | [NO RAIN NO RAINBOW](https://open.spotify.com/track/5qrxG5fHGeUkkVN9iCq3od) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [NO RAIN NO RAINBOW](https://open.spotify.com/album/1J0ZDkseOslRsEXe64D3Ix) | 5:02 |
-| 112 | [誰かが](https://open.spotify.com/track/7wXKr4Ix8y3LUAjpEceqkR) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [誰かが](https://open.spotify.com/album/62Lux35UIcOcJtVBm4LElm) | 4:27 |
-| 113 | [if](https://open.spotify.com/track/0l8OTE4sFHWrjVUSUmcu2P) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [if](https://open.spotify.com/album/4nuOEcKNL0n7rAPCzcUGIq) | 4:42 |
-| 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
-| 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
-| 116 | [\#１ナルトーク 竹内順子（ナルト）×杉山紀彰（サスケ）](https://open.spotify.com/episode/1OEAkFXZ1sdKMBojKiyOpm) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/show/6kmg0LPYG2AzwZSbdB4HLJ) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/album/6kmg0LPYG2AzwZSbdB4HLJ) | 32:18 |
+| 101 | [\#１ナルトーク 竹内順子（ナルト）×杉山紀彰（サスケ）](https://open.spotify.com/episode/1OEAkFXZ1sdKMBojKiyOpm) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/show/6kmg0LPYG2AzwZSbdB4HLJ) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/album/6kmg0LPYG2AzwZSbdB4HLJ) | 32:18 |
 
 Snapshot ID: `Z5bZ7gAAAACy44p/er2Wp73kT61kzjxX`

@@ -1,13 +1,33 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  Lekan",
-  "num_followers": 56236,
+  "description": "R&B of the moment by the artists of the future. Cover:  India Shawn",
+  "num_followers": 56244,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aINA7wAAAAAaUbFKly3OkIh7ckGZIOkx",
+  "snapshot_id": "AAAAANqMXuxH2nTsXUAeC+mYJa861Veq",
   "tracks": [
+    {
+      "added_at": "2025-08-01 06:03:37",
+      "album": {
+        "name": "Cotton Candy Blvd",
+        "url": "https://open.spotify.com/album/0CHhHnWNR8zfryYVqiQDLI"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 192194,
+      "name": "Cotton Candy Blvd",
+      "url": "https://open.spotify.com/track/32fEvXFGD0OKJlRJ8Q9mzr"
+    },
     {
       "added_at": "2025-07-25 08:31:43",
       "album": {
@@ -41,24 +61,20 @@
       "url": "https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll"
     },
     {
-      "added_at": "2025-07-25 08:31:43",
+      "added_at": "2025-08-01 06:03:37",
       "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/632m6dG4ro7ZCtSWklXV8X"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
         }
       ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
+      "duration_ms": 132795,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4B3CzvwIJUqYREsIkRFM0z"
     },
     {
       "added_at": "2025-07-18 05:38:58",
@@ -79,6 +95,26 @@
     {
       "added_at": "2025-07-25 08:31:43",
       "album": {
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
+    },
+    {
+      "added_at": "2025-07-25 08:31:43",
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/6EgxGaAHhaJFa6Wy8FIMMG"
       },
@@ -91,6 +127,38 @@
       "duration_ms": 187910,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/5N4KKmCKgcb3XCrCaInwTH"
+    },
+    {
+      "added_at": "2025-08-01 06:03:37",
+      "album": {
+        "name": "CEDAR'S TAPE",
+        "url": "https://open.spotify.com/album/6Tu3Qz3GgYtPeZgVFpBYSJ"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 189339,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/6cAcM7JD5GzNmmyPt7l8RY"
+    },
+    {
+      "added_at": "2025-07-25 08:31:43",
+      "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 250011,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/22P1oKO2J3A0f3QQ6zZKHy"
     },
     {
       "added_at": "2025-07-18 05:38:58",
@@ -109,20 +177,20 @@
       "url": "https://open.spotify.com/track/74XIK4w35FhBxTfkZ8dKd6"
     },
     {
-      "added_at": "2025-07-25 08:31:43",
+      "added_at": "2025-08-01 06:03:37",
       "album": {
-        "name": "The Last Dance",
-        "url": "https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/55DoOHDPppZH23KGRmRfpj"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
         }
       ],
-      "duration_ms": 250011,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/22P1oKO2J3A0f3QQ6zZKHy"
+      "duration_ms": 117352,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/1BvM9oBXDWtOjoggPrRyB6"
     },
     {
       "added_at": "2025-07-18 05:38:58",
@@ -221,6 +289,26 @@
       "url": "https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL"
     },
     {
+      "added_at": "2025-08-01 06:03:37",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/5UKMdsEU2vuxSdKkhQeglK"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 157087,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/7tPDxnVeIlmHTQKWRVIz55"
+    },
+    {
       "added_at": "2025-07-25 08:31:43",
       "album": {
         "name": "Chivalry Ain\u2019t Dead",
@@ -235,6 +323,22 @@
       "duration_ms": 134664,
       "name": "Chivalry Ain\u2019t Dead",
       "url": "https://open.spotify.com/track/3E0RSY2SYcBCBx703yEZsU"
+    },
+    {
+      "added_at": "2025-08-01 06:03:37",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/66X8EQXZXcpYggcyQkZJYo"
+      },
+      "artists": [
+        {
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/5FPkcZ4Ym277vbhy3wsM43"
     },
     {
       "added_at": "2025-07-11 07:07:07",
@@ -287,6 +391,22 @@
     {
       "added_at": "2025-07-25 08:31:43",
       "album": {
+        "name": "Not Your Girl",
+        "url": "https://open.spotify.com/album/29DoT5v6LHkbFtmX9z7KEm"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        }
+      ],
+      "duration_ms": 223016,
+      "name": "Not Your Girl",
+      "url": "https://open.spotify.com/track/22MUtl7IfbQKsBrrv89eS6"
+    },
+    {
+      "added_at": "2025-07-25 08:31:43",
+      "album": {
         "name": "Thick n Country",
         "url": "https://open.spotify.com/album/6zmx0UMQ04JeZmDzoXdehm"
       },
@@ -305,20 +425,20 @@
       "url": "https://open.spotify.com/track/6QclcBITSWRLF49MJiRxCq"
     },
     {
-      "added_at": "2025-07-25 08:31:43",
+      "added_at": "2025-08-01 06:03:37",
       "album": {
-        "name": "Not Your Girl",
-        "url": "https://open.spotify.com/album/29DoT5v6LHkbFtmX9z7KEm"
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
       },
       "artists": [
         {
-          "name": "Peyton",
-          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
         }
       ],
-      "duration_ms": 223016,
-      "name": "Not Your Girl",
-      "url": "https://open.spotify.com/track/22MUtl7IfbQKsBrrv89eS6"
+      "duration_ms": 200997,
+      "name": "Love, Bomb",
+      "url": "https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA"
     },
     {
       "added_at": "2025-07-11 07:07:07",
@@ -407,22 +527,6 @@
       "duration_ms": 185084,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 228842,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
     },
     {
       "added_at": "2025-07-11 07:07:07",
@@ -1999,22 +2103,6 @@
     {
       "added_at": "2025-04-18 05:56:45",
       "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
-    },
-    {
-      "added_at": "2025-04-18 05:56:45",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/5knqr9yqUxsi9yaz6lxGVd"
       },
@@ -2667,22 +2755,6 @@
       "duration_ms": 250700,
       "name": "Love is Gold",
       "url": "https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo"
-    },
-    {
-      "added_at": "2025-02-21 07:02:28",
-      "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1u4AJ7kZkV5HlRdpHqTg75"
-      },
-      "artists": [
-        {
-          "name": "A-Lex",
-          "url": "https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/7Dj21omhOResPePxNWpy80"
     },
     {
       "added_at": "2025-02-07 08:24:36",

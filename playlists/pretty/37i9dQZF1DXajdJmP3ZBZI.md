@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajdJmP3ZBZI.md) - [plain]
 
 > a seriously incredible playlist from Kyle MacLachlan to say au revoir to Brat Summer\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>\. Welcome to the curators' playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,023 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,059 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajdJmP3ZBZI.md) - [plain]
 | 49 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
 | 50 | [Rio](https://open.spotify.com/track/2SEM1OHX0POc27jbphZEpW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 5:15 |
 
-Snapshot ID: `AAAAALzG0lRGM9k8cskakT5moq2v81Vn`
+Snapshot ID: `Z0f40AAAAAD6Tks11m5+DFMT6DIJQczI`

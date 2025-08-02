@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 67125,
+  "num_followers": 67153,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
       },
       "artists": [
         {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
         }
       ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+        }
+      ],
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
-        "name": "Agua Nueva",
-        "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Agua Nueva",
-      "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
+        "name": "Agua Nueva",
+        "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Agua Nueva",
+      "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
         "name": "Liberaci\u00f3n",
         "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
@@ -1499,22 +1519,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "M\u00e1s amor",
-        "url": "https://open.spotify.com/album/1k7OvMaQnYJ57SwEcoTYhF"
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
         },
         {
-          "name": "Leon Demaria",
-          "url": "https://open.spotify.com/artist/0CPXE9mP1XiodB1t8Rv1Sl"
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
         }
       ],
-      "duration_ms": 217324,
-      "name": "M\u00e1s amor",
-      "url": "https://open.spotify.com/track/1BPcvQFG4cib6GNvzN1dcH"
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1539,42 +1559,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+        "name": "M\u00e1s amor",
+        "url": "https://open.spotify.com/album/1k7OvMaQnYJ57SwEcoTYhF"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         },
         {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+          "name": "Leon Demaria",
+          "url": "https://open.spotify.com/artist/0CPXE9mP1XiodB1t8Rv1Sl"
         }
       ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
-        "name": "Dimelo Ayer",
-        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
-      },
-      "artists": [
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
-        },
-        {
-          "name": "Cucho Parisi",
-          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "Dimelo Ayer",
-      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+      "duration_ms": 217324,
+      "name": "M\u00e1s amor",
+      "url": "https://open.spotify.com/track/1BPcvQFG4cib6GNvzN1dcH"
     }
   ],
   "unique_name": "Reggae al Sur",

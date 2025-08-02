@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-250 songs - 23 hr 19 min
+251 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bayede \- Caiiro Remix](https://open.spotify.com/track/2xEqx4dOq2zh4g4q3A5WZZ) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Victor Sithole](https://open.spotify.com/artist/09dRPZ9Dxg6VsIxxNpvRw4), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Bayede Remixes](https://open.spotify.com/album/6uTSYjU1KzAlkJ8mLehm0a) | 6:32 | 2023-12-25 | 2025-05-15 |
 | [Bella](https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 6:45 | 2023-02-17 | 2023-11-05 |
 | [Bella](https://open.spotify.com/track/2X4qoCJ5XVOPDiUf1E58gH) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/51xJhIh8iQUP7q5Gpsk5KH) | 6:45 | 2023-10-23 | 2023-12-26 |
+| [Better Than This \- Dorian Craft & Baron Remix](https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Better Than This \(Dorian Craft & Baron Remix\)](https://open.spotify.com/album/34ghDY0AwF0mhsxobYNGej) | 3:44 | 2025-08-01 |  |
 | [Better Than This ft\. IVETA](https://open.spotify.com/track/00Rqbth6VNzxB8v6P61Az3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [IVETA](https://open.spotify.com/artist/0Ovl0zogGMb3ggjDSOaAFp) | [Into The Wind](https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF) | 3:54 | 2024-11-15 |  |
 | [Black Sun](https://open.spotify.com/track/20JiYYRX4KyNPOj1ADNjd5) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Kana EP](https://open.spotify.com/album/68akROjc9w0rBeSpJjBI0x) | 6:18 | 2023-02-17 | 2023-11-07 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2022-08-02 | 2022-09-10 |

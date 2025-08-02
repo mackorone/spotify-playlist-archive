@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 416329,
+  "num_followers": 416266,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKcdkI/wLchxsdw9XpQ7TMppJre",
+  "snapshot_id": "AAAAABxviaf4sWNtF49G7xRRrCWQPN2f",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:35",
+      "album": {
+        "name": "I Stood My Ground",
+        "url": "https://open.spotify.com/album/3zuXv136QTdzBlGmTtN7ci"
+      },
+      "artists": [
+        {
+          "name": "Chloe Stroll",
+          "url": "https://open.spotify.com/artist/31J0TFdcefgKGeFBKXRH8z"
+        }
+      ],
+      "duration_ms": 243063,
+      "name": "I Stood My Ground",
+      "url": "https://open.spotify.com/track/4JRuQ22xck5DCfkQXRPnF6"
+    },
     {
       "added_at": "2025-06-27 04:00:28",
       "album": {
@@ -1319,22 +1335,6 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Breaking Myself",
-        "url": "https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb"
-      },
-      "artists": [
-        {
-          "name": "Grace Kinstler",
-          "url": "https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Breaking Myself",
-      "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
     },
     {
       "added_at": "2022-09-30 04:01:00",

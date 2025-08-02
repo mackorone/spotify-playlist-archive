@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 345386,
+  "num_followers": 345430,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR0wAAAAD+GSNgHrhEHzhZo4Fgy83f",
+  "snapshot_id": "AAAAAPxv2KSqADd138dDQPwDfx8qvge4",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:21",
+      "album": {
+        "name": "Too Much Redbone",
+        "url": "https://open.spotify.com/album/2NMBNG4RPq85eMItMjQqfc"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "duration_ms": 185474,
+      "name": "Too Much Redbone",
+      "url": "https://open.spotify.com/track/7wx4ytRBrhqBxGgci6f4Tl"
+    },
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
@@ -1267,26 +1283,6 @@
       "duration_ms": 249926,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Sexy!",
-        "url": "https://open.spotify.com/album/2ioqM4ixub516lz78HjzuL"
-      },
-      "artists": [
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        },
-        {
-          "name": "The Moongirls",
-          "url": "https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm"
-        }
-      ],
-      "duration_ms": 185738,
-      "name": "Sexy!",
-      "url": "https://open.spotify.com/track/3YX2f5qwFaoTaEpQu2zSoK"
     },
     {
       "added_at": "2023-07-28 04:01:00",

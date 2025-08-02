@@ -4,7 +4,7 @@
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH?si=a8GHNTZJT6OEa04GIsoCvQ">Theology HD</a>
 
-170 songs - 14 hr 21 min
+171 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Island Vibes](https://open.spotify.com/track/1geECGKp0Yie4tP8MDJSCI) | [Dj KCM](https://open.spotify.com/artist/3lbjxOwIB1BqHe9C2flZBT), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc) | [Island Vibes](https://open.spotify.com/album/74TdvqwITNB8uek4BvKX9P) | 6:38 | 2025-07-31 |  |
 | [Isqeda](https://open.spotify.com/track/79u0AbnoXb4xXrwjR9JnmD) | [Prince Bulo](https://open.spotify.com/artist/0fP9Z1HMfc04QB0wsIHD0Z), [Marleysoul](https://open.spotify.com/artist/4azmpITg954GtE8QP6rtcP) | [Isqeda](https://open.spotify.com/album/51Jv2PuTZdjVAXzjfV9tGf) | 6:32 | 2025-06-26 | 2025-07-11 |
 | [Jaiye Orimi \- Audera Remix](https://open.spotify.com/track/1Z82mXQswtFYHZak4B99rE) | [Dabinski](https://open.spotify.com/artist/1lX4PDXefsE0FSMPXRu5B9), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Audera](https://open.spotify.com/artist/57JbVZzmn24ma62tc83jPY) | [Jaiye Orimi \(Audera Remix\)](https://open.spotify.com/album/1M6zM18InfvForj496x1a3) | 6:46 | 2025-07-10 | 2025-07-25 |
+| [Jonga Le](https://open.spotify.com/track/6sN4XsERQJudOXG7Ntzw93) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Sia Mzizi](https://open.spotify.com/artist/6aVG0HjG8XLqPFF9XILhb8) | [Winter Tones III](https://open.spotify.com/album/1XypJzPYnn29S0CJgkL57D) | 6:11 | 2025-08-01 |  |
 | [KALI \- Radio Edit Mix](https://open.spotify.com/track/2bW51OJbA3JDCriRKIxO4c) | [Tony Finger](https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa), [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs) | [KALI](https://open.spotify.com/album/7bGYjqVHZqdS84mWWnfuo9) | 2:42 | 2025-06-26 | 2025-07-18 |
 | [Kenobu](https://open.spotify.com/track/4uFYxMAmSc61L0nojcIkJ8) | [Max SA](https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab), [Penhilburg](https://open.spotify.com/artist/5dg7pu0RxFZv4s6VIPqhMG) | [Kingsman](https://open.spotify.com/album/0o34woxrr1gv66uFrc6zPK) | 7:04 | 2025-07-10 | 2025-07-18 |
 | [Khumbula](https://open.spotify.com/track/07Os1DkJyFyyloZn6eu5h9) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR) | [Khumbula](https://open.spotify.com/album/4BChYgEOPfoATKq3DVSvuv) | 5:23 | 2025-07-31 |  |

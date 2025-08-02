@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: King & Prince
 
-665 songs - 1 day 12 hr 48 min
+666 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 | 2024-09-24 | 2025-03-07 |
 | [ICE BREAKER](https://open.spotify.com/track/4RuPoCWg8ewIaTpj54lG2z) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [ICE BREAKER](https://open.spotify.com/album/5KJDNocPvS3kv62myZDClM) | 2:26 | 2025-05-01 | 2025-05-26 |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2025-03-06 | 2025-03-24 |
+| [ICONIC](https://open.spotify.com/track/5VYVO6zoi3B3o9IJ9EUxNg) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/1gr8097Cod4LbC8pQNFGq8) | 3:26 | 2025-08-01 |  |
 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 | 2024-10-01 | 2025-03-07 |
 | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm), [RYUKI](https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q) | 3:32 | 2025-03-06 | 2025-03-10 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,887 likes - 100 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,949 likes - 100 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Rohi \(The Good Shepherd\) \- Live](https://open.spotify.com/track/1YwwfzEsBdfjprEuKzy8tC) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rohi \(The Good Shepherd\) \[Live\]](https://open.spotify.com/album/3XBKLHisNTmO1CYf4M4sxJ) | 11:08 |
 | 100 | [Only You \(Live\)](https://open.spotify.com/track/6PQ6xxWWDUJJeD6sIZWetL) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Only You \(Live\)](https://open.spotify.com/album/2Z0pI31oUNhphHR8wAXP88) | 5:13 |
 
-Snapshot ID: `AAAAAFt9a6WMkgSEte8g2j7yDQ3Qnlxy`
+Snapshot ID: `aIwD4AAAAADcw9wBx8jcP+m3LpCxjidj`

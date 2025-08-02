@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,194 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,215 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 74 | [유죄](https://open.spotify.com/track/2Fzib85o1G4S7l9wfsdh5N) | [김현성](https://open.spotify.com/artist/05HCRWM8qQ2JHQrciIpX8p) | [Kim Hyun Sung 2 Solo Album](https://open.spotify.com/album/6XzRIR8BeeCUXypxgpTv6M) | 4:05 |
 | 75 | [You](https://open.spotify.com/track/532BkP20KoyCq7ehziah0N) | [Kim SangMin](https://open.spotify.com/artist/1qUM2ze6aqsBM8eIUDJlqo) | [Face](https://open.spotify.com/album/5DKVM7qALIPE2dsiPP6spX) | 4:38 |
 
-Snapshot ID: `ZIsVggAAAAATM1Xt9u/d6BF3uiKdZN6e`
+Snapshot ID: `AAAAAFAP5bkJ7e+8tYWHQnMHF18CdVpU`

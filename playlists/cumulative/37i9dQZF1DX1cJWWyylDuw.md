@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-689 songs - 1 day 20 hr 32 min
+690 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 | 2025-07-26 |
 | [New Gods](https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:01 | 2022-07-08 | 2023-08-03 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2021-12-17 | 2022-07-28 |
-| [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 |  |
+| [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 | 2025-08-02 |
 | [Nightmare Vision](https://open.spotify.com/track/0FhCI4cKLfNKOyNPJt4Rku) | [Inferious](https://open.spotify.com/artist/3GsjlNLSPhQthK4XG6Uius) | [Nightmare Vision](https://open.spotify.com/album/23Y0im3BCMNgVGLtkfWj9Q) | 2:48 | 2021-12-17 | 2022-04-05 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-06-10 |  |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2021-12-17 | 2022-07-24 |
@@ -543,6 +543,7 @@
 | [Short Fused](https://open.spotify.com/track/3rMBPvlH23tC5BGc2THgTi) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Short Fused](https://open.spotify.com/album/2hBwdiivLPHVEC8M8DYDpD) | 2:46 | 2021-12-17 | 2022-02-11 |
 | [Show Them The Bodies](https://open.spotify.com/track/3hk8azksSaF5V3quxqNicN) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Show Them The Bodies](https://open.spotify.com/album/2Ci41x5ZbF170RSoxniHKt) | 1:33 | 2025-06-06 |  |
 | [Shrine of Disgust](https://open.spotify.com/track/1V1UsxZBtVgT8kJJcGEyso) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD) | [Shrine of Disgust](https://open.spotify.com/album/6qFxmJAitzSToAliFAkDo8) | 4:02 | 2021-12-17 | 2022-07-27 |
+| [Silken Hands](https://open.spotify.com/track/1U1j9QrYcbWRe0CUat7hhp) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Silken Hands](https://open.spotify.com/album/24d3KZYGxjH2R6OxLN9O8U) | 2:38 | 2025-08-01 |  |
 | [Sing to the Grave](https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Sing to the Grave](https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o) | 2:39 | 2023-01-20 |  |
 | [SIZE KING](https://open.spotify.com/track/7fpIvMIwGsEay62dM0x0iF) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [SIZE KING](https://open.spotify.com/album/6QzutCHeLazqlapllPDTJx) | 3:04 | 2024-06-10 | 2024-06-26 |
 | [Sleep](https://open.spotify.com/track/7LDa5bi1KDATomNnlwA3Sb) | [Dead Crown](https://open.spotify.com/artist/0xsafxjO0RXHb2YTxtKTyh) | [Sleep](https://open.spotify.com/album/2Xx98iZ9d9ljsHxEb02MS9) | 3:11 | 2022-07-29 | 2025-03-15 |

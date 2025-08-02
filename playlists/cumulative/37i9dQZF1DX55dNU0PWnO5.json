@@ -2405,6 +2405,32 @@
     },
     {
       "album": {
+        "name": "Dream Hands",
+        "url": "https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        },
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Tristan Cappel",
+          "url": "https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Dream Hands",
+      "url": "https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG"
+    },
+    {
+      "album": {
         "name": "Dribble",
         "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
       },
@@ -6366,7 +6392,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 203076,
       "name": "Return of the Sky",
       "url": "https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb"

@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-493 songs - 2 day 1 hr 37 min
+494 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [El Malevo \(La Noche\)](https://open.spotify.com/track/0E2yRva7UxLtzeDxtbASxx) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [El Malevo \(La Noche\)](https://open.spotify.com/album/4MUV8CxPhQkugbCBFwghuC) | 6:08 | 2024-08-05 | 2024-08-22 |
 | [El Viento](https://open.spotify.com/track/2JqDN350J5Ldv08Coi31Z3) | [Israel Vich](https://open.spotify.com/artist/6gWRPpUuV4FoXcRFIu3OAA), [Yong Jai Kim](https://open.spotify.com/artist/6EmHBMBurb9mY1dWqW3qrD) | [Eta](https://open.spotify.com/album/6LJI7ED8PSSVJmcC5k7x4L) | 6:09 | 2019-11-12 | 2022-07-16 |
 | [El Youm](https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [El Youm](https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV) | 3:01 | 2025-05-19 |  |
-| [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/track/0WGZA4fWEWIeqbASvl24XM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/album/3vP5SePa5PUZeBMed5o4Gg) | 3:42 | 2025-07-18 |  |
+| [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/track/0WGZA4fWEWIeqbASvl24XM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Electricity \(Karen Nyame KG Remix\)](https://open.spotify.com/album/3vP5SePa5PUZeBMed5o4Gg) | 3:42 | 2025-07-18 | 2025-08-02 |
 | [Elephant in the Room](https://open.spotify.com/track/6U8xdON0lOnQYpxUZrg31B) | [Etyen](https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk) | [Bebe](https://open.spotify.com/album/3Ak6LFmAgmNmIXf9YcDGqQ) | 5:41 | 2019-08-02\* | 2021-05-28 |
 | [Elephante \- Original](https://open.spotify.com/track/5U8P30QdXLEKmiHbsJ0nXI) | [Sarkis Mikael](https://open.spotify.com/artist/5bdaeSGBTGVLdu1oC2qIMl), [Epstein \(LA\)](https://open.spotify.com/artist/73dLBxxOwl8XLYDRywMr9W) | [Summer Sol IV](https://open.spotify.com/album/1RdhHyhGXokP9lCexacKvY) | 6:12 | 2019-11-12 | 2021-12-21 |
 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 | 2020-02-20 | 2023-05-30 |
@@ -469,6 +469,7 @@
 | [Waidalal \- Ankhoï Remix](https://open.spotify.com/track/3NClGgiGLwR34sDKGdFykT) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Waidalal](https://open.spotify.com/album/4z8z7kfqjjzwGDM6ObqzAC) | 7:33 | 2021-11-28 | 2022-04-20 |
 | [Waiting For You](https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [SHEERA](https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq) | [Waiting For You](https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi) | 4:06 | 2024-08-22 | 2024-11-13 |
 | [Waka](https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH) | [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [Batuhan Kınık](https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP) | [Waka](https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB) | 2:37 | 2025-01-10 | 2025-05-10 |
+| [Wanjiru](https://open.spotify.com/track/4MCu5xXQ0WD5FQ3selk5mD) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Wanjiru EP](https://open.spotify.com/album/1Fsv5P92sqjxrVXw3R5bqg) | 2:39 | 2025-07-25 |  |
 | [War](https://open.spotify.com/track/4tFSTI3avUHyBZHeTcCB7r) | [Peré Oudav](https://open.spotify.com/artist/0SUtMyEoZZCh59W23tlR51) | [Penta](https://open.spotify.com/album/775U4UaxMqynHWGH5SEBjQ) | 3:37 | 2019-08-02\* | 2021-07-10 |
 | [Warbler](https://open.spotify.com/track/50nAU2kkU1ztMzZa2MBbC8) | [Atish](https://open.spotify.com/artist/78RY8tWBNtm7UkMImOTpjT) | [Warbler](https://open.spotify.com/album/0AtY5Eiapkqn7cOh1rAaCs) | 6:48 | 2019-12-31 | 2020-01-01 |
 | [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 | 2023-03-25 | 2025-03-25 |

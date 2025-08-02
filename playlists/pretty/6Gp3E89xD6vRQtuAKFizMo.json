@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44036,
+  "num_followers": 44034,
   "original_name": "Dim Mak New Releases",
   "owner": {
-    "name": "Dim Mak Records",
-    "url": "https://open.spotify.com/user/dimmakrecords"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "AAAaTk7rfZc6atOKZ194wi8QfAdXtWlD",
+  "snapshot_id": "AAAaUDlQsoJc2v6AEzXkisII2Spx5tD/",
   "tracks": [
+    {
+      "added_at": "2025-08-01 16:34:58",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2IZk3TgT9Q6T5oXkbN6Yn2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V"
+    },
+    {
+      "added_at": "2025-08-01 16:35:20",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "TIARO",
+          "url": "https://open.spotify.com/artist/5JinMzMuLLtTC3mSeH37Uf"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/02FfMx7RCEnHB4sCLoG2io"
+    },
     {
       "added_at": "2025-07-25 15:21:21",
       "album": {

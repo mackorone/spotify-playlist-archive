@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2304827,
+  "num_followers": 2304805,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-07-04 00:52:09",
       "album": {
-        "name": "Someone Like You 2",
-        "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "Matthew Harris",
-          "url": "https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Someone Like You 2",
-      "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
-    },
-    {
-      "added_at": "2025-07-04 00:52:09",
-      "album": {
         "name": "Pinetrees",
         "url": "https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ"
       },
@@ -1319,18 +1299,38 @@
     {
       "added_at": "2025-07-04 00:52:09",
       "album": {
-        "name": "Blame The Moon",
-        "url": "https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2"
+        "name": "Someone Like You 2",
+        "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
       },
       "artists": [
         {
-          "name": "Alice Shone",
-          "url": "https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij"
         }
       ],
-      "duration_ms": 163783,
-      "name": "Blame The Moon",
-      "url": "https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4"
+      "duration_ms": 185000,
+      "name": "Someone Like You 2",
+      "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
+    },
+    {
+      "added_at": "2025-07-04 00:52:09",
+      "album": {
+        "name": "Joshua",
+        "url": "https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Forever For Now",
+      "url": "https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F"
     }
   ],
   "unique_name": "The Most Beautiful Songs in the World",

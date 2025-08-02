@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,130 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,132 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 22 | [Schumann: 12 Gedichte aus Liebesfrühling, Op\. 37: No\. 11: Warum willst du andre fragen](https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 2:09 |
 | 23 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 24 | [Be My Home](https://open.spotify.com/track/7EqkO7UDHveqXYzPrOZYei) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Be My Home](https://open.spotify.com/album/0sLS50WjlcxejcgtL5gjvB) | 4:44 |
-| 25 | [Bagatelles et impromptus: VII\. Love](https://open.spotify.com/track/2u89h3u1Q9DGFSGkOEmGga) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Love Songs](https://open.spotify.com/album/2rP0mklxHyjaOBFHSLMFdP) | 2:18 |
+| 25 | [Bagatelles et impromptus, JB 1:19: VII\. Love](https://open.spotify.com/track/2u89h3u1Q9DGFSGkOEmGga) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Love Songs](https://open.spotify.com/album/2rP0mklxHyjaOBFHSLMFdP) | 2:18 |
 | 26 | [3 Romances, Op\. 11: No\. 1, Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 |
 | 27 | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dong Hyek Lim](https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP) | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA) | 2:54 |
 | 28 | [Waldszenen, Op\. 82: III\. Einsame Blumen](https://open.spotify.com/track/2js4JJHAR56WrzH9oDw7TT) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Schumann: Scenes from Childhood; Waldszenen – Janáček: On the Overgrown Path, Book 1](https://open.spotify.com/album/0yJNUjSB1TQ4ewZoaPOEwh) | 2:24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Sully Burrows",
+  "description": "The home of Canadian country music. Cover: High Valley",
   "name": "North Country",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 159517,
       "name": "Alabama Way",
       "url": "https://open.spotify.com/track/3oYBQOjoXySfvg6ftSfzoq"
@@ -736,10 +736,28 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 177967,
       "name": "Chainsmokin Memories",
       "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
+    },
+    {
+      "album": {
+        "name": "Chevy Back",
+        "url": "https://open.spotify.com/album/3M9fBBRnLYkoYAVswpmhXx"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168656,
+      "name": "Chevy Back",
+      "url": "https://open.spotify.com/track/6kEkD4UwEmsCBqIPlYRTz0"
     },
     {
       "album": {
@@ -996,6 +1014,24 @@
       "duration_ms": 150138,
       "name": "Crushin' Cans",
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
+    },
+    {
+      "album": {
+        "name": "Cutting Corners",
+        "url": "https://open.spotify.com/album/4cISv43zIhQaXBe6cZdoTx"
+      },
+      "artists": [
+        {
+          "name": "Angelica Appelman",
+          "url": "https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184286,
+      "name": "Cutting Corners",
+      "url": "https://open.spotify.com/track/3vqAU08PUq9pC2MMObvCJJ"
     },
     {
       "album": {
@@ -2196,7 +2232,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 182862,
       "name": "How Do You Miss Me (feat. Alexandra Kay)",
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
@@ -2499,6 +2535,42 @@
     },
     {
       "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/1O6Stb7brDHtR1LMLyBNDJ"
+      },
+      "artists": [
+        {
+          "name": "Jessie T",
+          "url": "https://open.spotify.com/artist/45TQzwD5AZZYtzgOOJ6X4O"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196808,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/46skWJH17EBFpq9SOmS6t5"
+    },
+    {
+      "album": {
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+    },
+    {
+      "album": {
         "name": "I've Learned",
         "url": "https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V"
       },
@@ -2582,7 +2654,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 141401,
       "name": "Issues",
       "url": "https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2"
@@ -2604,7 +2676,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 258251,
       "name": "It's All Coming Back To Me Now",
       "url": "https://open.spotify.com/track/1CCbjeTKdaVXr7EsDtvhfJ"
@@ -3019,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Longer Than A Little While",
+        "url": "https://open.spotify.com/album/4fmmTdudZGe4i2RPEjc6vu"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182238,
+      "name": "Longer Than A Little While",
+      "url": "https://open.spotify.com/track/6HbfsU7ZhZ0v5lLX2KlofO"
+    },
+    {
+      "album": {
         "name": "Love and Hate",
         "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
       },
@@ -3128,6 +3218,24 @@
       "duration_ms": 235523,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d"
+    },
+    {
+      "album": {
+        "name": "Man I Used To Be",
+        "url": "https://open.spotify.com/album/1JRlcIAIqs791vfpuu0Zbu"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231147,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/1v6KfzL3Tw4jt6eYM9l0Fk"
     },
     {
       "album": {
@@ -4064,7 +4172,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 159468,
       "name": "Rally Around",
       "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
@@ -4280,7 +4388,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 228654,
       "name": "Scraps",
       "url": "https://open.spotify.com/track/4a5eCFMZrwy4WPZdWmLsjx"
@@ -4807,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "STRANGE",
+        "url": "https://open.spotify.com/album/3DIiN4iLHIamBCCjHDIpeS"
+      },
+      "artists": [
+        {
+          "name": "Taylor Jensen",
+          "url": "https://open.spotify.com/artist/71qpTPNujRocmQhpi5hcvF"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169261,
+      "name": "STRANGE",
+      "url": "https://open.spotify.com/track/3br7VTxoKuhGTlWMQj1eLn"
+    },
+    {
+      "album": {
         "name": "Mitch Zorn",
         "url": "https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP"
       },
@@ -5315,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Turn Me Loose",
+        "url": "https://open.spotify.com/album/1cm5u4hC20fwbLpUBYGzcF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197161,
+      "name": "Turn Me Loose",
+      "url": "https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq"
+    },
+    {
+      "album": {
         "name": "Another Farewell",
         "url": "https://open.spotify.com/album/5biKiugsTG1Fakjsfivdc4"
       },
@@ -5344,10 +5488,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 168194,
       "name": "Unbecoming",
       "url": "https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM"
+    },
+    {
+      "album": {
+        "name": "Under Covers",
+        "url": "https://open.spotify.com/album/0loZTmpClYRzOcdvYMB5a0"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167609,
+      "name": "Under Covers",
+      "url": "https://open.spotify.com/track/0Yh8wibA4pAv2SEOhZZJlv"
     },
     {
       "album": {
@@ -5684,6 +5846,24 @@
       "duration_ms": 202690,
       "name": "When I Hear That Song",
       "url": "https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN"
+    },
+    {
+      "album": {
+        "name": "Where the Lost Get Found",
+        "url": "https://open.spotify.com/album/3H9kaGrPLYE5oQ1G2aYcM7"
+      },
+      "artists": [
+        {
+          "name": "Wes Mack",
+          "url": "https://open.spotify.com/artist/0FMBtqD2Z6zyzL6f5FJbHX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184113,
+      "name": "Where the Lost Get Found",
+      "url": "https://open.spotify.com/track/6N0J1xsDmfcdXpRdWc9v3L"
     },
     {
       "album": {

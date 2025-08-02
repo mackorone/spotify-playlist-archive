@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Chappell Roan, GIMS, Felix Jaehn, Lune and more.
 
-18,709 songs - 38 day 18 hr 14 min
+18,710 songs - 38 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15583,6 +15583,7 @@
 | [Superstar](https://open.spotify.com/track/6kFKyM6lv22Q3KJaIopkIe) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Superstar](https://open.spotify.com/album/5QJwCA7duna6Wh4Y8cFWaO) | 3:54 | 2022-05-19 | 2022-05-27 |
 | [Superstars](https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Superstars](https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR) | 2:19 | 2023-06-29 | 2023-07-07 |
 | [Superstars](https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Kid Vincent](https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle) | [Superstars](https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A) | 2:57 | 2022-07-29 | 2022-08-05 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-07-31 |  |
 | [SUPERSTARS](https://open.spotify.com/track/6NIp5k4DPAB2hGI8Mg908B) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SUPERSTARS](https://open.spotify.com/album/7Ijj4w9MeF2qqQN0XjoMs3) | 3:02 | 2024-03-07 | 2024-03-15 |
 | [Superstitious](https://open.spotify.com/track/1KK30lewGW8fa1u5m0HiXo) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/3bSDWZhx8tem5bR8lbkBlH) | 3:13 | 2023-06-01 | 2023-06-09 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |

@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: YMA
+> Música brasileira fora da curva\. Foto: Mombojó
 
-789 songs - 1 day 20 hr 47 min
+791 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Canhoto de Pé](https://open.spotify.com/track/2mui676jtyVvTzpnJEwHWC) | [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O), [Marcelo Cabral](https://open.spotify.com/artist/6A1XWXo5PkhtCg1j2JMRNy), [Welington "Pimpa" Moreira](https://open.spotify.com/artist/1CSBLXZoHVwfTh7hwqWQuz) | [Canhoto de Pé](https://open.spotify.com/album/7EPWPOJ7jVbQHGhS5m0v3l) | 8:52 | 2024-08-16 | 2024-12-07 |
 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 | 2022-03-25 | 2023-01-28 |
 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 | 2022-01-14 | 2022-09-24 |
+| [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 | 2025-08-01 |  |
 | [Capeta](https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Capeta](https://open.spotify.com/album/50HzrLIj0SXxm2jkKQsSXg) | 4:12 | 2024-07-05 | 2025-02-01 |
 | [Capixabilidade](https://open.spotify.com/track/1PK3xVCMaRJkvubVWhlTLn) | [Lisergia Tropical](https://open.spotify.com/artist/0uxlJVn4F65jyEI4NaxZNd) | [Capixabilidade](https://open.spotify.com/album/7FfLwljV6EqVYaxCfwsqIC) | 5:21 | 2022-01-14 | 2022-02-12 |
 | [Carótida](https://open.spotify.com/track/2YEbThOcqkFKDE5yRTx0ta) | [Besouro Mulher](https://open.spotify.com/artist/24bEVJfL5KhIf4fYZeIfg7) | [Volto Amanhã](https://open.spotify.com/album/7g9258jE0mO1lyxmIvDV55) | 1:57 | 2023-07-14 | 2023-07-29 |
@@ -189,10 +190,11 @@
 | [Cósmico](https://open.spotify.com/track/4hIBfMhwc5s9e0WJd5hEOo) | [NAVE MÃE](https://open.spotify.com/artist/3C8DoOi5SypwXYUNQ6YnK8) | [Cósmico](https://open.spotify.com/album/2EVyRqqr8j8vAXPreNsEwp) | 3:37 | 2022-01-14 | 2022-03-26 |
 | [Dano Colateral](https://open.spotify.com/track/17f9gmhv5f5EEH1apzGmh1) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 3](https://open.spotify.com/album/2tceB7TduWvC5WfsjWLDq4) | 3:52 | 2022-10-07 | 2022-10-22 |
 | [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 | 2022-09-17 |
+| [Daquilo que Nois Merece](https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Lá Na Zárea Todos Querem Viver Bem](https://open.spotify.com/album/1InkjsA0pPp4AjeDpAOpbK) | 4:45 | 2025-08-01 |  |
 | [Das coisas que se perdem](https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx) | [Bomfim](https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx) | [Todos os conselhos que não segui](https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN) | 4:20 | 2022-07-22 | 2022-12-03 |
 | [DDD 31](https://open.spotify.com/track/7plV3fVV4weEAf4wXGmJtI) | [Lua Sanja](https://open.spotify.com/artist/5zbjAdiQ09woNIoKn1ok6Y) | [DDD 31](https://open.spotify.com/album/5aYZMrE1SPZ8uxH8RNXquI) | 2:36 | 2024-09-13 | 2024-10-26 |
 | [De ponta cabeça](https://open.spotify.com/track/22kGdSLK3uos6nXIvrCzBZ) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:21 | 2024-05-24 | 2024-09-28 |
-| [de tudo que eu sonhei sozinho](https://open.spotify.com/track/2nAosIAHtsSC6kNPjAVlr1) | [pedro lanches](https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [de tudo que eu sonhei sozinho](https://open.spotify.com/album/6ZN4H3f2sboSlzWw6FLFNs) | 3:19 | 2024-10-25 |  |
+| [de tudo que eu sonhei sozinho](https://open.spotify.com/track/2nAosIAHtsSC6kNPjAVlr1) | [pedro lanches](https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [de tudo que eu sonhei sozinho](https://open.spotify.com/album/6ZN4H3f2sboSlzWw6FLFNs) | 3:19 | 2024-10-25 | 2025-08-02 |
 | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/album/4PE4FggN1JeU3LiYeUiatB) | 2:41 | 2024-07-19 | 2025-02-22 |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
 | [Decorei o Jornal](https://open.spotify.com/track/7MQXecuMrLgGSmUX4TAO5t) | [Zambonii](https://open.spotify.com/artist/010ghLTjpH3itDq6KkyXN3) | [Vitrais](https://open.spotify.com/album/5qFfLFUEOLo6DVb9JF2rAb) | 2:51 | 2023-06-09 | 2023-09-23 |
@@ -312,7 +314,7 @@
 | [Goteira de Amor](https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX) | [Fantástico Caramelo](https://open.spotify.com/artist/0LsC50sqPpTcHPGY8lyvwJ) | [Goteira de Amor](https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW) | 2:36 | 2024-02-23 | 2024-04-27 |
 | [Guarde Isso](https://open.spotify.com/track/56eX0mR15K1PutImuabniD) | [Milton Guesi](https://open.spotify.com/artist/4zIyIja72kzmKIi7v02sZx) | [Meu Olhar no Seu](https://open.spotify.com/album/26Tp6hnXuSHOCpRtHaktcE) | 3:16 | 2024-10-11 |  |
 | [HAHAHA](https://open.spotify.com/track/5gWer2Q0jgZo2VHgt3akHr) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [HAHAHA](https://open.spotify.com/album/0iCtU3hO1nlgfP5AHOdvGQ) | 2:30 | 2022-07-01 | 2023-01-28 |
-| [Hasta Luego](https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Hasta Luego](https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw) | 3:10 | 2024-12-06 |  |
+| [Hasta Luego](https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Hasta Luego](https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw) | 3:10 | 2024-12-06 | 2025-08-02 |
 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 | 2025-02-21 |  |
 | [Hiperdrama](https://open.spotify.com/track/05ydEpbmq9hREtvEa06vWd) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Hiperdrama](https://open.spotify.com/album/1c6vK2tA3ysL1eVrp26viF) | 3:48 | 2024-09-27 | 2024-10-26 |
 | [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 | 2024-12-20 | 2025-07-26 |

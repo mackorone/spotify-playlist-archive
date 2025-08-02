@@ -4,7 +4,7 @@
 
 > sunny bossa beats to chill, focus or study to.
 
-92 songs - 3 hr 21 min
+94 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Coral Coloured](https://open.spotify.com/track/4UwjHjQ3cY6urwKH7ycEIx) | [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Coral Coloured](https://open.spotify.com/album/4c5G99Rpc9dHS55KhcS3vQ) | 2:00 | 2025-06-13 |  |
 | [Cortado King](https://open.spotify.com/track/1NIMWnk1jt1EpBiPsKUx3a) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cortado King](https://open.spotify.com/album/68CldGW46NEmp2ioMRXDYJ) | 2:01 | 2025-05-16 |  |
 | [finales de verano](https://open.spotify.com/track/5DNEpg5OyjjnGlOnhsyk1w) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [J.Kobee](https://open.spotify.com/artist/4F3XA2w5ms8U6nzgAujrl1), [Somebuddy](https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO) | [finales de verano](https://open.spotify.com/album/1noI8TpKIxvJAoTENZO3Do) | 1:41 | 2025-05-16 |  |
+| [flickering shores](https://open.spotify.com/track/2JyVekVPdWIu72yF2YxOl0) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [flickering shores](https://open.spotify.com/album/2FhYI1s8iyPjor0zRndGHM) | 2:01 | 2025-08-01 |  |
 | [flight path](https://open.spotify.com/track/0bdfkB4rsoUl3hPYpfkxGI) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [flight path](https://open.spotify.com/album/5KLmw6elvvNBkmB0BRCDCv) | 2:05 | 2025-05-16 |  |
 | [Fortaleza](https://open.spotify.com/track/1BsTIFxYYiCbyFzXwUPJj0) | [Deiira](https://open.spotify.com/artist/4mYKKow09qwLyu72PTEMvx) | [Fortaleza](https://open.spotify.com/album/1HXRsq3UcSRkLfCY6XHJnP) | 2:24 | 2025-07-10 |  |
 | [Hot Coffee](https://open.spotify.com/track/5dAjSwAkqGNejqM1maF0vA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Hot Coffee](https://open.spotify.com/album/5Q4O9TKKEEdSQ3tQd1mWtz) | 2:15 | 2025-06-13 |  |
@@ -64,8 +65,9 @@
 | [pantera](https://open.spotify.com/track/34piq9E8YMuudpRYwW4heY) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [pantera](https://open.spotify.com/album/168HOQv3EqxNK5cQ5OxSm8) | 1:48 | 2025-06-13 |  |
 | [Paquetà](https://open.spotify.com/track/1coxwl1t1S7hOis9CLZnUM) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Paquetà](https://open.spotify.com/album/6tDz1F3kFnntizFI9LFiZ4) | 2:02 | 2025-07-10 |  |
 | [Parasol](https://open.spotify.com/track/3dNxB2NptGIs6neOcASxzQ) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Parasol](https://open.spotify.com/album/4xi8hARe2H0jySIUMz1DxH) | 2:14 | 2025-05-16 |  |
+| [Pasadena](https://open.spotify.com/track/47OOcZI0JjECLMcCVXYIEL) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [jazzluv](https://open.spotify.com/artist/2mXxZcLz0r7WZeYa9o0ztS) | [Pasadena](https://open.spotify.com/album/0lYZLTKtyzy6O8ojnxzHTK) | 2:41 | 2025-08-01 |  |
 | [Pheasants](https://open.spotify.com/track/6eWqiuXsN18FbfiI5yU1MO) | [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Pheasants](https://open.spotify.com/album/131vhc74AzdwUVznCpBOpG) | 1:52 | 2025-05-16 |  |
-| [Picnic](https://open.spotify.com/track/7b5JyYcFwkOM10McPjh7Vt) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Picnic](https://open.spotify.com/album/3raGIBWmMYinxYKsMn1NTf) | 1:30 | 2025-05-16 |  |
+| [Picnic](https://open.spotify.com/track/7b5JyYcFwkOM10McPjh7Vt) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Picnic](https://open.spotify.com/album/3raGIBWmMYinxYKsMn1NTf) | 1:30 | 2025-05-16 | 2025-08-02 |
 | [pour yourself a drink](https://open.spotify.com/track/1yy8AqZIVjIyeg3pYxBCai) | [cece lace](https://open.spotify.com/artist/24QzzwZteqjZM84UzNSCma) | [pour yourself a drink](https://open.spotify.com/album/6B3kZfVS8YgJverWa2bZ5y) | 1:52 | 2025-05-16 |  |
 | [Praia Azul](https://open.spotify.com/track/681p9bBY45BOWg9gg0uUby) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Praia Azul](https://open.spotify.com/album/02L4vDa7n2GsopwcVf63mi) | 2:37 | 2025-07-10 |  |
 | [Praia Gaivotas](https://open.spotify.com/track/7GO1GdFmK6a4irAZLatsyt) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG), [caens](https://open.spotify.com/artist/39sVKctQJ28PsdlyzbVWgP) | [Praia Gaivotas](https://open.spotify.com/album/0VfQXzZgVGpojcjpLC7shH) | 2:18 | 2025-05-16 |  |
@@ -83,7 +85,7 @@
 | [Sun Haze](https://open.spotify.com/track/7u5UuiJTfwlq8xqe6AzjId) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Sun Haze](https://open.spotify.com/album/4ffaBXqTu9Tpm6UTiuzKlt) | 2:03 | 2025-05-16 |  |
 | [sun\-kissed](https://open.spotify.com/track/4cwxrMyozxmzdcLoUv8hhW) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [sun\-kissed](https://open.spotify.com/album/2FvUVZBnc1XYeIm3qiIf1n) | 1:42 | 2025-06-13 |  |
 | [Sunny Bossa](https://open.spotify.com/track/3dsFmdKYpgftTk6M22syBO) | [Jonny Wolf](https://open.spotify.com/artist/4hej44aTHWnoNziIuwNtwS), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Sunny Bossa](https://open.spotify.com/album/68oz0MTa8h9kQ3umb1K5GI) | 2:29 | 2025-05-16 |  |
-| [sunny dream](https://open.spotify.com/track/61vVDbS6skf078UCbyOiqq) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [sunny dream](https://open.spotify.com/album/3snCu5tDqb8TEvIsR5pItp) | 2:55 | 2025-05-16 |  |
+| [sunny dream](https://open.spotify.com/track/61vVDbS6skf078UCbyOiqq) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [sunny dream](https://open.spotify.com/album/3snCu5tDqb8TEvIsR5pItp) | 2:55 | 2025-05-16 | 2025-08-02 |
 | [Sunnyside Up](https://open.spotify.com/track/4G0g1X1agQBnCShsNz3ntz) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [Sunnyside Up](https://open.spotify.com/album/43HUV7ZuUk0FY86sfXQdm4) | 2:11 | 2025-06-13 |  |
 | [Sunset Dreams](https://open.spotify.com/track/46CFqyiU1lUJ4IUJ5zskas) | [Chill Architect](https://open.spotify.com/artist/3GuQNGIDN9FOQvb0heKvvr) | [Sunset Dreams](https://open.spotify.com/album/0aKPBuMnJNQScKaBMd8SEM) | 2:09 | 2025-05-16 | 2025-07-26 |
 | [Sunset drive](https://open.spotify.com/track/3Am86ZaKb9IJfv0xqKFj1b) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Sunset drive](https://open.spotify.com/album/7gtnDMIWbmUSwc4FA1Qbsl) | 2:13 | 2025-05-16 | 2025-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,475 likes - 109 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,543 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,14 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 98 | [An Unusual Prince / Once Upon A Dream \- From "Sleeping Beauty"/Soundtrack Version](https://open.spotify.com/track/5WKxcFnCO244tMnVElhFuk) | [Mary Costa](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo), [Bill Shirley](https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl), [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Sleeping Beauty](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) | 3:29 |
 | 99 | [Candle On the Water \- From "Pete's Dragon" / Soundtrack Version](https://open.spotify.com/track/74UZSX03wVCDrZoQQ0d2ZV) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Pete's Dragon](https://open.spotify.com/album/04X3K8C6QNxPM3BE3u2iV1) | 3:05 |
 | 100 | [Here Beside Me \- From "Mulan II"/Soundtrack Version](https://open.spotify.com/track/7tND1rRdqqLkLkUSa3RrIW) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Mulan II](https://open.spotify.com/album/0WBry5D50ZVd0nhQMb3FAh) | 2:35 |
-| 101 | [Someone's Waiting for You \- From "The Rescuers"/Soundtrack Version](https://open.spotify.com/track/20GJ94KHYugkULE81t7t4e) | [Shelby Flint](https://open.spotify.com/artist/55APUUV6bCtJVEF1O2jKNT) | [The Rescuers Down Under \(Bonus Version\)](https://open.spotify.com/album/4EiZGGBrF039lXyAayLHYF) | 2:25 |
-| 102 | [Main Title \(Love Is a Song\) \- From "Bambi" / Soundtrack Version](https://open.spotify.com/track/1APYWEcwkClntyenlrEvPJ) | [Donald Novis](https://open.spotify.com/artist/5LHO9r02sohoceAPhXPnBp), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Bambi II](https://open.spotify.com/album/0hzhxHQu41ZtBDUy8MiYAm) | 2:56 |
-| 103 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 |
-| 104 | [True To Your Heart](https://open.spotify.com/track/2MkfKcX0Q3xquEjcKqRyDK) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 4:16 |
-| 105 | [If I Didn't Have You \- From "Monsters, Inc."](https://open.spotify.com/track/1p71gtNQ7bolivNnzmNGAu) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 3:39 |
-| 106 | [We Belong Together \- From "Toy Story 3"/Soundtrack](https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 4:03 |
-| 107 | [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 |
-| 108 | [Feels Like Love \- Soundtrack](https://open.spotify.com/track/7Fm2ZvBSGBO6RGjQ93SU2b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls: One World](https://open.spotify.com/album/6H9FjLFzCgX485reYmS3c3) | 3:45 |
-| 109 | [Best of Friends \- From "The Fox & The Hound" / Soundtrack](https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK) | [Pearl Bailey](https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:15 |
 
 Snapshot ID: `aIN/3QAAAABlM08T8gjeGexFJz2q89QE`

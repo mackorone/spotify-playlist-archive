@@ -4,7 +4,7 @@
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-355 songs - 21 hr 14 min
+356 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Do Not Disturb](https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:43 | 2023-06-01 | 2024-06-26 |
 | [Don't Love Me](https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Love Me](https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM) | 3:23 | 2023-06-01 | 2025-04-19 |
 | [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2024-06-25 | 2024-09-07 |
+| [Done With You \(SKRT\)](https://open.spotify.com/track/6sLQsK00rg7AisdX5Fs9Sf) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis \(Anniversary Edition\)](https://open.spotify.com/album/6pvcpl3eOpmENd2W0Fh3dw) | 3:47 | 2025-08-01 |  |
 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 | 2023-06-01 | 2024-06-26 |
 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 | 2023-06-01 | 2025-04-19 |
 | [Down Like That](https://open.spotify.com/track/2HeDOUAIVhsgi4IOzBYJHc) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:12 | 2024-06-25 | 2025-04-19 |
@@ -362,6 +363,6 @@
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2024-06-25 | 2025-04-19 |
 | [Young Boy Problems](https://open.spotify.com/track/5EdeGgDVwGyo2OFAIKCksW) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:49 | 2024-06-25 |  |
 | [Young Boy Problems](https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Young Boy Problems](https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF) | 2:49 | 2023-06-01 | 2024-06-26 |
-| [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/3q6TQTEbiLNv3RfNQfPgo3) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/5t3AooZ5peKSKltkjr12Qm) | 3:46 | 2025-07-25 |  |
+| [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/3q6TQTEbiLNv3RfNQfPgo3) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/5t3AooZ5peKSKltkjr12Qm) | 3:46 | 2025-07-25 | 2025-08-02 |
 
 \*This playlist was first scraped on 2023-06-30. Prior content cannot be recovered.

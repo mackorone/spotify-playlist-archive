@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,719 likes - 129 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,722 likes - 129 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 74 | [AOTF\-s2](https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:33 |
 | 75 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 |
 | 76 | [Till I](https://open.spotify.com/track/6zgJZb0fgt2O7h01xwlpYE) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:41 |
-| 77 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
+| 77 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 |
 | 78 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 |
 | 79 | [XI](https://open.spotify.com/track/4eW2BYoxZ2tir3LJByWwTS) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 4:18 |
 | 80 | [Before my body is dry](https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 4:08 |

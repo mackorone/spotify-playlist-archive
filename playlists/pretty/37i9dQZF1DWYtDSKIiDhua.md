@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: lovlaine
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,721 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,803 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 52 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 |
 | 53 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 54 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
-| 55 | [YARR](https://open.spotify.com/track/7kLBNcpi0UgM20E6DnQHwn) | [RAKUNELAMA](https://open.spotify.com/artist/3Ocq06HEYTmXdyFFrn7vfQ) | [YARR](https://open.spotify.com/album/59nFw4QcclvWCzoyPYUOcu) | 4:11 |
+| 55 | [YARR](https://open.spotify.com/track/7kLBNcpi0UgM20E6DnQHwn) | [RAKUNELAMA](https://open.spotify.com/artist/3Ocq06HEYTmXdyFFrn7vfQ) | [YARR](https://open.spotify.com/album/59nFw4QcclvWCzoyPYUOcu) | 4:10 |
 | 56 | [Still Reachin](https://open.spotify.com/track/75JRipYCsHiWoDBxczY941) | [Gursi Hills](https://open.spotify.com/artist/65DxVcXahJBCmIbLx72Eeu) | [Still Reachin](https://open.spotify.com/album/6JGBcg0Nm8YOxEmugwZUF1) | 2:45 |
 | 57 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 58 | [ONE NIGHT](https://open.spotify.com/track/25lCIVyiwksrf28v9hldGR) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc) | [ONE NIGHT](https://open.spotify.com/album/1wk5qpEqmT1xW695nH7jAe) | 2:49 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 94 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 |
 | 95 | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/album/2YmzK6yQ9pZuR9ZQPyX4gJ) | 3:10 |
 | 96 | [together](https://open.spotify.com/track/0B6bAjWKR7trUwZXxmsLdX) | [limr](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [together](https://open.spotify.com/album/2BiguYLSZ0YHk7Na8jp6aI) | 3:40 |
-| 97 | [LaLaLa](https://open.spotify.com/track/3fCtwx5lKzuAFY6nwE2gEN) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [LaLaLa](https://open.spotify.com/album/6G9D2BOpiHgWKm6LinbJHS) | 4:25 |
+| 97 | [LaLaLa](https://open.spotify.com/track/3fCtwx5lKzuAFY6nwE2gEN) | [汪定中 DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [LaLaLa](https://open.spotify.com/album/6G9D2BOpiHgWKm6LinbJHS) | 4:25 |
 | 98 | [Save Me Save You](https://open.spotify.com/track/1jNw076LdcKhhAWZA9JsEz) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [Save Me Save You](https://open.spotify.com/album/3zO4Hr5yrobqNnjLxCVTg4) | 2:39 |
 | 99 | [Radio \(Dum\-Dum\)](https://open.spotify.com/track/0mXXjVVAhaasNXga2HMgJK) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Radio \(Dum\-Dum\)](https://open.spotify.com/album/1jrJTnOMuLs5v0qTDTc0kR) | 2:32 |
 | 100 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |

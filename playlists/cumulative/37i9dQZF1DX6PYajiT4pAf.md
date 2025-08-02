@@ -4,7 +4,7 @@
 
 > Emilia, Rauw Alejandro, Danny Ocean, J Abecia, Mushkaa y más novedades de la semana.
 
-2,875 songs - 6 day 1 hr 37 min
+2,876 songs - 6 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-10 | 2025-01-17 |
 | [ALTAGAMA](https://open.spotify.com/track/2OGXuOaxAEjSen6gz3w2lB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [ALTAGAMA](https://open.spotify.com/album/5CBhqqrQa4XTNQmo24XKrB) | 2:30 | 2025-03-13 | 2025-03-21 |
 | [Amaneceres](https://open.spotify.com/track/1Wphv95vmdp7AtP7nUPSNT) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Amaneceres](https://open.spotify.com/album/4aZtRmhjvcwZHuG5q7EpZB) | 2:51 | 2025-06-19 | 2025-06-27 |
+| [amanecí en un hotel](https://open.spotify.com/track/3BdQoA7qFO70ggmCeMrA3n) | [Orslok](https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43) | [amanecí en un hotel](https://open.spotify.com/album/5kIvuVRfrKYUmBia0MuPxY) | 3:08 | 2025-08-01 |  |
 | [Amantes de la noche](https://open.spotify.com/track/12ByeW4Zrk21JMAKAT0w2M) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Amantes de la noche](https://open.spotify.com/album/3OY9eUyvhV8Qvdj0LACQnU) | 3:11 | 2024-12-06 | 2024-12-13 |
 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 | 2024-11-01 | 2024-11-08 |
 | [Amber \(with Omar Courtz\)](https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:06 | 2025-03-27 | 2025-04-04 |
@@ -1619,7 +1620,7 @@
 | [Mi Señora](https://open.spotify.com/track/58DFVvdkCyeoJunefwNApK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Mi Señora](https://open.spotify.com/album/3XyUc410Gv5rL6OKgmHwrC) | 3:33 | 2025-03-20 | 2025-03-28 |
 | [Mi Ángel de la Guarda](https://open.spotify.com/track/01EVenejVbeTArpS4HtCKL) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Mi Ángel de la Guarda](https://open.spotify.com/album/198wmhVJr5m2RqLYKeKxik) | 4:03 | 2025-05-29 | 2025-06-06 |
 | [Miami 1990](https://open.spotify.com/track/7rhp1dmQkCmDlJBWmmeApS) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Miami 1990](https://open.spotify.com/album/4EAYebe5JweiTduq6ctvdn) | 3:56 | 2025-02-07 | 2025-02-14 |
-| [miaumiau](https://open.spotify.com/track/77Is9paTcPBXU6BsEFmVt9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [miaumiau](https://open.spotify.com/album/7MThlkn0qhGQHifgt69RvB) | 2:42 | 2025-08-01 |  |
+| [miaumiau](https://open.spotify.com/track/77Is9paTcPBXU6BsEFmVt9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [akaluigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [miaumiau](https://open.spotify.com/album/7MThlkn0qhGQHifgt69RvB) | 2:42 | 2025-08-01 |  |
 | [Mickey](https://open.spotify.com/track/4tRIJ57ePYLTFqMZupSM0z) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Mickey](https://open.spotify.com/album/1V8EX2DkUUJCLOf24KGUml) | 2:58 | 2025-05-01 | 2025-05-09 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-12 | 2025-06-20 |
 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 | 2025-07-24 | 2025-08-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,246 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,251 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 59 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
 | 60 | [Passinho do Volante](https://open.spotify.com/track/4UArceAskfrfcttz7GC5kh) | [Os Leleks](https://open.spotify.com/artist/48QyoqQgVaSaNJKn6J8Ltb) | [Os Melhores Funks da Furacão 2000, Vol.1](https://open.spotify.com/album/0MnkmMNOqg4MZsipU8MrUF) | 2:54 |
 
-Snapshot ID: `AAAAADemuTEM2CcA0nUXUPFnotj3Hjz6`
+Snapshot ID: `ZIxYwAAAAABrvTOlI4rzTMM4TjC1g6D1`

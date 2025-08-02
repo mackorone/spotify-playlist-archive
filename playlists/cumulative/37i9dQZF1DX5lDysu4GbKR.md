@@ -2,12 +2,13 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: SOLOMON
+> Stripped back vibes\. Cover: Alex Isley
 
-289 songs - 16 hr 54 min
+292 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 | 2025-08-01 |  |
 | [\*\*CUDN’T B ME\*\* \- Piano Acoustic](https://open.spotify.com/track/3tyFz7eYgDpaCdQseEQh6A) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [\*\*CUDN’T B ME \(AIN’T TAKEN EM BACK PACK\)\*\*](https://open.spotify.com/album/3Tpn3nbRhqWKuthA92nrUi) | 2:29 | 2025-07-04 |  |
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
 | [4EVER](https://open.spotify.com/track/1Jn4ikm3OMIii8DvdiRT2b) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 3:17 | 2025-05-16 |  |
@@ -161,6 +162,7 @@
 | [Love In the Middle \- Acoustic Version](https://open.spotify.com/track/2wfuQ2AF9vYfmEdOgN5vWu) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Love In The Middle \(Acoustic Version\)](https://open.spotify.com/album/15EqK5ZmUQ61SDrlMwnQWk) | 3:36 | 2025-02-14 |  |
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-27 |  |
 | [Love No Limit \(For Lisa\)](https://open.spotify.com/track/3cHaDV8U7srUIF4MeBubXf) | [Ernie Halter](https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8) | [Acoustic Throwback \- Nineties Rhythm and Blues](https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX) | 3:05 | 2021-12-09 | 2022-01-26 |
+| [Love, Bomb](https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Panda](https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ) | 3:20 | 2025-08-01 |  |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-12-09 | 2024-02-09 |
 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 | 2024-01-17 |  |
 | [Loyalty \- Acoustic](https://open.spotify.com/track/6FTpo3Ji9LOFC5Iv3MFxuF) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/0bsda3ccZoEUpiRW4zwMud) | 4:23 | 2021-12-09 | 2022-01-14 |
@@ -253,6 +255,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-03 | 2023-11-10 |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 | 2023-11-10 |
+| [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 |  |
 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 | 2024-08-09 |  |
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 | 2023-04-09 |
 | [The Truth \(Acoustic\)](https://open.spotify.com/track/41Omyz5CX0Y6J3ftlbAJbJ) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The Truth \(Acoustic\)](https://open.spotify.com/album/751ImyJjwiXZDQLAhFD8Tg) | 3:53 | 2024-03-21 |  |

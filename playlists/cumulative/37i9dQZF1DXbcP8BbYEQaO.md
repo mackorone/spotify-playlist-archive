@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-769 songs - 1 day 19 hr 9 min
+772 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bahia](https://open.spotify.com/track/55FpqPnk2xVXxskdORHJkt) | [Prince Rama](https://open.spotify.com/artist/0nJir6Ire2tWPnUSaKtSYT) | [Bahia \- Single](https://open.spotify.com/album/2CYToEyKziA2A5padKjiUX) | 2:56 | 2022-04-16 | 2022-04-21 |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2021-07-31 | 2022-04-17 |
 | [Be Somebody \- From "Songland"](https://open.spotify.com/track/5PQZQpsG2FOd2kgscVR6kE) | [Brigetta](https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M) | [Be Somebody \(From "Songland"\)](https://open.spotify.com/album/2KGNtjVfLLRx5qG7BtOuJN) | 3:14 | 2020-10-13\* | 2021-07-04 |
-| [beautiful chaos](https://open.spotify.com/track/3rIHz1wTpUNfpF5VaDsaAz) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [beautiful chaos](https://open.spotify.com/album/7pTdim3GDqoir1ifWjMbzH) | 3:36 | 2025-04-11 |  |
+| [beautiful chaos](https://open.spotify.com/track/3rIHz1wTpUNfpF5VaDsaAz) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [beautiful chaos](https://open.spotify.com/album/7pTdim3GDqoir1ifWjMbzH) | 3:36 | 2025-04-11 | 2025-08-02 |
 | [Bedroom](https://open.spotify.com/track/1AHqOMEetDV9sTnQk0mzRD) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Bedroom](https://open.spotify.com/album/4AhQ7kDIHJKi8Q00zgHGdb) | 3:02 | 2022-04-15 | 2022-07-29 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-07-10 | 2021-11-17 |
 | [Bedroom Ceiling \- Ouse Remix](https://open.spotify.com/track/3LjQDbEz8gmZSmJe36tUmh) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Bedroom Ceiling \(Ouse Remix\)](https://open.spotify.com/album/2SA3qutFNIl3QrK7CKkAH5) | 3:25 | 2020-11-18 | 2021-11-20 |
@@ -107,6 +107,7 @@
 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 | 2025-01-03 |  |
 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 | 2023-06-23 | 2024-04-06 |
 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 | 2021-09-11 | 2024-04-27 |
+| [Chocolate](https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Chocolate](https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc) | 3:43 | 2025-08-01 |  |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2020-10-13\* | 2021-09-11 |
 | [Clarity](https://open.spotify.com/track/0INq5ycgfq8gxYoNZGRiCc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/3IcJmQcFPkitObupYRNgd7) | 2:02 | 2020-10-13\* | 2021-02-19 |
 | [Clean](https://open.spotify.com/track/1NmVZsG18CzCAtw7rnV3yA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:31 | 2020-10-13\* | 2021-06-19 |
@@ -149,7 +150,7 @@
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-11-06 | 2022-04-17 |
 | [Dance You Out My System](https://open.spotify.com/track/0FCwYfrKiNvGcfm3iD0DGv) | [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [Dance You Out My System](https://open.spotify.com/album/7eY0rRkvRajYE7CFV5As0J) | 3:23 | 2021-10-23 | 2022-04-17 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-09-12 | 2021-10-23 |
-| [Dancing In The Dark](https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [Dancing In The Dark](https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6) | 3:34 | 2025-05-02 |  |
+| [Dancing In The Dark](https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [Dancing In The Dark](https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6) | 3:34 | 2025-05-02 | 2025-08-02 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-26 | 2021-11-20 |
 | [Dancing Makes Us Brave](https://open.spotify.com/track/6C1cJLAtnHrYG61mBrLABI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/5L76JF4j46E7IhCTDEmmr3) | 4:14 | 2022-04-16 | 2022-04-21 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 | 2020-10-13\* | 2021-06-19 |
@@ -181,6 +182,7 @@
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-04-05 | 2024-07-19 |
 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-08-04 |  |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2023-01-28 |
+| [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 | 2025-08-01 |  |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-02-19 | 2021-07-04 |
 | [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-26 | 2023-07-24 |
 | [Down Bad](https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Down Bad](https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS) | 2:58 | 2024-01-12 | 2024-01-27 |
@@ -600,7 +602,7 @@
 | [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-24 | 2024-08-28 |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2023-01-14 |
 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 | 2024-05-24 | 2024-10-26 |
-| [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-11 |  |
+| [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-11 | 2025-08-02 |
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 | 2022-07-21 | 2023-02-28 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-12 |
@@ -721,6 +723,7 @@
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-19 | 2023-04-09 |
 | [Universe](https://open.spotify.com/track/6g4tLLDSCsZiuPQCYggQ0X) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Universe](https://open.spotify.com/album/6NHTTGRUitvFNPC55j97jj) | 3:48 | 2023-03-10 | 2023-03-18 |
 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 |  |
+| [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 | 2025-08-01 |  |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 | 2023-08-11 |  |
 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 | 2025-07-02 |  |

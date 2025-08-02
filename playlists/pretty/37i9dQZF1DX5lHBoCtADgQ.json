@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 42090,
+  "num_followers": 42118,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
+        "name": "Pher Auna Hai",
+        "url": "https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN"
+      },
+      "artists": [
+        {
+          "name": "Sumira Thakur",
+          "url": "https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup"
+        }
+      ],
+      "duration_ms": 506831,
+      "name": "Pher Auna Hai",
+      "url": "https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR"
+    },
+    {
+      "added_at": "2025-07-03 08:30:54",
+      "album": {
         "name": "Sohni Mahiwal",
         "url": "https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 285714,
       "name": "Sohni Mahiwal",
       "url": "https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB"
-    },
-    {
-      "added_at": "2025-07-03 08:30:54",
-      "album": {
-        "name": "Pher Auna Hai",
-        "url": "https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN"
-      },
-      "artists": [
-        {
-          "name": "Sumira Thakur",
-          "url": "https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup"
-        }
-      ],
-      "duration_ms": 506831,
-      "name": "Pher Auna Hai",
-      "url": "https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR"
     },
     {
       "added_at": "2025-07-03 08:30:54",

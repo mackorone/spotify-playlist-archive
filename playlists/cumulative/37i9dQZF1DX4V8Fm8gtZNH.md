@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-346 songs - 20 hr 31 min
+350 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [Am I a Good Man](https://open.spotify.com/track/1uUitmrrG3Z9RpT5g6RUlk) | [Them Two](https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0) | [Am I a Good Man b/w Love Has Taken Wings](https://open.spotify.com/album/136FnLDYv4eroSb5vgIPrT) | 3:09 | 2023-10-18 |  |
 | [Ascension](https://open.spotify.com/track/3qvPwtirxoG9fC67oygDwx) | [Maxwell](https://open.spotify.com/artist/5QrI0Ml8FugobbnpY4aXWg) | [Ascension](https://open.spotify.com/album/1EQgcBkCHAToFiBG2j8Hgh) | 2:12 | 2025-07-18 |  |
 | [Back Burner](https://open.spotify.com/track/6QeJFGr6dXIykO24UmAAeS) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Songs About Us](https://open.spotify.com/album/5vHbxFqZfAjvpyezS2jR4H) | 2:49 | 2025-06-06 |  |
+| [Back To Life \(However Do You Want Me\)](https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:52 | 2025-08-01 |  |
 | [Back to Me](https://open.spotify.com/track/4s41fhUIeatzAYlstRCxNd) | [Will Jordan](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) | [Back to Me](https://open.spotify.com/album/5MvFSIVZ2U5H6TbpsFFrWm) | 3:44 | 2023-10-18 |  |
 | [Bag Up](https://open.spotify.com/track/09byku50cegoKBqWdSvwDs) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Master Plan Inc](https://open.spotify.com/album/7tMPrjuAhmepGmaqVxNw7G) | 2:51 | 2023-10-18 |  |
 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 | 2023-10-18 |  |
+| [Be Careful](https://open.spotify.com/track/43qoe1yZxqutQmzHAfAeBB) | [Armed Rhymery](https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM) | [Be Careful](https://open.spotify.com/album/2HDcZHyGgvvLwO646Bw3NT) | 3:18 | 2025-08-01 |  |
 | [Be Honest](https://open.spotify.com/track/0RK0zy2hrUcU89diqNkSot) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:05 | 2023-10-18 |  |
 | [Beautiful Madness](https://open.spotify.com/track/3KnDmVhWh2FvtbPjArxckA) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 2:32 | 2024-06-07 |  |
 | [Before The Dawn](https://open.spotify.com/track/4EFPVeCPM2mJo2K1XXJ6bu) | [Jake & Papa](https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR) | [Before The Dawn](https://open.spotify.com/album/3Dv6kS6f1bq4n0v7bMcY3J) | 1:08 | 2024-06-21 |  |
@@ -141,6 +143,7 @@
 | [Hate My Ex](https://open.spotify.com/track/3HXF6O828lZgEMNzpKhCRj) | [Cain Perez](https://open.spotify.com/artist/6VzAAoOgHPItFeFvAiC52V) | [Hate My Ex](https://open.spotify.com/album/4P4RbxPtbNYutN6ZyjSxIW) | 1:59 | 2023-10-18 |  |
 | [Have Fun](https://open.spotify.com/track/63MSbjl8S3sHI0ZalZLBRN) | [Speech](https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt) | [The Vagabond](https://open.spotify.com/album/5Omu6U9lvLacjaMBFCeMxD) | 4:45 | 2023-10-18 |  |
 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/7IIJjOumKTM77xTICDqglh) | [Jeanne Lee](https://open.spotify.com/artist/7ezPWk4DFf9Fb9tdwg0Ych), [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o) | [The Newest Sound Around](https://open.spotify.com/album/2XqR70gpvaargPRJr5M6NZ) | 2:06 | 2023-10-18 |  |
+| [Hear My Prayer \(Acoustic Version\)](https://open.spotify.com/track/0FwVIfz5CFReNMagpkN9Bx) | [Callie Day](https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH) | [Hear My Prayer \(Acoustic Version\)](https://open.spotify.com/album/44s1vyT8Oy6noCOSFvNwtf) | 5:22 | 2025-08-01 |  |
 | [Heartbeat \(feat\. Lisa Shaw\)](https://open.spotify.com/track/1UDlHmyQSOXeTt5S9gi2S8) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Lisa Shaw](https://open.spotify.com/artist/36AfPbkMSwrFoWMQ9sUARb) | [Dim Division](https://open.spotify.com/album/3OQONOxy6x3pmChYfg0heS) | 5:40 | 2023-10-18 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 | 2023-10-18 |  |
 | [Hold Up](https://open.spotify.com/track/7L5M58oYLE9Lmqc8svyVaT) | [Ro$$ Mac](https://open.spotify.com/artist/1Wp4pz27ln2IJoV9nIreFF) | [On My Auntie Kids](https://open.spotify.com/album/3KwXZXqptbeCUsvtFaIyhT) | 3:01 | 2023-10-18 |  |
@@ -352,6 +355,7 @@
 | [You](https://open.spotify.com/track/7p8nTl3KQbPBy7Wf65j9NF) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [MADE, Vol 24: Do Not Disturb](https://open.spotify.com/album/4Dx3GTejd4hIXx85y9EFC0) | 2:52 | 2023-10-18 |  |
 | [You Ain't Gang](https://open.spotify.com/track/2fNkxgImVNczSgpF7OVdIS) | [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [You Ain't Gang](https://open.spotify.com/album/5jSJqBdPnxPQEyRv0fEyyn) | 3:36 | 2023-10-18 |  |
 | [You Ain't Gotta Worry](https://open.spotify.com/track/2FPutcjGpvreg2cAOw2X5f) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 4:09 | 2023-10-18 |  |
+| [You Were Meant for Me](https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:51 | 2025-08-01 |  |
 | [You Were You](https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Avery](https://open.spotify.com/artist/1OTxJAX0bB70zLBFUlxKw5) | [Joy Comes in the Mourning](https://open.spotify.com/album/4y7kCsprTqIC4QUesQKgbS) | 1:34 | 2023-10-18 |  |
 | [Your Man and Your Best Friend](https://open.spotify.com/track/6BUNl0q0pzlMOpSGnYXD49) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [On The Loose / Trapped By A Thing Called Love](https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd) | 3:01 | 2023-10-18 |  |
 

@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: W Sound, Beéle & Ovy On The Drums.
+> ¡Escucha los éxitos de hoy!<br/>Foto: Miranda!
 
 188 songs - 10 hr 15 min
 

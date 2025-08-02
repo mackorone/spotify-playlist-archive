@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: HANRORO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,771 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,770 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [mee6](https://open.spotify.com/track/6g2jDSdrpoCr81GDx1rBUk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [mee6](https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi) | 2:19 |
 | 50 | [WYTD \(Feat\. JOONIE\)](https://open.spotify.com/track/7dVBCTWjY7a95cIuAn2p77) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [JOONIE](https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ) | [WYTD \(Feat\. JOONIE\)](https://open.spotify.com/album/5vhgWZQw7RDKxAVKYww1t7) | 2:38 |
 
-Snapshot ID: `aGY/UwAAAACPduc5tQiA9TT4OPMpUULL`
+Snapshot ID: `aGY/UwAAAABgR6BSf4mTM5HQi/utwVTB`

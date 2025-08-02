@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > Home is where the Hustle is\. Listen to the music from Mo, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,924 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,930 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 97 | [It's Called Initiative](https://open.spotify.com/track/7C4mNcwk0mIJUhCsvsRXPN) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 0:58 |
 | 98 | [Schoolyard Fight](https://open.spotify.com/track/0MvqZuX5ZkMstdAvmNSwCj) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 0:43 |
 
-Snapshot ID: `Z5qbgQAAAAB4rJe3zsNeV1muyop4gdB6`
+Snapshot ID: `AAAAAIaKdn2RIvkHWDyORw2cKpSxgioi`

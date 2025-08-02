@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Chappell Roan, 藤井 風, back number, d4vd  and more!
 
-10,519 songs - 24 day 11 hr 7 min
+10,522 songs - 24 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2356,6 +2356,7 @@
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-24 | 2023-09-01 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-02 | 2023-03-10 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-01 | 2024-11-08 |
+| [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 | 2025-08-01 |  |
 | [DRIP DRIP](https://open.spotify.com/track/2KkpaZhryh0X69d3Lt5NB8) | [MaisonDe](https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [DRIP DRIP](https://open.spotify.com/album/2Euf1jpoadMFeycaUvgRtn) | 2:25 | 2023-06-22 | 2023-06-24 |
 | [DRIP DRIP](https://open.spotify.com/track/4MJcwPmHzKnuwxruG0QBVw) | [MaisonDe](https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [DRIP DRIP](https://open.spotify.com/album/6OaOOcJORgNnFoFHfmXdla) | 2:25 | 2023-06-23 | 2023-06-30 |
 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-18 | 2024-07-27 |
@@ -4174,6 +4175,7 @@
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-24 | 2023-09-01 |
 | [ice to cench](https://open.spotify.com/track/2g1D4pZOe6lyO63s7YnVio) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Soul Quake 2](https://open.spotify.com/album/0NtjVfEdLbMX13CbOZRdvT) | 2:59 | 2024-11-01 | 2024-11-08 |
 | [ICED TEA \(feat\. 21 Savage, Project Pat & Coupe\)](https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [ICED TEA \(feat\. 21 Savage, Project Pat & Coupe\)](https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl) | 3:26 | 2025-07-17 | 2025-07-25 |
+| [ICONIC](https://open.spotify.com/track/5VYVO6zoi3B3o9IJ9EUxNg) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/1gr8097Cod4LbC8pQNFGq8) | 3:26 | 2025-08-01 |  |
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-12 | 2023-10-23 |
 | [ICONIC.](https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [ICONIC.](https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz) | 2:51 | 2024-08-08 | 2024-08-16 |
 | [iconoclasm](https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [iconoclasm](https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M) | 4:50 | 2025-07-17 | 2025-07-25 |
@@ -8014,6 +8016,7 @@
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-21 | 2024-06-28 |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-16 | 2024-08-23 |
 | [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 | 2024-08-01 | 2024-08-09 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 | 2023-10-06 |
 | [Sure Enough \- Nakajin Remix](https://open.spotify.com/track/6J0vtu846omqRE6nYmvvgf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [Sure Enough \(Nakajin Remix\)](https://open.spotify.com/album/5Rqdpd7umReOX5mn0i8cMj) | 3:05 | 2024-02-16 | 2024-02-23 |

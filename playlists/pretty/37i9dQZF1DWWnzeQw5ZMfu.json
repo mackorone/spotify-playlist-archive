@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 72567,
+  "num_followers": 72571,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOYAAAAADjxZIgz4L4jet6ktedEyrV",
+  "snapshot_id": "aIw71gAAAABjPPcZH4r6c99RtKYb8wfy",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:14",
@@ -39,6 +39,22 @@
       "duration_ms": 229566,
       "name": "Cruel Summer - Live from TS | The Eras Tour",
       "url": "https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:22",
+      "album": {
+        "name": "Midnight Sun (Bundle)",
+        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 238807,
+      "name": "Midnight Sun - Live",
+      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
     },
     {
       "added_at": "2025-04-18 04:00:32",
@@ -655,22 +671,6 @@
       "duration_ms": 295613,
       "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
-    },
-    {
-      "added_at": "2025-01-17 22:05:18",
-      "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     }
   ],
   "unique_name": "Pop Live",

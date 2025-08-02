@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Bernadya, JKT48,  Henry Moodie, yung kai, Chappell Roan dan masih banyak lagi dari dalam dan mancanegara
 
-27,859 songs - 66 day 2 hr 45 min
+27,862 songs - 66 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6577,6 +6577,7 @@
 | [Drinking Wine](https://open.spotify.com/track/2zJGwCm2cqkb7q0qrOIMpY) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Hand Over Your Head](https://open.spotify.com/album/0g793HJ3eU7il6ZqXVI9to) | 3:29 | 2020-09-11 | 2020-09-18 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-10-31 | 2024-11-08 |
 | [DRIP](https://open.spotify.com/track/5kwKUg3uSJx3vE5xcOBtmh) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn) | [DRIP](https://open.spotify.com/album/5CRBSkDfKb5214zXQb3XEm) | 2:42 | 2021-04-23 | 2021-04-30 |
+| [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 | 2025-08-01 |  |
 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 | 2025-04-03 | 2025-04-11 |
 | [Drip N' Drop](https://open.spotify.com/track/5pCAhWYET9Ry4UIB3OmSkC) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Ourturn \- MIRAE 4th Mini Album](https://open.spotify.com/album/5s0z21LL5eMd4Xz9raKdDz) | 3:07 | 2022-09-29 | 2022-10-07 |
 | [Drippin' In Gold](https://open.spotify.com/track/2YggNVBxOpzLvwAdlF9934) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/65MawbayrX3kZV1vhFcZkj) | 2:55 | 2023-07-20 | 2023-07-28 |
@@ -11200,6 +11201,7 @@
 | [Icik Icik Bum Bum](https://open.spotify.com/track/7LZCeL3qTlNivnvXYjz4U7) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3), [Bunga Nafisa](https://open.spotify.com/artist/6vn1XVjJm9kouioBxk2u75) | [Icik Icik Bum Bum](https://open.spotify.com/album/0ZAdE7Qs6BDVvds5egCtH2) | 2:54 | 2025-03-14 | 2025-03-21 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 | 2023-06-02 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2023-12-01 |
+| [ICONIC](https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/5Boa7YknUbdFy87sIxQ2vG) | 3:26 | 2025-07-31 |  |
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-12 | 2023-10-20 |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2021-10-08 |
 | [Icy](https://open.spotify.com/track/4IXtbeWsD2DQWnTfjDSMjm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:58 | 2020-07-18 | 2020-07-24 |
@@ -22948,6 +22950,7 @@
 | [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 | 2023-10-20 |
 | [Superstar](https://open.spotify.com/track/2ljmLkMNJI4LDqSkC45ONE) | [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Superstar](https://open.spotify.com/album/7p58pzLOgsEgNBaJjha5PS) | 2:38 | 2021-07-02 | 2021-07-09 |
 | [SUPERSTAR](https://open.spotify.com/track/2HIuN2RfCbsCUje2jcrIWW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SUPERSTAR](https://open.spotify.com/album/2GPur1qu6RRTMoaREZxS19) | 2:54 | 2021-05-28 | 2021-06-04 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-07-31 |  |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [Superwoman](https://open.spotify.com/track/0YvseBYBS48pRBjQiiq2bU) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Ashanty](https://open.spotify.com/artist/7MEShHN53iT3SQQRGNDEnR), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi) | [Superwoman](https://open.spotify.com/album/1A8ibcuGdO1DEx5Zsdxqv5) | 3:38 | 2021-11-05 | 2021-11-12 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 | 2024-04-05 |

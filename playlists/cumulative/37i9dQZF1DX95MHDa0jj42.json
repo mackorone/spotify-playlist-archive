@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "flickering shores",
+        "url": "https://open.spotify.com/album/2FhYI1s8iyPjor0zRndGHM"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121054,
+      "name": "flickering shores",
+      "url": "https://open.spotify.com/track/2JyVekVPdWIu72yF2YxOl0"
+    },
+    {
+      "album": {
         "name": "flight path",
         "url": "https://open.spotify.com/album/5KLmw6elvvNBkmB0BRCDCv"
       },
@@ -1089,6 +1107,32 @@
     },
     {
       "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/0lYZLTKtyzy6O8ojnxzHTK"
+      },
+      "artists": [
+        {
+          "name": "Brxvs",
+          "url": "https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5"
+        },
+        {
+          "name": "saint rumi",
+          "url": "https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ"
+        },
+        {
+          "name": "jazzluv",
+          "url": "https://open.spotify.com/artist/2mXxZcLz0r7WZeYa9o0ztS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/47OOcZI0JjECLMcCVXYIEL"
+    },
+    {
+      "album": {
         "name": "Pheasants",
         "url": "https://open.spotify.com/album/131vhc74AzdwUVznCpBOpG"
       },
@@ -1118,7 +1162,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 90000,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/7b5JyYcFwkOM10McPjh7Vt"
@@ -1482,7 +1526,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 175999,
       "name": "sunny dream",
       "url": "https://open.spotify.com/track/61vVDbS6skf078UCbyOiqq"

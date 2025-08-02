@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Songwriters and storytellers 📚 Cover: Pedro Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,088 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,104 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 28 | [Really Boring](https://open.spotify.com/track/09Iem1QnKSMILt74M4q9Vw) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Really Boring](https://open.spotify.com/album/79I52IiskGMNq2TIGnNzVf) | 3:19 |
 | 29 | [stranger](https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [HONEYCOATED](https://open.spotify.com/album/6eBLl4owVt3F2oK3vnnLAv) | 1:55 |
 | 30 | [See You Later \(maybe never\)](https://open.spotify.com/track/4Rsy5ST2olSWRlbsjlRlI2) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [See You Later \(maybe never\)](https://open.spotify.com/album/3qhTDNrJ33i7xph9YGEDcv) | 2:53 |
-| 31 | [Where She Goes](https://open.spotify.com/track/4G6ZTfgQa1FKPRhHmcUcsz) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [where she goes](https://open.spotify.com/album/3eM5UVO7vAaPVqrsyaNPRD) | 4:06 |
+| 31 | [where she goes](https://open.spotify.com/track/4G6ZTfgQa1FKPRhHmcUcsz) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [where she goes](https://open.spotify.com/album/3eM5UVO7vAaPVqrsyaNPRD) | 4:06 |
 | 32 | [I'm Done \(Games That You Play\)](https://open.spotify.com/track/3CU0zRaHMAbPR66sCS4SVC) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Is This What You've Been Waiting For?](https://open.spotify.com/album/5ejJPbIGRno4cbZFz08bik) | 3:03 |
 | 33 | [Five Thousand Miles](https://open.spotify.com/track/4xzv0BL6V897aDLDk9vgFk) | [remote](https://open.spotify.com/artist/5UBiyNOGQ38WLLtpL8ta5d) | [Five Thousand Miles](https://open.spotify.com/album/3lVGavtlcUEjYKy9lh5rgi) | 3:32 |
 | 34 | [Sweet Teeth](https://open.spotify.com/track/4cc4PxIF6eBP5EPNC3KYdI) | [Theo Lear](https://open.spotify.com/artist/40ywafLS6QHUEmssWuTkxG) | [Sweet Teeth](https://open.spotify.com/album/08AABFfqUjf1ciLuvg6uyb) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |
 | 100 | [Losing My Mind](https://open.spotify.com/track/5YxMvYBYtj9QFzuV994qF2) | [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Losing My Mind](https://open.spotify.com/album/2sZ7yK4FT8OWCucOhTT3X1) | 3:20 |
 
-Snapshot ID: `AAAAAHn3c3jnMb1puh5JBcbflj3d0rIx`
+Snapshot ID: `aIv1fgAAAAACeGJOV1eGfoHatiloVVBE`

@@ -4,7 +4,7 @@
 
 > Neue Musik von Chappell Roan, Amo, Lune, Felix Jaehn und mehr!
 
-5,719 songs - 11 day 16 hr 18 min
+5,721 songs - 11 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3321,6 +3321,7 @@
 | [Mensch zu sein](https://open.spotify.com/track/6fofY7cOAn1MOJtaLCfuMi) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Mensch zu sein](https://open.spotify.com/album/6GhpFitpmPZwCcHQdwOTXB) | 2:25 | 2025-02-20 | 2025-02-28 |
 | [Menschen](https://open.spotify.com/track/4rT8KycWfIjUjh4kD2k5et) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe) | [Menschen](https://open.spotify.com/album/4RaZENO3TDlIsipmssLYus) | 2:41 | 2024-09-12 | 2024-09-20 |
 | [Menschen machen solche Sachen](https://open.spotify.com/track/2MnZgrIlvVDchy6yQVYUOf) | [Frida Gold](https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL) | [Menschen machen solche Sachen](https://open.spotify.com/album/6zKXwOa3iOXZdWI1TAnX5w) | 3:06 | 2025-03-13 | 2025-03-21 |
+| [Mephisto](https://open.spotify.com/track/04txXxnX14crWZJZz59Srm) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Mephisto](https://open.spotify.com/album/6vtQXepQ7lMJJ2Bz9uOYDp) | 4:05 | 2025-08-01 |  |
 | [merk was](https://open.spotify.com/track/3MMqnwH82F3NjStf0SRrIQ) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c), [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [merk was](https://open.spotify.com/album/3pcuT0Ub2LOzU7FMlGimF2) | 2:13 | 2024-09-13 | 2024-09-20 |
 | [merk was \- solo version](https://open.spotify.com/track/0O4iHakcgRvCyB6aojnBaB) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [merk was](https://open.spotify.com/album/3pcuT0Ub2LOzU7FMlGimF2) | 2:13 | 2024-09-12 | 2024-09-14 |
 | [Merkst du schon was? \- Erobique Remix](https://open.spotify.com/track/4OteLm3whjqpabu3vPv0BN) | [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg), [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH) | [Merkst du schon was? \(Erobique Remix\)](https://open.spotify.com/album/2fl5hlxmJ6HsWaeWep3BtJ) | 3:55 | 2025-05-15 | 2025-05-23 |
@@ -4719,6 +4720,7 @@
 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-06-05 | 2025-06-13 |
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-24 | 2024-11-01 |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-22 | 2025-05-30 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Surprise](https://open.spotify.com/track/2PJV3Ef8OzZId9Jfvz9eCn) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Surprise](https://open.spotify.com/album/0ODBfRtcZwoNAPfHiSh9V1) | 2:26 | 2025-01-02 | 2025-01-10 |
 | [Surreal \(feat\. myne\)](https://open.spotify.com/track/7aqLQxff4CFrCp4iyzipmW) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Surreal \(feat\. myne\)](https://open.spotify.com/album/2dRNDPcEJzE1F0MvQLjcyy) | 1:55 | 2024-06-06 | 2024-06-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 47250,
+  "num_followers": 47277,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIMBaAAAAAB23mDRkzP2NAVpKBqEM3QN",
+  "snapshot_id": "aIzddQAAAAB6YWD1dLSRC4CPS2F+j0cb",
   "tracks": [
     {
       "added_at": "2025-07-25 04:00:40",
@@ -39,6 +39,22 @@
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
+      "added_at": "2025-08-01 15:29:57",
+      "album": {
+        "name": "HEARTLAND",
+        "url": "https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 244930,
+      "name": "HEARTLAND",
+      "url": "https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq"
+    },
+    {
       "added_at": "2025-07-11 04:00:19",
       "album": {
         "name": "Holy Shuffle (feat. Billy Porter)",
@@ -107,22 +139,6 @@
       "duration_ms": 160679,
       "name": "Holy Shuffle (feat. Billy Porter)",
       "url": "https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
       "added_at": "2025-06-06 04:00:09",
@@ -227,22 +243,6 @@
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
-    },
-    {
-      "added_at": "2025-03-21 04:01:02",
-      "album": {
-        "name": "MAKE IT OUT ALIVE",
-        "url": "https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw"
-      },
-      "artists": [
-        {
-          "name": "MORGXN",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 171509,
-      "name": "MAKE IT OUT ALIVE",
-      "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"
     },
     {
       "added_at": "2025-03-07 05:00:20",

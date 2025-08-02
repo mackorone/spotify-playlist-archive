@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-763 songs - 2 day 10 hr 14 min
+764 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Pray](https://open.spotify.com/track/5dX5A2mNU8EeCQ6um2uOzL) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Gaman / Pray](https://open.spotify.com/album/2eZdxfI2TbafTBqpzJb8Ua) | 7:16 | 2023-06-02 | 2023-06-10 |
 | [Pressure](https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Adam Nazar](https://open.spotify.com/artist/0K9gqsmGSMWBcf0tDgbMGa) | [Pressure](https://open.spotify.com/album/28pnttupmDIu0TM7sevN0n) | 3:32 | 2024-03-15 | 2024-06-01 |
 | [Prometheus](https://open.spotify.com/track/7sO0E7yfhhLjWoKOt4aZ7j) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Goethe \- EP](https://open.spotify.com/album/3hp5jQqJW4iygbwprFOA67) | 8:20 | 2022-11-24 | 2022-12-24 |
-| [Prometheus](https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Prometheus](https://open.spotify.com/album/1KcpzRBXg96b5XWCzV2OKX) | 3:20 | 2024-11-21 |  |
+| [Prometheus](https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Prometheus](https://open.spotify.com/album/1KcpzRBXg96b5XWCzV2OKX) | 3:20 | 2024-11-21 | 2025-08-02 |
 | [Promised Land \- Innellea Remix](https://open.spotify.com/track/5Bm80brVErgdRSw5sEuyg4) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Promised Land \(Innellea Remix\)](https://open.spotify.com/album/54wJZluSHOKa9X5JWTuB0m) | 4:35 | 2024-09-26 | 2025-02-14 |
 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 | 2023-08-04 | 2023-09-21 |
 | [Psychonaut](https://open.spotify.com/track/7cP6fXm6uZBzgzsbmQnLrX) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Psychonaut](https://open.spotify.com/album/2ntYBERfXSCvLFLI48pNog) | 6:40 | 2023-02-27 | 2023-03-04 |
@@ -684,6 +684,7 @@
 | [The Tide](https://open.spotify.com/track/3UWQvz3JJJbseHOoyX7Xw0) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Beautiful Errors](https://open.spotify.com/artist/2hXE7AOxECS5zOIPxtYYaM) | [The Tide](https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc) | 4:04 | 2022-12-09 | 2023-01-25 |
 | [The Way](https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Way](https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co) | 2:39 | 2024-04-18 | 2025-01-17 |
 | [The World Is Yours](https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [The Pledge](https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i) | 3:35 | 2024-07-02 |  |
+| [Think Of You](https://open.spotify.com/track/0vgPEOv8rK7xUmPZ6Hj4aJ) | [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Think Of You](https://open.spotify.com/album/2SphzSM9k0tXMviOMXw24N) | 2:36 | 2025-08-01 |  |
 | [This Feeling \- Sean Tyas Remix](https://open.spotify.com/track/2QcqR30AQSk8imC59CEp6G) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Sean Tyas](https://open.spotify.com/artist/4zqERoiO42cNiA3pPDWnvN) | [This Feeling \(Sean Tyas Remix\)](https://open.spotify.com/album/5wtLckbpcdxiYhaC1ZYpvA) | 3:07 | 2024-05-08 | 2024-05-17 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-23 |  |
 | [Time \- Nihil Young Remix](https://open.spotify.com/track/3DHXEhyUTI7qr9dnWpWThw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 5:48 | 2024-10-03 | 2024-10-18 |

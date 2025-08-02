@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Afra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,055 likes - 50 songs - 2 hr 33 min
+[](https://open.spotify.com/user/null) - 1,523,325 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-723 songs - 1 day 18 hr 51 min
+727 songs - 1 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Fascination](https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Fascination](https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M) | 4:23 | 2024-07-15 | 2025-02-18 |
 | [Fictional Characters](https://open.spotify.com/track/2CnQ47NMVVLaweU6L88Xqj) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Fictional Characters](https://open.spotify.com/album/24icDB7xHNdjBuPnEcf5Ai) | 3:20 | 2024-07-22 | 2025-07-16 |
 | [Fields](https://open.spotify.com/track/09ceAlSJi9mU20AFDcagHp) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Fields](https://open.spotify.com/album/63OcZAGzlBeboeB5D3pAnM) | 2:49 | 2025-04-04 | 2025-07-02 |
+| [Fields Of Glory](https://open.spotify.com/track/08AqDGp7TqJcBFZgrSNLNg) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Fields Of Glory](https://open.spotify.com/album/1oKUS3lcnZutFzXP5qaJrJ) | 3:31 | 2025-08-01 |  |
 | [Fines Doubled](https://open.spotify.com/track/3QUbBo74iaNkC0eqLzVqiA) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 2:24 | 2022-05-17 | 2025-07-16 |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-10 | 2024-08-27 |
 | [First Time For Everything](https://open.spotify.com/track/6E530UBMu71rmEEA5ELHq7) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [First Time For Everything](https://open.spotify.com/album/0vORUNDYdCN4BtAfojabgm) | 4:32 | 2025-02-17 | 2025-05-20 |
@@ -333,6 +334,7 @@
 | [Let's Fall In Love](https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Let's Fall In Love](https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT) | 2:50 | 2023-12-08 | 2024-12-04 |
 | [Let's Fall In Love](https://open.spotify.com/track/4J6GUPhrAVnfrrL32ycOMh) | [Saint Clair Quartet](https://open.spotify.com/artist/4531fZykDkWT8oOdKx7MOl) | [Let's Fall In Love](https://open.spotify.com/album/1BEAKSDd8m6fmA0yW3itcW) | 3:26 | 2022-05-17 | 2022-10-07 |
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2022-12-22 |  |
+| [Lights of Lisbon](https://open.spotify.com/track/7dTvWNmIchg1RA47wB2PV7) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Lights of Lisbon](https://open.spotify.com/album/2uQM7KD2rNP21B9CLvP2yP) | 3:03 | 2025-08-01 |  |
 | [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 | 2023-10-27 | 2024-08-07 |
 | [Like Someone In Love](https://open.spotify.com/track/5aQgWuYF4U6N1XDuk0fcol) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Like Someone In Love](https://open.spotify.com/album/7r0miSdrDBxHOfzHCXPYBj) | 3:44 | 2023-05-25 | 2025-06-06 |
 | [Listen](https://open.spotify.com/track/6fI0UzIJTBiBhSxDhKHwXH) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Listen](https://open.spotify.com/album/1sLnvQFc4FAHufXfm0FhgS) | 4:23 | 2024-06-24 |  |
@@ -486,6 +488,7 @@
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-13 | 2024-12-04 |
 | [Remi](https://open.spotify.com/track/4ZZaGozqh1YKbGzRIpbLqh) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Remi](https://open.spotify.com/album/2MS0JjlkQv1PkwjecdR4ER) | 3:31 | 2023-08-10 | 2024-08-27 |
 | [Rhapsody in Raindrops](https://open.spotify.com/track/3ezuMYDq4bDEjG0wl1a18b) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Rhapsody in Raindrops](https://open.spotify.com/album/15MNDdWdIfPW4i3tJgR5Gl) | 3:20 | 2024-04-23 | 2025-07-16 |
+| [Rhetoric Blue](https://open.spotify.com/track/0DcHS96mZg8rAuG9a8gE5Z) | [The Fading Light Trio](https://open.spotify.com/artist/3ORrNORmkA0W8UamB9B3IC) | [Rhetoric Blue](https://open.spotify.com/album/1QW2BY51EFy7w5Yjquoetz) | 2:53 | 2025-08-01 |  |
 | [Rhythm of the City](https://open.spotify.com/track/2lIBvRZeHGoxpQlh8Mc3Jr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rhythm of the City](https://open.spotify.com/album/4DNMzms3jYncztKWhUVAQL) | 3:02 | 2023-08-10 | 2024-08-07 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2023-04-14 |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-10 | 2025-07-16 |
@@ -719,6 +722,7 @@
 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 | 2022-05-17 | 2023-03-10 |
 | [You Make Me Blush](https://open.spotify.com/track/6fp6wL32hOQzyvVmjURsUg) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [You Make Me Blush](https://open.spotify.com/album/0UIIk4OzCLqOg22bsRTvnL) | 2:12 | 2024-05-23 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 | 2025-04-05 |
+| [You Were Almost a Song](https://open.spotify.com/track/4JSfrsqk0YHYqgBWricKdE) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [You Were Almost a Song](https://open.spotify.com/album/6rLtSSyKCl7WdBCYlOZpIS) | 3:08 | 2025-08-01 |  |
 | [You were saying...](https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [You were saying...](https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT) | 4:08 | 2023-12-08 | 2025-06-06 |
 | [You Were Waiting for Me](https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [You Were Waiting for Me](https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t) | 4:08 | 2025-01-07 |  |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-02 | 2024-06-18 |

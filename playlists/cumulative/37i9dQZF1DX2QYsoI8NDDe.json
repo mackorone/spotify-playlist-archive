@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Camila Fern\u00e1ndez\n",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Angelina Victoria, Alana Flores \n",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Botellas Desde Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/2wgwmCPMgQd3mf3BTXgTyb"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184902,
+      "name": "100 Botellas Desde Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/0zxkkV90rRYahErPCHgnOP"
+    },
     {
       "album": {
         "name": "2 Balas",
@@ -698,7 +716,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 197429,
       "name": "A\u00fan As\u00ed Te Vas",
       "url": "https://open.spotify.com/track/1brn629MQJ4GOKmUiIjFSv"
@@ -822,6 +840,24 @@
       "duration_ms": 147263,
       "name": "BBYKTAL",
       "url": "https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI"
+    },
+    {
+      "album": {
+        "name": "Bebiendo L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2i72xNirRiPj96mYHBXSiE"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Bebiendo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1JLc36BPeiaB0JM16JG0MC"
     },
     {
       "album": {
@@ -966,6 +1002,28 @@
       "duration_ms": 132645,
       "name": "Bola de traviezos",
       "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
+    },
+    {
+      "album": {
+        "name": "Brujer\u00eda (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6FHoFi6CTNoTK8e5wEg852"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123136,
+      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3sD5xTCmglML7uUHkLRtDN"
     },
     {
       "album": {
@@ -1172,6 +1230,28 @@
       "duration_ms": 136250,
       "name": "Choro",
       "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
+    },
+    {
+      "album": {
+        "name": "Cielito Lindo",
+        "url": "https://open.spotify.com/album/76OiCw7gf0N20LZeEcndOt"
+      },
+      "artists": [
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        },
+        {
+          "name": "Alana Flores",
+          "url": "https://open.spotify.com/artist/2r9XkNDzjrwjenvMAqH3XW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7h4DqhoaJ2twPKindqYLY3"
     },
     {
       "album": {
@@ -1392,6 +1472,28 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "album": {
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "Contigo Me Clav\u00e9",
+      "url": "https://open.spotify.com/track/77OMMe0pVx4B7adPMkmRpW"
     },
     {
       "album": {
@@ -1974,7 +2076,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 160656,
       "name": "El Chico Aquel",
       "url": "https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92"
@@ -2130,6 +2232,24 @@
       "duration_ms": 179256,
       "name": "El Jessy (En Vivo)",
       "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
+    },
+    {
+      "album": {
+        "name": "El Ojeroso",
+        "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157560,
+      "name": "El Ojeroso",
+      "url": "https://open.spotify.com/track/5zn0QKpWGANfRa0K5G8oX6"
     },
     {
       "album": {
@@ -3362,7 +3482,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 193500,
       "name": "LA BUCHONA",
       "url": "https://open.spotify.com/track/163154twthW34ynHg7zMKj"
@@ -4144,7 +4264,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
@@ -5142,7 +5262,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 145962,
       "name": "Mujeres al Tiro",
       "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
@@ -5460,7 +5580,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 170804,
       "name": "No Gracias",
       "url": "https://open.spotify.com/track/7wFQBSmm08y2kVkqtoWO9m"
@@ -6195,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "Para Que Seas Feliz (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4tQ8S62OSEcp4Uj0VKw8gv"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180096,
+      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/4o0VYl7x6VAlWVxGA4P7UJ"
+    },
+    {
+      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -6286,7 +6424,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 115537,
       "name": "Piel Azteca",
       "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
@@ -7695,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "SOY REBELDE",
+        "url": "https://open.spotify.com/album/4wHmVQ8EJRHkm7DWeoSwoW"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210209,
+      "name": "SOY REBELDE",
+      "url": "https://open.spotify.com/track/5zmFwtmXOwY0mfqGI0MfYB"
+    },
+    {
+      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA"
       },
@@ -8712,7 +8868,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 151901,
       "name": "When I was your Man - En Vivo",
       "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
@@ -8802,7 +8958,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"
@@ -9198,7 +9354,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 209185,
       "name": "\u00bfPor Qu\u00e9 Te Conoc\u00ed?",
       "url": "https://open.spotify.com/track/7LqpB2MK0SavPSijGWJtWC"

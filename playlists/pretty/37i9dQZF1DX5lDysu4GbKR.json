@@ -1,13 +1,61 @@
 {
-  "description": "Stripped back vibes. Cover: SOLOMON",
-  "num_followers": 612422,
+  "description": "Stripped back vibes. Cover: Alex Isley",
+  "num_followers": 612405,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRyaducbJQYdwLv75kbb716BQRy",
+  "snapshot_id": "AAAAADrmMruXbre8c0x/pKEE86bzslFN",
   "tracks": [
+    {
+      "added_at": "2025-08-01 05:39:39",
+      "album": {
+        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
+        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235249,
+      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
+      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
+    },
+    {
+      "added_at": "2025-07-11 08:33:57",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 83226,
+      "name": "ZUMA HOUSE",
+      "url": "https://open.spotify.com/track/3xytfOwki3uHqzhvMWI6HN"
+    },
+    {
+      "added_at": "2025-08-01 05:39:39",
+      "album": {
+        "name": "(un)Folded",
+        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "(un)Folded",
+      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
+    },
     {
       "added_at": "2025-07-11 08:33:57",
       "album": {
@@ -25,20 +73,20 @@
       "url": "https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf"
     },
     {
-      "added_at": "2025-07-11 08:33:57",
+      "added_at": "2025-08-01 05:39:39",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
         }
       ],
-      "duration_ms": 83226,
-      "name": "ZUMA HOUSE",
-      "url": "https://open.spotify.com/track/3xytfOwki3uHqzhvMWI6HN"
+      "duration_ms": 200997,
+      "name": "Love, Bomb",
+      "url": "https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA"
     },
     {
       "added_at": "2025-06-14 14:48:32",

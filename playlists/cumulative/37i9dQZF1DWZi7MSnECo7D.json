@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: YMA",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Momboj\u00f3",
   "name": "alt BR",
   "tracks": [
     {
@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Can\u00e7\u00e3odanoite",
+        "url": "https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m"
+      },
+      "artists": [
+        {
+          "name": "Momboj\u00f3",
+          "url": "https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Can\u00e7\u00e3odanoite",
+      "url": "https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK"
+    },
+    {
+      "album": {
         "name": "Capeta",
         "url": "https://open.spotify.com/album/50HzrLIj0SXxm2jkKQsSXg"
       },
@@ -3491,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1 Na Z\u00e1rea Todos Querem Viver Bem",
+        "url": "https://open.spotify.com/album/1InkjsA0pPp4AjeDpAOpbK"
+      },
+      "artists": [
+        {
+          "name": "Mateus Fazeno Rock",
+          "url": "https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285434,
+      "name": "Daquilo que Nois Merece",
+      "url": "https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug"
+    },
+    {
+      "album": {
         "name": "Todos os conselhos que n\u00e3o segui",
         "url": "https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN"
       },
@@ -3564,7 +3600,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199236,
       "name": "de tudo que eu sonhei sozinho",
       "url": "https://open.spotify.com/track/2nAosIAHtsSC6kNPjAVlr1"
@@ -5912,7 +5948,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 190384,
       "name": "Hasta Luego",
       "url": "https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY"

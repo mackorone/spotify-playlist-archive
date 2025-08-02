@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『BOYNEXTDOOR TOUR ‘KNOCK ON Vol.1’ ENCORE IN JAPAN』 のセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,746 likes - 22 songs - 59 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 34,742 likes - 22 songs - 59 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 21 | [So let's go see the stars](https://open.spotify.com/track/7x9s9KVpMOrQ2z2fzOGo8z) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 3:22 |
 | 22 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
 
-Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`
+Snapshot ID: `aGKmggAAAAA89gOQIa9thbNWHGfoYf+l`

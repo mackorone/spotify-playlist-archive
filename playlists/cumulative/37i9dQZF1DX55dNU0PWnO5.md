@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-437 songs - 1 day 2 hr 21 min
+438 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
 | [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 | 2024-02-09 | 2024-08-10 |
 | [Dream Drone](https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Dream Drone](https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q) | 4:28 | 2021-07-30 |  |
+| [Dream Hands](https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Dream Hands](https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF) | 3:10 | 2025-08-01 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-10 | 2023-05-13 |
 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 | 2023-09-29 |  |
 | [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 | 2022-11-04 | 2023-07-29 |
@@ -307,7 +308,7 @@
 | [Reset](https://open.spotify.com/track/4Hm30fhcX2gtBxzDRr009T) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Reset](https://open.spotify.com/album/400HOzNdS7kJVCM6EsCCFB) | 2:52 | 2021-10-15 | 2022-04-20 |
 | [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 | 2025-07-04 |  |
 | [Respite](https://open.spotify.com/track/5mlEjqThIiz9S9pkLrdOWn) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Respite](https://open.spotify.com/album/7zZ8JGTOPRhxjIVa9VYhu6) | 2:00 | 2023-03-24 | 2024-02-17 |
-| [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 | 2021-06-25 |  |
+| [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 | 2021-06-25 | 2025-08-02 |
 | [Returning the Flavour](https://open.spotify.com/track/67uXhwaZIJqgTF4IYzKZmG) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Trian Kayhatu](https://open.spotify.com/artist/51TOlXFbJfbcclHeWl1DNw) | [Do My Thing / Returning the Flavour](https://open.spotify.com/album/26lDpwFQsViXI1Miw4K6Uz) | 3:02 | 2021-01-29 | 2022-03-26 |
 | [Right Now](https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [Right Now](https://open.spotify.com/album/4dEEbU4lD5yDJ7VJU0bIuW) | 3:11 | 2021-05-07 |  |
 | [Right Now](https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:11 | 2021-05-07 | 2024-04-19 |

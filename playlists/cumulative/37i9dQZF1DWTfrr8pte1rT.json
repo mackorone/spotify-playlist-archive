@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
@@ -1710,6 +1710,32 @@
       "duration_ms": 254032,
       "name": "Clone",
       "url": "https://open.spotify.com/track/3x7WKt5WBa0oOPaPB93Zwv"
+    },
+    {
+      "album": {
+        "name": "Close to Closure",
+        "url": "https://open.spotify.com/album/4cXQkpuZkLsztngL32AQg7"
+      },
+      "artists": [
+        {
+          "name": "CADMIUM",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz"
+        },
+        {
+          "name": "Shawn O'Donnell",
+          "url": "https://open.spotify.com/artist/5SSyuK39LCZxykzimAXYQU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Close to Closure",
+      "url": "https://open.spotify.com/track/4qqIyZy6MEvZB3pmPQlcCH"
     },
     {
       "album": {

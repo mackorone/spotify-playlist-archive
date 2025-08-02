@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Friction",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis, Kairo Keyz",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 129201,
       "name": "4 Me",
       "url": "https://open.spotify.com/track/26bL8XQSyFjdWUhwO9de8J"
@@ -3027,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Can't Love Me",
+        "url": "https://open.spotify.com/album/6Zk5PXlpX7Eu6NKLvgHjFp"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Can't Love Me",
+      "url": "https://open.spotify.com/track/1tALflD6FaMu5fHeIIUHPy"
+    },
+    {
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
       },
@@ -3042,7 +3064,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 201131,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
@@ -3790,7 +3812,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 183620,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4H8UCydV1B54wpzkqurvdW"
@@ -4270,6 +4292,32 @@
       "duration_ms": 208457,
       "name": "Darkness (feat. Charlotte Haining) - Kara Remix",
       "url": "https://open.spotify.com/track/53MOHKlpCofdkuwaHOwQex"
+    },
+    {
+      "album": {
+        "name": "Darlin' (feat. Sean Paul & Brodie)",
+        "url": "https://open.spotify.com/album/0ixEaoNaJMDniffs0HfMpt"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154532,
+      "name": "Darlin' (feat. Sean Paul & Brodie)",
+      "url": "https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT"
     },
     {
       "album": {
@@ -5940,7 +5988,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 246669,
       "name": "Feed My Soul",
       "url": "https://open.spotify.com/track/01X9jZr6ryojYaPfUowGBV"
@@ -6632,7 +6680,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 245517,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
@@ -6724,6 +6772,32 @@
       "duration_ms": 209655,
       "name": "Freefalling",
       "url": "https://open.spotify.com/track/7uBuBwDQJzcSVfR3rSvsSF"
+    },
+    {
+      "album": {
+        "name": "Friendly Pressure (I Wanna Be With You)",
+        "url": "https://open.spotify.com/album/1JGamfh8X6DxbrEPSnyNsu"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "Friendly Pressure (I Wanna Be With You)",
+      "url": "https://open.spotify.com/track/1s2kiOksPFd9ppRTY1lzyE"
     },
     {
       "album": {
@@ -11110,7 +11184,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 147318,
       "name": "Made In Romania",
       "url": "https://open.spotify.com/track/3UdvaAWbTRWQdtbuElsqSU"
@@ -16364,7 +16438,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 135313,
       "name": "Skanga Riddim",
       "url": "https://open.spotify.com/track/6adCQNHeSFlKBwUJu8F15Z"
@@ -20560,7 +20634,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 182419,
       "name": "Why Can't It Always Be Like This",
       "url": "https://open.spotify.com/track/3W1kgexqXUKZr38D5lkdN5"

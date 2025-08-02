@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-272 songs - 14 hr 12 min
+273 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [I Love To Singa Medley](https://open.spotify.com/track/5eV5j7xDl6WivVpn1HTPa2) | [George Daugherty](https://open.spotify.com/artist/5AVk5EsHDS7cYq88xnv3Sb), [Sydney Symphony Orchestra](https://open.spotify.com/artist/6urvbTw4Mi2tGEEyBVXgMo) | [Bugs Bunny at the Symphony](https://open.spotify.com/album/4Aq4wyLFrtmL1lHyivGM7U) | 6:37 | 2024-07-24 | 2024-09-15 |
 | [I Recall A Gypsy Woman](https://open.spotify.com/track/2RXRm46VHpP7VFfYawtM38) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Volume One](https://open.spotify.com/album/636jxOsNtMC0sFZaRhpJ3p) | 3:24 | 2024-07-24 | 2025-06-28 |
 | [I Think I'll Read It Again](https://open.spotify.com/track/3hPPJwwWumoO69VsutsUkb) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Singing News 30th Anniversary Collection](https://open.spotify.com/album/0x06EpUiOgtulU5S75K6Bg) | 2:53 | 2024-07-24 | 2025-06-28 |
-| [I'll Follow Your Smile](https://open.spotify.com/track/6Bryms0Y5QOnaxVVCVZWj2) | [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [Marni Nixon Sings Classic Kern](https://open.spotify.com/album/4fg5ia3eWNep8PxPLcS7NI) | 1:39 | 2024-07-24 |  |
+| [I'll Follow Your Smile](https://open.spotify.com/track/0yg5jWBbYpsv2t1PqqH1SK) | [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [Marni Nixon Sings Classic Kern](https://open.spotify.com/album/1Rl4w7jnPv3BTmEe22XDqz) | 1:39 | 2025-08-01 |  |
+| [I'll Follow Your Smile](https://open.spotify.com/track/6Bryms0Y5QOnaxVVCVZWj2) | [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [Marni Nixon Sings Classic Kern](https://open.spotify.com/album/4fg5ia3eWNep8PxPLcS7NI) | 1:39 | 2024-07-24 | 2025-08-02 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2025-01-09 | 2025-04-12 |
 | [I'm Yours](https://open.spotify.com/track/0n10k0Weq82TsKYujfK7Hq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Sings](https://open.spotify.com/album/7f4OsSd7Qt5hkEX5sPMW9s) | 3:15 | 2025-04-26 | 2025-06-28 |
 | [I'm Yours](https://open.spotify.com/track/27FdkYaQhJKD0IKgrCB4Uo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:16 | 2024-07-24 | 2025-04-27 |

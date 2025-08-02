@@ -4,7 +4,7 @@
 
 > Brand new music from Chappell Roan, Demi Lovato, Rema and more!
 
-17,569 songs - 39 day 13 hr 16 min
+17,570 songs - 39 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15418,6 +15418,7 @@
 | [They Just Don't Know](https://open.spotify.com/track/5B8vXHPjp2jmSsFlwTBVGj) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Money Over Everyone 4](https://open.spotify.com/album/5ybqrMOT6VflXKiZNqq4BJ) | 3:24 | 2023-06-29 | 2023-07-07 |
 | [They Sold My Home To Build A Skyscraper](https://open.spotify.com/track/26M0qUTcJfYhw2T8SeTAiL) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Sadness Sets Me Free](https://open.spotify.com/album/3qpQSTi0YJFDoWom0wGIOT) | 3:04 | 2024-01-26 | 2024-02-02 |
 | [They Them Flow](https://open.spotify.com/track/1XXHhWmzxCOjNOdB86ahkX) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [They Them Flow](https://open.spotify.com/album/29352BDe6uymUYU2h0udKN) | 3:22 | 2025-02-07 | 2025-02-14 |
+| [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 | 2025-08-01 |  |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 | 2022-11-11 |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2023-11-17 | 2023-11-24 |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-03 | 2024-10-11 |

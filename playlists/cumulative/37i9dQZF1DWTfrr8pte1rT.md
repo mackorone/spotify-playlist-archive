@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Tokyo Machine  \\m/
 
-514 songs - 1 day 4 hr 53 min
+515 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All My Friends](https://open.spotify.com/track/2xZboesRRbMZPX7cS21YZs) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn), [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [All My Friends](https://open.spotify.com/album/1xOgb6OrNRhPZwK9mjrZz3) | 2:41 | 2021-12-10 | 2022-04-02 |
 | [All The Small Things](https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [All The Small Things](https://open.spotify.com/album/6vpocQEtVoMkffazXMxWX7) | 1:51 | 2025-01-10 |  |
 | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8) | 3:09 | 2021-12-10 | 2023-08-23 |
-| [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-22 |  |
+| [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-22 | 2025-08-02 |
 | [Amnesia \(feat\. GASHI\)](https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Amnesia \(feat\. GASHI\)](https://open.spotify.com/album/51BR8645FA5RjZus314Tpy) | 3:13 | 2021-12-10 | 2023-08-19 |
 | [And I](https://open.spotify.com/track/6yUY7waUwHiiso4JeBukur) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:29 | 2022-04-29 | 2022-07-29 |
 | [Angst \- RMX by twocolors](https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Angst](https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn) | 4:00 | 2022-08-26 | 2024-07-13 |
@@ -88,6 +88,7 @@
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-09 | 2024-12-04 |
 | [Circlepit](https://open.spotify.com/track/3faxKIi1bRhjiQ5HzYK7bH) | [Waxteeth](https://open.spotify.com/artist/5O8JcrrpH0m0bKVquLKJAM) | [Circlepit](https://open.spotify.com/album/2UyXCdcO8vH2B7tWC0zbcJ) | 2:48 | 2025-02-28 | 2025-07-19 |
 | [Clone](https://open.spotify.com/track/3x7WKt5WBa0oOPaPB93Zwv) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Clone](https://open.spotify.com/album/2JxpatA9qcbA6d2znDuk2s) | 4:14 | 2022-02-25 | 2022-06-25 |
+| [Close to Closure](https://open.spotify.com/track/4qqIyZy6MEvZB3pmPQlcCH) | [CADMIUM](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Shawn O'Donnell](https://open.spotify.com/artist/5SSyuK39LCZxykzimAXYQU) | [Close to Closure](https://open.spotify.com/album/4cXQkpuZkLsztngL32AQg7) | 3:36 | 2025-08-01 |  |
 | [Codename: Reckless](https://open.spotify.com/track/5nzkugYDvjKKGeXC6kD94W) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Codename: Reckless](https://open.spotify.com/album/67kSmZGUA515W6Eif9YqlX) | 2:42 | 2024-01-05 |  |
 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:46 | 2023-09-08 |  |
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-12-10 | 2023-06-01 |

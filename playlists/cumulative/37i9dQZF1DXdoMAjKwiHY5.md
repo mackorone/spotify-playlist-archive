@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-85 songs - 5 hr 29 min
+86 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-06-08 |  |
 | [Never Leave Your Heart Alone](https://open.spotify.com/track/7HFOQ4Hb7GS1JPCdB9wIW9) | [Butterfly Boucher](https://open.spotify.com/artist/3ZAIKutVvLYqmcxfkBz5aP) | [Flutterby](https://open.spotify.com/album/3o0JF1VvkXX52A3XRazhZr) | 3:43 | 2023-06-08 |  |
 | [No Such Thing](https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 3:51 | 2023-06-08 |  |
+| [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 | 2025-08-01 |  |
 | [Nothing Left to Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 | 2023-06-08 |  |
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2023-06-08 |  |
 | [Pictures Of You](https://open.spotify.com/track/6V4y4uuMAxe2EYDIWNToaH) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Pictures Of You](https://open.spotify.com/album/4EVjjpQd3Qw6tWIHgII6Rq) | 3:10 | 2023-06-08 |  |

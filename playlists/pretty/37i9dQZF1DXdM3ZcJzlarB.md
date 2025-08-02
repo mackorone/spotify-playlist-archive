@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,407 likes - 110 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,416 likes - 110 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 79 | [Relief](https://open.spotify.com/track/2xTUyqLZCKpXZzIZRRTRNJ) | [Ivan Fernandez \(AR\)](https://open.spotify.com/artist/590cXCksu3bwjBzmfy9amm) | [Three of a Kind \#035](https://open.spotify.com/album/4JthXsldagC8xbd9f6z67e) | 7:21 |
 | 80 | [You Understand](https://open.spotify.com/track/0UFEplaINFrZZNYpFCdHwO) | [Mat Aus](https://open.spotify.com/artist/4eF4hy3CcfPglzHXFB6b41), [Kevin Bondani](https://open.spotify.com/artist/02blYhd5F4oRxvS4WLkNKm) | [You Understand \(Incl\. Caitto Remix\)](https://open.spotify.com/album/78SyF5KwmirXCa4uIrh8Kx) | 3:03 |
 | 81 | [Nocturna](https://open.spotify.com/track/74TtX1Es2HAdJHXkv1pEBm) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr) | [Nocturna](https://open.spotify.com/album/2kNJbQjsJqLpoEHBhdMHZU) | 4:49 |
-| 82 | [On Me](https://open.spotify.com/track/5VbNRLR0063EDEdNwYk4nG) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm), [Santor](https://open.spotify.com/artist/5TCNCHF8wtZBxE2UTiEKFW) | [On Silence EP](https://open.spotify.com/album/0Kq6yMFb1UT94dVS30N9Eo) | 3:49 |
+| 82 | [On Me](https://open.spotify.com/track/5VbNRLR0063EDEdNwYk4nG) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm), [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [On Silence EP](https://open.spotify.com/album/0Kq6yMFb1UT94dVS30N9Eo) | 3:49 |
 | 83 | [Communication](https://open.spotify.com/track/0bggrJP8JznNdTkB97U85F) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Communication](https://open.spotify.com/album/34WT9PugI9PO5MySOqEWbq) | 3:50 |
 | 84 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 85 | [2MG](https://open.spotify.com/track/1jv0VQexOi8GwEPiHoov0t) | [METAL DJ CREW](https://open.spotify.com/artist/0t2wOT0ZQeQdeM97nVF5Yd), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [2MG](https://open.spotify.com/album/3Wb3cdp16eMgVKjrbhs9eL) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 354916,
+  "num_followers": 354957,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "The Funeral - Acoustic",
+      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Flames (feat. Avril Lavigne) [Acoustic]",
         "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 147357,
       "name": "Flames (feat. Avril Lavigne) [Acoustic]",
       "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "The Funeral - Acoustic",
-      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
     },
     {
       "added_at": "2024-07-05 19:40:49",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits du moment. Cover: Chella",
+  "description": "Les hits du moment. Cover: DYSTINCT, J Balvin",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -3705,6 +3705,28 @@
     },
     {
       "album": {
+        "name": "kafini",
+        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181011,
+      "name": "kafini",
+      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
+    },
+    {
+      "album": {
         "name": "Khalass",
         "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
       },
@@ -5072,7 +5094,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 219293,
       "name": "Mimi",
       "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"

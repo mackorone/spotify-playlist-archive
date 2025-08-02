@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Super Junior25 - The 12th Album",
+        "url": "https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Express Mode",
+      "url": "https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0"
+    },
+    {
+      "album": {
         "name": "ANOTHER",
         "url": "https://open.spotify.com/album/1x45vQjY21GuaouM2BA9xq"
       },
@@ -8266,7 +8284,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"

@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-387 songs - 21 hr 13 min
+388 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Stripped Version](https://open.spotify.com/track/2ED71uZCYogHDMcYh7nTW2) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Stripped Version\]](https://open.spotify.com/album/5kuNl1xlnjBBkS4tv111qJ) | 2:49 | 2024-03-01 | 2024-03-09 |
 | [Sunday](https://open.spotify.com/track/1OFvEgu1WA0TeSTDMw2bjO) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Lush Loops](https://open.spotify.com/album/2yoMyh8kf4AzBRX4gr0vGF) | 1:37 | 2021-12-06 | 2023-08-16 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-08-28 | 2024-07-27 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-09-15 | 2024-06-15 |
 | [Sweet awakening](https://open.spotify.com/track/45RSaYVNGZhdpjbqcAukYI) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Sweet awakening](https://open.spotify.com/album/70o5ugYfbITvPVG1mKgSRl) | 2:35 | 2021-12-06 | 2023-08-16 |
 | [Sweet Delusion \- Acoustic](https://open.spotify.com/track/0FcuogpWclfgR8iXilodvO) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion \(Acoustic\)](https://open.spotify.com/album/2umj49RieVZLNZeSovdJSW) | 4:00 | 2024-12-06 | 2025-02-18 |

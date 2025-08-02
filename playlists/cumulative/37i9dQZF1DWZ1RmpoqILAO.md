@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-300 songs - 19 hr 21 min
+301 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
 | [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-02-02 |  |
 | [Big Open Sky Flyer](https://open.spotify.com/track/5FlLGHaavAIPxvVPEuphiF) | [Kylie Dailey](https://open.spotify.com/artist/0lC97iGj9XViueKd9WERw4) | [Big Open Sky Flyer](https://open.spotify.com/album/24Qik8HHbQbvCIsuEpWxu4) | 5:20 | 2023-09-15 | 2023-12-09 |
+| [Black Bear](https://open.spotify.com/track/2SPacYHu9nWUVnxnmSEJOI) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Black Bear](https://open.spotify.com/album/3ClE7KHKTRFulaAREMqSbD) | 3:46 | 2025-08-01 |  |
 | [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 | 2023-07-05 |  |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2023-05-19 | 2024-04-19 |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/6m2OUSC736AxOVJ3W0FcEr) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/2oASnIn2Mt8QE4tDmSyWpy) | 4:36 | 2024-04-14 |  |

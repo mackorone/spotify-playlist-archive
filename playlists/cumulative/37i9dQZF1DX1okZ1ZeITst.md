@@ -2,9 +2,9 @@
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
-> From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
+> Discover Disney songs to sing along to, including songs from the Descendants/Zombies: Worlds Collide Tour.
 
-173 songs - 8 hr 55 min
+174 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2024-01-08 |  |
 | [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 | 2024-01-08 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2024-10-10 | 2025-03-26 |
+| [Worlds Collide \- From "Disney Descendants/ZOMBIES: Worlds Collide Tour"](https://open.spotify.com/track/4RcGxhH6ZSLFMtUny7tcPu) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malia Baker](https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Joshua Colley](https://open.spotify.com/artist/4PDGt9weHkPqUdaBqrGzOD), [Mekonnen Knife](https://open.spotify.com/artist/69y5psIxwqMrSRyQRShsBG), [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Worlds Collide \(From "Disney Descendants/ZOMBIES: Worlds Collide Tour"\)](https://open.spotify.com/album/4Sjfn6Mkpdw1SOEKSB7Itr) | 3:13 | 2025-08-01 |  |
 | [Wouldn't Change a Thing](https://open.spotify.com/track/6YsdIyHvzRIqecxpdtoiLp) | [Saylor Bell](https://open.spotify.com/artist/5PixoCQS6eKSwUEBPN413C), [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY), [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Joe Serafini](https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 7\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/5O2Cn8alyU7Bm0ZblEJmve) | 2:52 | 2024-01-08 |  |
 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 | 2025-02-14 |  |
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2024-01-08 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Jasmine Sandlas & Raga",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -1630,6 +1630,24 @@
       "duration_ms": 166472,
       "name": "Drifta",
       "url": "https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL"
+    },
+    {
+      "album": {
+        "name": "Dubai Company",
+        "url": "https://open.spotify.com/album/6zesrJdInqftcOiyfF2Tdy"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189272,
+      "name": "Dubai Company",
+      "url": "https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT"
     },
     {
       "album": {
@@ -5204,7 +5222,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 233691,
       "name": "Title Kya Doon?",
       "url": "https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80"

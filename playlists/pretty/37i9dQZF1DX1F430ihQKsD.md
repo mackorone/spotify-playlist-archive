@@ -9,14 +9,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Léo \(rentre à la maison\)](https://open.spotify.com/track/3CUfyFs6PpLeeKz76wvGEo) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Léo \(rentre à la maison\)](https://open.spotify.com/album/07eJGV18HqMisQqbzFcaYR) | 2:52 |
-| 2 | [Les morceaux perdus](https://open.spotify.com/track/4l0t2AKGqSkWCX4yY3aMna) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Les morceaux perdus](https://open.spotify.com/album/2VVOIdhKuQIovhJb4XxtpV) | 3:35 |
-| 3 | [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 |
-| 4 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
-| 5 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
-| 6 | [Avenue](https://open.spotify.com/track/2j6Pf8iWCWADGyjyGS0Tn3) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [By Clairvoyance](https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn) | 2:41 |
-| 7 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 |
-| 8 | [Avalanche](https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avalanche](https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL) | 3:33 |
-| 9 | [Dire je t'aime au téléphone](https://open.spotify.com/track/5FDXAxzvWOAUwzy1f1Yk78) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Dire je t'aime au téléphone](https://open.spotify.com/album/5KOJp5dEp5W2UYCoi6VFGn) | 3:21 |
+| 2 | [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 |
+| 3 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 |
+| 4 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
+| 5 | [Avenue](https://open.spotify.com/track/2j6Pf8iWCWADGyjyGS0Tn3) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [By Clairvoyance](https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn) | 2:41 |
+| 6 | [Les morceaux perdus](https://open.spotify.com/track/4l0t2AKGqSkWCX4yY3aMna) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Les morceaux perdus](https://open.spotify.com/album/2VVOIdhKuQIovhJb4XxtpV) | 3:35 |
+| 7 | [Avalanche](https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avalanche](https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL) | 3:33 |
+| 8 | [Dire je t'aime au téléphone](https://open.spotify.com/track/5FDXAxzvWOAUwzy1f1Yk78) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Dire je t'aime au téléphone](https://open.spotify.com/album/5KOJp5dEp5W2UYCoi6VFGn) | 3:21 |
+| 9 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 10 | [eyez on it](https://open.spotify.com/track/4nJOtb4Ix6TmfCyfRLdDUO) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [eyez on it](https://open.spotify.com/album/3S1WVZwXqGcbwd7dD9Zcq2) | 3:33 |
 | 11 | [Actress](https://open.spotify.com/track/0jhruq62eOzLG3tH2haDVh) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Desire Days](https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2) | 4:46 |
 | 12 | [TDF](https://open.spotify.com/track/5qVerBTeSoM2UGxogEMLuS) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Give Me Time](https://open.spotify.com/track/1yr0y9if1dqK9MHHNrRTBi) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:34 |
 | 100 | [Plateau Botticelli](https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m) | [Aistis](https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR) | [Plateau Botticelli](https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK) | 3:46 |
 
-Snapshot ID: `aIMBcAAAAABokeJeae2VHXy6UNppsZk7`
+Snapshot ID: `aIw73QAAAACZET25lMs+c6BxgyeHeW2z`

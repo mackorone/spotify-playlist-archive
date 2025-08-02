@@ -3691,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Lethargy",
+        "url": "https://open.spotify.com/album/7LLBrYfDCga2X10lmLPBek"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/4T3RLke3YI75XFdzM5ZEb1"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/1URLKSGOw08tFUxH4GeKR0"
       },

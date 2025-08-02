@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 
 > All\-new tracks by Coke Studio Pakistan Season 14.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,017 likes - 14 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,018 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 | 13 | [Ye Dunya](https://open.spotify.com/track/3CLlelB1UWvrGYCyvdAA4B) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Ye Dunya](https://open.spotify.com/album/0y1QkPyIPPq7UcZ63QNCol) | 5:12 |
 | 14 | [Phir Milenge](https://open.spotify.com/track/3yBbbbZNbo4ymn99Y2zoCj) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC) | [Phir Milenge](https://open.spotify.com/album/0X4pR3UTMp4MRiGWuHrvtv) | 5:51 |
 
-Snapshot ID: `AAAAABxwPo9xHO+Y1iU3jw6L4x6RCWBf`
+Snapshot ID: `ZmG0DAAAAABtkMeuX8AfWpXK7pRJWKIK`

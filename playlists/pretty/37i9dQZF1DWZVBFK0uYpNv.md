@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain]
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,078 likes - 147 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,081 likes - 147 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain]
 | 4 | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Can You Feel the Love Tonight \(From "A Whole New Sound"\)](https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9) | 2:53 |
 | 5 | [Burning Love](https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0) | [Nyjah Music & Zyah Rhythm](https://open.spotify.com/artist/4aEDhgmmxsxsZDzl3FTxEh), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 2:47 |
 | 6 | [I2I \- From "A Whole New Sound"](https://open.spotify.com/track/3hU1uChF4R0VygUNjcYOJb) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I2I \(From "A Whole New Sound"\)](https://open.spotify.com/album/1DpOt4a2dQzFD7MfYIBMYk) | 3:00 |
-| 7 | [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Pink Slip](https://open.spotify.com/artist/75sej2Q8NCpG0HofuacIsd), [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 |
+| 7 | [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 |
 | 8 | [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 |
 | 9 | [Welcome to the Clubhouse \(Hot Dog!\) \- From "Disney Jr\. Music: Mickey Mouse Clubhouse+"](https://open.spotify.com/track/0GhJ70rt4cDAUrYWGBPG88) | [Mickey Mouse Clubhouse+ \- Cast](https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Welcome to the Clubhouse \(Hot Dog!\) \[From "Disney Jr\. Music: Mickey Mouse Clubhouse+"\]](https://open.spotify.com/album/0sHn61de25GeXbJzcWk4Cq) | 2:49 |
 | 10 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain]
 | 146 | [Prince Ali](https://open.spotify.com/track/1Bixenbn6dhCkca8sovMGh) | [Alex Beaupain](https://open.spotify.com/artist/0ujtf16xyDe6upgQpNNSWo) | [We Love Disney](https://open.spotify.com/album/4iMEGoo3S68FqQwGQhvdKC) | 2:57 |
 | 147 | [Supercalifragilisticexpialidocious \(Arr\. Hough for Piano\) \- From "Mary Poppins"](https://open.spotify.com/track/4HpJHD8XOh2Gpc00q9jhwq) | [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Supercalifragilisticexpialidocious \(Arr\. Hough for Piano\) \[From "Mary Poppins"\]](https://open.spotify.com/album/0Cxa5G932GY5wTzQne8rfs) | 3:36 |
 
-Snapshot ID: `AAAAAHfuPYNA2yn6j/kjE/s8ZMb2YazC`
+Snapshot ID: `aIN/3AAAAACC+tdSwRW165WOCEvqxW1x`

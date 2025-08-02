@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
-  "num_followers": 200107,
+  "num_followers": 200142,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,22 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+        "name": "Tachando los D\u00edas",
+        "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        },
+        {
+          "name": "Mbongo",
+          "url": "https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE"
         }
       ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+      "duration_ms": 180434,
+      "name": "Tachando los D\u00edas",
+      "url": "https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "Tachando los D\u00edas",
-        "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
       },
       "artists": [
         {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        },
-        {
-          "name": "Mbongo",
-          "url": "https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Tachando los D\u00edas",
-      "url": "https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum"
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "PERDEDOR",
-        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "PERDEDOR",
-      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
         "name": "ella es",
         "url": "https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "Lo que yo te he querido",
-        "url": "https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF"
+        "name": "PERDEDOR",
+        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
         }
       ],
-      "duration_ms": 203435,
-      "name": "Lo que yo te he querido",
-      "url": "https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF"
+      "duration_ms": 216244,
+      "name": "PERDEDOR",
+      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -795,6 +775,26 @@
       "duration_ms": 166134,
       "name": "Vespa Verde Agua",
       "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
+        "name": "Lo que yo te he querido",
+        "url": "https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 203435,
+      "name": "Lo que yo te he querido",
+      "url": "https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
+        "name": "Tu Jard\u00edn Japon\u00e9s",
+        "url": "https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 192798,
+      "name": "Tu Jard\u00edn Japon\u00e9s",
+      "url": "https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
         "name": "TU FINA ESTAMPA",
         "url": "https://open.spotify.com/album/2DXWC7ctuPVrpzFp42DZSC"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 139285,
       "name": "TU FINA ESTAMPA",
       "url": "https://open.spotify.com/track/1JpedTFCZxCeiL7zkC0WNj"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
-        "name": "Tu Jard\u00edn Japon\u00e9s",
-        "url": "https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 192798,
-      "name": "Tu Jard\u00edn Japon\u00e9s",
-      "url": "https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "MIRLO PARDO \u00b7 LA VEREDA",
-        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
-        }
-      ],
-      "duration_ms": 203244,
-      "name": "Mirlo pardo",
-      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
         "name": "La Suerte Que Tengo",
         "url": "https://open.spotify.com/album/49xKBRtBI08F8CugcupAlC"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "Nunca Me Parece Suficiente",
-        "url": "https://open.spotify.com/album/5lYGZ7HW3KEIhmax7KE3lz"
+        "name": "MIRLO PARDO \u00b7 LA VEREDA",
+        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
       },
       "artists": [
         {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
         }
       ],
-      "duration_ms": 172582,
-      "name": "Nunca Me Parece Suficiente",
-      "url": "https://open.spotify.com/track/1ivUBQ0Y3djdGAF5jbNcUJ"
+      "duration_ms": 203244,
+      "name": "Mirlo pardo",
+      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
+        "name": "Nunca Me Parece Suficiente",
+        "url": "https://open.spotify.com/album/5lYGZ7HW3KEIhmax7KE3lz"
       },
       "artists": [
         {
-          "name": "agosto",
-          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
         }
       ],
-      "duration_ms": 165555,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
+      "duration_ms": 172582,
+      "name": "Nunca Me Parece Suficiente",
+      "url": "https://open.spotify.com/track/1ivUBQ0Y3djdGAF5jbNcUJ"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
+      },
+      "artists": [
+        {
+          "name": "agosto",
+          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+        }
+      ],
+      "duration_ms": 165555,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
         "name": "Robot",
         "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "Polvo de hadas",
-        "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 268651,
-      "name": "Polvo de hadas",
-      "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
         "name": "abrigo",
         "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 169955,
       "name": "abrigo",
       "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
+        "name": "Polvo de hadas",
+        "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 268651,
+      "name": "Polvo de hadas",
+      "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
         "name": "Necesito Curarme",
         "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 159146,
       "name": "Necesito Curarme",
       "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "El Bosque [2025]",
-        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 237242,
-      "name": "El Bosque [2025]",
-      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
         "name": "ME ACUERDO DE TODO",
         "url": "https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 225250,
       "name": "Me acuerdo de todo",
       "url": "https://open.spotify.com/track/2hscOVTRgUzzSCUZkITbRd"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
+        "name": "El Bosque [2025]",
+        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 237242,
+      "name": "El Bosque [2025]",
+      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1475,22 +1475,6 @@
       "duration_ms": 202906,
       "name": "Antes nubes",
       "url": "https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
-        "name": "El Laberinto [2012]",
-        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 231889,
-      "name": "El Laberinto [2012]",
-      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
+        "name": "El Laberinto [2012]",
+        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 231889,
+      "name": "El Laberinto [2012]",
+      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 160000,
       "name": "El ef\u00edmero arte de perdonar",
       "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
-    },
-    {
-      "added_at": "2025-07-31 22:00:28",
-      "album": {
-        "name": "El Bosque",
-        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "La Br\u00fajula [2018]",
-      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
     },
     {
       "added_at": "2025-07-31 22:00:28",
@@ -1691,18 +1675,34 @@
     {
       "added_at": "2025-07-31 22:00:28",
       "album": {
-        "name": "SO-LO",
-        "url": "https://open.spotify.com/album/3GYTAJrM1rZDDafuflo5hr"
+        "name": "El Bosque",
+        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Amores",
-          "url": "https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ"
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 171428,
-      "name": "SO-LO",
-      "url": "https://open.spotify.com/track/5xM5Ia4bXSOi6TYYuJS3Ye"
+      "duration_ms": 238945,
+      "name": "La Br\u00fajula [2018]",
+      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
+    },
+    {
+      "added_at": "2025-07-31 22:00:28",
+      "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+      },
+      "artists": [
+        {
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+        }
+      ],
+      "duration_ms": 165280,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
     }
   ],
   "unique_name": "Radar Indie",

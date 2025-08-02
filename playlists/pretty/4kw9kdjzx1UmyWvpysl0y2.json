@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125140,
+  "num_followers": 125138,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUa6fsOj3T6l6s8mwFPqpp7TRlXo5j",
+  "snapshot_id": "AAAUbZofQrpwMS2S6U8uADKPM+WQkvzN",
   "tracks": [
+    {
+      "added_at": "2025-08-01 15:56:22",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/0yAzOCMzpDPd7yaAL4JV2e"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/6tUgBw8ml19l5t3LFfF131"
+    },
     {
       "added_at": "2025-07-31 14:59:22",
       "album": {
@@ -1139,66 +1159,6 @@
       "duration_ms": 140939,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q"
-    },
-    {
-      "added_at": "2025-05-09 14:12:46",
-      "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/0kCIr9OtiKlZiw4vZP0tLR"
-      },
-      "artists": [
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "ECHO",
-      "url": "https://open.spotify.com/track/4FewsSaPCPDF6FW3RiDnUK"
-    },
-    {
-      "added_at": "2025-05-08 15:11:30",
-      "album": {
-        "name": "Over Too Soon",
-        "url": "https://open.spotify.com/album/4fQR9Ef3st0ZwuOvtBnHbU"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        }
-      ],
-      "duration_ms": 191643,
-      "name": "Over Too Soon",
-      "url": "https://open.spotify.com/track/6d08LJ1vqb2YHXK9EKMIDM"
-    },
-    {
-      "added_at": "2025-05-07 14:19:45",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/50cpO5PIEXUjH8fdMzCOmB"
-      },
-      "artists": [
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 159655,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/3nUcpKt844URh1Y3KEtxB6"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

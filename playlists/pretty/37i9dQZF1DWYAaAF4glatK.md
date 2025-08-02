@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de ton été 🌞 Photo : DJ Snake
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,311 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,697 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 50 | [Butterfly](https://open.spotify.com/track/6Ncd71fbUwqLo5N9FCVR8z) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [OK KO](https://open.spotify.com/album/3W7ssPZxdz92hFHir6g8IT) | 3:43 |
 
-Snapshot ID: `aIvnhQAAAADOgPZjyEaHrDa9dW06ODiP`
+Snapshot ID: `AAAAAOC+0+lmZRk6L3bqEmWexacjO/I5`

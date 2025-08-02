@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 134226,
       "name": "ABC",
       "url": "https://open.spotify.com/track/5yX0aLjzZe1wDy4camywS4"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 129733,
       "name": "Contando na Minha",
       "url": "https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN"
@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "CMP X FSN",
+        "url": "https://open.spotify.com/album/6NuXgBToz75Lyy9AtfI9Qd"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Barsi",
+          "url": "https://open.spotify.com/artist/4VH0ZVjaSqnZbzFV08uWJV"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141354,
+      "name": "Fez Seu Nome",
+      "url": "https://open.spotify.com/track/43t8P4ym7Si1xFXlnnRf0E"
+    },
+    {
+      "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
       },
@@ -5664,7 +5686,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 188423,
       "name": "LOBO",
       "url": "https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6"
@@ -8959,6 +8981,44 @@
     },
     {
       "album": {
+        "name": "PROIBIDO BRANCO",
+        "url": "https://open.spotify.com/album/2UoajtpLuoxVS5HufZRVZP"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Del Jay",
+          "url": "https://open.spotify.com/artist/65m0g6XjsnSYsalksAnkz8"
+        },
+        {
+          "name": "Qualywav1",
+          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "PROIBIDO BRANCO",
+      "url": "https://open.spotify.com/track/1y5ZIXW3YfauhIEWNSY5WB"
+    },
+    {
+      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -11090,6 +11150,32 @@
       "duration_ms": 160014,
       "name": "Vlife",
       "url": "https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/6JNMwaZ8TLYfRrEJQWsDzO"
+      },
+      "artists": [
+        {
+          "name": "Kempa",
+          "url": "https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP"
+        },
+        {
+          "name": "eutazz",
+          "url": "https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137151,
+      "name": "Voc\u00ea Sabe",
+      "url": "https://open.spotify.com/track/5Xpj8Z85aR3IjAnC4QAauT"
     },
     {
       "album": {

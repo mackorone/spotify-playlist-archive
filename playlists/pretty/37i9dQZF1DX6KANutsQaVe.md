@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > The best of rock & alt this year, handpicked by Spotify Canada editors\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,558 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 49 | [Detroit](https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Detroit](https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy) | 3:31 |
 | 50 | [Detour](https://open.spotify.com/track/46Wg3lpTEGr3z5eyRsc3fw) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Detour](https://open.spotify.com/album/2qTrWxydn8ISxz3mmsmg6e) | 3:29 |
 
-Snapshot ID: `AAAAAMJU58zDqoVjTuhQVS9yXEa+jTBF`
+Snapshot ID: `Z1BHxAAAAADpuMVUaS+Qc1wyeuCK/J8g`

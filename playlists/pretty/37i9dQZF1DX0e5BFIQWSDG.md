@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,757 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,871 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [DEMON II](https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [VICE CITY](https://open.spotify.com/album/1icTqcbOlU00sFNbEKNI0G) | 3:12 |
 | 50 | [Antigonidon](https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 4:34 |
 
-Snapshot ID: `aIdFsAAAAABqML/ohflB/SW7PRwoOtah`
+Snapshot ID: `AAAAAFn1roLrRq1BY1x9CPi4wjZ5MyhK`

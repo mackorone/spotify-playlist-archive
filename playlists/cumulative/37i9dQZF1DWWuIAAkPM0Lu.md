@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra Gilli & Thor Farlov, D1MA og mange flere 👀
 
-6,579 songs - 14 day 3 hr 7 min
+6,581 songs - 14 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3546,6 +3546,7 @@
 | [LOCK INN](https://open.spotify.com/track/5B5Yb3ETGghsZBRqCguTue) | [BROWN](https://open.spotify.com/artist/7F7kmyfZxXlbByWi6EPEMZ) | [LOCK INN](https://open.spotify.com/album/4ZMjW3nzoX7FxeSxXRodx4) | 2:49 | 2025-07-24 | 2025-08-01 |
 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-06 | 2024-09-13 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 | 2025-01-17 |
+| [Loco](https://open.spotify.com/track/1K1vcvCFslwqEsvmFol1BI) | [NAVID](https://open.spotify.com/artist/4SPT95JmsTk2op5bdNCj39) | [Loco](https://open.spotify.com/album/3dbW9R2IxfDwDXjwJyTGJf) | 2:48 | 2025-08-01 |  |
 | [Locura \(Amapiano Remix\)](https://open.spotify.com/track/2rgvnAU3vcUQJleD2p2VxX) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Locura \(Amapiano Remix\)](https://open.spotify.com/album/2gFtCgZ6OQZyxneEwgLzge) | 2:28 | 2024-07-04 | 2024-07-12 |
 | [London May](https://open.spotify.com/track/7b0koKDBDibiaIBeyKXrDi) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [London May](https://open.spotify.com/album/0y1FaK8DjWeA3ymCbeBAbv) | 3:20 | 2024-12-05 | 2024-12-13 |
 | [Lone's Rejse](https://open.spotify.com/track/2J60nffTdb5IWUhMKXehqu) | [Louis Jarto](https://open.spotify.com/artist/1xTWAurKGwm8d3JdWHKBr8) | [Lone's Rejse](https://open.spotify.com/album/04eVABHgsiNQ8U6l7Zop7m) | 3:31 | 2024-08-29 | 2024-09-06 |
@@ -5521,6 +5522,7 @@
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 | 2024-06-28 |
 | [SUPERSONIC](https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [SUPERSONIC](https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH) | 2:46 | 2025-02-27 | 2025-03-07 |
 | [Superstar \(feat\. Lenny\)](https://open.spotify.com/track/7krTD6Ke38yMuUJlqkIXNk) | [Tes Boys](https://open.spotify.com/artist/0h0hqxByAxH4bi45rjwHj9), [Hugo Albert](https://open.spotify.com/artist/0nCFHLfYT7zkUDUBjIJb1n), [KARL](https://open.spotify.com/artist/11oIX6AGXJP8k1AjNgEoW4), [Lenny](https://open.spotify.com/artist/0OykMd4qNTGqJkahNWMWRu) | [Superstar \(feat\. Lenny\)](https://open.spotify.com/album/3CRZo3oezio7Cm9DYrijlg) | 2:45 | 2025-03-20 | 2025-03-28 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [Suppedasen](https://open.spotify.com/track/5VAIo5rmmgSEuB8XxD06Mg) | [Josie Amadonna](https://open.spotify.com/artist/1OkuTIe9TmyBFKMmlAyJLR) | [Overtænkt](https://open.spotify.com/album/6wJV1RE85Pp3o6cDbc2J44) | 3:13 | 2025-02-13 | 2025-02-21 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |

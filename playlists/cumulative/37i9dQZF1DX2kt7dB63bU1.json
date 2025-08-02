@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Stella Cole",
+  "description": "Jazz voices of today. Cover: Rachael & Vilray",
   "name": "Vocal Jazz",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 171904,
       "name": "A Rita",
       "url": "https://open.spotify.com/track/0m58arItMmNJLChjHBIjfa"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 226880,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
@@ -2416,6 +2416,28 @@
       "duration_ms": 181055,
       "name": "Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/6gU3kujsZNf3er1OJUbZFn"
+    },
+    {
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/4nM0sWPWYPAkB0YkDNmNlB"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Joshua Lee Turner",
+          "url": "https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4wFNhhPsDLz702JJravbsi"
     },
     {
       "album": {
@@ -3950,7 +3972,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 235000,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4kexpOChpz2vkUB5cYWu4F"
@@ -11013,6 +11035,28 @@
     },
     {
       "album": {
+        "name": "West of Broadway",
+        "url": "https://open.spotify.com/album/6B1G7Ic63DNhPiKxXPqOPr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        },
+        {
+          "name": "Stephen Colbert",
+          "url": "https://open.spotify.com/artist/5oPGKOVPSvNUx3R3Wfbv2y"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202827,
+      "name": "Off Broadway",
+      "url": "https://open.spotify.com/track/1zy8oMiRpQVn0bQVYf2EDA"
+    },
+    {
+      "album": {
         "name": "The Best Of Bennett",
         "url": "https://open.spotify.com/album/27UyA5jZ5KyM9aFZwgolyX"
       },
@@ -11032,6 +11076,28 @@
       "duration_ms": 143358,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/5mChxjgMC9mVrrGsoPNkiE"
+    },
+    {
+      "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/5PyV1gUA62TLpYi5GLFANW"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6AUm1XcBjqzzszJ4AQ2gc9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 152 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 152 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 51 | [Birds Enchantment](https://open.spotify.com/track/2K6LqhtH2Gm0F4KA9UsCet) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 2:59 |
 | 52 | [Can't Help Singing \(from Can't Help Singing\)](https://open.spotify.com/track/2lFuNnS5RAaoOKsCq92acR) | [Deanna Durbin](https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a) | [Legends \- Deanna Durbin](https://open.spotify.com/album/4OvGOMfmfx3BAz7vHIcECH) | 3:40 |
 | 53 | [Thrill Me](https://open.spotify.com/track/6QTEluyhJiABjh1ZnXnZJ0) | [Ethel Ennis](https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC) | [Change Of Scenery](https://open.spotify.com/album/027UEzorpvpgU68jNZoedH) | 3:23 |
-| 54 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
-| 55 | [Dance of the Golden Crock](https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:28 |
+| 54 | [Dance of the Golden Crock](https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:28 |
+| 55 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
 | 56 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
 | 57 | [Najla's Song Of Joy](https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:19 |
 | 58 | [The Same Boat, Brother](https://open.spotify.com/track/1xxhUCYBJqNaFnkqzwFbJT) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [He Walked On](https://open.spotify.com/album/1gXwOtD1sj3fGXROIgtAUa) | 3:39 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 110 | [Panache](https://open.spotify.com/track/28yxvJHM1l7ioramC7tP8Y) | [Peter Woodthorpe](https://open.spotify.com/artist/2FR1OWHwJPdNA9Du5QAOJZ), [Brenda Forbes](https://open.spotify.com/artist/6I6fQwrU7zN8eqWr8zjOaW) | [Darling of the Day \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0MYz0i97HpwYTndAYPH9hy) | 3:19 |
 | 111 | [Shall We Say Farewell?](https://open.spotify.com/track/5VihG3dpWA2pwnm1RuTtiO) | [Dran Seitz](https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:54 |
 | 112 | [T'Morra', T'Morra'](https://open.spotify.com/track/4IPj993aAIBeMf3t03zaTn) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [The Music of Harold Arlen: 1955 Walden Sessions](https://open.spotify.com/album/1yF63iyp5f94SixeNYXnT1) | 3:11 |
-| 113 | [I'll Follow Your Smile](https://open.spotify.com/track/6Bryms0Y5QOnaxVVCVZWj2) | [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [Marni Nixon Sings Classic Kern](https://open.spotify.com/album/4fg5ia3eWNep8PxPLcS7NI) | 1:39 |
+| 113 | [I'll Follow Your Smile](https://open.spotify.com/track/0yg5jWBbYpsv2t1PqqH1SK) | [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [Marni Nixon Sings Classic Kern](https://open.spotify.com/album/1Rl4w7jnPv3BTmEe22XDqz) | 1:39 |
 | 114 | [Fiddle Faddle](https://open.spotify.com/track/0mIDOIIQZlcqA9xujafVZL) | [John Sloman](https://open.spotify.com/artist/46oXrgAsxd69gnFGJ14ImQ), [Malcolm Gets](https://open.spotify.com/artist/4j0BEjh7PckU3efYXd1wUG) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 1:55 |
 | 115 | [God's Country \(Remastered 2022\)](https://open.spotify.com/track/4j6CpdQi6vaMe5i4OhCAZq) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Remastered Classics, Vol\. 234: Al Jolson](https://open.spotify.com/album/6UFQ8p3IkdCn6nj2fhzWJV) | 2:43 |
 | 116 | [La Vieja Luna](https://open.spotify.com/track/5i4qSKV6TPEMTXJDEIzazx) | [The Tito Puente Big Band](https://open.spotify.com/artist/3nCQBUim6T34SLO4n1NKmR), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live in Amsterdam](https://open.spotify.com/album/2JMszcPZ3kjKhLAhoxaFZ8) | 4:05 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 151 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 | 152 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 
-Snapshot ID: `Ab4R3gAAAAB+IUmfVmj+2OqNjy0DrHrz`
+Snapshot ID: `Ab4XagAAAADxG4NlnZXXJbB48roSakSH`

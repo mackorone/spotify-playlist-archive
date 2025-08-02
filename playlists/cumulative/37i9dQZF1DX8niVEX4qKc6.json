@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-25",
-  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camil\u00fa.",
+  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
   "name": "Modo Ac\u00fastico",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 243040,
       "name": "Barrio Encandilado",
       "url": "https://open.spotify.com/track/4HFiwOw835zE6YPsEmW2Ff"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
@@ -1819,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/50hZdC9tlwFWeHMLVqI1ue"
+      },
+      "artists": [
+        {
+          "name": "Facundo Grand\u00edo",
+          "url": "https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK"
+        },
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166541,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/57ghtDy5WJewLL0ggGG8E4"
+    },
+    {
+      "album": {
         "name": "La Sal",
         "url": "https://open.spotify.com/album/3WuIVMYIs4MJvW4iCame1O"
       },
@@ -2127,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+      },
+      "artists": [
+        {
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
+    },
+    {
+      "album": {
         "name": "Me Das Paz",
         "url": "https://open.spotify.com/album/6jYJUxhGTIrtFuChNxsipm"
       },
@@ -2138,7 +2178,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 196500,
       "name": "Me Das Paz",
       "url": "https://open.spotify.com/track/6aDs6MfmidQOGCL0JYYTJB"
@@ -2236,7 +2276,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 202500,
       "name": "Mil Mensajes",
       "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
@@ -2515,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Nunca Para Siempre (Live Session)",
+        "url": "https://open.spotify.com/album/3YU2nrRAdadoAnVb3tXFMw"
+      },
+      "artists": [
+        {
+          "name": "Valen Cermesoni",
+          "url": "https://open.spotify.com/artist/6g4j0HLko7Zhe0suLGvKuY"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157220,
+      "name": "Nunca Para Siempre (Live Session)",
+      "url": "https://open.spotify.com/track/6Pt2BTuBlWiNhrNVXthBw6"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg"
       },
@@ -2660,6 +2718,24 @@
       "duration_ms": 279994,
       "name": "Paloma - Romaphonic",
       "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fasticos",
+        "url": "https://open.spotify.com/album/0CpzPGJKSOOKMqHUTruxkh"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Pandas en Jap\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2ob6QjzizEyGvQgj3HrJQ7"
     },
     {
       "album": {
@@ -2942,7 +3018,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
@@ -3018,7 +3094,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
@@ -3340,6 +3416,28 @@
       "duration_ms": 134888,
       "name": "Todas las Flores de Enero",
       "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "album": {
+        "name": "todo es luz",
+        "url": "https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253141,
+      "name": "todo es luz",
+      "url": "https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF"
     },
     {
       "album": {
@@ -3714,6 +3812,28 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
+    },
+    {
+      "album": {
+        "name": "volver a verme",
+        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228363,
+      "name": "volver a verme",
+      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
     },
     {
       "album": {

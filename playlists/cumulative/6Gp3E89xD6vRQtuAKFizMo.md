@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-477 songs - 22 hr 55 min
+479 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 | 2023-12-14 |
 | [Push Me](https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Push Me](https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt) | 2:51 | 2025-02-21 |  |
 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shotgun Knights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 | 2024-11-22 | 2025-04-27 |
+| [Redemption](https://open.spotify.com/track/02FfMx7RCEnHB4sCLoG2io) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [TIARO](https://open.spotify.com/artist/5JinMzMuLLtTC3mSeH37Uf) | [Redemption](https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw) | 3:08 | 2025-08-01 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-11-22 | 2025-04-27 |
 | [Risk It All](https://open.spotify.com/track/0qBbNqx3rvEk1xWRJhjkKg) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [Risk It All](https://open.spotify.com/album/6cezTTWEQ31JR8wtFiLH9y) | 2:49 | 2023-11-22 | 2025-04-27 |
@@ -381,6 +382,7 @@
 | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 3:28 | 2024-05-17 | 2025-04-27 |
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 | 2025-04-27 |
+| [Set Me Free](https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Set Me Free](https://open.spotify.com/album/2IZk3TgT9Q6T5oXkbN6Yn2) | 2:29 | 2025-08-01 |  |
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 | 2025-04-27 |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 | 2025-04-27 |
 | [SHEEESH \- Emorfik Remix](https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:41 | 2023-07-28 | 2025-04-27 |

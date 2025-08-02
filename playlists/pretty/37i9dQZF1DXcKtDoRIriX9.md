@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,515 likes - 67 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,529 likes - 67 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 66 | [Casualities \- Morgan Geist Remix](https://open.spotify.com/track/2Yqmq3YjsPDR2UiWiClnO2) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Morgan Geist](https://open.spotify.com/artist/3rheA53cr3B53FI9xbn4x7) | [Casualities \(Morgan Geist Remix\)](https://open.spotify.com/album/6Ar3Y931Hm9feQCNvHnB7O) | 7:20 |
 | 67 | [Marry Me Maia](https://open.spotify.com/track/3CuaggZ9WwAishSmKXS4BE) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [i was put on this earth](https://open.spotify.com/album/2YJy7QdSYUTzK80jfnkN8T) | 4:15 |
 
-Snapshot ID: `AAAAAGh/1dHldYNo/H13ZzYtLTdJWwqF`
+Snapshot ID: `Z/zV4AAAAADU2vUaiOlQ3jQqpvTo0DO/`

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-470 songs - 1 day 21 hr 32 min
+471 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Escolho Deus](https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:01 | 2022-10-28 |  |
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2022-09-09 | 2023-07-08 |
 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 | 2022-11-04 | 2024-12-21 |
+| [Espírito Santo \(Inhabit\)](https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento](https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM) | 5:23 | 2025-08-01 |  |
 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 | 2022-09-09 | 2023-06-24 |
 | [Estrela da Manhã \- Ao Vivo](https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estrela da Manhã \(Ao Vivo\)](https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD) | 3:28 | 2024-09-13 |  |
 | [Estremece a Terra](https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [ASSIM SEJA](https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu) | 6:02 | 2023-08-18 | 2024-08-17 |
@@ -172,7 +173,7 @@
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2023-09-02 |
 | [Flutuar](https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Flutuar](https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX) | 3:34 | 2024-01-05 | 2024-09-07 |
 | [Fogo em Teus Olhos \- Ao Vivo](https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI) | [Fogo em Teus Olhos \(Ao Vivo\)](https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ) | 7:43 | 2025-05-02 |  |
-| [Fogo em Teus Olhos \- Ao Vivo em São Paulo](https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Fogo em Teus Olhos \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0) | 6:18 | 2024-11-29 |  |
+| [Fogo em Teus Olhos \- Ao Vivo em São Paulo](https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Fogo em Teus Olhos \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0) | 6:18 | 2024-11-29 | 2025-08-02 |
 | [Força Igreja! \- Ao Vivo](https://open.spotify.com/track/45TiCf8n05NplSJH0OIMW8) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Força Igreja! \(Ao Vivo\)](https://open.spotify.com/album/7DOzUC55vRJEQrNygUGDXf) | 4:22 | 2024-04-19 | 2024-09-07 |
 | [Furioso Oceano](https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano](https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV) | 6:32 | 2022-09-23 | 2025-02-22 |
 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 | 2022-09-09 | 2024-04-20 |

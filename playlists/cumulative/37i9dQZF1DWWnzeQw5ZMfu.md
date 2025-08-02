@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-252 songs - 19 hr 24 min
+253 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 | 2022-04-14 | 2025-01-18 |
 | [Mercy \- Acoustic Version](https://open.spotify.com/track/2j1fnJeu1aGvqbwZBpdrEF) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Dinner Party Pop](https://open.spotify.com/album/7aB1uY6jZNHZ1TisxZQTAw) | 3:35 | 2022-04-14 | 2023-08-15 |
 | [Mercy \- Live](https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:22 | 2022-04-14 | 2023-02-14 |
+| [Midnight Sun \- Live](https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(Bundle\)](https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR) | 3:58 | 2025-08-01 |  |
 | [mine \- Live From The Belasco](https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine \(Live From The Belasco\)](https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO) | 3:22 | 2023-08-18 |  |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live music from Concerts](https://open.spotify.com/album/3A7eg1VKPfqLard0TWTH5r) | 4:59 | 2023-09-01 | 2023-11-06 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:59 | 2022-04-14 | 2022-07-24 |
@@ -216,7 +217,7 @@
 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 | 2022-04-29 | 2024-12-28 |
 | [The Lady In Red \- Live](https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i) | 4:06 | 2022-04-14 | 2024-08-17 |
 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 | 2022-08-09 | 2024-04-19 |
-| [The Man \- Live From Paris](https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Man \(Live From Paris\)](https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA) | 3:39 | 2022-04-29 |  |
+| [The Man \- Live From Paris](https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Man \(Live From Paris\)](https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA) | 3:39 | 2022-04-29 | 2025-08-02 |
 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 | 2022-04-14 |  |
 | [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 |  |
 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 | 2022-11-11 | 2023-08-19 |

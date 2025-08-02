@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WPkweAgNHO.md) - [plain]
 | 15 | [Corazón Delator \- Remasterizado 2007](https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:12 |
 | 16 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
 
-Snapshot ID: `AAAAAM52uUiw4HZKlCme7e/FajK2/pFp`
+Snapshot ID: `ZIsMkAAAAADFf2v/qVFGavw3cu4CLvcR`

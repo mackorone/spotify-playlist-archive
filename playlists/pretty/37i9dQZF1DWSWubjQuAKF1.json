@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hania",
-  "num_followers": 23575,
+  "num_followers": 23621,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "Hold On You",
-        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
-      },
-      "artists": [
-        {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Hold On You",
-      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
         "name": "Baw Si\u0119 Dobrze",
         "url": "https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 143236,
       "name": "Baw Si\u0119 Dobrze",
       "url": "https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "Hold On You",
+        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Hold On You",
+      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
+        "name": "Bez",
+        "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Bez",
+      "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
         "name": "bar",
         "url": "https://open.spotify.com/album/4qY9KbxV57tTkZDoM1zuEh"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 164869,
       "name": "bar",
       "url": "https://open.spotify.com/track/2bQ13mtxi4q94lETwm3rln"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
-        "name": "Bez",
-        "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 232950,
-      "name": "Bez",
-      "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "pod kinem ars/krak\u00f3w",
-        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
-      },
-      "artists": [
-        {
-          "name": "ada\u015b.",
-          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "pod kinem ars",
-      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
         "name": "Psy",
         "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 200249,
       "name": "Psy",
       "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "pod kinem ars/krak\u00f3w",
+        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
+      },
+      "artists": [
+        {
+          "name": "ada\u015b.",
+          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "pod kinem ars",
+      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -683,34 +683,34 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+        "name": "Blooming Season Pt. 2",
+        "url": "https://open.spotify.com/album/00lgkYhcBBa6dfa9kc4KNF"
       },
       "artists": [
         {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
         }
       ],
-      "duration_ms": 171833,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
+      "duration_ms": 184560,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
     },
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "Ciarki",
-        "url": "https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy"
+        "name": "Pierwszy mit",
+        "url": "https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK"
       },
       "artists": [
         {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+          "name": "WOLSKA",
+          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
         }
       ],
-      "duration_ms": 232409,
-      "name": "Ciarki",
-      "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
+      "duration_ms": 232000,
+      "name": "Pierwszy mit",
+      "url": "https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -731,18 +731,50 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "Blooming Season Pt. 2",
-        "url": "https://open.spotify.com/album/00lgkYhcBBa6dfa9kc4KNF"
+        "name": "jest zlaa",
+        "url": "https://open.spotify.com/album/02lSbMO1JWKo0qrW0lY6Vw"
       },
       "artists": [
         {
-          "name": "Sonia Stein",
-          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
+      "duration_ms": 144798,
+      "name": "jest zlaa",
+      "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "Ciarki",
+        "url": "https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "duration_ms": 232409,
+      "name": "Ciarki",
+      "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -759,22 +791,6 @@
       "duration_ms": 181620,
       "name": "moja love",
       "url": "https://open.spotify.com/track/1YtdI4h1XdBPZ44iMCWHZY"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
-        "name": "jest zlaa",
-        "url": "https://open.spotify.com/album/02lSbMO1JWKo0qrW0lY6Vw"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 144798,
-      "name": "jest zlaa",
-      "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -807,22 +823,6 @@
       "duration_ms": 188023,
       "name": "Tylko gest",
       "url": "https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
-        "name": "Pierwszy mit",
-        "url": "https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK"
-      },
-      "artists": [
-        {
-          "name": "WOLSKA",
-          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Pierwszy mit",
-      "url": "https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "o smutnych ludziach",
-        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 157621,
-      "name": "piosenka o smutnych ludziach",
-      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
         "name": "in the woods",
         "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
       },
@@ -1011,6 +995,38 @@
       "duration_ms": 146584,
       "name": "in the woods",
       "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "puste s\u0142owa",
+        "url": "https://open.spotify.com/album/6VcBpdcLmlNtaw6mzime7f"
+      },
+      "artists": [
+        {
+          "name": "Olivka Majewska",
+          "url": "https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "puste s\u0142owa",
+      "url": "https://open.spotify.com/track/5EXUV3N9nAibypoeBTZnlb"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "o smutnych ludziach",
+        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 157621,
+      "name": "piosenka o smutnych ludziach",
+      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -1031,22 +1047,6 @@
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
-        "name": "puste s\u0142owa",
-        "url": "https://open.spotify.com/album/6VcBpdcLmlNtaw6mzime7f"
-      },
-      "artists": [
-        {
-          "name": "Olivka Majewska",
-          "url": "https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "puste s\u0142owa",
-      "url": "https://open.spotify.com/track/5EXUV3N9nAibypoeBTZnlb"
     },
     {
       "added_at": "2025-07-31 22:00:40",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-07-31 22:00:40",
       "album": {
-        "name": "r\u00f3\u017cowa kurtka",
-        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 141686,
-      "name": "r\u00f3\u017cowa kurtka",
-      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
-    },
-    {
-      "added_at": "2025-07-31 22:00:40",
-      "album": {
         "name": "Pretty Woman",
         "url": "https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166607,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
+    },
+    {
+      "added_at": "2025-07-31 22:00:40",
+      "album": {
+        "name": "r\u00f3\u017cowa kurtka",
+        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 141686,
+      "name": "r\u00f3\u017cowa kurtka",
+      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
     }
   ],
   "unique_name": "up next",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Royale Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,773 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,814 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Turbulence](https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Turbulence](https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8) | 3:20 |
 | 50 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 |
 
-Snapshot ID: `aGKt/gAAAABQOdHPuCRoFcVmT3bAXgzQ`
+Snapshot ID: `AAAAALp1fjjL3ZCduDeMIwywKsMKDWHt`

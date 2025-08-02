@@ -1,13 +1,45 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Georgia Harmer",
-  "num_followers": 167552,
+  "description": "A laid-back trip in the folk scene. Cover: Kathleen Edwards",
+  "num_followers": 167551,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0++tppreo2ydVCyD3BXEWIkvG8",
+  "snapshot_id": "AAAAAKOLuNE/yveBbf7UqSvP4bnJnhCl",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "When The Truth Comes Out / Little Red Ranger",
+        "url": "https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "When The Truth Comes Out",
+      "url": "https://open.spotify.com/track/4g0TfaBIbVymM94f0I4DYo"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/3cFKjTXNJSGL7TBQWenR4z"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 205916,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/1AxQ9u0qem2iAAZ4YO22MC"
+    },
     {
       "added_at": "2025-07-28 14:15:31",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "Workingman's Folk",
+        "url": "https://open.spotify.com/album/3V61LCmUqHMGRF2xud8gwP"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 273595,
+      "name": "Workingman's Folk",
+      "url": "https://open.spotify.com/track/4i3a34zfgc9TwOmC2DW4uF"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "Marylebone",
+        "url": "https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Marylebone",
+      "url": "https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5UbzUiIAy3EiLzurOlGkcE"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 157118,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4MKNdW2bfkEGwpXqHYjzjA"
     },
     {
       "added_at": "2025-07-24 18:20:21",
@@ -41,6 +121,54 @@
       "url": "https://open.spotify.com/track/0TMYG4N8EtUQnnhIXiPxGE"
     },
     {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "honey honey honey",
+        "url": "https://open.spotify.com/album/2zAUSzL2rcAEowPXN9ifEc"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "heat",
+      "url": "https://open.spotify.com/track/7vYLl6wqBUJX362yMmWZPM"
+    },
+    {
+      "added_at": "2025-07-28 14:15:31",
+      "album": {
+        "name": "Heavy Foot",
+        "url": "https://open.spotify.com/album/67pI7imaiLZ70j22ROlLmf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 145058,
+      "name": "Heavy Foot",
+      "url": "https://open.spotify.com/track/6tJQwOhJTw9a6l7C1EEBbP"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "ruin me",
+        "url": "https://open.spotify.com/album/2rfQNVaUq97UY8smTmJBKv"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "ruin me",
+      "url": "https://open.spotify.com/track/7vW7XiQtFlEL6UHnGPbj6G"
+    },
+    {
       "added_at": "2025-07-28 14:15:31",
       "album": {
         "name": "When the Lavender Blooms",
@@ -55,6 +183,22 @@
       "duration_ms": 216107,
       "name": "When the Lavender Blooms",
       "url": "https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "Little Sparks",
+        "url": "https://open.spotify.com/album/4f9Dmhca8i9OmuVqlEYIKF"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Little Sparks",
+      "url": "https://open.spotify.com/track/41ZQlsj3MfzZVN1bzPQmaB"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -105,22 +249,6 @@
       "url": "https://open.spotify.com/track/2y8zw6ulvnyDxLZv6adJCY"
     },
     {
-      "added_at": "2025-07-28 14:15:31",
-      "album": {
-        "name": "Heavy Foot",
-        "url": "https://open.spotify.com/album/67pI7imaiLZ70j22ROlLmf"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 145058,
-      "name": "Heavy Foot",
-      "url": "https://open.spotify.com/track/6tJQwOhJTw9a6l7C1EEBbP"
-    },
-    {
       "added_at": "2025-07-24 18:20:21",
       "album": {
         "name": "Thinkin About Ya",
@@ -135,6 +263,22 @@
       "duration_ms": 276938,
       "name": "Thinkin About Ya",
       "url": "https://open.spotify.com/track/3fqDX8NdDlw6LF1BA4H89d"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "The Path You Set For Me",
+        "url": "https://open.spotify.com/album/1cdjbqmg4BPOX5SIxIOWSO"
+      },
+      "artists": [
+        {
+          "name": "The Crickettes",
+          "url": "https://open.spotify.com/artist/3CeSBrm0h7RAehX7ifF00N"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "The Path You Set For Me",
+      "url": "https://open.spotify.com/track/5LRDINGMjTJ0rXLsGNUBaB"
     },
     {
       "added_at": "2025-07-28 14:15:31",
@@ -183,6 +327,22 @@
       "duration_ms": 185640,
       "name": "Hoagy's Place",
       "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "When Will the Morning Come",
+        "url": "https://open.spotify.com/album/12BzLSxGdEpeV2Ly16CXy7"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "duration_ms": 154325,
+      "name": "When Will the Morning Come",
+      "url": "https://open.spotify.com/track/1XUab7f8Fi8TGb9ifPqp3M"
     },
     {
       "added_at": "2025-07-24 18:20:21",
@@ -1507,166 +1667,6 @@
       "duration_ms": 147022,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1uFn2mmWBNsXNStZjPXm6Y"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Furthest Limb",
-        "url": "https://open.spotify.com/album/4q0vKaIfYgf3EIqqRLjd3o"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 220168,
-      "name": "Furthest Limb",
-      "url": "https://open.spotify.com/track/1uLYk1vhKYC2ArQ7V4V1mg"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Brave Boy",
-        "url": "https://open.spotify.com/album/6RoH1SlIjhoefuwDz96a3R"
-      },
-      "artists": [
-        {
-          "name": "Carsen Gray",
-          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
-        }
-      ],
-      "duration_ms": 190759,
-      "name": "Brave Boy",
-      "url": "https://open.spotify.com/track/57PIDRO7P6ThOr8MqzYVfQ"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Waiting Room",
-        "url": "https://open.spotify.com/album/4VSqLBuUg74P5P6LVeQir0"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 224067,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/5FwnAR5TCxuHP25lKV5ghW"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Dusty",
-        "url": "https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 245776,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Tail Lights",
-        "url": "https://open.spotify.com/album/3F156xIqGowFid0fhhMFqD"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 149689,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/4avxPKylZn9k9lr3vQ6acn"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Nothing I Need",
-        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Nothing I Need",
-      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "The Grass Is Blue (Everywhere I Go)",
-        "url": "https://open.spotify.com/album/6s3HJVBe2YwIu9FWfODu2Z"
-      },
-      "artists": [
-        {
-          "name": "Logan Richard",
-          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
-        }
-      ],
-      "duration_ms": 210435,
-      "name": "The Grass Is Blue (Everywhere I Go)",
-      "url": "https://open.spotify.com/track/4p6Sc3OEUAuXCL7k5HxcAw"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Apple Core",
-        "url": "https://open.spotify.com/album/5kWl6GBEG82T4bZtlPxTJZ"
-      },
-      "artists": [
-        {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
-        }
-      ],
-      "duration_ms": 164951,
-      "name": "Apple Core",
-      "url": "https://open.spotify.com/track/6HwIFbN3NHHq4uU9wCRKnp"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Unlike Anything",
-      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
     }
   ],
   "unique_name": "Folk & Friends",

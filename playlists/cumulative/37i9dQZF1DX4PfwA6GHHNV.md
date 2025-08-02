@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-223 songs - 11 hr 8 min
+224 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [AEROMOÇA](https://open.spotify.com/track/48prukdF0AI4Q7AMOzkxnQ) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:38 | 2025-05-30 |  |
 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 | 2023-12-01 | 2025-06-28 |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2023-12-02 |
-| [Ainda Tenho Fé](https://open.spotify.com/track/66YWu9JvG60I365bc87wWo) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Ainda Tenho Fé](https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ) | 1:49 | 2025-04-14 |  |
+| [Ainda Tenho Fé](https://open.spotify.com/track/66YWu9JvG60I365bc87wWo) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Ainda Tenho Fé](https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ) | 1:49 | 2025-04-14 | 2025-08-02 |
 | [AluSina](https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [AluSina](https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C) | 3:14 | 2023-09-15 | 2024-01-13 |
 | [Amor de Cria](https://open.spotify.com/track/3kU9RmAkjBKhFUZ5zXuf6V) | [Daniel Cruz](https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor de Cria](https://open.spotify.com/album/58LzcUigfFQWk6IiS2J9al) | 2:50 | 2025-06-13 | 2025-06-28 |
 | [Amor e Paz](https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:31 | 2023-09-15 | 2023-10-28 |
@@ -83,6 +83,7 @@
 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [Vignoli](https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 | 2024-08-24 |  |
 | [Foto no Espelho](https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [De Lua](https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa) | 3:08 | 2024-10-11 | 2025-06-14 |
 | [Gingado](https://open.spotify.com/track/7opo4ooKxfnEXMDzvs8EtJ) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Zapi](https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Bem\-Vindo Ao Meu Mundo](https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE) | 4:25 | 2024-11-22 | 2025-02-08 |
+| [Gingado](https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv), [DIMELLABS](https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9) | [Gingado](https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI) | 2:27 | 2025-08-01 |  |
 | [Glacial](https://open.spotify.com/track/3Wkl0N6952UrqUaM3T5aym) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Dom Big](https://open.spotify.com/artist/73WTj9NUEBlyVuujt8cBkG) | [Glacial](https://open.spotify.com/album/2uGkwTWK8zgE2n0oUHTC7A) | 3:00 | 2023-12-01 | 2024-01-11 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-27 |  |
 | [Guala](https://open.spotify.com/track/5emXCWhIK8qnUJeB2CCcIl) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 3:02 | 2024-07-12 | 2024-08-31 |

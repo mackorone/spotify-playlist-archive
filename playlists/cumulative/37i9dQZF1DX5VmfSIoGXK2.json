@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 128085,
       "name": "Acidjazzacid",
       "url": "https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 346066,
       "name": "Azura",
       "url": "https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 362834,
       "name": "Disco in Doha",
       "url": "https://open.spotify.com/track/6HISSlYeN7ooBd1WCijmDF"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 115765,
       "name": "fiesta jazz",
       "url": "https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU"
@@ -1301,6 +1301,42 @@
     },
     {
       "album": {
+        "name": "09 Years of Feedasoul",
+        "url": "https://open.spotify.com/album/1whE3ytDygH57l0nvfHeS8"
+      },
+      "artists": [
+        {
+          "name": "Yasin Hazim",
+          "url": "https://open.spotify.com/artist/1zQG3HG2ikVmCzRetpDS5k"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344432,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/6hnAC8BVOSAstUNeQxWHOP"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
+    },
+    {
+      "album": {
         "name": "The Moode Life",
         "url": "https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp"
       },
@@ -1520,7 +1556,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 135890,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge"
@@ -1560,6 +1596,28 @@
       "duration_ms": 230335,
       "name": "nice to meet u",
       "url": "https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh"
+    },
+    {
+      "album": {
+        "name": "night lights.",
+        "url": "https://open.spotify.com/album/4qwisNZ7OKOmuy4CUTAlKN"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        },
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132282,
+      "name": "night lights.",
+      "url": "https://open.spotify.com/track/07apeE8lbjEm4KQQGDXzw6"
     },
     {
       "album": {
@@ -1628,10 +1686,36 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 242941,
       "name": "No Ice",
       "url": "https://open.spotify.com/track/6b1xFlmF3Q4F4AmOnWYuDb"
+    },
+    {
+      "album": {
+        "name": "No Use (Crackazat Remix)",
+        "url": "https://open.spotify.com/album/25OIfxIuQ9vVedMvh4P8ID"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        },
+        {
+          "name": "Clara Hill",
+          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348750,
+      "name": "No Use - Crackazat Remix",
+      "url": "https://open.spotify.com/track/6O76IXn59hsVlZnp9aXcuW"
     },
     {
       "album": {
@@ -2285,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "under the jazz tree",
+        "url": "https://open.spotify.com/album/5t7Rr5TVJ7L76xd8m0rCcN"
+      },
+      "artists": [
+        {
+          "name": "mango heist",
+          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
+        },
+        {
+          "name": "Koresma",
+          "url": "https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193453,
+      "name": "under the jazz tree",
+      "url": "https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY"
+    },
+    {
+      "album": {
         "name": "Uniformity",
         "url": "https://open.spotify.com/album/6SVlABHyASsXV4Lm56xZeH"
       },
@@ -2376,6 +2482,28 @@
       "duration_ms": 116166,
       "name": "waxed & sealed",
       "url": "https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ"
+    },
+    {
+      "album": {
+        "name": "Ways of Jazz",
+        "url": "https://open.spotify.com/album/2snz15qb2jAmpYN8E7Fu5W"
+      },
+      "artists": [
+        {
+          "name": "Nebulae Waves",
+          "url": "https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2"
+        },
+        {
+          "name": "Moryla",
+          "url": "https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Ways of Jazz",
+      "url": "https://open.spotify.com/track/6oy9r5m8vFxKivwtgLN5hs"
     },
     {
       "album": {

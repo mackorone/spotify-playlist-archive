@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc08 Tech house technicians, featuring MistaJam",
+  "description": "50% techno, 50% house \ud83d\udc07 Tech house technicians, featuring SCRIPT",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -790,6 +790,24 @@
       "duration_ms": 202000,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
+    },
+    {
+      "album": {
+        "name": "Activator EP",
+        "url": "https://open.spotify.com/album/29johym52GDlOr7UhwCa2m"
+      },
+      "artists": [
+        {
+          "name": "The Botanist",
+          "url": "https://open.spotify.com/artist/15ZbPLr8nbvNDZ1vaqr75W"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274218,
+      "name": "Activator",
+      "url": "https://open.spotify.com/track/5smyVf3wio2CecKzCaZYTA"
     },
     {
       "album": {
@@ -2132,6 +2150,28 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "album": {
+        "name": "Apple Cider",
+        "url": "https://open.spotify.com/album/23vD66LgullE2QYuqVmuX9"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155964,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL"
     },
     {
       "album": {
@@ -3514,7 +3554,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 192729,
       "name": "Beat Super Bumpin'",
       "url": "https://open.spotify.com/track/7xi07xxvfRKryI7dQxVZ2L"
@@ -4969,6 +5009,28 @@
     },
     {
       "album": {
+        "name": "Botega Vendeta",
+        "url": "https://open.spotify.com/album/2S6pcNkljiY1KMVbziYpFi"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285112,
+      "name": "Botega Vendeta",
+      "url": "https://open.spotify.com/track/7eHjjHvs8kbYKtVAVySLzw"
+    },
+    {
+      "album": {
         "name": "Bounce Back",
         "url": "https://open.spotify.com/album/3FVsYixksaFuLlWxRrKF9C"
       },
@@ -5162,6 +5224,28 @@
       "duration_ms": 259047,
       "name": "Breathe (feat. No/Me)",
       "url": "https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO"
+    },
+    {
+      "album": {
+        "name": "Brick Talk EP",
+        "url": "https://open.spotify.com/album/5dQORuTnKya3P7piexCTPr"
+      },
+      "artists": [
+        {
+          "name": "Teklow",
+          "url": "https://open.spotify.com/artist/1EosnwOj5ddu5EyjpAUS9T"
+        },
+        {
+          "name": "Wolfire",
+          "url": "https://open.spotify.com/artist/6iex0B0tJH5KxvIM90tK8O"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272812,
+      "name": "Brick Talk",
+      "url": "https://open.spotify.com/track/50Mcc8LcXQhuo4F03NOvcO"
     },
     {
       "album": {
@@ -5480,7 +5564,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 190527,
       "name": "Brother",
       "url": "https://open.spotify.com/track/65RxA2YDWFjKwnUxb5WAtn"
@@ -6366,7 +6450,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199976,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7"
@@ -7068,6 +7152,28 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/2uTSksM4bVzJkb32c8TtVW"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "Equin\u00f8x",
+          "url": "https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/1y4TYozBU3YYf8WOaisCd0"
     },
     {
       "album": {
@@ -14748,7 +14854,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 152727,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4ZVSv0plk5KYS3yPxNi2iS"
@@ -22146,7 +22252,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 207252,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/06OnDDNAHbto5c5aUn6bW9"
@@ -26724,7 +26830,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 234285,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/1mVXr9um4w2NF7EXl2DWRc"
@@ -28004,7 +28110,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 201508,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
@@ -28998,7 +29104,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 217322,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ"
@@ -32017,6 +32123,24 @@
     },
     {
       "album": {
+        "name": "Psychotropic",
+        "url": "https://open.spotify.com/album/4xWJpuZdhtTaB3TE5tJyrd"
+      },
+      "artists": [
+        {
+          "name": "B/AN/K",
+          "url": "https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Psychotropic",
+      "url": "https://open.spotify.com/track/6sOen43o3JjWLy3hQLnmPg"
+    },
+    {
+      "album": {
         "name": "Puerto Rico",
         "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
       },
@@ -32086,6 +32210,24 @@
       "duration_ms": 142084,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n"
+    },
+    {
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/7luc51BQSdP1gao7FZOZmB"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166511,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0UoJuBar2rf7kef2NsmZFb"
     },
     {
       "album": {
@@ -36084,7 +36226,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 178152,
       "name": "Show Me The Money",
       "url": "https://open.spotify.com/track/0ch2k9ibj8kGABFDMDV5dP"
@@ -38850,7 +38992,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 160375,
       "name": "Swing Yo Hip (feat. Siena Liggins)",
       "url": "https://open.spotify.com/track/08zP4dU5N4LXjKUzl3XPBB"
@@ -39720,6 +39862,24 @@
       "duration_ms": 124130,
       "name": "Techno Disco (feat. Kay Elizabeth)",
       "url": "https://open.spotify.com/track/5VmpigDDjTlFFQUBXMwZDO"
+    },
+    {
+      "album": {
+        "name": "Technorama",
+        "url": "https://open.spotify.com/album/5fVzgBPhp6TKZJEXt6PKix"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197519,
+      "name": "Technorama",
+      "url": "https://open.spotify.com/track/4t3yzww7JVJbuXRejY6poB"
     },
     {
       "album": {
@@ -42731,6 +42891,28 @@
     },
     {
       "album": {
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/2FDOHhlrEEf5s3oepqQVKf"
+      },
+      "artists": [
+        {
+          "name": "Muzzaik",
+          "url": "https://open.spotify.com/artist/24p18ZRiWWS3GmR4J1QrNp"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/4lC3LncZ2bpkr6o43t1d5Z"
+    },
+    {
+      "album": {
         "name": "Turn It Around Baby",
         "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
       },
@@ -43722,7 +43904,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 197407,
       "name": "Victory",
       "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
@@ -44648,6 +44830,28 @@
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Underground",
+        "url": "https://open.spotify.com/album/11LXurXC7dcbetFuqVKNIU"
+      },
+      "artists": [
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "Shady Jones",
+          "url": "https://open.spotify.com/artist/0MQ7727bEEVnv7b11dicGA"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219847,
+      "name": "Welcome To The Underground",
+      "url": "https://open.spotify.com/track/41xsqNybEsHNTyTPPUeRNR"
     },
     {
       "album": {
@@ -45878,6 +46082,24 @@
       "duration_ms": 152522,
       "name": "WTF",
       "url": "https://open.spotify.com/track/37PgEAho2vXKJbHyDFSdol"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "album": {

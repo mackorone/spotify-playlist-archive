@@ -4,7 +4,7 @@
 
 > New music from Sheila Majid, yung kai, Faizal Tahir,  Henry Moodie, and more!
 
-17,085 songs - 39 day 3 hr 8 min
+17,088 songs - 39 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3832,6 +3832,7 @@
 | [Drinking the Dusk Away](https://open.spotify.com/track/0kd0HiLMEAmDP3qMbdLK2q) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Drinking the Dusk Away / Only the Moon Knows](https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd) | 3:22 | 2024-05-02 | 2024-05-10 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-10-31 | 2024-11-08 |
 | [Drip](https://open.spotify.com/track/609NvezJi4e6nxfNtN0Kqi) | [The Ann & Ben Show](https://open.spotify.com/artist/3bFPiEQGWfoQ3qVmlldINL), [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Drip](https://open.spotify.com/album/1vt44M7wRKu3OA8Lb5B0TO) | 2:55 | 2022-12-15 | 2022-12-24 |
+| [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 | 2025-08-01 |  |
 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 | 2025-04-03 | 2025-04-11 |
 | [Drip N' Drop](https://open.spotify.com/track/5pCAhWYET9Ry4UIB3OmSkC) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Ourturn \- MIRAE 4th Mini Album](https://open.spotify.com/album/5s0z21LL5eMd4Xz9raKdDz) | 3:07 | 2022-09-29 | 2022-10-07 |
 | [Drippin' In Gold](https://open.spotify.com/track/2YggNVBxOpzLvwAdlF9934) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/65MawbayrX3kZV1vhFcZkj) | 2:55 | 2023-07-20 | 2023-07-28 |
@@ -6744,6 +6745,7 @@
 | [Iced Coffee](https://open.spotify.com/track/3h1ZlYnc7KQo6y3IAW6imf) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Iced Coffee](https://open.spotify.com/album/5W0HY2B1O4Iql7gnsGuMGi) | 2:18 | 2024-11-21 | 2024-11-29 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 | 2023-06-02 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2023-12-01 |
+| [ICONIC](https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/5Boa7YknUbdFy87sIxQ2vG) | 3:26 | 2025-07-31 |  |
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-12 | 2023-10-20 |
 | [ID](https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI) | 4:41 | 2022-12-15 | 2022-12-24 |
 | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm), [RYUKI](https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q) | 3:32 | 2025-01-30 | 2025-02-07 |
@@ -13225,6 +13227,7 @@
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-05-20 |
 | [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 | 2023-10-20 |
 | [Superstar](https://open.spotify.com/track/67PoRNvxs6jfj7f00UWOVN) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Superstar](https://open.spotify.com/album/4qeHkpAdvYR2FLykm2OOcL) | 4:32 | 2023-02-23 | 2023-12-08 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-07-31 |  |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 | 2024-04-05 |
 | [Supra](https://open.spotify.com/track/0MHXRs859cDbV4zXyu0Ahv) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [Emerald](https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3) | 3:22 | 2023-11-09 | 2023-11-17 |

@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 184838,
       "name": "Hey Sunshine - Alexa Perl Remix",
       "url": "https://open.spotify.com/track/6OVxz5eopWAYefui5mRmEg"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199694,
       "name": "Is It Good",
       "url": "https://open.spotify.com/track/4lMrVriU09bwqOHUKLUm8M"
@@ -7308,7 +7308,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 134059,
       "name": "Love Shack - Radio Edit",
       "url": "https://open.spotify.com/track/6NVR5KJq823OCLLTxoQ7z9"
@@ -10121,6 +10121,32 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189330,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
+    },
+    {
+      "album": {
         "name": "S.O.L. (Alan Braxe Edit)",
         "url": "https://open.spotify.com/album/6bmSyg9ZxQE038UAwIULxK"
       },
@@ -11280,6 +11306,24 @@
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
+    },
+    {
+      "album": {
+        "name": "Soul Slingin'",
+        "url": "https://open.spotify.com/album/6AVhAmFdKIUQVbENtc1VyP"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190046,
+      "name": "Soul Slingin' - Radio Edit",
+      "url": "https://open.spotify.com/track/2Lhe5UI0nmSPGxiYfoT92n"
     },
     {
       "album": {
@@ -12700,6 +12744,24 @@
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
+    },
+    {
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/4KImdEXoK1S2Id8E53qTgW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193989,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/0hW6yD1MgFpwonGgFf617D"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: VARITDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,246 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,244 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 37 | [Move In Or Move On](https://open.spotify.com/track/2ZF7OJDJxFNHHDVQAWYqvg) | [G\-ERA](https://open.spotify.com/artist/0sk3GEZlEzQC57yIbYZnES) | [Move In Or Move On](https://open.spotify.com/album/7AZ0SveImdNSLqPCBgQSBL) | 2:59 |
 | 38 | [ถูกจับได้ซะแล้ว \(Surrender\)](https://open.spotify.com/track/6sx6ZFF3bJ4pGS577jpWt7) | [PINGPING PANPAN](https://open.spotify.com/artist/0HbyB0bcBi3sgdB2NMktrz) | [ถูกจับได้ซะแล้ว \(Surrender\)](https://open.spotify.com/album/687vzM3YcvJmBBkml2gpTD) | 3:09 |
 | 39 | [ทดเวลา \(Still\)](https://open.spotify.com/track/5GMVABdszRU7DabsVg6elZ) | [Meilinh](https://open.spotify.com/artist/5Pti0fcIQZLyoeeGwwSrpI) | [ทดเวลา \(Still\)](https://open.spotify.com/album/5eZoygwqGRUNURdLDYFxEA) | 4:01 |
-| 40 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
+| 40 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 41 | [ฝันนิรันดร์](https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ฝันนิรันดร์](https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU) | 4:00 |
 | 42 | [กลิ่นไอฝน](https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [กลิ่นไอฝน](https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS) | 4:06 |
 | 43 | [ไม่เคยฝันดี \(never\)](https://open.spotify.com/track/6n1gVUEZzl8N3RW4gJzPIU) | [Cosmos Sun](https://open.spotify.com/artist/3PbfbQRl1mNTooWMrNu3TN) | [ไม่เคยฝันดี \(never\)](https://open.spotify.com/album/7gJVtzLKhFq4DIJAf3E3BG) | 3:51 |

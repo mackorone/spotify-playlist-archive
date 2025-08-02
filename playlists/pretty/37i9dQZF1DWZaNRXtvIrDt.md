@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,211 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,207 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 99 | [Tucu Taca](https://open.spotify.com/track/0pF06RE9yNGJ2blMmLxPsC) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Tucu Taca](https://open.spotify.com/album/0lvXTfLiyZ30r4AQsvPUTo) | 5:47 |
 | 100 | [LEAN MANTLES](https://open.spotify.com/track/5jTE3jRc8hKshQy6fKbb20) | [Dro Carey](https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9) | [LEAN MANTLES](https://open.spotify.com/album/1wNqiAcdBXOVjLUupnDwMw) | 3:29 |
 
-Snapshot ID: `aIweDQAAAACmhHNkyJ13g5uvn61LnUZA`
+Snapshot ID: `AAAAAETkndYbNZFliZxOwtLcWs0NWpAN`

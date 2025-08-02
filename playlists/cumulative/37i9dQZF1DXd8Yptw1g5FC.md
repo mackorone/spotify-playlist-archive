@@ -4,7 +4,7 @@
 
 > Simge ve haftanın en iyi çıkışları!
 
-2,447 songs - 5 day 3 hr 2 min
+2,449 songs - 5 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [DRAM](https://open.spotify.com/track/3fY2A0C5Yf1Qss6rmnFQo0) | [Kidkubi](https://open.spotify.com/artist/0Auhs8bkWmwMhCIbLpsQnz) | [DRAM](https://open.spotify.com/album/6rvz9g5RvlLvSTtqoDSlE1) | 2:29 | 2025-07-31 |  |
 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-07-24 | 2025-08-01 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-20 | 2025-02-28 |
+| [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 | 2025-08-01 |  |
 | [Drive](https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Drive](https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk) | 3:27 | 2025-04-10 | 2025-04-18 |
 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 | 2025-07-31 |  |
 | [Drumking](https://open.spotify.com/track/3KtC0h5J3gKGsusgSLCNeO) | [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT), [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6) | [Drumking](https://open.spotify.com/album/4XmuQtBTFB4B5Ge0aCMfTf) | 2:24 | 2025-06-05 | 2025-06-13 |
@@ -1920,6 +1921,7 @@
 | [Sunshine](https://open.spotify.com/track/167cqTGZ9Rn3jcrc5nEvwv) | [Bosphoroots](https://open.spotify.com/artist/6vC6fiFQ9XBzM1cUA1ehLp) | [Good over Evil](https://open.spotify.com/album/4mhuNNU3K46DGJSj89ZvpT) | 3:14 | 2025-07-03 | 2025-07-11 |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-27 | 2025-04-04 |
 | [SUPERBIA](https://open.spotify.com/track/18xocwyCrE65hqYwBuGoFe) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi) | [SUPERBIA](https://open.spotify.com/album/6v5vb94Yk9UKGx3r3CjWKi) | 2:52 | 2025-07-17 | 2025-07-25 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-07-31 |  |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 | 2025-04-11 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 | 2025-07-04 |
 | [Sus](https://open.spotify.com/track/6s6dQjtRMg6cYcnfLn3Nlc) | [Adil Karaca](https://open.spotify.com/artist/6U7bP2bsycvo7bMfAk1NSC) | [Sus](https://open.spotify.com/album/6rvwdrWYHGbgB3yIakm98E) | 3:58 | 2025-04-17 | 2025-04-25 |

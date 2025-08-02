@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-878 songs - 2 day 0 hr 46 min
+879 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Dreams](https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Dreams](https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud) | 3:42 | 2025-04-21 | 2025-06-28 |
 | [Dried Up](https://open.spotify.com/track/2whji197SjeEyLafUkEAbN) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Town](https://open.spotify.com/album/6DjifeDOsCYY6m7JrOwGpn) | 3:01 | 2023-11-03 | 2023-12-09 |
 | [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-19 | 2024-09-14 |
+| [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 | 2025-08-01 |  |
 | [Drop Dead](https://open.spotify.com/track/4Ms82sYhimBer12aieJDmJ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Drop Dead](https://open.spotify.com/album/7FizCLR1TgCRilxzEgoqEi) | 2:41 | 2025-05-02 | 2025-07-19 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2024-09-07 |
 | [Dying Stars](https://open.spotify.com/track/2MSkKTWPwJNombdDRcb90M) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Dying Stars](https://open.spotify.com/album/2MmkibYmU3TyEJsiaWyzgH) | 3:15 | 2024-10-18 | 2024-11-30 |

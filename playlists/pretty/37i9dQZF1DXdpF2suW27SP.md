@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Waze & LEO2745 entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,436 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,463 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 10 | [Tkt Pas](https://open.spotify.com/track/0xcZUMkdWxtvnhoeL0ei24) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Tkt Pas](https://open.spotify.com/album/7Kbm1JBWBUexKZX6fRYLS9) | 2:23 |
 | 11 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
 | 12 | [Vivara](https://open.spotify.com/track/61u2LJOnd76zIPwPl0UT4p) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Vivara](https://open.spotify.com/album/5ccufuQwQSPkTnxUysjZMT) | 3:34 |
-| 13 | [Namastê](https://open.spotify.com/track/6UX58IdFIop2M8OAXbj6rA) | [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ), [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Namastê](https://open.spotify.com/album/5xCP2cuRmFVyPaER1VmKCr) | 2:42 |
+| 13 | [Namastê](https://open.spotify.com/track/6UX58IdFIop2M8OAXbj6rA) | [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ), [Mendez](https://open.spotify.com/artist/1C9oUKxqoNG8FJPMOzUZoF), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Namastê](https://open.spotify.com/album/5xCP2cuRmFVyPaER1VmKCr) | 2:42 |
 | 14 | [MACARENA](https://open.spotify.com/track/6RaAAkvAtTumYtXU5RfgUM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [MACARENA](https://open.spotify.com/album/7ty9Xxv3eKUbV8T0GgHkYk) | 2:59 |
 | 15 | [Cacau](https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 2:38 |
 | 16 | [AMANHÃ](https://open.spotify.com/track/07Teg6yZ0fcfA7QO6utyFE) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [AMANHÃ](https://open.spotify.com/album/2W7kwwOTQkaGIg54BsikXU) | 2:23 |

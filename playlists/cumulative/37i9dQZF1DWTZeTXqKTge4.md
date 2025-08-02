@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: kinji00, lb66
+> Le meilleur du hip\-hop québécois\. Photo: Loud
 
-829 songs - 1 day 18 hr 3 min
+831 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 | 2023-04-22 |
 | [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 | 2023-06-23 | 2023-11-04 |
 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 | 2022-07-22 | 2023-04-22 |
-| [Dans l'air du temps](https://open.spotify.com/track/6TPu4Tx9593EPKFj8Tvrbh) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Dans l'air du temps](https://open.spotify.com/album/7cCGWUrcIqIW2wnv1rBaH8) | 2:52 | 2025-04-25 |  |
+| [Dans l'air du temps](https://open.spotify.com/track/6TPu4Tx9593EPKFj8Tvrbh) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Dans l'air du temps](https://open.spotify.com/album/7cCGWUrcIqIW2wnv1rBaH8) | 2:52 | 2025-04-25 | 2025-08-02 |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2022-01-07 | 2022-05-28 |
 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 | 2022-12-23 | 2023-08-26 |
 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 | 2024-05-17 | 2025-06-28 |
@@ -418,6 +418,7 @@
 | [La Facture](https://open.spotify.com/track/7Ix5y9KW7TkfQ0k68ilHNn) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Yzanakio Music](https://open.spotify.com/artist/3wKIZMgns8O8UZmlRUpcGe) | [La Facture](https://open.spotify.com/album/43GEBjxilbdUEMWFjFfzxz) | 2:27 | 2025-06-20 |  |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2024-04-06 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 | 2024-04-13 |
+| [La monnaie](https://open.spotify.com/track/1JjMaBCyGzQ4BU11ZFrWiz) | [Tali\-B](https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [La monnaie](https://open.spotify.com/album/01ZxfXcbH3fkboB06EU7te) | 2:50 | 2025-08-01 |  |
 | [La mort de Manu \- Garde ta job](https://open.spotify.com/track/6ONJKSAjQUXEtMfhcq9U5z) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Petites Victoires](https://open.spotify.com/album/4fPi0fipmBM4yTr1kGqXrs) | 3:09 | 2023-11-03 | 2023-11-13 |
 | [La peine](https://open.spotify.com/track/2eqde2wm6T2EBRcI3oLKS0) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La peine](https://open.spotify.com/album/5ZzNnKX8zV7iAONaQnRalt) | 3:34 | 2024-04-19 | 2024-06-08 |
 | [LA PLUIE](https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:21 | 2023-11-24 | 2024-04-19 |
@@ -641,6 +642,7 @@
 | [Qu'est\-ce qui reste?](https://open.spotify.com/track/7ynPOCT1FpQChhFk8aMpyU) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Qu'est\-ce qui reste?](https://open.spotify.com/album/7b34YmCfnXRTylLDNuGrfr) | 2:48 | 2025-02-28 | 2025-04-26 |
 | [Quand la route est longue \- Radio Edit](https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Quand la route est longue \(feat\. FouKi\) \[Radio Edit\]](https://open.spotify.com/album/04V5LztQcB3ltQ9BXGJMEY) | 2:54 | 2022-04-15 | 2023-01-28 |
 | [Quand le soleil dort](https://open.spotify.com/track/42qKe6HxCMUh8hpJWpxaF0) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Quand le soleil dort](https://open.spotify.com/album/2xvjP4iuOahJN7wmKGnt6x) | 2:43 | 2024-09-20 | 2024-11-02 |
+| [Quelque chose](https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Quelque chose](https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH) | 2:05 | 2025-08-01 |  |
 | [Qui d'Autre](https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Qui d'Autre](https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY) | 2:38 | 2024-03-01 | 2024-05-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2022-01-07 | 2022-04-23 |
 | [Radiothérapie](https://open.spotify.com/track/4zJ13kjmIdZWOG4VWFm3gr) | [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi) | [Radiothérapie](https://open.spotify.com/album/5dHNBd0mbritQ9mNAmOYi1) | 3:30 | 2023-11-03 | 2023-11-13 |
@@ -742,7 +744,7 @@
 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 | 2023-09-22 | 2024-06-08 |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |
 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-20 | 2024-06-22 |
-| [TIK TAK](https://open.spotify.com/track/0IkvITCUa64UM1YrB6msU3) | [Tali\-B](https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT) | [TIK TAK](https://open.spotify.com/album/6anLNLmJcfC28huG3aTmb6) | 2:09 | 2024-10-11 |  |
+| [TIK TAK](https://open.spotify.com/track/0IkvITCUa64UM1YrB6msU3) | [Tali\-B](https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT) | [TIK TAK](https://open.spotify.com/album/6anLNLmJcfC28huG3aTmb6) | 2:09 | 2024-10-11 | 2025-08-02 |
 | [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 | 2023-09-01 | 2024-05-18 |
 | [Titulaire](https://open.spotify.com/track/1t3g4YEWcJXuau9ZuCCkwB) | [Stone](https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ) | [Titulaire](https://open.spotify.com/album/0M3hYvMSfsp0Bopt8xODgH) | 2:18 | 2023-01-28 | 2023-04-22 |
 | [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 | 2023-10-20 | 2024-01-20 |

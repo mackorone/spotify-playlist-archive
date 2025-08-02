@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,540 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,538 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Beef mit Cheese](https://open.spotify.com/track/7kGXwP9T9GIyh9OtE35Exa) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Beef mit Cheese](https://open.spotify.com/album/6JRLgnsKoChIn221XEC6Tm) | 2:30 |
 | 24 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
 | 25 | [Heartbeat](https://open.spotify.com/track/1XgvBVu8e8UKBPpMr5Tt3h) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Heartbeat](https://open.spotify.com/album/0hUZZpVl5ldz7taDEa9msj) | 4:27 |
-| 26 | [Wachstumsschmerzen](https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Wachstumsschmerzen](https://open.spotify.com/album/0E13QRKmzco6XVMNh72LSL) | 3:14 |
-| 27 | [GESTERN/HEUTE?](https://open.spotify.com/track/1WdHJRjPR83aQDZdsYysEG) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [GESTERN/HEUTE?](https://open.spotify.com/album/22XZso4bfbyELatOzOrIk8) | 3:30 |
+| 26 | [GESTERN/HEUTE?](https://open.spotify.com/track/1WdHJRjPR83aQDZdsYysEG) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [GESTERN/HEUTE?](https://open.spotify.com/album/22XZso4bfbyELatOzOrIk8) | 3:30 |
+| 27 | [Wachstumsschmerzen](https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Wachstumsschmerzen](https://open.spotify.com/album/0E13QRKmzco6XVMNh72LSL) | 3:14 |
 | 28 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
 | 29 | [Ego](https://open.spotify.com/track/7eDmnuJY1U8HqvZuA5PRlf) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Geb dir alles, stimmt so](https://open.spotify.com/album/50CL8CSrwQQghQSrkNRU1S) | 2:28 |
 | 30 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
 | 33 | [KC](https://open.spotify.com/track/3HDle0GoI8VcCXGvcT0J7f) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [KC](https://open.spotify.com/album/6peo23Qvr0Hd2ytbuVOx1D) | 2:05 |
 | 34 | [Save The Last Dance](https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Save The Last Dance](https://open.spotify.com/album/4oGVlj2GZGx5MmIVzy6WmR) | 4:23 |
-| 35 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
-| 36 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 35 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 36 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
 | 37 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
-| 38 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
-| 39 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
+| 38 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
+| 39 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
 | 40 | [Cherry Blossom](https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg) | [animat](https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb) | [Cherry Blossom](https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8) | 3:12 |
 | 41 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
 | 42 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |

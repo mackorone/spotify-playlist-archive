@@ -1073,6 +1073,32 @@
     },
     {
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/76pX4gG9y3qP03fP7T0dQO"
+      },
+      "artists": [
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Jayie",
+          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
+        },
+        {
+          "name": "Bruno Brunette",
+          "url": "https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114230,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/6Vp5gUC5rPJWB4Q8klvUtn"
+    },
+    {
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
@@ -5651,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Monta\u00f1as Oscuras",
+        "url": "https://open.spotify.com/album/7dtJPsIFhyts6fIIEzLDvB"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6rgen",
+          "url": "https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182075,
+      "name": "Monta\u00f1as Oscuras",
+      "url": "https://open.spotify.com/track/4uTtTT2d2zAzshVuAN4F9R"
+    },
+    {
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
@@ -6868,7 +6912,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 173858,
       "name": "Quema Quema",
       "url": "https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5"
@@ -8746,7 +8790,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"

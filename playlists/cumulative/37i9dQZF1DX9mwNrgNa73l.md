@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-199 songs - 22 hr 15 min
+200 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Madni Di Gal Kariye](https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Madni Di Gal Kariye](https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B) | 5:54 | 2023-10-20 | 2024-01-06 |
 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 | 2022-06-21 |  |
 | [Main Jahaan Rahoon](https://open.spotify.com/track/3D14KmI6wxH0DKgygar81J) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Unplugged](https://open.spotify.com/album/3zpp4NHOe9ky1ot1qcNZre) | 6:26 | 2022-08-02 | 2023-05-20 |
+| [Main Kaun Hoon](https://open.spotify.com/track/2hK1LA9GCG23VinwnlLfMS) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Main Kaun Hoon](https://open.spotify.com/album/46N671VY1hEdrSdVMbMVDE) | 4:15 | 2025-08-01 |  |
 | [Main Nahi Hoon](https://open.spotify.com/track/1fiSYMu83lceg6nc63T97j) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Mein Nahin Hoon](https://open.spotify.com/album/6JRnkNQyiSBLAM71RQGXok) | 5:06 | 2024-01-05 |  |
 | [Main Sadqay Ya Rasool Allah](https://open.spotify.com/track/4Aw75bqRkCO3Y1IOdGB03h) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Main Sadqay Ya Rasool Allah](https://open.spotify.com/album/7yp5ubUkdCjgXBOAqnI6hM) | 4:48 | 2024-04-03 |  |
 | [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 | 2023-11-17 | 2024-01-06 |

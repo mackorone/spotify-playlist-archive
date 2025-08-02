@@ -6966,7 +6966,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 242133,
       "name": "Hands of Sin",
       "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
@@ -10542,7 +10542,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
@@ -14409,6 +14409,24 @@
     },
     {
       "album": {
+        "name": "Serpent On The Cross",
+        "url": "https://open.spotify.com/album/6opi057QpBE2HPSUKLNhpE"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373213,
+      "name": "Serpent On The Cross",
+      "url": "https://open.spotify.com/track/01wpesgkbK6NLPhEnSJYFd"
+    },
+    {
+      "album": {
         "name": "Serpentine",
         "url": "https://open.spotify.com/album/1qIMvM6njipAAzCGemCdlv"
       },
@@ -16252,6 +16270,24 @@
       "duration_ms": 434773,
       "name": "Tears of a Mandrake",
       "url": "https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu"
+    },
+    {
+      "album": {
+        "name": "Tears Of Fire",
+        "url": "https://open.spotify.com/album/0pIqvJbxMhliccVA99Au5Y"
+      },
+      "artists": [
+        {
+          "name": "Primal Fear",
+          "url": "https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304040,
+      "name": "Tears of Fire",
+      "url": "https://open.spotify.com/track/3dLign14FMWFrqUf6HYXQq"
     },
     {
       "album": {

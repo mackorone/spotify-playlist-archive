@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-681 songs - 1 day 10 hr 18 min
+682 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Dreaming Of You](https://open.spotify.com/track/28QoRmgNTP79BmBMK0k3ng) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Dreaming Of You](https://open.spotify.com/album/0HbKqBR48CLjGYvR0EUtxA) | 2:36 | 2023-12-22 |  |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
+| [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 | 2025-08-01 |  |
 | [Duero](https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Duero](https://open.spotify.com/album/1aI7HeoLOS1UyFroeRGNGk) | 3:15 | 2023-12-22 |  |
 | [Early Autumn](https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:53 | 2023-02-23 | 2025-02-11 |
 | [Easy Goin'](https://open.spotify.com/track/23v7yXkwzDcmC8b6nIJ9HK) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [Easy Goin'](https://open.spotify.com/album/07YKwMac0MwqKsvOf7ugKx) | 2:44 | 2024-02-23 | 2025-07-24 |
@@ -415,7 +416,7 @@
 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 | 2025-07-01 |  |
 | [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 | 2022-02-01 | 2025-01-21 |
 | [My Roses](https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [My Roses](https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v) | 2:11 | 2022-10-27 |  |
-| [My Slowing Beating Heart](https://open.spotify.com/track/4rXnm1uBvBGq9FoqjGBZRS) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Slowing Beating Heart](https://open.spotify.com/album/6spZcODzxgkURlpQy9Tmyw) | 3:35 | 2024-06-04 |  |
+| [My Slowing Beating Heart](https://open.spotify.com/track/4rXnm1uBvBGq9FoqjGBZRS) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Slowing Beating Heart](https://open.spotify.com/album/6spZcODzxgkURlpQy9Tmyw) | 3:35 | 2024-06-04 | 2025-08-02 |
 | [My World](https://open.spotify.com/track/0CNwwdWrJPiYuNzgXMXoce) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [My World](https://open.spotify.com/album/6Vq1GuiSwp1Sat5cCajS94) | 3:06 | 2024-05-23 | 2025-01-15 |
 | [My Writing Time](https://open.spotify.com/track/4YReZY9ljzF8jbIn9wRmUg) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Writing Time](https://open.spotify.com/album/13bS4DuoftGDo0Gfun7V7K) | 3:33 | 2024-02-23 |  |
 | [Myvatn](https://open.spotify.com/track/4GRwZoaedwo4WCmRBLMLlh) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Myvatn](https://open.spotify.com/album/1IlvsYzXh8KE7qIE3J7b4R) | 2:19 | 2024-11-18 |  |

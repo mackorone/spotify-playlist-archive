@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,119 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,229 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Alphabet Jawn \(feat\. Last BeNeVoLeNcE\)](https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Last BeNeVoLeNcE](https://open.spotify.com/artist/5fckpprZayLR6c9kQHDNdU) | [Buddy's Magic Tree House](https://open.spotify.com/album/0jAohVRLiPG57RDek7zsUM) | 2:25 |
-| 2 | [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 |
+| 1 | [Chasing Rainbows](https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Chasing Rainbows](https://open.spotify.com/album/4dCcS4vZi4my5BVpcxkzec) | 3:03 |
+| 2 | [The Alphabet Jawn \(feat\. Last BeNeVoLeNcE\)](https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Last BeNeVoLeNcE](https://open.spotify.com/artist/5fckpprZayLR6c9kQHDNdU) | [Buddy's Magic Tree House](https://open.spotify.com/album/0jAohVRLiPG57RDek7zsUM) | 2:25 |
 | 3 | [Number 1 Fan](https://open.spotify.com/track/7g4nkY0DO585W0yauxcHBX) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Harmony](https://open.spotify.com/album/0PQ19dPwxTPuv4FGxCk8kP) | 4:27 |
 | 4 | [Hot Cross Buns](https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Hot Cross Buns](https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC) | 2:19 |
 | 5 | [The Bird Song](https://open.spotify.com/track/6MMZkLNvSHIKvwQo14sMrz) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [The Bird Song](https://open.spotify.com/album/4MQ7h2DfxK7VhQlppY5dvP) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 | 50 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
 
-Snapshot ID: `aH0ezQAAAAAtIXmugGdC0fWVqlzn6YPQ`
+Snapshot ID: `AAAAACVOcZbruBecg65Jq6SZCwS+8i1g`

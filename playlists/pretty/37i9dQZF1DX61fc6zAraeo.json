@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 104461,
+  "num_followers": 104472,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
         "name": "World Gone Wild (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Endless Dreamers",
-        "url": "https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 236718,
-      "name": "Endless Dreamers",
-      "url": "https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/5EuYe9bOkj023Gk2sD2mZt"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 139250,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5qC4mPqxfp9LDPsO7GhseX"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Endless Dreamers",
+        "url": "https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 236718,
+      "name": "Endless Dreamers",
+      "url": "https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -983,6 +983,26 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
+        "name": "4 o'Clock (In The Morning)",
+        "url": "https://open.spotify.com/album/333tnNxldO2bpInhctnz5W"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "STRINGS",
+          "url": "https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs"
+        }
+      ],
+      "duration_ms": 124995,
+      "name": "4 o'Clock (In The Morning)",
+      "url": "https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh"
       },
@@ -1007,46 +1027,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "4 o'Clock (In The Morning)",
-        "url": "https://open.spotify.com/album/333tnNxldO2bpInhctnz5W"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "STRINGS",
-          "url": "https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs"
-        }
-      ],
-      "duration_ms": 124995,
-      "name": "4 o'Clock (In The Morning)",
-      "url": "https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 150691,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 130231,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 150691,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Morumbi",
-        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
         },
         {
-          "name": "Tocadisco",
-          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Morumbi",
-      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
+      "duration_ms": 149760,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
+        "name": "Morumbi",
+        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
       },
       "artists": [
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Tocadisco",
+          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+      "duration_ms": 185538,
+      "name": "Morumbi",
+      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "2:M",
         "url": "https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 220157,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2025-07-17 13:18:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\. Cover: <a href="spotify:artist:6Agwo4UWzZes5CDUMFFlvU">MARCO PLUS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,180 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,276 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Freddy Krueger](https://open.spotify.com/track/7kaIqlm344I5xZqaocwvj9) | [Lil Cleno](https://open.spotify.com/artist/7HTYbG0DEPZsfjbdSkPyYO) | [Freddy Krueger](https://open.spotify.com/album/0cW2UgwYD43ETCgF8lwhbc) | 2:13 |
 | 100 | [Adderall](https://open.spotify.com/track/0BInM9cA2K8B0JuegBKAVw) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Adderall](https://open.spotify.com/album/6wOpPikfXHUabhZvGK88fK) | 2:08 |
 
-Snapshot ID: `AAAAAETKpcbiiYQ1IAzCSRT9ChBRiREM`
+Snapshot ID: `aIubtgAAAABHIYwAoC7r8QgsNJd8lTbC`

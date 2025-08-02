@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:3Y10boYzeuFCJ4Qgp53w6o\"> Scissor Sisters </a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFP8Ixo8m8jnE\">Ambr\u00e9</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 160102,
       "name": "Balatar",
       "url": "https://open.spotify.com/track/0aqEoIQ0xrhEAnjlbnqpXq"
+    },
+    {
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "band practice",
+      "url": "https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly"
     },
     {
       "album": {
@@ -891,6 +909,24 @@
     },
     {
       "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137841,
+      "name": "Drake and Drive",
+      "url": "https://open.spotify.com/track/7eh6esjOCkDkcYU31h6few"
+    },
+    {
+      "album": {
         "name": "Queer Rage",
         "url": "https://open.spotify.com/album/0FsJHNwVPMFzPgRceiEHGm"
       },
@@ -906,6 +942,28 @@
       "duration_ms": 151966,
       "name": "Drama Drama",
       "url": "https://open.spotify.com/track/6qQDrQDewRUDkjohl8q9cR"
+    },
+    {
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "ELEVATE (ft. Mack Keane)",
+      "url": "https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me"
     },
     {
       "album": {
@@ -1552,7 +1610,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 176668,
       "name": "Kiss Kiss Goodbye",
       "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
@@ -2018,7 +2076,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 180674,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
@@ -2364,7 +2422,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 178064,
       "name": "Strobe Lights",
       "url": "https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV"

@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Ebtadena",
+        "url": "https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195368,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K"
+    },
+    {
+      "album": {
         "name": "Baby Baby",
         "url": "https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg"
       },
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 248197,
       "name": "Habibi W Bass",
       "url": "https://open.spotify.com/track/3MlkSBkCiEQ9TpRFnxywba"
@@ -2696,6 +2714,24 @@
       "duration_ms": 155998,
       "name": "Habitha Ya Nas - From Bhabak",
       "url": "https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1"
+    },
+    {
+      "album": {
+        "name": "Hadal Ahbek",
+        "url": "https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "Hadal Ahbek",
+      "url": "https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp"
     },
     {
       "album": {
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 186352,
       "name": "Qalbi",
       "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
@@ -5304,6 +5340,24 @@
       "duration_ms": 237775,
       "name": "Single",
       "url": "https://open.spotify.com/track/29MbJ4ReqIZ2lduxiwp8Cd"
+    },
+    {
+      "album": {
+        "name": "Skaba",
+        "url": "https://open.spotify.com/album/5K4PftTZCW3K8x849sVXpH"
+      },
+      "artists": [
+        {
+          "name": "Akhras",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Skaba",
+      "url": "https://open.spotify.com/track/2qKD4crtO5JqTjSepwUtBU"
     },
     {
       "album": {
@@ -6192,7 +6246,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 250135,
       "name": "Yaah",
       "url": "https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00"

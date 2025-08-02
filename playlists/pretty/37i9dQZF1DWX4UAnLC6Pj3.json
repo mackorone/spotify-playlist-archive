@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Los Recoditos en portada.",
-  "num_followers": 1271870,
+  "num_followers": 1271991,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,18 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -663,18 +659,22 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Aunque Tiren Hate",
-        "url": "https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Aunque Tiren Hate",
-      "url": "https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh"
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Las Edades - En Vivo",
-      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "CHSM El H\u00edgado X2",
         "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185434,
       "name": "CHSM El Higado",
       "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Aunque Tiren Hate",
+        "url": "https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Aunque Tiren Hate",
+      "url": "https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "El Malo Soy Yo",
-      "url": "https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Una Historia Mal Contada",
         "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 160285,
       "name": "Una Historia Mal Contada",
       "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "El Malo Soy Yo",
+      "url": "https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "90\u00b4S",
-        "url": "https://open.spotify.com/album/614gemn5jcBnmffHannrPT"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 156818,
-      "name": "El Ranchero Chido",
-      "url": "https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "El Ceja Levantada",
         "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 174742,
       "name": "El Ceja Levantada",
       "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "90\u00b4S",
+        "url": "https://open.spotify.com/album/614gemn5jcBnmffHannrPT"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 156818,
+      "name": "El Ranchero Chido",
+      "url": "https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 205824,
-      "name": "Hoy perdemos",
-      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Te Tengo Que Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/2uHKjvMXmlfQeJ7xE2Byil"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 212306,
       "name": "Te Tengo Que Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/0J4wQRZjbEBUYuGMA3k6o0"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Hoy perdemos",
+      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "El Amor No Existe",
-        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 138839,
-      "name": "El Amor No Existe",
-      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 237787,
       "name": "De Ellas",
       "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "El Amor No Existe",
+        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "El Amor No Existe",
+      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Traguitos De Licor",
-        "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 156408,
-      "name": "Traguitos De Licor",
-      "url": "https://open.spotify.com/track/6yTkItaHBv3bt9ZHF1z17d"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "El Precio De La Soledad (En vivo)",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1935,6 +1915,26 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
+        "name": "Traguitos De Licor",
+        "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 156408,
+      "name": "Traguitos De Licor",
+      "url": "https://open.spotify.com/track/6yTkItaHBv3bt9ZHF1z17d"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
         "name": "El 30 de Febrero",
         "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Me Vas A Comparar",
-        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Me Vas A Comparar",
-      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Que Te Trague La Tierra",
         "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 188266,
       "name": "Que Te Trague La Tierra",
       "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Con La Tierra Encima",
-        "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez Jr.",
-          "url": "https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Con La Tierra Encima",
-      "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "La Gitanilla",
         "url": "https://open.spotify.com/album/63cidIgeRESLRmQ0Hr2lLT"
       },
@@ -2163,22 +2143,22 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
+        "name": "Con La Tierra Encima",
+        "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         },
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "Ra\u00fal Hern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX"
         }
       ],
-      "duration_ms": 150527,
-      "name": "La Patrona",
-      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
+      "duration_ms": 188478,
+      "name": "Con La Tierra Encima",
+      "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -2195,6 +2175,26 @@
       "duration_ms": 142013,
       "name": "La Propina",
       "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 150527,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
     },
     {
       "added_at": "2025-07-18 15:31:52",

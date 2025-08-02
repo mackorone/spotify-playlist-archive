@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Manu Chao y Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,302 likes - 80 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,276 likes - 80 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 79 | [SANTA MUERTE\_BLUFF\_94 BPM](https://open.spotify.com/track/2pi2WcCZVW2BK3UvRpYFEJ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Santa Muerte](https://open.spotify.com/artist/4MTtrk5OIUDYSekXlzQAMd) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 3:18 |
 | 80 | [Virgencita \(Rocky Wellstack & Jillionaire Remix\)](https://open.spotify.com/track/77SFrclNyZkIslRcZQTu3p) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Rocky Wellstack](https://open.spotify.com/artist/6QczmxkjIUtne6NCTlq1g9), [Jillionaire](https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 2:56 |
 
-Snapshot ID: `aHFtRwAAAAAys0qBQB/275XaMU8bQyEu`
+Snapshot ID: `AAAAAMIZXHasHT5cBD6E1iQm5+Cact8Z`

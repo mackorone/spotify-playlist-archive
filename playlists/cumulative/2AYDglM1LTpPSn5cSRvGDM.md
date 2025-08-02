@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-108 songs - 6 hr 17 min
+109 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Pieces](https://open.spotify.com/track/2KwgEr9uSZFiUbrLRfyXy0) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Pieces](https://open.spotify.com/album/6D2UfaGb66nY5zRXB8ua8l) | 3:55 | 2025-07-11 |  |
 | [Pieces](https://open.spotify.com/track/0AovhHXreaDvf75BQONHSZ) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX) | [Pieces](https://open.spotify.com/album/3J0XNOFDnIClZeYAlb6N5o) | 2:57 | 2025-07-11 |  |
 | [Portrait](https://open.spotify.com/track/3VBRIUavnyyKP228ZoCaMV) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Portrait](https://open.spotify.com/album/515X8yEwuxAThIDSwnm9Xi) | 2:24 | 2025-07-11 |  |
+| [Priceless](https://open.spotify.com/track/3C9kz0a6NzqtO4awIgwhBc) | [Hyperbits](https://open.spotify.com/artist/5HYYXGs19FM9JuSjmoE88Y), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Pattern Interruption](https://open.spotify.com/album/3OOs0HPAMTMTlqsSvmYVKj) | 3:41 | 2025-08-01 |  |
 | [Radiant](https://open.spotify.com/track/01fXsZUFvPdAy3dW2lly1f) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Radiant](https://open.spotify.com/album/3VDVHErDWinXwSDtKMtOeb) | 3:31 | 2025-07-11 |  |
 | [Ratchet](https://open.spotify.com/track/7sV4noDOTbAAAxNoGv0Jpn) | [Deroz](https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5), [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [Ratchet](https://open.spotify.com/album/3qaYinVyU9xGAlP4rXBtCQ) | 3:24 | 2025-07-11 |  |
 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 | 2025-07-11 |  |

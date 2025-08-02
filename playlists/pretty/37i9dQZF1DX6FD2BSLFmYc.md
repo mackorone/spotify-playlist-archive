@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,186 likes - 117 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,209 likes - 117 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 116 | [Vollmond Im Herbst](https://open.spotify.com/track/5MCnFtr9vx94kq0bxuK00r) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 5:42 |
 | 117 | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8) | [Crystal Relaxations](https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi) | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO) | 4:28 |
 
-Snapshot ID: `AAAAABTdzQrjb7XClPojnlOffeIAwamX`
+Snapshot ID: `aHe7mAAAAAA53OiNgkianN3W+enbp8LK`

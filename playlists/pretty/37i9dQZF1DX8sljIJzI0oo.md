@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Paloma Mami is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,251 likes - 20 songs - 55 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,198 likes - 20 songs - 55 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
 | 20 | [TUMBAO](https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TUMBAO](https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c) | 2:46 |
 
-Snapshot ID: `aIrqWAAAAAAeXOZkKqRQroomNOll2Rof`
+Snapshot ID: `AAAAACuP98K2hCxNqQjPa3X7Y/pJ5XQS`

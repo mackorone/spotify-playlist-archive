@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1546397,
+  "num_followers": 1546772,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -632,7 +632,7 @@
           "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
-      "duration_ms": 83576,
+      "duration_ms": 83048,
       "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
       "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
     },
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "DJ Purpberry",
+          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
+    },
+    {
+      "added_at": "2025-07-15 19:04:50",
+      "album": {
         "name": "Bent (Pack)",
         "url": "https://open.spotify.com/album/5RTw6vQXTIXkB9fP6Aheu7"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 183592,
       "name": "Bent - slowed + reverb",
       "url": "https://open.spotify.com/track/6ZqFoM0KMHDGiXwojXDqot"
-    },
-    {
-      "added_at": "2025-07-15 19:04:50",
-      "album": {
-        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
-        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "DJ Purpberry",
-          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "No Idea - Dj Purpberry Chopped and Screwed",
-      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
       "added_at": "2025-07-15 19:04:50",
@@ -891,18 +891,22 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
-        "name": "Where's My Love (Slowed)",
-        "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
+        "name": "Living Life, In The Night (slowed)",
+        "url": "https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
         }
       ],
-      "duration_ms": 289536,
-      "name": "Where's My Love - Slowed",
-      "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
+      "duration_ms": 141290,
+      "name": "Living Life, In The Night - slowed",
+      "url": "https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ"
     }
   ],
   "unique_name": "slowed and reverbed",

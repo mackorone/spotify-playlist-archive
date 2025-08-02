@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Al cien en la privada con LOS DOS DE TAMAULIPAS o & the hottest corridos in the U.S.",
+  "description": "Al cien en la privada con Danny Felix, Juanchito & the hottest corridos in the U.S.",
   "name": "La Privada",
   "tracks": [
     {
@@ -1256,6 +1256,28 @@
       "duration_ms": 174522,
       "name": "CARNAL",
       "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
+    },
+    {
+      "album": {
+        "name": "CATALOGADO",
+        "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127481,
+      "name": "CATALOGADO",
+      "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
     },
     {
       "album": {
@@ -6320,7 +6342,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"

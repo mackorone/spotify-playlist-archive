@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Epoque
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,104 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,137 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [I LUV U](https://open.spotify.com/track/5RJcX2TpD3LxJyM7OonuAP) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A) | [I LUV U](https://open.spotify.com/album/6iKZL4XM7RlKTtWwz0A4bg) | 2:43 |
 | 100 | [LA PORTA IL VENTO](https://open.spotify.com/track/4OxSMgOinHc1T9c69cfkJJ) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Mile](https://open.spotify.com/artist/0YfrIvbDrpW1PdjB0WvZqQ), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [LA PORTA IL VENTO](https://open.spotify.com/album/6If7Vr3rVDFYaUyP1jwnSf) | 2:15 |
 
-Snapshot ID: `aIvnrQAAAAARVm4hj5ZYBgARb6lbGQrE`
+Snapshot ID: `AAAAAJ/jymX4ejrz+R3YeCr3Bc8wUbb/`

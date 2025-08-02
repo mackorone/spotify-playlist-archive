@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Benson Boone
+> Voici les hits du moment\. Photo: Justin Bieber
 
 525 songs - 1 day 3 hr 33 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 654425,
+  "num_followers": 654570,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIlggAAAAAC+uhl4hvJIEXoL05VBbzHM",
+  "snapshot_id": "aIqyAAAAAADYVssMPrc/BPILsqtdASoD",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 195994,
+      "name": "Fucking Your Culture",
+      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 195994,
-      "name": "Fucking Your Culture",
-      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
     },
     {
       "added_at": null,

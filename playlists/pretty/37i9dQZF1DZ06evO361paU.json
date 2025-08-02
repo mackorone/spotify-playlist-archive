@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 286163,
+  "num_followers": 286201,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIlggAAAAAAzPsDORJnpPl/NqWn3Qotc",
+  "snapshot_id": "aIqyAAAAAADJux0/2aFEGD7pb/VwzvLR",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
-        {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 398217,
-      "name": "Don't Think You Ever Loved Me (feat. Lenny Kravitz, Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/7Hau6gKa1qB6YT4AYtn1qd"
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

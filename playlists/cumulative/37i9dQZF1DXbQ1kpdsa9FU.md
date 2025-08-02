@@ -4,7 +4,7 @@
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-362 songs - 1 day 2 hr 58 min
+363 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 | 2025-05-09 | 2025-07-31 |
 | [El\-Shaddai](https://open.spotify.com/track/2VED4X4iTTLD4g1TQqxtAi) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Greatest Hits](https://open.spotify.com/album/7pfhRkBsKxw8mPNcVKReAT) | 4:07 | 2024-12-11 |  |
 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 | 2024-12-11 |  |
-| [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 | 2024-12-11 |  |
+| [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 | 2024-12-11 | 2025-08-02 |
 | [Even Louder \(Spontaneous\) \- Live](https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Even Louder \(Spontaneous\) \[Live\]](https://open.spotify.com/album/4RFvIjXutsFtMcLCQ0jhn2) | 7:08 | 2020-08-26 | 2022-03-16 |
 | [Even So Come \- Radio Version/Live](https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Even So Come \(Radio Version/Live\)](https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P) | 4:14 | 2023-02-18 | 2024-06-23 |
 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 | 2020-08-26 | 2024-04-19 |
@@ -124,6 +124,7 @@
 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 | 2020-08-26 | 2022-07-28 |
 | [Good News](https://open.spotify.com/track/3QqTmV1zpTNEAMviQFUFkW) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 2:50 | 2023-02-18 | 2024-05-14 |
 | [Goodness of God \- Radio Version](https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Goodness of God \(Radio Version\)](https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE) | 3:56 | 2024-12-11 |  |
+| [Grace Got You](https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 3:35 | 2025-06-17 |  |
 | [Grace Wins](https://open.spotify.com/track/3wF0rpX1njF2FLFGc45rxV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Live Forever](https://open.spotify.com/album/1IEA2W6BpAmDZVdZQ9G33u) | 4:24 | 2023-02-18 | 2024-06-23 |
 | [Gracefully Broken](https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:50 | 2020-08-26 |  |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-12-11 |  |

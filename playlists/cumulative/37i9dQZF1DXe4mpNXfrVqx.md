@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-222 songs - 9 hr 51 min
+223 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 | 2022-09-30 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
+| [Bad Bitches](https://open.spotify.com/track/7tVqBzsSAdGrMlRZjiOeSb) | [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Bad Bitches](https://open.spotify.com/album/2A63zUnlL6WkcB74VqUocf) | 2:05 | 2025-08-01 |  |
 | [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 | 2022-09-02 | 2023-04-15 |
 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 | 2023-08-25 |  |
 | [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 | 2023-03-03 |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 | 2023-02-09 |
 | [BNTA](https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ) | 3:57 | 2023-02-03 | 2024-01-27 |
-| [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [Faria Hesitate](https://open.spotify.com/artist/3lKSyXRQuOpyRQgS956cZP) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 | 2024-06-21 |  |
+| [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [Faria Hesitate](https://open.spotify.com/artist/3lKSyXRQuOpyRQgS956cZP) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 | 2024-06-21 | 2025-08-02 |
 | [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 | 2023-06-26 | 2024-01-20 |
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 | 2022-08-13 |
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 | 2024-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: CèJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,540 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,586 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 18 | [Praise Your Name](https://open.spotify.com/track/5TjOqCJqJtITXNJmuxI6qh) | [Jay Manwell](https://open.spotify.com/artist/7MDy7SOqkdabf2wweldR0p) | [Praise Your Name](https://open.spotify.com/album/0cWDDDscFrZkjUiHIC9WYK) | 2:42 |
 | 19 | [Salt](https://open.spotify.com/track/1viKqfuDYNpe9taeHCvipp) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [Salt](https://open.spotify.com/album/6jF0d29UAwnHfTnwcLXiFK) | 2:44 |
 | 20 | [Oluwa Ese](https://open.spotify.com/track/3l37qRJur9CW8b7UhrWCFg) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Oluwa Ese](https://open.spotify.com/album/1pbQNDcJZeMIOm6ios3Shk) | 2:10 |
-| 21 | [Praying Out Loud \- Risingson Remix](https://open.spotify.com/track/6qLAEKSyGuFsY3kJBR20Hv) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Risingson](https://open.spotify.com/artist/7F4utCdmgOYaB5a7Em2zcn), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Praying Out Loud \(Risingson Remix\)](https://open.spotify.com/album/5cvPzTmdGkFybFmrqGg3dZ) | 3:17 |
+| 21 | [Praying Out Loud \- Risingson Remix](https://open.spotify.com/track/6qLAEKSyGuFsY3kJBR20Hv) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Risingson](https://open.spotify.com/artist/7F4utCdmgOYaB5a7Em2zcn) | [Praying Out Loud \(Risingson Remix\)](https://open.spotify.com/album/5cvPzTmdGkFybFmrqGg3dZ) | 3:17 |
 | 22 | [HOLY GHOST](https://open.spotify.com/track/66VssiAfLQjB7HEZG2Zhaj) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [HOLY GHOST](https://open.spotify.com/album/0DOYsEQjN6bbjfq34qnPFu) | 2:30 |
 | 23 | [Too Comfortable](https://open.spotify.com/track/7wUdaaa4hJGwHxz3FsjrRK) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [jay2dee](https://open.spotify.com/artist/3pN7dGagUKrz2MNHuTEHFA) | [Too Comfortable](https://open.spotify.com/album/6hnjvZAPOETfgqTTW1fIFQ) | 2:25 |
 | 24 | [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 |

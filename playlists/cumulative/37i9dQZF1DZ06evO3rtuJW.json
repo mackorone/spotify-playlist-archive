@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 154195,
       "name": "Best Rapper Alive",
       "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 243530,
       "name": "Body Count (feat. King Von & G Herbo)",
       "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
@@ -1508,6 +1508,24 @@
       "duration_ms": 142759,
       "name": "I Told Her (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5ybvTSA7a1w5ARhT2wpP4O"
+    },
+    {
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131210,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/3vq65qs6iwgK6gME2HReLp"
     },
     {
       "album": {
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 124617,
       "name": "Roc Block",
       "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 168022,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K"

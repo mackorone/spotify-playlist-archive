@@ -551,6 +551,44 @@
     },
     {
       "album": {
+        "name": "Brighter Days (feat. Dajae) [Alok Remix]",
+        "url": "https://open.spotify.com/album/6Z9Pd13qK610S1vCeIgowS"
+      },
+      "artists": [
+        {
+          "name": "Cajmere",
+          "url": "https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Ruddek",
+          "url": "https://open.spotify.com/artist/0Mu5RMSse8xbWBS54MLRoj"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Brighter Days (feat. Dajae) - Alok Remix",
+      "url": "https://open.spotify.com/track/3FzWWTFUHhLpmEkwxNMGkw"
+    },
+    {
+      "album": {
         "name": "Bring Me To Life",
         "url": "https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT"
       },
@@ -1134,7 +1172,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 188852,
       "name": "DARE",
       "url": "https://open.spotify.com/track/1YSOSgWnOQhELstcjDr9s3"
@@ -1392,6 +1430,28 @@
       "duration_ms": 290629,
       "name": "Down - Illusionize, Viot Rework",
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "album": {
+        "name": "Drink",
+        "url": "https://open.spotify.com/album/2Xs573EjnWSAYZNKCcbxcr"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/0BJf555TLDXYffPG2Gwigk"
     },
     {
       "album": {
@@ -5204,7 +5264,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 166124,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk"

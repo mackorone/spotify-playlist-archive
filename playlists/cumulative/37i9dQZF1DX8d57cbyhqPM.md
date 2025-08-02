@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Naza.
+> Du Congo, au monde 🌍 avec Tontons Gradur et L2B.
 
-623 songs - 1 day 11 hr 25 min
+625 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Comme je suis \- Bonus](https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:46 | 2024-03-01 | 2024-05-18 |
 | [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-07 | 2025-03-29 |
 | [Congo Blinders](https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Ekoya](https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb) | 2:39 | 2025-01-31 | 2025-02-22 |
+| [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 | 2025-08-01 |  |
 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-07-18 |  |
 | [CORTÈGE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:54 | 2024-04-12 | 2024-04-19 |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
@@ -141,6 +142,7 @@
 | [Daddy](https://open.spotify.com/track/5Oy18y0Jg89TE9aBSVcyEH) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Daddy](https://open.spotify.com/album/6OzIbR3hIZ58xavhSu6mG6) | 2:51 | 2024-10-18 | 2024-12-14 |
 | [Danger](https://open.spotify.com/track/581tF1qVe79aRGlCXlVIS8) | [SIMBARAJA](https://open.spotify.com/artist/0wH4VwCNexTzSmuSRExS9M), [KiLLMYPRiDE](https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK) | [Danger](https://open.spotify.com/album/4IZPWqH21GBqXOAFXdd8ph) | 2:37 | 2025-04-11 | 2025-04-19 |
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |
+| [Dans la vie](https://open.spotify.com/track/0qIXtDE3VllX2AAIt8rnw5) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Dans la vie](https://open.spotify.com/album/5kM8325p1LlgJw25RxzFDl) | 2:49 | 2025-08-01 |  |
 | [Dans tes yeux](https://open.spotify.com/track/7f9HrL9JAeIP94Ab5rPq67) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Black Lover](https://open.spotify.com/album/2R3RIQf4fImPAG9QtW2fMi) | 2:57 | 2024-03-08 | 2024-07-27 |
 | [Danse](https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Danse](https://open.spotify.com/album/1im21Oi225yO8IponkdVxi) | 2:48 | 2023-08-18 | 2023-10-21 |
 | [De Manière](https://open.spotify.com/track/1P9XszQ0OZY1yBBZOvcrOT) | [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9), [Dadifox](https://open.spotify.com/artist/02XGj8Pf7NWO8Zu4alm7h0) | [De Manière](https://open.spotify.com/album/19dC7TvY1vzp183CFYUgl2) | 2:44 | 2025-06-20 | 2025-07-12 |
@@ -232,7 +234,7 @@
 | [Ghetto Youth](https://open.spotify.com/track/68Sv4hfeTd5adTfPIuA0lg) | [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [Ghetto Youth](https://open.spotify.com/album/4mCTUvIMOI3u7XSUrjbomm) | 1:41 | 2024-07-12 | 2024-08-24 |
 | [Gimme That](https://open.spotify.com/track/22bO55lzLemrfNZFQmFE3q) | [Nick Silver](https://open.spotify.com/artist/2Qw6gL1LrOSWxxlBRazq4w) | [Gimme That](https://open.spotify.com/album/0jy7EwunxonR6PHPkboXjS) | 2:50 | 2025-01-17 | 2025-06-28 |
 | [GO!](https://open.spotify.com/track/1qPSdLoRRMkOTRSJEHHnZX) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:27 | 2025-05-30 |  |
-| [God Bless](https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [God Bless / Doku](https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD) | 1:56 | 2025-02-21 |  |
+| [God Bless](https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [God Bless / Doku](https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD) | 1:56 | 2025-02-21 | 2025-08-02 |
 | [God Bless](https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 4:41 | 2023-10-20 | 2024-09-14 |
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-06-30 | 2023-09-30 |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
@@ -553,7 +555,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 | 2024-08-24 |
 | [Temps Eza Te](https://open.spotify.com/track/2I4MIsNTZQQP8tQuVx4RWJ) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Temps Eza Te](https://open.spotify.com/album/6KKWHY1r95yu3VQYrsjVwI) | 3:31 | 2023-02-10 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-29 | 2023-12-02 |
-| [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 | 2024-06-14 |  |
+| [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 | 2024-06-14 | 2025-08-02 |
 | [Tia Mungwa Na Biloko](https://open.spotify.com/track/25rtib76p78hDb0hZ25s24) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Tia Mungwa Na Biloko](https://open.spotify.com/album/2NCbNX15XjFAzdd5FmJUwz) | 3:23 | 2025-06-20 | 2025-07-12 |
 | [Tibo Tisipa](https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:02 | 2022-06-30 | 2022-12-03 |
 | [Tic Tac](https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Tic Tac](https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3) | 2:37 | 2024-07-26 | 2024-08-08 |

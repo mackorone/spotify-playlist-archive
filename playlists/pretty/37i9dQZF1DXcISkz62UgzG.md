@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,139 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,169 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 | 49 | [Sober](https://open.spotify.com/track/3viZcRlE38APncWJ5VGM4q) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:14 |
 | 50 | [Round & Round](https://open.spotify.com/track/5RhxBpoCwX2vLBcSJzYa5j) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [A Year Without Rain](https://open.spotify.com/album/2rxTiLaHxp9jctuczFwwHp) | 3:06 |
 
-Snapshot ID: `aDnOAAAAAADXT1KralyAAbDc2J9+/nH5`
+Snapshot ID: `AAAAAK4w74lELn+WAX6efZW5cRY1nNxw`

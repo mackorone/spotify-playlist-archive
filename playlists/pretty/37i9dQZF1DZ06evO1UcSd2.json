@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 74352,
+  "num_followers": 74359,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIlggAAAAAD6i/zE/0YDOMxxC42Vpugd",
+  "snapshot_id": "aIqyAAAAAAB0Cmv65+GCdXYvk3sjG5+R",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 192064,
-      "name": "Todo Lo Fue",
-      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Tu Jalas Yo Jalo",
-        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Tu Jalas Yo Jalo",
+        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Levantarme",
-        "url": "https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 170987,
-      "name": "Hoy Toca Llorar",
-      "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Rosita",
         "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios",
       "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy A Levantarme",
+        "url": "https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 170987,
+      "name": "Hoy Toca Llorar",
+      "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Que Te Olvido",
-        "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 165208,
-      "name": "Mientras Que Te Olvido",
-      "url": "https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Teniente Pa' La Clica",
         "url": "https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 170393,
       "name": "El Teniente Pa' La Clica",
       "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Que Te Olvido",
+        "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 165208,
+      "name": "Mientras Que Te Olvido",
+      "url": "https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

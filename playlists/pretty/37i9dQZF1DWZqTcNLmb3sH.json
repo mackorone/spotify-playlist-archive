@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Elumale",
-  "num_followers": 63729,
+  "num_followers": 63745,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aInDCgAAAADJmT0FBlDwTN0Xparl1cjl",
+  "snapshot_id": "aIyjagAAAAA+Pbyn45xbujgUM1y38hMi",
   "tracks": [
     {
       "added_at": "2025-07-30 07:00:26",
@@ -33,10 +33,34 @@
       "url": "https://open.spotify.com/track/79nfr6yDI2zZnXDhPiriRw"
     },
     {
-      "added_at": "2025-07-17 10:05:52",
+      "added_at": "2025-08-01 06:32:41",
       "album": {
-        "name": "Mangalyam Tantunanena (From \"Just Married\")",
-        "url": "https://open.spotify.com/album/2rtoLtOiK1KG8oxw5yuL8z"
+        "name": "Yaakishtu Sahane (From \"Antahkarana\")",
+        "url": "https://open.spotify.com/album/7gZh9O8HaB6BTKZBXHW0Ru"
+      },
+      "artists": [
+        {
+          "name": "Rosh",
+          "url": "https://open.spotify.com/artist/4pvd2FKeCEWrT5uvsEyNyt"
+        },
+        {
+          "name": "Suhan Darious",
+          "url": "https://open.spotify.com/artist/5fHdZntWdMmlDkeY98G79l"
+        },
+        {
+          "name": "Shantveer",
+          "url": "https://open.spotify.com/artist/2zzSOD4amoBV18S21g9hfJ"
+        }
+      ],
+      "duration_ms": 216941,
+      "name": "Yaakishtu Sahane (From \"Antahkarana\")",
+      "url": "https://open.spotify.com/track/2ctZsodAByXj616p7IlY2v"
+    },
+    {
+      "added_at": "2025-08-01 06:33:50",
+      "album": {
+        "name": "Thappu Maadodu Sahaja (From \"Just Married\")",
+        "url": "https://open.spotify.com/album/5OvABVi8oi80o3s52ftEYm"
       },
       "artists": [
         {
@@ -44,17 +68,61 @@
           "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
         },
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
         },
         {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
         }
       ],
-      "duration_ms": 231746,
-      "name": "Mangalyam Tantunanena (From \"Just Married\")",
-      "url": "https://open.spotify.com/track/35pPEp3fEMH9J882NURa4Q"
+      "duration_ms": 217682,
+      "name": "Thappu Maadodu Sahaja (From \"Just Married\")",
+      "url": "https://open.spotify.com/track/0cuzyxK5JIb4vl6u1mLGJ5"
+    },
+    {
+      "added_at": "2025-08-01 11:22:18",
+      "album": {
+        "name": "Ee Bharavase (From \"Austin Na Mahan Mouna\")",
+        "url": "https://open.spotify.com/album/3qfNoYoi0lPoirZ9d7zple"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vishwi",
+          "url": "https://open.spotify.com/artist/2O5wrjgPsRf2iqpDHCwefP"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Ee Bharavase (From \"Austin Na Mahan Mouna\")",
+      "url": "https://open.spotify.com/track/7ffJu8Z9ZJdg2ZdyRoKTsS"
+    },
+    {
+      "added_at": "2025-08-01 06:35:05",
+      "album": {
+        "name": "Sada Ninnane (From \"31 Days\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18oKPCPklw3jnCT3BucOej"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Sada Ninnane (From \"31 Days\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/6rx3Wq8Ldf0hDScKLQ9B5q"
     },
     {
       "added_at": "2025-07-28 11:28:17",
@@ -107,6 +175,30 @@
       "duration_ms": 166799,
       "name": "Chandini Kuluko Chandini (From \"Aleva Moda\")",
       "url": "https://open.spotify.com/track/0H6EeVFGqbKk2JmohZT4br"
+    },
+    {
+      "added_at": "2025-07-17 10:05:52",
+      "album": {
+        "name": "Mangalyam Tantunanena (From \"Just Married\")",
+        "url": "https://open.spotify.com/album/2rtoLtOiK1KG8oxw5yuL8z"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Mangalyam Tantunanena (From \"Just Married\")",
+      "url": "https://open.spotify.com/track/35pPEp3fEMH9J882NURa4Q"
     },
     {
       "added_at": "2025-07-28 11:32:43",
@@ -1119,106 +1211,6 @@
       "duration_ms": 263083,
       "name": "Nana Kandha (From \"Kuberaa\")(Kannada)",
       "url": "https://open.spotify.com/track/1KpO1CyQwn5vauhCRuZdMk"
-    },
-    {
-      "added_at": "2025-06-16 11:17:20",
-      "album": {
-        "name": "Akasha Bhoomi (From \"Kaagadada Doniyali\")",
-        "url": "https://open.spotify.com/album/4rDfpvw7Yf2jRABvQMuk0p"
-      },
-      "artists": [
-        {
-          "name": "Vinay Vinz",
-          "url": "https://open.spotify.com/artist/1DtTTHL5WM8R7yR03JvRvr"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Asha Bhat",
-          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
-        },
-        {
-          "name": "Pramod Maravante",
-          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
-        }
-      ],
-      "duration_ms": 277671,
-      "name": "Akasha Bhoomi (From \"Kaagadada Doniyali\")",
-      "url": "https://open.spotify.com/track/1lq2rxNhzc1txlpirbOZD6"
-    },
-    {
-      "added_at": "2025-06-13 10:29:03",
-      "album": {
-        "name": "Agnyathavasi",
-        "url": "https://open.spotify.com/album/1jQBT59oqEN7AQd8JofVvd"
-      },
-      "artists": [
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Sunidhi Ganesh",
-          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Naguvina Nesara",
-      "url": "https://open.spotify.com/track/0hN5MIS7lkGJl7zeBCnjPh"
-    },
-    {
-      "added_at": "2025-06-14 09:17:13",
-      "album": {
-        "name": "Saniha (From\"Ee Saniha\")",
-        "url": "https://open.spotify.com/album/6TkA9eSuebMw2Zb1ydftv4"
-      },
-      "artists": [
-        {
-          "name": "GAGAN SHETTY",
-          "url": "https://open.spotify.com/artist/0n1SzKxWGbShoE1g2V8ivD"
-        },
-        {
-          "name": "Mahatejas",
-          "url": "https://open.spotify.com/artist/3GJtY38GINnUc5nJXPG59C"
-        }
-      ],
-      "duration_ms": 292768,
-      "name": "Saniha (From\"Ee Saniha\")",
-      "url": "https://open.spotify.com/track/4MPzgzMdkUCu0nWeDA7CkR"
-    },
-    {
-      "added_at": "2025-04-22 09:29:03",
-      "album": {
-        "name": "Husharo Ley (From \"FireFly\")",
-        "url": "https://open.spotify.com/album/5R4bcv4eJpA0I5xM1c4W6D"
-      },
-      "artists": [
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Karthik Chennoji Rao",
-          "url": "https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Husharo Ley (From \"FireFly\")",
-      "url": "https://open.spotify.com/track/1ymiLd7gLx8DoWWLOHZYqA"
     }
   ],
   "unique_name": "Latest Kannada",

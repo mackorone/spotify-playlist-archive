@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:   Chella
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,781 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,217 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Namipa](https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Namipa](https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95) | 2:21 |
 | 50 | [7 VIE LÀ](https://open.spotify.com/track/5JQVBvv6WPp4O6IUf0vgU2) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [7 VIE LÀ](https://open.spotify.com/album/3wRIySDQXp79bsnUoS8OrZ) | 2:42 |
 
-Snapshot ID: `AAAAAI1ixs2+LS6cRpFPXS/0cQaY0rof`
+Snapshot ID: `aIKs/QAAAAAley2bGD9IOsW5s4Prtt97`

@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-172 songs - 8 hr 11 min
+173 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2022-10-28 |  |
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 |  |
+| [Es Nieselt](https://open.spotify.com/track/5JZa7CuVdylQXPT6shJcW5) | [Visceral Rain](https://open.spotify.com/artist/0iXGgjkn97AolhD6yR3FbO) | [Es Nieselt](https://open.spotify.com/album/1iOba023RZXZQCJ1fWguXa) | 2:35 | 2025-07-23 |  |
 | [Evening Rain In Regent's Park \- Seamless](https://open.spotify.com/track/2mwS92jhBI0Sl32boe5RVL) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Regent’s Park Rain](https://open.spotify.com/album/6wDf8enUlIGEpYekOvx0Ej) | 2:50 | 2023-09-20 |  |
 | [Forest Rain And Thunder \(Seamless\)](https://open.spotify.com/track/1dw1T7x4CFdxUvNcwA6hbY) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:07 | 2022-10-28 |  |
 | [Forest Thunder](https://open.spotify.com/track/5wasNCesFpY5wSiYTar3uL) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [In the hands of Thor](https://open.spotify.com/album/2yUnTie8FuYybCVZlH48e3) | 2:24 | 2022-10-28 |  |
@@ -178,7 +179,7 @@
 | [Verdant Dreamland](https://open.spotify.com/track/375sTVKVgMi8pAc6UQGTXr) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Verdant Dreamland](https://open.spotify.com/album/4IxDsU15b0fETy7T7lXHQl) | 4:51 | 2024-06-10 | 2025-06-10 |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |
-| [Wonderstorm](https://open.spotify.com/track/7HMk44LhajDJ3urDcVZQNB) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [All About Thunder](https://open.spotify.com/album/1tU9mBLSohVCwKVQHNHGzp) | 2:40 | 2023-09-20 |  |
+| [Wonderstorm](https://open.spotify.com/track/7HMk44LhajDJ3urDcVZQNB) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [All About Thunder](https://open.spotify.com/album/1tU9mBLSohVCwKVQHNHGzp) | 2:40 | 2023-09-20 | 2025-08-02 |
 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Cosmotic](https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 | 2022-10-28 |  |
 
 \*This playlist was first scraped on 2022-11-15. Prior content cannot be recovered.

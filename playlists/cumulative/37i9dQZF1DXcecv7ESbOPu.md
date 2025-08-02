@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Chappell Roan, Hooja, Peg Parnevik och Demi Lovato med flera\. Happy New Music Friday!
 
-20,189 songs - 43 day 12 hr 46 min
+20,191 songs - 43 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10696,7 +10696,7 @@
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-26 | 2022-06-03 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-23 | 2022-07-01 |
 | [Lost My Mind](https://open.spotify.com/track/3egNACX53COC9uKcjJQGdv) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Lost My Mind](https://open.spotify.com/album/6fmzWk1gb1HqDP17PgNpch) | 2:24 | 2024-10-31 | 2024-11-08 |
-| [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Elma](https://open.spotify.com/artist/7HDNms3tNyYRGZjGrf8tzW) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 | 2025-08-01 |  |
+| [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 | 2025-08-01 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-06 | 2023-04-14 |
 | [Lost Myself](https://open.spotify.com/track/0j5dWHZtHxLnQ5HuhwlQzy) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Occurrent Affairs](https://open.spotify.com/album/1JASMcjB8FkKtFrxOdtI62) | 3:07 | 2025-05-08 | 2025-05-16 |
 | [Lost Romance](https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Lost Romance](https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0) | 2:21 | 2024-02-22 | 2024-03-01 |
@@ -16707,6 +16707,7 @@
 | [Superstar](https://open.spotify.com/track/7fn8Yj5utsOWLCXhEnBrLE) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Superstar](https://open.spotify.com/album/3NuRkh94T46JPr9sAV3Wul) | 2:32 | 2024-02-22 | 2024-03-01 |
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-07 | 2024-03-15 |
 | [Superstars](https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Kid Vincent](https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle) | [Superstars](https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A) | 2:57 | 2022-07-29 | 2022-08-05 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2021-12-23 | 2021-12-31 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Supposed To Be a Love Song](https://open.spotify.com/track/6HeMgcAXtIasb2OmvmpVhA) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Supposed To Be a Love Song](https://open.spotify.com/album/3Mq2KWsJlbqZBs76EXJJmA) | 3:10 | 2023-07-13 | 2023-07-21 |
@@ -17616,6 +17617,7 @@
 | [These Tears](https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [These Tears](https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO) | 2:49 | 2023-01-13 | 2023-01-20 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-02 | 2024-05-10 |
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-28 | 2023-05-05 |
+| [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 | 2025-08-01 |  |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-03 | 2022-11-11 |
 | [Thick like an X5](https://open.spotify.com/track/4LwjD4XFseQ7qRhBGOsiVH) | [NIKK](https://open.spotify.com/artist/0WpOkyZny3FSpdF95rJBJP) | [Thick like an X5](https://open.spotify.com/album/69sMNI2sX15sVbojB2CvFX) | 2:36 | 2024-02-15 | 2024-02-23 |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-03 | 2024-10-11 |

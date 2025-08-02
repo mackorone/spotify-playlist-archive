@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > The sound of a new generation\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,046 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,165 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,19 +81,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 71 | [Alle werden alt](https://open.spotify.com/track/4H6IFl3r8jtbQbbUdeLZMq) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Alle werden alt](https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0) | 4:29 |
 | 72 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
 | 73 | [Never Gonna Stop](https://open.spotify.com/track/4QvtLpKclx8m0KLyKojirp) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ), [2HOT2PLAY](https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA) | [Never Gonna Stop](https://open.spotify.com/album/1JibPlKqSgvO9xk3yrhURI) | 3:50 |
-| 74 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
+| 74 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 75 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 76 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
 | 77 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 78 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
-| 79 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 80 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
-| 81 | [Spectral Bells](https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Spectral Bells](https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP) | 3:13 |
-| 82 | [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 |
-| 83 | [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 |
-| 84 | [Throw It Back](https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Bassfeature](https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l) | [Throw It Back](https://open.spotify.com/album/2uONCUiqr7M16IVeBrgUzf) | 2:04 |
-| 85 | [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 |
-| 86 | [WILD](https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [WILD](https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv) | 2:20 |
+| 79 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
+| 80 | [Spectral Bells](https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Spectral Bells](https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP) | 3:13 |
+| 81 | [WILD](https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [WILD](https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv) | 2:20 |
+| 82 | [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 |
+| 83 | [Throw It Back](https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Bassfeature](https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l) | [Throw It Back](https://open.spotify.com/album/2uONCUiqr7M16IVeBrgUzf) | 2:04 |
+| 84 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
+| 85 | [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 |
+| 86 | [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 |
 | 87 | [Uh Na Na](https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Uh Na Na](https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE) | 2:00 |
 | 88 | [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 |
 | 89 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [Corpo e Canção \- Festival Mix](https://open.spotify.com/track/5qTJMgKv23bfBX8ZhJc1AH) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Festival Mix\)](https://open.spotify.com/album/6IbntgVwKKjvn6bH96TBiH) | 3:23 |
 | 100 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
 
-Snapshot ID: `aIKtBAAAAADkPHTFeK0kv4txPzMLTlCH`
+Snapshot ID: `aIyrnAAAAADJ5X39zeED2y4S+Rt09bqB`

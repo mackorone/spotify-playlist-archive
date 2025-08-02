@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 285,961 likes - 33 songs - 1 hr 47 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 285,934 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 29 | [U Make Me](https://open.spotify.com/track/1ElF3ELoYsaNqhlBXGAEhW) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [U Make Me](https://open.spotify.com/album/5J3MubHjrHk6f1jsKjejK3) | 3:42 |
 | 30 | [Can't Decide \- MJ Cole Remix](https://open.spotify.com/track/2hc8in5qc3AbKHHZ8KQq4T) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Can't Decide \(MJ Cole Remix\)](https://open.spotify.com/album/08yF3dhRVJcFjMIl6gZreK) | 2:55 |
 | 31 | [Like It’s Part Of The Dance](https://open.spotify.com/track/3wqMIKfMGwXyKq4CCjy2ND) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 4:32 |
-| 32 | [Ninety \- Two](https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Ninety \- Two](https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10) | 4:59 |
+| 32 | [NINETY \- TWO](https://open.spotify.com/track/39J7rlUo7qeSRvyeFJnrPp) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [NINETY \- TWO](https://open.spotify.com/album/38NbhvqpJ1UMqBGTmNtt10) | 4:59 |
 | 33 | [Liquid](https://open.spotify.com/track/4eg5KdsCsCU8bX3be3Qoec) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:37 |
 
 Snapshot ID: `AAAIZxdVU/PShbJumJCAaAax+SspdKu8`

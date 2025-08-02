@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-930 songs - 1 day 22 hr 0 min
+931 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [In My Mind](https://open.spotify.com/track/68CdFrdUAV9PssCcdw8osM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [In My Mind](https://open.spotify.com/album/1Qto7lizycldyzI0jvi0qE) | 3:09 | 2024-03-21 | 2024-04-05 |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-04-17 | 2025-05-09 |
 | [Industry Baby](https://open.spotify.com/track/0ZqWFsHj4g8eulvPaoWwk8) | [NILVO](https://open.spotify.com/artist/0GzzvvQz8SOHQs8vUBgpwt), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p) | [Industry Baby](https://open.spotify.com/album/22iVGwX29oAiy8u2FxWvlY) | 2:20 | 2021-12-16 | 2022-06-25 |
+| [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 | 2025-07-31 |  |
 | [Insomnia \- King Topher Remix](https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [Insomnia \(King Topher Remix\)](https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX) | 2:56 | 2020-08-14\* | 2022-08-05 |
 | [Insomnia \- Matt Sassari Remix](https://open.spotify.com/track/2vG4vPqF8gHtGSjoE0YckH) | [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Insomnia](https://open.spotify.com/album/042dgI8wqRLRoXSwM8oBcU) | 2:20 | 2023-06-02 | 2023-08-04 |
 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 | 2022-03-17 | 2023-02-24 |
@@ -492,7 +493,7 @@
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2020-08-14\* | 2021-11-12 |
 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 | 2025-02-27 | 2025-04-11 |
 | [LOVELOVE](https://open.spotify.com/track/1CuXRKxg5QXaQu3NgGi2Z7) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [LOVELOVE](https://open.spotify.com/album/2giaF7Lwvy9ddscpF9iaP9) | 3:06 | 2025-04-17 | 2025-05-16 |
-| [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-25 |  |
+| [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-25 | 2025-08-02 |
 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 | 2020-12-23 | 2022-08-06 |
 | [Madness \(feat\. Sam Feldt & Zak Abel\) \- Gabry Ponte Remix](https://open.spotify.com/track/0GQxhVSSt7hFZuYIyyGdwS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Madness \(feat\. Sam Feldt & Zak Abel\) \[Gabry Ponte Remix\]](https://open.spotify.com/album/2qExWIHwrfyvoSxyOO9qCr) | 2:41 | 2022-07-04 | 2022-12-30 |
 | [Make Believe](https://open.spotify.com/track/56oqWZUaA8ZmHQCH3lCRI3) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make Believe](https://open.spotify.com/album/03uJ80FjHVfBWeTFtYWbN5) | 3:14 | 2020-08-14\* | 2021-10-14 |

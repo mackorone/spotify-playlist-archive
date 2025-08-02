@@ -1467,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "album": {
         "name": "Detalhes",
         "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
       },
@@ -3614,7 +3636,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 199722,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/1m2FR3KOBqFjMjpzdeRPf4"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 147007,
       "name": "Nossa M\u00fasica",
       "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
@@ -6160,6 +6182,24 @@
       "duration_ms": 212758,
       "name": "Uma Vida \u00e9 Pouco Pra Te Amar",
       "url": "https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr"
+    },
+    {
+      "album": {
+        "name": "UNHA DE FOGUINHO",
+        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165037,
+      "name": "UNHA DE FOGUINHO",
+      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
     },
     {
       "album": {

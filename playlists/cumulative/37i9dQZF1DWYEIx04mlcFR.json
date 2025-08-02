@@ -5133,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Ya no quiero quererte",
+        "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "hits!",
+      "url": "https://open.spotify.com/track/7xVFMrKbLhX9nQZdaqkQq1"
+    },
+    {
+      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc"
       },
@@ -6642,7 +6660,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 160862,
       "name": "MALDICI\u00d3N",
       "url": "https://open.spotify.com/track/4mTowqjl8YfSNTKnWYy8pD"
@@ -9091,6 +9109,28 @@
     },
     {
       "album": {
+        "name": "PARA SIEMPRE",
+        "url": "https://open.spotify.com/album/36ssjaUPsurNx0EYBW9feX"
+      },
+      "artists": [
+        {
+          "name": "PJAMA",
+          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175154,
+      "name": "PARA SIEMPRE",
+      "url": "https://open.spotify.com/track/5XTkglKHZbybx7hcC83On8"
+    },
+    {
+      "album": {
         "name": "Paradoja",
         "url": "https://open.spotify.com/album/6M90OlfsfvOQPKUwvNu5DP"
       },
@@ -11017,7 +11057,7 @@
     },
     {
       "album": {
-        "name": "sin pensarlo / WTF! (funnynoiseclub005)",
+        "name": "sin pensarlo / WTF!",
         "url": "https://open.spotify.com/album/4yGFtTXVYYhw96Sak4Ebeg"
       },
       "artists": [
@@ -11032,9 +11072,9 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 180000,
-      "name": "sin pensarlo / WTF! (funnynoiseclub005)",
+      "name": "sin pensarlo / WTF!",
       "url": "https://open.spotify.com/track/7fjDDhnLeurBOkLHbisd7T"
     },
     {
@@ -11352,7 +11392,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 136788,
       "name": "SUPEEERFICIAL",
       "url": "https://open.spotify.com/track/52nt4mvPnb7HNoy0AyrESM"
@@ -13136,7 +13176,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 127342,
       "name": "WOW",
       "url": "https://open.spotify.com/track/2edNR4GKCIWNfNKL1UsjiH"

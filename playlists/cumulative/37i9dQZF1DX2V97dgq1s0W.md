@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Kokoroko
+> The best voices in R&B\. Cover: Sasha Keable
 
 490 songs - 1 day 1 hr 54 min
 

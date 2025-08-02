@@ -8321,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "Tinapay",
+        "url": "https://open.spotify.com/album/39AwVHceFp7EEqAYJUbXT8"
+      },
+      "artists": [
+        {
+          "name": "Kahel",
+          "url": "https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327692,
+      "name": "Tinapay",
+      "url": "https://open.spotify.com/track/6O9zj5PNsW8btYoXL6qRRL"
+    },
+    {
+      "album": {
         "name": "TORPE",
         "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
       },

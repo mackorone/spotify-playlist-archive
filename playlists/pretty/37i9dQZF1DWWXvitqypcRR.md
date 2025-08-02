@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,962 likes - 53 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,972 likes - 53 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 52 | [BAD FOR YOU \- Extended](https://open.spotify.com/track/6acHIeQokLIBjNotn6ASua) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 3:57 |
 | 53 | [Line of Conception](https://open.spotify.com/track/7qt1ki3Rvcmq5EQLDRw3lt) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Line of Conception](https://open.spotify.com/album/1hW2jAsX06pAuDiY2bXkEM) | 5:32 |
 
-Snapshot ID: `AAAAAFPDx43iiDKsCKXyzmNZEZ0YYO08`
+Snapshot ID: `aFVIqwAAAADxvHsBmTy9kkdAncss7rGv`

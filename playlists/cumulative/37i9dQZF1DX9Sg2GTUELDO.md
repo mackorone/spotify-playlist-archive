@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: moon tang
+> 感受女聲力量。Cover: 李芯駖
 
-534 songs - 1 day 7 hr 51 min
+535 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [關我蛋治](https://open.spotify.com/track/6DRatWcrhtv1ba4xeV01Bi) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [關我蛋治](https://open.spotify.com/album/6o5YClIb0rr2h6a189V9iK) | 3:16 | 2024-06-27 |  |
 | [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 | 2024-09-06 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 |  |
+| [隨時隨地](https://open.spotify.com/track/57xZ5hMWJ4ZWXI6POeYpuD) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [隨時隨地](https://open.spotify.com/album/2KhS7gyEFOmvcbJmHZkZ8b) | 4:06 | 2025-08-01 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 |  |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 |  |
 | [雲的自述](https://open.spotify.com/track/48tKWIvd2NS92ParNHnZOX) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [TOUCH OF ABSENCE](https://open.spotify.com/album/0EozGBNMRh65VjjfAP6FCL) | 3:02 | 2025-01-23 |  |

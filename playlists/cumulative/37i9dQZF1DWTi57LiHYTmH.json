@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 255266,
       "name": "\"Was mir behagt, ist nur die muntre Jagd\" Cantata, BWV 208: 9. Schafe k\u00f6nnen sicher weiden (Arr. For Piano Four Hands by Mary Howe)",
       "url": "https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw"
@@ -894,6 +894,28 @@
       "duration_ms": 158520,
       "name": "An Idea: An Idea",
       "url": "https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Glassworlds, Vol. 4 \u2013 On Love",
+        "url": "https://open.spotify.com/album/2HItrNjxkcndzejvNPdE6v"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Nicolas Horvath",
+          "url": "https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256146,
+      "name": "An Unwelcome Friend (Arr. M. Riesman & N. Muhly for Solo Piano)",
+      "url": "https://open.spotify.com/track/2GnYCy70I8cR4oEA2wsSDx"
     },
     {
       "album": {
@@ -2210,19 +2232,19 @@
           "url": "https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP"
         },
         {
-          "name": "Deutsche Staatsphilharmonie Rheinland-Pfalz",
-          "url": "https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW"
-        },
-        {
           "name": "Gustavo Gimeno",
           "url": "https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY"
+        },
+        {
+          "name": "Deutsche Staatsphilharmonie Rheinland-Pfalz",
+          "url": "https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW"
         }
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229413,
-      "name": "El cant dels ocells (Song of the Birds) (version for cello and orchestra)",
+      "name": "El cant dels ocells (Version for Cello & Orchestra)",
       "url": "https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD"
     },
     {
@@ -2456,10 +2478,6 @@
       },
       "artists": [
         {
-          "name": "Ignaz Friedman",
-          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
-        },
-        {
           "name": "Johann Sebastian Bach",
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
@@ -2472,7 +2490,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132760,
-      "name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",
+      "name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/6snA8ljjHLaFZWZy3EfgNM"
     },
     {
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 177765,
       "name": "Kyo",
       "url": "https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3"
@@ -3618,6 +3636,36 @@
       "duration_ms": 219477,
       "name": "Movement, Before All Flowers - Edit",
       "url": "https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU"
+    },
+    {
+      "album": {
+        "name": "Mozart: Flute Concerto No. 1, K. 313 - Flute and Harp Concerto, K. 299 & Clarinet Concerto, K. 622",
+        "url": "https://open.spotify.com/album/3YybOHmqqPUE82DzOJ5vbA"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394560,
+      "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
+      "url": "https://open.spotify.com/track/7hwxCWVViL2y4YyLyDCeof"
     },
     {
       "album": {
@@ -5156,7 +5204,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romance",
       "url": "https://open.spotify.com/track/7JAX6pO5DuIXQC68mCO6H8"
@@ -5624,28 +5672,6 @@
       "duration_ms": 117906,
       "name": "The Four Seasons, Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
       "url": "https://open.spotify.com/track/7njAZhca4o80qQdCgyEWya"
-    },
-    {
-      "album": {
-        "name": "Philip Glass: Glassworlds, Vol. 4 \u2013 On Love",
-        "url": "https://open.spotify.com/album/2HItrNjxkcndzejvNPdE6v"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Nicolas Horvath",
-          "url": "https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB"
-        }
-      ],
-      "date_added": "2023-08-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256146,
-      "name": "The Hours: An Unwelcome Friend (From \"The Hours\")",
-      "url": "https://open.spotify.com/track/2GnYCy70I8cR4oEA2wsSDx"
     },
     {
       "album": {
@@ -6193,6 +6219,28 @@
     },
     {
       "album": {
+        "name": "Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Endres",
+          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96253,
+      "name": "Waltz in G-Flat Major, D. 1/14 \"Kupelwieser-Walzer\"",
+      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
+    },
+    {
+      "album": {
         "name": "Chopin: Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
         "url": "https://open.spotify.com/album/0abwlgcTkteYoqF5MdJqvO"
       },
@@ -6212,28 +6260,6 @@
       "duration_ms": 142638,
       "name": "Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
       "url": "https://open.spotify.com/track/7i9cdG6l1lg0xAraTublsw"
-    },
-    {
-      "album": {
-        "name": "Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Michael Endres",
-          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
-        }
-      ],
-      "date_added": "2023-08-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 96253,
-      "name": "Waltz, D. 1/14, \"Kupelwieser-Walzer\"",
-      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
     },
     {
       "album": {

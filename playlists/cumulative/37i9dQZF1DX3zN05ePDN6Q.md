@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-672 songs - 1 day 11 hr 11 min
+673 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Jovem Mistério](https://open.spotify.com/track/11ve5lDIJ5pbiukvTLhniU) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [iann guxtavo](https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm) | [Jovem Mistério](https://open.spotify.com/album/13VFnzZOjPAeh7mud6qWVg) | 2:08 | 2025-06-13 | 2025-08-01 |
 | [Jovem Suburbano](https://open.spotify.com/track/5RlXvYQ6ZC7wZ2CnIQjO5F) | [chamat](https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG), [akdesacato](https://open.spotify.com/artist/4896myaVw90gVS7eTSrjPV) | [Jovem Suburbano](https://open.spotify.com/album/1L0D1X2bpZGPbdRg3rkw8E) | 2:32 | 2023-07-28 | 2023-10-21 |
 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 | 2025-03-21 |  |
+| [Já Dizia Minha Vó](https://open.spotify.com/track/13fzwFXbkD6q1RhDOO3bne) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Já Dizia Minha Vó](https://open.spotify.com/album/0wS9IQlF84VE1InPq8XT2C) | 2:39 | 2025-08-01 |  |
 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 | 2022-09-30 | 2024-06-22 |
 | [Jóia Rara](https://open.spotify.com/track/7GL82HIdr0a89CBTIYTYnv) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Corpo & Calma](https://open.spotify.com/album/33pPU960nCw0auqbMkUwE5) | 4:24 | 2023-02-03 | 2023-04-09 |
 | [JÓIAS NO COFRE](https://open.spotify.com/track/05xHVCa4LsX7g5i38vFRbM) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Phat Kat](https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [CONVICTO](https://open.spotify.com/album/2nzvI4V9nJDHaLqgM6jgnC) | 4:47 | 2024-12-13 |  |

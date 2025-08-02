@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Jenn Johnson of Bethel Music & Noah Paul Harrison",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: UPPERROOM",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 332977,
       "name": "Consider Him - Live",
       "url": "https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G"
@@ -3598,6 +3598,32 @@
       "duration_ms": 347362,
       "name": "Dwell",
       "url": "https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa"
+    },
+    {
+      "album": {
+        "name": "conversations with God",
+        "url": "https://open.spotify.com/album/39YPdK3Yt6j2BClxLAoJR4"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        },
+        {
+          "name": "Sean Stevens",
+          "url": "https://open.spotify.com/artist/2QCJmP0KH93wpPqXMhFTvv"
+        },
+        {
+          "name": "ysabelle",
+          "url": "https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482029,
+      "name": "dwell",
+      "url": "https://open.spotify.com/track/2VSjXXXPMFDOYp3W4T0ETk"
     },
     {
       "album": {
@@ -5136,7 +5162,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 135952,
       "name": "Goodness of God (Acapella)",
       "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
@@ -9446,7 +9472,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 146912,
       "name": "Love of God",
       "url": "https://open.spotify.com/track/6ApLnDKN9nF0sWvC5ZnaqG"
@@ -12833,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "Salvation Song",
+        "url": "https://open.spotify.com/album/73Pglkb9oAK2f1vjAopLk4"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299858,
+      "name": "Salvation Song",
+      "url": "https://open.spotify.com/track/2RYwHUx0ZpxtaBfxE47IZv"
+    },
+    {
+      "album": {
         "name": "Same God (feat. Jonsal Barrientes)",
         "url": "https://open.spotify.com/album/3s52obJaSkltal3K0Noeza"
       },
@@ -14404,6 +14448,40 @@
       "duration_ms": 340624,
       "name": "The Blood Of Jesus - Live",
       "url": "https://open.spotify.com/track/4IBee17YDcWnLviAheYZIN"
+    },
+    {
+      "album": {
+        "name": "The Church",
+        "url": "https://open.spotify.com/album/2b0Xkrw10KJ9B670g13SUX"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301650,
+      "name": "The Church",
+      "url": "https://open.spotify.com/track/6QqFXtYklJRgk1UGGFpugh"
     },
     {
       "album": {

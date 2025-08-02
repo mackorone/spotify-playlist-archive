@@ -1,13 +1,405 @@
 {
-  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb?si=J5btB2h9RhqTOOjgWGpPAw\"> Malaya</a>. Updates every Wednesday.",
-  "num_followers": 269761,
+  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY?si=ViEr_9SrQauIoyTiB9n2rQ\"> Greek</a>. Updates every Wednesday.",
+  "num_followers": 269796,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA7TvAvQ/y0f/7On+YZtwSdkrRda",
+  "snapshot_id": "AAAAAJawhsXcOXn+VdGmEeNY99BUJFXr",
   "tracks": [
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "CEDAR'S TAPE",
+        "url": "https://open.spotify.com/album/6Tu3Qz3GgYtPeZgVFpBYSJ"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 189339,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/6cAcM7JD5GzNmmyPt7l8RY"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "Love, Bomb",
+      "url": "https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/632m6dG4ro7ZCtSWklXV8X"
+      },
+      "artists": [
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        }
+      ],
+      "duration_ms": 132795,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4B3CzvwIJUqYREsIkRFM0z"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/55DoOHDPppZH23KGRmRfpj"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "duration_ms": 117352,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/1BvM9oBXDWtOjoggPrRyB6"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "STOPNGO",
+        "url": "https://open.spotify.com/album/5GEFNM9pSLfg3L80Wo1sqg"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "jsilos",
+          "url": "https://open.spotify.com/artist/2Rx5EPyAB29CPxWpQqMBVB"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "STOPNGO",
+      "url": "https://open.spotify.com/track/4r7QQJ6Y6kqiXblYhXqzuZ"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/1NyfbNIwwCjM0LgYbFoTWc"
+      },
+      "artists": [
+        {
+          "name": "JEMS!",
+          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        }
+      ],
+      "duration_ms": 101513,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/2cyvSVk5DJk7fdAR73hdaa"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Finally feat. Al\u00e9 Araya",
+        "url": "https://open.spotify.com/album/7CFNhyabHnUtW20pJIbVxV"
+      },
+      "artists": [
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        },
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Finally feat. Al\u00e9 Araya",
+      "url": "https://open.spotify.com/track/60PUwPvrM3wAeR4a9KGRVm"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "way you want it",
+        "url": "https://open.spotify.com/album/3m7JWBVup9Hkzi4E8kKoZa"
+      },
+      "artists": [
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        },
+        {
+          "name": "Richard Saunders",
+          "url": "https://open.spotify.com/artist/6NxhqqHlwIyEBuLpdO0kZB"
+        }
+      ],
+      "duration_ms": 143478,
+      "name": "way you want it",
+      "url": "https://open.spotify.com/track/3JveaiLXIDccSZ2vxulKKu"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Phone A Friend",
+        "url": "https://open.spotify.com/album/4I9rUhdvRQDQM55pKdZ7uF"
+      },
+      "artists": [
+        {
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
+        }
+      ],
+      "duration_ms": 138020,
+      "name": "Phone A Friend",
+      "url": "https://open.spotify.com/track/2pAZAQPlMHDmDcu4pWZKSC"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/0ZqeAenmxDoLKqidHVTJdM"
+      },
+      "artists": [
+        {
+          "name": "Arabian",
+          "url": "https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB"
+        }
+      ],
+      "duration_ms": 193358,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/10z2b7J5avQhRpBcW3myz0"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4chHRaaKRPp8fECsFIoJdn"
+      },
+      "artists": [
+        {
+          "name": "Solo B",
+          "url": "https://open.spotify.com/artist/3IZtYMMmeTrIkdfxBSUQJy"
+        }
+      ],
+      "duration_ms": 110943,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/71SAMwMsx4kH5cZzirJWGl"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Freaky Things",
+        "url": "https://open.spotify.com/album/3BwDqGxjefJVevcsUqEQN6"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        }
+      ],
+      "duration_ms": 134543,
+      "name": "Freaky Things",
+      "url": "https://open.spotify.com/track/022RHmYhkclVj3n6HLlsDo"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/66X8EQXZXcpYggcyQkZJYo"
+      },
+      "artists": [
+        {
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/5FPkcZ4Ym277vbhy3wsM43"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/39cus9f5WUhKcrAfNzlsfy"
+      },
+      "artists": [
+        {
+          "name": "Richard Saunders",
+          "url": "https://open.spotify.com/artist/6NxhqqHlwIyEBuLpdO0kZB"
+        }
+      ],
+      "duration_ms": 180781,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6csQ9wt1FoZ9FwbfI2U3XV"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/096jh2IIj3Cjg5WzKmIY7d"
+      },
+      "artists": [
+        {
+          "name": "Divya",
+          "url": "https://open.spotify.com/artist/0kNlj2vZ0kH8CAKKlZ4657"
+        }
+      ],
+      "duration_ms": 198881,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0WK54Eg9gwTW0rReGLgtI5"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/7FcRHmYreISlTk2W3bF8rt"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/5xgyunRLVx3yF09LF0C0ka"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/4LgnoL4ZRqh0z74aTqMhat"
+      },
+      "artists": [
+        {
+          "name": "GIOIA",
+          "url": "https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/2H5FqzUYCgJw0SVcCAGeEv"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Pretty Girl Fly",
+        "url": "https://open.spotify.com/album/4bR56qkowdyPqh97bVBV2r"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Pretty Girl Fly",
+      "url": "https://open.spotify.com/track/0WfI7NqI4bGVugGGWAxvMX"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Only U",
+        "url": "https://open.spotify.com/album/1WA0rO65WNMVQEFY2OWbVZ"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3LfZsd5jtOwFEAyRen9rE4"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/4AK7yY8UtSCa5E2nVIBxSA"
+      },
+      "artists": [
+        {
+          "name": "Willis",
+          "url": "https://open.spotify.com/artist/2qsGYa4R5txYqlvYEYmbJd"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Poolside",
+      "url": "https://open.spotify.com/track/2vlFWOl4aL1lzHcGF5FXO1"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/48VEnQ9Dipg0nIPamPlpTV"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+        }
+      ],
+      "duration_ms": 184208,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/23L9I171k7d3oMIAfr2S6f"
+    },
+    {
+      "added_at": "2025-08-01 07:45:39",
+      "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/6nbLhtfeg2qSTndfJj691z"
+      },
+      "artists": [
+        {
+          "name": "Jireh Campbell",
+          "url": "https://open.spotify.com/artist/4cwK41SLJ5sQzWOmrQf9Tj"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/2roWvz7D46KAaqnPOiiDID"
+    },
     {
       "added_at": "2025-07-25 10:44:33",
       "album": {

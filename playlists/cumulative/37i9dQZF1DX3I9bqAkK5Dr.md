@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-380 songs - 22 hr 45 min
+381 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 | 2023-03-24 | 2023-05-28 |
 | [Masaka Masaka \(Sun Goes Down\)](https://open.spotify.com/track/6as2O4WrXlWmrzHwpy98PX) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk), [Jonathan Camacho](https://open.spotify.com/artist/592d19wnT1zSGE4j0d0rEz) | [Masaka Masaka \(Sun Goes Down\)](https://open.spotify.com/album/7fA3EAeYgMU7gA0jDUb7Uy) | 3:04 | 2024-12-20 | 2025-01-07 |
 | [Masthundi Life](https://open.spotify.com/track/73zcpA5ud9paSyllDNeOZ0) | [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6) | [Masthundi Life](https://open.spotify.com/album/6N8wCbgo2FLQpHDxCZxPvg) | 3:10 | 2022-07-18 | 2023-05-26 |
+| [Mathulo nenu unnana](https://open.spotify.com/track/6nPBbCWu09AYNO68W5AOg3) | [Karthee](https://open.spotify.com/artist/507KNiKhoAb1jDDFFXtU5i) | [Mathulo nenu unnana](https://open.spotify.com/album/6ZDJAcQ3tx5emMeHRr1Rq5) | 3:46 | 2025-08-01 |  |
 | [MATLADUKUNDHAM](https://open.spotify.com/track/68w7b1E7BZ9SKmwFbQTreZ) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [MATLADUKUNDHAM](https://open.spotify.com/album/5qxdO8Q9XbVlUvPgRpEwa1) | 2:38 | 2022-08-12 | 2023-05-23 |
 | [Matti Pata\-Save Soil](https://open.spotify.com/track/610PRiYy0YkG5kAocEFG06) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Matti Pata\-Save Soil](https://open.spotify.com/album/6YHRi3fEgkIhj8Ba5bOC8y) | 3:30 | 2022-07-18 | 2023-05-23 |
 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 | 2022-07-18 |  |

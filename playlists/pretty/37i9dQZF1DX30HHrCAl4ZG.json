@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Wet Leg",
-  "num_followers": 823632,
+  "description": "Explore all things indie rock right now. Featuring music from Geese",
+  "num_followers": 823527,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMDZQrlBoCM5cdtRRc38sQ2wu7K",
+  "snapshot_id": "aIw76QAAAAASr1m0HG0i0zgvHEVfrHiJ",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:41",
+      "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI"
+    },
     {
       "added_at": "2025-07-11 04:00:22",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
+      "added_at": "2025-08-01 04:00:41",
+      "album": {
+        "name": "Mirtazapine",
+        "url": "https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+    },
+    {
       "added_at": "2025-07-18 04:00:20",
       "album": {
         "name": "Dang",
@@ -39,6 +71,22 @@
       "duration_ms": 202596,
       "name": "Dang",
       "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
+    },
+    {
+      "added_at": "2025-08-01 04:00:41",
+      "album": {
+        "name": "title track",
+        "url": "https://open.spotify.com/album/6Gty6tYasFRCx1Cxk2ocIs"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "duration_ms": 144853,
+      "name": "title track",
+      "url": "https://open.spotify.com/track/44le4BrKMnInp31FcssDKq"
     },
     {
       "added_at": "2025-07-25 04:00:52",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/5ZcOoawIU0JU1se1prra62"
     },
     {
+      "added_at": "2025-08-01 04:00:41",
+      "album": {
+        "name": "Toyota Camry",
+        "url": "https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Toyota Camry",
+      "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
+    },
+    {
       "added_at": "2025-07-25 04:00:52",
       "album": {
         "name": "What Do We Ever Really Know?",
@@ -103,6 +167,22 @@
       "duration_ms": 144544,
       "name": "say something",
       "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
+      "added_at": "2025-08-01 04:00:41",
+      "album": {
+        "name": "YELLOW PLUTO",
+        "url": "https://open.spotify.com/album/5Cvjs4ViEkN16xNDWFYJqn"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "YELLOW PLUTO",
+      "url": "https://open.spotify.com/track/1YwTX6uxwqcmjmd5lkJVwg"
     },
     {
       "added_at": "2025-07-11 04:00:22",

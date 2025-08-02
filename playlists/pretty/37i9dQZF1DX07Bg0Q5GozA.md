@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,578 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,547 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 42 | [When This Is Over](https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [When This Is Over](https://open.spotify.com/album/64s9ludX1CjfPAlCdmmBWa) | 4:24 |
 | 43 | [Love Recycled 4](https://open.spotify.com/track/13NLxIbD8Bp1efHqpvfwTd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Love Recycled](https://open.spotify.com/artist/7oTQQWyea1bnyhmIgOQiWx) | [Love Recycled 4](https://open.spotify.com/album/5Sh815W2f63MzxYput4kvz) | 3:31 |
 | 44 | [Two Hearts, Come Through](https://open.spotify.com/track/2JoyN7oOvqLGWHbbzNIcjk) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Two Hearts, Come Through](https://open.spotify.com/album/3r2M2R0w1L4gF5VAajvzCQ) | 2:47 |
-| 45 | [Interplanetary Affair](https://open.spotify.com/track/4gosWl3bnTgRTAtwRfi5Mg) | [Omri Smadar](https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv), [Ofer Bymel](https://open.spotify.com/artist/3ixLn4KKKurwEIohh3mlPt) | [Interplanetary Affair](https://open.spotify.com/album/7cNQLA1maPPxtGUzvAeBuA) | 3:37 |
+| 45 | [Interplanetary Affair](https://open.spotify.com/track/4gosWl3bnTgRTAtwRfi5Mg) | [Omri Smadar](https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv), [Ofer Bymel](https://open.spotify.com/artist/72AHSXKH8QUlkBNnn8ZSLl) | [Interplanetary Affair](https://open.spotify.com/album/7cNQLA1maPPxtGUzvAeBuA) | 3:37 |
 | 46 | [Homesick](https://open.spotify.com/track/16KL55vlsitZxHtcpWsQ6U) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Shoure](https://open.spotify.com/artist/0x5oQl5pBpqY1ZiUyT6aJR) | [Recollection EP](https://open.spotify.com/album/0sXNWd8vzbDTZXulX59YYq) | 5:46 |
 | 47 | [Look For You](https://open.spotify.com/track/7GgDTBz5u5qTVyQJTE6wco) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Look For You](https://open.spotify.com/album/24U5qXKf5kWLyHR27IeKMr) | 3:33 |
 | 48 | [A World Away](https://open.spotify.com/track/2cxUrTL4IMCyNzXYACq7np) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [A World Away](https://open.spotify.com/album/3v1KDxsf5qhsftVwYyKU6F) | 3:38 |

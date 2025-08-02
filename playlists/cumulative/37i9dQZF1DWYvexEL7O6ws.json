@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Exis (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6pvcpl3eOpmENd2W0Fh3dw"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "Done With You (SKRT)",
+      "url": "https://open.spotify.com/track/6sLQsK00rg7AisdX5Fs9Sf"
+    },
+    {
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -7024,7 +7042,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/3q6TQTEbiLNv3RfNQfPgo3"

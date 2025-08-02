@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Maggie Lindemann",
-  "num_followers": 426074,
+  "description": "Dark, hard hitting pop. Cover: Ella Boh",
+  "num_followers": 426102,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGNJdKFrBjRQs4DAVCbCB1e0mZ/d",
+  "snapshot_id": "AAAAAPUqiCV+tNT8hslPKyq41DL1E1sY",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "milk & honey",
+        "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 173027,
+      "name": "ur gf",
+      "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "LOCK ME OUT",
+        "url": "https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "LOCK ME OUT",
+      "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
+    },
     {
       "added_at": "2025-07-25 17:13:07",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 125909,
       "name": "one of the ones",
       "url": "https://open.spotify.com/track/1ZhIg3jw9SDUAwUCtGiPnk"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Happy Breakup!",
+        "url": "https://open.spotify.com/album/0wJbcsaxnjJpKc6pSU5gSa"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Happy Breakup!",
+      "url": "https://open.spotify.com/track/6eJn6XejWj32KT6MCWaz9b"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/7HGphVhtmi6npuNN9gyHup"
+      },
+      "artists": [
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/23mclfVtgSA0uvh81e4n42"
     },
     {
       "added_at": "2025-07-18 04:00:23",
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
     },
     {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Thank You For Leaving",
+        "url": "https://open.spotify.com/album/2lGQbjAXyWJLwKuDi5oYq2"
+      },
+      "artists": [
+        {
+          "name": "Cristina Hart",
+          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Thank You For Leaving",
+      "url": "https://open.spotify.com/track/2uZjXEoIpLLGJPVNxF1lsh"
+    },
+    {
       "added_at": "2025-07-25 04:19:12",
       "album": {
         "name": "the devil wears converse",
@@ -55,6 +135,22 @@
       "duration_ms": 159234,
       "name": "the devil wears converse",
       "url": "https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/70cJf4BIWAMjyqEtcPJA06"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 204159,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/00Se605FE4PodGs9ZV0hJq"
     },
     {
       "added_at": "2025-07-25 04:19:12",
@@ -573,26 +669,6 @@
       "url": "https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK"
     },
     {
-      "added_at": "2025-05-09 04:00:12",
-      "album": {
-        "name": "out of order",
-        "url": "https://open.spotify.com/album/3QlWoxk7qPfUht297ah82S"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        },
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "out of order",
-      "url": "https://open.spotify.com/track/7vGYjU8uzwuImp1kT7M7IO"
-    },
-    {
       "added_at": "2025-05-23 04:00:41",
       "album": {
         "name": "Life's a Bitch",
@@ -799,22 +875,6 @@
       "duration_ms": 177644,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "Like No One's Watching",
-        "url": "https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3"
-      },
-      "artists": [
-        {
-          "name": "FLAVIA",
-          "url": "https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA"
-        }
-      ],
-      "duration_ms": 196060,
-      "name": "Like No One's Watching",
-      "url": "https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m"
     }
   ],
   "unique_name": "SALT",

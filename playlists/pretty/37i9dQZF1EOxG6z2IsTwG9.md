@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOxG6z2IsTwG9.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOxG6z2IsTwG9.md) - [plain]
 | 15 | [Call You Mine](https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:37 |
 | 16 | [How Do You Solve a Problem Like the Chainsmokers?](https://open.spotify.com/episode/5VtZYkM0BvU5mYT1JHbQVi) | [Popcast](https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp) | [Popcast](https://open.spotify.com/album/3ugDIELXIU7erW5Xp49tWp) | 49:21 |
 | 17 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
-| 18 | [Episode 1 \- Nicki Minaj Interview](https://open.spotify.com/episode/2SYw6KFlPdAMIhaoyZ1ySd) | [Big Fendi Podcast](https://open.spotify.com/show/112EVXIsGkRTysrFnqiReg) | [Big Fendi Podcast](https://open.spotify.com/album/112EVXIsGkRTysrFnqiReg) | 28:00 |
-| 19 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 |
-| 20 | [Kiwi Country episode 10: Georgia interviewed her favourite artist Sam Hunt](https://open.spotify.com/episode/1EtBek0IrN2es9VCrnP5Df) | [Kiwi Country with Georgia Burt](https://open.spotify.com/show/3P4YElmUk0q81OhVnUmdqX) | [Kiwi Country with Georgia Burt](https://open.spotify.com/album/3P4YElmUk0q81OhVnUmdqX) | 18:20 |
+| 18 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 |
+| 19 | [Kiwi Country episode 10: Georgia interviewed her favourite artist Sam Hunt](https://open.spotify.com/episode/1EtBek0IrN2es9VCrnP5Df) | [Kiwi Country with Georgia Burt](https://open.spotify.com/show/3P4YElmUk0q81OhVnUmdqX) | [Kiwi Country with Georgia Burt](https://open.spotify.com/album/3P4YElmUk0q81OhVnUmdqX) | 18:20 |
 
 Snapshot ID: `AZiurgAAAACk0vzvepxyoN4i6dyrKDkP`

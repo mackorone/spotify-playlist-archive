@@ -464,12 +464,12 @@
       },
       "artists": [
         {
-          "name": "Ignaz Friedman",
-          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
-        },
-        {
           "name": "Christoph Willibald Gluck",
           "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Ignaz Friedman",
+          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
         },
         {
           "name": "Joseph Banowetz",
@@ -480,7 +480,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256706,
-      "name": "Don Juan: Gavotte (arr. I. Friedman for piano)",
+      "name": "Don Juan: Gavotte (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/26YgtK8rGK29G8YufZy2cg"
     },
     {
@@ -854,10 +854,6 @@
       },
       "artists": [
         {
-          "name": "Ignaz Friedman",
-          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
-        },
-        {
           "name": "Christoph Willibald Gluck",
           "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
         },
@@ -870,7 +866,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238893,
-      "name": "Orfeo ed Euridice: Ballet des Ombres Heureuses (arr. I. Friedman for piano)",
+      "name": "Orfeo ed Euridice, Wq. 30: Ballet des ombres heureuses (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/0xjo5BCyGhUtO5N8hz1Rbx"
     },
     {

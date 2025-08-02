@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: C\u0153ur De Pirate",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Les Trois Accords",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -416,6 +416,24 @@
       "duration_ms": 186818,
       "name": "Chasing Sunsets (V.F)",
       "url": "https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve"
+    },
+    {
+      "album": {
+        "name": "Check-list (Live)",
+        "url": "https://open.spotify.com/album/5ULUEBoDcQ46gqiC0N3Bix"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210882,
+      "name": "Check-list - Live",
+      "url": "https://open.spotify.com/track/6vOGXSX4w14pIAgQCEpb5K"
     },
     {
       "album": {
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 190942,
       "name": "Jouer pour jouer",
       "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 185120,
       "name": "La f\u00eate - Radio Edit",
       "url": "https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2"
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 170875,
       "name": "N\u00e9vrose (Radio Edit)",
       "url": "https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb"
@@ -2873,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Toujours les vacances",
+        "url": "https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198342,
+      "name": "Toujours les vacances",
+      "url": "https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM"
+    },
+    {
+      "album": {
         "name": "Tous ces doutes",
         "url": "https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD"
       },
@@ -3188,6 +3228,28 @@
       "duration_ms": 196146,
       "name": "\u00c0 quand les vacances",
       "url": "https://open.spotify.com/track/0TAzgVxTwP1cCPzkzyNsUU"
+    },
+    {
+      "album": {
+        "name": "\u00c0 quoi \u00e7a sert",
+        "url": "https://open.spotify.com/album/2GWhOoUucN8TIpmKmTaKh9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129444,
+      "name": "\u00c0 quoi \u00e7a sert",
+      "url": "https://open.spotify.com/track/1X1jHwpaEoFSAldrDyg2AO"
     },
     {
       "album": {

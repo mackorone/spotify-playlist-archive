@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 196833,
       "name": "Green in Colorado",
       "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
@@ -4916,6 +4916,24 @@
       "duration_ms": 291796,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah"
+    },
+    {
+      "album": {
+        "name": "American Grin",
+        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "High Country",
+      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
     },
     {
       "album": {
@@ -9018,7 +9036,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 217899,
       "name": "Running out of Time",
       "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
@@ -9886,7 +9904,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 179645,
       "name": "Starting Over Again",
       "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"

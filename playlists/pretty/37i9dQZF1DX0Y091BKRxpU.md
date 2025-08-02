@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y091BKRxpU.md) - [plain]
 
 > the sound of retribution, according to Zoë Kravitz\. Inspired by the film Blink Twice\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,254 likes - 28 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,307 likes - 28 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y091BKRxpU.md) - [plain]
 | 27 | [My Way](https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 5:14 |
 | 28 | [Never Too Late](https://open.spotify.com/track/6UmyFEmXBEFxrrpoz8rIM1) | [Nat Turner Rebellion](https://open.spotify.com/artist/4fOeUqO6hyPt3njfQRX175) | [Laugh To Keep From Crying](https://open.spotify.com/album/4rKDgc5ciCDtb9wXgtdyVV) | 3:28 |
 
-Snapshot ID: `AAAAAICxgWxSeMYMfIH6zkzIxyzey1Bn`
+Snapshot ID: `Ztnu3AAAAADgLLhugBN/mr2ATnjTtl50`

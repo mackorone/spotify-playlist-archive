@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Aditya Bhardwaj,  and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Gini, Bharath,  and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1896,6 +1896,24 @@
       "duration_ms": 197010,
       "name": "Baarish Aayi Hai",
       "url": "https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF"
+    },
+    {
+      "album": {
+        "name": "Baarish Mein Phir",
+        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176954,
+      "name": "Baarish Mein Phir",
+      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
     },
     {
       "album": {
@@ -8200,7 +8218,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 247499,
       "name": "into the mind",
       "url": "https://open.spotify.com/track/4idQOMJrZsLKmk1yBxIwA7"
@@ -14356,7 +14374,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 206337,
       "name": "Mujhe Bhool Na Jaana",
       "url": "https://open.spotify.com/track/4g2SYiEMqvMKO762SjEWLh"
@@ -14720,6 +14738,28 @@
       "duration_ms": 218666,
       "name": "Na Tha Woh Pyaar",
       "url": "https://open.spotify.com/track/6LwZHHF4DDTZH3ZKlSkcsy"
+    },
+    {
+      "album": {
+        "name": "Naadaani",
+        "url": "https://open.spotify.com/album/7um0giE1r9FRuboEWF48j0"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244405,
+      "name": "Naadaani",
+      "url": "https://open.spotify.com/track/0QNBk6UmE2uOUNdEsGpe7R"
     },
     {
       "album": {
@@ -15250,7 +15290,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 169000,
       "name": "Neelay",
       "url": "https://open.spotify.com/track/6ZPaQqzRwPcPmsha5bxMwt"
@@ -17724,6 +17764,28 @@
       "duration_ms": 221101,
       "name": "Saath Tera",
       "url": "https://open.spotify.com/track/0BtFEVSLYcnRyf6y05fCED"
+    },
+    {
+      "album": {
+        "name": "Saavn",
+        "url": "https://open.spotify.com/album/4J8yqVTWRjmNCzhq1wfVQd"
+      },
+      "artists": [
+        {
+          "name": "Rahul U",
+          "url": "https://open.spotify.com/artist/5BrVcsZNGTh62EBgi8vFrA"
+        },
+        {
+          "name": "Gaurav Chati",
+          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Saavn",
+      "url": "https://open.spotify.com/track/7o2QVDRY62FA4IB9xpL7CV"
     },
     {
       "album": {
@@ -20999,6 +21061,24 @@
     },
     {
       "album": {
+        "name": "Tootay",
+        "url": "https://open.spotify.com/album/490IlXwyYJctauX9KyTjRC"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188830,
+      "name": "Tootay",
+      "url": "https://open.spotify.com/track/6liPuxu4mdKY7vNH7bEIAG"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/2G2aVBRrND8oS64kXRoz79"
       },
@@ -21722,7 +21802,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 221333,
       "name": "Tujhe Dekhun Toh (From \"Samaaj - Dance Narrative\")",
       "url": "https://open.spotify.com/track/6nMbTSuTPMA2hjPvzpKRMF"

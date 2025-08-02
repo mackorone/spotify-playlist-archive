@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 | 24 | [All the Boys and Girls, Pt.1 : Birdman](https://open.spotify.com/track/0WWJ0yEzhV4pi4HhpWnKhI) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:45 |
 | 25 | [All the Boys and Girls, Pt.2 : The Rainbow](https://open.spotify.com/track/10htpc8BrZf6augsM7jKLg) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 4:56 |
 
-Snapshot ID: `aIMPcAAAAADuDA/yK9UlOKC6Z5aGTEMl`
+Snapshot ID: `AAAAACox0gwuXo9XUpSPb7xrM1GD6Fn7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,261 likes - 48 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,630 likes - 48 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 28 | [Creio](https://open.spotify.com/track/1hmQQV9wOhpqSBHkNlHv3H) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Creio](https://open.spotify.com/album/3bpFbR0KESbR9JcUzTdpPn) | 5:51 |
 | 29 | [Sonhos](https://open.spotify.com/track/2ZJAPocWxXLSEs0bdcz8rZ) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Sonhos](https://open.spotify.com/album/2DOc4PDIVGHe7A5CnznXXe) | 4:16 |
 | 30 | [A Graça Que Ele Dá](https://open.spotify.com/track/7zzvoXAX60oGMYe1NKf4ys) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/4jDrOYKEoSU1LI7Ruy6y79) | 10:59 |
-| 31 | [Bondade de Deus](https://open.spotify.com/track/03aPuIf6qtM9QKQJO1hALs) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Bondade de Deus](https://open.spotify.com/album/10eUgvi9JegRMcuio6kNLi) | 6:11 |
+| 31 | [Bondade de Deus \- Ao Vivo](https://open.spotify.com/track/03aPuIf6qtM9QKQJO1hALs) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Bondade de Deus \(Ao Vivo\)](https://open.spotify.com/album/10eUgvi9JegRMcuio6kNLi) | 6:11 |
 | 32 | [Vem Habitar](https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp) | [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Filho do Homem](https://open.spotify.com/album/6Jpo32Eydd58JyX8HzA0b1) | 7:09 |
 | 33 | [Respira Bem Fundo \- Ao Vivo](https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Respira Bem Fundo \(Ao Vivo\)](https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti) | 3:51 |
 | 34 | [Chega de Errar Pra Aprender \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/3HEaCaeu9X6de1xaRFqrL2) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Ao Vivo em São Paulo \(Deluxe Edition\)](https://open.spotify.com/album/58CBT8LIp34Npq9CZFGQfw) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Ink Waruntorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,787 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,861 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 4 | [คนจริงใจ \(feat\. พงศ์ พัทลุง, ปู่จ๋าน ลองไมค์ & Lamyai Haitongkam\)](https://open.spotify.com/track/3PRRNMQUjnFbZhvtPd37F3) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [พงศ์ พัทลุง](https://open.spotify.com/artist/5qNjSZ0y0Z9qqP1DFC5fnc), [ปู่จ๋าน ลองไมค์](https://open.spotify.com/artist/23YWwPEvaO5HLqEMgiUXJa), [Lamyai Haitongkam](https://open.spotify.com/artist/2JERRcsJmtVhbc9uTH7h4t) | [Fate Ωmega](https://open.spotify.com/album/1vnKkFW0EK0ihTX5Z912ca) | 4:23 |
 | 5 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 |
 | 6 | [ทุกการเติบโตของเธอจะมีฉันคอยซัพพอร์ตเสมอ](https://open.spotify.com/track/4U38O9pdKGcqKwnoo500pg) | [FULL](https://open.spotify.com/artist/33qb8ygOiyswUe29Dv5FRE) | [ทุกการเติบโตของเธอจะมีฉันคอยซัพพอร์ตเสมอ](https://open.spotify.com/album/4w8jrwZXcPv7fol2mFi91A) | 4:25 |
-| 7 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
+| 7 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 8 | [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/track/1RqIK2jRjU8IrscMQnHZ20) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG), [Zeal](https://open.spotify.com/artist/6f1tNwK04d6t8jFSOXGvrY) | [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/album/6iXYUaarDAnZH5j9rJwtSA) | 4:16 |
 | 9 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 |
 | 10 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |

@@ -1,13 +1,29 @@
 {
   "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: Counting Crows",
-  "num_followers": 25712,
+  "num_followers": 25731,
   "original_name": "Jupiter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIaAAAAAC3IlNqapb6tlDoCoM+52WO",
+  "snapshot_id": "AAAAAPUiZwl3vPtZug7/ZC7ySadbY9rY",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
+        "name": "Not Goodbye (Close My Eyes)",
+        "url": "https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Not Goodbye (Close My Eyes)",
+      "url": "https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG"
+    },
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {

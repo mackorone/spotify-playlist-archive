@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,866 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 141 | [Song of Hope](https://open.spotify.com/track/1dmeyJAk6ZJO5GkhWlvT0c) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 3:15 |
 | 142 | [Initiation II \- Wonder Why](https://open.spotify.com/track/6DPsM1517owfAw93lmTcaD) | [Sophye Soliveau](https://open.spotify.com/artist/3CNkbU1JbbStMaufusgDwq) | [INITIATION](https://open.spotify.com/album/3o05G0qAuiOeYFmC5xHwcc) | 8:20 |
 | 143 | [Moon River](https://open.spotify.com/track/1zjAvCQ0ipeeZKnJ1euepz) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole](https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx) | 3:37 |
-| 144 | [Reve doux](https://open.spotify.com/track/5PtxUTKh3aoBpj4kH9qlEV) | [Lorraine Desmarais](https://open.spotify.com/artist/6DJJrLxCg3xsl9F8QHLNd0) | [Berceuses pour Philou](https://open.spotify.com/album/37sKoHuMDogH4pcBtZ2Hej) | 3:48 |
+| 144 | [Rêve doux](https://open.spotify.com/track/5PtxUTKh3aoBpj4kH9qlEV) | [Lorraine Desmarais](https://open.spotify.com/artist/6DJJrLxCg3xsl9F8QHLNd0) | [Berceuses pour Philou](https://open.spotify.com/album/37sKoHuMDogH4pcBtZ2Hej) | 3:48 |
 | 145 | [Like in Love](https://open.spotify.com/track/3l3E6BoyvEjQyLF1aihHpY) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Day Moon](https://open.spotify.com/album/6dDHz5rBxYsismfabRNfbm) | 6:06 |
 | 146 | [Nobody's Here](https://open.spotify.com/track/5T1gtsipWDif1Uehm0D4Ko) | [Taurey Butler](https://open.spotify.com/artist/4Y6KKYAVP5qjB5v4V4IQFQ) | [Taurey Butler](https://open.spotify.com/album/2aaqqeGYwWD9kDbMVaq68V) | 5:56 |
 | 147 | [Them](https://open.spotify.com/track/0nR9BbQWUSg1luBlqi7W2v) | [Allison Au](https://open.spotify.com/artist/25XuR6QuBWO91XfANGJxrt), [The Migrations Ensemble](https://open.spotify.com/artist/1o2iIfoQLcmtX5lmk3E5yP), [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I) | [Migrations](https://open.spotify.com/album/7vci4pmrk4YwfTMhUgTnoW) | 3:51 |

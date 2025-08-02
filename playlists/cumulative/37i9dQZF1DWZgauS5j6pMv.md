@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-483 songs - 1 day 4 hr 16 min
+484 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Scorpio](https://open.spotify.com/track/6gD4AWNqv0ek0YV6CZRmDk) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Gustavo Celis](https://open.spotify.com/artist/3QfafF1S7GGMIsVilQ9Z9q) | [Scorpio](https://open.spotify.com/album/3A7vRQIuCJeQRey5PMvC5m) | 2:52 | 2023-04-14 | 2024-01-13 |
 | [Sepricon](https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Sepricon](https://open.spotify.com/album/7E49Txc4y7PCfbjDPl5Ctp) | 3:14 | 2023-12-08 |  |
 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 | 2022-07-01 | 2024-03-02 |
-| [Sexy!](https://open.spotify.com/track/3YX2f5qwFaoTaEpQu2zSoK) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Sexy!](https://open.spotify.com/album/2ioqM4ixub516lz78HjzuL) | 3:05 | 2023-04-28 |  |
+| [Sexy!](https://open.spotify.com/track/3YX2f5qwFaoTaEpQu2zSoK) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Sexy!](https://open.spotify.com/album/2ioqM4ixub516lz78HjzuL) | 3:05 | 2023-04-28 | 2025-08-02 |
 | [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 | 2023-01-06 | 2023-02-04 |
 | [Shoot My Shot](https://open.spotify.com/track/3GMh9TOiMjsojknjG9V2SJ) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Shoot My Shot](https://open.spotify.com/album/6XZimSaFBcnGbhKjBVm3vF) | 4:18 | 2021-07-02 | 2022-07-16 |
 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 | 2021-08-06 | 2023-01-24 |
@@ -433,6 +433,7 @@
 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-16 |  |
 | [To The Death](https://open.spotify.com/track/2q6ufQzqSn4Cr26hJhvQiW) | [DK the Drummer](https://open.spotify.com/artist/0idL9ZMTGh1E5UqxgQKAEe), [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [To The Death](https://open.spotify.com/album/4UAMvlxdpmvec0fQMEh4J5) | 3:50 | 2022-10-28 | 2023-04-29 |
 | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/track/4U7WNGITP6pP6xahNsvzaI) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/album/5ucp6xSvkJMNfwRT9Sc5Uh) | 3:27 | 2025-01-31 |  |
+| [Too Much Redbone](https://open.spotify.com/track/7wx4ytRBrhqBxGgci6f4Tl) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Too Much Redbone](https://open.spotify.com/album/2NMBNG4RPq85eMItMjQqfc) | 3:05 | 2025-08-01 |  |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-10 |  |
 | [Trust Me](https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Trust Me](https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX) | 3:05 | 2022-02-25 | 2022-11-26 |
 | [Try \(Rework\)](https://open.spotify.com/track/6QlbAS3CdT8IgvFMUs5A04) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L), [SoundKid](https://open.spotify.com/artist/2hMyfhXffc8i7BJjZHZWvt) | [Try \(Rework\)](https://open.spotify.com/album/6tg2NnY0qWlPW5Z6w3Jxrg) | 3:06 | 2023-08-11 |  |

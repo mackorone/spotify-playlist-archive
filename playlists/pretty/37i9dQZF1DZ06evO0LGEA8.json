@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 287885,
+  "num_followers": 287967,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIlggAAAAADeWzze+5knnyn/RNz0Ij9O",
+  "snapshot_id": "aIqyAAAAAABrRnzFsq5v2JSj9yY656N1",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Donde Se Pueda, Vol. 2",
         "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 310800,
       "name": "Si Tuviera Una Fortuna",
       "url": "https://open.spotify.com/track/4WYsUSOCVNPloM1hZ8bcwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danzando Con Demonios",
         "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 205007,
       "name": "Cuchillo en la Yugular",
       "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 264176,
-      "name": "El Borracho Y La Ruca",
-      "url": "https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 245562,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "El Borracho Y La Ruca",
+      "url": "https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3"
     },
     {
       "added_at": null,

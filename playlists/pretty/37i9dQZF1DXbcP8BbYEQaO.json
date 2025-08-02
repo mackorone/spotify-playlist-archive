@@ -1,13 +1,45 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276669,
+  "num_followers": 276662,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOeGeI/zfB3mSj4zmQd7Aec282xK",
+  "snapshot_id": "AAAAABNp//3KPvJFRMGKLz7Pz8YY2IWR",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:32",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
+    },
+    {
+      "added_at": "2025-08-01 04:00:32",
+      "album": {
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "DON\u2019T LOOK AT ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS"
+    },
     {
       "added_at": "2025-07-18 04:33:22",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 234000,
       "name": "needle and thread",
       "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
+    },
+    {
+      "added_at": "2025-08-01 04:00:32",
+      "album": {
+        "name": "milk & honey",
+        "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 173027,
+      "name": "ur gf",
+      "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
     },
     {
       "added_at": "2025-07-11 04:00:19",
@@ -505,22 +553,6 @@
       "url": "https://open.spotify.com/track/3qo55kZpzioiSTdJH6KRng"
     },
     {
-      "added_at": "2025-04-11 04:00:28",
-      "album": {
-        "name": "beautiful chaos",
-        "url": "https://open.spotify.com/album/7pTdim3GDqoir1ifWjMbzH"
-      },
-      "artists": [
-        {
-          "name": "Dani Sylvia",
-          "url": "https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "beautiful chaos",
-      "url": "https://open.spotify.com/track/3rIHz1wTpUNfpF5VaDsaAz"
-    },
-    {
       "added_at": "2025-03-28 04:00:35",
       "album": {
         "name": "Keep M\u00f8ving",
@@ -551,22 +583,6 @@
       "duration_ms": 252180,
       "name": "1/17",
       "url": "https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC"
-    },
-    {
-      "added_at": "2025-04-11 04:00:28",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG"
-      },
-      "artists": [
-        {
-          "name": "Marged",
-          "url": "https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0"
-        }
-      ],
-      "duration_ms": 226046,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -619,22 +635,6 @@
       "duration_ms": 243008,
       "name": "In Love With A Memory",
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "Dancing In The Dark",
-        "url": "https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6"
-      },
-      "artists": [
-        {
-          "name": "KATMORE",
-          "url": "https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C"
     },
     {
       "added_at": "2025-01-03 18:36:29",

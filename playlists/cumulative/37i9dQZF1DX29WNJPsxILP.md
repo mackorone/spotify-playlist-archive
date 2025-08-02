@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Jasmine Sandlas & Raga
+> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-265 songs - 13 hr 30 min
+266 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dooriyaan](https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [Rum, Racks & Roses](https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu) | 3:46 | 2024-12-06 |  |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-08 | 2024-12-21 |
 | [Drifta](https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [DAKSH](https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH) | [Drifta](https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV) | 2:46 | 2023-11-17 | 2023-11-30 |
+| [Dubai Company](https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Dubai Company](https://open.spotify.com/album/6zesrJdInqftcOiyfF2Tdy) | 3:09 | 2025-08-01 |  |
 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 |  |
 | [Ep\. 2 \- Medusa Sedusa](https://open.spotify.com/track/3hV7Gs5MYYP9vB0Vmmsny5) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Freeverse Friday 2.0 \(Side A\)](https://open.spotify.com/album/0hhtkjhrujSauKMc8JTZ4q) | 1:02 | 2025-05-09 | 2025-07-12 |
 | [F.D.P](https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0) | [F.D.P](https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB) | 2:54 | 2024-09-30 | 2024-12-21 |
@@ -242,7 +243,7 @@
 | [Terey papa](https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Naala Paar](https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB) | 3:04 | 2025-01-31 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 | 2024-02-09 |
 | [The Last Talk](https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH) | [The Singh](https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14) | [The Last Talk](https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm) | 3:00 | 2025-01-31 |  |
-| [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2025-01-06 |  |
+| [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2025-01-06 | 2025-08-02 |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2025-01-06 |  |
 | [Top Off](https://open.spotify.com/track/2xDEnSLBxi2CRq2SlA17g6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 3:01 | 2023-03-10 | 2024-06-06 |
 | [Trap Munde](https://open.spotify.com/track/4WNVwvCmgaCFHHqyeVC6bG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Trap Munde](https://open.spotify.com/album/4GoytwqrUeVVLyPbagKJ85) | 4:01 | 2023-03-10 | 2024-08-27 |

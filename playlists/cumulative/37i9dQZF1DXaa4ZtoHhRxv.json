@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 138813,
       "name": "Do Si Do (feat. Blanco Brown)",
       "url": "https://open.spotify.com/track/4vAvloma2hNHnD2M9vLSH0"
@@ -1880,10 +1880,6 @@
         {
           "name": "ZEVY",
           "url": "https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk"
-        },
-        {
-          "name": "Abbey Carey",
-          "url": "https://open.spotify.com/artist/1vxbHJICggtUJiwY6dH0zX"
         }
       ],
       "date_added": "2025-06-27",
@@ -3776,6 +3772,28 @@
       "duration_ms": 188296,
       "name": "Should Have Known Better - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/72Q1OOQcBFbEW69iJDKGyN"
+    },
+    {
+      "album": {
+        "name": "Should've Been A Cowboy (VAVO Remix)",
+        "url": "https://open.spotify.com/album/3bMgpITNt77XGg4dKVb2Fi"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205031,
+      "name": "Should've Been A Cowboy - VAVO Remix",
+      "url": "https://open.spotify.com/track/3dhv6Ng961tNRvX9LNJz9y"
     },
     {
       "album": {

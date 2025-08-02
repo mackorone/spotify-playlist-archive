@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-576 songs - 1 day 8 hr 48 min
+577 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 | 2023-07-25 |
 | [Life Of Yazhini](https://open.spotify.com/track/2pkkLWCSG2IRDfVGhSpUkN) | [Sharmili Karunanidhi](https://open.spotify.com/artist/4wnqsHyWxP8ajpAVas50Ir), [Velayutham Rajendran](https://open.spotify.com/artist/1A9IIruHS11OyCCw8Jzg50), [Giant Music India](https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb) | [Life Of Yazhini](https://open.spotify.com/album/57OYYcYQ61pTSH2mVnnbzN) | 3:17 | 2024-09-18 | 2024-12-24 |
 | [Love Aala](https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ) | [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Love Aala](https://open.spotify.com/album/1qqnd5lZvHXYftKidVNbIp) | 2:47 | 2023-11-20 | 2024-04-19 |
+| [Love in Sicily \(Bachata\)](https://open.spotify.com/track/66VbX8HElTghcaGM4Ev0kZ) | [Arun Pauer](https://open.spotify.com/artist/1nXfmyX8X7x8meYQKiUsYp) | [Love in Sicily \(Bachata\)](https://open.spotify.com/album/4YGfCWD6eXUNshsYpxi68y) | 2:33 | 2025-08-01 |  |
 | [Love is in the Air](https://open.spotify.com/track/5D9EkbGjkhJ6lDmwputr7Q) | [Thajmola](https://open.spotify.com/artist/361xEllKxAW0hPs2wEtGzV), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Love is in the Air](https://open.spotify.com/album/1MzLOn8o3xNWqe8TdIjtT6) | 3:04 | 2025-04-01 | 2025-06-04 |
 | [Love Meter](https://open.spotify.com/track/6IGhRREqgIPISI2PYWWoMT) | [NIlan Ratnarajah](https://open.spotify.com/artist/71omujW4dIU5qSEcDJWGYF), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Love Meter](https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X) | 3:13 | 2023-03-21 | 2023-07-27 |
 | [Love Music](https://open.spotify.com/track/6eAndPkRqAOrvVd01wg9LF) | [Rejoy](https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA), [Beaulah Jeni](https://open.spotify.com/artist/6Uf6u12bC3D1qAEsYAnifH) | [Love Music](https://open.spotify.com/album/0h65C4dCFkyDspKG4xvtfy) | 3:56 | 2023-11-14 | 2024-07-30 |

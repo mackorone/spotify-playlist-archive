@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Wet Leg
+> Explore all things indie rock right now\. Featuring music from Geese
 
-1,964 songs - 4 day 14 hr 41 min
+1,969 songs - 4 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,6 +1153,7 @@
 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-01-19 | 2024-03-30 |
 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-07 | 2022-05-24 |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-01-17 | 2025-03-22 |
+| [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:24 | 2025-08-01 |  |
 | [Misery](https://open.spotify.com/track/0kGpg2RuSoevcA16TN49Sw) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Misery](https://open.spotify.com/album/4gduKjwL0MTX6l0S15nx8E) | 3:48 | 2025-06-20 |  |
 | [Miss City Babe](https://open.spotify.com/track/4hwqxqopB2geuDQUsoqHzU) | [Prince of Eden](https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N) | [Miss City Babe](https://open.spotify.com/album/3fdVGhYegFRVLAZ38qpAMG) | 3:28 | 2024-10-25 | 2025-02-15 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 | 2024-03-30 |
@@ -1759,6 +1760,7 @@
 | [Time Will Tell](https://open.spotify.com/track/33uNft3G3o89mb01FSqOVI) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [Time Will Tell](https://open.spotify.com/album/3VwnSIGxjF7LNCzX2qNn8A) | 3:53 | 2023-07-14 | 2023-10-28 |
 | [TIME&PLACE](https://open.spotify.com/track/7I2SSOnol8GMtxP9kFojdW) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [TIME&PLACE](https://open.spotify.com/album/7GagREZar3joLD8XRgilsP) | 2:53 | 2023-02-10 | 2023-03-18 |
 | [Timeline](https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 5:32 | 2024-05-17 | 2024-06-29 |
+| [title track](https://open.spotify.com/track/44le4BrKMnInp31FcssDKq) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [title track](https://open.spotify.com/album/6Gty6tYasFRCx1Cxk2ocIs) | 2:24 | 2025-08-01 |  |
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-24 | 2023-07-15 |
 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 | 2023-05-19 | 2023-07-15 |
 | [To Keep Sane in the Dark](https://open.spotify.com/track/23tsQgyGHxGZjHM8uWe9v5) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Tailing the Ghost](https://open.spotify.com/album/4YQK8n667dDoNfeHnjHqtz) | 3:34 | 2025-06-20 |  |
@@ -1789,6 +1791,8 @@
 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-10-11 | 2025-02-08 |
 | [tough love](https://open.spotify.com/track/2wFmtAhnsyiGkvqV229rfJ) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [tough love](https://open.spotify.com/album/2RpKR1VeJvE8ELL0OdTmbz) | 3:12 | 2022-09-30 | 2022-11-19 |
 | [Tough Season](https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Two Things at Once](https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl) | 2:53 | 2024-03-22 | 2024-06-15 |
+| [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-01 |  |
+| [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-08-01 |  |
 | [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 | 2024-06-14 | 2024-07-27 |
 | [Trippin'](https://open.spotify.com/track/4bHGdLpbsGSwhif13wixh8) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Trippin'](https://open.spotify.com/album/2ZIHFkknjewZZskM8GizUm) | 2:32 | 2022-04-01 | 2022-07-02 |
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-06-07 | 2022-04-21 |
@@ -1953,6 +1957,7 @@
 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 | 2025-04-11 | 2025-07-12 |
 | [Year Of The Spider](https://open.spotify.com/track/5pSTwad8BxVN8nbYggPWmp) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/1wIt68VvP4DjmCztavomtX) | 2:30 | 2021-06-18 | 2022-04-12 |
 | [YEARS WASTED](https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [YEARS WASTED](https://open.spotify.com/album/2Vmq3WW4nYoa6mxE4LjVbX) | 2:24 | 2022-02-11 | 2022-05-17 |
+| [YELLOW PLUTO](https://open.spotify.com/track/1YwTX6uxwqcmjmd5lkJVwg) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [YELLOW PLUTO](https://open.spotify.com/album/5Cvjs4ViEkN16xNDWFYJqn) | 1:42 | 2025-08-01 |  |
 | [Yellowish Sunbeam](https://open.spotify.com/track/4NH8w4K6EBhXPwwmaACILV) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Permanent Pleasure \(Deluxe\)](https://open.spotify.com/album/51kq5TG31lDlnH7IGfMnYR) | 3:02 | 2025-04-11 | 2025-07-12 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2021-06-09 | 2022-06-11 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 | 2024-08-31 |

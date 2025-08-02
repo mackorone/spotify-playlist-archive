@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> Margaret Qualley is having a main pop girl emergency 🆘
+> Slayyyter is having a main pop girl emergency 🆘
 
-1,388 songs - 2 day 21 hr 33 min
+1,393 songs - 2 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [BE A GOOD BOY](https://open.spotify.com/track/56XbcLHPO6x9dcuHZX7CAt) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [UGLY CRIER \(DELUXE\)](https://open.spotify.com/album/57wbjTPvriburxWMxacPHS) | 2:44 | 2024-03-08 | 2024-05-03 |
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-08-05 | 2022-09-17 |
 | [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 | 2023-07-21 | 2023-08-19 |
+| [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-08-01 |  |
 | [Beautiful \- Benny Benassi Remix](https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Stripped \- 20th Anniversary Edition](https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw) | 3:35 | 2022-10-21 | 2022-12-03 |
 | [Beautiful Pain](https://open.spotify.com/track/2CyXbAFkyMncGNTglxgIXc) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Beautiful Pain](https://open.spotify.com/album/5HjWJHX5hP4O9WkCI1Htbb) | 2:53 | 2024-05-24 | 2024-06-22 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-25 | 2022-08-27 |
@@ -389,6 +390,7 @@
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-18 | 2025-01-18 |
 | [Fantasy Girl](https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Fantasy Girl](https://open.spotify.com/album/4AIOpQIz2coSkRGqdGC6z1) | 4:08 | 2023-05-19 | 2023-08-19 |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-07-01 |
+| [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 | 2025-08-01 |  |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-11 | 2024-01-13 |
 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 | 2023-07-01 |
 | [Favorite Song](https://open.spotify.com/track/60YopQ98tANNxnfFiFQ25V) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Favorite Song](https://open.spotify.com/album/7AZ9cHrmuaLDq58YdLX6rG) | 2:33 | 2024-04-12 | 2024-05-18 |
@@ -697,6 +699,7 @@
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-06-23 | 2023-09-16 |
 | [Kiss Bang Bang](https://open.spotify.com/track/14uiy2lSlMhiNS0905yUfP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:27 | 2024-10-18 | 2025-01-04 |
+| [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 | 2025-08-01 |  |
 | [KISS KISS BANG BANG](https://open.spotify.com/track/1WgutIzbZGASLWT2ADT4zc) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [KISS KISS BANG BANG](https://open.spotify.com/album/2XZX04VOvAveKTzoEEbLPE) | 3:12 | 2024-04-13 | 2024-06-08 |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-09-29 | 2024-01-27 |
 | [Kiss Me Better](https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Kiss Me Better](https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy) | 2:40 | 2024-03-01 | 2024-06-01 |
@@ -1166,6 +1169,7 @@
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-21 | 2022-12-17 |
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 | 2024-02-17 |
 | [Superhuman](https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Superhuman](https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0) | 3:08 | 2024-07-19 | 2024-08-10 |
+| [SUPERMODEL](https://open.spotify.com/track/1uBDtTFTVRAOn5nym9ukI0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [SUPERMODEL](https://open.spotify.com/album/3dWL8EMY0Slh1IwTaBAhUm) | 2:53 | 2025-08-01 |  |
 | [SUPERNOVA](https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ) | [LEONI](https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp) | [SUPERNOVA](https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj) | 2:19 | 2024-02-26 | 2024-05-08 |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 | 2025-04-12 |
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-25 | 2025-04-05 |
@@ -1254,6 +1258,7 @@
 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 | 2023-04-14 | 2023-06-24 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-18 | 2022-05-20 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat](https://open.spotify.com/album/08DAekBeqPRCsn3XHDwj6b) | 4:05 | 2023-01-06 | 2023-03-18 |
+| [TITS OUT](https://open.spotify.com/track/56RMAqQ9kPsKColsqZ6xPo) | [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [TITS OUT](https://open.spotify.com/album/3na1fyYQ4UgU3tWfvzBbY2) | 2:42 | 2025-08-01 |  |
 | [Tokyo Drifting](https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt) | [ChiChi](https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Tokyo Drifting](https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi) | 2:55 | 2024-12-13 | 2025-02-15 |
 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 | 2023-07-22 |
 | [Tongues](https://open.spotify.com/track/2gl9u4SJLK4U8FZi8gDkZk) | [Mel 4Ever](https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Tongues](https://open.spotify.com/album/2ZDbWXifVnejR82e2K8vn9) | 3:15 | 2024-01-19 | 2024-05-25 |

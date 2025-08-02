@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: The Favors\n",
-  "num_followers": 85926,
+  "num_followers": 85952,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHiyUsA9uWaX4TwT6O++9iLoovoP",
+  "snapshot_id": "aIzZrAAAAAAEg9qW9G5fDBy8w1sPX4nB",
   "tracks": [
     {
       "added_at": "2025-07-11 04:00:22",
@@ -31,6 +31,22 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2025-08-01 15:13:48",
+      "album": {
+        "name": "HEARTLAND",
+        "url": "https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 244930,
+      "name": "HEARTLAND",
+      "url": "https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -85,6 +101,22 @@
       "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
     },
     {
+      "added_at": "2025-08-01 04:00:27",
+      "album": {
+        "name": "When The Truth Comes Out / Little Red Ranger",
+        "url": "https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "When The Truth Comes Out",
+      "url": "https://open.spotify.com/track/4g0TfaBIbVymM94f0I4DYo"
+    },
+    {
       "added_at": "2025-07-11 04:00:22",
       "album": {
         "name": "Bowling alley",
@@ -117,6 +149,22 @@
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
     },
     {
+      "added_at": "2025-08-01 04:00:27",
+      "album": {
+        "name": "Canaries in a Coal Mine",
+        "url": "https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 217229,
+      "name": "Canaries in a Coal Mine",
+      "url": "https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs"
+    },
+    {
       "added_at": "2025-07-11 04:00:22",
       "album": {
         "name": "I Saw The Mountains",
@@ -131,6 +179,22 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2025-08-01 04:00:27",
+      "album": {
+        "name": "Somebody Nobody Gets Over",
+        "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 167808,
+      "name": "Somebody Nobody Gets Over",
+      "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -291,6 +355,22 @@
       "duration_ms": 239500,
       "name": "Lasting Effects",
       "url": "https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA"
+    },
+    {
+      "added_at": "2025-08-01 04:00:27",
+      "album": {
+        "name": "happy ending",
+        "url": "https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL"
+      },
+      "artists": [
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "happy ending",
+      "url": "https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -1007,30 +1087,6 @@
     {
       "added_at": "2025-07-11 04:00:22",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        },
-        {
-          "name": "Jake Etheridge",
-          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
-        },
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 187787,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
         "name": "Some Kind Of Evil",
         "url": "https://open.spotify.com/album/0P4ipvwRRsWX3Lg76jMCnt"
       },
@@ -1163,22 +1219,6 @@
     {
       "added_at": "2025-07-11 04:00:22",
       "album": {
-        "name": "think about it",
-        "url": "https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "think about it",
-      "url": "https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
       },
@@ -1239,22 +1279,6 @@
       "duration_ms": 190998,
       "name": "If I Had Never Lost My Mind...",
       "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "committed to a bit",
-        "url": "https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "joke's on me",
-      "url": "https://open.spotify.com/track/3NqWqrlLhDVUdy9andNGYM"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -1479,22 +1503,6 @@
     {
       "added_at": "2025-07-11 04:00:22",
       "album": {
-        "name": "forgive",
-        "url": "https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 288465,
-      "name": "forgive",
-      "url": "https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
         "name": "Weathervane",
         "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
       },
@@ -1643,26 +1651,6 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        },
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV"
     },
     {
       "added_at": "2025-07-11 04:00:22",

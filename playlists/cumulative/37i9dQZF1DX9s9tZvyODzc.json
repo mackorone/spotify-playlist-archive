@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
@@ -2025,6 +2025,32 @@
     },
     {
       "album": {
+        "name": "La Crudita",
+        "url": "https://open.spotify.com/album/1kgvVvsrdhptO5gnEgVzMg"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "La Crudita",
+      "url": "https://open.spotify.com/track/1Z78e6BqTIQV2f2AgNRqGa"
+    },
+    {
+      "album": {
         "name": "La Gente",
         "url": "https://open.spotify.com/album/1SSPHLOjXMvtdghdC3fVof"
       },
@@ -2416,7 +2442,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 192786,
       "name": "Los Tontos",
       "url": "https://open.spotify.com/track/4DoEHKWh8k6vYDleECQkJx"
@@ -3047,6 +3073,42 @@
     },
     {
       "album": {
+        "name": "Otro D\u00eda en la Oficina",
+        "url": "https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259643,
+      "name": "Otro D\u00eda en la Oficina",
+      "url": "https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW"
+    },
+    {
+      "album": {
+        "name": "Paciencia",
+        "url": "https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315828,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq"
+    },
+    {
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -3134,7 +3196,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"

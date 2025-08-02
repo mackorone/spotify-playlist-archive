@@ -4,7 +4,7 @@
 
 > 
 
-430 songs - 1 day 4 hr 39 min
+431 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Contact High](https://open.spotify.com/track/4MwubKmGFxTUG8tyDik3Ux) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO), [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Contact High](https://open.spotify.com/album/0k4IKWG6ACOV5V1llFIafr) | 3:03 | 2024-05-29 | 2024-08-15 |
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-08 | 2023-07-14 |
 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-05-18 | 2023-09-16 |
+| [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 | 2025-08-01 |  |
 | [Corporate Shakespeare](https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Corporate Shakespeare](https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p) | 2:38 | 2024-05-07 | 2024-06-01 |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2023-09-22 | 2024-05-16 |
 | [D I M C O L A R E P R I S E](https://open.spotify.com/track/6rJIVu8JB1VidJByUq9X5s) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Tone Whitfield](https://open.spotify.com/artist/3rFywXk12krXVmxWJpfvo5), [Nazir Ebo](https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI) | [Salami Live at 2131 North Kacey Street](https://open.spotify.com/album/5cCjXLC4g27F75oBa5Sg4A) | 8:50 | 2024-09-18 | 2025-01-16 |

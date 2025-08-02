@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,568 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 23 | [Eu Te Amo](https://open.spotify.com/track/39qHq4F57ofEH1fJ2bTcfa) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Eu Te Amo](https://open.spotify.com/album/6Rc5ob967SqlQaSZDTD5SD) | 1:53 |
 | 24 | [PURA POSE](https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PURA POSE](https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3) | 3:06 |
 | 25 | [alguien como tú](https://open.spotify.com/track/0xmqY23pIPnEI7jydmC5SY) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:08 |
-| 26 | [BAD CHOICE](https://open.spotify.com/track/5Cjo2bRK9A2ZyPcjh6YlVq) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:00 |
-| 27 | [Un Taxi al Infierno](https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 4:34 |
+| 26 | [Un Taxi al Infierno](https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 4:34 |
+| 27 | [BAD CHOICE](https://open.spotify.com/track/5Cjo2bRK9A2ZyPcjh6YlVq) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:00 |
 | 28 | [EL DÍA QUE ME MUERA](https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [EL DÍA QUE ME MUERA](https://open.spotify.com/album/1OSkaCg5Cao9MjjLxURlLq) | 2:57 |
 | 29 | [CVNT](https://open.spotify.com/track/1JPyyFMQAODcWD53qsDB8e) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [CVNT](https://open.spotify.com/album/1xdZIZ6R58n0NpfyFZ3Gte) | 2:08 |
 | 30 | [WET](https://open.spotify.com/track/3dpX7Et3qhEyqlwj039Bg3) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5), [CHITA](https://open.spotify.com/artist/5sdeMtRl6ln2PAG5Aw2N92) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 3:19 |

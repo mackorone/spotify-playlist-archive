@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Latrelle, 22simba, Sad e KIID, Abby 6ix e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,028 likes - 121 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,053 likes - 121 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 9 | [SERVER \(feat\. thasup, Ghali\)](https://open.spotify.com/track/6L4YpjLGD3rN5TVZdr0Ykd) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:48 |
 | 10 | [Amore & Odio](https://open.spotify.com/track/3GzWHXqq7Dd25CEByUFQdF) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Amore & Odio](https://open.spotify.com/album/6UUeGa0joX7k3AI0SwibYr) | 1:46 |
 | 11 | [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/track/2cqHzyO2PpcTypROv6PkRz) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [N u b i D i F u m o \(feat\. Davìdd\)](https://open.spotify.com/album/03QfUQ2UG2bE9II9kQEuOI) | 3:00 |
-| 12 | [SNITCH](https://open.spotify.com/track/7Lcv5Rv11O4jUB3Jg9swlk) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep) | [IL SENSO DEL FUMO \(Vol.2\)](https://open.spotify.com/album/3zkFh2NHGq6QOrbAa7PF1t) | 2:01 |
-| 13 | [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 |
+| 12 | [SNITCH](https://open.spotify.com/track/7Lcv5Rv11O4jUB3Jg9swlk) | [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Volta](https://open.spotify.com/artist/42lHANs4mX9viD3VW6G7LK) | [IL SENSO DEL FUMO \(Vol.2\)](https://open.spotify.com/album/3zkFh2NHGq6QOrbAa7PF1t) | 2:01 |
+| 13 | [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9), [143 Kore](https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 |
 | 14 | [VISCERALMENTE](https://open.spotify.com/track/5riRml8TLcGBqC5tti5zbM) | [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1), [LUKINO](https://open.spotify.com/artist/22kfw0RRFxCDP9v5Vt79y3) | [VISCERALMENTE](https://open.spotify.com/album/4mBHW4i094zsxqpx88QmUs) | 2:01 |
 | 15 | [LA DANZA DELLA PIOGGIA](https://open.spotify.com/track/1RE8TQtYWjrmneYXghV7MM) | [Occhiaia 47](https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm) | [LA DANZA DELLA PIOGGIA](https://open.spotify.com/album/6dWPYygp0lxLaumgEFxvoE) | 2:17 |
 | 16 | [COS’HAI PRESO \(feat\. Faneto\)](https://open.spotify.com/track/4EKtRoS01budBmn5VT7rPT) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:09 |

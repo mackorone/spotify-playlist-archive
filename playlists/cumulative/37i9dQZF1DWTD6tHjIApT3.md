@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 『ユイカ』Yuika
 
-3,244 songs - 8 day 15 hr 9 min
+3,245 songs - 8 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2095,6 +2095,7 @@
 | [まだまだ](https://open.spotify.com/track/15w9N478HMYK5VFFIZmRvh) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [まだまだ](https://open.spotify.com/album/5lUhwAwhZUuEmX72owXKBr) | 3:58 | 2023-04-04 | 2023-04-12 |
 | [まだ会えてないのに \- Prod.上野大樹](https://open.spotify.com/track/628GmSA7GYmZWgxMYO1PMS) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [まだ会えてないのに \(Prod.上野大樹\)](https://open.spotify.com/album/0LBt3aYmultj4Jm7MhP0gO) | 4:13 | 2022-08-02 | 2022-08-06 |
 | [まだ早い果物](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 | 2024-06-18 | 2024-07-05 |
+| [まだ知らないストーリー](https://open.spotify.com/track/1nWoECQI4VPMk6EjttmP1G) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [まだ知らないストーリー](https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i) | 3:29 | 2025-07-29 |  |
 | [まちぶせ](https://open.spotify.com/track/3BAh94NVGTACS763sV5fmt) | [hana\*hana](https://open.spotify.com/artist/7K5CN6zysGLqtsYT1XSVqM) | [Good Song Laboratory](https://open.spotify.com/album/6r0XlVSFysEYsJmEkVRHFD) | 3:49 | 2024-08-06 | 2024-09-04 |
 | [まっしろ](https://open.spotify.com/track/1UROqDjIRx4Hqk7rDzzVDg) | [しなの椰惠](https://open.spotify.com/artist/0YJZTnahX8UVUKMW4FwXIo) | [まっしろ](https://open.spotify.com/album/5AY2E5KuaCh1I52oSBd4cv) | 4:13 | 2022-06-30 | 2022-07-28 |
 | [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
@@ -2897,7 +2898,7 @@
 | [月とあたしと冷蔵庫](https://open.spotify.com/track/1XfAxeKW95E69GNd3FyaOX) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 5:29 | 2024-02-13 | 2024-03-06 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-18 | 2022-11-11 |
 | [月に吠える](https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月に吠える](https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV) | 4:25 | 2022-05-29 | 2022-09-07 |
-| [月に願う](https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [月に願う](https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym) | 2:38 | 2025-07-08 |  |
+| [月に願う](https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [月に願う](https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym) | 2:38 | 2025-07-08 | 2025-08-02 |
 | [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 | 2023-12-07 |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-06-21 |
 | [月は今でも明るいが](https://open.spotify.com/track/64iq9RkRASwf2W6UDZzUPS) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [月は今でも明るいが](https://open.spotify.com/album/5JKyex0alhL1zW3TyvW3Yj) | 3:53 | 2022-08-23 | 2022-08-31 |

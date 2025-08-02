@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-237 songs - 12 hr 9 min
+238 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Part of Your World](https://open.spotify.com/track/0dRJyiEdzeHyX06nifP0jI) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 4:10 | 2022-04-15 |  |
 | [Part of Your World](https://open.spotify.com/track/0DpenaOtMhXNrBGI3BpIaN) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Romance](https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi) | 2:57 | 2023-01-12 | 2023-01-21 |
 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 | 2023-08-25 |  |
+| [Pregnancy Testing 1, 2, 3](https://open.spotify.com/track/0Og2yLid9BMCcNy7P9Q2gj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 1:58 | 2025-08-01 |  |
 | [Proud of Your Boy](https://open.spotify.com/track/74kyZs3EDdJjWeTY2vPesG) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:59 | 2022-04-15 |  |
 | [Puff The Magic Dragon \- Instrumental](https://open.spotify.com/track/1bFx9DWBFy1U7o7Dd6IQcU) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:04 | 2022-04-15 |  |
 | [Puppy Dog Pals Main Title Theme](https://open.spotify.com/track/6MYrDeDsucEUvKAN2slOl7) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |

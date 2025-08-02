@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Gentle Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,063 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 2 | [I Will Walk With You](https://open.spotify.com/track/3HuJ6oAT59odQ58Gt6yKpP) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [I Will Walk With You](https://open.spotify.com/album/5PpVPnco3ZrjGJNO81fFmT) | 3:52 |
 | 3 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 |
 | 4 | [“唱歌學中文”之千言萬語 \- 電音版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/track/0muITJd21wrFpKiWN2icEI) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 電音版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/0z4kDCpyK3jlMZ62iGIFTn) | 3:33 |
-| 5 | [Home in Our Hands](https://open.spotify.com/track/5q0q7CrMrAYvkRRPMOXzSH) | [Dreyy ♡](https://open.spotify.com/artist/0hoGmEMoEeap2VqHCtPSVu), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [m37a](https://open.spotify.com/artist/6C18JxKH8qakjYNnPQ7UP6) | [Home in Our Hands](https://open.spotify.com/album/4tS7Yt4MfKFWNgvoRbYlCE) | 4:03 |
+| 5 | [Home in Our Hands](https://open.spotify.com/track/5q0q7CrMrAYvkRRPMOXzSH) | [Dreyy ♡](https://open.spotify.com/artist/0hoGmEMoEeap2VqHCtPSVu), [m37a](https://open.spotify.com/artist/6C18JxKH8qakjYNnPQ7UP6), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Home in Our Hands](https://open.spotify.com/album/4tS7Yt4MfKFWNgvoRbYlCE) | 4:03 |
 | 6 | [SINGAPU\-RAH \(feat\. OmarKENOBI\)](https://open.spotify.com/track/16NyMOZoVzRegAjJmiX9fn) | [CODE RAID](https://open.spotify.com/artist/223py9KzJiBSrDmpTHHXDd), [OmarKENOBI](https://open.spotify.com/artist/6tyWHsrN1ximnTg5SmQgYr) | [SINGAPU\-RAH \(feat\. OmarKENOBI\)](https://open.spotify.com/album/52csv01KvOML5JQW05EiDH) | 2:41 |
 | 7 | [but hey](https://open.spotify.com/track/3WbDM4ek8gURCLcMNbTkAM) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [but hey](https://open.spotify.com/album/0lxKhD5VTD6wyVzsvgj8kN) | 3:55 |
 | 8 | [云瑶（逆水寒云瑶流派宣传曲）](https://open.spotify.com/track/5HPNiohD7iXHya5JTMaYec) | [逆水寒](https://open.spotify.com/artist/4fimUX8gF9oHYHsRJNcEuF), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [云瑶（逆水寒云瑶流派宣传曲）](https://open.spotify.com/album/2ivKxoNNSPVJ7m45SgMnto) | 3:07 |

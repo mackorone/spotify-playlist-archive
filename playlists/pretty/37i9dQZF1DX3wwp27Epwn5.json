@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 226358,
+  "num_followers": 226445,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Zinda",
+      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 187710,
       "name": "Kar Gayi Chull",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
-        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Zinda",
-      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -999,34 +999,6 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
-        "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
-      },
-      "artists": [
-        {
-          "name": "Chandana Dixit",
-          "url": "https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Anand-Milind",
-          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
-        }
-      ],
-      "duration_ms": 267416,
-      "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
-      "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
         "name": "Raaj Karega Maalik (From \"Maalik\")",
         "url": "https://open.spotify.com/album/2GXcgpRrljLATgccVhdiCJ"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 216300,
       "name": "Raaj Karega Maalik (From \"Maalik\")",
       "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
+        "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
+        "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
+      },
+      "artists": [
+        {
+          "name": "Chandana Dixit",
+          "url": "https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        }
+      ],
+      "duration_ms": 267416,
+      "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
+      "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
         "name": "Bom Diggy - Single",
         "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 207692,
       "name": "Bom Diggy",
       "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
-        "name": "Nawabzaade",
-        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "High Rated Gabru",
-      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -1243,26 +1243,22 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
       },
       "artists": [
         {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+      "duration_ms": 260053,
+      "name": "Aai Paapi",
+      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
     }
   ],
   "unique_name": "Bollywood Workout",

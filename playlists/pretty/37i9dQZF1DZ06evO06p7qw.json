@@ -1,13 +1,33 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 181682,
+  "num_followers": 181748,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIlggAAAAAAGOrZrCDczjlCLbNbmDEU8",
+  "snapshot_id": "aIqyAAAAAADdidTKocOLt8wNCteaUY/v",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorarte Mil Veces",
+        "url": "https://open.spotify.com/album/6dV0Zc2j7ZcxP4vukqmvxj"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 171943,
+      "name": "Enamorarte Mil Veces",
+      "url": "https://open.spotify.com/track/1XmJsXTKeaw51buHrbaqDM"
+    },
     {
       "added_at": null,
       "album": {

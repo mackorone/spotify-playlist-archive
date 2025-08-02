@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,808 likes - 114 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,838 likes - 114 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 31 | [Lucha de gigantes \- En Vivo](https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Lucha de gigantes \(En Vivo\)](https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su) | 4:48 |
 | 32 | [La flor](https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [La flor](https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY) | 2:57 |
 | 33 | [las ramas](https://open.spotify.com/track/1VADn46hFBYDxs7eegvOAd) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [anónimo](https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y) | 3:01 |
-| 34 | [Esta Piel \- 10 años de Canciones](https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Esta Piel \(10 años de Canciones\)](https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ) | 3:32 |
+| 34 | [Esta Piel \- 10 Años de Canciones](https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Esta Piel \(10 Años de Canciones\)](https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ) | 3:32 |
 | 35 | [La frontera](https://open.spotify.com/track/6yDm3MB05w5abgb8MYZAUn) | [Porto](https://open.spotify.com/artist/1AiEOgwte8Uf207KWuGnbM) | [La frontera](https://open.spotify.com/album/2Bzhbf3SANpXAmYY5HmVfj) | 3:36 |
 | 36 | [Tiempo de descuento](https://open.spotify.com/track/6Pc63BRtECeyeJdBUhAKBd) | [Luzía](https://open.spotify.com/artist/5QfzdMOVjnsL7nlxQhep6K) | [Tiempo de descuento](https://open.spotify.com/album/06jIKpFZIel4EaPa1aGu6W) | 3:32 |
 | 37 | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/track/4tQonpIXaqmukiUcuAUTpl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/album/7umpLqi5gRIDPh0MpVyGfn) | 3:27 |

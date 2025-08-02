@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Joel L, Sexmane monelta muulta!
 
-7,138 songs - 15 day 16 hr 5 min
+7,140 songs - 15 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3586,7 +3586,7 @@
 | [LOST IN HELSINKI](https://open.spotify.com/track/2md71HetFo4yKHSGV0XHBN) | [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [LOST IN HELSINKI](https://open.spotify.com/album/2PVjui6Z3vtCJS9sgBATz7) | 2:57 | 2025-01-09 | 2025-01-17 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-05-30 | 2024-06-07 |
 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 | 2024-08-15 | 2024-08-23 |
-| [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Elma](https://open.spotify.com/artist/7HDNms3tNyYRGZjGrf8tzW) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 | 2025-07-31 |  |
+| [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 | 2025-07-31 |  |
 | [Lost Out](https://open.spotify.com/track/34EMjSw9fkA3e4DW34KTwv) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [Lost Out](https://open.spotify.com/album/5uT6bjgMA60AbvsygtQ96S) | 3:11 | 2025-07-17 | 2025-07-25 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-06 | 2025-02-14 |
 | [Los​​ing](https://open.spotify.com/track/1thKJQhqOpkOXiwMAB3xYm) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Los​​ing](https://open.spotify.com/album/6ANRjmHs0tkRDJRpnUtuSV) | 4:05 | 2024-08-15 | 2024-08-23 |
@@ -5792,6 +5792,7 @@
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-24 | 2024-11-01 |
 | [SUPERSONIC](https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [SUPERSONIC](https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH) | 2:46 | 2025-02-27 | 2025-03-07 |
 | [SUPERSTARA](https://open.spotify.com/track/0zS2KTwPveld4paqTQRbWr) | [Räpfaija](https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD) | [SUPERSTARA](https://open.spotify.com/album/2cdsMu7QQSmfaWl4vNVgPx) | 3:12 | 2024-06-13 | 2024-06-21 |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-05-23 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Surreal Life](https://open.spotify.com/track/1IPF9V9Z3TXghBqNivjRbh) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [Connection](https://open.spotify.com/album/0LhxjgOnRUPclhMwHfA5RQ) | 3:48 | 2024-06-27 | 2024-07-05 |
@@ -6156,6 +6157,7 @@
 | [These Scars Won't Define Us](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 | 2024-11-14 | 2024-11-22 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-02 | 2024-05-10 |
 | [They Turn into Ghosts](https://open.spotify.com/track/78hXC9muYVwK95xFiWcLfw) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [They Turn Into Ghosts](https://open.spotify.com/album/7x64asG9RtbTCO8Pguty4u) | 2:51 | 2025-01-23 | 2025-01-31 |
+| [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 | 2025-08-01 |  |
 | [They Wanna See Me](https://open.spotify.com/track/239J9xvfJsdmvWMSk3vib5) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [They Wanna See Me](https://open.spotify.com/album/6gs4sadslEIdT9taav0Uby) | 3:07 | 2024-07-04 | 2024-07-12 |
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-06 | 2025-02-14 |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-03 | 2024-10-11 |

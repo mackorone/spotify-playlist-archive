@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Algu\u00e9m T\u00e3o Jovem",
+        "url": "https://open.spotify.com/album/7yh5RuS3QyKzCyD0pyeuZF"
+      },
+      "artists": [
+        {
+          "name": "Pitter",
+          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
+        },
+        {
+          "name": "Can\u00e7\u00e3o Nova",
+          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237904,
+      "name": "Algu\u00e9m T\u00e3o Jovem",
+      "url": "https://open.spotify.com/track/2kDQcjXYguMdJmbpIUxYYx"
+    },
+    {
+      "album": {
         "name": "Banquete Eterno",
         "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
       },
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 258560,
       "name": "Decididamente",
       "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"

@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "A Peso",
+        "url": "https://open.spotify.com/album/0oR3DhtQhFrBzu85muMDYI"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "A Peso",
+      "url": "https://open.spotify.com/track/2FpB6JGNUf52YCtMrLqvDy"
+    },
+    {
+      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
@@ -1368,10 +1390,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 164552,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf"
+    },
+    {
+      "album": {
+        "name": "La Primera Vez (Version Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1gEnLYLsmiTbhf0i8POu9P"
+      },
+      "artists": [
+        {
+          "name": "El Esparza",
+          "url": "https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178652,
+      "name": "La Primera Vez (Version Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7uNdIFP6ca3zfg5wuLdUDV"
     },
     {
       "album": {
@@ -1556,7 +1596,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 242074,
       "name": "MALDITO ALCOHOL",
       "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"

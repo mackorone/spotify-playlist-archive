@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "HEARTLAND",
+        "url": "https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244930,
+      "name": "HEARTLAND",
+      "url": "https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq"
+    },
+    {
+      "album": {
         "name": "Heaven On My Mind",
         "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 171509,
       "name": "MAKE IT OUT ALIVE",
       "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"

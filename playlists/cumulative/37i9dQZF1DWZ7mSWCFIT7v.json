@@ -3389,6 +3389,32 @@
     },
     {
       "album": {
+        "name": "Image of You",
+        "url": "https://open.spotify.com/album/2Q7U980j3l9ACcw4zRDeap"
+      },
+      "artists": [
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        },
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        },
+        {
+          "name": "m.e.h.",
+          "url": "https://open.spotify.com/artist/34qZFVOVlhAXCN4ZNB9CQQ"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277508,
+      "name": "Image of You",
+      "url": "https://open.spotify.com/track/3Q2NYGJZI7UIl7cXmr2BRQ"
+    },
+    {
+      "album": {
         "name": "Meraki",
         "url": "https://open.spotify.com/album/5ebn8HfgQHwsayoTMcdYVW"
       },
@@ -8084,7 +8110,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 208309,
       "name": "Xai",
       "url": "https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs & The Alchemist",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 243347,
       "name": "055",
       "url": "https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 242462,
       "name": "BEST SERVED COLD (feat. NEMS)",
       "url": "https://open.spotify.com/track/0zlkzlpHjhS3MOlc2wBxte"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 225902,
       "name": "Danger Danger (with Swizz Beatz, Pusha T & Jadakiss)",
       "url": "https://open.spotify.com/track/6WiIoG4iuSebXWYi7C9o1L"
@@ -5290,6 +5290,32 @@
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Feeling (feat. Larry June)",
+      "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
       "album": {
@@ -7340,7 +7366,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 154466,
       "name": "I Been",
       "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
@@ -8702,7 +8728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 265480,
       "name": "Lead Paint Test",
       "url": "https://open.spotify.com/track/63oDzRnXuU311GvzWKJFVn"
@@ -8790,6 +8816,28 @@
       "duration_ms": 196420,
       "name": "Lemon (feat. Method Man)",
       "url": "https://open.spotify.com/track/6NYfMOaLFdYDv5dfAdrpsZ"
+    },
+    {
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Lemon Pepper Steppers",
+      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
     },
     {
       "album": {
@@ -11466,7 +11514,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "OUTLANDER",
       "url": "https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9"
@@ -13525,6 +13573,24 @@
     },
     {
       "album": {
+        "name": "Se7enteen5ive",
+        "url": "https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181831,
+      "name": "Se7enteen5ive",
+      "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
+    },
+    {
+      "album": {
         "name": "Sega",
         "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
       },
@@ -13668,7 +13734,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 182440,
       "name": "Shangri La",
       "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
@@ -15370,7 +15436,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 228895,
       "name": "Take Me To The Sunlight",
       "url": "https://open.spotify.com/track/7zuX45tWq2zdwe4LHeScKR"
@@ -15536,7 +15602,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 192976,
       "name": "Tears Over Rose Petals",
       "url": "https://open.spotify.com/track/0kxuIM64CXSvX3Mwfyjwx1"

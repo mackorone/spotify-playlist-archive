@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Willa Owen",
-  "num_followers": 218838,
+  "description": "Discover the next wave of talent writing their own songs. Cover: fliss",
+  "num_followers": 218898,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/G3ORgLBcGROrh67HKmaasBFZZ",
+  "snapshot_id": "aIw73AAAAAB61vGGl9buxLp1lMvbaP2n",
   "tracks": [
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "coming around",
+        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
+      },
+      "artists": [
+        {
+          "name": "fliss",
+          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "coming around",
+      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
+    },
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
     },
     {
-      "added_at": "2025-07-25 04:00:58",
+      "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "coming around",
-        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
+        "name": "Never Notice",
+        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
       "artists": [
         {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
         }
       ],
-      "duration_ms": 222840,
-      "name": "coming around",
-      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
+      "duration_ms": 238466,
+      "name": "Never Notice",
+      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
     },
     {
       "added_at": "2025-07-18 04:00:21",
@@ -71,6 +87,22 @@
       "duration_ms": 195651,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Bellissima",
+        "url": "https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx"
+      },
+      "artists": [
+        {
+          "name": "Leah Dong",
+          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
+        }
+      ],
+      "duration_ms": 247955,
+      "name": "Bellissima",
+      "url": "https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch"
     },
     {
       "added_at": "2025-07-11 04:00:17",
@@ -135,6 +167,22 @@
       "duration_ms": 215955,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Overboard",
+        "url": "https://open.spotify.com/album/5qadLX0c9e3jauPPlI0WWz"
+      },
+      "artists": [
+        {
+          "name": "Madds Buckley",
+          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
+        }
+      ],
+      "duration_ms": 192591,
+      "name": "Overboard",
+      "url": "https://open.spotify.com/track/3RyHooc6Lg3OYgjP9zygkj"
     },
     {
       "added_at": "2025-07-21 01:57:39",
@@ -783,22 +831,6 @@
     {
       "added_at": "2025-05-09 04:00:04",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA"
-      },
-      "artists": [
-        {
-          "name": "colby!",
-          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
-        }
-      ],
-      "duration_ms": 208563,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
         "name": "Castle",
         "url": "https://open.spotify.com/album/4Xlh9COlVebZI24fodiVSq"
       },
@@ -811,22 +843,6 @@
       "duration_ms": 191219,
       "name": "Castle",
       "url": "https://open.spotify.com/track/4B6irprsslV13IM1nr0QoR"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "Driving Backwards",
-        "url": "https://open.spotify.com/album/3AzgjMcUjnXhK7yV4epzEq"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 145527,
-      "name": "Ruined",
-      "url": "https://open.spotify.com/track/2NinkPppZ8hpTg6UabxfCz"
     },
     {
       "added_at": "2025-05-09 04:00:04",
@@ -891,22 +907,6 @@
       "duration_ms": 198522,
       "name": "Horror Movie",
       "url": "https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp"
-    },
-    {
-      "added_at": "2025-03-28 04:00:47",
-      "album": {
-        "name": "going under",
-        "url": "https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa"
-      },
-      "artists": [
-        {
-          "name": "Ali Wolv",
-          "url": "https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "going under",
-      "url": "https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn"
     },
     {
       "added_at": "2025-03-21 04:57:38",

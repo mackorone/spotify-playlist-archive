@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,130 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,240 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [FESS](https://open.spotify.com/track/0Fwt1oFYOY2lr8yL1TSakW) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [DJ Digital](https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN), [Missié Kako](https://open.spotify.com/artist/33pRUkEpPPUZQdnNAih6Q9), [Jodecie Guapo](https://open.spotify.com/artist/4OBa5dMNn81z8HSw1c6NGp) | [FESS](https://open.spotify.com/album/75l57hIBNO0rrWqBj2GohA) | 1:46 |
 | 50 | [Fou Le Bordel](https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e) | [Alyssa](https://open.spotify.com/artist/56CuEF8lZebCc0uzFQrGLD), [Noelia](https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i), [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV), [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8) | [Fou Le Bordel](https://open.spotify.com/album/0uxpr8jsQoXlHK6KUc6vxP) | 2:18 |
 
-Snapshot ID: `aIKs/QAAAABtWxjD7G+/xfnETSU7Tuod`
+Snapshot ID: `AAAAABjYrcHuzTtG7JTkwC2HmqjpVLVt`

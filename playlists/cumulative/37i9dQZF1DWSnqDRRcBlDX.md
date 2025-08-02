@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-257 songs - 22 hr 59 min
+258 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Valhalla Calling](https://open.spotify.com/track/191oCOOnYfoMrZ9JN2o7f1) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Hope in Darkness](https://open.spotify.com/album/0DiQzmDqvy5fAO76Zu1t69) | 6:03 | 2022-12-02 | 2023-10-07 |
 | [Verknipt Nochmal \- Original Mix](https://open.spotify.com/track/2bQ7rn3w44TEIqgO9wEuQN) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Verknipt Nochmal](https://open.spotify.com/album/3S7kPwcwvXMpHozZBK4Q86) | 5:42 | 2024-06-20 | 2025-05-17 |
 | [Vertigo](https://open.spotify.com/track/3o9Tz0t3qvXVRr8Q48lKf5) | [Gustav:s](https://open.spotify.com/artist/1rZDkbng4oXyepztgThmQ5) | [Vertigo](https://open.spotify.com/album/3A7o8IgLInBCSsWoD4ildO) | 5:20 | 2023-01-27 | 2023-10-07 |
+| [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head Remix](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 | 2025-08-01 |  |
 | [Waste My Time](https://open.spotify.com/track/3TI50jItmrgVCgsxe391XV) | [Dusk Records](https://open.spotify.com/artist/5hvmQoWcFYePjpth31O8qx), [ECZODIA](https://open.spotify.com/artist/3EYdIeVPZ8IXT0Uiq7h0R2) | [DUSK VA010 \(POLISHED ECHOES\)](https://open.spotify.com/album/0nwI48NY0xVtWGFwxNXS3K) | 4:48 | 2023-10-06 |  |
 | [We Both Lost](https://open.spotify.com/track/2MVpbHw9fKYXi0hcYpjdUF) | [B2](https://open.spotify.com/artist/0vpOUJDr3cALJ5AiRFdv2S) | [Heavy Machine](https://open.spotify.com/album/10zEodY1CT4TKevzj78lm4) | 5:36 | 2022-12-02 | 2023-10-07 |
 | [West Coast Love](https://open.spotify.com/track/6IdsEMXOA9i8efy41OlFB4) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [RCKLSS006](https://open.spotify.com/album/44g3plYDtTn9MB3FTjvkrc) | 6:12 | 2023-01-27 | 2023-10-07 |

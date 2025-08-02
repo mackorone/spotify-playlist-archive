@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 296803,
       "name": "Follow",
       "url": "https://open.spotify.com/track/42DWH94DHBMQLJChi2PYh1"
@@ -9110,6 +9110,28 @@
       "duration_ms": 385436,
       "name": "Running (feat. Meg Myers) - Extended Mix",
       "url": "https://open.spotify.com/track/2T5lAs95i1Gx6FjYYJZ1zr"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8"
     },
     {
       "album": {

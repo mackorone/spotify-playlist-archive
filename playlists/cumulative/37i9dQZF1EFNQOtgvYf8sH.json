@@ -364,6 +364,28 @@
     {
       "album": {
         "name": "USB",
+        "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/2vOjCXKZ5kcbmzOJ1ylT1h"
+    },
+    {
+      "album": {
+        "name": "USB",
         "url": "https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7"
       },
       "artists": [
@@ -378,7 +400,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-02",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/34vzTHRwW8Im0Rkim8IJGs"
